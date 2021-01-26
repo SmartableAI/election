@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q30X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q30X"
 type: article
 quality: 125
-heat: 785
+heat: 805
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/a532de0afb04181abd9a25cda0dcf991957441ca/0_400_5388_3233/master/5388.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d21f86f37352f4a80e66672d0ed3244d"
         width: 600
         height: 360
+        isCached: true
+  - title: "Lawyer group: Trump adds ex-prosecutor to impeachment team"
+    excerpt: "Donald Trump is adding another attorney from South Carolina to his impeachment legal team: a former federal prosecutor-turned-defense attorney who specializes in white-collar crime"
+    publishedDateTime: 2021-01-26T08:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d5306b2cfcd64cb696a6ddf36ddcb3b2_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump leaves behind a Republican Party both broken and still in his grip"
     excerpt: "Will Republicans purge the worst of what he has brought to their coalition or will Trump maintain his influence even after he is out of office?"

@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Roberts doesn't want to preside over Trump’s second impeachment trial: Schumer"
+    excerpt: "U.S. Supreme Court Chief Justice John Roberts is not interested in presiding over another Senate impeachment trial against former President Trump, Senate Majority Leader Chuck Schumer said in an interview Monday night."
+    publishedDateTime: 2021-01-26T06:59:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i-aKmGsglTs/roberts-doesnt-want-to-preside-over-trumps-second-impeachment-trial-schumer"
+    ampWebUrl: "https://www.foxnews.com/politics/roberts-doesnt-want-to-preside-over-trumps-second-impeachment-trial-schumer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roberts-doesnt-want-to-preside-over-trumps-second-impeachment-trial-schumer.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Live Updates: Trump's chances for acquittal in upcoming Senate impeachment trial unclear"
     excerpt: "Fox News contacted every Republican who will be serving as a senator after President-elect Joe Biden's inauguration on January 20, when the trial is likely to begin."
     publishedDateTime: 2021-01-15T06:05:37Z

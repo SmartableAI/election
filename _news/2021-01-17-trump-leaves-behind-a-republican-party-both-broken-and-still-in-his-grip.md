@@ -175,6 +175,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Lawyer group: Trump adds ex-prosecutor to impeachment team"
+    excerpt: "Donald Trump is adding another attorney from South Carolina to his impeachment legal team: a former federal prosecutor-turned-defense attorney who specializes in white-collar crime"
+    publishedDateTime: 2021-01-26T08:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d5306b2cfcd64cb696a6ddf36ddcb3b2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "House to send Trump impeachment article to Senate on Monday, Schumer says"
     excerpt: "House Speaker Nancy Pelosi plans to send the article of impeachment against Donald Trump to the Senate on Monday."
     publishedDateTime: 2021-01-22T15:58:00Z

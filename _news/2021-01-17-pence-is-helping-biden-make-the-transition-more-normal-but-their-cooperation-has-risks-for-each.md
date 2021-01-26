@@ -2449,6 +2449,20 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 83
+  - title: "How to get a 6-figure job lobbying the Biden administration and Congress, according to 5 government relations pros"
+    excerpt: "Professional political influencers share tips for landing a job as a lobbyist, working with the Biden administration and Congress."
+    publishedDateTime: 2021-01-26T08:15:00Z
+    webUrl: "https://www.businessinsider.com/how-to-get-job-lobbying-lobbyist-washington-congress-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/5faa1901f7d1cb0019e3ab49?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tom Hanks Hosted Inauguration Special Sees Comparison of Joe Biden, Donald Trump Supporters"
     excerpt: "An inauguration special for Joe Biden has drawn comparisons to the kind of celebrities who are showing support for him over Donald Trump."
     publishedDateTime: 2021-01-14T17:50:00Z

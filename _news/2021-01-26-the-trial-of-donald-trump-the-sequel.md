@@ -262,6 +262,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "House managers deliver impeachment article against Trump, kicking off trial preparations"
+    excerpt: "The House will deliver its article of impeachment against former President Donald Trump to the Senate on Monday, kicking off preparations for the upcoming trial. House impeachment managers will hold a procession ceremony through National Statuary Hall and the Capitol Rotunda to the Senate on Monday evening to present the article of impeachment to the secretary of the Senate."
+    publishedDateTime: 2021-01-26T07:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/house-deliver-trump-impeachment-article-senate-kicking-trial-preparations-n1255598"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 106
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_04/3444939/210125-impeachment-managers-walk-2x1-ac-709p_750778eb5786deaeb72090970f882a90.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xl85a7SlNUpirJCoAvhoAYXCZt+TOXJfEvB0SLHaN8jqY2ntijXI4oB6DLSg9I7VQyW0VnwDWpDa/KAPKYXgmFT3+OsV5tVmPVgIwVLscHHojKmM2ZbyzeP9yfQDb0wuLRG2n0+1Q0o71Qx3Zt5K+tDKlylTrSyWqXoBTj7FDPU63KUcAVM4CimlLXh3kx6f0GCve7RKFdfeHtSlHJu9TMsZ0fK5hcd0e/HcQTQ1JSIfrmBKJrvpkJjfMdyZpVIppIW2JT5jRxq449yXg7bhXcQn5UryR+xIFzU7AY1bYPSx3eIuC9PqULDBf+fFEhxc9di8znnsUF/19et+uagYB1YjB64p/5+jr16EpgwBbL9ek+ieZsxBlD4PmqnaIDRp31MOAUDsLXaQ2a3gO71S623c+eP5QD3+o7Q+e8f0PPfcYuv4imPlRU/1MEr9gBRpt5Ti8+1o9ttGbbuqbog6c7p46+M0SiJgjEp1/G+V8jgWNbecuzChhalH5v2QDfO3onSLLqFDqNzH5nl5Ceuniw==;HdWu7uEe+nWyFHAHTYbklQ=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Fact Check: Ted Nugent shared but did not write ‘letter to Biden’ that went viral"
+title: "Fact check: Ted Nugent shared but did not write ‘letter to Biden’ that went viral"
 excerpt: "Social media posts, shared thousands of times, show a text attributed to Ted Nugent which is addressed to President Joe Biden that says: “This Trump supporter will be giving you the same respect you gave my President Trump."
-publishedDateTime: 2021-01-25T18:18:00Z
-originalUrl: "https://www.reuters.com/article/uk-factcheck-ted-nugent-biden/fact-check-ted-nugent-shared-but-did-not-write-letter-to-biden-that-went-viral-idUSKBN29U21R"
-webUrl: "https://www.reuters.com/article/uk-factcheck-ted-nugent-biden/fact-check-ted-nugent-shared-but-did-not-write-letter-to-biden-that-went-viral-idUSKBN29U21R"
+publishedDateTime: 2021-01-25T23:24:00Z
+originalUrl: "https://www.reuters.com/article/uk-factcheck-ted-nugent-biden-idUSKBN29U21R"
+webUrl: "https://www.reuters.com/article/uk-factcheck-ted-nugent-biden-idUSKBN29U21R"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U21R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U21R"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "yt/5eccN0yMYu7FvVbBixcysA7MaAKVyb3AM2JX0mIiFHEv/1GEVpXS9c4nNW2OPlVkeHo17VPeUvYDuZxR2GXdu80DZJBhsb2JgtTgsq66vdmL4ai10t8GpUF4VeqbC2Hmwn9DXVH/8ceg3LKAcdVEyetTAbdSAiPRzhiz9ZinivzyMTy87ti1Ivf/fk9bOXCQ2cUl4/M0ua42UoahnOnZ7Jz2QTnUS2CL9BLPMxJhsfv0GEuUJDkZk7L7RohN+KcTIBkYbeWqZ5OuYlclkOXqPPUUD2jO+wIv/g4w8/UQ4sRflgkcZas8uT1vni8cMF4/HS7TpLrRCC9h0sqdpiIqYCpn3wxpSXSeKvxCK4saVGPnTnMGEHvQ9+2lKoxMoLX/QzZFmSxVC2ZdYmpuczcjImRVTuySYg174jQ8fEXdReqFHRfeL+JAck4afPThDEq9D31dy7ySn1qkbA6kRgvoWwQnDQfG8py4EBD7pePEUxtUggJWqTWhC44qJhVNbu8jW4p8TfwGW60UwF4MOzg==;oxoi+ILPSi3shMAi0KldFA=="
+secured: "5kJIWQs/zxqQbB2AkWBcElbnqzgLFbFVMGYFHWwMlImqQENSVt9xSX4mKKGUBx48q8iQYP1zLaWLNv6xmVWFg2ihIlwdXYbfqVc5fo4/Swydo3cfKwmnCbjd1qMMAYtyF7ie4GGzeFHd2XzNWTVDDw8S/+1Csk48rpI/kdoDF4sMPyAd27GN5MH4MSnVj2GahxhjnTxxnOto0BxAF4E/Ey0lUrrqxaXsr6Kg1WBizruLYo3bBZLYF4hLnZfH1WU31+6NE5wSgR8NjrIihfHojXzWWQf/ySKHAIvhYpKajDFeLOKrjabU1JviT7FzdyixDnGxzaci0gWLhhITKUBt0vv83Uji/3ZW3CXS7Lyokd0=;JxlgBAFtPrkszPQ2HK1deg=="
 ---
 

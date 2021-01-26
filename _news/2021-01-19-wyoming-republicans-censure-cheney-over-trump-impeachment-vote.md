@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-impeachment-republicans-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/219f5b85-85d3-4586-8e42-e015f131035e/05980f72-2d65-4a8d-bcf0-d16c88e6dd3c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Roberts doesn't want to preside over Trump’s second impeachment trial: Schumer"
+    excerpt: "U.S. Supreme Court Chief Justice John Roberts is not interested in presiding over another Senate impeachment trial against former President Trump, Senate Majority Leader Chuck Schumer said in an interview Monday night."
+    publishedDateTime: 2021-01-26T06:59:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i-aKmGsglTs/roberts-doesnt-want-to-preside-over-trumps-second-impeachment-trial-schumer"
+    ampWebUrl: "https://www.foxnews.com/politics/roberts-doesnt-want-to-preside-over-trumps-second-impeachment-trial-schumer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roberts-doesnt-want-to-preside-over-trumps-second-impeachment-trial-schumer.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Alaska's Murkowski pledges to stay with Senate Republicans despite issues with Trump"
     excerpt: "Moderate GOP Sen. Lisa Murkowski has been very vocal for years that she’s no fan of Donald Trump’s takeover of the Republican Party."
