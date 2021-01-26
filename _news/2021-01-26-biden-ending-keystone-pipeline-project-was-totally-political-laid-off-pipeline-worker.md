@@ -1,0 +1,35 @@
+---
+category: news
+title: "Biden ending Keystone pipeline project was 'totally political': Laid-off pipeline worker"
+excerpt: "The Biden administration's cancelation of the Keystone XL Pipeline project was \"totally political,\" a laid-off worker said on Tuesday, expressing dismay after being unemployed due to the executive order. "
+publishedDateTime: 2021-01-26T21:15:08Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fhz5WOxVpc/biden-ending-keystone-pipeline-project-political-worker"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fhz5WOxVpc/biden-ending-keystone-pipeline-project-political-worker"
+ampWebUrl: "https://www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp"
+type: article
+quality: 166
+heat: 166
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+    width: 340
+    height: 340
+    isCached: true
+
+secured: "ACUiOMALrVP4K1+doGj5H+IcRxQFrXW7YfUuv+cjqFzHbIVoNRDxOLtQjs/AqfF9DTE9FfdgbpIoqMxLj1eR0FFl+2MNwRvOErMYRbSnSGMtfd+wxWr7Gt0nNgcI1E68cerYHHCys8Q50bwBCqFYnb4rPgNoWLdzEhJfAwe3h9M9xS2CLg7u1TB9dX5W0NwW1qiAJv9H1AJDX86TdYzWJJmWO+zwCuOMCK9zO59MjNr1OoZ2T6qUSkGsIXtLp8u8O4XIgsOaSYNIodm0s+PEirhdaH7Bm81m8vHj5PJb8PzYdG2a2aR7Vom1bLYPbIponY0dyOAM+Juqpfhf+WiW36KOvucDi3Zun0YGzjF77vY=;0eHVM9+q6ZRrZ7SiUxiMhg=="
+---
+

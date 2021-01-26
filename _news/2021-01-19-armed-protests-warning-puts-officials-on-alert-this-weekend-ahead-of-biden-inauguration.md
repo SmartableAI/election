@@ -272,6 +272,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden increases vaccine distribution to states as demand across U.S. grows"
+    excerpt: "President Joe Biden announced that he will be increasing the overall weekly vaccine distribution in states from 8.6 million doses to 10 million. NBC News’ Mike Memoli explains why this change is so significant."
+    publishedDateTime: 2021-01-26T22:35:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-increases-vaccine-distribution-to-states-as-demand-across-u-s-grows-100054085647"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100054085647"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100054085647"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_biden_memoli_210126_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "xZua7hin8qgDWG61MLiFVUjh19n4zZBnD+1iZwycwjY9/boZ8dz41fK7ZgSSNxjdU1s2KZ8099Tn/O7IigMo6/1AxOCk9yH9ys23VHB8G/J4Y4gcYiVffbb/t/Iw3XR8tEoIieUmbL3B6CzqBzMScANNxNPRYSJYaY5FCXQaF90pC9ZlDcpYYFGKioWJEx35aAZpvRGBinFL7c3p0inOwU3/LJaBYkG6eNe/ucSoRKhR1eARbyRx6V3SlGPRhop68rZ02D8suV8TLfbGfi1m9yySPHPNArPd880VKc/J6OIgCrQXWrM917IljUPT3KBKwpasbKQFK6nehBvD1XNsrBJDlZ2kdTnUi3LIH7CdIEk=;UATFZgM0LYTC6WzqjyK+kg=="
 ---

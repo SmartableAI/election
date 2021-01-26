@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-health-advisers-admit-covid-1
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-health-advisers-admit-covid-19-vaccination-goal-is-not-enough-we-have-to-go-faster.amp"
 type: article
 quality: 165
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Psaki walks back Biden comments on COVID-19 vaccine availability, says won't be widely available by spring"
+    excerpt: "White House Press Secretary Jen Psaki walked back President Biden’s comments that the majority of Americans would be vaccinated by the spring, telling reporters on Tuesday that the vaccine will not be widely available by then."
+    publishedDateTime: 2021-01-26T21:04:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UV0Vxn20z1M/psaki-press-conference-biden-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-press-conference-biden-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-press-conference-biden-vaccine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki hints Biden may skip bipartisan deal on COVID-19 if needed: 'Not going to take any tools off the table'"
     excerpt: "President Biden has signaled that he wants to secure bipartisan support for another coronavirus relief package, but his administration is refusing to rule out unilateral action by congressional Democrats on the next round of emergency aid. "
     publishedDateTime: 2021-01-21T19:27:16Z

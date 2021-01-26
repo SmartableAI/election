@@ -511,6 +511,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump's adult children see Twitter follower count rise after Biden inauguration"
+    excerpt: "Since the inauguration of President Joe Biden on Jan. 20, the adult children of former President Donald Trump have enjoyed a boost in Twitter followers."
+    publishedDateTime: 2021-01-26T21:28:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kDrFFqrFnJg/trump-children-twitter-follower-count-rise-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-children-twitter-follower-count-rise-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-children-twitter-follower-count-rise-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020499015332.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden election legal team takes victory lap, praises help from unions, nonprofits"
     excerpt: "President-elect Joe Biden’s legal team on Monday praised help from unions and nonprofits in their efforts to ensure a secure 2020 presidential election, which led to a Biden-Harris victory."
     publishedDateTime: 2021-01-18T17:44:00Z
@@ -558,6 +574,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20328629133790.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden, promoting racial equity, rips Trump administration’s ‘ignorance and lies’"
+    excerpt: "President Biden on Tuesday signed a series of executive orders aimed at promoting racial equity in America, following through on a campaign promise he made last year amid nationwide racial protests."
+    publishedDateTime: 2021-01-26T21:22:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aac53v9if-o/biden-promoting-racial-equity-rips-trump-administrations-ignorance-and-lies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-promoting-racial-equity-rips-trump-administrations-ignorance-and-lies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-promoting-racial-equity-rips-trump-administrations-ignorance-and-lies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump expected to travel to Mar-a-Lago on morning of Biden's inauguration: sources"
     excerpt: "President Trump is expected to travel to his resort at Mar-a-Lago in Florida the morning of Jan. 20 – the day of President-elect Joe Biden’s inauguration – where he is expected to reside after his presidency, Fox News has learned."
@@ -796,6 +828,22 @@ related:
     quality: 178
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e459d36c-6438-49da-9400-7762e98c138b/15da981b-2b57-4021-905b-fa115da6fd1e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden credits Trump on vaccine effort before adding program was in 'worse shape' than expected"
+    excerpt: "The president said that when he took office the program was not as far along as he had anticipated."
+    publishedDateTime: 2021-01-26T22:54:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uhyX_axCVy0/biden-credit-trump-coronavirus-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-credit-trump-coronavirus-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-credit-trump-coronavirus-vaccine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d92eb221-e11e-4533-a19c-2b53cb2f5627/a83cb907-4acd-458d-8c0e-d5429d456691/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

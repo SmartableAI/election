@@ -141,6 +141,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "VP Kamala Harris receives second dose of Moderna vaccine"
+    excerpt: "Vice President Kamala Harris on Tuesday received her second shot of the COVID-19 vaccine from Moderna, meaning she is fully immunized against the disease."
+    publishedDateTime: 2021-01-26T21:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/26/kamala-harris-receives-second-dose-moderna-vaccine/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/26/kamala-harris-receives-second-dose-moderna-vaccine/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/26/kamala-harris-receives-second-dose-moderna-vaccine/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/26/biden_55145_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris’ historic rise as U.S.’s first Black, Caribbean-American VP celebrated"
     excerpt: "Vice President-elect Kamala Harris, left, and Felicia Persaud, a long-time Caribbean activist during a virtual celebration of Harris’ historic rise ahead of Jan. 20, 2021 inauguration of U.S. President-elect Joe Biden. Courtesy of Invest Caribbean ..."
     publishedDateTime: 2021-01-18T00:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q30X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q30X"
 type: article
 quality: 125
-heat: 845
+heat: 885
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548885308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N0BE"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump is likely to escape conviction in his Senate impeachment trial. Here's why."
+    excerpt: "Senate Republicans immediately condemned the Capitol riots, but most have not committed to convicting the former president who dominates their party."
+    publishedDateTime: 2021-01-26T22:07:00Z
+    webUrl: "https://www.businessinsider.com/trump-impeachment-senate-trial-gop-future-incitement-insurrection-capitol-riots-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-impeachment-senate-trial-gop-future-incitement-insurrection-capitol-riots-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-impeachment-senate-trial-gop-future-incitement-insurrection-capitol-riots-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/6010718e1d2df20018b70f64?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Impeachment needed to bar Trump from running for federal office: Rep. Joaquin Castro"
     excerpt: "House impeachment managers are prepared to chase every single Senate vote in an attempt to convict President Donald Trump for inciting insurrection, Rep. Joaquin Castro, D-Texas, said on ABC's \"This Week\" Sunday."
@@ -581,6 +597,15 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Louisiana's Cassidy and Kennedy Diverge on Trump Impeachment"
+    excerpt: "Louisiana’s two Republican U.S. senators are taking different approaches to the second impeachment trial against former President Donald Trump."
+    publishedDateTime: 2021-01-26T22:54:00Z
+    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-26/louisianas-cassidy-and-kennedy-diverge-on-trump-impeachment"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "lbUdYCUJRbm7XyTvBe1WbrvvxS6nWq3x+aXUcqGyhMUVSHBNcYyuYgfnq1R5meE7qsUc7yyq0VUaQBpf63SGKirs+NKkoVDwcx9IX3PR2WZmqL/4Mf2NwyQYyYZYPEx+5NfRDuE+z+RXxfPwNe8WgxBrGc3BWw4CyoGOwFgfbeH4d+RgRdHev7CNnsItQ4xo2h2EgOTYl7AhBjtYm1kiVUwUHSSuNQKcE3JkVctnvOUeIQz0c/8tiQQgxNyusKCzow1bAZe3OufqsuQr8+pbz2zs5yQ6/UA03uR4wB+lkT0FwxQ1vXgfd5ZcQEKtc4jwa2kWYt6fVr/Hf3Rj1SWnSs9W1aGV9f1wa01Xcaf/Tfg=;T4TaG8Cj1FF3fbwUGxF6HQ=="
 ---

@@ -159,6 +159,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Correction: Trump-Biden-Immigration Snub story"
+    excerpt: "In a Jan. 25, 2021, story about the Trump administration’s efforts to limit the Biden administration’s changes to immigration policy, The Associated Press erroneously attributed a statement about Indi"
+    publishedDateTime: 2021-01-26T22:39:00Z
+    webUrl: "https://www.washingtonpost.com/national/correction-trump-biden-immigration-snub-story/2021/01/26/69a1bb8a-5ffd-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/correction-trump-biden-immigration-snub-story/2021/01/26/69a1bb8a-5ffd-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/correction-trump-biden-immigration-snub-story/2021/01/26/69a1bb8a-5ffd-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden revokes Trump's ban on transgender Americans serving in the military"
     excerpt: "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said."
     publishedDateTime: 2021-01-25T16:52:00Z
@@ -925,6 +941,22 @@ related:
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549038682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P012"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden administration to purchase millions more vaccine doses to curb virus"
+    excerpt: "The Biden administration will purchase 200 million more coronavirus vaccines and funnel more to states now, in a bid to deliver on the U.S. president's promise to curb the pandemic, a senior administration official said on Tuesday."
+    publishedDateTime: 2021-01-26T22:04:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN29V28C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V28C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V28C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549158968&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1BB"
+        width: 844
         height: 545
         isCached: true
   - title: "Biden signs executive actions on COVID, climate change, immigration and more"

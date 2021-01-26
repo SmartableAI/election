@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-harris-reflects-on-full-circle-moment-after-receiving-vaccine-dose-at-nih-building-her-late-mother-frequented.md",
+      "title": "Harris reflects on 'full circle' moment after receiving vaccine dose at NIH building her late mother frequented",
+      "excerpt": "Vice President Kamala Harris on Tuesday spoke in personal terms about a \"full circle\" moment after receiving the second dose of the Moderna Covid-19 vaccine at the same National Institutes of Health building her late mother had frequented for work.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PSFmRgF791w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PSFmRgF791w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200801174111-01a-kamala-harris-lead-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/kamala-harris-vaccine-mother-shyamala-gopalan-harris/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/kamala-harris-vaccine-mother-shyamala-gopalan-harris/index.html",
+      "publishedDateTime": "2021-01-26T14:26:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-biden-ending-keystone-pipeline-project-was-totally-political-laid-off-pipeline-worker.md",
+      "title": "Biden ending Keystone pipeline project was 'totally political': Laid-off pipeline worker",
+      "excerpt": "The Biden administration's cancelation of the Keystone XL Pipeline project was \"totally political,\" a laid-off worker said on Tuesday, expressing dismay after being unemployed due to the executive order. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fhz5WOxVpc/biden-ending-keystone-pipeline-project-political-worker",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fhz5WOxVpc/biden-ending-keystone-pipeline-project-political-worker",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp",
+      "publishedDateTime": "2021-01-26T13:15:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-covid-live-updates-biden-raises-covid-vaccine-goal-uk-passes-100000-deaths.md",
       "title": "Covid live updates: Biden raises Covid vaccine goal, UK passes 100,000 deaths",
       "excerpt": "President Biden increased his Covid vaccine goal to 1.5 million shots administered a day, deemed more likely due to states ramping up vaccine distribution.",
@@ -1261,115 +1374,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-biden-overturns-trump-ban-on-transgender-people-serving-in-us-military.md",
-      "title": "Biden overturns Trump ban on transgender people serving in U.S. military",
-      "excerpt": "President Joe Biden on Monday signed an executive order that overturned a controversial ban by his predecessor on transgender individuals serving in the U.S. military, a move cheered by LGBTQ advocates that fulfills a campaign promise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-military-transgender-idUSKBN29U1VH",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-military-transgender-idUSKBN29U1VH",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548998122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O15J",
-          "width": 778,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29U1VH",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1VH",
-      "publishedDateTime": "2021-01-25T18:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-sarah-sanders-run-for-arkansas-governor-to-test-value-of-ties-to-trump.md",
-      "title": "Sarah Sanders' run for Arkansas governor to test value of ties to Trump ",
-      "excerpt": "Sarah Huckabee Sanders on Monday became the first of what could be a wave of Republicans from former President Donald Trump's inner circle to chart a political future, launching her bid for Arkansas governor.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qCEpHgUFbXo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qCEpHgUFbXo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190613195905-10-sarah-sanders-gallery-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/sarah-huckabee-sanders-trump-arkansas-governor-race/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/sarah-huckabee-sanders-trump-arkansas-governor-race/index.html",
-      "publishedDateTime": "2021-01-25T18:43:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

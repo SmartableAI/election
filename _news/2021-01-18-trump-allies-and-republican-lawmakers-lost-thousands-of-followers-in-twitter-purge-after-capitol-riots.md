@@ -197,6 +197,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "45 Republicans voted to declare Trump's Senate impeachment trial unconstitutional, all but guaranteeing his acquittal"
+    excerpt: "Kentucky Sen. Rand Paul forced the upper chamber to vote on the constitutionality of even holding a trial."
+    publishedDateTime: 2021-01-26T22:30:00Z
+    webUrl: "https://www.businessinsider.com/republicans-democrats-clash-over-trump-impeachment-constitutional-senate-trial-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/republicans-democrats-clash-over-trump-impeachment-constitutional-senate-trial-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-democrats-clash-over-trump-impeachment-constitutional-senate-trial-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5fc98aa8b6a3a800199b682b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Mulled Replacing Attorney General Over Election Results: US Media"
     excerpt: "Donald Trump considered replacing then-acting US attorney general Jeffrey A. Rosen with a Justice Department lawyer who would help him force Georgia officials to overturn the state's election result,"
     publishedDateTime: 2021-01-23T07:44:00Z

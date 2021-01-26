@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://static.politico.com/27/2e/35dd6d1e45b194a56eb16e1887b8/gettyimages-1230692458-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Live Updates: Most G.O.P. Senators Vote Against Holding Impeachment Trial for Trump"
+    excerpt: "In a 55-to-45 vote that strongly suggested that the Senate would not be able to convict the former president, lawmakers narrowly killed a Republican effort to dismiss the impeachment charge as unconstitutional."
+    publishedDateTime: 2021-01-26T22:18:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/26/us/biden-trump-impeachment"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/26/us/biden-trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/26/us/biden-trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/26new-washington-briefing-impeach/26new-washington-briefing-impeach-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump leaves office with little to show of his major promises, and a legacy of violent divisiveness"
     excerpt: "Donald Trump promised to end \"American carnage\" and \"Make America Great Again.\" Four years later, he leaves with those goals far from reach."

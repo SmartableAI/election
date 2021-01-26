@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-global-broadcasting-ch
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/0fdec909-ae2b-411c-8627-853e30a4ec11/thumbnail/1200x630/71356b076f82a4707fdd684483bfcce5/gettyimages-1298447143.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "GOP largely votes against holding Trump impeachment trial"
+    excerpt: "Senate Republicans have voted overwhelmingly against moving forward with Donald Trump’s second impeachment trial"
+    publishedDateTime: 2021-01-26T22:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_829e8312972b4569a4e084dadcdb1b36_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
     excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."

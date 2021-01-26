@@ -1311,6 +1311,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden speaks to Putin for first time since taking power -White House"
+    excerpt: "U.S. President Joe Biden spoke to Russian President Vladimir Putin on Tuesday for the first time since taking office and raised concerns about Russian activities including the treatment of jailed Kremlin critic Alexei Navalny,"
+    publishedDateTime: 2021-01-26T21:32:00Z
+    webUrl: "https://www.reuters.com/article/uk-russia-usa-biden-putin-idUKKBN29V2DN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29V2DN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29V2DN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549143451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1CN"
+        width: 844
+        height: 545
+        isCached: true
   - title: "Judge bars Biden from enforcing 100-day deportation ban"
     excerpt: "A federal judge has barred the U.S. government from enforcing a 100-day deportation moratorium that is a key immigration priority of President Joe Biden"
     publishedDateTime: 2021-01-26T20:19:00Z

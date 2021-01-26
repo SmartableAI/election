@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GOP largely votes against holding Trump impeachment trial"
+    excerpt: "Senate Republicans have voted overwhelmingly against moving forward with Donald Trump’s second impeachment trial"
+    publishedDateTime: 2021-01-26T22:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_829e8312972b4569a4e084dadcdb1b36_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump laid out a vision for America in his inaugural address 4 years ago. He has come nowhere near realizing it."
     excerpt: "President Trump will leave office with more Americans out of work than when he started, and with the US's international reputation damaged."
     publishedDateTime: 2021-01-19T22:44:00Z

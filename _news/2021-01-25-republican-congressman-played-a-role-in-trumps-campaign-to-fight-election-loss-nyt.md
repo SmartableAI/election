@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0FS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0FS"
 type: article
 quality: 133
-heat: 393
+heat: 413
 published: true
 
 provider:
@@ -182,6 +182,22 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0955kyw.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "45 Republicans voted to declare Trump's Senate impeachment trial unconstitutional, all but guaranteeing his acquittal"
+    excerpt: "Kentucky Sen. Rand Paul forced the upper chamber to vote on the constitutionality of even holding a trial."
+    publishedDateTime: 2021-01-26T22:30:00Z
+    webUrl: "https://www.businessinsider.com/republicans-democrats-clash-over-trump-impeachment-constitutional-senate-trial-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/republicans-democrats-clash-over-trump-impeachment-constitutional-senate-trial-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-democrats-clash-over-trump-impeachment-constitutional-senate-trial-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5fc98aa8b6a3a800199b682b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump allies and Republican lawmakers lost thousands of followers in Twitter purge after Capitol riots"
     excerpt: "Republican lawmakers lost thousands of followers when Twitter purged QAnon accounts following the violent mob attack on the Capitol stoked by Trump."

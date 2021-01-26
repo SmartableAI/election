@@ -2,6 +2,119 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-20-melania-trump-says-serving-as-first-lady-was-my-greatest-honor.md",
+      "title": "Melania Trump says serving as first lady was 'my greatest honor'",
+      "excerpt": "Melania Trump told a small crowd of supporters Wednesday that it was \"my greatest honor\" to serve as the first lady.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t8q0JYIgrYs/melania-trump-says-serving-as-first-lady-my-greatest-honor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t8q0JYIgrYs/melania-trump-says-serving-as-first-lady-my-greatest-honor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/melania-trump-says-serving-as-first-lady-my-greatest-honor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-says-serving-as-first-lady-my-greatest-honor.amp",
+      "publishedDateTime": "2021-01-20T06:37:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-donald-trump-pardons-commutes-lil-wayne-kodak-black-sentences-prompting-reactions-from-fans-and-critics.md",
+      "title": "Donald Trump pardons, commutes Lil Wayne, Kodak Black sentences prompting reactions from fans and critics",
+      "excerpt": "Donald Trump has issued a pardon and sentence commutation to rappers Lil Wayne and Kodak Black ahead of Joe Biden's inauguration. President Trump issued 73 pardons and 70 sentence commutations early Wednesday as he prepared to leave office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits",
+      "originalUrl": "https://www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20346763036479.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits.amp",
+      "publishedDateTime": "2021-01-20T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-snoop-dogg-praises-trump-for-commuting-sentence-of-death-row-record-co-founder-michael-harry-o-harris.md",
       "title": "Snoop Dogg praises Trump for commuting sentence of Death Row Record co-founder Michael 'Harry O' Harris",
       "excerpt": "Snoop Dogg praised President Trump in his final hours in office for commuting the sentence of his friend, Death Row Records co-founder Michael \"Harry O\" Harris.",
@@ -435,7 +548,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4450,
+      "heat": 4470,
       "tags": null,
       "images": [
         {
@@ -807,7 +920,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 475,
+      "heat": 495,
       "tags": null,
       "images": [
         {
@@ -1237,110 +1350,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-white-house-confirms-trump-lifting-eu-brazil-travel-restrictions-jan-26.md",
-      "title": "White House confirms Trump lifting EU, Brazil travel restrictions Jan. 26",
-      "excerpt": "U.S. President Donald Trump on Monday rescinded entry bans imposed because of the coronavirus on most non-U.S. citizens arriving from Brazil and much of Europe effective Jan. 26, the White House said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-travel/white-house-confirms-trump-lifting-eu-brazil-travel-restrictions-jan-26-idUSKBN29O00A",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-travel/white-house-confirms-trump-lifting-eu-brazil-travel-restrictions-jan-26-idUSKBN29O00A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548250189&r=LYNXMPEH0I00B&w=800",
-          "width": 800,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T21:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails.md",
-      "title": "‘The Capitol riot was our Chernobyl’: James Comey on Trump, the ‘pee tape’ and Clinton’s emails",
-      "excerpt": "The former FBI director was sickened and angered by the attack incited by the president. But has he come to terms with his part in getting him elected?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c1670d9840b03e3422e575cb3d7bcb5acadfeb84/0_243_3598_2158/master/3598.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6802a03dd80cbc31d986ecc43d7b3ac",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
-      "publishedDateTime": "2021-01-18T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

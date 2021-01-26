@@ -153,6 +153,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "VP Kamala Harris receives second dose of Moderna vaccine"
+    excerpt: "Vice President Kamala Harris on Tuesday received her second shot of the COVID-19 vaccine from Moderna, meaning she is fully immunized against the disease."
+    publishedDateTime: 2021-01-26T21:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/26/kamala-harris-receives-second-dose-moderna-vaccine/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/26/kamala-harris-receives-second-dose-moderna-vaccine/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/26/kamala-harris-receives-second-dose-moderna-vaccine/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/26/biden_55145_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
     excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."
     publishedDateTime: 2021-01-20T17:04:00Z

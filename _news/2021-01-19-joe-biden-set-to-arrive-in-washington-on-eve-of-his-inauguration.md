@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3445011/210126-joe-biden-mc-1140_6fe2bef53ad2d7202f4507699a08a599.JPG"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden increases vaccine distribution to states as demand across U.S. grows"
+    excerpt: "President Joe Biden announced that he will be increasing the overall weekly vaccine distribution in states from 8.6 million doses to 10 million. NBC News’ Mike Memoli explains why this change is so significant."
+    publishedDateTime: 2021-01-26T22:35:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-increases-vaccine-distribution-to-states-as-demand-across-u-s-grows-100054085647"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100054085647"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100054085647"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_biden_memoli_210126_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "'Armed protests' warning puts officials on alert this weekend ahead of Biden inauguration"
     excerpt: "Law enforcement and state officials are on high alert for potentially violent protests this weekend in the lead-up to Inauguration Day, with some state capitols boarded up and others temporarily closed ahead of Wednesday's ceremony."

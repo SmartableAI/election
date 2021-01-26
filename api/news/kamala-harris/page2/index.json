@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-21-saturday-night-live-maya-rudolphs-kamala-harris-as-the-real-president-bad-idea.md",
+      "title": "Saturday Night Live: Maya Rudolph's Kamala Harris as the real president? Bad idea",
+      "excerpt": "Kristen Wiig hosted a strong episode but the cold open hinted at problems ahead, even if Jim Carrey is no longer Joe Biden",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/tv-and-radio/2020/dec/20/saturday-night-live-maya-rudolph-kamala-harris-joe-biden-kristen-wiig",
+      "originalUrl": "https://www.theguardian.com/tv-and-radio/2020/dec/20/saturday-night-live-maya-rudolph-kamala-harris-joe-biden-kristen-wiig",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0ff910840fe59bc20328ca102893591eb7d2521f/0_174_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ba8d6956ce2ce73ab0b0702b68924c2",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/tv-and-radio/2020/dec/20/saturday-night-live-maya-rudolph-kamala-harris-joe-biden-kristen-wiig",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2020/dec/20/saturday-night-live-maya-rudolph-kamala-harris-joe-biden-kristen-wiig",
+      "publishedDateTime": "2020-12-20T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-kamala-harris-to-robin-roberts-i-feel-a-very-big-sense-of-responsibility-as-historic-vp.md",
       "title": "Kamala Harris to Robin Roberts: 'I feel a very big sense of responsibility' as historic VP",
       "excerpt": "The people are suffering,” Harris told \"Good Morning America\" anchor Robin Roberts in an exclusive interview. “The moratoriums on evictions and foreclosures are about to end. The extension that people need of benefits is very real.",

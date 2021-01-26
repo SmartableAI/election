@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Psaki walks back Biden comments on COVID-19 vaccine availability, says won't be widely available by spring"
+    excerpt: "White House Press Secretary Jen Psaki walked back President Biden’s comments that the majority of Americans would be vaccinated by the spring, telling reporters on Tuesday that the vaccine will not be widely available by then."
+    publishedDateTime: 2021-01-26T21:04:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UV0Vxn20z1M/psaki-press-conference-biden-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-press-conference-biden-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-press-conference-biden-vaccine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "SHhrgY+lFon+DZcD+pou1Ca8RnNucAMnKhDw3QiKhNF6lhdjKnIZrCEmphjySy8s8t8Hru2iq7XP1ADBPWTx8ehnbyljfRWGpVtQwx/PGGuyswDVyvv9FeOrJZGQUGSmbpF+tIIPUy3K77yj4+Fb9b5qlgcsji+Pnu+potEmQpjRH/1Nza4CnGNDyM/oYrGxoLfUmRXVxALEBKppJv5pMBt2WGd6DJmH8W/voag/BL1xMYOwaI+l142vqMevdXxkbDaxHvC8NEPPXAnR0/QHuFCxvGGIQB/VLx5+peZz5z2lDcWnxRBJYYZmO/yL0ZLTiSoKuYG6Y2/DzvHGOczEWTi5a4BNWY4/+DZtsh76wqg=;whEoeTPMr5i/uhtfR3jIlA=="
 ---

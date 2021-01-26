@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp"
 type: article
 quality: 175
-heat: 655
+heat: 675
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217e07b5-fe3e-44e6-8631-82e86584dc1e/b9c76771-450d-4252-a7a3-1fff339e7935/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Republicans target vulnerable House Democrats amid Biden fossil fuel crackdown"
+    excerpt: "Republicans are already targeting vulnerable Democrats in states like Texas and Pennsylvania, where many jobs depend on oil or natural gas, as President Biden recommits to the Paris climate agreement and makes other reversals of his predecessor's environmental policy."
+    publishedDateTime: 2021-01-26T21:13:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D_b2Qv94Og4/republicans-vulnerable-house-democrats-biden-fossil-fuel"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-vulnerable-house-democrats-biden-fossil-fuel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-vulnerable-house-democrats-biden-fossil-fuel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/GettyImages-1230788784.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Ohio restaurant owner rips Biden's embrace of $15 minimum wage as bad for business"
     excerpt: "An Ohio restaurant owner is warning that any hikes in the minimum wage now will only hurt small businesses more."

@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GOP largely votes against holding Trump impeachment trial"
+    excerpt: "Senate Republicans have voted overwhelmingly against moving forward with Donald Trump’s second impeachment trial"
+    publishedDateTime: 2021-01-26T22:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_829e8312972b4569a4e084dadcdb1b36_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
     excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."
     publishedDateTime: 2021-01-24T00:15:00Z
