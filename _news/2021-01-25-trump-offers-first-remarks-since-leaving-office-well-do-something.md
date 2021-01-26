@@ -48,22 +48,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Former Trump press secretary Sarah Sanders announces run for Arkansas governor"
-    excerpt: "Former White House press secretary Sarah Sanders announced Monday that she is running for governor of Arkansas in 2022."
-    publishedDateTime: 2021-01-25T12:16:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3qPU6j_heOg/sarah-sanders-arkansas-governor-2022"
-    ampWebUrl: "https://www.foxnews.com/politics/sarah-sanders-arkansas-governor-2022.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sarah-sanders-arkansas-governor-2022.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/10/640/320/ContentBroker_contentid-50874bbaf3f945169c8bbc16719e49e5.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
     excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
     publishedDateTime: 2021-01-23T19:39:00Z

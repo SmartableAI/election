@@ -752,6 +752,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Live Updates: Biden weighs in on Trump impeachment, says Dems won't have the votes to convict"
+    excerpt: "President Joe Biden said in an interview Monday that it seems Democrats will be unable to convict former President Trump — once again — during an impeachment trial."
+    publishedDateTime: 2021-01-26T06:40:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6UE2n7aRi4Q/live-updates-biden-weighs-in-on-trump-impeachment-says-dems-wont-have-the-votes-to-convict"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-weighs-in-on-trump-impeachment-says-dems-wont-have-the-votes-to-convict.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-weighs-in-on-trump-impeachment-says-dems-wont-have-the-votes-to-convict.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3e09c83-c794-4822-b2c0-5412304ba042/a5918bb3-873d-4617-ac69-cf02ca330280/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Brit Hume: Senate Dems may not move forward with Trump impeachment as attention shifts to Biden"
     excerpt: "The news media landscape is about to shift from years of covering President Donald Trump to the new administration of President-elect Joe Biden, said Fox News senior political analyst Brit Hume on Monday. "
     publishedDateTime: 2021-01-18T15:56:26Z
@@ -3157,6 +3173,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "YeVg/fQHutJneA0kCeLZaOAFtDetRHrXxxDWk9vwvu8JuXlQhlvOed+/jNSapI4RZHlVFMxtc0wmOqnPQI9Nrm+0snhTK2/oBujK8c9iekzHr6PdAMYcGbqQZ5Y4q+i04B0abhHsplCjL8EaBohbsw79uIcFAMCuar46CqnfOF8H+0NhTwF4uL2MbatwscbCuPxW3rZlcIQ/7UxhwO2JbpAUfwOm42QZruzWDrSpgptNWzLuDtxbJJZviROzcxSAyqnbAym2a2aQoMIO3shvM7geqTcRt08PlL/7cP9Ree+UNN2OSPN6xb8LeOcgU7NlDlxCKOdQ0Wihomrrds98Q0ZUqPSnvvm2dJ291xpveZs=;aH2lNir6KMayuFW277pSXA=="
+secured: "sb83ucmGvKl+Pklev60AmHCAGKWlP08rD/rMjyo8XcG+3XpvU3FVULT/SD402AB/esX3EUyfcpaQsbCSlVIoECaJ67a2JRr4LnEstJ10X1umI32nMWnUwhxkZc1Lm+EI8z/t2udOfKaD9tpt12BjDe4vzoPWN4XC6T9DqoFGyDYNrEWXkdmDBSMBTiADvQFc05Uqott6mtDdDMFPqLq+GG52VcgZd4WCDpXVy21iTbwJ7HagTGD026NC5rEy+nnOcSbDXOo/xKV3nze/utoIz19LpWQW5UgtLlyJK01a+Pdi2krYWPOQLX4ijA1Mt3HcySImbrdmME36xU4QfRwvMITRPF11OFP0bpTh9Zdrp9L/UecflwRTMlvUI6FWwUoG4CTn0xZuIUaINTIqcCfETNwwc1SaG0d3ggcYTlrARwCxyqXBdbZyEIYFRD5M5U8IYTJd7Yk3AQHjhctntB+zQASZMzSBMc8JoN296e2rKsxGPKAK4/hv2Sp4U1MtHoa5N6QJiwGzUyaaJMcces2aAA==;dvcuGHC7WHmys13Ei7w4lQ=="
 ---
 

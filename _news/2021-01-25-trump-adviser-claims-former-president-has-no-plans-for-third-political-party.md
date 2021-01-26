@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-has-no-plans-for-a-third-poli
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
 type: article
 quality: 172
-heat: 232
+heat: 212
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Former Trump press secretary Sarah Sanders announces run for Arkansas governor"
-    excerpt: "Former White House press secretary Sarah Sanders announced Monday that she is running for governor of Arkansas in 2022."
-    publishedDateTime: 2021-01-25T12:16:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3qPU6j_heOg/sarah-sanders-arkansas-governor-2022"
-    ampWebUrl: "https://www.foxnews.com/politics/sarah-sanders-arkansas-governor-2022.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sarah-sanders-arkansas-governor-2022.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/10/640/320/ContentBroker_contentid-50874bbaf3f945169c8bbc16719e49e5.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump offers first remarks since leaving office: 'We'll do something'"
     excerpt: "Former President Donald Trump was mysterious about his future plans in his first public remarks since leaving the White House earlier this week, but he suggested action is in the works, according to a report."
     publishedDateTime: 2021-01-24T21:12:00Z

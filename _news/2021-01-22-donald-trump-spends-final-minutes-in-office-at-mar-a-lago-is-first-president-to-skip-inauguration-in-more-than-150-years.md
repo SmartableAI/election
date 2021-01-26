@@ -64,16 +64,21 @@ related:
         height: 960
         isCached: true
   - title: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency"
-    excerpt: "WASHINGTON (AP) — Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency."
-    publishedDateTime: 2021-01-25T18:42:00Z
-    webUrl: "https://www.businessinsider.com/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency-2021-1?amp"
+    excerpt: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
+    publishedDateTime: 2021-01-25T19:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "64YI6l3HZnBRRJTtfYh/B1P6xPFoeKIS4jqNk9K5sKKvG9/YMowU2AoKDSY4zVrpH3m9gQgTMRsm2KC2ZPHKS80BDwhWPZTWZPZ+DQadX902vhcINFWqMmqsmnBzpzSSdygde59lX7gWPPtIX9EZQdEBg1n/7bHHVQhHKYFkKzE8N2OIC/qlehJnzBKRyfQTXnHm3RIz1A24fG51iUv+X9dLhgXnzg7I2Fh/h2/t/N1/d6PdxPGtYvXYd1bRYEStGxqM8Jju+gqnxSMrPG3xwPNWyUru1JMeAih8D/plFvQCg4ocmmCkaQU6vLDkl3tdzaP3aqJC0xXFMvo8fnBcKhLKgBJMM8+FMkmQUHfn+R0=;+PFBOTHr6Wi/49kZdIjXcA=="
 ---

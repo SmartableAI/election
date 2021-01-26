@@ -1479,6 +1479,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Twitter On Jill Biden Potentially Being 'More Active' First Lady Than Melania Trump: 'It Won't Be A Challenge'"
+    excerpt: "During her first five days as first lady, Jill Biden had virtual appearances before governors' spouses, young Latinos and library officials and visited the nonprofit Whitman-Walker Health in Washington,"
+    publishedDateTime: 2021-01-26T05:22:00Z
+    webUrl: "https://www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571"
+    ampWebUrl: "https://www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/jill-biden.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Top Republicans Ask Biden for Tougher Response to China Sanctions on Trump Officials"
     excerpt: "The Biden administration faced pressure from Republican lawmakers on its second day in office for a more forceful response to Beijing's announcement of sanctions against the architects of former President Donald Trump's tough China policy. As Democrat Joe ..."
     publishedDateTime: 2021-01-21T22:05:00Z

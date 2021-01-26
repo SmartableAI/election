@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indian
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 4250
+heat: 4270
 published: true
 
 provider:
@@ -1183,6 +1183,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-covid-plan-gty-jef-210121_1611265986368_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden more bullish on vaccines, open to 1.5M daily shot goal"
+    excerpt: "President Joe Biden appears to be boosting his goal for coronavirus vaccinations in his first 100 days in office, suggesting the nation could soon be vaccinating 1.5 million Americans on average per d"
+    publishedDateTime: 2021-01-26T05:17:00Z
+    webUrl: "https://www.washingtonpost.com/business/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal/2021/01/26/a3e6a3b4-5f94-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal/2021/01/26/a3e6a3b4-5f94-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal/2021/01/26/a3e6a3b4-5f94-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden names Democrats to lead nuclear, pipeline agencies"
     excerpt: "President Joe Biden has named two Democrats to lead energy-related commissions that oversee nuclear power, natural gas and other energy infrastructure"

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-trump-endorses-sarah-huckabee-sanders-for-arkansas-governor.md",
+      "title": "Trump endorses Sarah Huckabee Sanders for Arkansas governor",
+      "excerpt": "Former President Donald Trump endorsed Sarah Huckabee Sanders in her run for Arkansas governor on Monday night.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6RtMOZNBUTE/trump-endorses-sanders-in-run-for-arkansas-governor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6RtMOZNBUTE/trump-endorses-sanders-in-run-for-arkansas-governor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Sanders-Split.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp",
+      "publishedDateTime": "2021-01-25T20:54:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-ingraham-democrats-using-and-abusing-the-troops-for-political-theater-after-condemning-trump-proposals.md",
       "title": "Ingraham: Democrats 'using and abusing the troops' for 'political theater' after condemning Trump proposals",
       "excerpt": "In her \"Ingraham Angle\" monologue on Monday, host Laura Ingraham said Democrats are misuing American servicemembers for \"political theater\" just months after they roundly condemned Donald Trump for considering deploying National Guardsmen to quell left-wing riots in major cities across the country.",
@@ -350,7 +406,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 232,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -1595,62 +1651,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-bigger-issues-mask-mandate-psaki.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bigger-issues-mask-mandate-psaki.amp",
       "publishedDateTime": "2021-01-21T15:00:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-mcconnell-biden-took-several-big-steps-in-the-wrong-direction-on-day-one.md",
-      "title": "McConnell: Biden ‘took several big steps in the wrong direction’ on Day One",
-      "excerpt": "Just one day after President Biden spoke of unity in his inaugural address to the nation, Senate Minority Leader Mitch McConnell says the Democrat president has headed in \"the wrong direction.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iyf0TbGgP1w/mcconnell-biden-took-several-steps-in-the-wrong-direction-on-day-one",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iyf0TbGgP1w/mcconnell-biden-took-several-steps-in-the-wrong-direction-on-day-one",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad6f975f-2399-413d-a8ab-145d8c6f7a59/a3cbad7f-2295-4d5f-8b56-7ffdfa70f118/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-biden-took-several-steps-in-the-wrong-direction-on-day-one.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-took-several-steps-in-the-wrong-direction-on-day-one.amp",
-      "publishedDateTime": "2021-01-21T13:20:11-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

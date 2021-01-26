@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency"
-excerpt: "WASHINGTON (AP) — Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency."
-publishedDateTime: 2021-01-25T18:42:00Z
-originalUrl: "https://www.businessinsider.com/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency-2021-1"
-webUrl: "https://www.businessinsider.com/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency-2021-1"
-ampWebUrl: "https://www.businessinsider.com/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency-2021-1?amp"
+excerpt: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
+publishedDateTime: 2021-01-25T19:52:00Z
+originalUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html"
+webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
-quality: 88
+quality: 108
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Donald Trump is First President in Modern History to Never Reach 50% Approval in Gallup Poll"
@@ -74,6 +80,6 @@ related:
         height: 675
         isCached: true
 
-secured: "tLQXRiV2jiPtu8PiF8Ee3E7E89eXDC0syeiyjKvsDqdewbCwF9JdyWWejhsKBYgP8qavAAMzd32fqZazgaFG3NIzWJIn/2Gwr8Xaahylrno+0muErI09vCQk3SlmamqD84M1SyVjeUu3jFY2y0MZYDK12/d2mbvTTa776yJJ0ceIjU4uecPpTlMgaliKkVAqEC4oNR4W+3K6uweZNNkIpYIAAvT+ed8q/MkFTB+fRGZR9vgenedkO5/Z7INbnnorO21bW6B/+9OzsRHkuAIHAtGQbpGWv5bNXyES3I6Mq+2kwjtvfsSB9yvtgGcl9Wg1MyQmu+errP/BBqFbxXTPsW2Qdof5Y/NZQQMmPjCYLvk=;rqnDHKpzlFI01+ElWzRKmw=="
+secured: "W0ykOcYvYmtXFwp16ELSJkpki/RMVzxyTX+GXlSDJkXAEbMZ9ktlawFdpf3X/0+XSE4R+vGuTFdlLzntrjc4W6B5mZpKIP/0kGL6bi+hF45+G6cKhLlyTMP+7io6Oh75WkB5fR3fcQ/yrx4oeKHMp7o4MaAnn1vx0xH1I+6M1qg5vRlNm/AsUWQl7QwMQj6dnJekxAI8KGKpec8W2d2hHVaHeMNvpcPV+Io0rh/6jdLn9MyXPU+yZ34wP1lJ5ItkzMoE+SdsZX8rhDNuWVOH6ws6JzINIQbhbJPLVWlVJnkiL7zQ0hRHFJe1eoJvfxKYgTcHK1nhahxG4SJj4/9qhPgZF6PeY5Vacfw/Zfv9Oso=;oJ71bjEYzEFi6rSWybN3AA=="
 ---
 

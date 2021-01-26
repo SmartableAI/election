@@ -91,6 +91,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "House Democrats deliver Trump impeachment charge to Senate"
+    excerpt: "The U.S. House of Representatives delivered to the Senate on Monday a charge that former President Donald Trump incited insurrection in a speech to supporters before the deadly attack on the Capitol,"
+    publishedDateTime: 2021-01-26T06:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idCAKBN29U13G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29U13G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29U13G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549038682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P012"
+        width: 817
+        height: 545
+        isCached: true
   - title: "U.S. House lawmakers carry article of impeachment against Trump to Senate"
     excerpt: "U.S. House of Representatives officials and lawmakers on Monday hand-carried an article of impeachment against former President Donald Trump to the Senate for trial on accusations of inciting the deadly Jan."
     publishedDateTime: 2021-01-26T00:41:00Z

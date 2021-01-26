@@ -31,53 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump adviser claims former president has no plans for third political party"
-    excerpt: "Former President Donald Trump has reportedly dropped plans to create a third political party and will instead focus his energies on helping Republicans win back the House and Senate in the 2022 midterms, Fox News has learned."
-    publishedDateTime: 2021-01-25T00:34:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5QGzXiloiXI/trump-has-no-plans-for-a-third-political-party"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
+  - title: "Trump endorses Sarah Huckabee Sanders for Arkansas governor"
+    excerpt: "Former President Donald Trump endorsed Sarah Huckabee Sanders in her run for Arkansas governor on Monday night."
+    publishedDateTime: 2021-01-26T04:54:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6RtMOZNBUTE/trump-endorses-sanders-in-run-for-arkansas-governor"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021665414903.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Sanders-Split.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump offers first remarks since leaving office: 'We'll do something'"
-    excerpt: "Former President Donald Trump was mysterious about his future plans in his first public remarks since leaving the White House earlier this week, but he suggested action is in the works, according to a report."
-    publishedDateTime: 2021-01-24T21:12:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
+  - title: "Huckabee pushes back on calls for 'deprogramming' Trump voters: 'The cult of the left'"
+    excerpt: "In response to some people claiming Trump supporters need to be \"deprogrammed,\" Fox News contributor Mike Huckabee on Tuesday explained why people voted for the former reality TV star to lead the country."
+    publishedDateTime: 2021-01-19T14:11:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/41meoZZwfDI/huckabee-katie-couric-deprogram-trump-voters-cult"
+    ampWebUrl: "https://www.foxnews.com/politics/huckabee-katie-couric-deprogram-trump-voters-cult.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/huckabee-katie-couric-deprogram-trump-voters-cult.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ea90d02-cd6e-457c-b53e-f2fb5331749a/299a153c-3c94-492a-ad8f-7b19470806e9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
-    excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
-    publishedDateTime: 2021-01-23T19:39:00Z
-    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 128
-    images:
-      - url: "https://images.wsj.net/im-289628/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "Z9ZIXJ2nVDD4x2ecy9ZqpiYBJ0CTk1iz/GXjmdjxNZEtommYKzwNkQMPE5dVvt8L0KPDFMsBooyHXDIe0eZm07AVjHesz8plnuDvwK+lSrJDREFozJOk4LQLLQX8aVuXz4lacuYvM65Q/o2GOQ/p7x+HVMLFrusT4KJUIW4CmX/DtSqQ6aKK/3E2jakO0U6D7aVHm5Ghlth5nmPUji61PhSadMaeVMulcu8PkXOgXpKWOCEPRk3qq9rLkYtSkoHu+0pRBCTJgU3h+SCmU9hVp13PLYfcLzwbf2Ns0n0ujallqx3sJZXHGJZeXKMwwvz0D/Oew538iU50B3heD7WatdNfMxQPdnoe+Dg/PNk73Zg=;S5Om5KHQDZVQkZKmVBMEOA=="

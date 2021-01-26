@@ -1480,6 +1480,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Twitter On Jill Biden Potentially Being 'More Active' First Lady Than Melania Trump: 'It Won't Be A Challenge'"
+    excerpt: "During her first five days as first lady, Jill Biden had virtual appearances before governors' spouses, young Latinos and library officials and visited the nonprofit Whitman-Walker Health in Washington,"
+    publishedDateTime: 2021-01-26T05:22:00Z
+    webUrl: "https://www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571"
+    ampWebUrl: "https://www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/jill-biden.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Top Republicans Ask Biden for Tougher Response to China Sanctions on Trump Officials"
     excerpt: "The Biden administration faced pressure from Republican lawmakers on its second day in office for a more forceful response to Beijing's announcement of sanctions against the architects of former President Donald Trump's tough China policy. As Democrat Joe ..."
     publishedDateTime: 2021-01-21T22:05:00Z
@@ -1596,6 +1612,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "zie7VZZD+FG2BXdPhUpjhZzpzaQAmlxbZZoo36u5VM0exxFhNJOFQg3/qCb21m7JQDIAG2N7OlFGSoV82hKusGvHCfcosNYJEUAvYpKmpz1Pc0n8G7yK4zOfrM6M9iqwqEk2lDfbqIBrKqMRSkjCr/IqblSfFwATb8tNLvUgT+xAD9Pr0U7PjOFILSNrycXPB9rF5b/3Qm8oF9naaeC0csb/pZr19Jwy5G4nUonqf4/aa5tI05m+3Qq9m8dy230UNO20bqlByNS4/dONUoezsjVmHfOcQgXoUARy52T0aKbqmj9PDZk17q8q/34r3oiWuHWPwNEC68TGlKicjeBvZaJ9T2dms2QxFMjWRL0DLEY=;PDL8HGGeeYu55lNCZjD+Zg=="
+secured: "HlE7WiG4LzxQuowHC8A2AQ/q/pvFfAJh6u2GkV+4euOvyPfQkl4icv4Od0kb9etlaQYI7IjRt1n3bzrMEquL8w42qkWokmt1A9CbvHS6ADRyuzTzYgHjwS/qLQTbgyUOeT+qEJ0iJWazaHffQn9iRWpfmv1W7l/sf1OHmXboNMpE02tdvHKAFdF6fpfMXx88wCOm2iTfTnBmXI3G2ecUw5wRrkPYX9WOUanoMhYiuIbLO0ieX/L21NuTuDjS06wjSu7z0EUdV+uCNF7B54FQw+WrbsAqozqYdaua6ZOTQYbJc6Z1iHWts99Nr/mfGpeiIM2F24q5WOWl2npdogIEQAVE+trzzMGjIzB7ToD43M078bKMGOARisZb66WHtSCIiXY4VraEu/EMZo/fGsHfLHGQtmB2QyrdfUcvwu/93ECANrVCEH2ukQp5KiN7DH5IsGEgbuQS37d05rLQ5eTy6FlUh2QoeZTGMu49IS+LCaRptgJa7qFbyMuJdhNsF23nraUhU8iOOUtBVKlMNKQD6A==;0xaIYGo/rNq0NNRDufCnZA=="
 ---
 

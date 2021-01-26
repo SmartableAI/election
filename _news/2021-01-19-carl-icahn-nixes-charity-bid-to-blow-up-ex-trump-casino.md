@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/carl-icahn-nixes-charity-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino/2021/01/18/12e1ce34-59c7-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/5f1334020ac945b34c667ebb76c195c872b2c53d/0_77_3250_1951/master/3250.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6533ff8321a1ad0b9b407e3f95c096c6"
         width: 600
         height: 360
+        isCached: true
+  - title: "House Democrats deliver Trump impeachment charge to Senate"
+    excerpt: "The U.S. House of Representatives delivered to the Senate on Monday a charge that former President Donald Trump incited insurrection in a speech to supporters before the deadly attack on the Capitol,"
+    publishedDateTime: 2021-01-26T06:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idCAKBN29U13G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29U13G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29U13G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549038682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P012"
+        width: 817
+        height: 545
         isCached: true
   - title: "U.S. House lawmakers carry article of impeachment against Trump to Senate"
     excerpt: "U.S. House of Representatives officials and lawmakers on Monday hand-carried an article of impeachment against former President Donald Trump to the Senate for trial on accusations of inciting the deadly Jan."
