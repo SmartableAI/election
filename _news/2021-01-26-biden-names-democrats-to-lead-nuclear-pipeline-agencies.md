@@ -1215,22 +1215,6 @@ related:
         width: 778
         height: 545
         isCached: true
-  - title: "Biden replaces White House doctor with longtime physician"
-    excerpt: "President Joe Biden has brought back Dr. Kevin O’Connor as his physician, replacing President Donald Trump’s doctor with the one who oversaw his care when he was vice president"
-    publishedDateTime: 2021-01-25T16:18:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-replaces-white-house-doctor-longtime-physician-75470445"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-replaces-white-house-doctor-longtime-physician-75470445"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-replaces-white-house-doctor-longtime-physician-75470445"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_018ab35ffa8c45f497af299030986e02_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden must find words for a wounded nation in inauguration like no other"
     excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
     publishedDateTime: 2021-01-16T07:00:00Z
@@ -2251,6 +2235,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden replaces White House doctor with longtime physician"
+    excerpt: "WASHINGTON (AP) — President Joe Biden has brought back Dr. Kevin O'Connor as his physician, replacing President Donald Trump's doctor with the one who oversaw his care when he was vice president."
+    publishedDateTime: 2021-01-26T00:38:00Z
+    webUrl: "https://www.businessinsider.com/biden-replaces-white-house-doctor-with-longtime-physician-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-replaces-white-house-doctor-with-longtime-physician-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-replaces-white-house-doctor-with-longtime-physician-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden's inauguration is unlike any before. Photos show how his ceremony compares to those of previous presidents."
     excerpt: "Due to COVID-19 and the threat of violence from far-right groups, the inauguration of President-elect Biden is unlike past ceremonies."
     publishedDateTime: 2021-01-20T16:59:00Z
@@ -3102,6 +3097,6 @@ related:
         height: 800
         isCached: true
 
-secured: "u5e8tjzSKDaBEn8j6LJ14WQZEcLCaqjLx+X2PRzOZ68fWE9bQz8j7UL0P8OnPp0oId4VFJwA8yHdzF6jPFVSbJ1Gnyya3XRm3NqvR8+mVoY+vYAppgzASgKZ1lztMYnAzVsk04baDaMT9Kkxj728U3VUbk5u1c6Nxa0xMglLzYhU8+q9sfLXtKj4z45bS2FpczGp2P/pTT2+PcFjc7iMgxJS+mKNTrEKxR6rs2b6YXk0cCAz0C6vKsjSDWwROLmoy2epWFiPpT2c/b2dGP8deCrWBenaICAxk5zCYpizNve7JEeERHfNwHj1UKTgf46nBbrivDVs/3FtDksZouUkcu+73rAJkJIxiv5eszOd/NM=;yEHQ4zbdpCUgpraiQkzs6g=="
+secured: "uHsM3f/tZ3M52RjGGW6+BUcz+D5PLz7mCIq6st1pxFLMp+3yP7Df2Sax1EcxCHtCTRbY7XDq0u342esZkXXyTyz2XGEwtIEkKO9wCBdpTzPgGAKqR/yyYR22bAXWVr9sof/I/cStN3MojR9Q3TFMW5YF916cQ4QVxZrO03hv97DXF1ggOsHZvnBajCIdlK9TsRrXvFKQqgERCjEmGQSu5W+IGEarX/OvO51BP/le2iUyaOEpzM4y+M1ZO7bIy+Yz7zJO/f+LvFp4P10KXk6JM+4XxIiC8s4DkVdgGGLtkZ5DbFIu+O1+zCoFgnN8B1yHkrE/e6GmN7dZAOarl5yXHmk+dirkLX0iZFi5S/uqF3pMiwkAmr+ymnZ6KienZCccFt34x+o+8Mt0PRaEiZ5hMh+8ZsNUAysSHnrseaz0ekZcczOu3FnbKrqb4s/XnKRXBNMFE8bWj/JbmI4d5U1FaKmfvVk46h/n8I2uSlDyE1iRxM8yyspNr038RQh7nHkakeZ3fk1rXvTpEg7j06Ah6g==;BONV48PQXeRZ4f2JiU8JqQ=="
 ---
 

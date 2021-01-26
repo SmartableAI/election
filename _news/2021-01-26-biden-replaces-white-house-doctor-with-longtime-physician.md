@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden replaces White House doctor with longtime physician"
-excerpt: "President Joe Biden has brought back Dr. Kevin O’Connor as his physician, replacing President Donald Trump’s doctor with the one who oversaw his care when he was vice president"
-publishedDateTime: 2021-01-25T16:18:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/biden-replaces-white-house-doctor-longtime-physician-75470445"
-webUrl: "https://abcnews.go.com/Health/wireStory/biden-replaces-white-house-doctor-longtime-physician-75470445"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-replaces-white-house-doctor-longtime-physician-75470445"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-replaces-white-house-doctor-longtime-physician-75470445"
+excerpt: "WASHINGTON (AP) — President Joe Biden has brought back Dr. Kevin O'Connor as his physician, replacing President Donald Trump's doctor with the one who oversaw his care when he was vice president."
+publishedDateTime: 2021-01-26T00:38:00Z
+originalUrl: "https://www.businessinsider.com/biden-replaces-white-house-doctor-with-longtime-physician-2021-1"
+webUrl: "https://www.businessinsider.com/biden-replaces-white-house-doctor-with-longtime-physician-2021-1"
+ampWebUrl: "https://www.businessinsider.com/biden-replaces-white-house-doctor-with-longtime-physician-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-replaces-white-house-doctor-with-longtime-physician-2021-1?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_018ab35ffa8c45f497af299030986e02_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Pence heading back to Indiana hometown after Biden inaugural"
@@ -3102,6 +3096,6 @@ related:
         height: 800
         isCached: true
 
-secured: "usdT0nnbnkaPuq63Kl3XefmMjoeMhWcuE6TyVvgWL3Dlf5ad2kI7Cdgv8vR08lr0uxvY6T2SHAtmV+WyjD1YtdRYBTqsA8zPYSXAYJpd+Eou2ujK2LJsTidj8xUcjI19Xfll2imhTwrYAWCSRYH53gDRBb3mlZyLS4HT5xX1ajGsuKxQeDxu79RNkHsbQxjHWnkQKHYbF10j8Abtv6utsaIBvYIe0LTkRQiyzwNK1CStMNwHCN5ANfm83uXUhTbssUmWHfGWv0QDV3HplL71Y97LDGqOVWtDpxTiLSVjlm2CaIJlusUCy/AAqxsL5d8wFFUhtSI/zKHeXoNzN83Lz02ebDNH3zRpyyoyJPcHSN8OFJlp/Og0Glsp3QaUsgRDr9r2GyAVoy5r5jC2x77giuf/y4sqw4Os217ZDiVRCtghR/EhuNKtMtDsvfaj06nan9y6BYPfuddDIZpN27SFGH1Y9pVLhsqj340dUYhOWdxdYINqWOcDPniL5rMaDc3yFkdRr0fUGdYhQbkaDtojkQ==;TI0qTzyMhrZRGiVWDYMnZQ=="
+secured: "dzaHn7ULGGJdnVd7k6OysTfHLn1T7bPPCSZHQG9c2iUxCuFU3wibS3OUc0KScK3Efw7BrqdWj4Dp1mP4YPAeFOfGKt7q1NaiRenb7oaQ0z/IQ61UgpVDMC/UbPoatLRHzEQN7N3RA2j1yP5n9m26PyXbBYoouvD8G4DNNxqzVx6FvKQKAPWhs8GkgVVtFC8Ld0PVGBIx9sILENKJKfiyAIDbeceIgE9lP1WyLCOvkS9J6MKChgKnh5Uwum8KLD4QNUHQIoOlcsktO0l556TixUwqgNEopbo5ljDB9HTt9sfdFZ0aTaBXA/mHyClIsXyLU95WEIGp6AnXjPxEzwIA0LabWwhI6HyT6BNeGTbul7k=;yxjwnMogROWu2jOgkEq6hw=="
 ---
 

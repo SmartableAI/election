@@ -145,6 +145,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
+    excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
+    publishedDateTime: 2020-12-23T11:50:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Trump Pardons Two Russia Inquiry Figures and Blackwater Guards"
     excerpt: "Christmas wave of 20 pardons and commutations are not likely to be the last before Mr. Trump leaves office on Jan. 20."
     publishedDateTime: 2020-12-23T00:08:00Z

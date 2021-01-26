@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-11-pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency.md",
+      "title": "Pelosi says House will proceed with efforts to remove Trump 'with urgency'",
+      "excerpt": "House will first try to force Mike Pence to oust president by invoking 25th amendment and then move forward with impeachment",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/82ba8a9dc582f8706f2fd5d845b32ce2f95b88a8/0_1_4324_2595/master/4324.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb1e10affbd6476f4946d69cacd439d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "publishedDateTime": "2021-01-10T15:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-secret-service-investigating-death-threats-against-pence.md",
       "title": "Secret Service investigating death threats against Pence",
       "excerpt": "The U.S. Secret Service is investigating death threats against Vice President Mike Pence made by pro-Trump lawyer Lin Wood, Fox News has learned.",
@@ -1305,58 +1357,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-family-trump-supporter-who-died-followed-qanon-conspiracy.md",
-      "title": "Family: Trump supporter who died followed QAnon conspiracy",
-      "excerpt": "Friends and relatives say a Georgia woman killed in Wednesday’s siege of the U.S. Capitol was a recovering drug addict who wanted to become a sobriety counselor",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_10f0fe4d5c6741cebcd017089c462e9b_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "publishedDateTime": "2021-01-09T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-18-rep-marjorie-taylor-greene-was-suspended-by-twitter-for-12-hours-not-long-after-she-told-trump-supporters-to-mobilize-in-a-deleted-tweet.md",
+      "title": "Rep. Marjorie Taylor Greene was suspended by Twitter for 12 hours not long after she told Trump supporters to 'mobilize' in a deleted tweet",
+      "excerpt": "In a since-deleted tweet, the congresswoman told 'all Americans' to 'mobilize and make your voices heard in opposition' days before Biden is sworn in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1",
+      "originalUrl": "https://www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/600499fa660f6c0018349a20?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1?amp",
+      "publishedDateTime": "2021-01-17T12:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-paleologos-on-the-poll-inauguration-day-isnt-the-end-of-the-trump-era-its-just-the-beginning.md",
       "title": "Paleologos on the Poll: Inauguration Day isn't the end of the Trump era. It's just the beginning.",
       "excerpt": "David Paleologos, director of the Suffolk University Political Research Center, says Trump would be the favorite in the 2024 GOP primary.",
@@ -123,7 +175,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1248,62 +1300,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-despite-trump-administration-promise-government-has-no-more-reserve-2nd-vaccine-doses.md",
-      "title": "Despite Trump administration promise, government has no more 'reserve' 2nd vaccine doses",
-      "excerpt": "Hopes of a surge in Covid-19 vaccine shipments under a new policy to release second doses held in reserve appear to be evaporating -- with the revelation that those doses have already been distributed, contrary to recent indications by the Trump administration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222111258-02-alex-azar-vaccine-1222-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html",
-      "publishedDateTime": "2021-01-15T17:36:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

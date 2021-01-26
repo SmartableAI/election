@@ -80,6 +80,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "House Democrats present Trump impeachment charge to the Senate, allowing trial to begin"
+    excerpt: "House Democrats presented an article of impeachment against former President Donald Trump to the Senate on Monday night, kicking off proceedings on an unprecedented second trial that could have major consequences for the Republican’s future political prospects."
+    publishedDateTime: 2021-01-26T00:30:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ILMkptU1rlo/trump-impeachment-proceeds-senate-trial-house-democrats-present-charge"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-proceeds-senate-trial-house-democrats-present-charge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-proceeds-senate-trial-house-democrats-present-charge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63fa6f03-9bcc-4985-afd2-add69413791d/f5bbb03c-c7af-4560-b0a5-ddc95ea59265/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Democratic senator presiding over Trump impeachment trial pledges impartiality despite call to convict"
+    excerpt: "Sen. Leahy was a vocal critic of Trump after his supporters stormed the Capitol, calling for him to be convicted on impeachment charges and barred from holding office in the future."
+    publishedDateTime: 2021-01-26T00:08:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZYqArmri1Q/dem-senator-presiding-trump-impeachment-pledges-impartiality-despite-past-call-to-convict"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-senator-presiding-trump-impeachment-pledges-impartiality-despite-past-call-to-convict.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-senator-presiding-trump-impeachment-pledges-impartiality-despite-past-call-to-convict.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2839388-82de-4145-9289-46adc4c3d379/8e28eb1f-39e1-48af-8457-d271c9d53bce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump may issue 50 to 100 commutations, pardons before term ends; rapper Lil Wayne expected to be on list"
     excerpt: "President Trump is expected to issue between 50 and 100 commutations and pardons before he leaves office this week, two sources familiar with the list told Fox News."
     publishedDateTime: 2021-01-18T14:26:43Z

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Rand Paul says convicting Trump would 'destroy' GOP"
+    excerpt: "Sometime shortly after President-elect Joe Biden is sworn in as the 46th President of the United States on Wednesday, the Senate will likely begin the impeachment trial of soon-to-be-former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-01-18T23:30:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vjfA7e1Wa2o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/rand-paul-senate-conviction-trump-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/rand-paul-senate-conviction-trump-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200322135035-01-rand-paul-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McConnell to propose allowing Trump two weeks to prepare impeachment defense"
     excerpt: "Senate Minority Leader Mitch McConnell is proposing to give former President Donald Trump two weeks to prepare his legal case for his impeachment trial, according to sources familiar with the matter."
     publishedDateTime: 2021-01-21T22:00:00Z

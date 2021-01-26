@@ -30,133 +30,129 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden set to arrive in Washington on eve of his inauguration"
-    excerpt: "President-elect Joe Biden arrives in Washington Tuesday for the start of his inaugural ceremonies at a dark and solemn moment in American history, preparing to take his oath of office as the US approaches 400,000 coronavirus deaths and is more divided than at any time since the Civil War.\n    \n"
-    publishedDateTime: 2021-01-19T18:50:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2b-bS4R_BRc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
+  - title: "Biden tells CNN Trump's impeachment trial 'has to happen'"
+    excerpt: "President Joe Biden on Monday offered his most extensive comments since taking office on President Donald Trump's impeachment trial, telling CNN \"I think it has to happen.\"\n    \n"
+    publishedDateTime: 2021-01-26T00:36:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0HD9mLDX2SI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118185745-field-of-flags-210118-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden wants to remove this controversial word from US laws"
-    excerpt: "It's just one small part of the sweeping immigration overhaul President Biden is pushing.\n    \n"
-    publishedDateTime: 2021-01-21T18:59:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jAHo4tRxfS0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/alien-biden-immigration-law/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/alien-biden-immigration-law/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120163716-alien-biden-immigration-law-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Judge asks Biden administration to clarify deportation pause order"
-    excerpt: "A federal judge in Texas on Monday asked the Biden administration to clarify its 100-day pause on deportations as he considers a lawsuit to block the moratorium.\n    \n"
-    publishedDateTime: 2021-01-25T16:02:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QVUfljvA8Gg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/deportation-pause-texas/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/deportation-pause-texas/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922010710-ice-police-officer-ny-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Washington Post: Pence closer than initially known to the violent mob during US Capitol storming "
-    excerpt: "Vice President Mike Pence came closer than initially known to the mob of pro-Trump rioters who stormed the US Capitol on January 6, according to new reporting from the Washington Post.\n    \n"
-    publishedDateTime: 2021-01-15T16:55:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VEuDu-3iRN0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/pence-mob-us-capitol-january-6/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/pence-mob-us-capitol-january-6/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107054511-02-congress-electoral-college-0107-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden raises the bar on vaccines and suggests US will get to 1.5 million a day"
-    excerpt: "President Joe Biden said Monday that he expects that the US will soon be able to vaccinate 1.5 million people a day, raising the bar by roughly 500,000 more vaccinations than its target of 1 million per day in his first 100 days in office. He said that the US could surpass that initial target in about"
-    publishedDateTime: 2021-01-25T22:46:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XJlPcSIgRd0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/biden-vaccine-distribution/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-vaccine-distribution/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
+    quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125161813-01-biden-manufacturing-0125-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Washington Post: Biden to ask for US Surgeon General Jerome Adams' resignation and name acting official"
-    excerpt: "President-elect Joe Biden is expected to ask for US Surgeon General Jerome Adams' resignation soon after he is sworn-in on Wednesday, and select an acting surgeon general while his permanent pick for the role of the nation's top doctor undergoes Senate confirmation, according to The Washington Post.\n"
-    publishedDateTime: 2021-01-20T11:49:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cksx-mIbmSI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/biden-jerome-adams-surgeon-general-resign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/biden-jerome-adams-surgeon-general-resign/index.html"
+  - title: "Biden set to reinstate coronavirus-related travel restrictions that Trump lifted"
+    excerpt: "President Joe Biden on Monday will sign a presidential proclamation reinstating the travel restrictions imposed due to the Covid-19 pandemic, White House press secretary Jen Psaki confirmed during her daily briefing.\n    \n"
+    publishedDateTime: 2021-01-25T18:48:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HfPpPGh7P_4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/biden-coronavirus-travel-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-coronavirus-travel-restrictions/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103093854-surgeon-general-jerome-adams-covid-19-vaccine-sotu-vpx-00014023-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125124916-biden-eo-lifts-transgender-ban-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "With 400k Covid deaths, Biden set to take helm of nation in crisis"
-    excerpt: "With more than 400,000 souls lost to the coronavirus pandemic, President-elect Joe Biden will have his work cut out for him when he takes the helm of a polarized and pained nation tomorrow at noon. Here is what we're watching this Tuesday morning."
-    publishedDateTime: 2021-01-19T12:58:00Z
-    webUrl: "https://www.nbcnews.com/news/morning-briefing/400k-covid-deaths-biden-set-take-helm-nation-crisis-n1254640"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254640"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254640"
+  - title: "McConnell proposes delaying impeachment trial until February so Trump team can prepare"
+    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
+    publishedDateTime: 2021-01-22T02:55:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Start of Trump's impeachment trial remains unsettled as Pelosi refuses to say when she'll send over article"
+    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
+    publishedDateTime: 2021-01-21T16:45:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113164531-02-pelosi-gavel-house-impeachment-vote-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Former Trump officials and other GOP lawyers urge senators to 'consider the evidence' in impeachment trial"
+    excerpt: "With the second impeachment trial of Donald Trump set to begin in February, nine prominent Republican lawyers, including two former officials in the Trump administration, have signed a letter urging GOP senators to \"consider the evidence\" before deciding how to vote on conviction.\n    \n"
+    publishedDateTime: 2021-01-25T15:38:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fEnQl6lFRGs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122180955-schumer-senate-floor-impeachment-timeline-screen-grab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Trial of Donald Trump: The Sequel"
+    excerpt: "Readers criticize both Republicans and Democrats for increasing divisiveness and disagree about the best way to hold Mr. Trump accountable."
+    publishedDateTime: 2021-01-25T17:48:00Z
+    webUrl: "https://www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/25/us/25-DC-IMPEACH-01-PRINT/merlin_182307399_f6bd267f-8e7f-4361-bf7e-31f0e440da09-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "‘It Will Be Soon,’ Pelosi Says of Trump Impeachment Trial"
+    excerpt: "Speaker Nancy Pelosi said the impeachment charge against former President Donald J. Trump would be sent to the Senate for trial “soon,” but didn’t pinpoint a date."
+    publishedDateTime: 2021-01-21T20:29:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007563439/pelosi-trump-impeachment-trial.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/21/us/politics/21transition-impeach-sub/21transition-impeach-sub-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "McConnell wants to push Trump's Senate impeachment trial to mid-February"
+    excerpt: "McConnell’s proposal is a deal to give both sides time to prepare for former President Donald Trump's second impeachment trial."
+    publishedDateTime: 2021-01-22T03:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/mcconnell-wants-push-trump-s-senate-impeachment-trial-february-n1255226"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 114
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_03/3443042/210119-lincoln_memorial_reflecting_pool-mc-1137_a48dc439f5ef580d138644f5f3cb857b.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "'Armed protests' warning puts officials on alert this weekend ahead of Biden inauguration"
-    excerpt: "Law enforcement and state officials are on high alert for potentially violent protests this weekend in the lead-up to Inauguration Day, with some state capitols boarded up and others temporarily closed ahead of Wednesday's ceremony."
-    publishedDateTime: 2021-01-19T15:47:00Z
-    webUrl: "https://www.cnn.com/2021/01/16/us/inauguration-protests-saturday/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/us/inauguration-protests-saturday/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/us/inauguration-protests-saturday/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 126
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116204718-capitol-fence-jan-15-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media3.s-nbcnews.com/j/newscms/2021_03/3444082/210121-mitch-mcconnell-se-512p_743400cea8c8cb08490113ee7ff58353.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "4uaW03+7QoFOKZRbKRSA/BDoshJ1zsOh1cbHSxEYFlZuQxRUduWn9T1ri7WhwB3a6xHKFTedmGdyjWmErBeuCkdpM6JH+MBN7Q/7BAhocLU1Khqbjj0c4y1h2xsXK0kqsUQ5+i++0dCVP5j1qQ4vi19Wztr2R4mcdJteSt5K8Sat2yNDV5sKImqgpgTXvb9Y6R3O2jsLaQWYn+ZL9TZGzdcMa+mu6oInw5JoZOMryxsCK2A7nnUqDtLj0SCP/ZltvvX+xAKFLOlbd8St+iY9msJBsBXKt6VpgzEmdv6VPhLuMTXq+iD2PzKfQKdwQXcdglRexEjL2lg6XbxgTKwirvyEVErzYF/JOAncXoiUpq4=;4ldqBVlbachtybqFo2leBA=="

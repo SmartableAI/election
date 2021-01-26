@@ -138,6 +138,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden more bullish on vaccines, suggests 1.5M shots per day"
+    excerpt: "President Joe Biden on Monday appeared to boost his goal for coronavirus vaccinations in his first 100 days in office, suggesting that the nation could soon be vaccinating 1.5 million Americans on average per day."
+    publishedDateTime: 2021-01-25T23:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/25/biden-more-bullish-vaccines-suggests-1-5-m-shots-per-day/4253427001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e4004a43-0bab-437e-8c49-cf86e4a9f02b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Eye Opener: Biden signs slew of executive actions in first days as president"
     excerpt: "President Joe Biden has already signed 29 executive actions during his first 55 hours in the White House. Also, January has now become the second deadliest month in the coronavirus pandemic. All that and all that matters in today's Eye Opener."
     publishedDateTime: 2021-01-23T13:40:00Z

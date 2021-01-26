@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here are the executive orders Biden has signed so far"
+    excerpt: "President Joe Biden has signed a flurry of executive orders, actions and memorandums aimed at rapidly addressing the coronavirus pandemic and dismantling many of President Donald Trump's policies.\n    \n"
+    publishedDateTime: 2021-01-25T19:04:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GTyD7Szq5o4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/biden-executive-orders-day-six/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-executive-orders-day-six/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122162050-president-biden-executive-orders-economic-relief-mattingly-dnt-lead-vpx-00004102-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Judge asks Biden administration to clarify deportation pause order"
     excerpt: "A federal judge in Texas on Monday asked the Biden administration to clarify its 100-day pause on deportations as he considers a lawsuit to block the moratorium.\n    \n"
     publishedDateTime: 2021-01-25T16:02:24Z
@@ -111,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to meet with first Black defense secretary as administration is poised to lift transgender military ban"
+    excerpt: "President Joe Biden is set to meet Monday morning with Defense Secretary Lloyd Austin, as the President is poised to repeal a Trump-era ban on most transgender Americans joining the military as early as Monday.\n    \n"
+    publishedDateTime: 2021-01-25T16:35:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uqxM1f4i9WE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/lloyd-austin-transgender-military-harris-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/lloyd-austin-transgender-military-harris-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125103833-biden-harris-austin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "With 400k Covid deaths, Biden set to take helm of nation in crisis"
     excerpt: "With more than 400,000 souls lost to the coronavirus pandemic, President-elect Joe Biden will have his work cut out for him when he takes the helm of a polarized and pained nation tomorrow at noon. Here is what we're watching this Tuesday morning."
     publishedDateTime: 2021-01-19T12:58:00Z
@@ -142,20 +174,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116204718-capitol-fence-jan-15-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden's next fight on the left"
-    excerpt: "President Joe Biden’s new administration has won tons of points on the left for most of its financial services nominees, from Treasury to the CFPB. But the White House has a bit of a fight on its hands with University of Michigan’s Michael Barr,"
-    publishedDateTime: 2021-01-25T13:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-money/2021/01/25/bidens-next-fight-on-the-left-792955"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "AIlAxWT5WB1Gq8abxT2NdpQd6LTgIHyfe5l+MMPmigP3NTjjfDE73iYPbD5ZmN25dX+QD3l9MC4YCWAk9jkelyFmYl7gPTNdFKSWF7tu84eQrqVrn16Em+mhlK2bouL1prfqRRnp5jWuKUbU/SNQ/wrRboWP4x5orMzQ8Gup8d+2DR3HjIKZOfV5b/l8fLiHRFyMIeEVdECZ/NV2I9dXdKBMziwoghaSvlJ5McF0m34TrrhYisBFxD1/SXM7IREZZJhPmgdmybT3KeziTa9yjcikGoQ8LlrAxWBT/aeyxuDbD99JuYFgtyvqpi0rIBPERIU678fzn9sPXgVet12CelFHDyq1vLkFJclxG3gA5wU=;tjmA4q21ZPt1dTJkscWM7A=="

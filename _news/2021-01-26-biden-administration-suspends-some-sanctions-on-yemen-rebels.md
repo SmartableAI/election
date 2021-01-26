@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-adminis
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-administration-suspends-some-sanctions-on-yemen-rebels/2021/01/25/b62f7ec0-5f52-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -137,6 +137,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden more bullish on vaccines, suggests 1.5M shots per day"
+    excerpt: "President Joe Biden on Monday appeared to boost his goal for coronavirus vaccinations in his first 100 days in office, suggesting that the nation could soon be vaccinating 1.5 million Americans on average per day."
+    publishedDateTime: 2021-01-25T23:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/25/biden-more-bullish-vaccines-suggests-1-5-m-shots-per-day/4253427001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e4004a43-0bab-437e-8c49-cf86e4a9f02b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Eye Opener: Biden signs slew of executive actions in first days as president"
     excerpt: "President Joe Biden has already signed 29 executive actions during his first 55 hours in the White House. Also, January has now become the second deadliest month in the coronavirus pandemic. All that and all that matters in today's Eye Opener."

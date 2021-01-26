@@ -476,6 +476,22 @@ related:
         width: 1024
         height: 732
         isCached: true
+  - title: "Second Donald Trump impeachment: House delivers charge to Senate"
+    excerpt: "Democrats marched the impeachment case against Donald Trump to the Senate Monday night for the start of his historic trial, but Republican senators were easing off their criticism of the former president and shunning calls to convict him over the deadly siege at the U."
+    publishedDateTime: 2021-01-25T23:07:00Z
+    webUrl: "https://www.al.com/politics/2021/01/second-donald-trump-impeachment-house-delivers-charge-to-senate.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/second-donald-trump-impeachment-house-delivers-charge-to-senate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/second-donald-trump-impeachment-house-delivers-charge-to-senate.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q3WCHWBDGJGDXHN5U2NV7WUYZM.jpg"
+        width: 5800
+        height: 3951
+        isCached: true
   - title: "Trump impeachment trial to begin week of Feb. 8 following Schumer, GOP agreement"
     excerpt: "Under the timeline, the House will transmit the impeachment article against Trump late Monday, with initial proceedings Tuesday."
     publishedDateTime: 2021-01-22T22:40:00Z

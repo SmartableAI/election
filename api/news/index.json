@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-biden-tells-cnn-trumps-impeachment-trial-has-to-happen.md",
+      "title": "Biden tells CNN Trump's impeachment trial 'has to happen'",
+      "excerpt": "President Joe Biden on Monday offered his most extensive comments since taking office on President Donald Trump's impeachment trial, telling CNN \"I think it has to happen.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0HD9mLDX2SI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0HD9mLDX2SI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 350,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210125161813-01-biden-manufacturing-0125-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html",
+      "publishedDateTime": "2021-01-25T16:36:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-rep-crenshaw-on-biden-lifting-transgender-military-ban-people-should-serve-openly.md",
+      "title": "Rep. Crenshaw on Biden lifting transgender military ban: 'People should serve openly'",
+      "excerpt": "Any American willing and able to serve in the military should be permitted to do so, Rep. Dan Crenshaw, R-Texas, said Monday after President Biden lifted a Trump-era restriction on transgender people serving their country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UID97HYZ14M/crenshaw-biden-lifting-transgender-military-ban-people-openly",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UID97HYZ14M/crenshaw-biden-lifting-transgender-military-ban-people-openly",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09e2e85d-64be-4720-b526-4f9770f182f3/b20f13fd-b028-4a9c-8828-e1bdc345f55a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/crenshaw-biden-lifting-transgender-military-ban-people-openly.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-biden-lifting-transgender-military-ban-people-openly.amp",
+      "publishedDateTime": "2021-01-25T15:21:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-politics-live-updates-biden-predicts-vaccine-available-to-general-public-in-spring-sen-leahy-to-preside-over-impeachment.md",
       "title": "Politics live updates: Biden predicts vaccine available to general public in spring; Sen. Leahy to preside over impeachment",
       "excerpt": "House Democrats will carry their article of impeachment against Donald Trump across the Capitol to the Senate Monday. The trial will start Feb. 9.",
@@ -62,7 +174,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/national-security/biden-administration-suspends-some-sanctions-on-yemen-rebels/2021/01/25/b62f7ec0-5f52-11eb-a177-7765f29a9524_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -162,23 +274,23 @@
       ]
     },
     {
-      "path": "_news/2021-01-25-biden-set-to-reinstate-coronavirus-related-travel-restrictions-that-trump-lifted.md",
-      "title": "Biden set to reinstate coronavirus-related travel restrictions that Trump lifted",
-      "excerpt": "President Joe Biden on Monday will sign a presidential proclamation reinstating the travel restrictions imposed due to the Covid-19 pandemic, White House press secretary Jen Psaki confirmed during her daily briefing.\n    \n",
+      "path": "_news/2021-01-25-white-house-recommits-to-getting-harriet-tubman-on-20-bill-after-trump-delay.md",
+      "title": "White House recommits to getting Harriet Tubman on $20 bill after Trump delay",
+      "excerpt": "The Biden administration says it is \"exploring ways to speed up\" release of $20 bills featuring Harriet Tubman after the Trump administration delayed the move first initiated by President Barack Obama.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HfPpPGh7P_4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HfPpPGh7P_4/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cyd-ihpMsnw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cyd-ihpMsnw/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 525,
+      "heat": 172,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210125124916-biden-eo-lifts-transgender-ban-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200220173132-harriet-tubman-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -188,9 +300,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/biden-coronavirus-travel-restrictions/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-coronavirus-travel-restrictions/index.html",
-      "publishedDateTime": "2021-01-25T10:48:49-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/harriet-tubman-20-biden-trump-obama/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/harriet-tubman-20-biden-trump-obama/index.html",
+      "publishedDateTime": "2021-01-25T11:16:55-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -322,6 +434,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-25-supreme-court-dismisses-emolument-cases-against-trump.md",
+      "title": "Supreme Court dismisses emolument cases against Trump",
+      "excerpt": "The Supreme Court declined on Monday to hear a case concerning whether former President Donald Trump violated provisions of the Constitution that bar a president from profiting from a foreign government.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwk7xXXLMKU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwk7xXXLMKU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180329110216-02-trump-hotel-washington-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html",
+      "publishedDateTime": "2021-01-25T08:24:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-deborah-birx-said-trump-was-being-given-parallel-data-on-covid-19.md",
       "title": "Deborah Birx said Trump was being given ‘parallel data’ on covid-19",
       "excerpt": "Deborax Birx saw Trump presenting graphs that she never made, the former White House coronavirus response coordinator said Sunday.",
@@ -371,62 +539,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-former-trump-officials-and-other-gop-lawyers-urge-senators-to-consider-the-evidence-in-impeachment-trial.md",
-      "title": "Former Trump officials and other GOP lawyers urge senators to 'consider the evidence' in impeachment trial",
-      "excerpt": "With the second impeachment trial of Donald Trump set to begin in February, nine prominent Republican lawyers, including two former officials in the Trump administration, have signed a letter urging GOP senators to \"consider the evidence\" before deciding how to vote on conviction.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fEnQl6lFRGs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fEnQl6lFRGs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122180955-schumer-senate-floor-impeachment-timeline-screen-grab-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html",
-      "publishedDateTime": "2021-01-25T07:38:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -602,7 +714,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-dominion/trump-lawyer-giuliani-faces-dominion-lawsuit-for-big-lie-election-fraud-claims-idUSKBN29U1CD",
       "featuredContent": null,
       "highlight": null,
-      "heat": 355,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -1242,119 +1354,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-trump-impeachment-trial-is-stupid-bad-for-the-country-rubio.md",
-      "title": "Trump impeachment trial is 'stupid,' 'bad for the country': Rubio",
-      "excerpt": "The Senate impeachment trial of former President Donald Trump is \"stupid\" and \"bad for the country,\" Sen. Marco Rubio said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-8S90EU9loE/trump-impeachment-trial-rubio-senate-republicans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-8S90EU9loE/trump-impeachment-trial-rubio-senate-republicans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020641075301.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-trial-rubio-senate-republicans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-rubio-senate-republicans.amp",
-      "publishedDateTime": "2021-01-24T08:34:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-inside-kamala-harris-historic-first-days.md",
-      "title": "Inside Kamala Harris' historic first days",
-      "excerpt": "In the hours after her historic inauguration, Kamala Harris beamed into televisions across the country, delivering her first speech as vice president just steps beyond the sitting relic of Abraham Lincoln and a short distance from where Dr. Martin Luther King Jr. shared his iconic words that inspired",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tDjeqpkzK_0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tDjeqpkzK_0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210120130215-harris-emhoff-lincoln-memorial-0120-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html",
-      "publishedDateTime": "2021-01-24T06:06:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

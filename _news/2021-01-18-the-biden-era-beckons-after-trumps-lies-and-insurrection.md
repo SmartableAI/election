@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3270
+heat: 3290
 published: true
 
 provider:
@@ -2348,6 +2348,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3442551/210115-joe-biden-bipartisan-se-747p_6b5ca242ff08daf038d8b960aace8ef5.jpg"
         width: 2500
         height: 1658
+        isCached: true
+  - title: "Biden reverses Trump's transgender military ban"
+    excerpt: "President Joe Biden on Monday signed an executive order repealing the ban on transgender people serving openly in the military, a ban that former President Donald Trump had put in effect, the White House said."
+    publishedDateTime: 2021-01-26T00:23:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-reverse-trump-s-transgender-military-ban-n1255522"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2019_15/2819796/190411-transgender-military-ban-protest-al-1124_b2bd655352a105d41d9d5438c8a18606.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump's speech is probably defensible in every court — except, perhaps, the Senate"
     excerpt: "The Senate will now decide whether President Donald Trump should be convicted on the House's charge of incitement of insurrection, and there has also been discussion of potential criminal charges arising from the same conduct after he leaves office."

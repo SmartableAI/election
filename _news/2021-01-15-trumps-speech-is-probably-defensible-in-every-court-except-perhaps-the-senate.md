@@ -2366,6 +2366,20 @@ related:
         width: 2500
         height: 1658
         isCached: true
+  - title: "Biden reverses Trump's transgender military ban"
+    excerpt: "President Joe Biden on Monday signed an executive order repealing the ban on transgender people serving openly in the military, a ban that former President Donald Trump had put in effect, the White House said."
+    publishedDateTime: 2021-01-26T00:23:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-reverse-trump-s-transgender-military-ban-n1255522"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2019_15/2819796/190411-transgender-military-ban-protest-al-1124_b2bd655352a105d41d9d5438c8a18606.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New Jersey Playbook Q&A: Phil Murphy on Joe Biden, the pandemic and Trump"
     excerpt: "New Jersey Playbook writer Matt Friedman spoke to Murphy briefly over the phone about his relationship with the new administration, former President Donald Trump and how vaccine distribution is going in New Jersey."
     publishedDateTime: 2021-01-21T12:01:00Z

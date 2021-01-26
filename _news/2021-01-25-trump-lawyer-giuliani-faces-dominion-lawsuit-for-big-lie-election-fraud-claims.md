@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1CD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1CD"
 type: article
 quality: 135
-heat: 355
+heat: 415
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548848598&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N00Q"
         width: 803
+        height: 545
+        isCached: true
+  - title: "Trump lawyer Giuliani faces $1.3 billion lawsuit over 'big lie' election fraud claims"
+    excerpt: "A U.S. voting machine company filed a $1.3 billion lawsuit against former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation in what it called his \"big lie\" campaign about widespread fraud in the presidential election,"
+    publishedDateTime: 2021-01-26T00:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-dominion-idUSKBN29U1CD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1CD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1CD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548995516&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O0SY"
+        width: 817
         height: 545
         isCached: true
   - title: "Rapper Lil Wayne in line for last-day pardon from Donald Trump"
@@ -92,6 +108,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/horned_man_capitol_riots011221.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump, allies raise pressure on Senate GOP ahead of impeachment"
+    excerpt: "Allies of former President Trump are waging an intense pressure campaign aimed at convincing GOP senators to vote against his conviction in next month’s impeachment trial."
+    publishedDateTime: 2021-01-26T00:18:00Z
+    webUrl: "https://thehill.com/homenews/campaign/535754-trump-builds-pressure-on-gop-ahead-of-impeachment"
+    ampWebUrl: "https://thehill.com/homenews/campaign/535754-trump-builds-pressure-on-gop-ahead-of-impeachment?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/535754-trump-builds-pressure-on-gop-ahead-of-impeachment?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/impeachment_012521gn2_lead.jpg"
         width: 980
         height: 551
         isCached: true
@@ -195,6 +227,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "With Trump Gone, U.S. Supreme Court Pulls Plug on Anti-Corruption Cases"
+    excerpt: "Five days after the end of Donald Trump's presidency, the U.S. Supreme Court on Monday halted lawsuits accusing him of violating the U.S. Constitution's anti-corruption provisions by maintaining ownership of his business empire including a hotel near the White House while in office."
+    publishedDateTime: 2021-01-26T00:36:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-01-25/us-supreme-court-ends-anti-corruption-lawsuits-against-trump"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-25/us-supreme-court-ends-anti-corruption-lawsuits-against-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-25/us-supreme-court-ends-anti-corruption-lawsuits-against-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "ztJx8RjVwkKh11Z0Va9k1xNZOlkzTbOmFYzkFGL2mAeawxwW5a6UeqAHKMKUzrSnEMa2Q8oy5R9jSaMqXO+rq1rI7Luq5hmjQDcNHXYQK2OkCh5RF1ydAFXd1bS9mfHJWkJQiR1L1VCEAX20zAk9TOpk1eoUIisPMcA5Nv/gV4swC+wiyEOz8BVSG1TpEICX+FIDNnYVygRPSCMWfML2eOT6W9PZSMHSEJ4/ub0HfSHysG2ZbEBxlXuGS15B/Stx6FbjJpC/4K9cFi+D4KTrAHWPt+U1Gh/Pig3J9Ip4et4omzxSZd16Lfz5NdYfEqQ7c5Yb/ifNcKs1LOs3GI1Z0ijXhZeaKjhMStmVuROzbXV1BuR1idoy8PTVo4acGyBq4R84H/nE5unNq4HJUbUkIw/VhvBSkQVkoJcyieHq+6WuUiDiwhD8XnC1XVNoXL4ZalHubUBQaPQXBhMIrDKSKkkMuHHhxr4IYD0BNUkqX4piPtl2GykR59TA7buD9VFGJoCdDKG8iL0c/MUvCeq7og==;0rt1OKlubpF3iqnQP58ebQ=="
 ---

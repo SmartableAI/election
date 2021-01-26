@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump transformed the Supreme Court that mostly helped advance his agenda"
+    excerpt: "President Donald Trump will exit the White House on Wednesday but leave behind three of the nine Supreme Court justices and a majority that was willing to partner with him for much of his agenda.\n    \n"
+    publishedDateTime: 2021-01-19T12:33:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/96XkejHQPo4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/trump-supreme-court-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/trump-supreme-court-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118152846-01-trump-barrett-0926-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What impact could deplatforming Donald Trump have?"
     excerpt: "Donald Trump has been kicked off of most major social media platforms. What effect does deplatforming tend to have on the spread of misinformation?"
     publishedDateTime: 2021-01-20T18:34:00Z

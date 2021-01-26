@@ -32,21 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "Fauci says lack of candor from Trump administration 'very likely' cost lives"
-    excerpt: "Dr. Anthony Fauci said Friday that the lack of truthfulness from the Trump administration regarding the Covid-19 pandemic \"very likely\" cost American lives.\n    \n"
-    publishedDateTime: 2021-01-22T13:27:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/taeDdXHZFJU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html"
+  - title: "Birx: I always considered quitting Trump's White House Covid task force"
+    excerpt: "Dr. Deborah Birx \"always\" considered quitting then-President Donald Trump's White House coronavirus task force and was troubled by colleagues' perceptions that she had become political, she said in an interview clip released Friday.\n    \n"
+    publishedDateTime: 2021-01-23T02:10:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xMutAa4evAQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121183810-03-white-house-covid-presser-0121-fauci-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222145539-deborah-birx-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump adviser says former President not currently considering launching a third party "
+    excerpt: "Former President Donald Trump remains committed to reelecting Republicans and is not currently considering launching a third party, a senior Trump adviser said Sunday while noting that things could change.\n    \n"
+    publishedDateTime: 2021-01-25T00:27:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dC9fFTFNj-Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/trump-republican-party/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/trump-republican-party/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210123004326-04-donald-trump-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump to lift Covid-19 related travel restrictions before he leaves office, White House official says"
+    excerpt: "President Donald Trump is expected to lift coronavirus-related travel restrictions starting on January 26, nearly a week after he leaves office, a White House official said Monday.\n    \n"
+    publishedDateTime: 2021-01-19T00:27:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e1Olf9wbdXY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/trump-covid-travel-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/trump-covid-travel-restrictions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002735-05-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Deborah Birx: ‘Parallel set of data’ on Covid-19 was delivered to Trump"
+    excerpt: "I saw the president presenting graphs that I never made,” the former White House coronavirus response coordinator told CBS."
+    publishedDateTime: 2021-01-24T19:17:00Z
+    webUrl: "https://www.politico.com/news/2021/01/24/birx-trump-parallel-covid-data-461928"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/92/d3/8d87f9234321969aed4ab15a9ec4/210124-birx-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "fDctRs4Bi8wM46T/XnBMzfPAgvsGCYTkoXYDo2XQOFN+S95LbjY+4bakDVr2NtR//X0cUSkxqlRLKNlw0hIzU/pGJTG8uiVjpyUGRTViYXmjc6U0Mk9Nqyf0PVRjUe1FeDdCIc1NW1tCcpgVIWi7RWzQHi5mDjX1qZEl5+/GbB4Kh/quVZOuThxzWPm/KUXvpdvncDlSrkhaYvPiR0xCFIvVfgUKcLj+uYA/CBnxyb3ykQ+RjfZ2RCnSVJbpGNxvp0mm6ldknZPGvj/bH6IAau1i9ZeFWjmCJzwDlp+2yT/FpC1hMPfD1XMm7MkrjD8467RNT94S6ZuAC1D9fmI67RkDu/8mVeOaTQjhIb4K6EoNXmhyMffQ/eyjOwoELSOmZAZ/m4TMieIDmE71KThbwHiLjh2/HJD34DeXSjkopSL5xYG7zvlSvo1fYdlGcKjmZVtw55YZ4NMh8jIR7GcDgQxvhiqHUVbDFMeQKlfOWwuxGzxC7vYsbZWKilt1TmeSggmiVa6wFDtwrnmG+hig2Q==;2+GjfuQQm0VbKGBdw1IbCA=="

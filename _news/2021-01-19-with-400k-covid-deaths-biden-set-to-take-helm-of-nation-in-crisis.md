@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here are the executive orders Biden has signed so far"
+    excerpt: "President Joe Biden has signed a flurry of executive orders, actions and memorandums aimed at rapidly addressing the coronavirus pandemic and dismantling many of President Donald Trump's policies.\n    \n"
+    publishedDateTime: 2021-01-25T19:04:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GTyD7Szq5o4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/biden-executive-orders-day-six/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-executive-orders-day-six/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122162050-president-biden-executive-orders-economic-relief-mattingly-dnt-lead-vpx-00004102-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Judge asks Biden administration to clarify deportation pause order"
     excerpt: "A federal judge in Texas on Monday asked the Biden administration to clarify its 100-day pause on deportations as he considers a lawsuit to block the moratorium.\n    \n"
     publishedDateTime: 2021-01-25T16:02:24Z
@@ -128,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to meet with first Black defense secretary as administration is poised to lift transgender military ban"
+    excerpt: "President Joe Biden is set to meet Monday morning with Defense Secretary Lloyd Austin, as the President is poised to repeal a Trump-era ban on most transgender Americans joining the military as early as Monday.\n    \n"
+    publishedDateTime: 2021-01-25T16:35:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uqxM1f4i9WE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/lloyd-austin-transgender-military-harris-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/lloyd-austin-transgender-military-harris-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125103833-biden-harris-austin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Armed protests' warning puts officials on alert this weekend ahead of Biden inauguration"
     excerpt: "Law enforcement and state officials are on high alert for potentially violent protests this weekend in the lead-up to Inauguration Day, with some state capitols boarded up and others temporarily closed ahead of Wednesday's ceremony."
     publishedDateTime: 2021-01-19T15:47:00Z
@@ -143,20 +175,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116204718-capitol-fence-jan-15-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden's next fight on the left"
-    excerpt: "President Joe Biden’s new administration has won tons of points on the left for most of its financial services nominees, from Treasury to the CFPB. But the White House has a bit of a fight on its hands with University of Michigan’s Michael Barr,"
-    publishedDateTime: 2021-01-25T13:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-money/2021/01/25/bidens-next-fight-on-the-left-792955"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "VWSL5DLxrnwhZ1EIYcUdwjyxWM6WTIg6eLdLeWvmxCSK5hFpeIAsRM++NpVQtEbssquArh7zqI4JrHFhMZWQKSF1uCKNVHEK/Q/bDaF04ziwGHn6zGkIchKnmvpWYHn7dInG7XIqe9+LuvDgUA+N5C5A/MwGeJ26+R0usqLdI9SYxGJfQR0Vu9sDpTnfZP7EwkRq6D9DXxinyyvSEkzbqQ7jKKXbBLE4QmSc8O/Q7rs7ijizDS5mqADw7hlxmn2UTFCsX/U+6+pQo3BgE91Oe8nYhGzt392M5FxBXzUhm6Eo9GeppRJRpHsitepEyhg4PED6zacqDjU5o+1FRJKe8kOKVMFzILybBQwP6+XMOns/4/D4upa83XlMgbJmcTfjMNMxYrW+PuqOvwgpqslq/HXHLMTBO7W9yJnk6GHjAux9hWiqpbLVMASxm0uQN6ZQNXi+tSK5Acy/tlvGp5G5f3TcFvYDk+AhNFY8KANac6GSXN8YJ7Ygh8uA4VyhdQoV1JNl0sKiTRpEpjv5tAcb5g==;SEaEUeBqPjxCWNeQf0c1IA=="

@@ -63,6 +63,22 @@ related:
         width: 803
         height: 545
         isCached: true
+  - title: "Trump lawyer Giuliani faces $1.3 billion lawsuit over 'big lie' election fraud claims"
+    excerpt: "A U.S. voting machine company filed a $1.3 billion lawsuit against former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation in what it called his \"big lie\" campaign about widespread fraud in the presidential election,"
+    publishedDateTime: 2021-01-26T00:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-dominion-idUSKBN29U1CD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1CD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1CD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548995516&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O0SY"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump hires South Carolina lawyer Bowers for impeachment defense"
     excerpt: "Former President Donald Trump has hired South Carolina-based lawyer Butch Bowers to represent him in his Senate impeachment trial over a charge that he incited insurrection, a source familiar with the matter said on Thursday."
     publishedDateTime: 2021-01-22T04:19:00Z
@@ -92,6 +108,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/horned_man_capitol_riots011221.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump, allies raise pressure on Senate GOP ahead of impeachment"
+    excerpt: "Allies of former President Trump are waging an intense pressure campaign aimed at convincing GOP senators to vote against his conviction in next month’s impeachment trial."
+    publishedDateTime: 2021-01-26T00:18:00Z
+    webUrl: "https://thehill.com/homenews/campaign/535754-trump-builds-pressure-on-gop-ahead-of-impeachment"
+    ampWebUrl: "https://thehill.com/homenews/campaign/535754-trump-builds-pressure-on-gop-ahead-of-impeachment?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/535754-trump-builds-pressure-on-gop-ahead-of-impeachment?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/impeachment_012521gn2_lead.jpg"
         width: 980
         height: 551
         isCached: true
@@ -195,6 +227,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "With Trump Gone, U.S. Supreme Court Pulls Plug on Anti-Corruption Cases"
+    excerpt: "Five days after the end of Donald Trump's presidency, the U.S. Supreme Court on Monday halted lawsuits accusing him of violating the U.S. Constitution's anti-corruption provisions by maintaining ownership of his business empire including a hotel near the White House while in office."
+    publishedDateTime: 2021-01-26T00:36:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-01-25/us-supreme-court-ends-anti-corruption-lawsuits-against-trump"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-25/us-supreme-court-ends-anti-corruption-lawsuits-against-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-25/us-supreme-court-ends-anti-corruption-lawsuits-against-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "ulnV2dUiojxN6WdJKAiwEhD7gElg9RLIhsbtoDC8wSyJwNnMXvJPKfwga0QA3gRzBGcktNdKEwOyEngGV9Enb7J6+I45fknaR4Tn2ng+hgl/scXyGvSdj8uQ2dD0Lq+Fu23D69xzmYqUtdVz+wWwI+HZ4/QyEPQVsmA+PkVKcO9kaw8PY3siAyCQdHAa9/dveoh/MBW8pUuoErCYe/h2VVOCWzf7mVAzBLBvBppcnZwM/OX2OLFRcePU1EnIY3LLT2p3YSxVVWCjc2/xFB9xef99S26W519p0BiW7w1f3koIjrLjzOzJLxLos5B9jjm2GkCg5DMHcstTi7IDAfBzXupJrBIxHI7LmTeqeiJwOUgMsaa8IUfTGadIsDNU53UuISs1EgeG8NF+MRnnqlUaGUrairT8ecWa+d4KKG2tkVYCAgyCI+zipVlhn8XJMOMq6RTyxmMdng9eT52IZQ8SEDc9N3YLqH2ovRvvAgURIV7H8olgmj7IO0TrCPBhMvZ6bs4Lb8GHjYczHEBFShKNDQ==;IlCXInUMM78JlkWCZ+Bnqg=="
 ---

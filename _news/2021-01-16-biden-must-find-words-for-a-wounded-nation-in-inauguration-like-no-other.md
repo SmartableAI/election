@@ -1231,22 +1231,6 @@ related:
         width: 778
         height: 545
         isCached: true
-  - title: "Biden replaces White House doctor with longtime physician"
-    excerpt: "President Joe Biden has brought back Dr. Kevin O’Connor as his physician, replacing President Donald Trump’s doctor with the one who oversaw his care when he was vice president"
-    publishedDateTime: 2021-01-25T16:18:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-replaces-white-house-doctor-longtime-physician-75470445"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-replaces-white-house-doctor-longtime-physician-75470445"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-replaces-white-house-doctor-longtime-physician-75470445"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_018ab35ffa8c45f497af299030986e02_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
     excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
     publishedDateTime: 2021-01-20T23:07:00Z
@@ -2251,6 +2235,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden replaces White House doctor with longtime physician"
+    excerpt: "WASHINGTON (AP) — President Joe Biden has brought back Dr. Kevin O'Connor as his physician, replacing President Donald Trump's doctor with the one who oversaw his care when he was vice president."
+    publishedDateTime: 2021-01-26T00:38:00Z
+    webUrl: "https://www.businessinsider.com/biden-replaces-white-house-doctor-with-longtime-physician-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-replaces-white-house-doctor-with-longtime-physician-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-replaces-white-house-doctor-with-longtime-physician-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden's inauguration is unlike any before. Photos show how his ceremony compares to those of previous presidents."
     excerpt: "Due to COVID-19 and the threat of violence from far-right groups, the inauguration of President-elect Biden is unlike past ceremonies."
     publishedDateTime: 2021-01-20T16:59:00Z

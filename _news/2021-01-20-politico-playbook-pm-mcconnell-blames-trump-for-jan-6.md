@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "McConnell proposes delaying impeachment trial until February so Trump team can prepare"
-    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
-    publishedDateTime: 2021-01-22T02:55:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "McConnell privately says he wants Trump gone as Republicans quietly lobby him to convict"
     excerpt: "As the House prepares to send articles of impeachment to the Senate on Monday, CNN has learned that dozens of influential Republicans around Washington -- including former top Trump administration officials -- have been quietly lobbying GOP members of Congress to impeach and convict Donald Trump. The"
     publishedDateTime: 2021-01-22T18:51:52Z
@@ -110,33 +94,19 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "‘It Will Be Soon,’ Pelosi Says of Trump Impeachment Trial"
-    excerpt: "Speaker Nancy Pelosi said the impeachment charge against former President Donald J. Trump would be sent to the Senate for trial “soon,” but didn’t pinpoint a date."
-    publishedDateTime: 2021-01-21T20:29:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007563439/pelosi-trump-impeachment-trial.html"
+  - title: "The Trump implosion auction, brought to you by a Republican?"
+    excerpt: "One of my favorite stories of the past month or so has been the auction to push the button to blow up Trump Plaza. We know that it won’t happen. But would you believe the idea actually originated with a Republican former elected official,"
+    publishedDateTime: 2021-01-22T11:55:00Z
+    webUrl: "https://www.politico.com/newsletters/new-jersey-playbook/2021/01/22/the-trump-implosion-auction-brought-to-you-by-a-republican-491489"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Politico
+      domain: politico.com
     quality: 115
     images:
-      - url: "https://static01.nyt.com/images/2021/01/21/us/politics/21transition-impeach-sub/21transition-impeach-sub-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "McConnell wants to push Trump's Senate impeachment trial to mid-February"
-    excerpt: "McConnell’s proposal is a deal to give both sides time to prepare for former President Donald Trump's second impeachment trial."
-    publishedDateTime: 2021-01-22T03:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/mcconnell-wants-push-trump-s-senate-impeachment-trial-february-n1255226"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 114
-    images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2021_03/3444082/210121-mitch-mcconnell-se-512p_743400cea8c8cb08490113ee7ff58353.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "HNjT2e9pvsbBOW0k20IoeZaBqU/p8DVd1NpMA/5DC8gyTY4WnjPF7BgnVQbaod39B6N9V2h+IBhmEkgxmHen95JJQzalJekmzxttYJHzSJ5S7boXivi9332xRLDYxKb9f+dJxjIT+BX0gdhww/BCXMKL1+8rf/Pm7w9KTaIwUr7qeaue85wTCYUOC/s/C7tIgOAbJMBOvSW8rYYMjCzj6xn8O5ZBiMz/OlMr3yC5+u+ZM8T6985UaBpkwjPKrf39x06le5IOEo5MLBvrZc1jxvP8sBIfGOZ+lSNkz3tss7rH+tNgHCcZUdElrxbkHWCVE4aBWEB7mqKQn5MMtwR0gnd3CUYxzLinKnn3DZLOgv4=;P8T8xCsImDQZmXEV/gEB9g=="

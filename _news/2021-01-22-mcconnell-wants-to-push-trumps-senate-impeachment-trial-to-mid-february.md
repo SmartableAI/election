@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden tells CNN Trump's impeachment trial 'has to happen'"
+    excerpt: "President Joe Biden on Monday offered his most extensive comments since taking office on President Donald Trump's impeachment trial, telling CNN \"I think it has to happen.\"\n    \n"
+    publishedDateTime: 2021-01-26T00:36:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0HD9mLDX2SI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125161813-01-biden-manufacturing-0125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to reinstate coronavirus-related travel restrictions that Trump lifted"
+    excerpt: "President Joe Biden on Monday will sign a presidential proclamation reinstating the travel restrictions imposed due to the Covid-19 pandemic, White House press secretary Jen Psaki confirmed during her daily briefing.\n    \n"
+    publishedDateTime: 2021-01-25T18:48:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HfPpPGh7P_4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/biden-coronavirus-travel-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-coronavirus-travel-restrictions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125124916-biden-eo-lifts-transgender-ban-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McConnell proposes delaying impeachment trial until February so Trump team can prepare"
     excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
     publishedDateTime: 2021-01-22T02:55:43Z
@@ -46,83 +78,53 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell privately says he wants Trump gone as Republicans quietly lobby him to convict"
-    excerpt: "As the House prepares to send articles of impeachment to the Senate on Monday, CNN has learned that dozens of influential Republicans around Washington -- including former top Trump administration officials -- have been quietly lobbying GOP members of Congress to impeach and convict Donald Trump. The"
-    publishedDateTime: 2021-01-22T18:51:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tVmuA9o9Zhk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
+  - title: "Start of Trump's impeachment trial remains unsettled as Pelosi refuses to say when she'll send over article"
+    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
+    publishedDateTime: 2021-01-21T16:45:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122103730-01-trump-gop-impeachment-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113164531-02-pelosi-gavel-house-impeachment-vote-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Deepening Schism, McConnell Says Trump ‘Provoked’ Capitol Mob"
-    excerpt: "The Senate majority leader’s remarks were the clearest signal yet that he has come to regard President Trump as a force who could drag down the Republican Party."
-    publishedDateTime: 2021-01-20T01:40:00Z
-    webUrl: "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html"
+  - title: "Former Trump officials and other GOP lawyers urge senators to 'consider the evidence' in impeachment trial"
+    excerpt: "With the second impeachment trial of Donald Trump set to begin in February, nine prominent Republican lawyers, including two former officials in the Trump administration, have signed a letter urging GOP senators to \"consider the evidence\" before deciding how to vote on conviction.\n    \n"
+    publishedDateTime: 2021-01-25T15:38:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fEnQl6lFRGs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122180955-schumer-senate-floor-impeachment-timeline-screen-grab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Trial of Donald Trump: The Sequel"
+    excerpt: "Readers criticize both Republicans and Democrats for increasing divisiveness and disagree about the best way to hold Mr. Trump accountable."
+    publishedDateTime: 2021-01-25T17:48:00Z
+    webUrl: "https://www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/01/20/us/politics/20dc-impeach-print1/merlin_182544633_d1e4184e-735b-489a-9ebb-4d606488bf5e-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "McConnell says Trump ‘provoked’ the Capitol attackers"
-    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday said President Donald Trump “provoked” the rioters who stormed the Capitol earlier this month as Congress was certifying the presidential election results,"
-    publishedDateTime: 2021-01-20T04:06:00Z
-    webUrl: "https://www.politico.com/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/b3/d9/6fec15f14316b8cfc913fc7c95a3/20210118-donaldtrump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Live Updates: Ahead of Impeachment Trial, McConnell Says Capitol Assault Was ‘Provoked’ by Trump"
-    excerpt: "Senator Mitch McConnell said the mob that stormed the Capitol “was fed lies,” referring to attempts by President Trump to overturn the election based on bogus claims of voter fraud. The president is expected to issue dozens of pardons."
-    publishedDateTime: 2021-01-19T17:58:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/19/us/inauguration-day-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/19/us/inauguration-day-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/19/us/inauguration-day-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 122
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/19/us/19transition-briefing-promo1/19transition-briefing-promo1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/01/25/us/25-DC-IMPEACH-01-PRINT/merlin_182307399_f6bd267f-8e7f-4361-bf7e-31f0e440da09-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "POLITICO Playbook PM: McConnell blames Trump for Jan. 6"
-    excerpt: "They are McConnell’s first floor remarks since Jan. 6. Remember, McConnell told his rank-and-file members that he has, essentially, not ruled out convicting President DONALD TRUMP. There is widespread agreement that if McConnell votes to convict Trump,"
-    publishedDateTime: 2021-01-19T18:03:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/01/19/mcconnell-blames-trump-for-jan-6-491453"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/82/03/de6a881244faa0d89300229630d6/gettyimages-1297264903.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "‘It Will Be Soon,’ Pelosi Says of Trump Impeachment Trial"
     excerpt: "Speaker Nancy Pelosi said the impeachment charge against former President Donald J. Trump would be sent to the Senate for trial “soon,” but didn’t pinpoint a date."
@@ -137,6 +139,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/21/us/politics/21transition-impeach-sub/21transition-impeach-sub-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden's next fight on the left"
+    excerpt: "President Joe Biden’s new administration has won tons of points on the left for most of its financial services nominees, from Treasury to the CFPB. But the White House has a bit of a fight on its hands with University of Michigan’s Michael Barr,"
+    publishedDateTime: 2021-01-25T13:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2021/01/25/bidens-next-fight-on-the-left-792955"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "tXK5rgFFo0DMxebNgZg5IUqz2wd+rH9gaHL6jh9XZBRiW8X2sYuL+UMpDcrINjMkaBZo4g9tXUdo7o64/PsmrJbeomHUgHnhFhpbg7wQxUCQ9tZywXjmcDrCgpWiRzEhKoz9M5YZLhXGQYqpIx4XLEaLDbKPqxSeTKHxfh5+c49LDGK+BhX2LRs2jia951L7iGzr3qtcwWpZVAK/J7+6RYUC8lMXsruCWasrVY8SZOhQJLAbK8W5ak722JIqGMmfLjkt2Oz7E2WU7hCeXMuh5X6VsmQHSPq5+y/nDwLhcC8xomk2WaNhD7F7Wos4XJv/wydegvaf+6kFM4UdqRFTi2tg3vdmJOrdDjj4kmxX+kjI7/Ed2R7ma9ncVbQLRpXfdekVNSp/XhjHBQba1UVF19+dyMcyHsZ7gGrv+E2fPuge8JyDKuSbtQQ+dmT/eUgqnWTbEtSCtevSuFUa5UpdKtCvXq4UolBHZEzd1+qZYOA85CcR8dU6atuTSD9I1fJSpxKlzyL+eEUbQ2eeSrTt+Q==;cN3EMVz20ShSTHwmn6iakg=="

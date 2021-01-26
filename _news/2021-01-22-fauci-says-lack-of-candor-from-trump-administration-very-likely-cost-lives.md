@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html"
 type: article
 quality: 172
-heat: 192
+heat: 172
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Fauci on What Working for Trump Was Really Like"
-    excerpt: "From denialism to death threats, Dr. Anthony S. Fauci describes a fraught year as an adviser to President Donald J. Trump on the Covid-19 pandemic."
-    publishedDateTime: 2021-01-24T19:18:00Z
-    webUrl: "https://www.nytimes.com/2021/01/24/health/fauci-trump-covid.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/24/health/fauci-trump-covid.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/24/health/fauci-trump-covid.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/24/us/24VIRUS-FAUCIQA2/24VIRUS-FAUCIQA2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "rTqyUBLSUxOzIal6QnbdZJ68iZY1kZD7j09mKzJk/HdB5Fx5eNM87efabNBSXuQopTs0/4m4MkEGw0fFw6m+A0Udb1PFsrhsIDxWuMB4vCguMF3QOOjkQ9QA7YUJ1Obz9F82LQxTgujLDJkw6u7u9wGrVaxQo1e7D3CFWcYaar6MM+MeRjrtKCfhtnioCcB9ZyR2wv26pccd6zIwDp38xRg5CaYUzlWwp70YXLJ7YSSMMmYDLzbI2Bi2twhdjQu2re/MkEsdyXD5iE9eSBTisX68IyZgDvzL9B5UTKw2lvNZS7FJ7SgIo/AJiflnovPdBf16mXuk799hRm44GoGUZXM0r/MZ2S98X+CUQMUCwZU=;9eJ30Zv/VMjwnD+coM7eXw=="
 ---

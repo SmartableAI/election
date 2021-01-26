@@ -152,6 +152,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden more bullish on vaccines, suggests 1.5M shots per day"
+    excerpt: "President Joe Biden on Monday appeared to boost his goal for coronavirus vaccinations in his first 100 days in office, suggesting that the nation could soon be vaccinating 1.5 million Americans on average per day."
+    publishedDateTime: 2021-01-25T23:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/25/biden-more-bullish-vaccines-suggests-1-5-m-shots-per-day/4253427001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e4004a43-0bab-437e-8c49-cf86e4a9f02b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "PxMnlezlFmjPQHXm8Zyhh/5qKrCfHJpjZAQy3iHPoliFVQyoKaI/3n2Oz31xM5j/hBJoIlz1RwCMZrdHIiPlQPS6SiCU2G2dC04lSVt+4lmqDvWpFF8BcMwyOSH5KLBUq5vg1gNMxQVJ8PVmstM3rgjMa/CzESSEhwmwnkWb1xu26/Jjd5/iX55nFWWeE6w+Wu01TF3w/X09FZGahTGV1X3Da6DCn0beELPv4Ab2sSrO8pkoYcwLz+gG9KKiuaKiDRR+qe2EVl48KhDz+h8XVhpv81evEj6TxOPoLJ6tGKBUlzkwOkdDISQ6LJZcBDcwC3d12roZqoge50L7I6Vl2TWNolsDkmphEy1I0RrCu6Fm4nI7VUbpMNZP+idzbV3XTmJIRc3GMKRrSiHT5C2NMKJ/eyk3rqV7is/XUIE4PWVbk6KRV7xe7bhi68z08jX3eC/o8kfUEvORts0VSqNwx7DMvLaBCby50r6iRzW/slJioNd1gLccjWqRijAl7q/WVE0NY8R+isYMH4SnO1Neuw==;hqtUCfRhCcMhY4JjXYCGqg=="
 ---

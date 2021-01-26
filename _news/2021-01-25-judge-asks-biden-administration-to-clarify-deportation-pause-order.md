@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here are the executive orders Biden has signed so far"
+    excerpt: "President Joe Biden has signed a flurry of executive orders, actions and memorandums aimed at rapidly addressing the coronavirus pandemic and dismantling many of President Donald Trump's policies.\n    \n"
+    publishedDateTime: 2021-01-25T19:04:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GTyD7Szq5o4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/biden-executive-orders-day-six/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-executive-orders-day-six/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122162050-president-biden-executive-orders-economic-relief-mattingly-dnt-lead-vpx-00004102-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Washington Post: Pence closer than initially known to the violent mob during US Capitol storming "
     excerpt: "Vice President Mike Pence came closer than initially known to the mob of pro-Trump rioters who stormed the US Capitol on January 6, according to new reporting from the Washington Post.\n    \n"
     publishedDateTime: 2021-01-15T16:55:26Z
@@ -111,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to meet with first Black defense secretary as administration is poised to lift transgender military ban"
+    excerpt: "President Joe Biden is set to meet Monday morning with Defense Secretary Lloyd Austin, as the President is poised to repeal a Trump-era ban on most transgender Americans joining the military as early as Monday.\n    \n"
+    publishedDateTime: 2021-01-25T16:35:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uqxM1f4i9WE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/lloyd-austin-transgender-military-harris-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/lloyd-austin-transgender-military-harris-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125103833-biden-harris-austin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "With 400k Covid deaths, Biden set to take helm of nation in crisis"
     excerpt: "With more than 400,000 souls lost to the coronavirus pandemic, President-elect Joe Biden will have his work cut out for him when he takes the helm of a polarized and pained nation tomorrow at noon. Here is what we're watching this Tuesday morning."
     publishedDateTime: 2021-01-19T12:58:00Z
@@ -142,20 +174,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116204718-capitol-fence-jan-15-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden's next fight on the left"
-    excerpt: "President Joe Biden’s new administration has won tons of points on the left for most of its financial services nominees, from Treasury to the CFPB. But the White House has a bit of a fight on its hands with University of Michigan’s Michael Barr,"
-    publishedDateTime: 2021-01-25T13:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-money/2021/01/25/bidens-next-fight-on-the-left-792955"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "GCxNfQrbFEp39aXs2zaaLM+EnSGQYCBmIFkoGH2Yc9M1HLw6ZLqDGnqCCC2R8tv9zOB9vi0544stBJjiPjxYO/N8z/vjVE7WYfuV+sjPDmvjz0ktTPv/N5cw70ufQtkLjW4nS05RhAb4sKuqMa7jev6MdmQ1kupJhNyv5jz7xGsYTyCF5AO5GPBnyG0kbwA/N56xp9YCokEq+KKctQdNLlMoPGjtsHGnM2LvLtZz3VyNISQctj/MqhY9d9eLpnjZ20oWw1FUjmK5wzoV0gmX2sAWWR0MayjMXOOdcql7yatoOKyBSyhK1zGYjdCD/Sw5+tpKJUOGFGVNRnClu+pj6eKUJ4x7ozhgXnWMuVWQDBY=;dFlJlyd0ZzkSGFnKXOFfPw=="
