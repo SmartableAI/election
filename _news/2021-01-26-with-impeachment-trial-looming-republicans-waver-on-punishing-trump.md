@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Rand Paul to force test vote to gauge Republican support for Trump impeachment trial"
+    excerpt: "Sen. Rand Paul plans to force a test vote on Tuesday that will show how many Republicans support holding an impeachment trial for former President Donald Trump and how many believe a trial should not take place.\n    \n"
+    publishedDateTime: 2021-01-26T18:31:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HfFEQ5IS8bQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/rand-paul-test-vote-impeachment-trial-constitutionality/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/rand-paul-test-vote-impeachment-trial-constitutionality/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200130132541-02-rand-paul-preser-0130-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McConnell proposes delaying impeachment trial until February so Trump team can prepare"
     excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
     publishedDateTime: 2021-01-22T02:55:43Z
@@ -224,6 +240,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Sen. Rand Paul objects to 'sham' impeachment trial of former President Trump"
+    excerpt: "Ky., spoke on the Senate floor to voice his objection to the impeachment trial of former President Donald Trump, calling it a \"sham\" and \"dark blot on the history of our country.\""
+    publishedDateTime: 2021-01-26T18:25:00Z
+    webUrl: "https://www.nbcnews.com/video/sen-rand-paul-objects-to-sham-impeachment-trial-of-former-president-trump-100039237995"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100039237995"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100039237995"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/Rand_impeachment_objection_1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden reinstates Covid travel restrictions Trump rescinded, imposes new ban on South Africa"
     excerpt: "President Joe Biden signed restrictions Monday on travel to the United States to mitigate Covid-19 transmission. The ban prevents most non-U.S. citizens from entry if they have recently been in South Africa,"
     publishedDateTime: 2021-01-26T00:03:00Z
@@ -277,6 +309,20 @@ related:
     quality: 115
     images:
       - url: "https://static01.nyt.com/images/2021/01/25/us/politics/25new-washington-briefing-impeachment2/25new-washington-briefing-impeachment2-facebookJumbo-v3.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Watch Live: Trump Impeachment Trial Jurors Are Sworn In"
+    excerpt: "On Tuesday, the Senate trial for the second impeachment of former President Donald J. Trump begins with the swearing in of the jurors."
+    publishedDateTime: 2021-01-26T18:29:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007571367/trump-impeachment-trial-swearing-in.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/26new-washington-briefing-impeach1/26new-washington-briefing-impeach1-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
         isCached: true

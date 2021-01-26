@@ -112,6 +112,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump and the Foiled Plot at the Justice Dept."
+    excerpt: "Readers are shocked by what one calls “the most stunning episode” in the former president’s efforts to overturn the election."
+    publishedDateTime: 2021-01-26T18:14:00Z
+    webUrl: "https://www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/24dc-justice/24dc-justice-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Deborah Birx: ‘Parallel set of data’ on Covid-19 was delivered to Trump"
     excerpt: "I saw the president presenting graphs that I never made,” the former White House coronavirus response coordinator told CBS."
     publishedDateTime: 2021-01-24T19:17:00Z

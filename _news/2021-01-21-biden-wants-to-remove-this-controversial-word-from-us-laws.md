@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to address increasing vaccine supply Tuesday"
+    excerpt: "President Joe Biden is set to speak Tuesday afternoon on his vision to contain the Covid-19 pandemic, and is expected in part to focus on actions his administration plans to take to increase the supply of vaccines, a senior White House official tells CNN.\n    \n"
+    publishedDateTime: 2021-01-26T18:52:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U5XVa6PgVDY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-vaccine-supply-tuesday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-vaccine-supply-tuesday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125172618-01-vaccine-observation-room-0122-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Washington Post: Pence closer than initially known to the violent mob during US Capitol storming "
     excerpt: "Vice President Mike Pence came closer than initially known to the mob of pro-Trump rioters who stormed the US Capitol on January 6, according to new reporting from the Washington Post.\n    \n"
     publishedDateTime: 2021-01-15T16:55:26Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828115424-06-march-on-washington-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to sign orders that include moves toward $15 minimum wage for federal workers and contractors"
-    excerpt: "President Joe Biden is expected to sign two more executive orders on Friday -- one focused on raising the minimum wage to $15 for the federal workforce and the other on expanding assistance for Americans in need -- as he continues his swift efforts to overturn his predecessor's policies.\n    \n"
-    publishedDateTime: 2021-01-22T12:13:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LBDlwAsziZw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/executive-orders-biden-15-dollar-minimum-wage-federal-workers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/executive-orders-biden-15-dollar-minimum-wage-federal-workers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121221335-joe-biden-0120-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,6 +2,283 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-22-joe-biden-putting-saudi-arabia-first-by-halting-keystone-xl-pipeline-sen-daines.md",
+      "title": "Joe Biden putting 'Saudi Arabia first' by halting Keystone XL pipeline: Sen. Daines",
+      "excerpt": "Sen. Steve Daines, R-Mont., believes President Biden killing the Keystone XL pipeline shows he’s putting \"Saudi Arabia first,\" not American workers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3rY_Xz43Yk/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3rY_Xz43Yk/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8739bad5-122d-4973-b234-ee256eb316c7/b9584c73-a26d-4377-b028-e14ccdfaba67/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp",
+      "publishedDateTime": "2021-01-22T08:01:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-fauci-says-lack-of-candor-from-trump-administration-very-likely-cost-lives.md",
+      "title": "Fauci says lack of candor from Trump administration 'very likely' cost lives",
+      "excerpt": "Dr. Anthony Fauci said Friday that the lack of truthfulness from the Trump administration regarding the Covid-19 pandemic \"very likely\" cost American lives.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/taeDdXHZFJU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/taeDdXHZFJU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210121183810-03-white-house-covid-presser-0121-fauci-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html",
+      "publishedDateTime": "2021-01-22T05:27:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-georgia-black-women-leaders-on-saving-democracy-by-helping-flip-senate-fueling-biden-harris-win.md",
+      "title": "Georgia Black women leaders on 'saving democracy' by helping flip Senate, fueling Biden-Harris win",
+      "excerpt": "It’s almost like someone has wiped the darkness away and given us new light,” a voter registration organizer said.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "originalUrl": "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 316,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/KamalaHarris-ht-er-210121_1611268223802_hpMain_2_16x9_992.jpg",
+          "width": 992,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "publishedDateTime": "2021-01-21T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-gingrich-dems-methodically-trying-to-destroy-conservatism-with-biden-as-pleasant-cover.md",
+      "title": "Gingrich: Dems 'methodically trying to destroy conservatism' with Biden as 'pleasant cover'",
+      "excerpt": "President Biden's \"radical\" inner circle is working to \"destroy\" the legacy of President Trump, former House Speaker Newt Gingrich warned on \"Hannity\" Thursday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d8SA_Xuh2g0/newt-gingrich-dems-trying-destroy-conservatism",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d8SA_Xuh2g0/newt-gingrich-dems-trying-destroy-conservatism",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fc8628d-554a-46ac-b68f-7c8401528e99/aad95c81-f69a-443b-ada9-602bdc51830e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/newt-gingrich-dems-trying-destroy-conservatism.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newt-gingrich-dems-trying-destroy-conservatism.amp",
+      "publishedDateTime": "2021-01-21T20:15:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-biden-proposes-extending-nuclear-arms-treaty-with-russia-for-5-years.md",
+      "title": "Biden proposes extending nuclear arms treaty with Russia for 5 years",
+      "excerpt": "President Joe Biden has proposed extending a nuclear arms treaty with Russia before it expires next month, White House press secretary Jen Psaki said during a Thursday press conference.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqVh-Z9v3ws/biden-extending-nuclear-arms-treaty-russia-5-years",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqVh-Z9v3ws/biden-extending-nuclear-arms-treaty-russia-5-years",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021724549190.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-extending-nuclear-arms-treaty-russia-5-years.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-extending-nuclear-arms-treaty-russia-5-years.amp",
+      "publishedDateTime": "2021-01-21T19:45:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-obama-praises-bidens-executive-order-blitz-this-is-a-time-for-boldness.md",
       "title": "Obama praises Biden's executive order blitz: 'This is a time for boldness'",
       "excerpt": "Former President Barack Obama praised President Biden on Thursday for enacting a sweeping slate of executive orders within hours of his inauguration as president.",
@@ -1073,286 +1350,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-fox-news-host-judge-jeanine-lobbied-trump-during-his-last-few-hours-in-office-to-pardon-her-ex-husband-it-worked.md",
-      "title": "Fox News host Judge Jeanine lobbied Trump during his last few hours in office to pardon her ex-husband. It worked.",
-      "excerpt": "Fox News host Judge Jeanine successfully lobbied former President Donald Trump in an eleventh-hour effort to pardon her ex-husband in the final hours of Trump's presidency, CNN has learned.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GDER5xNWk3g/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GDER5xNWk3g/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190310103909-jeanine-pirro-fox-illhan-omar-screengrab-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/20/politics/judge-jeanine-lobbied-trump-pardon-ex-husband/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/judge-jeanine-lobbied-trump-pardon-ex-husband/index.html",
-      "publishedDateTime": "2021-01-20T19:36:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-biden-ditches-military-flags-as-part-of-oval-office-makeover.md",
-      "title": "Biden ditches military flags as part of Oval Office makeover",
-      "excerpt": "With new presidents come new White House decorations – especially in the commander-in-chief’s official workplace, the Oval Office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CgnR-t9I9yU/biden-ditches-military-flags-oval-office-makeover",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CgnR-t9I9yU/biden-ditches-military-flags-oval-office-makeover",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 595,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Oval-Office-Biden.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp",
-      "publishedDateTime": "2021-01-20T18:28:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-biden-to-new-administration-staffers-be-nice-to-others-or-i-will-fire-you-on-the-spot.md",
-      "title": "Biden to new administration staffers: Be nice to others or 'I will fire you on the spot'",
-      "excerpt": "President Biden warned new members of his administration Wednesday that he’ll fire them “on the spot” if they fail to treat others nicely.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k6sLNw3_NhY/biden-administration-be-nice-or-i-will-fire-you",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k6sLNw3_NhY/biden-administration-be-nice-or-i-will-fire-you",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/biden-swearing-in.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-be-nice-or-i-will-fire-you.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-be-nice-or-i-will-fire-you.amp",
-      "publishedDateTime": "2021-01-20T16:48:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-gop-looks-to-biden-administration-to-lower-the-temperature-but-voice-skepticism.md",
-      "title": "GOP looks to Biden administration to ‘lower the temperature’ but voice skepticism",
-      "excerpt": "President Biden made a direct appeal to pro-Trump supporters and Republicans across the nation who did not vote for him to become the 46th president of the United States, calling for everyone to \"stop the shouting and lower the temperature.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4WrAZbR84Yo/gop-look-to-biden-administration-to-lower-temperature-but-voice-skepticism",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4WrAZbR84Yo/gop-look-to-biden-administration-to-lower-temperature-but-voice-skepticism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbbb4448-7269-4978-8efc-90bb155801cf/b7d0f268-1824-4f6f-9047-a126c13f1ea6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-look-to-biden-administration-to-lower-temperature-but-voice-skepticism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-look-to-biden-administration-to-lower-temperature-but-voice-skepticism.amp",
-      "publishedDateTime": "2021-01-20T16:18:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-ex-obama-adviser-calls-trump-supporters-an-issue-of-homeland-security.md",
-      "title": "Ex-Obama adviser calls Trump supporters an ‘issue of Homeland Security’",
-      "excerpt": "An Obama-era national security adviser painted Trump supporters as an “issue of Homeland Security” and called for government and Big Tech to regulate information on social media in a televised interview Wednesday afternoon.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDJlXhC06Tc/ex-obama-adviser-trump-supporters-homeland-security",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDJlXhC06Tc/ex-obama-adviser-trump-supporters-homeland-security",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ben-Rhodes-GETTY.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ex-obama-adviser-trump-supporters-homeland-security.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-obama-adviser-trump-supporters-homeland-security.amp",
-      "publishedDateTime": "2021-01-20T16:14:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

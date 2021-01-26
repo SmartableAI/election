@@ -142,6 +142,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Rand Paul to trigger Senate vote on whether Trump impeachment trial is constitutional"
+    excerpt: "Sen. Rand Paul on Tuesday afternoon is expected to force a vote on whether or not the Senate impeachment trial of former President Trump is unconstitutional now that he is out of office. "
+    publishedDateTime: 2021-01-26T17:01:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6wAhFfvIQA/rand-paul-senate-impeachment-trial-unconstitutional-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Live Updates: Trump's chances for acquittal in upcoming Senate impeachment trial unclear"
     excerpt: "Fox News contacted every Republican who will be serving as a senator after President-elect Joe Biden's inauguration on January 20, when the trial is likely to begin."
     publishedDateTime: 2021-01-15T06:05:37Z
@@ -254,6 +270,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Republicans Challenge Trump Impeachment Trial"
+    excerpt: "Sen. Rand Paul said he would attempt to force a vote Tuesday afternoon on whether the Senate can try a private citizen, although Senate Democrats could counter by making a motion to table the measure."
+    publishedDateTime: 2021-01-26T16:46:00Z
+    webUrl: "https://www.wsj.com/articles/republicans-challenge-trump-impeachment-trial-11611683182"
+    ampWebUrl: "https://www.wsj.com/amp/articles/republicans-challenge-trump-impeachment-trial-11611683182"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republicans-challenge-trump-impeachment-trial-11611683182"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-290562/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Sen. Rand Paul says Chief Justice Roberts won’t take Trump impeach trial"
     excerpt: "As Democrats plunge ahead with a post-term impeachment trial of President Donald Trump, a key question remains: Will Chief Justice Roberts take the case? Republican Sen. Rand Paul of Kentucky says"
     publishedDateTime: 2021-01-23T23:06:00Z
@@ -269,6 +301,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Rand-Paul-impeachment.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Rand Paul to trigger Senate vote on whether Trump impeachment trial is constitutional"
+    excerpt: "Sen. Rand Paul on Tuesday afternoon is expected to force a vote on whether or not the Senate impeachment trial of former President Trump is unconstitutional now that he is out of office."
+    publishedDateTime: 2021-01-26T17:22:00Z
+    webUrl: "https://www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump impeachment article being sent to Senate Monday, triggering trial to start in earnest next month"
     excerpt: "Just before 7 p.m. on Monday, the House of Representatives' impeachment managers will march an article accusing former President Trump of inciting an insurrection across to the Senate side of the Capitol,"

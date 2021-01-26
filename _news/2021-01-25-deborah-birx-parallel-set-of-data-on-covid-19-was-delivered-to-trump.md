@@ -126,6 +126,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump and the Foiled Plot at the Justice Dept."
+    excerpt: "Readers are shocked by what one calls “the most stunning episode” in the former president’s efforts to overturn the election."
+    publishedDateTime: 2021-01-26T18:14:00Z
+    webUrl: "https://www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/24dc-justice/24dc-justice-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "q20B7SzWdWmQ9meckPNuzOiZcqSysvajx4wRpNcDeZ12Yb24/ZZwrdmE73o6NsIUlszR8u09ww93fg184Z7G/rDq17vSahIXJvSgPYOP3yCroKFfXdea3y0bkOkd1eatyaeBrBXrK/mz5IhtKQ3D2juBaRqS+tzUMrhKbwMUBrK++WBfyDowZzInt5LUeIoBoYzsUyI8bHIzWaD5Qcjsq31r/Qo6nz9Bumudte+YrOQ4BdZV7B1NO3OypoRW+5SliEjQVzcQAferFvvrwviav28/tMorBycw6KM53RgZSNKEAKVAiUm43hogiJ9ha90psk1dIW3GToZ4DTMImxaxlNcR2lwjhJeu1Nt7MdqDjN0jqzO4U8gjhuXHlOyYTgVzsznSdrIlhd3zjAOqY02XVijm1FLhtfJFXyKFG+2ZRtr897k0ngDeendopSmT4Y2A4T0BzAYVpN2X3Fysuyk6+tPWlSZOepvzmbGYMdPzHthUpORAcdsgnNw5Go92WXcliRt5iVJc3/BxBGU3gVHK9Q==;F8ND7+B6Ff3nW6iMYl0irg=="
 ---

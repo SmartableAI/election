@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/graham-warns-border-overrun-unless-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans.amp"
 type: article
 quality: 156
-heat: 176
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden transition official tells migrant caravans: 'Now is not the time' to come to US"
-    excerpt: "An unnamed Biden transition official told NBC News that migrants hoping to claim asylum in the U.S. during the first few weeks of the new administration \"need to understand they're not going to be able to come into the United States immediately."
-    publishedDateTime: 2021-01-17T23:55:00Z
-    webUrl: "https://www.foxnews.com/media/biden-caravan-immigration-mexico-border-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/media/biden-caravan-immigration-mexico-border-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-caravan-immigration-mexico-border-biden-administration.amp"
+  - title: "'Same problems' will resurface if Biden rolls back border wall construction, former NM governor warns"
+    excerpt: "Former New Mexico Republican Gov. Susana Martinez warned Tuesday that it is 'very wrong' for the Biden administration to halt the construction of the southern border wall, calling the fence a 'piece of the security of our nation.'"
+    publishedDateTime: 2021-01-26T18:42:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sWBydrFBEdI/biden-rolls-back-border-wall-construction-susana-martinez"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-rolls-back-border-wall-construction-susana-martinez.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rolls-back-border-wall-construction-susana-martinez.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 160
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e96adf89-b6fd-4fd3-add4-af059c9a1348/2766dc0c-5b4d-4f1a-a656-563a72731175/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b72d6080-2c5a-4341-bca9-77cd4fb2c57a/bfb73cf2-ae68-49f9-af17-20b6c1691a9b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

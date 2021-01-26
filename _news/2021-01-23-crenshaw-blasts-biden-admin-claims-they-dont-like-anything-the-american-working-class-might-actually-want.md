@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden commerce pick promises jobless Keystone workers 'we will make sure that you have jobs'"
+    excerpt: "Gina Raimondo, President Biden's nominee for secretary of commerce, promised that the Biden administration will ensure that union workers who lost jobs due to the blocking of the Keystone XL pipeline will get new jobs."
+    publishedDateTime: 2021-01-26T18:54:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xrR0d7KbEac/biden-commerce-pick-jobless-keystone-workers-promise"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-commerce-pick-jobless-keystone-workers-promise.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commerce-pick-jobless-keystone-workers-promise.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/164891e7-5fe1-41e2-8197-0c3104488f27/3d5b8617-b309-4af6-882f-3f87e7de2b39/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Miranda Devine: Biden's executive order blitz has done nothing but 'spit into the eye of normal Americans'"
     excerpt: "Since accepting office, President Biden has enacted a slate of executive orders that have done nothing but \"spit into the eye of normal Americans who are not protected by great wealth or by protected jobs,"
     publishedDateTime: 2021-01-25T01:26:00Z

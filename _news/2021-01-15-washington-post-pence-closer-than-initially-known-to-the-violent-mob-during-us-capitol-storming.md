@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to address increasing vaccine supply Tuesday"
+    excerpt: "President Joe Biden is set to speak Tuesday afternoon on his vision to contain the Covid-19 pandemic, and is expected in part to focus on actions his administration plans to take to increase the supply of vaccines, a senior White House official tells CNN.\n    \n"
+    publishedDateTime: 2021-01-26T18:52:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U5XVa6PgVDY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-vaccine-supply-tuesday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-vaccine-supply-tuesday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125172618-01-vaccine-observation-room-0122-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden raises the bar on vaccines and suggests US will get to 1.5 million a day"
     excerpt: "President Joe Biden said Monday that he expects that the US will soon be able to vaccinate 1.5 million people a day, raising the bar by roughly 500,000 more vaccinations than its target of 1 million per day in his first 100 days in office. He said that the US could surpass that initial target in about"
     publishedDateTime: 2021-01-25T22:46:38Z

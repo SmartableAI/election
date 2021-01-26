@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to sign orders that include moves toward $15 minimum wage for federal workers and contractors"
-    excerpt: "President Joe Biden is expected to sign two more executive orders on Friday -- one focused on raising the minimum wage to $15 for the federal workforce and the other on expanding assistance for Americans in need -- as he continues his swift efforts to overturn his predecessor's policies.\n    \n"
-    publishedDateTime: 2021-01-22T12:13:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LBDlwAsziZw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/executive-orders-biden-15-dollar-minimum-wage-federal-workers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/executive-orders-biden-15-dollar-minimum-wage-federal-workers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121221335-joe-biden-0120-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "o/shc6wUoswiyfw4T+08ylRMBxegZpgSFaarDBHO6+/9YKzLUVUvJZhFknS/f7DejtBXkc5XnFP9VND+FL3OSZnoKoyFhKmQcb+IrkhT3UqY/Dk58MzF2UdAk9nXwlmU7a66EHhLBJYbs2BAMES5nsQxxrifQ8Yuu4Ta7nC/CgnQmSzPz2tct+MN4V+D3BY1MVUzynjvum6+pfnBHWoupZ/A90RCkXfPDir9wc4UGeIXuNr6uTkvL1er5fGmHHHmRaNZ0X0RD2lpj0dAdk+0ST5R2yl+OO4mQpoSUlr+xGQgncx+HpZPcNCDd6G///U/LgDDwk9oNSSlhpVwgEGO6Zb4e/oCRBeuUMx2VFfMuWc=;Q+wjE0ljOstrYpmKFDZHwQ=="
 ---

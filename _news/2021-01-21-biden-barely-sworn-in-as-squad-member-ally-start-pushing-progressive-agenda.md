@@ -144,6 +144,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Senate confirms Antony Blinken as Biden's secretary of state"
+    excerpt: "The Senate on Tuesday voted 78-22 to confirm Antony Blinken as the next secretary of state -- who will be a key figure in President Biden's efforts to restore alliances across the globe and forge a new foreign policy approach."
+    publishedDateTime: 2021-01-26T17:41:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pKoTEf4UR0k/senate-antony-blinken-secretary-of-state"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-antony-blinken-secretary-of-state.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-antony-blinken-secretary-of-state.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0741f843-e9f8-4028-af2f-1a250d66796e/97e579a3-5542-4c1d-965b-c6f6dcb0efac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden WH criticizes US as one of world’s largest greenhouse gas emitters"
     excerpt: "President Joe Biden took several steps to address his climate policy agenda on Wednesday."
     publishedDateTime: 2021-01-21T01:19:52Z
@@ -301,6 +317,22 @@ related:
     quality: 158
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fired New York Times editor says paper lying about reason for dismissal after pro-Biden tweet"
+    excerpt: "Former New York Times freelance editor Lauren Wolfe shot back at the paper's claim that she was not dismissed solely because of a pro-Joe Biden tweet last week, saying the Times was smearing her reputation."
+    publishedDateTime: 2021-01-26T16:59:00Z
+    webUrl: "https://www.foxnews.com/media/fired-new-york-times-editor-newspaper-dismissal-reputation"
+    ampWebUrl: "https://www.foxnews.com/media/fired-new-york-times-editor-newspaper-dismissal-reputation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/fired-new-york-times-editor-newspaper-dismissal-reputation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4568b3ca-227f-443e-bd60-ae6d2e50e7f7/fd6144cb-2ef0-4bbb-b3b7-08092b1ab2b6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

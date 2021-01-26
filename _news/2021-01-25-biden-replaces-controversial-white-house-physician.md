@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden speaks with Putin for first time as president"
+    excerpt: "President Joe Biden held his first call Tuesday with his Russian counterpart Vladimir Putin, according to the White House.\n    \n"
+    publishedDateTime: 2021-01-26T18:48:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-83Ktm1UI4I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-putin-russia-phone-call/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-putin-russia-phone-call/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden will sign executive order aimed at strengthening American manufacturing"
     excerpt: "President Joe Biden will sign an executive order Monday aimed at boosting American manufacturing, setting in motion a process to fulfill his campaign pledge to strengthen the federal government's Buy American rules.\n    \n"
     publishedDateTime: 2021-01-25T11:43:21Z
