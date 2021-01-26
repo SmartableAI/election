@@ -2,6 +2,62 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-12-07-republicans-slam-bidens-hhs-pick-becerra-as-disaster-for-california.md",
+      "title": "Republicans slam Biden's HHS pick Becerra as 'disaster for California'",
+      "excerpt": "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JjHymMUN7Oo/republicans-biden-hhs-xavier-becerra-abortion-senate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JjHymMUN7Oo/republicans-biden-hhs-xavier-becerra-abortion-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1181949866.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp",
+      "publishedDateTime": "2020-12-07T08:14:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-the-point-how-kelly-loeffler-backed-into-admitting-donald-trump-lost.md",
       "title": "The Point: How Kelly Loeffler backed into admitting Donald Trump lost",
       "excerpt": "Since coming to the Senate in January, Georgia Kelly Loeffler's has been the single biggest supporter of President Donald Trump's agenda. But even she knows the jig is up when it comes to his ongoing attempts to contest an election that he quite clearly lost.\n    \n",
@@ -1311,58 +1367,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-president-elect-joe-biden-predicts-bleak-future-if-congress-doesnt-act-on-covid-19-aid.md",
-      "title": "President-elect Joe Biden predicts ‘bleak future’ if Congress doesn’t act on COVID-19 aid",
-      "excerpt": "Biden has said that while he doesn't support a nationwide lockdown, he plans to ask Americans to commit to 100 days of mask-wearing to help combat the virus as one of his first acts as president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/y77g0ME3grCoELK2CDk2zNIok78=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UN7URUO5WJH4P7JVZZIPAT4PDA.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-biden-second-coronavirus-stimulus-check-updates-20201204-in2nr3th3fglznwwehejitdxhq-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-04T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

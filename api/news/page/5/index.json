@@ -2,6 +2,118 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-20-bidens-inaugural-address-was-heartfelt-appeal-for-unity-karl-rove.md",
+      "title": "Biden’s inaugural address was ‘heartfelt appeal for unity’: Karl Rove",
+      "excerpt": "Fox News contributor Karl Rove said Wednesday, President Joe Biden’s inaugural address was a “heartfelt appeal for unity.” Biden was sworn in as the 46th president of the United States and called for unity in his inaugural address amid a nation of political divide.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Erw-ufShQo/bidens-inaugural-address-heartfelt-unity-rove",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Erw-ufShQo/bidens-inaugural-address-heartfelt-unity-rove",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-inaugural-address-heartfelt-unity-rove.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-inaugural-address-heartfelt-unity-rove.amp",
+      "publishedDateTime": "2021-01-20T13:02:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-biden-reversing-travel-ban-for-muslim-countries-very-disappointing-chad-wolf.md",
+      "title": "Biden reversing travel ban for Muslim countries ‘very disappointing’: Chad Wolf",
+      "excerpt": "Former Acting Homeland Security Secretary Chad Wolf argued on Wednesday that President Biden’s intention to revoke Donald Trump's travel bans for majority-Muslim countries is \"going to make the American people less safe.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m0P_qb4MKb8/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m0P_qb4MKb8/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf.amp",
+      "publishedDateTime": "2021-01-20T12:58:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-biden-harris-partake-in-arlington-wreath-laying-ceremony.md",
       "title": "Biden, Harris partake in Arlington wreath laying ceremony",
       "excerpt": "President Joe Biden and Vice President Kamala Harris, after being sworn in at the Capitol, traveled to Arlington National Cemetery for a ceremony at the Tomb of the Unknown Soldier. ",
@@ -1265,114 +1377,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-graham-warns-border-will-be-overrun-unless-biden-sends-clear-and-unmistakable-signal-to-migrant-caravans.md",
-      "title": "Graham warns border will be 'overrun’ unless Biden sends ‘clear and unmistakable signal’ to migrant caravans",
-      "excerpt": "Sen. Lindsey Graham, R-S.C., on Tuesday warned that the U.S. border will be “overrun” unless the incoming Biden administration sends a message to the incoming migrant caravans that they support President Donald Trump’s policies on immigration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/thbVdISPF30/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/thbVdISPF30/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020009128608.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans.amp",
-      "publishedDateTime": "2021-01-19T16:58:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-annika-sorenstam-defends-accepting-award-from-donald-trump.md",
-      "title": "Annika Sörenstam defends accepting award from Donald Trump",
-      "excerpt": "Annika Sörenstam, who received the presidential medal of freedom from Donald Trump the day after US Capitol riot, has defended her decision",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "originalUrl": "https://www.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4870f7e1cabf35505f3d66840e415c25b5c2c460/0_24_5058_3036/master/5058.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=725a944cd02a16e9137eca91996a64c6",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "publishedDateTime": "2021-01-19T13:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

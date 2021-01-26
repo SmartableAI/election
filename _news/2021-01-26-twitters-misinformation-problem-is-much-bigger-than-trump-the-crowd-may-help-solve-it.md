@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/25/twitter-birdwat
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/?outputType=amp"
 type: article
 quality: 116
-heat: 136
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,21 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency"
-    excerpt: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
-    publishedDateTime: 2021-01-25T19:52:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+  - title: "Twitter permanently bans MyPillow CEO Mike Lindell after he continues to claim Trump won the election, fraud"
+    excerpt: "Twitter decided to ban Mike Lindell, who founded bedding company MyPillow, due to “repeated violations” of its civic integrity policy."
+    publishedDateTime: 2021-01-26T14:06:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/26/twitter-bans-mypillow-ceo-mike-lindell-election-fraud-claims/4257458001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4257458001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4257458001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 108
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.gannett-cdn.com/presto/2020/03/31/USAT/6aff7ab2-44ed-40be-ab33-704a9c36a9c9-lindell.JPG?auto=webp&crop=2967,1669,x668,y102&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "MyPillow Taking Lumps: How Mike Lindell's Trump Support Spells Downfall"
+    excerpt: "CEO Lindell last week was seen at the White House holding notes that seem to support many of the conspiracy theories surrounding election fraud."
+    publishedDateTime: 2021-01-19T12:48:00Z
+    webUrl: "https://www.ibtimes.com/mypillow-taking-lumps-how-mike-lindells-trump-support-spells-downfall-3125478"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/gettyimages-1218940907.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump-supporting 'My Pillow Guy' Suspended From Twitter"
+    excerpt: "A high-profile Donald Trump supporter who backed the former president's claims of electoral fraud has been permanently suspended from Twitter, the social media giant said Monday night, the latest in a series of bans of prominent right-wingers and conspiracy theorists."
+    publishedDateTime: 2021-01-26T06:58:00Z
+    webUrl: "https://www.ibtimes.com/trump-supporting-my-pillow-guy-suspended-twitter-3130757"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/26/lindell-has-been-speculating-about-his-own-politicial.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "aLtbP2Gj5yGRS3UPxYgG/xEUcmOdvYny62XofB2u9X4gbrkqbgLTyjVTzLAj2C0vPDnI7EoVqOK46ak5eVqKnVZcGpNyO1hBzWt/J1MarYgGhWPxOSMLAahpGxhdBjfhan41s2Me8zPhrFOSZ4sxq3C71jhdeBWs3Ah8MpeoYdEkXzXDwje6GsJN/rX//RjrNgU5bDz18qdA7i14cxB1DHrGljhJbbyWp2htHz2DRuIKNPa+tWALEwaSCPXEWbEZDBrRd3SzozDfhXV2FwbfEnkq+cg4EnggLXGAacSglbg2qF0ZKQYY/fOTYGDg7v+fdmtRONdmp3IVyCNmN5kOcjtqE1rxhtyQgWbEzsTo0GuKsq0fT6uCoSKMRnu9UyWEzV4Ghv71+loajzE+dU/m0L15I0FC10RTrWr3P9VSBPTG38fUoEEcmQUIrzBqRH86D5sja5LFZ7YwuvAqjWc6AX727qY+e53sqUc4FxJmZ5Xj0oivKm66+pB831aq5NRaQ1BrAlMchGdOd/d7pnx7dg==;zl1kCNFdsVvbBX4GvhOEsw=="

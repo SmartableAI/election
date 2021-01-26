@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Watch Live: Biden to deliver remarks on COVID-19 response"
+    excerpt: "Biden promised it will be \"this spring\" when any American who wants a COVID-19 vaccine will be able to get one."
+    publishedDateTime: 2021-01-26T14:45:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/1c2d5e28-4740-448d-98b5-ac9222a755e8/thumbnail/1200x630/0b71298d7ef9696bca4127d1ca2abe07/gettyimages-1230789317.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Watch live: Biden nominee for DHS Director testifies at confirmation hearing"
     excerpt: "President-elect Joe Biden's nominee for Director of the Department of Homeland Security Alejandro Mayorkas on Tuesday morning is slated to testify at his Senate confirmation hearing.The hearing is scheduled to begin at 10 a."
     publishedDateTime: 2021-01-19T14:23:00Z

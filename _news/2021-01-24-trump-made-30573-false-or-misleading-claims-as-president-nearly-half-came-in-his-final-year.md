@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1623
         isCached: true
+  - title: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency"
+    excerpt: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
+    publishedDateTime: 2021-01-25T19:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Donald Trump spends final minutes in office at Mar-a-Lago, is first president to skip inauguration in more than 150 years"
     excerpt: "Trump's military send-off at Joint Base Andrews appeared smaller than expected. He left on Air Force One as Frank Sinatra's \"My Way\" played."
     publishedDateTime: 2021-01-21T18:05:00Z

@@ -123,6 +123,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "What’s Next For Trump? His Plans As Impeachment Article Hits Senate"
+    excerpt: "Former President Donald Trump is opening a new office in Florida on Monday that will carry on his admininstration's administration, an announcement he made as the House delivered a single article of impeachment to the Senate."
+    publishedDateTime: 2021-01-26T12:26:00Z
+    webUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886"
+    ampWebUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
+        width: 1024
+        height: 696
+        isCached: true
   - title: "Rocker David Crosby On Songwriting, 'Emotional Voyages' And Donald Trump"
     excerpt: "Like all entertainers, David Crosby -- the mustachioed co-founder of both the seminal folk rock band The Byrds and the supergroup Crosby, Stills and Nash (and Young) -- had a disappointing 2020 that saw the pandemic ground tours and thwart live performance."
     publishedDateTime: 2021-01-17T00:58:00Z

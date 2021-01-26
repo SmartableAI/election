@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-praises-biden-executive-order
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness.amp"
 type: article
 quality: 173
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Arizona sheriff rips Biden's immigration actions as 'political theater': 'Stop this madness'"
+    excerpt: "An Arizona sheriff warned on Monday that President Biden’s executive orders on immigration are “hasty” and encouraged the president to “stop this madness.”"
+    publishedDateTime: 2021-01-26T13:59:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_m8C39sKmts/arizona-sheriff-biden-immigration-actions-political-theater-border-security"
+    ampWebUrl: "https://www.foxnews.com/politics/arizona-sheriff-biden-immigration-actions-political-theater-border-security.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-sheriff-biden-immigration-actions-political-theater-border-security.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "4MvqBIaeyfX8qQqjoi60uYbVj+8+p8jGa8zgUytbKC2ZZH8HJt7kvCeJtbMI0L7LDOw21BOKoxyQQfuiknseCL6wcAANrOCmjiFdlUCFZpwlb/9KnS34erGIDGGs7I4WPZY0OvsvdWKh6eahtgpMGMMioz4MRdFDwXIN1M1dyV5eU1a2+FW/nfpu0GgtUE6PHQl0wgkYA0lHZF/kG/IR1U9Z98PtTyIBJ2OsXkyDisOzvnQIYFfnE3OZP0XlHjthiu0ZvpSi8TSlpZPnJUkFpXzyAJdZtzY7yGJyCcRKu/yn+ffg3sMgZ+cKH4wsxaD7LQ1TzEDPLjLos8bCgDa3XZvrqSzeW1InFGxO7hH/LSM=;li81pG1hTXQbfapX/OCfGw=="
 ---

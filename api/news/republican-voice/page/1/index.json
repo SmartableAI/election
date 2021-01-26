@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says.md",
+      "title": "Biden's White House victory fueled by record-shattering $145M in 'dark money,' report says",
+      "excerpt": "For years, Democrats have railed against anonymous campaign contributions as a uniquely corrupting political force — even as President Biden benefited from a record-shattering amount of \"dark money\" donations during the 2020 election. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVGLLkMXgOQ/bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVGLLkMXgOQ/bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72f42a4f-125b-4568-85ff-a3e63a5a17da/c104fc0a-640b-41f8-a636-659a18524c4d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says.amp",
+      "publishedDateTime": "2021-01-26T05:52:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-hannity-says-bidens-policies-will-fail-while-media-takes-sycophantic-vacation.md",
       "title": "Hannity says Biden’s policies will 'fail’ while media takes ‘sycophantic vacation’",
       "excerpt": "\"Hannity\" host Sean Hannity criticizes President Biden's beginnings in office and forecasts a disastrous end.",
@@ -1577,7 +1633,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 173,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -1617,63 +1673,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-new-york-times-contributor-apologizes-for-tweet-suggesting-biden-should-lynch-mike-pence.md",
-      "title": "New York Times contributor apologizes for tweet suggesting Biden should 'lynch Mike Pence'",
-      "excerpt": "A contributing opinion writer for The New York Times is under fire for a tweet that jokingly suggested former Vice President Mike Pence be lynched in order to unify the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-times-will-wilkinson-lynch-mike-pence",
-      "originalUrl": "https://www.foxnews.com/media/new-york-times-will-wilkinson-lynch-mike-pence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-will-wilkinson-lynch-mike-pence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-will-wilkinson-lynch-mike-pence.amp",
-      "publishedDateTime": "2021-01-21T15:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Republican Voice"
       ]
     }

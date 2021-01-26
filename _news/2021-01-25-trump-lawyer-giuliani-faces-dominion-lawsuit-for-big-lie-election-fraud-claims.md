@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1CD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1CD"
 type: article
 quality: 135
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -215,6 +215,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548260786&r=LYNXMPEH0I05A&w=800"
         width: 800
         height: 558
+        isCached: true
+  - title: "What’s Next For Trump? His Plans As Impeachment Article Hit Senate"
+    excerpt: "Former President Donald Trump is opening a new office in Florida on Monday that will carry on his admininstration's administration, an announcement he made as the House delivered a single article of impeachment to the Senate."
+    publishedDateTime: 2021-01-26T12:26:00Z
+    webUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hit-senate-3130886"
+    ampWebUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hit-senate-3130886?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hit-senate-3130886?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
+        width: 1024
+        height: 696
         isCached: true
   - title: "Dominion Voting Systems Sues Trump Lawyer Giuliani Over Election Claims"
     excerpt: "WASHINGTON (Reuters) - Dominion Voting Systems Inc has filed a lawsuit against former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation for making false claims of fraud about the November 2020 U."
