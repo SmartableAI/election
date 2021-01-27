@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why West Virginia is central to Biden's climate crisis plans"
+    excerpt: "Joe Manchin once shot a hole in the climate-saving plan of his own party. Literally.\n    \n"
+    publishedDateTime: 2021-01-27T11:02:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hHb9PF_Lre4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/climate-crisis-biden-executive-actions-analysis-weir-wxc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/climate-crisis-biden-executive-actions-analysis-weir-wxc/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's decrees vault America back onto the global stage. A whiplashed world wonders for how long"
     excerpt: "Within hours of taking office, US President Joe Biden set to work signing a blizzard of executive orders, memorandums and directives to agencies, ranging from steps to combat the coronavirus to beginning the process of rejoining the Paris climate accord.\n    \n"
     publishedDateTime: 2021-01-24T05:12:48Z

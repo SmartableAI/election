@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-def
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-deferrals/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122211659-05-biden-economy-0122-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's pick for UN ambassador to call for re-engagement with UN to counter Chinese influence"
+    excerpt: "President Joe Biden's nominee for US ambassador to the United Nations plans to voice her support for the country's re-engagement in the multilateral institution in order to counter Chinese influence during a Senate confirmation hearing on Wednesday, according to excerpts of her testimony obtained by"
+    publishedDateTime: 2021-01-27T12:37:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5OA3xB0GiRc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/linda-thomas-greenfield-united-nations-ambassador-confirmation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/linda-thomas-greenfield-united-nations-ambassador-confirmation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123093320-23-biden-admin-possibilities-linda-thomas-greenfield-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

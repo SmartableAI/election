@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Analysis: Why West Virginia is central to Biden's climate crisis plans"
+    excerpt: "Joe Manchin once shot a hole in the climate-saving plan of his own party. Literally.\n    \n"
+    publishedDateTime: 2021-01-27T11:02:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hHb9PF_Lre4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/climate-crisis-biden-executive-actions-analysis-weir-wxc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/climate-crisis-biden-executive-actions-analysis-weir-wxc/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's favorability on the rise as majority of Americans think he's handling transition well"
     excerpt: "President-elect Joe Biden will take office Wednesday with high expectations and largely positive reviews of how he has handled the transition, according to a new CNN Poll conducted by SSRS. But those rosy assessments of Biden come as negative perceptions of how things are going in the United States are"
     publishedDateTime: 2021-01-19T12:26:41Z

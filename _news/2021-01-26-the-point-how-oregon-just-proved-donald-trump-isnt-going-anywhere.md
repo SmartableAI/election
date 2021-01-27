@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Blame Trump' defense from alleged Capitol rioters dovetails with Democrats' impeachment case"
+    excerpt: "The \"Trump defense\" is taking shape among some alleged Capitol rioters.\n    \n"
+    publishedDateTime: 2021-01-27T11:00:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dwC3ao5SHaY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/trump-defense-capitol-attack-charges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/trump-defense-capitol-attack-charges/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200449-capitol-riot-jan-6-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why the Supreme Court didn't want to hear the Trump emoluments cases and what it means going forward"
     excerpt: "Early in the Trump administration, a novel dispute arose concerning whether the President had violated the Constitution by illegally profiting from his business ventures while in public office.\n    \n"
     publishedDateTime: 2021-01-25T23:40:42Z
@@ -143,6 +159,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Could Trump Be Convicted? ‘Just Do the Math’"
+    excerpt: "The district court judge, a Trump appointee, approved a two-week nationwide restraining order, sought by Texas’ attorney general, that would prevent the halt to deportations. The big question hanging over Washington right now is whether Senate Democrats will allow the filibuster to stand,"
+    publishedDateTime: 2021-01-27T12:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/27/us/politics/trump-convicted-mcconnell.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/27/us/politics/trump-convicted-mcconnell.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/27/us/politics/trump-convicted-mcconnell.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/04/30/us/onpolitics-capitol/onpolitics-capitol-facebookJumbo-v3.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Live Updates: Most G.O.P. Senators Vote Against Holding Impeachment Trial for Trump"
     excerpt: "In a 55-to-45 vote that strongly suggested that the Senate would not be able to convict the former president, lawmakers narrowly killed a Republican effort to dismiss the impeachment charge as unconstitutional."
     publishedDateTime: 2021-01-26T22:18:00Z
@@ -202,6 +234,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/08/a8/392ef9a94eed8c8874a63a6dfb6d/20210124-donald-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "McConnell retreats as Trump dominates the GOP civil war"
+    excerpt: "Mitch McConnell! — suggested he’d finally had enough when, in his words, a “mob” of protesters that “was fed lies” stormed Congress after “they were provoked by the president.” McConnell, the NYT reported,"
+    publishedDateTime: 2021-01-27T11:14:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/01/27/mcconnell-retreats-as-trump-dominates-the-gop-civil-war-491540"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/58/de/b0653d484332b42ce97b3255aab1/210127-mcconnell-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

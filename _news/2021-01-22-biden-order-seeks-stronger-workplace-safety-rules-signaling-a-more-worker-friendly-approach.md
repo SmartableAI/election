@@ -113,10 +113,10 @@ related:
         isCached: true
   - title: "Biden orders Department of Justice to phase out contracts with private prisons"
     excerpt: "President Joe Biden on Tuesday ordered the Department of Justice to end its reliance on private prisons and acknowledge the central role government has played in implementing discriminatory housing policies."
-    publishedDateTime: 2021-01-27T03:39:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-private-prisons-justice-department/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-private-prisons-justice-department/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-private-prisons-justice-department/"
+    publishedDateTime: 2021-01-27T11:42:00Z
+    webUrl: "https://www.cbsnews.com/news/private-prisons-justice-department-biden-executive-order/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/private-prisons-justice-department-biden-executive-order/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/private-prisons-justice-department-biden-executive-order/"
     type: article
     provider:
       name: CBS News

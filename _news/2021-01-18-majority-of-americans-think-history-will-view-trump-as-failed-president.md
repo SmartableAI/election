@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
 type: article
 quality: 124
-heat: 324
+heat: 304
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "'We will be back in some form,' Trump vows at end of tumultuous presidency"
-    excerpt: "President Donald Trump disappeared on Wednesday behind the walls of his club in Palm Beach, Florida, ending a tumultuous presidency stained by two impeachments, deep political divisions and a pandemic that has caused 400,"
-    publishedDateTime: 2021-01-21T04:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29P0II"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0II"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0II"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548466641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J18I"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Slim majority of Americans want Senate to convict Trump: Reuters/Ipsos poll"
     excerpt: "A slim majority of Americans say former President Donald Trump should be convicted by the Senate of inciting an insurrection and barred from holding public office, according to a Reuters/Ipsos poll, which showed a sharp partisan divide over the issue."
     publishedDateTime: 2021-01-23T02:24:00Z

@@ -2,6 +2,166 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-27-trump-opens-office-of-the-former-president-in-florida.md",
+      "title": "Trump opens \"Office of the Former President\" in Florida",
+      "excerpt": "Former President Donald Trump announced Monday the official opening of the Palm Beach County, Florida, which is tasked with overseeing the 45th president's official activities in his post-presidency life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/office-of-the-former-president-trump-florida/",
+      "originalUrl": "https://www.cbsnews.com/news/office-of-the-former-president-trump-florida/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/26/56763f7f-832f-4afa-b230-1e1232404aed/thumbnail/1200x630/d12b165a061a3afbccf9da5d0bdb3f56/gettyimages-1230702145.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/office-of-the-former-president-trump-florida/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/office-of-the-former-president-trump-florida/",
+      "publishedDateTime": "2021-01-27T03:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-mcdaniel-says-rnc-pushing-back-against-bidens-extreme-policies.md",
+      "title": "McDaniel says RNC 'pushing back' against Biden's 'extreme policies'",
+      "excerpt": "EXCLUSIVE – With Democrats in control of the White House and holding fragile majorities in the Senate and House of Representatives, the Republican National Committee (RNC) has a new mission.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi1DgE_MUt4/mcdaniel-rncs-pushing-back-biden-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi1DgE_MUt4/mcdaniel-rncs-pushing-back-biden-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcdaniel-rncs-pushing-back-biden-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcdaniel-rncs-pushing-back-biden-policies.amp",
+      "publishedDateTime": "2021-01-27T03:11:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-anti-trump-republican-adam-kinzinger-knows-fate-is-coming-for-him.md",
+      "title": "Anti-Trump Republican Adam Kinzinger knows fate is coming for him",
+      "excerpt": "One thing to understand about Adam Kinzinger is that he knows how this will end. “The only hope you have is to accept the fact that you’re already dead,” the Republican congressman from Illinois says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YPWG6TSYGMI6XIEL6E4B546SA4.jpg&w=1440",
+          "width": 1440,
+          "height": 968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-27T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-uighur-advocates-will-biden-actions-match-words-on-genocide.md",
       "title": "Uighur Advocates: Will Biden Actions Match Words on 'Genocide'?",
       "excerpt": "One day before President Bidens inauguration, Secretary of State Mike Pompeo made the determination that Chinas treatment of Muslim Uighurs and",
@@ -218,7 +378,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -270,7 +430,7 @@
       "originalUrl": "https://www.reuters.com/article/us-fox-news-kudlow/trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network-idUSKBN29V2K3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -866,62 +1026,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-26-joe-biden-portrayed-as-boring-moderate-but-some-of-his-policies-are-extreme-perino.md",
-      "title": "Joe Biden portrayed as 'boring,' moderate but some of his policies are 'extreme': Perino",
-      "excerpt": "President Joe Biden has proposed some \"extreme\" policies that warrant more attention from the mainstream media, \"The Five\" co-panelist Dana Perino said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eSbKyBfAQb0/perino-biden-boring-portrayed-moderate-policies-extreme",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eSbKyBfAQb0/perino-biden-boring-portrayed-moderate-policies-extreme",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/perino-biden-boring-portrayed-moderate-policies-extreme.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perino-biden-boring-portrayed-moderate-policies-extreme.amp",
-      "publishedDateTime": "2021-01-26T11:03:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-26-same-problems-will-resurface-if-biden-rolls-back-border-wall-construction-former-nm-governor-warns.md",
       "title": "'Same problems' will resurface if Biden rolls back border wall construction, former NM governor warns",
       "excerpt": "Former New Mexico Republican Gov. Susana Martinez warned Tuesday that it is 'very wrong' for the Biden administration to halt the construction of the southern border wall, calling the fence a 'piece of the security of our nation.'",
@@ -1158,7 +1262,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1234,114 +1338,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-fact-checking-7-statistical-claims-from-bidens-quite-factual-economic-speech.md",
-      "title": "Fact-checking 7 statistical claims from Biden's (quite factual) economic speech ",
-      "excerpt": "President Joe Biden recited a flurry of figures in a Friday speech in which he urged Congress to pass the $1.9 trillion pandemic relief package he calls the American Rescue Plan.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wNw5Fwfuu0g/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wNw5Fwfuu0g/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122151617-03-biden-economy-0122-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/fact-check-biden-economic-stats-pandemic-rescue-plan/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/fact-check-biden-economic-stats-pandemic-rescue-plan/index.html",
-      "publishedDateTime": "2021-01-26T06:31:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-twitter-permanently-bans-mypillow-ceo-mike-lindell-after-he-continues-to-claim-trump-won-the-election-fraud.md",
-      "title": "Twitter permanently bans MyPillow CEO Mike Lindell after he continues to claim Trump won the election, fraud",
-      "excerpt": "Twitter decided to ban Mike Lindell, who founded bedding company MyPillow, due to “repeated violations” of its civic integrity policy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2021/01/26/twitter-bans-mypillow-ceo-mike-lindell-election-fraud-claims/4257458001/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2021/01/26/twitter-bans-mypillow-ceo-mike-lindell-election-fraud-claims/4257458001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/03/31/USAT/6aff7ab2-44ed-40be-ab33-704a9c36a9c9-lindell.JPG?auto=webp&crop=2967,1669,x668,y102&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4257458001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4257458001",
-      "publishedDateTime": "2021-01-26T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

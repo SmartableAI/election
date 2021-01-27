@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Senate rejects GOP motion to declare Trump impeachment trial unconstitutional"
+    excerpt: "Senators were sworn in as jurors on Tuesday in the second impeachment trial of former President Donald Trump for inciting an insurrection, with proceedings scheduled to get underway in two weeks. Senator Patrick Leahy,"
+    publishedDateTime: 2021-01-27T11:45:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/senate-rejects-motion-declare-trump-impeachment-trial-unconstitutional/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/senate-rejects-motion-declare-trump-impeachment-trial-unconstitutional/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/senate-rejects-motion-declare-trump-impeachment-trial-unconstitutional/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/26/d8c6009b-1a41-4bf2-9d5d-627b79829356/thumbnail/1200x630/ed7731eecbd029ac99de9fcf4c3abfeb/screen-shot-2021-01-26-at-2-48-36-pm.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
     excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."
     publishedDateTime: 2021-01-24T00:15:00Z

@@ -31,159 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Majority of Americans Think History Will View Trump as 'Failed' President"
-    excerpt: "Evaluating a president's time in office often requires a rearview mirror. While history has yet to weigh in on President Donald Trump's time in office, Americans don't see President Donald Trump receiving positive remarks down the road. After a contentious ..."
-    publishedDateTime: 2021-01-18T15:48:00Z
-    webUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394"
-    ampWebUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
+  - title: "Trump opens \"Office of the Former President\" in Florida"
+    excerpt: "Former President Donald Trump announced Monday the official opening of the Palm Beach County, Florida, which is tasked with overseeing the 45th president's official activities in his post-presidency life."
+    publishedDateTime: 2021-01-27T11:41:00Z
+    webUrl: "https://www.cbsnews.com/news/office-of-the-former-president-trump-florida/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/office-of-the-former-president-trump-florida/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/office-of-the-former-president-trump-florida/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1710407/trump-history-americans-failed-president.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/26/56763f7f-832f-4afa-b230-1e1232404aed/thumbnail/1200x630/d12b165a061a3afbccf9da5d0bdb3f56/gettyimages-1230702145.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Slim majority of Americans want Senate to convict Trump: Reuters/Ipsos poll"
-    excerpt: "A slim majority of Americans say former President Donald Trump should be convicted by the Senate of inciting an insurrection and barred from holding public office, according to a Reuters/Ipsos poll, which showed a sharp partisan divide over the issue."
-    publishedDateTime: 2021-01-23T02:24:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-poll-idUSKBN29R2M9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2M9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2M9"
+  - title: "Trump made 30,573 false or misleading claims as president. Nearly half came in his final year."
+    excerpt: "The Washington Post Fact Checker’s database of Trump claims, originally launched as a project to track his first 100 days, offers a window into his obsessions."
+    publishedDateTime: 2021-01-24T04:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548764158&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1IU"
-        width: 804
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UMKPWNCU54I6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Exclusive: As Trump leaves office, 50% of Americans see him as a 'failed' president"
-    excerpt: "Trump hasn't succeeded in overturning the election results but he has persuaded a third of Americans that Biden wasn't legitimately elected"
-    publishedDateTime: 2020-12-24T09:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/donald-trump-failed-president-50-usa-today-poll-say/3926190001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3926190001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3926190001"
+  - title: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency"
+    excerpt: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
+    publishedDateTime: 2021-01-25T19:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Donald Trump spends final minutes in office at Mar-a-Lago, is first president to skip inauguration in more than 150 years"
+    excerpt: "Trump's military send-off at Joint Base Andrews appeared smaller than expected. He left on Air Force One as Frank Sinatra's \"My Way\" played."
+    publishedDateTime: 2021-01-21T18:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/20/donald-trump-plans-end-his-presidency-mar-lago-florida/4210601001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4210601001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4210601001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 119
+    quality: 100
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/de83808c-d841-464c-9f8d-eb7ef135dad1-AFP_AFP_8Z69UN.JPG?auto=webp&crop=4566,2568,x0,y186&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vast majority of Americans hold Trump responsible for Capitol siege, new Insider poll shows"
-    excerpt: "Americans overwhelmingly say that President Donald Trump is responsible on some level for the Capitol siege, according to a new Insider poll. 76% said Trump bears a \"great deal\" o"
-    publishedDateTime: 2021-01-17T13:59:00Z
-    webUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
+  - title: "Vice President Mike Pence and Karen Pence pray during a National Day of Prayer event with Presi"
+    excerpt: "Vice President Mike Pence and Karen Pence pray during a National Day of Prayer event with President Donald Trump in the Rose Garden of the White House, Thursday, May 2, 2019, in Washington. (AP"
+    publishedDateTime: 2021-01-25T19:41:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/heroes-of-synagogue-shooting-help-trump-mark-national-day-of-prayer-1654936/attachment/vice-president-mike-pence-and-karen-pence-pray-during-a-national-day-of-prayer-event-with-presi/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 43
     images:
-      - url: "https://i.insider.com/6000b0e1a81ea100188db505?width=1200&format=jpeg"
+      - url: "https://www.reviewjournal.com/wp-content/themes/rjth2019/images/defaultimage-1200x800.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "USA TODAY/Suffolk Poll: Americans, braced for violence at the inauguration, see democracy damaged after Trump"
-    excerpt: "A new USA TODAY/Suffolk Poll finds President Trump's standing has eroded since the U.S. Capitol riot. A majority predict violence at Joe Biden's inauguration."
-    publishedDateTime: 2021-01-17T14:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/17/trump-hurt-democracy-violence-feared-inauguration-poll/4165750001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4165750001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4165750001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/58d3db56-ae52-4500-9485-aa58d36fc8f2-USATSI_15428849.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
-    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
-    publishedDateTime: 2021-01-19T12:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-legacy/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSL1N2JS0KO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
-        width: 800
-        height: 547
-        isCached: true
-  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
-    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
-    publishedDateTime: 2021-01-19T16:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-legacy-analysis/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSKBN29O15W?post"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
-        width: 800
-        height: 547
-        isCached: true
-  - title: "Most Americans Want Trump Gone From Politics, Poll Says"
-    excerpt: "A slim majority of Americans want to see Trump charged with the incitement of the mob that attacked the Capitol Building, which would bar him from holding public office if convict"
-    publishedDateTime: 2021-01-15T15:21:00Z
-    webUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261"
-    ampWebUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-donald-trump-owns-the-unfortunate-distinction.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Should Trump Pardon Himself? 68% Of Americans Say 'No'"
-    excerpt: "The U.S. Constitution does not explicitly say whether a sitting president can pardon himself for potential criminal liabilities."
-    publishedDateTime: 2021-01-18T00:26:00Z
-    webUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284"
-    ampWebUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/outgoing-us-president-donald-trump-is-seeking-to.jpg"
-        width: 1024
-        height: 716
-        isCached: true
-  - title: "From the border to the federal bench to raging political divisions: How Donald Trump's tenure has changed America"
-    excerpt: "No matter what Trump does now, his past four years have left a mark on immigration, the federal bench and the nation's raging political divisions."
-    publishedDateTime: 2021-01-18T23:23:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/18/heres-how-trumps-tumultuous-four-years-president-changed-america/4165708001/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 34
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?crop=5999,3374,x1,y626&width=3200&height=1680&fit=bounds"
-        width: 2987
-        height: 1680
+        height: 800
         isCached: true
 
 secured: "0W+i4ZxWwsaJBqjiIOPaD4UD6qPw8GU+T0Cnd2jpaPEAJg6JKvr7LVgYRKToe95dksmV5lw1AtfLSliG/fF+HBgUxIyDuwJsDXUAms2dxjHei8kiVlfODxVj5xxX8xjf1rttPmS9G8TuAG8y3xoDHyyCnYmI8ii6cdby+ZuW1BIaJMceYLvCcIwH9ZyIsMiALUSXNU4t5lPWEinwB5tJsqfVQFpr58kopLwayNs1a733zfPzSkyNllkN0DIl/tD4JM0Floe9W+JPz5R71Rdae2lYJXkCGB+LiE5TysKUTbKHyodHmGLoOxDrPiujxBPt43DeJ10ZgW8yL63tO3OV5Nw9zdQbpL4HB2RaKP55cM0=;a0IsU8lKLNowy6+QbaXDVw=="

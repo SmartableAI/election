@@ -2,6 +2,115 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-16-power-up-trump-pence-relationship-may-set-lowest-bar-yet.md",
+      "title": "Power Up: Trump-Pence relationship may set lowest bar yet",
+      "excerpt": "The relationship between President Trump and Vice President Pence would have hit the history books as one of the tightest bonds between the highest-ranking members of American government. Until the events of Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1000,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RWCCSACWYII6XLGFSLJIDGQ4ZM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp",
+      "publishedDateTime": "2021-01-15T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-rose-mcgowan-calls-trumps-second-impeachment-cult-propaganda-a-theater-of-mass-distraction.md",
+      "title": "Rose McGowan calls Trump's second impeachment 'cult propaganda,' 'a theater of mass distraction'",
+      "excerpt": "In a scathing tweet, McGowan called the actions against Trump cultlike which is something she's said numerous times in the past about Hollywood. \"This impeachment is Cult propaganda. A theater of mass distraction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction",
+      "originalUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Rose-McGowan.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction.amp",
+      "publishedDateTime": "2021-01-15T08:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-sarah-cooper-im-moving-on-from-lip-syncing-trump.md",
       "title": "Sarah Cooper: I'm moving on from lip-syncing Trump",
       "excerpt": "The comedian talks with \"Sunday Morning\" about life after becoming a social media phenomenon lampooning the president.",
@@ -1228,114 +1337,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-trumps-former-doctor-harold-bornstein-who-called-him-healthiest-president-ever-dies.md",
-      "title": "Trump's former doctor Harold Bornstein, who called him 'healthiest president ever,' dies",
-      "excerpt": "President Trump’s former personal physician, Dr. Harold Bornstein, who attested Trump was the \"healthiest president ever,\" died Thursday at 73. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y9VeiayM6YU/trumps-former-doctor-harold-bornstein-dies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y9VeiayM6YU/trumps-former-doctor-harold-bornstein-dies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Dr.-Harold-Bornstein.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trumps-former-doctor-harold-bornstein-dies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-former-doctor-harold-bornstein-dies.amp",
-      "publishedDateTime": "2021-01-14T10:23:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-protected-habitat-for-imperiled-spotted-owls-is-slashed-trumps-latest-parting-gift-to-the-timber-industry.md",
-      "title": "Protected habitat for imperiled spotted owls is slashed: \"Trump's latest parting gift to the timber industry\"",
-      "excerpt": "The owl is listed as threatened under the Endangered Species Act and is losing nearly 4% of its population annually.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/spotted-owl-habitat-slashed-trump-administration/",
-      "originalUrl": "https://www.cbsnews.com/news/spotted-owl-habitat-slashed-trump-administration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/14/f9e871fa-d69a-4517-9302-121f220b86d3/thumbnail/1200x630/2a7a13f86794fbd234a91278c8ae4104/ap-16218741751211.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/spotted-owl-habitat-slashed-trump-administration/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/spotted-owl-habitat-slashed-trump-administration/",
-      "publishedDateTime": "2021-01-14T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

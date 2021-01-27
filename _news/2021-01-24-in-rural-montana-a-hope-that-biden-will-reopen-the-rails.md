@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's pick for UN ambassador to call for re-engagement with UN to counter Chinese influence"
+    excerpt: "President Joe Biden's nominee for US ambassador to the United Nations plans to voice her support for the country's re-engagement in the multilateral institution in order to counter Chinese influence during a Senate confirmation hearing on Wednesday, according to excerpts of her testimony obtained by"
+    publishedDateTime: 2021-01-27T12:37:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5OA3xB0GiRc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/linda-thomas-greenfield-united-nations-ambassador-confirmation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/linda-thomas-greenfield-united-nations-ambassador-confirmation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123093320-23-biden-admin-possibilities-linda-thomas-greenfield-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'That's Cesar Chavez!': Bust of civil rights icon behind President Joe Biden stirs excitement"
     excerpt: "\"Placing a bust of my father in the Oval Office symbolizes the hopeful new day that is dawning for our nation,\" says Paul Chavez, the civil rights icon's son."
     publishedDateTime: 2021-01-21T10:12:00Z

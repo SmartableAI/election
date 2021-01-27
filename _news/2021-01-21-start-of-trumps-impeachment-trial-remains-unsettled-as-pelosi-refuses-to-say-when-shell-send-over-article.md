@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden sets bold timeline for a return to normal life"
+    excerpt: "President Joe Biden's pledge that there will be sufficient vaccines for 300 million Americans by the end of summer represents a bold and politically risky response to criticism his pandemic plan lacks ambition.\n    \n"
+    publishedDateTime: 2021-01-27T12:25:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/idRqSqIvHIk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/president-biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/president-biden-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's impeachment case is now in the Senate's hands. Here's what's next"
     excerpt: "The House voted to impeach President Donald Trump on January 14, but waited until Monday to complete the next step in the process -- having House managers read the single article of impeachment aloud on the House floor and then walking it over to the Senate.\n    \n"
     publishedDateTime: 2021-01-26T01:01:22Z

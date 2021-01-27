@@ -172,6 +172,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden’s jab that foreign company contracts went up 30% under Trump"
+    excerpt: "President Biden is using a number that is not easily verified — and conflicts with progress shown on Defense Department contracts."
+    publishedDateTime: 2021-01-27T13:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/27/bidens-jab-that-foreign-company-contracts-went-up-30-under-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/27/bidens-jab-that-foreign-company-contracts-went-up-30-under-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/27/bidens-jab-that-foreign-company-contracts-went-up-30-under-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4RVYDMDAEEI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 946
+        isCached: true
   - title: "Correction: Trump-Biden-Immigration Snub story"
     excerpt: "In a Jan. 25, 2021, story about the Trump administration’s efforts to limit the Biden administration’s changes to immigration policy, The Associated Press erroneously attributed a statement about Indi"
     publishedDateTime: 2021-01-26T22:39:00Z

@@ -2,6 +2,115 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-21-a-total-failure-the-proud-boys-now-mock-trump.md",
+      "title": "‘A Total Failure’: The Proud Boys Now Mock Trump",
+      "excerpt": "Members of the far-right group, who were among Donald Trump’s staunchest fans, are calling him “weak,” in a sign of fraying support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/20/business/20noproudboys1/20noproudboys1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html",
+      "publishedDateTime": "2021-01-20T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-donald-trump-grants-clemency-to-legendary-las-vegas-gambler-billy-walters.md",
+      "title": "Donald Trump grants clemency to legendary Las Vegas gambler Billy Walters",
+      "excerpt": "Famed sports gambler Billy Walters was among the 143 people to which outgoing President Donald Trump granted clemency in his final day in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/2t16n8Mz9CcYaGATnLGU-glOYJs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KOZBWRJWBJHHPENSR4ZSMVOI4M.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-20T09:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-how-the-government-will-thoroughly-clean-and-disinfect-white-house-furniture-door-knobs-and-light-switches-after-trump-leaves.md",
       "title": "How the government will 'thoroughly clean and disinfect' White House furniture, door knobs, and light switches after Trump leaves",
       "excerpt": "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in.",
@@ -386,7 +495,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -594,7 +703,7 @@
       "originalUrl": "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -1479,106 +1588,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-trump-trial-pending-mcconnell-calls-it-vote-of-conscience.md",
-      "title": "Trump trial pending, McConnell calls it ‘vote of conscience’",
-      "excerpt": "President Donald Trump’s impeachment trial is likely to start after Joe Biden’s inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 585,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-16T02:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-dustin-higgs-becomes-13th-and-final-inmate-executed-under-trump.md",
-      "title": "Dustin Higgs becomes 13th and final inmate executed under Trump",
-      "excerpt": "Another federal death row inmate in Indiana was executed early Saturday — marking final execution under the Trump administration, and the 13th since July. Dustin John Higgs, convicted of",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/",
-      "originalUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Dustin-John-Higgs.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/amp/",
-      "publishedDateTime": "2021-01-16T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

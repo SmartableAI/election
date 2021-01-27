@@ -2,6 +2,115 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-11-mcgovern-im-concerned-hell-do-something-crazy-capitol-mob-fallout-trump-to-give-belichick-medal-of-freedom.md",
+      "title": "MCGOVERN: I’m concerned ‘he’ll DO SOMETHING CRAZY’ — CAPITOL MOB FALLOUT — TRUMP to give BELICHICK Medal of Freedom",
+      "excerpt": "Rep. Jim McGovern, chair of the House Rules Committee, will have a key role when the House begins impeachment proceedings against President Donald Trump, which will likely happen this week. I spoke with McGovern on Sunday about his experience when the mob stormed the Capitol last week,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2021/01/11/mcgovern-gop-has-to-step-up-capitol-mob-fallout-trump-to-give-belichick-medal-of-freedom-491351",
+      "originalUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2021/01/11/mcgovern-gop-has-to-step-up-capitol-mob-fallout-trump-to-give-belichick-medal-of-freedom-491351",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-trumps-search-for-online-outlet-just-got-tougher-parler-has-gone-dark.md",
+      "title": "Trump's search for online outlet just got tougher: Parler has gone dark",
+      "excerpt": "Site popular with far-right went down, at least for now, after it was yanked by Google, Apple and Amazon in wake of the siege of gthe Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/parler-down-aws-web-hosting-trump/",
+      "originalUrl": "https://www.cbsnews.com/news/parler-down-aws-web-hosting-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/11/b27e4e69-acf8-4d8e-8e6b-445025ba0a4f/thumbnail/1200x630/3995c5476ca7ad949ef9c36c8489aaf5/gettyimages-1230529588.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/parler-down-aws-web-hosting-trump/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/parler-down-aws-web-hosting-trump/",
+      "publishedDateTime": "2021-01-11T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-trump-to-honor-belichick-with-presidential-medal-of-freedom.md",
       "title": "Trump to honor Belichick with Presidential Medal of Freedom",
       "excerpt": "President Donald Trump will present one of the nation’s highest civilian honors to Bill Belichick, the football coach of the New England Patriots and the only coach to win six Super Bowl titles",
@@ -1436,110 +1545,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-iraq-issues-arrest-warrant-for-trump-over-soleimani-killing.md",
-      "title": "Iraq issues arrest warrant for Trump over Soleimani killing",
-      "excerpt": "Iraq’s judiciary says it has issued an arrest warrant for outgoing President Donald Trump in connection with the killing of an Iranian general and a powerful Iraqi militia leader last year",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/iraq-court-issues-arrest-warrant-trump-murder-75106778",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/iraq-court-issues-arrest-warrant-trump-murder-75106778",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/WireAP_2a0966ca247441c8b59e2b6013ce7803_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-during-electoral-college-debate-us-sens-tammy-duckworth-and-richard-durbin-condemn-trump-and-violent-mob-that-stormed-us-capitol.md",
-      "title": "During Electoral College debate, U.S. Sens. Tammy Duckworth and Richard Durbin condemn Trump and violent mob that stormed U.S. Capitol",
-      "excerpt": "U.S. Sens. Tammy Duckworth and Richard Durbin condemn Trump and violent mob that stormed U.S. Capitol in floor speeches on Electoral College debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html",
-      "originalUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/i0uaW-P1fTTnA5vKcHmJbIvtCns=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LSMNSHFAONDRNECBWIUN5DE6FQ.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-06T22:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

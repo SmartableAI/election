@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-halt-new-oil-gas-l
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-halt-new-oil-gas-leases/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121221335-joe-biden-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden expected to halt new oil and gas leases on federal lands and take other climate-related action "
+    excerpt: "President Joe Biden is expected to sign several executive actions related to climate on Wednesday, including issuing a moratorium on new oil and gas leases on federal lands, according to a person familiar with his plans.\n    \n"
+    publishedDateTime: 2021-01-27T12:39:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DphxPDUffw4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/climate-executive-orders-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/climate-executive-orders-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126144131-01-fracking-site-texas-0507-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

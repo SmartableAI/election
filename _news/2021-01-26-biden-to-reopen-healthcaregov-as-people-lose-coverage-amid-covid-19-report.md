@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP senators balk at $1.9 trillion price tag for Biden's COVID-19 bill"
+    excerpt: "Some Republican senators have raised concerns about passing another relief bill so soon after passing $1 trillion legislation."
+    publishedDateTime: 2021-01-27T11:52:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-cost-republican-senators/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-cost-republican-senators/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-cost-republican-senators/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/26/68dab874-c21b-4556-90b1-af7217166798/thumbnail/1200x630/993b8c863211e6b4f1e875eb8a050a63/gettyimages-1230802973.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts"
     excerpt: "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said."
     publishedDateTime: 2021-01-23T18:57:00Z

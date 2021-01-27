@@ -2,11 +2,11 @@
 category: news
 title: "Biden orders Department of Justice to phase out contracts with private prisons"
 excerpt: "President Joe Biden on Tuesday ordered the Department of Justice to end its reliance on private prisons and acknowledge the central role government has played in implementing discriminatory housing policies."
-publishedDateTime: 2021-01-27T03:39:00Z
-originalUrl: "https://www.cbsnews.com/news/biden-private-prisons-justice-department/"
-webUrl: "https://www.cbsnews.com/news/biden-private-prisons-justice-department/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/biden-private-prisons-justice-department/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-private-prisons-justice-department/"
+publishedDateTime: 2021-01-27T11:42:00Z
+originalUrl: "https://www.cbsnews.com/news/private-prisons-justice-department-biden-executive-order/"
+webUrl: "https://www.cbsnews.com/news/private-prisons-justice-department-biden-executive-order/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/private-prisons-justice-department-biden-executive-order/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/private-prisons-justice-department-biden-executive-order/"
 type: article
 quality: 121
 heat: -1
@@ -296,6 +296,6 @@ related:
         height: 800
         isCached: true
 
-secured: "ssYR4YYpVqM0s/5SYpSVK8qxbVj9qaA2B3A0Xm2EL7+sBUmYte939Y8gXU3F+Mb1O2oGDqlon23C01S4zI6pumbyjxfx2TLKFlQri6IAVcM/0f0kCUNYM2Hn/KPP6Y1P3K80jqikMRd+9KGV784IeiGelM8kg0kokyIcEZhF9elKexi+baZ7iF4sW2qZ8jOjHnpiwba1JFtkC/l3IS9aqUPm+VRizCAFB5ZszMUsE01RlGQrmsBzoidnIvVVm/znFUrrebWIxiTZAdOdTLla+aRnqlVPgsL5oy2oHfyGbYcmlo80UJfEPsZMo8OG6CzQFvA2jI5uGWy3tvFr8z/2lBKV2vipBljPbNdZBo6GpQaG0Ie8pRh+e0lV9vZao+cg7qKoPS8Mn4jbiAQFQYuf9inCEhyPxZjF6BWuxniZUC3WjEceL6S8wMhzrB0MRKMBM7D74Evu4+2EQAdF7wRelruzSa9cZ0DZF4wH+GvsMQeWLjME1R5ARRuQefxBZktFdPptL3FVUbVvHnk8k2RY9A==;jr+hQGRMXqnLNS2iXkWNdg=="
+secured: "dfptCqkX/VziMa0ekMyviy3MDNn9LrTQfTA+SOkZnX1yM89AI0uodiA+Nowc+36Z8+qAdF2VQWBGB3GjRgTKSrgaes5/5POMDBSSZqlWw/w7ElQmKokD6Td+AiY+ipN92Kefh84HE+kFJ7Y9UufnsGGK+sdsNEaSOQP3Y5JuIXMcn0pSTXShYKCwa4+r2/98hBfH376ylYxpx972M7gd0+vb/nESOrStxt+JZn6IZgT9CdAbV7aBz+BlP3xvYutfwioggO5P/n4sJj4ROw3IXmcBwUCJmjgP2vsIxwnTwrwHcIqxDWE0mrp9CrvjFsW73C8ofCfmU7diME3kLAIfLj4BT8PMdVbfiQvNGcuPxjs=;gVvRVq+0aLvWHDWktMqtvA=="
 ---
 

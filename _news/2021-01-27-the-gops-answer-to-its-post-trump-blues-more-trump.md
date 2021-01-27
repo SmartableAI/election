@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden sets bold timeline for a return to normal life"
+    excerpt: "President Joe Biden's pledge that there will be sufficient vaccines for 300 million Americans by the end of summer represents a bold and politically risky response to criticism his pandemic plan lacks ambition.\n    \n"
+    publishedDateTime: 2021-01-27T12:25:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/idRqSqIvHIk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/president-biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/president-biden-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's impeachment case is now in the Senate's hands. Here's what's next"
     excerpt: "The House voted to impeach President Donald Trump on January 14, but waited until Monday to complete the next step in the process -- having House managers read the single article of impeachment aloud on the House floor and then walking it over to the Senate.\n    \n"
     publishedDateTime: 2021-01-26T01:01:22Z
@@ -447,6 +463,6 @@ related:
         height: 630
         isCached: true
 
-secured: "qjjzvti1QjGWySiVDg5AWMG4qu+b+/ieGYCDJVWq2G+O6fqGBo/BnBiHfuRB9z8JhzxViNSzuWRsMgMSZDG8SYsMlrhyrZ7SK4bPBonKnsTLcd5lFoL6c5QNNj/gIth7LBog188IkSnlo9tf03sZTcCwB/XFbpxXytjJD2nZzojTbAAmhUivMt3L83IO93lvLVLQmVCkyMotH2tu7Qyf5g7xlTCxxqc0ZX6ZFNXzqPFSRHfZV++31D/BE39Q4BZk6jTLzCOPlqkTd59HydLDsylNaKsANOkSY09PrKMMP3KjVw34dAz1xM/87my02EwaApu/s9ttQOhxYyWo4hRpD4TGAcCu/C2dEUW+kyWWrIU=;0rP2YqIViwoNxhEpx0xDsg=="
+secured: "BlV1ivqbN0xUTs5/5vfjDXb30gc8H7JPeMCgj104426oA71mz6rBtrsNAxQXGiK7T+lrK3RVTNo//jYu9tBUiC1KVWdlG9OvN03dcXZIYD8oXAPdZZiAGuqBOOEirkt5e23/wqncZ1cExDI/rBSUBg00nwQFckghQ9h6BSthmE1VfhrzitVJYQYdI2Jhw+TojdUwzKpfkqBVbSRCMcVoscnIZOphnhFa4lIF57S7a8N6gm0U6oTAbfykQRUBpQkGapsDwt+o3IGEZ7cbJiRYxKtjhi365nsjxiQDqsNoeJLgoGqvLUQsc3/M7b2dx6aYSvN7F36QnINhechkj3vT9ZRXzqLTLNGCdnLyHXT/0TeZcbhGXrDt5m2bcMBS9kk5/DVkV/CQqVEoqpP0NgKQNFVMJ6zBwNEQ6hmY0iQO7YROeuwCt/QUqg+FhdUKVpHYu/kUymh3NT7iDG1y4w0oHdV08yqW0w+4NZnEAA1AfSHuAzxJa3CnNcX3J61MlEtTs0DvHdPeA0gVUJKUN+wWHQ==;lrf8yTCHfAuxNCILbp3y0Q=="
 ---
 
