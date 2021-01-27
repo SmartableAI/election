@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden to reopen Obamacare markets to offer medical coverage during pandemic"
+    excerpt: "President Biden plans to reopen the HealthCare.gov markets for a special sign-up opportunity for people without medical coverage in the pandemic."
+    publishedDateTime: 2021-01-27T10:13:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-27/biden-reopen-obamacare-markets-coronavirus-relief"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-27/biden-reopen-obamacare-markets-coronavirus-relief?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-27/biden-reopen-obamacare-markets-coronavirus-relief?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 123
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0544a4c/2147483647/strip/true/crop/5018x3277+0+109/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6d%2F4e%2Fcd2fce2245d9a6d4f573c11090c6%2Felection-2020-california-ballot-harvesting-25945.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden seeks five-year extension of New START arms treaty with Russia: source"
     excerpt: "U.S. President Joe Biden will seek a five-year extension to the New START arms control treaty with Russia, a source familiar with the matter said on Thursday."
     publishedDateTime: 2021-01-22T00:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0FS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0FS"
 type: article
 quality: 133
-heat: 453
+heat: 473
 published: true
 
 provider:
@@ -81,19 +81,19 @@ related:
         isCached: true
   - title: "GOP signals unwillingness to part with Trump after riot"
     excerpt: "Former President Donald Trump’s loosely organized political network is testing its grasp on the Republican Party ahead of his Senate impeachment trial"
-    publishedDateTime: 2021-01-27T06:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-signals-unwillingness-part-trump-riot-75508125"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-signals-unwillingness-part-trump-riot-75508125"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-signals-unwillingness-part-trump-riot-75508125"
+    publishedDateTime: 2021-01-27T10:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/gop-signals-unwillingness-to-part-with-trump-after-riot/2021/01/27/a7f1f2ea-605e-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/gop-signals-unwillingness-to-part-with-trump-after-riot/2021/01/27/a7f1f2ea-605e-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-signals-unwillingness-to-part-with-trump-after-riot/2021/01/27/a7f1f2ea-605e-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e53530201fcd4fa6a0db484071554d98_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Chaos of Trump's last days in office reverberates with fresh 'plot' report"
     excerpt: "Ex-president, whose Senate impeachment trial will start in two weeks, reportedly planned to oust acting attorney general in bid to overturn election"
@@ -214,6 +214,20 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0955kyw.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "45 Republican senators vote to dismiss impeachment of Donald Trump – video"
+    excerpt: "Procedural objection fails but indicates stiff challenge of persuading 17 Republicans to vote for conviction"
+    publishedDateTime: 2021-01-27T07:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/27/45-republican-senators-vote-to-dismiss-impeachment-of-donald-trump-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 103
+    images:
+      - url: "https://i.guim.co.uk/img/media/0844704df82f4796af80e7f1e6f95cf827963e81/97_0_2806_1684/master/2806.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c41ec6354e9a140528caf6e8d6d93171"
+        width: 1200
+        height: 630
         isCached: true
   - title: "45 Republicans voted to declare Trump's Senate impeachment trial unconstitutional, all but guaranteeing his acquittal"
     excerpt: "Kentucky Sen. Rand Paul forced the upper chamber to vote on the constitutionality of even holding a trial."

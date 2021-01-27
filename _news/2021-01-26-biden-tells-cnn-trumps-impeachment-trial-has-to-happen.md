@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
 type: article
 quality: 190
-heat: 710
+heat: 730
 published: true
 
 provider:
@@ -374,6 +374,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/25/us/politics/25new-washington-briefing-impeachment2/25new-washington-briefing-impeachment2-facebookJumbo-v3.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "The GOP’s answer to its post-Trump blues: More Trump"
+    excerpt: "For a moment, it looked like the Republican Party was getting some distance from the former president. Not anymore."
+    publishedDateTime: 2021-01-27T10:39:00Z
+    webUrl: "https://www.politico.com/news/2021/01/27/post-trump-gop-462864"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/2a/9f/2275dffa4579b24c57e30c314507/gettyimages-1297640384-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Watch Live: Trump Impeachment Trial Jurors Are Sworn In"
     excerpt: "On Tuesday, the Senate trial for the second impeachment of former President Donald J. Trump begins with the swearing in of the jurors."

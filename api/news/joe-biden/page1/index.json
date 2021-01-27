@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-27-uighur-advocates-will-biden-actions-match-words-on-genocide.md",
+      "title": "Uighur Advocates: Will Biden Actions Match Words on 'Genocide'?",
+      "excerpt": "One day before President Bidens inauguration, Secretary of State Mike Pompeo made the determination that Chinas treatment of Muslim Uighurs and",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.html",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/53/533465_5_.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.amp.html",
+      "publishedDateTime": "2021-01-27T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-biden-says-hes-bringing-back-the-pros-for-virus-briefings.md",
+      "title": "Biden says he’s ‘bringing back the pros’ for virus briefings",
+      "excerpt": "President Joe Biden is dispatching the nation’s top scientists and public health experts to regularly brief the American public about the pandemic that has claimed more than 425,000 U.S. lives",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-says-hes-bringing-back-the-pros-for-virus-briefings/2021/01/27/2321ce2c-605f-11eb-a177-7765f29a9524_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-says-hes-bringing-back-the-pros-for-virus-briefings/2021/01/27/2321ce2c-605f-11eb-a177-7765f29a9524_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-says-hes-bringing-back-the-pros-for-virus-briefings/2021/01/27/2321ce2c-605f-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-says-hes-bringing-back-the-pros-for-virus-briefings/2021/01/27/2321ce2c-605f-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-27T02:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-biden-to-reopen-obamacare-markets-for-covid-19-relief.md",
       "title": "Biden to reopen 'Obamacare' markets for COVID-19 relief",
       "excerpt": "Fulfilling a campaign promise, President Joe Biden plans to reopen the HealthCare.gov insurance markets for a special sign-up opportunity geared to people needing coverage in the coronavirus pandemic.",
@@ -223,7 +323,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates?page=with:block-6010258c8f0869215d930d1d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1475,106 +1575,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs.md",
-      "title": "Senate hearing to consider Alejandro Mayorkas as Biden's head of DHS",
-      "excerpt": "The Senate Homeland Security Committee meets to consider Alejandro Mayorkas' nomination as Secretary of Department of Homeland Security for President-elect Joe Biden's administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html",
-      "originalUrl": "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T11:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-when-joe-biden-takes-the-white-house-hell-also-take-whitehouse.md",
-      "title": "When Joe Biden Takes the White House, He’ll Also Take @WhiteHouse",
-      "excerpt": "Biden Jr. completes his transition into the White House, several social media companies will be completing their own transitions of highly followed official accounts. But the handoff won’t be as seamless as it was four years ago,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/19/technology/biden-white-house-twitter-account.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/19/technology/biden-white-house-twitter-account.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/19/multimedia/19xp-socialmedia-image/19xp-socialmedia-image-facebookJumbo.png",
-          "width": 812,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/19/technology/biden-white-house-twitter-account.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/technology/biden-white-house-twitter-account.amp.html",
-      "publishedDateTime": "2021-01-19T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

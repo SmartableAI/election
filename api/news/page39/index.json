@@ -2,6 +2,170 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-12-01-some-taiwanese-immigrants-fear-biden-will-make-china-great-again-can-he-win-them-over.md",
+      "title": "Some Taiwanese immigrants fear Biden will ‘Make China Great Again.’ Can he win them over?",
+      "excerpt": "Among Southern Californians with roots in Taiwan, there is strong support for President Trump. Some are single-issue voters who value their homeland’s interests above domestic issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/california/story/2020-12-01/taiwanese-immigrants-biden-homeland",
+      "originalUrl": "https://www.latimes.com/california/story/2020-12-01/taiwanese-immigrants-biden-homeland",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/d2b8b03/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2F9b%2Ff2f5489a4db4a2d9343b35db7727%2Fla-photos-1staff-545331-me-0522-unusual-getaway-day-005.IK.JPG",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/california/story/2020-12-01/taiwanese-immigrants-biden-homeland?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-12-01/taiwanese-immigrants-biden-homeland?_amp=true",
+      "publishedDateTime": "2020-12-01T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-meadows-to-meet-with-fda-chief-as-trump-asks-about-status-of-vaccine-emergency-approval.md",
+      "title": "Meadows to meet with FDA chief as Trump asks about status of vaccine emergency approval",
+      "excerpt": "White House chief of staff Mark Meadows is scheduled to meet with Food and Drug Administration Commissioner Stephen Hahn in the West Wing Tuesday, as President Donald Trump has privately demanded to know why the agency hasn't granted emergency use for Pfizer's coronavirus vaccine yet, according to two",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1xct-Eqv0mA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1xct-Eqv0mA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201106231354-mark-meadows-1013-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/mark-meadows-fda-vaccine-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/mark-meadows-fda-vaccine-trump/index.html",
+      "publishedDateTime": "2020-12-01T04:35:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-the-fate-of-millions-of-americans-rests-on-bidens-economic-team.md",
+      "title": "The fate of millions of Americans rests on Biden's economic team",
+      "excerpt": "Joe Biden's incoming economic team will shoulder the desperate hopes of millions of Americans who have lost jobs, face eviction from their homes or who are going hungry in a monstrous Covid-19-induced slump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tmPc7foOmag/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tmPc7foOmag/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 435,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201123153507-janet-yellen-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/joe-biden-economic-team-white-house/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/joe-biden-economic-team-white-house/index.html",
+      "publishedDateTime": "2020-12-01T04:12:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-trump-campaign-to-file-wisconsin-lawsuit-claiming-abuse-of-absentee-voting-affected-220k-ballots.md",
       "title": "Trump campaign to file Wisconsin lawsuit, claiming 'abuse' of absentee voting affected 220K ballots",
       "excerpt": "EXCLUSIVE: The Trump campaign is filing a lawsuit to the Wisconsin Supreme Court Tuesday -- alleging abuse around the process of absentee voting in the state, which they say affected approximately 220,000 ballots.",

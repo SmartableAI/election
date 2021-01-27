@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: All but 5 Republican senators vote to dismiss Trump' impeachment trial"
+    excerpt: "Follow for the latest updates on Trump's impeachment trial"
+    publishedDateTime: 2021-01-27T09:14:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IH4LuB76Cgw/live-updates-trump-impeachment-trial-1-27-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-27-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-27-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rubio doubles down on criticism of Trump impeachment trial: 'It's not even constitutional'"
     excerpt: "Sen. Marco Rubio, R-Fla., doubled down Tuesday on statements he made over the weekend calling next month's impeachment trial of former President Trump \"stupid\"."
     publishedDateTime: 2021-01-26T23:38:05Z

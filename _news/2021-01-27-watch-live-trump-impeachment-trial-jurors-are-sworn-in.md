@@ -390,6 +390,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The GOP’s answer to its post-Trump blues: More Trump"
+    excerpt: "For a moment, it looked like the Republican Party was getting some distance from the former president. Not anymore."
+    publishedDateTime: 2021-01-27T10:39:00Z
+    webUrl: "https://www.politico.com/news/2021/01/27/post-trump-gop-462864"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/2a/9f/2275dffa4579b24c57e30c314507/gettyimages-1297640384-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "McConnell wants to push Trump's Senate impeachment trial to mid-February"
     excerpt: "McConnell’s proposal is a deal to give both sides time to prepare for former President Donald Trump's second impeachment trial."
     publishedDateTime: 2021-01-22T03:31:00Z

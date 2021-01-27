@@ -2,6 +2,115 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-05-one-state-can-chart-the-course-biden-rallies-in-georgia-on-eve-of-senate-runoffs.md",
+      "title": "'One state can chart the course': Biden rallies in Georgia on eve of Senate runoffs",
+      "excerpt": "President-elect speaks at Atlanta rally alongside Democratic candidates Jon Ossoff and the Rev Raphael Warnock",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies?fbclid=IwAR04dNRcXmbyCYDopmtLee754mYFPaxY9BtnJA24B6ZFIDMKVnxDEQXa7Yg",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies?fbclid=IwAR04dNRcXmbyCYDopmtLee754mYFPaxY9BtnJA24B6ZFIDMKVnxDEQXa7Yg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ff660c0bf5f9e314ad581ab5f09ccf159f026916/0_169_5083_3050/master/5083.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=495cdcf4a59e96a0b43afc9340c2cf00",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies",
+      "publishedDateTime": "2021-01-05T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-politico-reporter-tells-journalists-call-gopers-objecting-to-biden-win-radicals-extremists.md",
+      "title": "Politico reporter tells journalists: Call GOPers objecting to Biden win 'radicals', 'extremists'",
+      "excerpt": "Politico chief political correspondent Tim Alberta is urging other journalists to refrain from characterizing any Republican who supports President Trump's ongoing efforts to challenge the results of the 2020 presidential election as a \"conservative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/politico-tim-alberta-republicans-radicals-extremists",
+      "originalUrl": "https://www.foxnews.com/media/politico-tim-alberta-republicans-radicals-extremists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b35a2672-345b-40da-8e02-a17c39c4dd36/5f64718e-370f-4ef4-9f1b-4ff1343125df/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/politico-tim-alberta-republicans-radicals-extremists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tim-alberta-republicans-radicals-extremists.amp",
+      "publishedDateTime": "2021-01-04T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-and-perdue-elected.md",
       "title": "Joe Biden Says $2,000 Stimulus Checks 'Will Never Get There' if Loeffler and Perdue Elected",
       "excerpt": "\"In America, as our opposition friends are finding out, all power flows from the people,\" President-elect Joe Biden said Monday. \"That's our history. That's our law, that's our tradition, that's our constitution.",
@@ -1471,110 +1580,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-jim-carrey-hanging-up-his-joe-biden-snl-impression.md",
-      "title": "Jim Carrey hanging up his Joe Biden ‘SNL’ impression",
-      "excerpt": "Jim Carrey is turning in his aviators and giving up his gig of impersonating Joe Biden on \"Saturday Night Live.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/c08e82c/2147483647/strip/true/crop/2382x1556+192+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F60%2Fb2%2Ffa60b0d84452baf1a342ae658b69%2Fglobal-citizen-prize-3.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-12-19/jim-carrey-joe-biden-snl?_amp=true",
-      "publishedDateTime": "2020-12-19T13:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-sir-david-attenborough-on-joe-biden-christmas-wrapping-and-flamingos.md",
-      "title": "Sir David Attenborough on Joe Biden, Christmas wrapping... and flamingos",
-      "excerpt": "Like many of us, Sir David Attenborough has had to adapt to new ways of working since the coronavirus pandemic took hold this spring. For his latest series, the 93-year-old - who has been shielding - had to record some of his voiceovers from his home in south-west London.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-55042006",
-      "originalUrl": "https://www.bbc.com/news/entertainment-arts-55042006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D8DF/production/_116091555_attenborough_bbc.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/entertainment-arts-55042006",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/entertainment-arts-55042006",
-      "publishedDateTime": "2020-12-18T17:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

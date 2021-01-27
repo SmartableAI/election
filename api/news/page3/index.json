@@ -2,6 +2,158 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-25-biden-officials-discuss-19-tn-stimulus-plan-in-call-with-group-of-bipartisan-lawmakers.md",
+      "title": "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers",
+      "excerpt": "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026",
+      "originalUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1714910/biden-harris-white-house.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1",
+      "publishedDateTime": "2021-01-24T20:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-abcs-matthew-dowd-compares-trump-gop-with-hitler-tojo-kkk-apartheid.md",
+      "title": "ABC's Matthew Dowd Compares Trump, GOP With Hitler, Tojo, KKK, Apartheid",
+      "excerpt": "ABC News contributor Matthew Dowd commented Sunday on ABC's \"This Week\" roundtable: MATTHEW DOWD: Well, to me, the impeachment -- we have to separate the parts of the impeachment vote. I mean, other countries have gone through this before,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/01/24/abcs_matthew_dowd_compares_trump_and_gop_to_hitler_tojo_and_apartheid_south_africa.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/01/24/abcs_matthew_dowd_compares_trump_and_gop_to_hitler_tojo_and_apartheid_south_africa.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/44/440653.jpg",
+          "width": 500,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-24T19:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-the-new-york-times-says-it-didnt-part-ways-with-editor-over-biden-chills-tweet.md",
+      "title": "The New York Times says it didn’t part ways with editor over Biden ‘chills’ tweet",
+      "excerpt": "After a firestorm of criticism, the paper sought to clear up “inaccurate information circulating on Twitter\" about freelancer Lauren Wolfe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/media/2021/01/24/lauren-wolfe-new-york-times-biden-tweet/",
+      "originalUrl": "https://www.washingtonpost.com/media/2021/01/24/lauren-wolfe-new-york-times-biden-tweet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AGXCMIEPWEI6VEZCUKPHL374SM.jpg&w=1440",
+          "width": 1440,
+          "height": 966,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/media/2021/01/24/lauren-wolfe-new-york-times-biden-tweet/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2021/01/24/lauren-wolfe-new-york-times-biden-tweet/?outputType=amp",
+      "publishedDateTime": "2021-01-24T17:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-trump-wants-back-on-facebook-this-star-studded-jury-might-let-him.md",
       "title": "Trump Wants Back on Facebook. This Star-Studded Jury Might Let Him.",
       "excerpt": "Trump be permitted to return to Facebook and reconnect with his millions of followers? The decision has major consequences not just for American politics, but also for the way in which social media is regulated,",
@@ -288,7 +440,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 453,
+      "heat": 473,
       "tags": null,
       "images": [
         {
@@ -1193,170 +1345,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-biden-administration-faces-mounting-pressure-to-address-solarwinds-breach.md",
-      "title": "Biden administration faces mounting pressure to address SolarWinds breach ",
-      "excerpt": "Despite announcing a thorough intelligence review of Russian misconduct, President Joe Biden's administration faces mounting pressure to respond to one of the worst data breaches ever to hit the US government.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3u4ki7B5hJw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3u4ki7B5hJw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122143235-01-biden-inauguration-speech-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html",
-      "publishedDateTime": "2021-01-23T06:01:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-live-updates-trump-impeachment-trial-delayed-until-february.md",
-      "title": "LIVE UPDATES: Trump impeachment trial delayed until February",
-      "excerpt": "Follow for the latest updates on Trump's impeachment.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hfMt1sSqDhM/live-updates-trump-impeachment-trial-1-23-21",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hfMt1sSqDhM/live-updates-trump-impeachment-trial-1-23-21",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1b0bf1a-86a1-4ca8-9894-9739ebb7d128/f2f33f2c-0474-4cef-bbc9-7303999d82d2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-23-21.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-23-21.amp",
-      "publishedDateTime": "2021-01-22T21:46:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-fema-would-operate-up-to-100-federally-run-mass-vaccination-sites-under-biden-plan.md",
-      "title": "FEMA would operate up to 100 federally run mass vaccination sites under Biden plan",
-      "excerpt": "A draft FEMA document envisions four different models for sites, with the largest capable of handling 6,000 doses a day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/",
-      "originalUrl": "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FAYNVVS3KMI6XKCJN6KCHJ277U.jpg&w=1440",
-          "width": 1440,
-          "height": 1005,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp",
-      "publishedDateTime": "2021-01-22T20:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

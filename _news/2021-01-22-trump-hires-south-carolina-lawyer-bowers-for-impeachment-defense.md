@@ -270,6 +270,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "YouTube Suspends Trump Indefinitely, Stops Giuliani Monetizing Clips"
+    excerpt: "YouTube has suspended Donald Trump indefinitely from the platform and said it will also prevent the former president's lawyer Rudy Giuliani from being able to monetize his clips, US media reported. It comes a week after the social media giant confirmed it would extend a ban on Trump's channel -- which has just under three million subscribers -- joining other social media platforms in banning his accounts following the deadly January 6 Capitol riot."
+    publishedDateTime: 2021-01-27T08:46:00Z
+    webUrl: "https://www.ibtimes.com/youtube-suspends-trump-indefinitely-stops-giuliani-monetizing-clips-3131537"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/27/social-media-platforms-have-banned-donald-trumps-accounts.jpg"
+        width: 1024
+        height: 696
+        isCached: true
 
 secured: "GNp74iHZFq4+i/TnUdBrN22fumv5Uu+6tHeNgcrhLeTgsYeG8DfTmqCd2LzWsZeNYK90oxnC6fB7x5bKIcIboyI8L0H/8glZbO4GVd5I71ikTBet1K1z+6JHtHklzOuK5yd2qjOMBOTdR2tWbHRQpjTNJsiZld8N8xuQLjIRPUNt3hVGiTVhvUymjtu78eJAl9WKHkbbHHTuJMX8LG5k+siJVOdGqI0VI8bvyWuB/pGi5Kn7+rvo1u0RZZ/8xBKRjAEWMG3yr7tGC6R3WpspihOqQ2XQGSlFo0QjiwvZzTNuuI+xwSqnhGsJ5c7QSjPbQNQZFMdd/UfThMeH/NYA7bkzOeJ/TEK7XxSBptqqjog=;oPj0/YEWZ6MxKLUB0ktvGQ=="
 ---
