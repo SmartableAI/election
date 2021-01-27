@@ -155,6 +155,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden addresses racial bias in housing, directs DOJ to phase out use of private prisons in new executive orders"
+    excerpt: "\"These aren't feel good policies. The evidence is clear. Investing in equity is good for economic growth,\" said Susan Rice, head of the Domestic Policy Council."
+    publishedDateTime: 2021-01-27T02:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/26/joe-biden-sign-new-executive-orders-laying-out-racial-equity-agenda/4259711001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4259711001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4259711001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/a1e186e4-016a-436e-a20a-3567c57bfca6-Biden_pen.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden plans to sign executive orders boosting workers' rights and pushing for a $15 minimum wage for federal staff"
     excerpt: "Biden is set to sign an order on Friday ensuring that people can still claim unemployment benefits if they turn down a job because of COVID-19 risks."
     publishedDateTime: 2021-01-22T23:27:00Z

@@ -607,6 +607,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "At UN, Palestinians urge Biden to reverse Trump's 'unlawful and hostile measures'"
+    excerpt: "The Palestinian foreign minister on Tuesday urged the Biden administration to reverse what it described as the prior administration’s “unlawful and hostile measures” in the region -- just as the U.S. promised to renew relations with the Palestinians."
+    publishedDateTime: 2021-01-27T02:47:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R5lsdUysoeg/un-palestinians-biden-trumps-unlawful-and-hostile-measures"
+    ampWebUrl: "https://www.foxnews.com/politics/un-palestinians-biden-trumps-unlawful-and-hostile-measures.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/un-palestinians-biden-trumps-unlawful-and-hostile-measures.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d36f0ae-d23f-4400-8487-102bbb4800d0/2116710c-66fd-4195-a712-62b5ec4a67fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden administration will publish White House visitor logs, reversing Trump policy"
     excerpt: "Incoming White House Press Secretary Jen Psaki said late Friday that President-elect Joe Biden’s administration would resume the tradition of publishing the White House’s visitor logs"
     publishedDateTime: 2021-01-16T01:05:14Z

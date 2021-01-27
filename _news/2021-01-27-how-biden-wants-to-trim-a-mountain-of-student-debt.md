@@ -1309,22 +1309,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Joe Biden to call for end of federally run private prisons"
-    excerpt: "A senior White House official says President Joe Biden will formally call on the federal government to end its reliance on private prisons and acknowledge the central role the federal government has p"
-    publishedDateTime: 2021-01-26T17:54:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/joe-biden-to-call-for-end-of-federally-run-private-prisons/2021/01/26/d275c682-5ffe-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/joe-biden-to-call-for-end-of-federally-run-private-prisons/2021/01/26/d275c682-5ffe-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/joe-biden-to-call-for-end-of-federally-run-private-prisons/2021/01/26/d275c682-5ffe-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Judge bars Biden from enforcing 100-day deportation ban"
     excerpt: "A federal judge has barred the U.S. government from enforcing a 100-day deportation moratorium that is a key immigration priority of President Joe Biden"
     publishedDateTime: 2021-01-27T00:40:00Z
@@ -2415,6 +2399,17 @@ related:
     webUrl: "https://www.businessinsider.com/biden-replaces-white-house-doctor-with-longtime-physician-2021-1"
     ampWebUrl: "https://www.businessinsider.com/biden-replaces-white-house-doctor-with-longtime-physician-2021-1?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-replaces-white-house-doctor-with-longtime-physician-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Joe Biden to call for end of federally run private prisons"
+    excerpt: "President Joe Biden on Tuesday will formally call on the federal government to end its reliance on private prisons and acknowledge the central role the government has played in implementing discriminatory housing policies,"
+    publishedDateTime: 2021-01-27T01:30:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-to-call-for-end-of-federally-run-private-prisons-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-to-call-for-end-of-federally-run-private-prisons-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-to-call-for-end-of-federally-run-private-prisons-2021-1?amp"
     type: article
     provider:
       name: Business Insider

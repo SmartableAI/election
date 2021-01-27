@@ -891,6 +891,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "U.S. Senate blocks constitutional challenge to Trump impeachment trial"
+    excerpt: "The U.S. Senate voted 55-45 on Tuesday to block a Republican effort to upend plans for former President Donald Trump's impeachment trial on a charge that he incited the deadly Jan. 6 assault on the U."
+    publishedDateTime: 2021-01-27T02:25:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUKKBN29V2JI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29V2JI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29V2JI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1FA"
+        width: 817
+        height: 545
+        isCached: true
   - title: "U.S. Senate kills Republican move to upend Trump impeachment trial"
     excerpt: "The U.S. Senate on Tuesday rejected a Republican effort to stop former President Donald Trump's upcoming impeachment trial on a charge that he incited the deadly Jan. 6 assault on the U.S. Capitol."
     publishedDateTime: 2021-01-26T20:34:00Z
@@ -1265,6 +1281,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/870ea0d8-9185-41f6-bbf5-fc75ad2736d2/thumbnail/1200x630/ead47aa2d8d46155a20fe2c8ae8548f4/cbsn-fusion-trump-impeachment-trial-jessica-levinson-analysis-2021-01-25-thumbnail-633279-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Republicans face uncertain future in post-Trump era"
+    excerpt: "The third highest-ranking Republican in the House, Congresswoman Liz Cheney of Wyoming, is facing backlash following her support for impeaching former President Donald Trump. CBS News Capitol Hill producer Rebecca Kaplan joins \"CBSN AM\" to discuss the divisions within the GOP."
+    publishedDateTime: 2021-01-27T02:28:00Z
+    webUrl: "https://www.cbsnews.com/video/republican-party-post-trump-divisions-rebecca-kaplan-analysis-2021-01-25/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/25/c97f4332-6590-4643-8683-d132f8c2bfa2/thumbnail/1200x630/5c699f42fa172802dca2b8e49dd7e31d/cbsn-fusion-republicans-face-uncertain-future-in-post-trump-era-thumbnail-632647-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

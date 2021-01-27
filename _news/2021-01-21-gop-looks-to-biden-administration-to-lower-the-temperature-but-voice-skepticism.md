@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-look-to-biden-administration-to
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-look-to-biden-administration-to-lower-temperature-but-voice-skepticism.amp"
 type: article
 quality: 170
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 170
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53498b1f-9baf-4441-87c5-27e9e3ab74f4/9bc9a670-9738-4443-8020-fc71d9d4989f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden administration pushes forward with two state solution with Israel, Palestine"
+    excerpt: "President Biden has taken steps to reverse Trump-era policies in the Middle East by throwing the administration’s support behind finding a two-state solution between Israel and Palestine."
+    publishedDateTime: 2021-01-27T02:21:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsGRxJuh_TA/biden-administration-pushes-forward-with-two-state-solution-with-israel-palestine"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-pushes-forward-with-two-state-solution-with-israel-palestine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-pushes-forward-with-two-state-solution-with-israel-palestine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d36f0ae-d23f-4400-8487-102bbb4800d0/2116710c-66fd-4195-a712-62b5ec4a67fc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

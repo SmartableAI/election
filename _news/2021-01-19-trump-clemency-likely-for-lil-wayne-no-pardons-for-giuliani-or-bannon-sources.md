@@ -205,6 +205,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Giuliani wasn’t just a Trump partisan but a shrewd marketer of vitamins, gold, lawsuit says"
+    excerpt: "Trump’s personal lawyer sought to turn unfounded conspiracy theories and voter fraud videos into online moneymakers, attorneys said in a lawsuit seeking more than $1.3 billion in damages."
+    publishedDateTime: 2021-01-27T01:52:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/01/26/giuliani-conspiracy-influencer-lawsuit/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/26/giuliani-conspiracy-influencer-lawsuit/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/26/giuliani-conspiracy-influencer-lawsuit/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-26-2021/t_bf8f6f168587474094d7d64015d3f3bf_name_ec0fbade_5f14_11eb_a177_7765f29a9524_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Trump's pardon largesse a boon for well-connected fraudsters"
     excerpt: "A former congressman who pocketed millions of dollars in bribes from defense contractors. A Republican fundraiser who paid handsome sums to illicitly lobby a presidential administration. An influential voice in conservative circles accused of duping donors who supported a border wall."
     publishedDateTime: 2021-01-21T12:11:00Z

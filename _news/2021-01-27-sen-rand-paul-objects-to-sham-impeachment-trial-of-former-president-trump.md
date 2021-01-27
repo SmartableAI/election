@@ -288,6 +288,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Republicans Rally Against Impeachment Trial, Signaling Likely Acquittal for Trump"
+    excerpt: "All but five Republican senators voted to challenge the constitutionality of the trial, suggesting that Democrats were unlikely to find the 17 they would need to join them in convicting the former president."
+    publishedDateTime: 2021-01-27T00:49:00Z
+    webUrl: "https://www.nytimes.com/2021/01/26/us/politics/republicans-impeachment-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/26/us/politics/republicans-impeachment-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/26/us/politics/republicans-impeachment-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/26dc-impeach/26dc-impeach-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Most Senate Republicans back measure saying Trump impeachment trial is unconstitutional"
+    excerpt: "Senate Republicans voted Tuesday for a measure that would have declared the impeachment proceedings against former President Donald Trump unconstitutional because he is no longer in office. The motion,"
+    publishedDateTime: 2021-01-27T01:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/senators-be-sworn-trump-impeachment-trial-where-they-will-be-n1255686"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255686"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255686"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_04/3445099/210126-impeachment-managers-jm-1137_493a0713f436e2c01d4700bf2e1c7d09.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden reinstates Covid travel restrictions Trump rescinded, imposes new ban on South Africa"
     excerpt: "President Joe Biden signed restrictions Monday on travel to the United States to mitigate Covid-19 transmission. The ban prevents most non-U.S. citizens from entry if they have recently been in South Africa,"
     publishedDateTime: 2021-01-26T00:03:00Z

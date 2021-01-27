@@ -593,6 +593,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "At UN, Palestinians urge Biden to reverse Trump's 'unlawful and hostile measures'"
+    excerpt: "The Palestinian foreign minister on Tuesday urged the Biden administration to reverse what it described as the prior administration’s “unlawful and hostile measures” in the region -- just as the U.S. promised to renew relations with the Palestinians."
+    publishedDateTime: 2021-01-27T02:47:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R5lsdUysoeg/un-palestinians-biden-trumps-unlawful-and-hostile-measures"
+    ampWebUrl: "https://www.foxnews.com/politics/un-palestinians-biden-trumps-unlawful-and-hostile-measures.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/un-palestinians-biden-trumps-unlawful-and-hostile-measures.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d36f0ae-d23f-4400-8487-102bbb4800d0/2116710c-66fd-4195-a712-62b5ec4a67fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump expected to travel to Mar-a-Lago on morning of Biden's inauguration: sources"
     excerpt: "President Trump is expected to travel to his resort at Mar-a-Lago in Florida the morning of Jan. 20 – the day of President-elect Joe Biden’s inauguration – where he is expected to reside after his presidency, Fox News has learned."
     publishedDateTime: 2021-01-15T14:09:25Z

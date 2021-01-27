@@ -2,6 +2,119 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-26-hannity-says-bidens-policies-will-fail-while-media-takes-sycophantic-vacation.md",
+      "title": "Hannity says Biden’s policies will 'fail’ while media takes ‘sycophantic vacation’",
+      "excerpt": "\"Hannity\" host Sean Hannity criticizes President Biden's beginnings in office and forecasts a disastrous end.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H9xJIy4mBMA/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H9xJIy4mBMA/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41141ae6-77e2-4f49-b7e0-2669ff9cbe70/a12142e6-4d90-4d19-98c7-5e790e97839a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation.amp",
+      "publishedDateTime": "2021-01-26T01:55:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-irans-un-ambassador-says-iran-is-waiting-for-president-biden-to-make-the-first-diplomatic-move.md",
+      "title": "Iran's U.N. ambassador says Iran is waiting for President Biden to make the first diplomatic move",
+      "excerpt": "The Biden administration needs to lift sanctions on Iran and return to the nuclear deal that Trump ditched, the Iranian ambassador to the U.N. says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/national-security/iran-s-un-ambassador-says-iran-waiting-president-biden-make-n1255608",
+      "originalUrl": "https://www.nbcnews.com/politics/national-security/iran-s-un-ambassador-says-iran-waiting-president-biden-make-n1255608",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_04/3170401/200103-majid-takht-ravanchi-ew-432p_8963558298725b2e9f0f5729a9a8ba44.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1255608",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255608",
+      "publishedDateTime": "2021-01-26T01:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-trump-endorses-sarah-huckabee-sanders-for-arkansas-governor.md",
       "title": "Trump endorses Sarah Huckabee Sanders for Arkansas governor",
       "excerpt": "Former President Donald Trump endorsed Sarah Huckabee Sanders in her run for Arkansas governor on Monday night.",
@@ -178,7 +291,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-military-transgender-idUSKBN29U1VH",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2329,
+      "heat": 2369,
       "tags": null,
       "images": [
         {
@@ -347,7 +460,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 650,
+      "heat": 690,
       "tags": null,
       "images": [
         {
@@ -891,7 +1004,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-dominion/trump-lawyer-giuliani-faces-dominion-lawsuit-for-big-lie-election-fraud-claims-idUSKBN29U1CD",
       "featuredContent": null,
       "highlight": null,
-      "heat": 435,
+      "heat": 455,
       "tags": null,
       "images": [
         {
@@ -1256,115 +1369,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-dr-anthony-fauci-on-what-working-for-donald-trump-was-really-like.md",
-      "title": "Dr. Anthony Fauci on what working for Donald Trump was really like",
-      "excerpt": "As the coronavirus ravaged the country, Dr. Anthony Fauci’s calm counsel and commitment to hard facts endeared him to millions of Americans. But he also became a villain to millions of others.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
-      "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/uczaXLLkERAWDUmrCOo2M4q-54c=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/3LYGYJEE7PY4UWVJH55TXZUU2M.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-24T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-abcs-this-week-edits-out-schumers-unfortunate-trump-gaffe-on-senate-floor.md",
-      "title": "ABC’s 'This Week' edits out Schumer’s unfortunate Trump gaffe on Senate floor",
-      "excerpt": "Democratic Senate leader Chuck Schumer was ridiculed on Friday for an unfortunate gaffe he made while criticizing former President Donald Trump’s supposed influence on the Jan. 6 Capitol riot. But Schumer’s error was conveniently edited out in a clip that aired Sunday on ABC’s “This Week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe",
-      "originalUrl": "https://www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/219f5b85-85d3-4586-8e42-e015f131035e/05980f72-2d65-4a8d-bcf0-d16c88e6dd3c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe.amp",
-      "publishedDateTime": "2021-01-24T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

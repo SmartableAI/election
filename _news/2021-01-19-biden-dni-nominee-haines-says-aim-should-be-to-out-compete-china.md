@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-director-national-intelligenc
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-director-national-intelligence-haines-china.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12ee0e3c-a55a-4da5-8135-66d94c20ca83/5ce8239b-b177-46a5-83df-a0f384867e2d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pompeo: Chinese Communist Party looking for a 'soft underbelly' in Biden's administration"
+    excerpt: "The Chinese Communist Party is looking for the \"soft underbelly\" of the Biden administration in the hope of achieving a series of endeavors Donald Trump stymied as president, according to former Secretary of State Mike Pompeo."
+    publishedDateTime: 2021-01-27T02:02:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9xs24nf2dr4/pompeo-chinese-communist-party-looking-soft-underbelly-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-chinese-communist-party-looking-soft-underbelly-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-chinese-communist-party-looking-soft-underbelly-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/818306a8-67bd-47d1-a9fe-56a70cf4a383/f6b0c400-edb2-4125-85b3-6ad8d3f50b96/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

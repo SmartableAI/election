@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donal
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e4004a43-0bab-437e-8c49-cf86e4a9f02b_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden addresses racial bias in housing, directs DOJ to phase out use of private prisons in new executive orders"
+    excerpt: "\"These aren't feel good policies. The evidence is clear. Investing in equity is good for economic growth,\" said Susan Rice, head of the Domestic Policy Council."
+    publishedDateTime: 2021-01-27T02:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/26/joe-biden-sign-new-executive-orders-laying-out-racial-equity-agenda/4259711001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4259711001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4259711001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/a1e186e4-016a-436e-a20a-3567c57bfca6-Biden_pen.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden: 'Now is the time to act' on racial justice"
     excerpt: "President Joe Biden signed a series of orders and memorandums designed to make combating racial injustice a central focus of his presidency. \"Now is the time to act,\" on tackling racial injustice Biden said,"

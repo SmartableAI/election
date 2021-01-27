@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Defeat in Texas shows how the conservative judiciary can thwart Biden's agenda"
+    excerpt: "A federal judge's action Tuesday preventing President Joe Biden's 100-day pause in deportations demonstrated the land mines that await the new administration in the nation's courts.\n    \n"
+    publishedDateTime: 2021-01-27T02:30:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pghmpvJeRZ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-agenda-conservative-judges-texas/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-agenda-conservative-judges-texas/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Group of Democratic lawmakers urge Biden to commute the sentences of death row prisoners"
     excerpt: "Democratic Reps. Ayanna Pressley of Massachusetts and Cori Bush of Missouri on Friday led a group of 35 lawmakers in urging President Joe Biden to commute the sentences of all federal prisoners on death row.\n    \n"
     publishedDateTime: 2021-01-23T01:04:47Z
