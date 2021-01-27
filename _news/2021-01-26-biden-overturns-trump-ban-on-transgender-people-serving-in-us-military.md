@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1VH"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1VH"
 type: article
 quality: 149
-heat: 2409
+heat: 2429
 published: true
 
 provider:
@@ -879,6 +879,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4PXJQ4C6ZYI6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
         height: 981
+        isCached: true
+  - title: "Biden to sign executive order on climate change"
+    excerpt: "President Joe Biden is set to take a series of actions on climate change on his seventh full day in office, fulfilling campaign promises such as freezing new oil and gas leasing on federal land and kicking off his ambitious agenda to reduce greenhouse gas emissions -- making tackling climate change a priority across the federal government."
+    publishedDateTime: 2021-01-27T14:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-sign-executive-order-climate-change/story?id=75510742"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-sign-executive-order-climate-change/story?id=75510742"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-sign-executive-order-climate-change/story?id=75510742"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-presser-02-gty-jef-210126_1611688573018_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "City council approves bill condemning Trump for Capitol riot"
     excerpt: "A city council in Maryland unanimously approved a resolution condemning former President Donald Trump for the violent siege of the U.S. Capitol"

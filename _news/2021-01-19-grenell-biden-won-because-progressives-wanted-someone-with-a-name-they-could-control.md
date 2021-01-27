@@ -122,6 +122,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden Aims To Tackle Another American Crisis: Race"
+    excerpt: "If there was any doubt about the urgency of President Joe Biden's mission to tackle racial inequality, it was erased in the searing moment an insurrectionist rioter brazenly paraded the Confederate flag through the US Capitol."
+    publishedDateTime: 2021-01-27T13:47:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/27/biden_aims_to_tackle_another_american_crisis_race_534446.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/533308_5_.jpg"
+        width: 696
+        height: 600
+        isCached: true
 
 secured: "BXOJxAsHU7hL0+dS9zR2Cz7KrPGCpA0pJOm8axbERYVlG+jlYQW3wQHZZOKg/bQ2Qix/3h7+4k3ehfyZBf5kEQ9cBb47u8YuBsiNTE7j5UPKsf7Hm8ssO6msFEI3NOiU2EYXM40vFW/NlOHJnOoK4AL3uozdAv60q4DWtZkLzfL7D6K5uH17FXkl4bipcRwGgDFzAkpIu05tflHd1rbllyZRFDCkTi661IVhRLhxbk/GCM48gst4SPjsrVtQGEkR7WXfes4OQ99e2o01EO3J/4b87ioP0SYMKvZHVDva4ny/xe8lpuLcy5fFoT+yGBHAr6vZHGDQOZQwY75ozk3tZk/v2PX7JN0KpIojM/P49mA=;EBuiX81l3UOUjGEpJHf9PQ=="
 ---

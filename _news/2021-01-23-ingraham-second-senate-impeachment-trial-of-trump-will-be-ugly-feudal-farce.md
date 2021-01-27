@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP senators blast Dems for moving forward with Trump impeachment trial"
+    excerpt: "Republican senators are blasting Democrats for moving ahead with an impeachment trial against former President Donald Trump after 45 GOP senators voted that it was unconstitutional, with"
+    publishedDateTime: 2021-01-27T14:25:00Z
+    webUrl: "https://nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/"
+    ampWebUrl: "https://nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/senate-impeachment-22.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "xbds/gbTOQy5KN5zVvloUF7fQrdP6xTESolDr0dFkgPuYpy0pBf98wgWgX5uVSRMZ1ArSLrh5581WvCwz7fExilEVBEvHJAKl7ufhu6iKSoNHg0uYFB+qaOIFrR/KrzAgy8SVd1Qphd9XRMT3cpnwVdrrEUpuv0mTLOkrNnI2Jhrxtqpi8WRw9HStDGPq2thEPSa1AsTOgsSPWlWKq4heFmqcC0/2zWdgB8z1ryjwP2cmB7LANTEQ+tSVJQsLBWltgXQW/EpfipIyH5eQqTF81OYwAlIkr1QAD8zRq+RAwx+k0uvkim0njKk45LsscyHVPtDuHfWhbBsjZKBYrcb1gPhiOTVoI0Ht//0GcoPlqk=;wikAGaubvIewr1AFPeyUFw=="
 ---

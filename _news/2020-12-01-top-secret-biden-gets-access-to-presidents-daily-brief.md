@@ -47,6 +47,22 @@ related:
         width: 3500
         height: 2365
         isCached: true
+  - title: "Teacher and her kindergartners stunned to receive response letters from Joe Biden, Kamala Harris"
+    excerpt: "Kindergarten teacher Martha Tavarez of Barron Elementary School in El Paso, Texas, said she and her students were thrilled to receive letters from President Joe Biden and Vice President Kamala Harris."
+    publishedDateTime: 2021-01-27T13:21:00Z
+    webUrl: "https://abcnews.go.com/GMA/Living/teacher-kindergartners-stunned-receive-response-letters-joe-biden/story?id=75496442"
+    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/teacher-kindergartners-stunned-receive-response-letters-joe-biden-75496442"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/teacher-kindergartners-stunned-receive-response-letters-joe-biden-75496442"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 127
+    images:
+      - url: "https://s.abcnews.com/images/GMA/teacher-kindergartners-biden-harris-ht-MAIN-np-210126_1611709736925_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to present top economy advisers as pandemic threat worsens"
     excerpt: "U.S. President-elect Joe Biden will formally introduce his top economic policy advisers on Tuesday as his administration prepares to take power amid a slowing economic recovery hampered by the resurgent coronavirus pandemic."
     publishedDateTime: 2020-12-01T17:35:00Z

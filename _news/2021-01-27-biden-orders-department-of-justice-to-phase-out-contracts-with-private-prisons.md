@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden aims for most ambitious US effort on climate change"
+    excerpt: "President Joe Biden is undertaking undertaking the most ambitious effort ever to cut America’s oil, gas and coal emissions and stave off the worst effects of climate change"
+    publishedDateTime: 2021-01-27T14:34:00Z
+    webUrl: "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden to reopen Obamacare markets to offer medical coverage during pandemic"
     excerpt: "President Biden plans to reopen the HealthCare.gov markets for a special sign-up opportunity for people without medical coverage in the pandemic."
     publishedDateTime: 2021-01-27T10:13:00Z
@@ -296,6 +312,6 @@ related:
         height: 800
         isCached: true
 
-secured: "dfptCqkX/VziMa0ekMyviy3MDNn9LrTQfTA+SOkZnX1yM89AI0uodiA+Nowc+36Z8+qAdF2VQWBGB3GjRgTKSrgaes5/5POMDBSSZqlWw/w7ElQmKokD6Td+AiY+ipN92Kefh84HE+kFJ7Y9UufnsGGK+sdsNEaSOQP3Y5JuIXMcn0pSTXShYKCwa4+r2/98hBfH376ylYxpx972M7gd0+vb/nESOrStxt+JZn6IZgT9CdAbV7aBz+BlP3xvYutfwioggO5P/n4sJj4ROw3IXmcBwUCJmjgP2vsIxwnTwrwHcIqxDWE0mrp9CrvjFsW73C8ofCfmU7diME3kLAIfLj4BT8PMdVbfiQvNGcuPxjs=;gVvRVq+0aLvWHDWktMqtvA=="
+secured: "MOvPom56IKoPGHMm/l4idlqM/7rKF4kPeiTT2p786+RhcjIZzNULcdMEQqzp9MErI9PF9QJxBuadiL5kdKUVWFISA74esPiRb3G9d85Cg2jiwLlG/UHeeDQRZkc1dI9PbfrAvV0xUcdT1SS5tpTTXLmm34s1vFowHXUN3gBkSxXmSuHSi2Xfu5uold+tfkIoVMwEzdilbn34TtndGVf2+kSfs1lW+O70iOL77ePSvH0xXporQO4IEHpqVlzW9s7GAkbmcXmYZ6FCDCuKOL/Puy/BiyRJ9Y18XBPN4t59I7x/qA7F0XTekWIxXZ9ZQ2Z3Bml916v5HGue1EtStJ3kqkndDb5s513J9el/1XlCR0t993Fc2wTMWDJpZHR0GkgyY9eNwlbN5gayRp4s2v/szh9Gc6pbc6g63irWrN+ORk8hi0hJ/3/pjYy9BSSSr7yvYHOEFJaCYaYp7MeAaulrNgqJoJim0J2/8eyPl07p9U9U49nBmOUCIPXqwn0hX/A5LByQRYbd2CZ6nHUkVo/axA==;vMqeWS9trK0HbJyD6HVpIg=="
 ---
 

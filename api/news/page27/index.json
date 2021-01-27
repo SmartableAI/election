@@ -2,6 +2,58 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-12-19-supreme-court-rules-its-too-early-to-review-trump-census-plan-to-exclude-undocumented-immigrants-from-house-redistricting.md",
+      "title": "Supreme Court rules it's too early to review Trump census plan to exclude undocumented immigrants from House redistricting",
+      "excerpt": "The U.S. has always counted citizens and non-citizens for the purposes of redrawing congressional districts every 10 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/supreme-court-census-ruling-too-early-undocumented-immigrants/",
+      "originalUrl": "https://www.cbsnews.com/news/supreme-court-census-ruling-too-early-undocumented-immigrants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/18/598123c6-e9fc-4e7d-8df1-d6e7d1cf4237/thumbnail/1200x630g8/e12aa40557dbc7b3525ba6258ddd5da2/gettyimages-1230073815.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/supreme-court-census-ruling-too-early-undocumented-immigrants/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-census-ruling-too-early-undocumented-immigrants/",
+      "publishedDateTime": "2020-12-18T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-black-family-in-texas-says-cars-set-on-fire-house-vandalized-with-trump-20-over-blm-sign.md",
       "title": "Black family in Texas says cars set on fire, house vandalized with 'Trump 20' over BLM sign",
       "excerpt": "Jayla Gipson and Charles Crawford said the incident was brought on by a Black Lives Matter sign they put in their yard around Thanksgiving.",
@@ -1334,58 +1386,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-betsy-devos-tells-education-department-employees-to-resist-biden-administration-report-says.md",
-      "title": "Betsy DeVos tells Education Department employees to 'resist' Biden administration, report says",
-      "excerpt": "The education secretary under President Trump reportedly told agency workers to “be the resistance\" against changes they believe could hurt students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/education/2020/12/16/betsy-devos-education-department-resist/3921340001/",
-      "originalUrl": "https://www.usatoday.com/story/news/education/2020/12/16/betsy-devos-education-department-resist/3921340001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/07/07/PDTF/b9c1ab22-05fd-4a78-8850-47d04f2cbf3b-AP20133643287574.jpg?auto=webp&crop=5109,2874,x0,y259&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3921340001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3921340001",
-      "publishedDateTime": "2020-12-17T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

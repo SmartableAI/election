@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp"
 type: article
 quality: 175
-heat: 675
+heat: 695
 published: true
 
 provider:
@@ -332,6 +332,22 @@ related:
     quality: 158
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden, Rice stoke nationwide division with 'racial equity' push"
+    excerpt: "Some of my Republican friends and some of my Democratic friends, even occasionally say, well, if you can't get the votes by executive order, you're going to do something things you can't do by executive order,"
+    publishedDateTime: 2021-01-27T14:20:00Z
+    webUrl: "https://www.foxnews.com/transcript/biden-rice-stoke-nationwide-division-with-racial-equity-push"
+    ampWebUrl: "https://www.foxnews.com/transcript/biden-rice-stoke-nationwide-division-with-racial-equity-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/biden-rice-stoke-nationwide-division-with-racial-equity-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ce402e2-aa94-4a15-b59a-4db994b80fea/24bce96c-04cb-4a54-aeb2-c65031701391/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

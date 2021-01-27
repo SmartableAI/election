@@ -831,6 +831,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden deportation ban tripped up by same 73-year-old law that hampered Trump executive orders"
+    excerpt: "The Biden administration's attempt to put a 100-day pause on deportations hit a wall when a federal court granted a temporary restraining order in a lawsuit brought by the state of Texas."
+    publishedDateTime: 2021-01-27T14:43:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2wDqjphOSOA/biden-deportation-ban-executive-order-administrative-procedures-act"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-deportation-ban-executive-order-administrative-procedures-act.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deportation-ban-executive-order-administrative-procedures-act.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e6cc050-5e3c-4af3-8996-40045a053ee5/ebbce464-9ae9-4185-a4e5-9485df9d3e95/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cotton: Democrats being 'very sore winners' toward Trump supporters ahead of Biden inauguration"
     excerpt: "Despite capturing the White House and Senate in recent elections, Democrats continue to spread \"overheated\" rhetoric about Trump voters, Sen. Tom Cotton, R-Ark., told \"Tucker Carlson Tonight\" Tuesday."
     publishedDateTime: 2021-01-20T04:23:23Z

@@ -352,6 +352,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden, Rice stoke nationwide division with 'racial equity' push"
+    excerpt: "Some of my Republican friends and some of my Democratic friends, even occasionally say, well, if you can't get the votes by executive order, you're going to do something things you can't do by executive order,"
+    publishedDateTime: 2021-01-27T14:20:00Z
+    webUrl: "https://www.foxnews.com/transcript/biden-rice-stoke-nationwide-division-with-racial-equity-push"
+    ampWebUrl: "https://www.foxnews.com/transcript/biden-rice-stoke-nationwide-division-with-racial-equity-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/biden-rice-stoke-nationwide-division-with-racial-equity-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ce402e2-aa94-4a15-b59a-4db994b80fea/24bce96c-04cb-4a54-aeb2-c65031701391/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Fired New York Times editor says paper lying about reason for dismissal after pro-Biden tweet"
     excerpt: "Former New York Times freelance editor Lauren Wolfe shot back at the paper's claim that she was not dismissed solely because of a pro-Joe Biden tweet last week, saying the Times was smearing her reputation."
     publishedDateTime: 2021-01-26T16:59:00Z

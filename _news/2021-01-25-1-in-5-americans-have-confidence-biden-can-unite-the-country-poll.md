@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/1-in-5-americans-have-confidence-bi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a443a685-9d0b-4e4f-9a72-27d95505ea14/2881018b-7128-4fa5-b286-01762d13f81d/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden Aims To Tackle Another American Crisis: Race"
+    excerpt: "If there was any doubt about the urgency of President Joe Biden's mission to tackle racial inequality, it was erased in the searing moment an insurrectionist rioter brazenly paraded the Confederate flag through the US Capitol."
+    publishedDateTime: 2021-01-27T13:47:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/27/biden_aims_to_tackle_another_american_crisis_race_534446.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/533308_5_.jpg"
+        width: 696
+        height: 600
         isCached: true
   - title: "Grenell: Biden Won Because Progressives Wanted Someone With A Name They Could Control"
     excerpt: "Former acting DNI Ric Grennell told FNC's Maria Bartiromo on \"Sunday Morning Futures\" that in a Biden administration, former President Barack Obama via former and future national security adviser Susan Rice will hold the true power."

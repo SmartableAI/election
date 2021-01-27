@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-def
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-deferrals/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 415
 published: true
 
 provider:
@@ -175,6 +175,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden won the fight over the filibuster without saying a word"
+    excerpt: "Analysis: Biden had nothing to gain and everything to lose from fighting a quixotic war over the filibuster just days into his presidency."
+    publishedDateTime: 2021-01-27T13:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-won-fight-over-filibuster-without-saying-word-n1255668"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255668"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255668"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_04/3445385/21027-joe-biden-al-0935_9c0ddd60268b6c104297759ca11c8d8f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "'That's Cesar Chavez!': Bust of civil rights icon behind President Joe Biden stirs excitement"
     excerpt: "\"Placing a bust of my father in the Oval Office symbolizes the hopeful new day that is dawning for our nation,\" says Paul Chavez, the civil rights icon's son."
     publishedDateTime: 2021-01-21T10:12:00Z
@@ -190,6 +206,20 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_03/3443767/210120-cesar-chavez-bust-oval-pffice-ew-540p_90c90187bb4173f1592bc7054d31e9dd.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Here are the executive actions Biden has signed so far"
+    excerpt: "President Joe Biden has signed a flurry of executive orders, actions and memorandums aimed at rapidly addressing the coronavirus pandemic and dismantling many of former President Donald Trump's policies."
+    publishedDateTime: 2021-01-27T13:58:00Z
+    webUrl: "https://www.cnn.com/interactive/2021/politics/biden-executive-orders/"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://i2.cdn.turner.com/cnnnext/dam/assets/210120171716-01-biden-executive-order-0120-exlarge-169.jpg"
+        width: 780
+        height: 438
         isCached: true
 
 secured: "9JKOPwzynVf8onnDBFfsYK3HrpoQ011x1bNKQi1veD2ZvnpZ9TXx9FzFWcmXR1xGpPKMpmXzbVLgUP9DGQljxWkOgVu8aC1oQ9gfbFZWcrWIdyrXpOvU1BXScQjHKDlvVA9ljJ9JUygNYUGGDhl1Ef5KYfDVmJXEqUQjOJb7ZlmO9sKumLXn9CUEgiEecT7JNQRt/+NbejU6dYhiJKQqdlD4T6h5MLDU+1/T9LMafBjI3GnphX/U56n4Blos+CQsOqxnnKvyBjRkq5Wt8G2Cb2oHTte1eSqEoQ1zSJgzkpJNn4ls0I3dvmE1kEQqaX0a54M6oOuYcIcmupYQ3t45ZqLwBLs/DyDkT9qKxNXKZTc=;YHkfVKYHBZfhIjywClL7jA=="

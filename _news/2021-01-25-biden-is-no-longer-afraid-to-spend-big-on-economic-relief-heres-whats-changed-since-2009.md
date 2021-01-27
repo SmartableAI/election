@@ -175,6 +175,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden won the fight over the filibuster without saying a word"
+    excerpt: "Analysis: Biden had nothing to gain and everything to lose from fighting a quixotic war over the filibuster just days into his presidency."
+    publishedDateTime: 2021-01-27T13:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-won-fight-over-filibuster-without-saying-word-n1255668"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255668"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255668"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_04/3445385/21027-joe-biden-al-0935_9c0ddd60268b6c104297759ca11c8d8f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "'That's Cesar Chavez!': Bust of civil rights icon behind President Joe Biden stirs excitement"
     excerpt: "\"Placing a bust of my father in the Oval Office symbolizes the hopeful new day that is dawning for our nation,\" says Paul Chavez, the civil rights icon's son."
     publishedDateTime: 2021-01-21T10:12:00Z
@@ -190,6 +206,20 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_03/3443767/210120-cesar-chavez-bust-oval-pffice-ew-540p_90c90187bb4173f1592bc7054d31e9dd.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Here are the executive actions Biden has signed so far"
+    excerpt: "President Joe Biden has signed a flurry of executive orders, actions and memorandums aimed at rapidly addressing the coronavirus pandemic and dismantling many of former President Donald Trump's policies."
+    publishedDateTime: 2021-01-27T13:58:00Z
+    webUrl: "https://www.cnn.com/interactive/2021/politics/biden-executive-orders/"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://i2.cdn.turner.com/cnnnext/dam/assets/210120171716-01-biden-executive-order-0120-exlarge-169.jpg"
+        width: 780
+        height: 438
         isCached: true
 
 secured: "CHuQ/9QB05znSaYse/C5pp/yoYdaNEvkya9+jyVqv9VUr+0eBDecIWE8+TnUrwBVAKZO9xAjCc6ULmuhwGvuHoxwlSg8BrXXvTDa1NcuO5suNZ0nJMerqGvsxR5W4MqrlL8dVdg8MxNGXvw+JFfdaw6eGVtvq9MfQDn4L4QR9zSncuRHMWxBPcyB0B33aPqv74EN6MDI7DOhy7cDHxj/81phdsQ9VCGkIjpssNmO4w105yx/d0X82jS/JKV9A39THoT31I+5nHeJ5rMn1aDxY3VeCYjOq155MNVAnKqKlqHKbIHAbJNxH1VKp6ykIq91EyE3WCBJ25/wxxLI3cQEjqsjMCmCM/kjPwmP+RlkrnE=;ckwzDnT/boN3P9ttj58taA=="

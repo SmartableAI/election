@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP senators blast Dems for moving forward with Trump impeachment trial"
+    excerpt: "Republican senators are blasting Democrats for moving ahead with an impeachment trial against former President Donald Trump after 45 GOP senators voted that it was unconstitutional, with"
+    publishedDateTime: 2021-01-27T14:25:00Z
+    webUrl: "https://nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/"
+    ampWebUrl: "https://nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/senate-impeachment-22.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Ingraham: Second Senate impeachment trial of Trump will be 'ugly, feudal farce'"
     excerpt: "Senate Majority Leader Chuck Schumer's commitment to holding a post-presidential impeachment trial of Donald Trump sets the stage for an \"ugly, feudal farce,\" Laura Ingraham said Friday."
     publishedDateTime: 2021-01-23T04:39:00Z

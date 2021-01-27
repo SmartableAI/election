@@ -1824,6 +1824,22 @@ related:
         width: 2500
         height: 1669
         isCached: true
+  - title: "A Trump trial signal, more vaccines on the way and a tense start to the Biden-Putin relationship"
+    excerpt: "All but five Senate Republicans voted against moving forward with former President Donald Trump's impeachment trial on Tuesday."
+    publishedDateTime: 2021-01-27T13:42:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/trump-trial-signal-more-vaccines-way-tense-start-biden-putin-n1255820"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255820"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255820"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 137
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_04/3445187/210126-rand-paul-ew-410p_1b56194e877a9c0cc9e562c9857d3dbf.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "See how Trump's language was echoed by rioters"
     excerpt: "As the House prepares to vote on impeaching President Donald Trump to condemn his role inciting the riot at the US Capitol, CNN looks at the language Trump used and how it was echoed by rioters."
     publishedDateTime: 2021-01-13T11:25:00Z

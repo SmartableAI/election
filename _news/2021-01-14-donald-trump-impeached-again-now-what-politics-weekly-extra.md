@@ -205,6 +205,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "US House delivers article of impeachment against Donald Trump to Senate"
+    excerpt: "Senate trial will be the first-ever of a former US president but the chances that Republicans will convict him are slim"
+    publishedDateTime: 2021-01-26T16:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/25/us-house-delivers-article-of-impeachment-trump-2021"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/25/us-house-delivers-article-of-impeachment-trump-2021"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/25/us-house-delivers-article-of-impeachment-trump-2021"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/8d55da59570e9ef8017c1331f45ab84178384f4e/0_105_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d51d0099ca0a657b355310551ab1848"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump leaves behind a Republican Party both broken and still in his grip"
     excerpt: "Will Republicans purge the worst of what he has brought to their coalition or will Trump maintain his influence even after he is out of office?"
     publishedDateTime: 2021-01-16T20:15:00Z
@@ -486,6 +502,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XEEPABS45EI6XKCJN6KCHJ277U.jpg&w=1440"
         width: 1440
         height: 1100
+        isCached: true
+  - title: "Presiding senator in Trump impeachment trial hospitalized after senators sworn in as jurors"
+    excerpt: "The Senate is preparing for an unprecedented second impeachment trial for former President Donald Trump. Nikole Killion reports on the developing events inside the chamber and if there is any likelihood to convict."
+    publishedDateTime: 2021-01-27T13:08:00Z
+    webUrl: "https://www.cbsnews.com/video/presiding-senator-in-trump-impeachment-trial-hospitalized-after-senators-sworn-in-as-jurors/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/27/943dc32f-6cc9-4c24-a0e8-aa532c8db235/thumbnail/1200x630/027f3a4c5a04a12013d87b31d1bbe91b/cbsn-fusion-presiding-senator-in-trump-impeachment-trial-hospitalized-after-senators-sworn-in-as-jurors-thumbnail-633981-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Historians worry a Trump library will be an airbrushed 'MAGA' tribute to a twice-impeached president"
     excerpt: "It's not hard to image Trump's presidential library will burnish his tarnished legacy after he leaves office. Don't expect that to go smoothly."

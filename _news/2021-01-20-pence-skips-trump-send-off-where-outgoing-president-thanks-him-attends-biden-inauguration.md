@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 4425
+heat: 4445
 published: true
 
 provider:
@@ -813,6 +813,22 @@ related:
     quality: 179
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3e09c83-c794-4822-b2c0-5412304ba042/a5918bb3-873d-4617-ac69-cf02ca330280/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden deportation ban tripped up by same 73-year-old law that hampered Trump executive orders"
+    excerpt: "The Biden administration's attempt to put a 100-day pause on deportations hit a wall when a federal court granted a temporary restraining order in a lawsuit brought by the state of Texas."
+    publishedDateTime: 2021-01-27T14:43:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2wDqjphOSOA/biden-deportation-ban-executive-order-administrative-procedures-act"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-deportation-ban-executive-order-administrative-procedures-act.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deportation-ban-executive-order-administrative-procedures-act.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e6cc050-5e3c-4af3-8996-40045a053ee5/ebbce464-9ae9-4185-a4e5-9485df9d3e95/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

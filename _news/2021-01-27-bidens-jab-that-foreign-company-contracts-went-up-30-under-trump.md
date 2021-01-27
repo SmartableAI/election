@@ -879,6 +879,22 @@ related:
         width: 1440
         height: 981
         isCached: true
+  - title: "Biden to sign executive order on climate change"
+    excerpt: "President Joe Biden is set to take a series of actions on climate change on his seventh full day in office, fulfilling campaign promises such as freezing new oil and gas leasing on federal land and kicking off his ambitious agenda to reduce greenhouse gas emissions -- making tackling climate change a priority across the federal government."
+    publishedDateTime: 2021-01-27T14:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-sign-executive-order-climate-change/story?id=75510742"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-sign-executive-order-climate-change/story?id=75510742"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-sign-executive-order-climate-change/story?id=75510742"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-presser-02-gty-jef-210126_1611688573018_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "City council approves bill condemning Trump for Capitol riot"
     excerpt: "A city council in Maryland unanimously approved a resolution condemning former President Donald Trump for the violent siege of the U.S. Capitol"
     publishedDateTime: 2021-01-26T20:55:00Z
@@ -1768,6 +1784,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "g1MlAg91bC9yKtyi0szxi5ixEBM98AYQ8FR2iRJ0qWierZxORF8BUTnLXs+FhqVKQeFTREKhmzOpFPGp3SejxGdaU9i1yOdsl1OedRCU9Rp1NTjya8Ue2nfmSLNAZoRgc4s1tl3poIt0xIi0ZawUCzzLGg3UzlWtUAJ7wlw8E6uR2/H4+Hycj6hTDHBZa5+DM8zyDUvK1Yc8nBz20nfDL2XEWYFy5uzpW0GmoI0WOJsLSlbukMNoh6lONTDWiE6gA8HIIiNn6OkHLZS5QVbtPpM8V7kq0uwjUq0UT/bDHTiEOqdm9qzphYDqdL9vGFtj6HOaecHnWMGfpnMM/5NqMmcMTynMnZkd2VbCt6q0HNA=;dUHHq2DIxX0/alah0MEWFQ=="
+secured: "oM9LDlZlVUsyGqkq1uXS01CBIp+JWuG2cHiyubFivpKXHHUUokOChUxRrjdGKtBcJfjMxM+eNbI37oDDudrRxbrwr/b2q/mpSeZgPGQiJKPQv6TvR0yskz1E+j0oUlG3ubeLiaUQEl30QjJjluMkHgjjjMD3G94WiU+bO6XCVDgLREKR0NyM85wxsUaM6+oz1yyu7VLDQp1TnVLkxGvIEMgpPkntvj+MPKFlgh6c7FX+Owi5Vj9Rfh1LQgGQpwa8tkxbnYRull06AoxFekoQ64Y+IliQAGrCaXJYAzM6bkTteUULOuTZ6U9INWnwDV8qzzA4tCWMzk+pBOKU1HnNPq0Mc7wswZ5noi88rAngCSRtMbk7wwHjwH0Nf0zEX9q65XW/ebQt7V5SFe39Eul6/vz60tjVRqq5jBR++B39pFVoFnIz9BPnppO2BN4t5ac/XeHBAtlzcYV+SWtgbE7edTxm8eSr39YH1IGc+zE8DNKHsLGcbw2tLh2ys4Mo4rVsffcg+5dgROZkvVqTULQvgw==;9dmyXcK6MlaMYwTBL9JQCA=="
 ---
 

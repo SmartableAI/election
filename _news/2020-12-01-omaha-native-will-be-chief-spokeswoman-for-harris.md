@@ -35,6 +35,22 @@ related:
         width: 3500
         height: 2365
         isCached: true
+  - title: "Teacher and her kindergartners stunned to receive response letters from Joe Biden, Kamala Harris"
+    excerpt: "Kindergarten teacher Martha Tavarez of Barron Elementary School in El Paso, Texas, said she and her students were thrilled to receive letters from President Joe Biden and Vice President Kamala Harris."
+    publishedDateTime: 2021-01-27T13:21:00Z
+    webUrl: "https://abcnews.go.com/GMA/Living/teacher-kindergartners-stunned-receive-response-letters-joe-biden/story?id=75496442"
+    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/teacher-kindergartners-stunned-receive-response-letters-joe-biden-75496442"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/teacher-kindergartners-stunned-receive-response-letters-joe-biden-75496442"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 127
+    images:
+      - url: "https://s.abcnews.com/images/GMA/teacher-kindergartners-biden-harris-ht-MAIN-np-210126_1611709736925_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Top secret: Biden gets access to President’s Daily Brief"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris began receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan. 20"
     publishedDateTime: 2020-12-01T01:59:00Z

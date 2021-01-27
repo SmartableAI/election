@@ -335,6 +335,22 @@ related:
         width: 617
         height: 347
         isCached: true
+  - title: "Biden, Rice stoke nationwide division with 'racial equity' push"
+    excerpt: "Some of my Republican friends and some of my Democratic friends, even occasionally say, well, if you can't get the votes by executive order, you're going to do something things you can't do by executive order,"
+    publishedDateTime: 2021-01-27T14:20:00Z
+    webUrl: "https://www.foxnews.com/transcript/biden-rice-stoke-nationwide-division-with-racial-equity-push"
+    ampWebUrl: "https://www.foxnews.com/transcript/biden-rice-stoke-nationwide-division-with-racial-equity-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/biden-rice-stoke-nationwide-division-with-racial-equity-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ce402e2-aa94-4a15-b59a-4db994b80fea/24bce96c-04cb-4a54-aeb2-c65031701391/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden barely sworn in as 'Squad' member, ally start pushing progressive agenda"
     excerpt: "Members of the progressive \"Squad\" have signaled their interest in pushing the Biden administration to the left as the president takes office on his first day."
     publishedDateTime: 2021-01-21T08:25:00Z
