@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp"
 type: article
 quality: 175
-heat: 735
+heat: 755
 published: true
 
 provider:
@@ -364,6 +364,20 @@ related:
     quality: 158
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden told by GOP state AGs they're willing to sue if administration oversteps authority"
+    excerpt: "A coalition of six states led by West Virginia sent a letter to the Biden administration Wednesday saying that they're watching its actions closely and willing to sue if they believe the new president is doing anything that runs afoul of individual rights of the Constitution. "
+    publishedDateTime: 2021-01-27T19:49:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VBXrJELYtEw/republican-ags-warn-biden-administration-not-to-overstep-authority"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/25a63129-Biden-thumb.jpg"
         width: 1280
         height: 720
         isCached: true

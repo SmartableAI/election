@@ -159,6 +159,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Manhattan DA unlikely to run for reelection, as office investigates former President Donald Trump"
+    excerpt: "It looks as though Manhattan's District Attorney Cy Vance Jr. is not making plans to run for reelection. State financial records reveal he has only raised just over $4,000 ahead of the Democratic primary in June."
+    publishedDateTime: 2021-01-27T20:26:00Z
+    webUrl: "https://www.cbsnews.com/video/manhattan-district-attorney-cyrus-vance-reelection-investigation-donald-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/27/e8ca6456-7cbb-4b3d-a779-ca29fba02469/thumbnail/1200x630/ea1b5fda3766cc9c687f4bc9a56f1f3e/cbsn-fusion-manhattan-district-attorney-cyrus-vance-reelection-investigation-donald-trump-thumbnail-634350-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Arizona Republicans Censure Party Leaders At Odds With Trump"
     excerpt: "State GOP members passed resolutions at a meeting on Saturday to condemn three party leaders who they said failed to support President Trump: Gov. Doug Ducey, former Sen. Jeff Flake and Cindy McCain."
     publishedDateTime: 2021-01-24T03:10:00Z

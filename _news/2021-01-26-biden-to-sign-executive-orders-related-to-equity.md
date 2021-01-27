@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "First lady Jill Biden expected to take active role in immigrant family reunification"
+    excerpt: "The Biden administration's planned task force aimed at reuniting children who were separated from their parents at the border under the Trump-era enforcement policies will include input from first lady Jill Biden, according to three sources familiar with the planning.\n    \n"
+    publishedDateTime: 2021-01-27T19:35:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bCjKXOKosHk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/jill-biden-immigration-family-separation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/jill-biden-immigration-family-separation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170601091326-jill-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

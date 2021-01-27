@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-def
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-deferrals/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden expected to sign executive order to expand US refugee program"
+    excerpt: "President Joe Biden is expected to sign an executive order that would set up his goal of admitting tens of thousands more refugees to the United States, according to two administration officials.\n    \n"
+    publishedDateTime: 2021-01-27T19:31:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A0lUCWSHH1k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/refugee-biden-executive-order-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/refugee-biden-executive-order-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127134523-01-biden-0125-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

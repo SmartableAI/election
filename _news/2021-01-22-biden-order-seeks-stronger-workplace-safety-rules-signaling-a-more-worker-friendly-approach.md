@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's U.N. pick to warn that U.S. absence allows China to thrive at world body"
+    excerpt: "U.S. President Joe Biden's nominee to be ambassador to the United Nations will stress on Wednesday the importance of U.S. re-engagement with the 193-member world body in order to challenge efforts by China to \"drive an authoritarian agenda."
+    publishedDateTime: 2021-01-27T16:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-un-idUSKBN29W17I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W17I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W17I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q16A"
+        width: 817
+        height: 545
+        isCached: true
   - title: "US official says Biden administration to seek 5-year extension of nuclear arms treaty with Russia"
     excerpt: "WASHINGTON — US official says Biden administration to seek 5-year extension of nuclear arms treaty with Russia. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
     publishedDateTime: 2021-01-21T22:46:00Z

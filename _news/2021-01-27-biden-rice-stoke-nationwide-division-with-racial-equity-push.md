@@ -384,6 +384,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden told by GOP state AGs they're willing to sue if administration oversteps authority"
+    excerpt: "A coalition of six states led by West Virginia sent a letter to the Biden administration Wednesday saying that they're watching its actions closely and willing to sue if they believe the new president is doing anything that runs afoul of individual rights of the Constitution. "
+    publishedDateTime: 2021-01-27T19:49:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VBXrJELYtEw/republican-ags-warn-biden-administration-not-to-overstep-authority"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/25a63129-Biden-thumb.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden barely sworn in as 'Squad' member, ally start pushing progressive agenda"
     excerpt: "Members of the progressive \"Squad\" have signaled their interest in pushing the Biden administration to the left as the president takes office on his first day."
     publishedDateTime: 2021-01-21T08:25:00Z

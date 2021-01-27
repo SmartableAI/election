@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "First lady Jill Biden expected to take active role in immigrant family reunification"
+    excerpt: "The Biden administration's planned task force aimed at reuniting children who were separated from their parents at the border under the Trump-era enforcement policies will include input from first lady Jill Biden, according to three sources familiar with the planning.\n    \n"
+    publishedDateTime: 2021-01-27T19:35:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bCjKXOKosHk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/jill-biden-immigration-family-separation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/jill-biden-immigration-family-separation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170601091326-jill-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Group of Democratic lawmakers urge Biden to commute the sentences of death row prisoners"
     excerpt: "Democratic Reps. Ayanna Pressley of Massachusetts and Cori Bush of Missouri on Friday led a group of 35 lawmakers in urging President Joe Biden to commute the sentences of all federal prisoners on death row.\n    \n"
     publishedDateTime: 2021-01-23T01:04:47Z

@@ -135,20 +135,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris administers oath to top U.S. diplomat"
-    excerpt: "Antony Blinken, America's new top diplomat took the helm of the State Department after being sworn in ceremonially by Vice President Kamala Harris. Blinken vows to boost American leadership on the global stage."
-    publishedDateTime: 2021-01-27T18:37:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/27/kamala-harris-administers-oath-top-u-s-diplomat/4279732001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ffcc58af-807c-4255-a12c-2dabafcd3381_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Latest line: A good week for Kamala Harris, bad one for oil industry"
     excerpt: "Oil industry Biden vows to block new drilling on public lands across the West, crack down on pollution and greenhouse emissions, and push former industry lobbyists out of government jobs. Alex Padilla Former California secretary of state is sworn in as the state’s first Latino U."
     publishedDateTime: 2021-01-24T14:11:00Z
@@ -211,6 +197,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris administers oath to top US diplomat"
+    excerpt: "America’s new top diplomat took the helm of the State Department on Wednesday with a vow to rebuild the ranks of the foreign service and rely on its expertise as"
+    publishedDateTime: 2021-01-27T18:56:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_6c142af6-9a3b-5b9a-b836-a960257c49a9.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_6c142af6-9a3b-5b9a-b836-a960257c49a9.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_6c142af6-9a3b-5b9a-b836-a960257c49a9.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
   - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
     excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."
     publishedDateTime: 2021-01-20T17:04:00Z

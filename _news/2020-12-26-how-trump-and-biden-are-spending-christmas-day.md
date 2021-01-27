@@ -1836,6 +1836,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden sees sharp partisan divide over performance one week into presidency: poll"
+    excerpt: "One week into his presidency, there’s a sharp partisan divide over Biden, in a new national poll."
+    publishedDateTime: 2021-01-27T19:35:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/25Cjjw0ApMk/biden-poll-sharp-partisan-divide"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-poll-sharp-partisan-divide.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-poll-sharp-partisan-divide.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ahead of Biden inauguration, FBI Director Wray warns of 'concerning online chatter'"
     excerpt: "FBI Director Christopher Wray warned Thursday that authorities are monitoring calls for “potential armed protests” in Washington D.C. and state capitols."
     publishedDateTime: 2021-01-14T23:13:36Z
@@ -2569,6 +2585,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21025158606911.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden Takes Hands-Off Approach to Trump Impeachment"
+    excerpt: "President Biden is trying to avoid getting drawn into the Senate impeachment trial as he balances Democratic calls to punish his predecessor with a desire to move forward on his ambitious agenda."
+    publishedDateTime: 2021-01-27T19:23:00Z
+    webUrl: "https://www.wsj.com/articles/biden-takes-hands-off-approach-to-trump-impeachment-11611761993"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-takes-hands-off-approach-to-trump-impeachment-11611761993"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-takes-hands-off-approach-to-trump-impeachment-11611761993"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-291002/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "In breaking with Trump, Pence does ‘what he believes in,’ strategist says"
     excerpt: "After breaking with his boss last week and certifying President-elect Joe Biden’s Electoral College victory over President Trump, Vice President Mike Pence this week quickly shot down a push by House Democrats urging him to invoke the 25th Amendment of the Constitution to remove Trump from the presidency."

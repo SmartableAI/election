@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden signs climate change orders amid concerns over jobs: 'It is time to act'"
+    excerpt: "President Biden on Wednesday signed executive orders on climate change as he vowed to put the issue \"at the center\" of U.S. national security and domestic and foreign policy."
+    publishedDateTime: 2021-01-27T19:36:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_PPicbvNnoE/biden-signs-climate-change-orders"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-climate-change-orders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-climate-change-orders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden commerce pick promises jobless Keystone workers 'we will make sure that you have jobs'"
     excerpt: "Gina Raimondo, President Biden's nominee for secretary of commerce, promised that the Biden administration will ensure that union workers who lost jobs due to the blocking of the Keystone XL pipeline will get new jobs."
     publishedDateTime: 2021-01-26T18:54:05Z

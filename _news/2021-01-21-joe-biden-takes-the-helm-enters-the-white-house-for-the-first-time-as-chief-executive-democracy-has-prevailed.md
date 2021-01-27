@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's U.N. pick to warn that U.S. absence allows China to thrive at world body"
+    excerpt: "U.S. President Joe Biden's nominee to be ambassador to the United Nations will stress on Wednesday the importance of U.S. re-engagement with the 193-member world body in order to challenge efforts by China to \"drive an authoritarian agenda."
+    publishedDateTime: 2021-01-27T16:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-un-idUSKBN29W17I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W17I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W17I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q16A"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden order seeks stronger workplace safety rules, signaling a more worker friendly approach"
     excerpt: "The Executive Order could lead to an emergency standard for businesses — a set of a regulations they would have to comply with, like mask-wearing, that advocates say is necessary to combat the pandemic."
     publishedDateTime: 2021-01-21T22:56:00Z

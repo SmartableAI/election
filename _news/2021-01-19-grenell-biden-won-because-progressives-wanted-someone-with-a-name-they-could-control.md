@@ -74,6 +74,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden signs climate change orders amid concerns over jobs: 'It is time to act'"
+    excerpt: "President Biden on Wednesday signed executive orders on climate change as he vowed to put the issue \"at the center\" of U.S. national security and domestic and foreign policy."
+    publishedDateTime: 2021-01-27T19:36:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_PPicbvNnoE/biden-signs-climate-change-orders"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-climate-change-orders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-climate-change-orders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Senate confirms Biden's Defense Secretary Lloyd Austin, the first Black Pentagon chief"
     excerpt: "The Senate on Friday confirmed President Biden's Defense Secretary Lloyd Austin in a big bipartisan vote, marking the first time an African American will lead the Pentagon in U.S. history."
     publishedDateTime: 2021-01-22T16:05:45Z

@@ -1,32 +1,24 @@
 ---
 category: news
-title: "Kamala Harris administers oath to top U.S. diplomat"
-excerpt: "Antony Blinken, America's new top diplomat took the helm of the State Department after being sworn in ceremonially by Vice President Kamala Harris. Blinken vows to boost American leadership on the global stage."
-publishedDateTime: 2021-01-27T18:37:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/01/27/kamala-harris-administers-oath-top-u-s-diplomat/4279732001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/27/kamala-harris-administers-oath-top-u-s-diplomat/4279732001/"
+title: "Kamala Harris administers oath to top US diplomat"
+excerpt: "America’s new top diplomat took the helm of the State Department on Wednesday with a vow to rebuild the ranks of the foreign service and rely on its expertise as"
+publishedDateTime: 2021-01-27T18:56:00Z
+originalUrl: "https://www.stltoday.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_6c142af6-9a3b-5b9a-b836-a960257c49a9.html"
+webUrl: "https://www.stltoday.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_6c142af6-9a3b-5b9a-b836-a960257c49a9.html"
+ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_6c142af6-9a3b-5b9a-b836-a960257c49a9.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_6c142af6-9a3b-5b9a-b836-a960257c49a9.amp.html"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ffcc58af-807c-4255-a12c-2dabafcd3381_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "'Immense sense of pride': Caribbean diaspora celebrates Kamala Harris"
@@ -239,6 +231,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "baZTHwzptMyl4nwccjZTAaC/YGYcf7XgNPq4DMzpwGWi+vaJ3a/dOvXa70wQFW0Jk0rGOFksIX6HoMYDHING7XV/3ZUPhoDpP+Qhf5tV3vNhSXjG9OwFaUu8x1WZwhnbmtzly67NTP19JFEavKLR7EeAB5ZMQtJhCKM1gzpWAKw3+McSs+DOx7PLLr2W8oAIWlJlL1ILrJ8jTCyhrWmFyRHygGLgDFAaxphmIud90Ndax8iPISEDEaUMpjSTQef+EmmRYN0i+q97turzujlGqWnHOcZFXuV6BWZKeVkF+0GB+ufHc6StXHAvskzEtfXw1CpAOB9VhGFchn6BJgZPLu4x5tho4TPBRPB56hTuA3M=;eS6DJszEA63mCpQTTYqTqQ=="
+secured: "f15UiARv0hahgj9En7WvR2ZFx4CRGXmcpsnoce07JvAgS6439KJkn658uyP4IPQSh/GVz9gf+HLM8xGHcxhoUuPtH9kHi0T73G8Q5hkafMDULhgMBTI25v/hh2oRW2EXRzpK0EsvonfIH8pnHdvTlvstdemN1oLvJEB47CowivW5/vDDP5On//IjoEELbdLfv2hrTJxqrbxSow+/NBNZoWEg5CrNThWlpuIwftyNyP0bqsLgBWXz7DnhhrUfVS8sq1lpe39tNwD69cPK7S/KJzmtAEmPI9BvoYjvf2eET+TCy0aCaeX3cjA5LOQwb79TUg4pROFH05vWKeitQUdmkAomDLnSsyIbh43SWosY0xNrNw8I9IO7blOXE2suxhtHAZV6v9ppFaXS0Mcdk9UyI0p2bfW3MJKkgETIdrtc7bhsGuuETDCqA4wv6cD5FkF035DGMowNOplWX/iNpd/WTWaZfDtExOkyg0/RD38295T24nbElgq2uxU+vbugUBIjFDbZsLHORB9A3QZnGDrAUA==;gL4GCNhrehg9hccBgwy8yQ=="
 ---
 

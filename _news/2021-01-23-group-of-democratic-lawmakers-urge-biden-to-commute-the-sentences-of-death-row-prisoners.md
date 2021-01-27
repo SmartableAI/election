@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "First lady Jill Biden expected to take active role in immigrant family reunification"
+    excerpt: "The Biden administration's planned task force aimed at reuniting children who were separated from their parents at the border under the Trump-era enforcement policies will include input from first lady Jill Biden, according to three sources familiar with the planning.\n    \n"
+    publishedDateTime: 2021-01-27T19:35:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bCjKXOKosHk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/jill-biden-immigration-family-separation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/jill-biden-immigration-family-separation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170601091326-jill-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to implement new ethics rules banning 'golden parachute' bonuses for appointees    "
     excerpt: "President-elect Joe Biden plans to impose a slew of new ethics restrictions on his incoming administration, a source familiar with the plan tells CNN, including barring his appointees from accepting \"golden parachute\" bonuses from their former employees when they join the government.\n    \n"
     publishedDateTime: 2021-01-19T17:52:23Z
