@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q30X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q30X"
 type: article
 quality: 125
-heat: 965
+heat: 985
 published: true
 
 provider:
@@ -414,6 +414,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548626984&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1EA"
         width: 855
         height: 545
+        isCached: true
+  - title: "Power Up: And then there were five. Republicans, that is, willing to hold a Trump impeachment trial"
+    excerpt: "Mitch McConnell isn't breaking with Trump, after all, as he voted to dismiss the impeachment trial because, 45 Republicans say, it's unconstitutional to convict a former president."
+    publishedDateTime: 2021-01-27T16:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GO2IDXDAIQI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Donald Trump impeached again – now what? Politics Weekly Extra"
     excerpt: "Jonathan Freedland speaks to Harvard law professor Noah Feldman about the potential next steps after Donald Trump was impeached for a second time"

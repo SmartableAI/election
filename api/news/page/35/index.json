@@ -2,6 +2,62 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-12-07-the-point-how-kelly-loeffler-backed-into-admitting-donald-trump-lost.md",
+      "title": "The Point: How Kelly Loeffler backed into admitting Donald Trump lost",
+      "excerpt": "Since coming to the Senate in January, Georgia Kelly Loeffler's has been the single biggest supporter of President Donald Trump's agenda. But even she knows the jig is up when it comes to his ongoing attempts to contest an election that he quite clearly lost.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kCTSwiAp20A/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kCTSwiAp20A/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201206225534-loeffler-georgia-senate-debate-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/07/politics/kelly-loeffler-donald-trump-debate/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/kelly-loeffler-donald-trump-debate/index.html",
+      "publishedDateTime": "2020-12-07T08:00:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-the-rnc-paid-300000-for-autographed-copies-of-donald-trump-jrs-new-book-to-use-as-gifts-to-donors-report-says.md",
       "title": "The RNC paid $300,000 for autographed copies of Donald Trump Jr.'s new book to use as gifts to donors, report says",
       "excerpt": "The money spent on Trump Jr.'s new book, \"Liberal Privilege,\" was the largest sum ever spent by the RNC on gift giveaways, The Daily Beast reported.",
@@ -1307,58 +1363,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-vp-pence-confidence-in-vaccine-important-for-us.md",
-      "title": "VP Pence: Confidence in vaccine important for US",
-      "excerpt": "As U.S. deaths from COVID-19 topped 2,800 Thursday, a new daily high, and with more than 100,000 Americans hospitalized with the disease, VP Mike Pence is trying to boost confidence in the vaccines that are awaiting regulatory approval.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/12/04/vp-pence-confidence-vaccine-important-us/3828978001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/12/04/vp-pence-confidence-vaccine-important-us/3828978001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/5f767ab3-426f-4c4e-84db-6b1f98f0c47d_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

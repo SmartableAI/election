@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-15-jack-dorsey-defends-banning-trump-but-admits-it-sets-dangerous-precedent.md",
+      "title": "Jack Dorsey defends banning Trump but admits it sets 'dangerous' precedent",
+      "excerpt": "Jack Dorsey opened up about the decision to ban President Donald Trump from the platform in a thread, saying he feels the action sets a \"dangerous\" precedent.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908",
+      "originalUrl": "https://abcnews.go.com/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Business/jack-dorsey2-01-gty-iwb-210114_1610635295543_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908",
+      "publishedDateTime": "2021-01-14T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-arizona-gop-gov-ducey-says-biden-a-good-man-who-wants-to-serve-his-country.md",
       "title": "Arizona GOP Gov. Ducey says Biden 'a good man' who 'wants to serve his country'",
       "excerpt": "Arizona’s Republican Gov. Doug Ducey, one of a dwindling number of GOP lawmakers in the Copper State, said Thursday that President-elect Biden is a “good man” and he looks forward to working with him. ",
@@ -1311,58 +1363,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-watch-live-pence-dismisses-25th-amendment-as-house-votes-to-encourage-its-use.md",
-      "title": "Watch Live: Pence dismisses 25th Amendment as House votes to encourage its use",
-      "excerpt": "Pence said it's his belief the 25th Amendment is intended to be invoked when the president is incapacitated, not in a situation such as this, and said invoking the 25th Amendment",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
-      "originalUrl": "https://www.cbsnews.com/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/12/de23e810-62d0-43b0-8b13-589424e1b945/thumbnail/1200x630/6214aa2691335ea4d178b0de0ddd311b/gettyimages-1230536583.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
-      "publishedDateTime": "2021-01-12T17:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

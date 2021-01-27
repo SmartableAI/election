@@ -95,6 +95,22 @@ related:
         width: 778
         height: 545
         isCached: true
+  - title: "As Biden enters White House, some allies, former staffers thrive as lobbyists"
+    excerpt: "Some of President Joe Biden's former staffers and allies, and those close to them, are cashing in as corporate interests look to influence the new administration."
+    publishedDateTime: 2021-01-27T14:57:00Z
+    webUrl: "https://abcnews.go.com/US/biden-enters-white-house-allies-staffers-thrive-lobbyists/story?id=75500448"
+    ampWebUrl: "https://abcnews.go.com/amp/US/biden-enters-white-house-allies-staffers-thrive-lobbyists/story?id=75500448"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/biden-enters-white-house-allies-staffers-thrive-lobbyists/story?id=75500448"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/national-strategy-coronavirus-06-ap-jc-210121_1611259216811_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
     excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."
     publishedDateTime: 2021-01-21T12:38:00Z

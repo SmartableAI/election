@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-18-cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi.md",
+      "title": "\"Cowboys for Trump\" founder, who vowed to return with guns to Capitol for inauguration, arrested by FBI",
+      "excerpt": "Couy Griffin, a New Mexico county official, vowed to return with firearms to the Capitol for the inauguration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi/",
+      "originalUrl": "https://www.cbsnews.com/news/cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/18/d3a8a92e-60ee-4b48-af43-76616fd8245f/thumbnail/1200x630/788676b2e441068fc99b986f457ef8d2/couy-griffin.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi/",
+      "publishedDateTime": "2021-01-18T02:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-trump-in-wave-of-tuesday-pardons-so-far-not-planning-to-pardon-himself-source.md",
       "title": "Trump, in wave of Tuesday pardons, so far not planning to pardon himself: source",
       "excerpt": "U.S. President Donald Trump at this point is opting not to issue a pardon for himself as he prepares an expansive list of more than 100 pardons and commutations for release on Tuesday, a source familiar with the effort said.",
@@ -1257,58 +1309,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-its-not-their-party-any-more-trump-leaves-republicans-deeply-fractured.md",
-      "title": "'It's not their party any more': Trump leaves Republicans deeply fractured",
-      "excerpt": "The president has ignited a civil war in his own party, creating bitter divides that will be felt for years to come",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/db9762e40c1133a39c297fa5bcc3d7607af074a7/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fcac560390630cc3adc836f4d2425be5",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack",
-      "publishedDateTime": "2021-01-16T09:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

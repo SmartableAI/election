@@ -1023,6 +1023,22 @@ related:
         width: 844
         height: 545
         isCached: true
+  - title: "Joe Biden to Sign 3 Executive Orders on Climate Change—Here's What They Do"
+    excerpt: "The actions are the president's latest moves in an effort to address campaign promises and appease his supporters."
+    publishedDateTime: 2021-01-27T16:49:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-sign-3-executive-orders-climate-changeheres-what-they-do-1564882"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-sign-3-executive-orders-climate-changeheres-what-they-do-1564882?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-sign-3-executive-orders-climate-changeheres-what-they-do-1564882?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1717934/joe-biden.jpg"
+        width: 2500
+        height: 1642
+        isCached: true
   - title: "Biden signs executive actions on COVID, climate change, immigration and more"
     excerpt: "On his first day in office, President Joe Biden signed more than a dozen executive actions, some of which reverse decisions made by his predecessor, former President Donald Trump. Several executive actions will make changes to the U."
     publishedDateTime: 2021-01-21T22:45:00Z
@@ -1361,6 +1377,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548313465&r=LYNXMPEH0I0ZQ&w=800"
         width: 800
         height: 515
+        isCached: true
+  - title: "How Trump could mount a presidential campaign even if he's banned from office"
+    excerpt: "A Senate vote to bar former President Trump from public office may not be enough to stop him from running another White House campaign in 2024 — at least for awhile."
+    publishedDateTime: 2021-01-27T15:08:00Z
+    webUrl: "https://www.businessinsider.com/trump-2024-presidential-campaign-despite-impeachment-trial-conviction-banned-office-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/60109b811d2df20018b7106e?width=700"
+        width: 700
+        height: 525
         isCached: true
   - title: "Joe Biden volunteers, Donald Trump works on MLK Day"
     excerpt: "state and national organizations virtually for a National Day of Service on Martin Luther King Jr. Day while the White House designated Monday as a working day for President Donald Trump. Biden and wife Jill Biden are expected to volunteer at Philabundance ..."

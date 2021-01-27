@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Tech problems kick off Biden administration's first virtual Covid briefing"
+    excerpt: "The first Covid-19 briefing of the Biden administration got off to an unfortunate start on Wednesday with multiple technical difficulties. The administration has repeatedly touted their transparency amid the enormous undertaking of getting the pandemic under control, but the briefing, which was conducted"
+    publishedDateTime: 2021-01-27T16:39:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nMFyKQznl1U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/covid-19-briefing-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/covid-19-briefing-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121163134-02-white-house-covid-presser-0121-fauci-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "RgxW40LnHPDJ2/Mn4fol5/ZMfLftkVnuX3KOVwiQwVQ99QQ06l+oyOCxfrd52Wl+ib/RDDhVhP3iLWEMH7+QYQAKmlUKTVMBF1GA7FN9KjxzlWZKOkgqM85TGSJb9sa88qW1pMQKlLYUWF3iKxNYpT5tkPmy5mFJraIaaVXJMIerZsiX9JA+bCXLyA3Qhk/+VDjCcNdajFljOebZW30/nOPMIVPtQprKdczbrXZyw2tgOdMT0vny6aFw3PoKONWSMHODVgwbZTfntZGooX2xToN40Ts3siGVkANmDSnya99UaTfsSnScjCMLjLTf7M6JCfPHBaskmYi7Krb8tV5x6aKnhLLU4yr+D4rL3782JXk=;/pKm9fTxNueOj9XWo0uNkg=="
 ---

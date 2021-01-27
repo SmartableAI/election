@@ -1567,6 +1567,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden reunites familiar Obama administration figures at press briefings"
+    excerpt: "The Obama show returns to the White House, as Biden gets the old gang back together"
+    publishedDateTime: 2021-01-27T16:37:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y8JPR9XMr3s/biden-reunites-obama-administration-figures-press-briefings"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reunites-obama-administration-figures-press-briefings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reunites-obama-administration-figures-press-briefings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden transportation pick Buttigieg advances in Senate"
+    excerpt: "A Senate panel on Wednesday easily advanced President Joe Biden's nomination of Pete Buttigieg to be transportation secretary, setting up a final confirmation vote for a key role in Biden's push to rebuild the nation's infrastructure and confront climate change."
+    publishedDateTime: 2021-01-27T15:59:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SMo5pE7nRTE/biden-transportation-buttigieg-senate-committee"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transportation-buttigieg-senate-committee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transportation-buttigieg-senate-committee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Pete-Buttigieg-Transportation-Secretary-Hearing-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pelosi urges Pentagon to block 'Trump loyalist' from national security role before Biden's inauguration"
     excerpt: "House Speaker Nancy Pelosi is calling on the acting defense secretary to \"immediately cease\" plans to install so-called \"Trump loyalist\" Michael Ellis as the new general counsel for the National Security Agency (NSA) just days before President-elect Joe Biden is inaugurated, describing the decision as"
     publishedDateTime: 2021-01-19T15:00:36Z
@@ -2890,6 +2922,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/thumbnail_image2.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden's open-border campaign spurring migrant caravan bound for US"
+    excerpt: "It turns out Biden's call for blanket amnesty, and a pause on deportations is attracting a crowd at the border. Tom Homan will tell us how the incoming president is already putting Americans at risk."
+    publishedDateTime: 2021-01-27T15:00:00Z
+    webUrl: "https://www.foxnews.com/transcript/bidens-open-border-campaign-spurring-migrant-caravan-bound-for-us"
+    ampWebUrl: "https://www.foxnews.com/transcript/bidens-open-border-campaign-spurring-migrant-caravan-bound-for-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/bidens-open-border-campaign-spurring-migrant-caravan-bound-for-us.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c4fc1cf-0547-4764-be83-7c5b0aab300a/c0a6ce20-1fc6-4694-9755-7c92a6561427/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "As Biden inauguration approaches, federal prisons under full-on lockdown"
     excerpt: "Federal prisons throughout the country have been placed under full-on lockdown until further notice in the days leading up to the inauguration of President-elect Joe Biden and amid nationwide threats of unrest,"

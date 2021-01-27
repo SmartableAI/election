@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html"
 type: article
 quality: 173
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tech problems kick off Biden administration's first virtual Covid briefing"
+    excerpt: "The first Covid-19 briefing of the Biden administration got off to an unfortunate start on Wednesday with multiple technical difficulties. The administration has repeatedly touted their transparency amid the enormous undertaking of getting the pandemic under control, but the briefing, which was conducted"
+    publishedDateTime: 2021-01-27T16:39:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nMFyKQznl1U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/covid-19-briefing-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/covid-19-briefing-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121163134-02-white-house-covid-presser-0121-fauci-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Proximity to power: What the West Wing office layout says about the Biden administration"
     excerpt: "It's an adage in any high-pressure office: proximity is power. Nowhere is that more true than the West Wing.\n    \n"
     publishedDateTime: 2021-01-26T01:35:07Z

@@ -429,6 +429,22 @@ related:
         width: 855
         height: 545
         isCached: true
+  - title: "Power Up: And then there were five. Republicans, that is, willing to hold a Trump impeachment trial"
+    excerpt: "Mitch McConnell isn't breaking with Trump, after all, as he voted to dismiss the impeachment trial because, 45 Republicans say, it's unconstitutional to convict a former president."
+    publishedDateTime: 2021-01-27T16:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GO2IDXDAIQI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Rand Paul: Impeaching Trump 'antithesis of unity'"
     excerpt: "Republican Sen. Rand Paul of Kentucky is challenging the legitimacy of Donald Trump's second impeachment trial and forced a Senate vote on whether the impeachment trial of a former president is Constitutional."
     publishedDateTime: 2021-01-26T20:39:00Z
