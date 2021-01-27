@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says masks 'best defense' against coronavirus even as vaccination campaign ramps up"
+    excerpt: "President Biden said Tuesday that masks are \"the best defense against COVID-19\" in the coming months as his administration acquires a sufficient supply of vaccine"
+    publishedDateTime: 2021-01-27T00:30:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N0EsvNUFIaU/biden-masks-best-defense-against-coronavirus-vaccination-campaign-ramps-up"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-masks-best-defense-against-coronavirus-vaccination-campaign-ramps-up.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-masks-best-defense-against-coronavirus-vaccination-campaign-ramps-up.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4568b3ca-227f-443e-bd60-ae6d2e50e7f7/fd6144cb-2ef0-4bbb-b3b7-08092b1ab2b6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "White House: 'Critical' for Congress to pass Biden stimulus check, coronavirus relief plan"
     excerpt: "The White House on Thursday said it is \"critical\" that Congress act \"quickly\" on President Biden's proposals for coronavirus economic relief after a report showed that 900,000 Americans filed new unemployment claims last week, saying \"long-term scarring\" will only worsen\" with delay."
     publishedDateTime: 2021-01-21T18:44:58Z

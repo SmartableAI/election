@@ -367,6 +367,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Live Updates: Senate rejects GOP motion to declare Trump impeachment trial unconstitutional"
+    excerpt: "Senators were sworn in as jurors on Tuesday in the second impeachment trial of former President Donald Trump for inciting an insurrection, with proceedings scheduled to get underway in two weeks. Senator Patrick Leahy,"
+    publishedDateTime: 2021-01-26T22:06:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/26/d8c6009b-1a41-4bf2-9d5d-627b79829356/thumbnail/1200x630/ed7731eecbd029ac99de9fcf4c3abfeb/screen-shot-2021-01-26-at-2-48-36-pm.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. House Speaker Pelosi says seeks clarity on Senate readiness for Trump impeachment trial"
     excerpt: "U.S. House of Representatives Speaker Nancy Pelosi said on Thursday she will consult with fellow Democrats in coming days about the Senate's readiness to begin an impeachment trial of former President Donald Trump for his alleged role in the Jan."
     publishedDateTime: 2021-01-21T22:31:00Z

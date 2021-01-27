@@ -2,6 +2,223 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-27-cuomo-says-biden-vaccine-ramp-up-not-enough-for-new-york.md",
+      "title": "Cuomo says Biden vaccine ramp up 'not enough' for New York",
+      "excerpt": "New York Gov. Andrew Cuomo said on Tuesday that President Biden’s plan to ramp up distribution of the COVID-19 vaccine was \"not enough,\" as the Empire State faces a shortage of doses.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YJIzm7xJJBo/cuomo-biden-vaccine-ramp-up-not-enough-ny",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YJIzm7xJJBo/cuomo-biden-vaccine-ramp-up-not-enough-ny",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80409122-a6c0-4a2a-bb5d-bd1a504fe2f8/e3f75bfd-08a4-4139-b7b4-7414de337f4d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-biden-vaccine-ramp-up-not-enough-ny.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-biden-vaccine-ramp-up-not-enough-ny.amp",
+      "publishedDateTime": "2021-01-26T16:50:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-biden-speaks-to-putin-for-first-time-since-taking-power-white-house.md",
+      "title": "Biden speaks to Putin for first time since taking power: White House",
+      "excerpt": "U.S. President Joe Biden spoke to Russian President Vladimir Putin on Tuesday for the first time since taking office and raised concerns about Russian activities including the treatment of jailed Kremlin critic Alexei Navalny,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-russia-usa-biden-putin-idUSKBN29V2AJ",
+      "originalUrl": "https://www.reuters.com/article/us-russia-usa-biden-putin-idUSKBN29V2AJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549143451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1CN",
+          "width": 844,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V2AJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2AJ",
+      "publishedDateTime": "2021-01-26T16:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-pennsylvania-gop-pledges-full-allegiance-to-trump.md",
+      "title": "Pennsylvania GOP pledges full allegiance to Trump",
+      "excerpt": "Once a producer of centrist Republicans like Arlen Specter and Tom Ridge, the state GOP now bears the MAGA stamp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/26/pennsylvania-republican-party-trump-support-462843",
+      "originalUrl": "https://www.politico.com/news/2021/01/26/pennsylvania-republican-party-trump-support-462843",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/93/f7/09cc34c044568e3833bd4cf29005/210126-mastriano-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/26/pennsylvania-republican-party-trump-support-462843",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/pennsylvania-republican-party-trump-support-462843",
+      "publishedDateTime": "2021-01-26T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-representation-is-important-local-south-asian-americans-react-to-kamala-harris-inauguration-as-vice-president.md",
+      "title": "'Representation is important:' Local South Asian-Americans react to Kamala Harris' inauguration as vice president",
+      "excerpt": "Kamala Harris may be the first woman to serve as vice president of the United States, but her inauguration last week also marked the first time an American of South Asian descent was elected to such a high national office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/suburbs/park-ridge/ct-prh-kamala-harris-south-asian-community-tl-0128-20210126-cndkdij3rrgqfnw32eiohe6qzq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/suburbs/park-ridge/ct-prh-kamala-harris-south-asian-community-tl-0128-20210126-cndkdij3rrgqfnw32eiohe6qzq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/UPr6Q60l0I58--VyC8AgXhAxoWk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZFT3MU6F6VBK7LNE3T4HL6RCQU.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/suburbs/park-ridge/ct-prh-kamala-harris-south-asian-community-tl-0128-20210126-cndkdij3rrgqfnw32eiohe6qzq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/park-ridge/ct-prh-kamala-harris-south-asian-community-tl-0128-20210126-cndkdij3rrgqfnw32eiohe6qzq-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-26T15:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-harris-reflects-on-full-circle-moment-after-receiving-vaccine-dose-at-nih-building-her-late-mother-frequented.md",
       "title": "Harris reflects on 'full circle' moment after receiving vaccine dose at NIH building her late mother frequented",
       "excerpt": "Vice President Kamala Harris on Tuesday spoke in personal terms about a \"full circle\" moment after receiving the second dose of the Moderna Covid-19 vaccine at the same National Institutes of Health building her late mother had frequented for work.\n    \n",
@@ -115,6 +332,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-26-psaki-walks-back-biden-comments-on-covid-19-vaccine-availability-says-wont-be-widely-available-by-spring.md",
+      "title": "Psaki walks back Biden comments on COVID-19 vaccine availability, says won't be widely available by spring",
+      "excerpt": "White House Press Secretary Jen Psaki walked back President Biden’s comments that the majority of Americans would be vaccinated by the spring, telling reporters on Tuesday that the vaccine will not be widely available by then.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UV0Vxn20z1M/psaki-press-conference-biden-vaccine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UV0Vxn20z1M/psaki-press-conference-biden-vaccine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-press-conference-biden-vaccine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-press-conference-biden-vaccine.amp",
+      "publishedDateTime": "2021-01-26T13:04:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-covid-live-updates-biden-raises-covid-vaccine-goal-uk-passes-100000-deaths.md",
       "title": "Covid live updates: Biden raises Covid vaccine goal, UK passes 100,000 deaths",
       "excerpt": "President Biden increased his Covid vaccine goal to 1.5 million shots administered a day, deemed more likely due to states ramping up vaccine distribution.",
@@ -172,58 +445,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-27-biden-presses-putin-on-navalny-arrest-and-pushes-arms-treaty-in-first-phone-call.md",
-      "title": "Biden presses Putin on Navalny arrest and pushes arms treaty in first phone call",
-      "excerpt": "The White House said the president raised concerns about Navalny's arrest and Russia's treatment of protesters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-putin-call-navalny-poisoning-treaty/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-putin-call-navalny-poisoning-treaty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/7540ab50-d556-4559-96ef-35e99a45306a/thumbnail/1200x630/ff5ee79b684be54c9e9014643354f4a0/ap20314484333168.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-putin-call-navalny-poisoning-treaty/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-putin-call-navalny-poisoning-treaty/",
-      "publishedDateTime": "2021-01-26T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-26-joe-biden-portrayed-as-boring-moderate-but-some-of-his-policies-are-extreme-perino.md",
       "title": "Joe Biden portrayed as 'boring,' moderate but some of his policies are 'extreme': Perino",
       "excerpt": "President Joe Biden has proposed some \"extreme\" policies that warrant more attention from the mainstream media, \"The Five\" co-panelist Dana Perino said on Monday.",
@@ -277,58 +498,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-white-house-says-biden-believes-nord-stream-2-pipeline-is-a-bad-deal-for-europe.md",
-      "title": "White House says Biden believes Nord Stream 2 pipeline is a bad deal for Europe",
-      "excerpt": "White House press secretary Jen Psaki said on Tuesday that President Joe Biden continues to believe the Nord Stream 2 natural gas pipeline is a bad deal for Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-nord-stream/white-house-says-biden-believes-nord-stream-2-pipeline-is-a-bad-deal-for-europe-idUSKBN29V29X",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-nord-stream/white-house-says-biden-believes-nord-stream-2-pipeline-is-a-bad-deal-for-europe-idUSKBN29V29X",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549153912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1G9",
-          "width": 806,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V29X",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V29X",
-      "publishedDateTime": "2021-01-26T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1206,174 +1375,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-trump-endorses-sarah-huckabee-sanders-for-arkansas-governor.md",
-      "title": "Trump endorses Sarah Huckabee Sanders for Arkansas governor",
-      "excerpt": "Former President Donald Trump endorsed Sarah Huckabee Sanders in her run for Arkansas governor on Monday night.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6RtMOZNBUTE/trump-endorses-sanders-in-run-for-arkansas-governor",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6RtMOZNBUTE/trump-endorses-sanders-in-run-for-arkansas-governor",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Sanders-Split.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp",
-      "publishedDateTime": "2021-01-25T20:54:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-ingraham-democrats-using-and-abusing-the-troops-for-political-theater-after-condemning-trump-proposals.md",
-      "title": "Ingraham: Democrats 'using and abusing the troops' for 'political theater' after condemning Trump proposals",
-      "excerpt": "In her \"Ingraham Angle\" monologue on Monday, host Laura Ingraham said Democrats are misuing American servicemembers for \"political theater\" just months after they roundly condemned Donald Trump for considering deploying National Guardsmen to quell left-wing riots in major cities across the country.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D-j9fou6ByI/ingraham-democrats-using-and-abusing-the-troops-for-political-theater",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D-j9fou6ByI/ingraham-democrats-using-and-abusing-the-troops-for-political-theater",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08e69c18-2ef6-42fc-98ef-8972d9b4485d/99b97c7d-2abd-499d-89ec-815b75ef3a5b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ingraham-democrats-using-and-abusing-the-troops-for-political-theater.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ingraham-democrats-using-and-abusing-the-troops-for-political-theater.amp",
-      "publishedDateTime": "2021-01-25T20:11:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-biden-declines-to-tell-chicago-teachers-refusing-to-teach-in-person-to-go-back-to-work.md",
-      "title": "Biden declines to tell Chicago teachers refusing to teach in-person to go back to work",
-      "excerpt": "President Biden declined to tell Chicago teachers on Monday to return to school following a union vote over the weekend to defy a district order for educators to return to campuses in order to prepare to resume in-person classroom instruction. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QlxBHecut8c/biden-chicago-teachers-in-person",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QlxBHecut8c/biden-chicago-teachers-in-person",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25dcc8d9-7494-4c44-8cf2-2365a0d57081/421b43a2-10ba-403c-abe0-ece8931d386a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-chicago-teachers-in-person.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chicago-teachers-in-person.amp",
-      "publishedDateTime": "2021-01-25T18:59:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

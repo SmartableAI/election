@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-uks-boris-johnson-discuss-par
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 170
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c95b33eb-3e0c-4dc1-8222-54cb887f2db6/091bc570-65b6-4212-a68b-b2adb5245280/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says masks 'best defense' against coronavirus even as vaccination campaign ramps up"
+    excerpt: "President Biden said Tuesday that masks are \"the best defense against COVID-19\" in the coming months as his administration acquires a sufficient supply of vaccine"
+    publishedDateTime: 2021-01-27T00:30:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N0EsvNUFIaU/biden-masks-best-defense-against-coronavirus-vaccination-campaign-ramps-up"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-masks-best-defense-against-coronavirus-vaccination-campaign-ramps-up.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-masks-best-defense-against-coronavirus-vaccination-campaign-ramps-up.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4568b3ca-227f-443e-bd60-ae6d2e50e7f7/fd6144cb-2ef0-4bbb-b3b7-08092b1ab2b6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

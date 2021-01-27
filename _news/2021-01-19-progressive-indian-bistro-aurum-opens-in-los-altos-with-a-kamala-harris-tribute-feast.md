@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aur
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/amp/"
 type: article
 quality: 68
-heat: 108
+heat: 88
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CQJXDL4EVFCLPP5QSU7D6YC4NM.jpg"
         width: 720
         height: 480
-        isCached: true
-  - title: "Kamala Harris as VP sparks pride, tears of joy among South Asians in Hicksville and beyond"
-    excerpt: "When Kamala Devi Harris was sworn in Wednesday as vice president, some of the women in Deepak Bansal’s Hicksville office started crying. \"It was [a] great moment, historical moment,\" Bansal said. \"In"
-    publishedDateTime: 2021-01-25T10:14:00Z
-    webUrl: "https://www.newsday.com/long-island/nassau/kamala-harris-indian-american-vice-president-1.50128780"
-    ampWebUrl: "https://www.newsday.com/amp/long-island/nassau/kamala-harris-indian-american-vice-president-1.50128780"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/nassau/kamala-harris-indian-american-vice-president-1.50128780"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 65
-    images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.50130423.1611573246!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-        width: 1280
-        height: 719
         isCached: true
 
 secured: "M6qqFr3iVSfECdXWEX6F1vEN4fL40PD2igSenpTPYcsgKR6r8CfVuudJKPMo5g9ERv1j03Dieoxj8lNsHPhu3zKdoL1xQVaPSy5IUu4VNcR+SlrCH9qMEMPfR9tMeaIzfo1v4uU4SMb56a5qNucJRqpc35JV70/cpNBQuU9BGyD9tV6MJ51J2nxPhWLvqHJQMxGA7Om+u3NsdgVPC54UuE2blMeiaixWKYB5ydrKETMYXBBdj2yyJg9hExOabjAGO4aV2nuVto3xN05e7rsfW9p181OItG+3Wc6ETIzmQPWXxLZGtYhlHwt6uFTYynRNQzR+OCBa0D2pv0PBtiw7t4kZ9571PauV5LsRpwTbxLHQtCeOWaPZ2mqUjEWsd3xBQPg7jVxAU2jXaeR7lKtUmJabMA7hllUt148v9LQA5QaM4nEuLWrG4X3cJwXKwNjk/TSLqtVir9tzojLd7Rk4GZlUrrvncdcsQRUABRq7ypN/j0iB0/jLRWVRopemRsPzXcgzwI4ADCEbRKy2elP8eQ==;sdcIoRonfs9AKRKmdG+nzQ=="

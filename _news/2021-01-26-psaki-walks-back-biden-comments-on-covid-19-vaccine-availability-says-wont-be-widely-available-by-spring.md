@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-press-conference-biden-vaccin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-press-conference-biden-vaccine.amp"
 type: article
 quality: 157
-heat: -1
-published: false
+heat: 177
+published: true
 
 provider:
   name: Fox News
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden health advisers admit COVID-19 vaccination goal is not enough: 'We have to go faster'"
-    excerpt: "The new head of the Center for Disease Control (CDC) said Sunday that the U.S. has to \"go faster\" than the Biden administration's current goal of 100 million coronavirus vaccinations in 100 days."
-    publishedDateTime: 2021-01-24T18:48:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8hxfbwsCOTE/biden-health-advisers-admit-covid-19-vaccination-goal-is-not-enough-we-have-to-go-faster"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-health-advisers-admit-covid-19-vaccination-goal-is-not-enough-we-have-to-go-faster.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-health-advisers-admit-covid-19-vaccination-goal-is-not-enough-we-have-to-go-faster.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Rochelle-Walensky.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Psaki hints Biden may skip bipartisan deal on COVID-19 if needed: 'Not going to take any tools off the table'"
     excerpt: "President Biden has signaled that he wants to secure bipartisan support for another coronavirus relief package, but his administration is refusing to rule out unilateral action by congressional Democrats on the next round of emergency aid. "
     publishedDateTime: 2021-01-21T19:27:16Z

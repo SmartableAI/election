@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats weigh whether they need witnesses to make a visceral case against Trump at impeachment trial"
+    excerpt: "Facing highly skeptical Republican senators, House impeachment managers are preparing a case to show the visceral evidence of the Capitol insurrection and how former President Donald Trump's words and actions motivated the rioters to breach the Capitol, according to sources familiar with the deliberations.\n"
+    publishedDateTime: 2021-01-26T23:40:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jtR115OgIaY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/impeachment-case-house-managers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/impeachment-case-house-managers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125153646-02-raskin-jan-6-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Start of Trump's impeachment trial remains unsettled as Pelosi refuses to say when she'll send over article"
     excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
     publishedDateTime: 2021-01-21T16:45:21Z
@@ -189,6 +205,22 @@ related:
     quality: 157
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122180955-schumer-senate-floor-impeachment-timeline-screen-grab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Sen. Patrick Leahy taken to hospital out of abundance of caution after presiding over opening of Trump's impeachment trial"
+    excerpt: "Sen. Patrick Leahy was hospitalized out of an abundance of caution on Wednesday, just hours after presiding over the opening of former President Donald Trump's second impeachment trial.\n    \n"
+    publishedDateTime: 2021-01-27T00:18:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ol2AVzchkEw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/patrick-leahy-hospital/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/patrick-leahy-hospital/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126180712-01-patrick-leahy-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -121,6 +121,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP Kamala Harris receives 2nd Moderna dose"
+    excerpt: "Watch \"VP Kamala Harris receives 2nd Moderna dose\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-26T21:03:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210126204951-vp-kamala-harris-receives-2nd-moderna-dose/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/26/story_08722873_1611694564.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris' Alpha Kappa Alpha sorority sisters celebrate"
     excerpt: "(AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment. AKA South Eastern Director Mitzi Dease Paige said that many members were “tickled pink and green” to see the first woman of color become vice president."
     publishedDateTime: 2021-01-23T14:23:00Z
@@ -168,6 +182,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/26/biden_55145_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Faith and Kamala Harris; China's Uighar Minority; How to be a Refugee"
+    excerpt: "When Kamala Harris was sworn in as the US vice-president this week, Hindus gathered in her family's ancestral home town in India to pray for her success. Much is said about her st"
+    publishedDateTime: 2021-01-27T00:12:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/m000rm8h"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p094vgf9.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
     excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."

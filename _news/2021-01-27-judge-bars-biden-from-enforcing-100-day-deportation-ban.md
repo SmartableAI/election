@@ -2,21 +2,21 @@
 category: news
 title: "Judge bars Biden from enforcing 100-day deportation ban"
 excerpt: "A federal judge has barred the U.S. government from enforcing a 100-day deportation moratorium that is a key immigration priority of President Joe Biden"
-publishedDateTime: 2021-01-26T20:19:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/judge-bars-biden-enforcing-100-day-deportation-ban-75496919"
-webUrl: "https://abcnews.go.com/US/wireStory/judge-bars-biden-enforcing-100-day-deportation-ban-75496919"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/judge-bars-biden-enforcing-100-day-deportation-ban-75496919"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/judge-bars-biden-enforcing-100-day-deportation-ban-75496919"
+publishedDateTime: 2021-01-27T00:40:00Z
+originalUrl: "https://www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/4c364028-600e-11eb-a177-7765f29a9524_story.html"
+webUrl: "https://www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/4c364028-600e-11eb-a177-7765f29a9524_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/4c364028-600e-11eb-a177-7765f29a9524_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/4c364028-600e-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -1311,22 +1311,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden speaks to Putin for first time since taking power -White House"
-    excerpt: "U.S. President Joe Biden spoke to Russian President Vladimir Putin on Tuesday for the first time since taking office and raised concerns about Russian activities including the treatment of jailed Kremlin critic Alexei Navalny,"
-    publishedDateTime: 2021-01-26T21:32:00Z
-    webUrl: "https://www.reuters.com/article/uk-russia-usa-biden-putin-idUKKBN29V2DN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29V2DN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29V2DN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549143451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1CN"
-        width: 844
-        height: 545
-        isCached: true
   - title: "Joe Biden to call for end of federally run private prisons"
     excerpt: "A senior White House official says President Joe Biden will formally call on the federal government to end its reliance on private prisons and acknowledge the central role the federal government has p"
     publishedDateTime: 2021-01-26T17:54:00Z
@@ -2526,6 +2510,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Mike and Karen Pence are homeless and appear to be couch surfing their way through Indiana"
+    excerpt: "Republicans close to former Vice President Mike Pence say they don't know where the former second couple is currently living. The Pences don't own a home."
+    publishedDateTime: 2021-01-26T00:00:00Z
+    webUrl: "https://www.businessinsider.com/mike-pence-home-residence-after-vice-president-indiana-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/6010aaf51d2df20018b71088?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Inside Kamala Harris' New Home Next Door To President Joe Biden's"
     excerpt: "Harris' temporary home is just across the White House and is called the president's guest house Blair House is larger than the White House and has traditional and luxurious finishing Vice President Kamala Harris is moving next door to President Joe Biden."
     publishedDateTime: 2021-01-25T05:17:00Z
@@ -3301,6 +3299,6 @@ related:
         height: 800
         isCached: true
 
-secured: "muTLRZsEGE63FwXcO7xcMDSSg+4OkMj/pf73uW2K5D3JNC0l2pcn2Vwq4K4vP8DAN+F5nCG1qYxmPkGyoBNaJms/cqvv76qtDYh9/aMhqiHE9fDAew5cmrCeb0FcANqF3unrTxDYmNzyMAWIyaYvlo7HC5D5s8N7tXgv694wxhkPFl27FiqGF0kT2uPcm8cEgdglxzEh/T1q4C+OgRtZpEPpkEhcXMew3RbkGohLnTiNb36ytoo0T+Q4KWHvoU2Z3C8SMWy6rSFHNuBB90/Oj8Lp/Jdkyr6P5aTcinfKolXvLllIBqlFimp2Dv+p30Q6BJCqSlmGmFDV8Blrrs5b9udYliIpiwMGtdOLc/AWyVE=;chhgX1oVzaUs2q7RbIXOrw=="
+secured: "gOmqOGmfV/SqzvFe8Wb8GkTXvdq/kNg/CG0si68e0bzC+67K6/s0eGFxAa3r6GMZVbdBiytcN0occLVtF4cuyilFOJAdqg5UT6XtOKRC3Koa0gOOGWQcZmCoJFYp5QVlZD7cQPwXElVQCaSvyW2eibKhpex914OJpiVsRicC8fqCDa08HABIiei8AtszH8YSrs+uliPTfxNK/ayZd/ZQ+NL5ljmwoabTYsOxrTTb6GNFs/Jc24z7sBhSysQAmrAJq/DwSPwGWpf+JdvWYhly45EYxqnbWx5SebTWzndO1JJGWAAm228mb7RECQwLIrpQHi+mqmMQTlrMin2l7jSP8huV+GUMuDCHcD0Pe3zvcrs=;SaFdxqpmiRD17/rWuDRqlg=="
 ---
 

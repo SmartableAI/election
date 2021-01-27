@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Kamala Harris as VP sparks pride, tears of joy among South Asians in Hicksville and beyond"
-    excerpt: "When Kamala Devi Harris was sworn in Wednesday as vice president, some of the women in Deepak Bansal’s Hicksville office started crying. \"It was [a] great moment, historical moment,\" Bansal said. \"In"
-    publishedDateTime: 2021-01-25T10:14:00Z
-    webUrl: "https://www.newsday.com/long-island/nassau/kamala-harris-indian-american-vice-president-1.50128780"
-    ampWebUrl: "https://www.newsday.com/amp/long-island/nassau/kamala-harris-indian-american-vice-president-1.50128780"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/nassau/kamala-harris-indian-american-vice-president-1.50128780"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 65
-    images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.50130423.1611573246!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
 
 secured: "bDVetcuEUxlMMeEmmaWsTKsRHWhM2uh1boPlndy4f0A5Bm6GLR4ccYFguKd/GU2U75qzogpY8JYNQdQWK7SBDWP+Rx1LaVDVtlsCIaxx7UcX/ntRh3Flv4AVeRy7U0auogUry/XKqIF8unbejiDCxjhrtJ/koJQtRZv9KbTIZgZbrR20Zs+GnCMLPAY5OOLxxRq9C+PJp2HZwBqyBGlhSwEHxltUehG0etykhk4sDQoGdKrm23gD0FPK1sgmQQ+76rCxCF5ElXwjstvDbLMCBBMtcUq/XR61x27PoN2cvDyVAeIe5Fjq+KeviOwY0L+V6W1duER5jlYdAgJSF5wHmt57VI32jEDlFShf7NwlGiEsOdJohFGAhemlpURmSW5MA+epqBZLASzv5BJCqSpFw3K3PDioc+Ol3YPZlv1cSrMW+/HwI2+i36YBLCaIoVPmIsPeX9PZYkvHFb0LLKhvuFUJo4hbclXKGDskoiwgVdq0u1IT1VnbTKrkNx6GjBZUORTKrLhuSBUTCOI7/M8l6A==;j6V5PmaqaIRLuxF3y71Jgw=="
 ---

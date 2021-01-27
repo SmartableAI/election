@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -69,6 +69,22 @@ related:
     webUrl: "https://www.washingtonpost.com/health/florida-eye-doctor-gets-clemency-from-trump-in-health-fraud/2021/01/21/19850b8a-5c00-11eb-a849-6f9423a75ffd_story.html"
     ampWebUrl: "https://www.washingtonpost.com/health/florida-eye-doctor-gets-clemency-from-trump-in-health-fraud/2021/01/21/19850b8a-5c00-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/florida-eye-doctor-gets-clemency-from-trump-in-health-fraud/2021/01/21/19850b8a-5c00-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Florida’s Trump Plaza residents move to change name"
+    excerpt: "The residents of a South Florida condo complex want former President Donald Trump’s name officially removed from their home following the siege at the U.S. Capitol earlier this month"
+    publishedDateTime: 2021-01-27T00:46:00Z
+    webUrl: "https://www.washingtonpost.com/national/floridas-trump-plaza-residents-move-to-change-name/2021/01/26/ca15ff5e-6038-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/floridas-trump-plaza-residents-move-to-change-name/2021/01/26/ca15ff5e-6038-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/floridas-trump-plaza-residents-move-to-change-name/2021/01/26/ca15ff5e-6038-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

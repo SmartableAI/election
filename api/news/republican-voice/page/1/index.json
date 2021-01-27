@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-27-cuomo-says-biden-vaccine-ramp-up-not-enough-for-new-york.md",
+      "title": "Cuomo says Biden vaccine ramp up 'not enough' for New York",
+      "excerpt": "New York Gov. Andrew Cuomo said on Tuesday that President Biden’s plan to ramp up distribution of the COVID-19 vaccine was \"not enough,\" as the Empire State faces a shortage of doses.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YJIzm7xJJBo/cuomo-biden-vaccine-ramp-up-not-enough-ny",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YJIzm7xJJBo/cuomo-biden-vaccine-ramp-up-not-enough-ny",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80409122-a6c0-4a2a-bb5d-bd1a504fe2f8/e3f75bfd-08a4-4139-b7b4-7414de337f4d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-biden-vaccine-ramp-up-not-enough-ny.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-biden-vaccine-ramp-up-not-enough-ny.amp",
+      "publishedDateTime": "2021-01-26T16:50:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-biden-ending-keystone-pipeline-project-was-totally-political-laid-off-pipeline-worker.md",
       "title": "Biden ending Keystone pipeline project was 'totally political': Laid-off pipeline worker",
       "excerpt": "The Biden administration's cancelation of the Keystone XL Pipeline project was \"totally political,\" a laid-off worker said on Tuesday, expressing dismay after being unemployed due to the executive order. ",
@@ -31,6 +87,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp",
       "publishedDateTime": "2021-01-26T13:15:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-psaki-walks-back-biden-comments-on-covid-19-vaccine-availability-says-wont-be-widely-available-by-spring.md",
+      "title": "Psaki walks back Biden comments on COVID-19 vaccine availability, says won't be widely available by spring",
+      "excerpt": "White House Press Secretary Jen Psaki walked back President Biden’s comments that the majority of Americans would be vaccinated by the spring, telling reporters on Tuesday that the vaccine will not be widely available by then.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UV0Vxn20z1M/psaki-press-conference-biden-vaccine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UV0Vxn20z1M/psaki-press-conference-biden-vaccine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-press-conference-biden-vaccine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-press-conference-biden-vaccine.amp",
+      "publishedDateTime": "2021-01-26T13:04:43-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1011,62 +1123,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-24-biden-health-advisers-admit-covid-19-vaccination-goal-is-not-enough-we-have-to-go-faster.md",
-      "title": "Biden health advisers admit COVID-19 vaccination goal is not enough: 'We have to go faster'",
-      "excerpt": "The new head of the Center for Disease Control (CDC) said Sunday that the U.S. has to \"go faster\" than the Biden administration's current goal of 100 million coronavirus vaccinations in 100 days.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8hxfbwsCOTE/biden-health-advisers-admit-covid-19-vaccination-goal-is-not-enough-we-have-to-go-faster",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8hxfbwsCOTE/biden-health-advisers-admit-covid-19-vaccination-goal-is-not-enough-we-have-to-go-faster",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Rochelle-Walensky.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-health-advisers-admit-covid-19-vaccination-goal-is-not-enough-we-have-to-go-faster.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-health-advisers-admit-covid-19-vaccination-goal-is-not-enough-we-have-to-go-faster.amp",
-      "publishedDateTime": "2021-01-24T10:48:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-24-trump-impeachment-trial-is-stupid-bad-for-the-country-rubio.md",
       "title": "Trump impeachment trial is 'stupid,' 'bad for the country': Rubio",
       "excerpt": "The Senate impeachment trial of former President Donald Trump is \"stupid\" and \"bad for the country,\" Sen. Marco Rubio said.",
@@ -1192,7 +1248,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 375,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -1352,7 +1408,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1593,62 +1649,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/reince-priebus-tough-time-republican-party.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reince-priebus-tough-time-republican-party.amp",
       "publishedDateTime": "2021-01-22T14:20:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-biden-suggests-delayed-impeachment-timeline-may-be-better.md",
-      "title": "Biden suggests delayed impeachment timeline may be 'better'",
-      "excerpt": "Biden suggested having more time to get his Cabinet nominees confirmed may help jumpstart his policy agenda.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBRsQcHzBk/biden-delayed-impeachment-timeline-standoff-congress",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBRsQcHzBk/biden-delayed-impeachment-timeline-standoff-congress",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6f7deab-50b8-4854-a772-08d24f875fa1/65962725-c64c-4736-8a52-88203251a4ed/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp",
-      "publishedDateTime": "2021-01-22T13:38:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

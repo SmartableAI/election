@@ -714,6 +714,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden has first call as president with Putin, addresses nukes and election interference"
+    excerpt: "President Biden called Russia President Vladimir Putin Tuesday, to address a wide range of topics on national security, including the renewal of a nuclear arms treaty, bounties placed on U.S. soldiers in Afghanistan and interference in the 2020 election."
+    publishedDateTime: 2021-01-27T00:00:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7hVdq-ye5cM/biden-has-first-call-as-president-with-putin-addresses-nukes-and-election-interference"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-has-first-call-as-president-with-putin-addresses-nukes-and-election-interference.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-has-first-call-as-president-with-putin-addresses-nukes-and-election-interference.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d36f0ae-d23f-4400-8487-102bbb4800d0/2116710c-66fd-4195-a712-62b5ec4a67fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump transferring the 'nuclear football' to Biden — How it will work on Inauguration Day"
     excerpt: "The federal government is adding a new page today to its nuclear playbook. "
     publishedDateTime: 2021-01-20T14:56:16Z
@@ -1495,6 +1511,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/5c620866-Capture.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "What will Biden's immigration overhaul mean for national security?"
+    excerpt: ""
+    publishedDateTime: 2021-01-26T23:08:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yxt8_IOu3Mo/what-will-bidens-immigration-overhaul-mean-for-u-s-national-security"
+    ampWebUrl: "https://www.foxnews.com/politics/what-will-bidens-immigration-overhaul-mean-for-u-s-national-security.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/what-will-bidens-immigration-overhaul-mean-for-u-s-national-security.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/thumbnail_IMG-2819.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -2643,6 +2675,22 @@ related:
     quality: 138
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4cd6bf6-d77f-41a9-8861-b3260ad42bbc/b6399996-d9d7-4095-b25c-c8e2bbca99ca/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden credits Trump on vaccine effort before adding program was in 'worse shape' than expected"
+    excerpt: "President Biden on Tuesday gave credit to former President Donald Trump’s administration for its role in getting the coronavirus vaccination process off the ground, before criticizing it over a lack of transparency."
+    publishedDateTime: 2021-01-26T23:09:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-credit-trump-coronavirus-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-credit-trump-coronavirus-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-credit-trump-coronavirus-vaccine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d92eb221-e11e-4533-a19c-2b53cb2f5627/a83cb907-4acd-458d-8c0e-d5429d456691/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rubio doubles down on criticism of Trump impeachment trial: 'It's not even constitutional'"
+    excerpt: "Sen. Marco Rubio, R-Fla., doubled down Tuesday on statements he made over the weekend calling next month's impeachment trial of former President Trump \"stupid\"."
+    publishedDateTime: 2021-01-26T23:38:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qgpCiNqYrf4/rubio-trump-impeachment-trial-not-even-constitutional"
+    ampWebUrl: "https://www.foxnews.com/politics/rubio-trump-impeachment-trial-not-even-constitutional.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-trump-impeachment-trial-not-even-constitutional.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3265ed32-8048-4719-ac07-8c0ec3a09c46/77e46171-0bf6-45ae-8ea9-67f7073c8f92/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ingraham: Second Senate impeachment trial of Trump will be 'ugly, feudal farce'"
     excerpt: "Senate Majority Leader Chuck Schumer's commitment to holding a post-presidential impeachment trial of Donald Trump sets the stage for an \"ugly, feudal farce,\" Laura Ingraham said Friday."
     publishedDateTime: 2021-01-23T04:39:00Z

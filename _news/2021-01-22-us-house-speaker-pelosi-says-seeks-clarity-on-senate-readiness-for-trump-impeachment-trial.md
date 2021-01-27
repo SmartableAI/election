@@ -383,6 +383,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Live Updates: Senate rejects GOP motion to declare Trump impeachment trial unconstitutional"
+    excerpt: "Senators were sworn in as jurors on Tuesday in the second impeachment trial of former President Donald Trump for inciting an insurrection, with proceedings scheduled to get underway in two weeks. Senator Patrick Leahy,"
+    publishedDateTime: 2021-01-26T22:06:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/26/d8c6009b-1a41-4bf2-9d5d-627b79829356/thumbnail/1200x630/ed7731eecbd029ac99de9fcf4c3abfeb/screen-shot-2021-01-26-at-2-48-36-pm.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump impeached again – now what? Politics Weekly Extra"
     excerpt: "Jonathan Freedland speaks to Harvard law professor Noah Feldman about the potential next steps after Donald Trump was impeached for a second time"
     publishedDateTime: 2021-01-14T13:30:00Z
