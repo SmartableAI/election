@@ -3,8 +3,8 @@ category: news
 title: "Shyamala Gopalan: The woman who inspired Kamala Harris"
 excerpt: "Shyamala Gopalan was a pioneering woman of colour in America, a scientist and an activist. She was also Vice-President Kamala Harris's mother and her \"greatest influence\". Geeta Pandey in Delhi and Vineet Khare in Washington DC look at her life."
 publishedDateTime: 2021-01-26T01:17:00Z
-originalUrl: "https://www.bbc.com/news/world-asia-india-55786214"
-webUrl: "https://www.bbc.com/news/world-asia-india-55786214"
+originalUrl: "https://www.bbc.com/news/world-asia-india-55786214?fbclid=IwAR1SWnM5nefp2EzV7mNT8kKuifa_LmT7xW4IummYOEWSoOicP-4v5gg-SoQ"
+webUrl: "https://www.bbc.com/news/world-asia-india-55786214?fbclid=IwAR1SWnM5nefp2EzV7mNT8kKuifa_LmT7xW4IummYOEWSoOicP-4v5gg-SoQ"
 ampWebUrl: "https://www.bbc.com/news/amp/world-asia-india-55786214"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-asia-india-55786214"
 type: article
@@ -225,6 +225,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Gs7TKlr+Ua4jBnrhoSv/LYcPDLKHLd3lmKm/gcquzO+JuxPsAj8Z5Z0PbzqKqDJAZKgZvZ+8JKUiPYBZ6UWXU+HxvRF5Ht1E86rfNk8GyTj6CcZAz6fuoOp5+qxuI3jpJHbbaF9Z9f0OTwGdN43AYlDdK44cl8EMisr0+nj6MMbQsBylr1Di9cM0dqVHLm/luw8akxAL+Ok+rIL1KeoHs8QS2Rzc9V11jeSheGGAxBDzuSpA3Vh12cbUU4LWDxJjgJmFeDVRLzeLUWaEtX486Ft4ls/YALEJSf3pdIM3PopnIxGFoV9dNnR3ubKuGeyyFlYDg8IAY+N688LxTM4OreXMg00ozYw99vv7M0Mz7G018RyDBywuDx6CvoncNEO2A7To6TeF7V4hkkkT8t23jLQPfnMnlVnZXe/w/EaLZX2WeS2tKeR/kFEjPzMLIjHtepPt0O46gvPcQa0Kz5ZsmVXe+u1y4BeV2SEZ9zXmaYhLPSMbacNRgDQlzY+zfIrH4ppRNGmH7SaxX8PRViKbTw==;r9jfw+wsM0muY9TdR+U5AQ=="
+secured: "Y938uBOST6dQexU0mZVs7/eZUAkK7R9pgRb+Ikk719lylJTTc+LFkEBguq4IxkG7QkcOoUb+x0F0t8ErUE+ezC4Kb/EKaflxxY1PIpa6cgq0AgNiEYNXUSinvOrcapyr12ASzFXbCl3SLxfxgYYLHfSUCycK1mtoJ5ujA84kiIpcZ7C2Ga2KGx/sACAtUEdbbIzkVSNXOiNkPkavU3i6npL7DybNOvm9Gs7Qjzg+5SJ+HiHD0pcaNOAFs00CUo6P7TDlpdnDTo+0h8XwtTwBISr+W4Ne1vbQdj8g8Z2+fMeNDUW7FtSmnzzRSbiG3C3jqr/t6somluzNq45lwS8Q07/YnLu/ZyJSU5CLe29+5Yo=;oPr649Y3iqmI7a21ii0mAw=="
 ---
 

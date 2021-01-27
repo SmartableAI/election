@@ -2,11 +2,11 @@
 category: news
 title: "Judge bars Biden from enforcing 100-day deportation ban"
 excerpt: "A federal judge has barred the U.S. government from enforcing a 100-day deportation moratorium that is a key immigration priority of President Joe Biden"
-publishedDateTime: 2021-01-27T00:40:00Z
-originalUrl: "https://www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/4c364028-600e-11eb-a177-7765f29a9524_story.html"
-webUrl: "https://www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/4c364028-600e-11eb-a177-7765f29a9524_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/4c364028-600e-11eb-a177-7765f29a9524_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/4c364028-600e-11eb-a177-7765f29a9524_story.html?outputType=amp"
+publishedDateTime: 2021-01-27T05:36:00Z
+originalUrl: "https://www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/a9ddd7da-6037-11eb-a177-7765f29a9524_story.html"
+webUrl: "https://www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/a9ddd7da-6037-11eb-a177-7765f29a9524_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/a9ddd7da-6037-11eb-a177-7765f29a9524_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/a9ddd7da-6037-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
@@ -3310,6 +3310,6 @@ related:
         height: 800
         isCached: true
 
-secured: "gOmqOGmfV/SqzvFe8Wb8GkTXvdq/kNg/CG0si68e0bzC+67K6/s0eGFxAa3r6GMZVbdBiytcN0occLVtF4cuyilFOJAdqg5UT6XtOKRC3Koa0gOOGWQcZmCoJFYp5QVlZD7cQPwXElVQCaSvyW2eibKhpex914OJpiVsRicC8fqCDa08HABIiei8AtszH8YSrs+uliPTfxNK/ayZd/ZQ+NL5ljmwoabTYsOxrTTb6GNFs/Jc24z7sBhSysQAmrAJq/DwSPwGWpf+JdvWYhly45EYxqnbWx5SebTWzndO1JJGWAAm228mb7RECQwLIrpQHi+mqmMQTlrMin2l7jSP8huV+GUMuDCHcD0Pe3zvcrs=;SaFdxqpmiRD17/rWuDRqlg=="
+secured: "v2SJJoA1cBqnpusgGNh11JBynZ8FXgtqu4ZQpMG0xPw0xG5jI2GQUYWn9zs5+lchnBWl63bC/1b6Q2nwmumk2a92Ays8d0Go17ncD7M6PTiUpE97/MQDYH0eJDObLljNnR+/gQPpl1pZ+R5R6vm9Qy96+6H3H+b9JMzV8LdCZyNYniUboZOZHWyVVIQ5t4+mPuK/Se186+ESKYi/5qW+NK+qdsXlU0MiMUHbKqVb7LMklqJLaw1PLZQ2As/1IBuyDOnNY7PCQs9D41kC0QnMcpOe3nWim7/4xJSIU6UYXOcIz3/AU5MWofKvhqq5sTgyNOWlV1SNVd0HqaKVPPd3Stf+2TnSWei35S0AKUxs1CI=;t83PlSwhYyLy/P7c/A6ysw=="
 ---
 

@@ -1311,10 +1311,10 @@ related:
         isCached: true
   - title: "Judge bars Biden from enforcing 100-day deportation ban"
     excerpt: "A federal judge has barred the U.S. government from enforcing a 100-day deportation moratorium that is a key immigration priority of President Joe Biden"
-    publishedDateTime: 2021-01-27T00:40:00Z
-    webUrl: "https://www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/4c364028-600e-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/4c364028-600e-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/4c364028-600e-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    publishedDateTime: 2021-01-27T05:36:00Z
+    webUrl: "https://www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/a9ddd7da-6037-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/a9ddd7da-6037-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/judge-bars-biden-from-enforcing-100-day-deportation-ban/2021/01/26/a9ddd7da-6037-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

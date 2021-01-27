@@ -418,6 +418,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Sen. Patrick Leahy, who will preside over Trump impeachment trial, back home after hospital trip"
+    excerpt: "Sen. Patrick Leahy, who will preside over Trump impeachment trial, taken to hospital Leahy, who is third in the line of succession as the President Pro Tempore of the Senate, was just sworn-in to preside over the impeachment trial."
+    publishedDateTime: 2021-01-27T08:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/sen-patrick-leahy-who-will-preside-over-trump-impeachment-trial-n1255772"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 102
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2021_04/3445237/210126-patrick-leahy-ew-607p_1c9f3ed41defa696ee547c532eb1bce0.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4uaW03+7QoFOKZRbKRSA/BDoshJ1zsOh1cbHSxEYFlZuQxRUduWn9T1ri7WhwB3a6xHKFTedmGdyjWmErBeuCkdpM6JH+MBN7Q/7BAhocLU1Khqbjj0c4y1h2xsXK0kqsUQ5+i++0dCVP5j1qQ4vi19Wztr2R4mcdJteSt5K8Sat2yNDV5sKImqgpgTXvb9Y6R3O2jsLaQWYn+ZL9TZGzdcMa+mu6oInw5JoZOMryxsCK2A7nnUqDtLj0SCP/ZltvvX+xAKFLOlbd8St+iY9msJBsBXKt6VpgzEmdv6VPhLuMTXq+iD2PzKfQKdwQXcdglRexEjL2lg6XbxgTKwirvyEVErzYF/JOAncXoiUpq4=;4ldqBVlbachtybqFo2leBA=="
 ---

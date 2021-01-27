@@ -64,7 +64,7 @@ related:
   - title: "Shyamala Gopalan: The woman who inspired Kamala Harris"
     excerpt: "Shyamala Gopalan was a pioneering woman of colour in America, a scientist and an activist. She was also Vice-President Kamala Harris's mother and her \"greatest influence\". Geeta Pandey in Delhi and Vineet Khare in Washington DC look at her life."
     publishedDateTime: 2021-01-26T01:17:00Z
-    webUrl: "https://www.bbc.com/news/world-asia-india-55786214"
+    webUrl: "https://www.bbc.com/news/world-asia-india-55786214?fbclid=IwAR1SWnM5nefp2EzV7mNT8kKuifa_LmT7xW4IummYOEWSoOicP-4v5gg-SoQ"
     ampWebUrl: "https://www.bbc.com/news/amp/world-asia-india-55786214"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-asia-india-55786214"
     type: article
