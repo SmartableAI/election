@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/schumer-suggests-biden-declare-clim
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-suggests-biden-declare-climate-emergency.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "As Biden's Keystone XL order sparks job losses, climate adviser says, 'We're not asking for sacrifice'"
+    excerpt: "President Biden climate advisor Gina McCarthy said Wednesday that the administration is \"not asking for sacrifice\" with its executive order to shut down construction of the Keystone XL pipeline."
+    publishedDateTime: 2021-01-27T18:38:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SR95iPXBai4/bidens-keystone-xl-gina-mccarthy-jobs-sacrifice"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-keystone-xl-gina-mccarthy-jobs-sacrifice.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-keystone-xl-gina-mccarthy-jobs-sacrifice.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/e5c4ee13-Gina-McCarthy.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "TQhaiCsCfaFpKMIkpaASPo6qJYnw20E2rm0gn9GxBj1cmIYu8CbQ7EnsKlWjQm8KmrKvvncmc+lwa6tIQwHx8MVRSbEWyHTP29Tc6XQwnxDWXk9uG65DPuC2ALdocosAySHcSJ5t4eNfi5VvRk4Sm04Czt5n877EqOZxWozYGjF/dzs98J7UUdrqazxQh0OfrXp3mgNLdkOzxfdQ5IzCmxjFFwkUkxrIdp326fCpP+sN6/Wbi4rafgUPHLRJ4FXnq2hO+9+C7qVknJ3Tivsej0v9oAEyjeZMTVXW2bjgw3N6CCucn2NhavU2vgeo+oOvdPI9JwBMd1NtfVGZH8ksCJS7ew2szh6DfTfQvBcNmGo=;afI3PEPm/DCpMO/R0reqRA=="
 ---

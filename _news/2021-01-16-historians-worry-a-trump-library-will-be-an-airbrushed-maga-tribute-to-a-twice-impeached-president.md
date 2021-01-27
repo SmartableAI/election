@@ -547,6 +547,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Senators are working on a bipartisan resolution to censure Trump as it becomes more likely he'll be acquitted in impeachment trial"
+    excerpt: "Kaine told reporters that there \"maybe a little more interest now\" in the move after an overwhelming majority of Republicans on Tuesday hinted they likely won't convict Trump. The Virginia Democrat argued that a censure resolution could be a better use of the Senate 's time."
+    publishedDateTime: 2021-01-27T18:47:00Z
+    webUrl: "https://www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/601196896dfbe10018e0040c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "This day in history, January 16: The impeachment trial of President Donald Trump opens in the Senate"
     excerpt: "Almanacs are full of lists of global and national historic events. But “This Day in History” feature invites you to not just peruse a list, but to take a trip back in time to see how a significant event originally was reported in the Chicago Tribune."
     publishedDateTime: 2021-01-16T13:10:00Z

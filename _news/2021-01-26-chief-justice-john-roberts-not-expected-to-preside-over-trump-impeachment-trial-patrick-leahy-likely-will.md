@@ -32,37 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump impeachment manager Swalwell on trial: 'If the Senate allows witnesses, we will be ready with witnesses'"
-    excerpt: "Rep. Eric Swalwell, who will help prosecute former President Trump for \"incitement of insurrection,\" said House impeachment managers are prepared to call witnesses at the upcoming Senate trial. "
-    publishedDateTime: 2021-01-23T20:00:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/losYKWa57gE/trump-impeachment-manager-swalwell-trial-if-senate-allows-witnesses-we-will-be-ready"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-manager-swalwell-trial-if-senate-allows-witnesses-we-will-be-ready.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-manager-swalwell-trial-if-senate-allows-witnesses-we-will-be-ready.amp"
+  - title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
+    excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."
+    publishedDateTime: 2021-01-27T18:48:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/shynNZ2LIwA/trump-impeachment-lawyer-karl-butch-bowers"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/swalwell-walking-masked.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump Pressed Justice Department to Go Directly to Supreme Court to Overturn Election Results"
-    excerpt: "The former president dropped the efforts to replace the acting attorney general after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar with the matter said."
-    publishedDateTime: 2021-01-23T23:33:00Z
-    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+  - title: "Cruz: Second Trump impeachment was 'exercise in political rage' by Democrats: 'It was their id speaking'"
+    excerpt: "Congressional Democrats' push to convicted former President Donald Trump of impeachable offenses is \"driven by the partisan rage and the partisan anger that the Democrats feel,\" Sen. Ted Cruz, R-Texas, told \"Hannity\" Tuesday. \"They hate Donald J."
+    publishedDateTime: 2021-01-27T13:09:00Z
+    webUrl: "https://www.foxnews.com/politics/cruz-trump-impeachment-exercise-political-rage-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-trump-impeachment-exercise-political-rage-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-trump-impeachment-exercise-political-rage-democrats.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 139
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
     images:
-      - url: "https://images.wsj.net/im-289628/social"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ee76d37-7cc3-41e5-a110-85fc30d5e54c/b533923f-0a48-4031-b2f3-27fe4a3bb1ca/1280x720/match/image.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
 
 secured: "0JGWqNsim6X/c4aJchk+HhXCKsz98pLQsBdgFrR8D0XB8xmmUouoN9tiUxnAeye5ZJr454UcwG1QTYmpWfbUAcJRd5eZHBOoRLgnlWB57MBSHNym+3VlaMoQGU0Si2BE+tqHzCdQIexEMXp3vZmHSPXDtcyiFazCBRMG1rBhDgU1syOzWJSho3IXtc43ptwnt65nX6z86H2wYsq5gxZVTfDOoV9vh1hm0fIOgNMVFobHvkvRyY7qRLe6WrqSAsWFdk4e5wXnL3yPfmmN+e48Qc84qBLpI92P8d3n/XRvpqg3bybfY2GaB+2QQrrxQwLRiZov20SypHJz0aPD30W5ZrXY5K7U3xDGx7pkPDrqtk511KXF07exXjuln0Xoh+YHvIZOp0UTma23M0vm5Eg+DlLdNCZBoiUN5VleAvsTzBvUVOUiiLxaGcsHF2aieZrjq/Hz9j6rRBfjQ+g3IlgTGKcYFX3GZkpZHI11M1RqxXlpgukDVBcyRGP8vAvMrMsGI+fQVTt7iitf2bz3fC/T6g==;BxSEfrdtijlLf2z0c762KQ=="

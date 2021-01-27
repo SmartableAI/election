@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-tria
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-23-21.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Senators mull censuring Trump as an alternative to impeachment trial"
+    excerpt: "Senators mull censuring Trump as an alternative to impeachment trial"
+    publishedDateTime: 2021-01-27T18:01:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IyW1h4ErIxc/senators-mull-censuring-trump-impeachment-trial-alternative"
+    ampWebUrl: "https://www.foxnews.com/politics/senators-mull-censuring-trump-impeachment-trial-alternative.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senators-mull-censuring-trump-impeachment-trial-alternative.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Sen. Cory Booker expects Trump impeachment trial 'as quickly as possible'"
     excerpt: "Sen. Cory Booker, D-N.J., said that after the House voted to impeach President Trump last week, he expects the Senate to hold a trial relatively soon."
     publishedDateTime: 2021-01-17T19:14:26Z

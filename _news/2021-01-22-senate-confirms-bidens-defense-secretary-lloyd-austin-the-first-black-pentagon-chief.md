@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden’s climate policies ‘destructive’ to American economy: West Virginia AG"
+    excerpt: "On President Biden’s first day in office, he signed several executive actions into law, including an order to rejoin the Paris Climate Agreement and halt the construction of the Keystone XL Pipeline."
+    publishedDateTime: 2021-01-27T18:03:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SB_D_fFKt4U/president-bidens-climate-policies-american-economy"
+    ampWebUrl: "https://www.foxnews.com/politics/president-bidens-climate-policies-american-economy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-bidens-climate-policies-american-economy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden commerce pick promises jobless Keystone workers 'we will make sure that you have jobs'"
     excerpt: "Gina Raimondo, President Biden's nominee for secretary of commerce, promised that the Biden administration will ensure that union workers who lost jobs due to the blocking of the Keystone XL pipeline will get new jobs."
     publishedDateTime: 2021-01-26T18:54:05Z

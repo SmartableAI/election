@@ -287,6 +287,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration considers mandatory COVID-19 tests for domestic air travel, official says"
+    excerpt: "Dr. Marty Cetron, director for the Division of Global Migration and Quarantine at the Centers for Disease Control and Prevention told reporters Tuesday that the administration is \"actively looking\" into imposing the domestic travel testing requirement."
+    publishedDateTime: 2021-01-27T18:04:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g9XLB_OoYRQ/biden-administration-considers-mandatory-covid-19-tests-for-domestic-air-travel-official-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-considers-mandatory-covid-19-tests-for-domestic-air-travel-official-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-considers-mandatory-covid-19-tests-for-domestic-air-travel-official-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/340/340/Image-2020-07-09-at-7.41.42-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden's DHS pick Mayorkas advances out of committee, heads to Senate floor for confirmation vote"
     excerpt: "Alejandro Mayorkas, President Biden’s pick to lead the Department of Homeland Security (DHS), was one step closer to taking the position on Tuesday after the Senate Homeland Security Committee advanced his nomination."
     publishedDateTime: 2021-01-26T19:00:37Z
@@ -302,6 +318,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/52796b16-AP21019608674449.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden admin to send 10M COVID-19 vaccine doses to states as US hits goal of 1M vaccinations per day"
+    excerpt: "The White House Coronavirus Task Force committed Wednesday to sending 10 million doses per week to each state for the next three weeks, saying they are hitting their target of administering an average of 1 million COVID-19 vaccines per day."
+    publishedDateTime: 2021-01-27T18:26:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9eh0uSq1kS8/biden-admin-10m-covid-19-vaccine-doses-to-states"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-10m-covid-19-vaccine-doses-to-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-10m-covid-19-vaccine-doses-to-states.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden labor secretary nominee Marty Walsh's campaign paid his girlfriend's employer nearly $1 million"
     excerpt: "Boston Mayor Marty Walsh, President-elect Biden’s nominee for Labor Secretary, paid his girlfriend’s fundraising consulting firm over $1 million, campaign filings show. "

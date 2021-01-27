@@ -142,6 +142,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "A top MAGA gathering finds life complicated after Trump"
+    excerpt: "In recent years, the conservative confab has been the go-to stop for rising GOP stars, grassroots organizers and luminaries in the Trump movement. But President Donald Trump’s election loss has created hurdles around programming and guest booking."
+    publishedDateTime: 2021-01-27T18:18:00Z
+    webUrl: "https://www.politico.com/news/2021/01/27/cpac-2021-462907"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/27/cpac-2021-462907"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/27/cpac-2021-462907"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/65/fe/6d62b2ac4fc0ae9b59232ba6b303/gettyimages-1209090127-1.jpg"
+        width: 1895
+        height: 1263
+        isCached: true
 
 secured: "q20B7SzWdWmQ9meckPNuzOiZcqSysvajx4wRpNcDeZ12Yb24/ZZwrdmE73o6NsIUlszR8u09ww93fg184Z7G/rDq17vSahIXJvSgPYOP3yCroKFfXdea3y0bkOkd1eatyaeBrBXrK/mz5IhtKQ3D2juBaRqS+tzUMrhKbwMUBrK++WBfyDowZzInt5LUeIoBoYzsUyI8bHIzWaD5Qcjsq31r/Qo6nz9Bumudte+YrOQ4BdZV7B1NO3OypoRW+5SliEjQVzcQAferFvvrwviav28/tMorBycw6KM53RgZSNKEAKVAiUm43hogiJ9ha90psk1dIW3GToZ4DTMImxaxlNcR2lwjhJeu1Nt7MdqDjN0jqzO4U8gjhuXHlOyYTgVzsznSdrIlhd3zjAOqY02XVijm1FLhtfJFXyKFG+2ZRtr897k0ngDeendopSmT4Y2A4T0BzAYVpN2X3Fysuyk6+tPWlSZOepvzmbGYMdPzHthUpORAcdsgnNw5Go92WXcliRt5iVJc3/BxBGU3gVHK9Q==;F8ND7+B6Ff3nW6iMYl0irg=="
 ---

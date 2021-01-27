@@ -205,6 +205,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "After Trump exits and Biden enters, a struggle for us all to get along"
+    excerpt: "Former president Donald Trump delighted in keeping both his supporters and his detractors outraged. Can President Biden help dial it back enough to move the country forward?"
+    publishedDateTime: 2021-01-27T18:08:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/01/27/after-trump-exits-biden-enters-struggle-us-all-get-along/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/01/27/after-trump-exits-biden-enters-struggle-us-all-get-along/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/27/after-trump-exits-biden-enters-struggle-us-all-get-along/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VSAVC3OMI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1063
+        isCached: true
   - title: "Biden revokes Trump's ban on transgender Americans serving in the military"
     excerpt: "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said."
     publishedDateTime: 2021-01-25T16:52:00Z
@@ -364,6 +380,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3Y2MVS3T4I6XC6PHB3YOHEBTU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "A 'transitory way to govern': Biden reverses Trump's orders with the stroke of a pen"
+    excerpt: "In his first week in office, U.S. President Joe Biden has rolled out a wave of executive orders to fulfil a roster of campaign promises, underscoring just how easy it is to reverse some of the policies of his predecessor,"
+    publishedDateTime: 2021-01-27T18:44:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-executive-orders-analysis-idUKKBN29W2F0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29W2F0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29W2F0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549272941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1EA"
+        width: 799
+        height: 545
         isCached: true
   - title: "U.S. to reverse Trump's 'draconian' immigration policies, Biden tells Mexican president"
     excerpt: "The United States plans to reverse the Trump administration's \"draconian\" immigration approach while working on policies addressing the causes of migration, President Joe Biden told his Mexican counterpart,"
@@ -954,6 +986,22 @@ related:
     quality: 125
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1F9"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "U.S. private prison revenue under pressure from new Biden rules"
+    excerpt: "CoreCivic and the GEO Group, two of the largest U.S. private prison companies, could lose as much as a quarter of their revenue, about $1 billion a year between them, under new limits on the sector from President Joe Biden."
+    publishedDateTime: 2021-01-27T16:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-companies-biden-prisons-idUSKBN29W14Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W14Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W14Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549232072&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q0OK"
         width: 817
         height: 545
         isCached: true
@@ -1709,6 +1757,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 63
+  - title: "Analysis: A 'Transitory Way to Govern' - Biden Reverses Trump's Orders With the Stroke of a Pen"
+    excerpt: "\"So, it’s kind of a very transitory way to govern,\" he said. U.S. presidents since George Washington have enacted executive orders for policy changes big and small. Recent administrations have leaned heavily on them for meaningful,"
+    publishedDateTime: 2021-01-27T18:35:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-27/analysis-a-transitory-way-to-govern-biden-reverses-trumps-orders-with-the-stroke-of-a-pen"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-27/analysis-a-transitory-way-to-govern-biden-reverses-trumps-orders-with-the-stroke-of-a-pen?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-27/analysis-a-transitory-way-to-govern-biden-reverses-trumps-orders-with-the-stroke-of-a-pen?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 58
   - title: "Key Dates Of The Trump Presidency"
     excerpt: "Here are some of the main dates punctuating Trump's political career: January 25, 2017: Trump signs an executive order ordering construction to begin on the wall he promised to build on the southern US border with Mexico,"
     publishedDateTime: 2021-01-19T00:55:00Z
@@ -1814,6 +1873,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "lvSvR2izWbEkpL8fnkt8vnmfXR5ixTV6qaIOj7OzoW7+G4u38XYR1TIm6scytuBz7DqSp7hr9wGcN5MNvFvSUe9j19lUUWiDgymfRGN2zw81Xag2Z1HC+vV4EsQbGhTL01pRzAgXNs/ESF+OEzhZwP02vBA/ccUZpgCJBnUNGt/tHtai19QveA172JD70oslAV29wFDxZLAkDUAeOHe2cB6mkr8bD5seAvNKl+4DGe5hLvdiVJ6Oj8a9yRdkUcSVN44UnXpTSgU/CgM0LKxvR5qH4aFsZ9KE/FRYqfYfwqyUEApA7KDgvyD31yPLGuQr2Drmav/2pr/LEKpdU1KrEJ1KmCkjwtDLJJOtIFa/2+k=;2eJxopUG6gEbFmCNai4RMA=="
+secured: "V+jSHz06Z7e+YlMsWZ2MzR7BaUgXp9iDLMptDnuixRysWm0fxaq6VdLgpB1re8iEnLIEXXSuWNoaB3SoinBZygsVEPkBe4XbMHHbF6iW/4CjTFhc3MnHSBwH3wfVr4W76l3jfAezBl9s+g8J4+ioObDq8lF0hrGuSRSl1rdIdrFxUuyEK8HGRMRmCQ+cmrJsRM30182ggoZRD4uvbnSS1ffdiAl0Eo6BXBZXVpbS/MZOvHu2vOAkjYrirW1k8E5FF6s8Vbrh9wc1rPjaZUg6bTZyNVCnrRdXm4C4ewLs+jBEmQK0yNFE0y54/wawNwkUkUwcCID7YhrMbXsQKKExsBk+zVRJmYtTlzr5WjYC62m0gHWBgy6K+xWC66CM72elqTDg9JHWNTFmtccstHMmZXjR8roOUb6kPaOrEHoXiOYvsS73XoBAibz7YR+alsk3EL/KyWuEQ84ZobxEndaatTw94EoQYRfG6ldw0UBGLhChglytASZpeTAMNfHNJSAUgu7493yp6aJAHYVNI4BAKg==;YQ47d3OEmDr4KvzyrHwYAg=="
 ---
 

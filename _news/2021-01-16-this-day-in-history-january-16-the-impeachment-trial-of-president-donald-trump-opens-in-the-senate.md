@@ -547,6 +547,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Senators are working on a bipartisan resolution to censure Trump as it becomes more likely he'll be acquitted in impeachment trial"
+    excerpt: "Kaine told reporters that there \"maybe a little more interest now\" in the move after an overwhelming majority of Republicans on Tuesday hinted they likely won't convict Trump. The Virginia Democrat argued that a censure resolution could be a better use of the Senate 's time."
+    publishedDateTime: 2021-01-27T18:47:00Z
+    webUrl: "https://www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/601196896dfbe10018e0040c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Historians worry a Trump library will be an airbrushed 'MAGA' tribute to a twice-impeached president"
     excerpt: "It's not hard to image Trump's presidential library will burnish his tarnished legacy after he leaves office. Don't expect that to go smoothly."
     publishedDateTime: 2021-01-15T16:03:00Z

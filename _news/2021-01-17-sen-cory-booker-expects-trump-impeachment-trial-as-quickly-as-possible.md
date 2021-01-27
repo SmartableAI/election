@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Senators mull censuring Trump as an alternative to impeachment trial"
+    excerpt: "Senators mull censuring Trump as an alternative to impeachment trial"
+    publishedDateTime: 2021-01-27T18:01:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IyW1h4ErIxc/senators-mull-censuring-trump-impeachment-trial-alternative"
+    ampWebUrl: "https://www.foxnews.com/politics/senators-mull-censuring-trump-impeachment-trial-alternative.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senators-mull-censuring-trump-impeachment-trial-alternative.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "LIVE UPDATES: All but 5 Republican senators vote to dismiss Trump' impeachment trial"
     excerpt: "Follow for the latest updates on Trump's impeachment trial"
     publishedDateTime: 2021-01-27T09:14:56Z

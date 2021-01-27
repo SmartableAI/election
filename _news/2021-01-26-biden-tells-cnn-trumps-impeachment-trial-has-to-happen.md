@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
 type: article
 quality: 190
-heat: 750
+heat: 770
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125153359-01-raskin-jan-13-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republicans bullish Trump isn't at risk of conviction in impeachment trial"
+    excerpt: "Republican Senate leaders are increasingly confident that former President Donald Trump won't be at risk of conviction when his impeachment trial begins next month, expecting the votes to stay largely the same as Tuesday's 55-to-45 test vote over the constitutionality of the trial.\n    \n"
+    publishedDateTime: 2021-01-27T18:29:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8cCKoAZ6el8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/impeachment-trial-republican-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/impeachment-trial-republican-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126154809-mitch-mcconnell-january-26-2021-republican-luncheon-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

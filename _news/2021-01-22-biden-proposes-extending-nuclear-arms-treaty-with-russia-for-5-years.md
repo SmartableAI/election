@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-extending-nuclear-arms-treaty
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-extending-nuclear-arms-treaty-russia-5-years.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Nikki Haley: 'Good first week for Russia' after Biden shuts down Keystone pipeline"
+    excerpt: "Former U.N. Ambassador Nikki Haley argued on Wednesday that President Biden’s first week in office has proven to be \"good\" for Russia."
+    publishedDateTime: 2021-01-27T17:13:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8eFbMav3IXI/nikki-haley-biden-energy-russia-happy-keystone-pipeline"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-biden-energy-russia-happy-keystone-pipeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-biden-energy-russia-happy-keystone-pipeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

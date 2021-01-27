@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Nikki Haley: 'Good first week for Russia' after Biden shuts down Keystone pipeline"
+    excerpt: "Former U.N. Ambassador Nikki Haley argued on Wednesday that President Biden’s first week in office has proven to be \"good\" for Russia."
+    publishedDateTime: 2021-01-27T17:13:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8eFbMav3IXI/nikki-haley-biden-energy-russia-happy-keystone-pipeline"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-biden-energy-russia-happy-keystone-pipeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-biden-energy-russia-happy-keystone-pipeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "jMfhzC0fIOj00JLUqsOiurVr2QYn5e8TMAIsvhA9S4kiA6gt+qIPxCq/rKn9tfJosSpHP8cxrU6Ewuh1oAg5AXaeQtYCCKhdT9nb6ozVejPpyWwxnxG0Uk2AUUFpXqUR3cs3KjozH3n5F7093x8dQ4fLFuWrsMd6KCwzlSLuh7ylMGLaBjGJZ1ol5pQdPr+3k+TnsRCT1TTVGI83DJtMgjUCKSlpxc7fc3zhi8fG0m8Zonu+JMcKZwCL3YMkZk+KVw+eqK0/aQvppUKo2Ng0jRaCr0kyR49RUhQo8T+AqrpgmLczpTbJ7HfhnULkBbhpK27gJjPBrc/LnjlZFGzeXpeuAHuvl83oHI+re43YDkU=;/9rdyXMk0SeR4vXHlysmHw=="
 ---

@@ -123,6 +123,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris administers oath to top U.S. diplomat"
+    excerpt: "Antony Blinken, America's new top diplomat took the helm of the State Department after being sworn in ceremonially by Vice President Kamala Harris. Blinken vows to boost American leadership on the global stage."
+    publishedDateTime: 2021-01-27T18:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/27/kamala-harris-administers-oath-top-u-s-diplomat/4279732001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ffcc58af-807c-4255-a12c-2dabafcd3381_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris' Alpha Kappa Alpha sorority sisters celebrate"
     excerpt: "(AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment. AKA South Eastern Director Mitzi Dease Paige said that many members were “tickled pink and green” to see the first woman of color become vice president."
     publishedDateTime: 2021-01-23T14:23:00Z

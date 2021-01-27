@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP Exclusive: GOP to stay neutral should Trump run again"
+    excerpt: "The head of the Republican Committee is declining to encourage former President Donald Trump to run for the White House in 2024"
+    publishedDateTime: 2021-01-27T18:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-exclusive-gop-stay-neutral-trump-run-75518077"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-exclusive-gop-stay-neutral-trump-run-75518077"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-exclusive-gop-stay-neutral-trump-run-75518077"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_53d43a22043a40ef874c8eb064a0a328_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Democrats have these 7 last-minute Trump administration regulations in their sights to overturn now that they control the Senate"
     excerpt: "Senate Democrats are eyeing the Congressional Review Act as a way to obliterate federal regulations from the Trump administration."
     publishedDateTime: 2021-01-21T13:41:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/26/us/politics/24dc-justice/24dc-justice-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "A top MAGA gathering finds life complicated after Trump"
+    excerpt: "In recent years, the conservative confab has been the go-to stop for rising GOP stars, grassroots organizers and luminaries in the Trump movement. But President Donald Trump’s election loss has created hurdles around programming and guest booking."
+    publishedDateTime: 2021-01-27T18:18:00Z
+    webUrl: "https://www.politico.com/news/2021/01/27/cpac-2021-462907"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/27/cpac-2021-462907"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/27/cpac-2021-462907"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/65/fe/6d62b2ac4fc0ae9b59232ba6b303/gettyimages-1209090127-1.jpg"
+        width: 1895
+        height: 1263
         isCached: true
   - title: "Deborah Birx: ‘Parallel set of data’ on Covid-19 was delivered to Trump"
     excerpt: "I saw the president presenting graphs that I never made,” the former White House coronavirus response coordinator told CBS."

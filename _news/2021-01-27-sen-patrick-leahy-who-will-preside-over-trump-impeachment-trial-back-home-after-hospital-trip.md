@@ -110,6 +110,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Republicans bullish Trump isn't at risk of conviction in impeachment trial"
+    excerpt: "Republican Senate leaders are increasingly confident that former President Donald Trump won't be at risk of conviction when his impeachment trial begins next month, expecting the votes to stay largely the same as Tuesday's 55-to-45 test vote over the constitutionality of the trial.\n    \n"
+    publishedDateTime: 2021-01-27T18:29:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8cCKoAZ6el8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/impeachment-trial-republican-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/impeachment-trial-republican-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126154809-mitch-mcconnell-january-26-2021-republican-luncheon-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "John Roberts ducks the spotlight by skipping the second Trump impeachment trial"
     excerpt: "Chief Justice John Roberts has long been a student of history, but this is one part of history -- presiding at the second trial of Donald Trump -- he can do without.\n    \n"
     publishedDateTime: 2021-01-26T01:22:33Z

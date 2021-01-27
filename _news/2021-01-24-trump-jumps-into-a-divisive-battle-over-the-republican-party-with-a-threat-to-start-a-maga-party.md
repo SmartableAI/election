@@ -143,6 +143,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Consumer Financial Protection Bureau, muzzled under Trump, prepares to renew tough industry oversight"
+    excerpt: "After taking a largely hands-off approach in the Trump era, the consumer watchdog hatched by Elizabeth Warren is expected to resume issuing tough penalties and rules."
+    publishedDateTime: 2021-01-27T18:10:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/01/27/cfpb-rohit-chopra-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/27/cfpb-rohit-chopra-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/27/cfpb-rohit-chopra-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JUAYV5KBDJEV7EUUGUMF2FCIFQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Arizona Republicans Censure Party Leaders At Odds With Trump"
     excerpt: "State GOP members passed resolutions at a meeting on Saturday to condemn three party leaders who they said failed to support President Trump: Gov. Doug Ducey, former Sen. Jeff Flake and Cindy McCain."
     publishedDateTime: 2021-01-24T03:10:00Z

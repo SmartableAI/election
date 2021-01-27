@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kaine working on Trump censure resolution though other Democrats throw cold water on the idea"
+    excerpt: "Democrat Sen. Tim Kaine of Virginia said Wednesday he has drafted a resolution to censure former President Donald Trump for his actions ahead of the January 6 deadly riot at the US Capitol, a method some think would be a faster way to hold Trump accountable than an impeachment trial.\n    \n"
+    publishedDateTime: 2021-01-27T17:03:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qsTgE01YtkU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/trump-censure-proposal-democrats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/trump-censure-proposal-democrats/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213182016-01-tim-kaine-virginia-democratic-senator-0213-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why the Supreme Court didn't want to hear the Trump emoluments cases and what it means going forward"
     excerpt: "Early in the Trump administration, a novel dispute arose concerning whether the President had violated the Constitution by illegally profiting from his business ventures while in public office.\n    \n"
     publishedDateTime: 2021-01-25T23:40:42Z
@@ -189,6 +205,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/04/30/us/onpolitics-capitol/onpolitics-capitol-facebookJumbo-v3.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Republicans’ Reluctance to Convict Trump"
+    excerpt: "Re “Rallying Against Trial, G.O.P. Senators Signal a 2nd Trump Acquittal” (front page, Jan. 27): The vote by Republican senators against holding an impeachment trial doesn’t necessarily mean they plan to vote to acquit Donald Trump."
+    publishedDateTime: 2021-01-27T18:46:00Z
+    webUrl: "https://www.nytimes.com/2021/01/27/opinion/letters/trump-impeachment-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/27/opinion/letters/trump-impeachment-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/27/opinion/letters/trump-impeachment-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/27/multimedia/27new-washington-briefing-impeachmentmanagers-2/merlin_182829732_cc922b80-5fbf-44bb-af30-071d5ee08849-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
