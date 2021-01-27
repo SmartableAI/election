@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-27-dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.md",
+      "title": "Dr. Scott Atlas fires back at Birx over 'bizarre' claim he gave Trump 'parallel data streams' on COVID",
+      "excerpt": "Former White House coronavirus adviser Dr. Scott Atlas joined \"The Ingraham Angle\" Tuesday to respond to former White House coronavirus response coordinator Dr. Deborah Birx's claim that he provided former President Trump with \"parallel data streams\" about the pandemic. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfIrozKUsas/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfIrozKUsas/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.amp",
+      "publishedDateTime": "2021-01-26T21:29:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network.md",
       "title": "Trump economic aide Larry Kudlow to host show on Fox Business Network",
       "excerpt": "Fox Corp's news division has hired Larry Kudlow, a former top economic adviser to ex-President Donald Trump, as a contributor to Fox News and host of a new weekday show on the Fox Business Network, the company said on Tuesday.",
@@ -58,8 +114,8 @@
       "title": "White House says Biden believes Nord Stream 2 pipeline is 'bad deal' for Europe",
       "excerpt": "President Joe Biden believes the Nord Stream 2 natural gas pipeline is a \"bad deal for Europe\" and his administration will be reviewing restrictions on the project included in a bill that passed during the Trump administration,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-nord-stream-idUSKBN29V29X",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-nord-stream-idUSKBN29V29X",
+      "webUrl": "https://www.reuters.com/article/usa-biden-nord-stream/update-1-white-house-says-biden-believes-nord-stream-2-pipeline-is-bad-deal-for-europe-idUSL1N2K12HE",
+      "originalUrl": "https://www.reuters.com/article/usa-biden-nord-stream/update-1-white-house-says-biden-believes-nord-stream-2-pipeline-is-bad-deal-for-europe-idUSL1N2K12HE",
       "featuredContent": null,
       "highlight": null,
       "heat": 121,
@@ -1291,62 +1347,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html",
       "publishedDateTime": "2021-01-26T04:38:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-biden-aims-to-tackle-another-american-crisis-race.md",
-      "title": "Biden aims to tackle another American crisis: Race",
-      "excerpt": "If there was any doubt about the urgency of President Joe Biden's mission to tackle racial inequality, it was erased in the searing moment an insurrectionist rioter brazenly paraded the Confederate flag through the US Capitol.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MDazENa4X-0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MDazENa4X-0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122211659-05-biden-economy-0122-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html",
-      "publishedDateTime": "2021-01-26T04:35:47-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

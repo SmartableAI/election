@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indian
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 4470
+heat: 4490
 published: true
 
 provider:
@@ -2431,6 +2431,22 @@ related:
       - url: "https://i.insider.com/600859786d4c620018e40f72?width=1200&format=jpeg"
         width: 980
         height: 490
+        isCached: true
+  - title: "Meet Jen Psaki, the face of Biden's administration who's promising to bring 'truth' back to White House briefings"
+    excerpt: "\"We have a common goal, which is sharing accurate information with the American people,\" Psaki told reporters on Wednesday:"
+    publishedDateTime: 2021-01-27T06:31:00Z
+    webUrl: "https://www.businessinsider.com/biden-press-secretary-jen-psaki-promises-truth-in-briefings-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-press-secretary-jen-psaki-promises-truth-in-briefings-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-press-secretary-jen-psaki-promises-truth-in-briefings-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/6009b77cc94799001992c8f3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Portland police arrest 8 after rioters damage Democratic Party office, ICE facility following Biden's inauguration"
     excerpt: "At least eight people were arrested in Portland on Wednesday night after rioters damaged both federal and private property, police said."

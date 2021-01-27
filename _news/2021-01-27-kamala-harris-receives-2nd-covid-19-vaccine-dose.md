@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Kamala Harris receives 2nd COVID-19 vaccine dose"
-excerpt: "Vice President Kamala Harris has received the second dose of her COVID-19 vaccine. Harris was given the shot Tuesday at the National Institutes of Health by nurse Judy Lai Yee"
-publishedDateTime: 2021-01-26T23:41:00Z
-originalUrl: "https://www.stltoday.com/news/national/kamala-harris-receives-2nd-covid-19-vaccine-dose/video_5675b445-1599-5485-853e-3220d7b0ecb3.html"
-webUrl: "https://www.stltoday.com/news/national/kamala-harris-receives-2nd-covid-19-vaccine-dose/video_5675b445-1599-5485-853e-3220d7b0ecb3.html"
-ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-receives-2nd-covid-19-vaccine-dose/video_5675b445-1599-5485-853e-3220d7b0ecb3.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-receives-2nd-covid-19-vaccine-dose/video_5675b445-1599-5485-853e-3220d7b0ecb3.amp.html"
+excerpt: "Vice President Kamala Harris has received the second dose of her COVID-19 vaccine and urged everyone to get vaccinated. (Jan. 26)"
+publishedDateTime: 2021-01-26T23:18:00Z
+originalUrl: "https://www.desmoinesregister.com/videos/news/nation/2021/01/26/kamala-harris-receives-2nd-covid-19-vaccine-dose/4268493001/"
+webUrl: "https://www.desmoinesregister.com/videos/news/nation/2021/01/26/kamala-harris-receives-2nd-covid-19-vaccine-dose/4268493001/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/60898c69-3f9f-4601-a461-83b90b6c95c3_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Kamala Harris and husband Doug Emhoff receive COVID-19 vaccine"
@@ -306,6 +310,6 @@ related:
         height: 630
         isCached: true
 
-secured: "T3SpN1MA89BWSCjNTobRF7GXRTAO0mrVMTZRkjabS3GQmhkEw28iYhxyiryXeaYWoJNDL+4wQ676KiqndkA2ITpvhC/7En+CyfcHNKYd2ypAy55x0yjyrs1ouEpCLKC6m6EwZodDO65+Kd8VYiAT6+6ZDVOWnGC3g8oBW1JeJhH6nhniWR9VII+Fiomycc+DUy9WVb9o81HN9Z30/doIiNM1454M8w8U1NdTxM9hVtLyg2eMwfxQb7Qb35TEI9OomxIIvPevd7PW6FdSk6gB6MSjqLYJGEreps899S/lN+RFvWiRJ7+sGjkfpdCZErdQscB27nuv7AJazgk/BIDh+SCBsspT9T1/stAlz1h07h0=;uwQrsLxsru3tGHX74VdmYA=="
+secured: "1EQZ5XVQrP9gaaH5WMa/UtiaU2/ONFH3l0ywU3VWtpm2VJB5MF1XGPjfSEkJqjWiPpzb8gIz8lE+euqoGjENwFPk81+7sW6zWUnzoeNxW9EIrAkpldVM2K9ML6p2Piks4dIIc/3mc/nFkwkSu3c6dQ3pZ3fHXvElXGliqeSsjL3my5pZxJBvUnhW+YesskcK2Ru/UYZeJ1OerVcEXMzVYYugz8uEDZVoFb69IkrM9LrQdiufFR1I0901s4hX7HeykH07c3DJZAKUnL60hU0bgYn4MSXG++ZY5fPy2EA38QHWezXVc4hUHQOl9nff+mOAOmGfxXNVlQ8QhYqMxA/TH9SmcpnY/d9UI0KkeoFDMKk=;tz1C4Fh28rQMizU7+q3jNg=="
 ---
 

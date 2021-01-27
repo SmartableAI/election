@@ -282,16 +282,19 @@ related:
       domain: omaha.com
     quality: 55
   - title: "Kamala Harris receives 2nd COVID-19 vaccine dose"
-    excerpt: "Vice President Kamala Harris has received the second dose of her COVID-19 vaccine. Harris was given the shot Tuesday at the National Institutes of Health by nurse Judy Lai Yee"
-    publishedDateTime: 2021-01-26T23:41:00Z
-    webUrl: "https://www.stltoday.com/news/national/kamala-harris-receives-2nd-covid-19-vaccine-dose/video_5675b445-1599-5485-853e-3220d7b0ecb3.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-receives-2nd-covid-19-vaccine-dose/video_5675b445-1599-5485-853e-3220d7b0ecb3.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-receives-2nd-covid-19-vaccine-dose/video_5675b445-1599-5485-853e-3220d7b0ecb3.amp.html"
+    excerpt: "Vice President Kamala Harris has received the second dose of her COVID-19 vaccine and urged everyone to get vaccinated. (Jan. 26)"
+    publishedDateTime: 2021-01-26T23:18:00Z
+    webUrl: "https://www.desmoinesregister.com/videos/news/nation/2021/01/26/kamala-harris-receives-2nd-covid-19-vaccine-dose/4268493001/"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/60898c69-3f9f-4601-a461-83b90b6c95c3_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris rallies for Democrats in Savannah 2 days before Senate runoff"
     excerpt: "Vice President-elect Kamala Harris on Sunday urged voters on Georgia’s coast to get to the polls and elect Democrats Jon Ossoff and Raphael Warnock, kicking off a furious final stretch of campaigning ahead of Tuesday’s runoffs for control of the U."
     publishedDateTime: 2021-01-04T01:11:00Z

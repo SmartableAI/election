@@ -2,6 +2,58 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-12-02-the-latest-biden-gives-dire-virus-warning-for-next-2-months.md",
+      "title": "The Latest: Biden gives dire virus warning for next 2 months",
+      "excerpt": "President-elect Joe Biden has issued a dire warning about the spread of the coronavirus over the next two months, predicting as many as 250,000 deaths",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-02T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-trump-is-leaving-washington-as-he-governed-chaotically.md",
       "title": "Trump is leaving Washington as he governed — chaotically",
       "excerpt": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
@@ -1316,62 +1368,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-trump-campaign-to-file-wisconsin-lawsuit-claiming-abuse-of-absentee-voting-affected-220k-ballots.md",
-      "title": "Trump campaign to file Wisconsin lawsuit, claiming 'abuse' of absentee voting affected 220K ballots",
-      "excerpt": "EXCLUSIVE: The Trump campaign is filing a lawsuit to the Wisconsin Supreme Court Tuesday -- alleging abuse around the process of absentee voting in the state, which they say affected approximately 220,000 ballots.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mvQcGxKK5_I/trump-campaign-wisconsin-lawsuit-absentee-voting",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mvQcGxKK5_I/trump-campaign-wisconsin-lawsuit-absentee-voting",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-wisconsin-lawsuit-absentee-voting.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-wisconsin-lawsuit-absentee-voting.amp",
-      "publishedDateTime": "2020-12-01T03:54:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

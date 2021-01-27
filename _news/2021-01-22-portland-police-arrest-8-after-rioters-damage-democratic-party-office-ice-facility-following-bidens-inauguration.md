@@ -2447,6 +2447,22 @@ related:
         width: 980
         height: 490
         isCached: true
+  - title: "Meet Jen Psaki, the face of Biden's administration who's promising to bring 'truth' back to White House briefings"
+    excerpt: "\"We have a common goal, which is sharing accurate information with the American people,\" Psaki told reporters on Wednesday:"
+    publishedDateTime: 2021-01-27T06:31:00Z
+    webUrl: "https://www.businessinsider.com/biden-press-secretary-jen-psaki-promises-truth-in-briefings-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-press-secretary-jen-psaki-promises-truth-in-briefings-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-press-secretary-jen-psaki-promises-truth-in-briefings-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/6009b77cc94799001992c8f3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden launches new Twitter account to build following before taking command of White House @POTUS on Inauguration Day"
     excerpt: "When Joe Biden is sworn in on Wednesday, he will take command of the @POTUS and @WhiteHouse Twitter accounts in another official transfer of power."
     publishedDateTime: 2021-01-16T23:59:00Z

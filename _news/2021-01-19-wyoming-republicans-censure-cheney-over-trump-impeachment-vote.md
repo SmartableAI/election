@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-impeachment-republicans-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
 type: article
 quality: 175
-heat: 615
+heat: 635
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Rand Paul calls Trump impeachment trial ‘dead on arrival’ after 45 GOP senators vote against it"
+    excerpt: "U.S. Sen. Rand Paul declared former President Trump’s Senate impeachment trial \"dead on arrival\" on Tuesday after 45 Senate Republicans voted against holding the proceeding, viewing it as unconstitutional."
+    publishedDateTime: 2021-01-27T04:56:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/au1hhFvaNYU/rand-paul-calls-trump-impeachment-trial-dead-on-arrival-after-45-gop-senators-vote-against-it"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-calls-trump-impeachment-trial-dead-on-arrival-after-45-gop-senators-vote-against-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-calls-trump-impeachment-trial-dead-on-arrival-after-45-gop-senators-vote-against-it.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Cheney on calls to step down after impeachment vote: I'm 'confident' GOP will be united against Biden"
     excerpt: "Rep. Liz Cheney, R-Wyo., was less interested Thursday in discussing backlash from the party over her vote to impeach former President Donald Trump last week than how congressional Republicans plan to check President Biden's agenda."

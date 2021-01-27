@@ -255,6 +255,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Rand Paul calls Trump impeachment trial ‘dead on arrival’ after 45 GOP senators vote against it"
+    excerpt: "U.S. Sen. Rand Paul declared former President Trump’s Senate impeachment trial \"dead on arrival\" on Tuesday after 45 Senate Republicans voted against holding the proceeding, viewing it as unconstitutional."
+    publishedDateTime: 2021-01-27T04:56:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/au1hhFvaNYU/rand-paul-calls-trump-impeachment-trial-dead-on-arrival-after-45-gop-senators-vote-against-it"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-calls-trump-impeachment-trial-dead-on-arrival-after-45-gop-senators-vote-against-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-calls-trump-impeachment-trial-dead-on-arrival-after-45-gop-senators-vote-against-it.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Jonathan Turley, professor who called Trump impeachment trial unconstitutional, to attend Senate GOP luncheon"
     excerpt: "George Washington University Professor Jonathan Turley will meet with Senate Republicans on Tuesday at their in-person lunch to discuss the constitutionality of the impending impeachment trial for former President Donald Trump."
     publishedDateTime: 2021-01-26T15:34:07Z

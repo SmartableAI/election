@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 121
     images:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_03/3443223/210119-analysis-inauguration-donald-trump-ew-202p_0238d95931f19103802ae05b7106c67e.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Most Senate Republicans declare Trump's trial unconstitutional. Here's what that means for conviction."
+    excerpt: "Forty-five GOP senators voted Tuesday to dismiss the trial as unconstitutional, given Trump's status as the former president."
+    publishedDateTime: 2021-01-27T06:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/most-republicans-declare-trump-s-trial-unconstitutional-here-s-what-n1255704"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255704"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255704"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 119
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_04/3445141/210126-mitch-mcconnell-jm-1446_94eb9c57c0a05509588ca46a2a018f32.jpg"
         width: 2500
         height: 1667
         isCached: true
