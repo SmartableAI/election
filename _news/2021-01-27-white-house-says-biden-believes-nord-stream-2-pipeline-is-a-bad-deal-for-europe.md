@@ -2,13 +2,11 @@
 category: news
 title: "White House says Biden believes Nord Stream 2 pipeline is a bad deal for Europe"
 excerpt: "White House press secretary Jen Psaki said on Tuesday that President Joe Biden continues to believe the Nord Stream 2 natural gas pipeline is a bad deal for Europe."
-publishedDateTime: 2021-01-26T18:57:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-nord-stream/white-house-says-biden-believes-nord-stream-2-pipeline-is-a-bad-deal-for-europe-idUSKBN29V29X"
-webUrl: "https://www.reuters.com/article/us-usa-biden-nord-stream/white-house-says-biden-believes-nord-stream-2-pipeline-is-a-bad-deal-for-europe-idUSKBN29V29X"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V29X"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V29X"
+publishedDateTime: 2021-01-26T23:39:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-nord-stream/white-house-says-biden-believes-nord-stream-2-pipeline-is-a-bad-deal-for-europe-idUSW1N2IO07R"
+webUrl: "https://www.reuters.com/article/usa-biden-nord-stream/white-house-says-biden-believes-nord-stream-2-pipeline-is-a-bad-deal-for-europe-idUSW1N2IO07R"
 type: article
-quality: 121
+quality: 101
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549153912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1G9"
-    width: 806
-    height: 545
+  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -64,6 +62,6 @@ related:
         height: 630
         isCached: true
 
-secured: "N8FpIxtN5mvbJiAvXikeC0pi8rLFVz2BfWqL3nT1yBCSZjZrak0Ofz4hOKDYQPYMD5hOTzEutARi8y5O7mqJubLJlkJ/+6QgqQokdgJRhXXMo/WSqB33COMJMpqzDX9K8IVS+kFDlOKQuPQ4TltE5BAWSFlC4DmsNmfXQLy/kL0DPc0IwY83DtsnlP4quv46njIHDVIXTLs5QHhWEBY94vGkEOUCvr3aE9NGdDfSSGYMFH1FglqWrCuj6Mh36LbNttBDB5HOFsCt6Dhg3YVhlK+v39Z98t/9tWBm/WGg7xVi/WzdPcFYnuk4/i6pLXXhVSBUeGtpkPq1ADrgRmTdYHBKw4Vf03Oe6C1AImPqpdk=;h7npJPHm7Ru8/7LYstvNHg=="
+secured: "aZtoZwHRM1E5FyzyfhywVf9C+Bavg8w19YPFIGKgYOPiXZoDDuqYo0BZQy2Q1CxXyDDx6iEPdEmsrrsG3l24AEmGtVLXIuC4Y3MN22zMkG0o2iLv+1k8GqA0Ba6Bg7qQ5nrswPWMo20LYsAWuRGsp6hiDN1DtGHb3IRFNS42ij5qfnf0iVF/oxkQ2ZxB6cQOFplOaAzTpDt9aIdgTJRnd/jyg3eVw3KBpayzCoeZ2do+No868OrzAhM8ypt2MhWLpyQZ6Gkx17psMwysHzJPr8Nvyaux2SQqJ/K+LHoapcdnw1hYiGEGFoF2A6CZrR9iyqnZTFvitqW/Jgzg1ubBiniidK6tj/0EUSbF5EgI3n8=;ikjkMkf3/aJR8GsPJxRqdQ=="
 ---
 

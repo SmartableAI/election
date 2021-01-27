@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Likely Biden deputy labor secretary pick could face Senate scrutiny over California unemployment fraud"
+    excerpt: "California Labor Secretary Julie Su, President Biden’s reported pick to serve as deputy secretary in the US Department of Labor, could face tough scrutiny in the Senate."
+    publishedDateTime: 2021-01-27T02:58:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8vP7B0ygntk/reported-biden-deputy-labor-secretary-pick-senate-scrutiny-california-unemployment-fraud"
+    ampWebUrl: "https://www.foxnews.com/politics/reported-biden-deputy-labor-secretary-pick-senate-scrutiny-california-unemployment-fraud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reported-biden-deputy-labor-secretary-pick-senate-scrutiny-california-unemployment-fraud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ca9378b-1b69-418e-961d-8dfadaa4d8db/e210e89d-35ba-4cf6-bde4-b826ff726bba/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "uc1y7XBpTUf7wdqvDkB+ItHP+EXmASTtoXRlVQXiJ3a+fSTH6pU5MKo+h/e0Fj1qtZ1C8bT+Ineqy81dFnT4jhvM0zAQ4OGOGFqerKmdYwyI9+mKOUVBdkJp64jalgA2dA03G22ZRyBly9ponYxxYrv/cTBNiPFq4hzsfxGV2v+A9D89WmrRetpASupOS5245L+6meUNQluggQEPUjVURwjKfWaNTz6BZCy8rUcyJWD75Wdx52ke8nxJuPnxk2y5b9/G/tXcuwURHD05K4g3NLf3N5qHgSqd8n97jzXubpbavjujmRMgiOrFsGlGbSgfF9dqbp31w9TM+p0VlC/2bg38f7sKG6Df8T2S5shJUdQ=;pWCXgLB4EGKEifGILB5RZg=="
 ---

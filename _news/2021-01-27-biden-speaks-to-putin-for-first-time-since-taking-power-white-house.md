@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "White House says Biden believes Nord Stream 2 pipeline is a bad deal for Europe"
-    excerpt: "White House press secretary Jen Psaki said on Tuesday that President Joe Biden continues to believe the Nord Stream 2 natural gas pipeline is a bad deal for Europe."
-    publishedDateTime: 2021-01-26T18:57:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-nord-stream/white-house-says-biden-believes-nord-stream-2-pipeline-is-a-bad-deal-for-europe-idUSKBN29V29X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V29X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V29X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549153912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1G9"
-        width: 806
-        height: 545
-        isCached: true
   - title: "Biden presses Putin on Navalny arrest and pushes arms treaty in first phone call"
     excerpt: "The White House said the president raised concerns about Navalny's arrest and Russia's treatment of protesters."
     publishedDateTime: 2021-01-26T19:08:00Z
@@ -60,6 +44,20 @@ related:
     quality: 120
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/7540ab50-d556-4559-96ef-35e99a45306a/thumbnail/1200x630/ff5ee79b684be54c9e9014643354f4a0/ap20314484333168.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "White House says Biden believes Nord Stream 2 pipeline is a bad deal for Europe"
+    excerpt: "White House press secretary Jen Psaki said on Tuesday that President Joe Biden continues to believe the Nord Stream 2 natural gas pipeline is a bad deal for Europe."
+    publishedDateTime: 2021-01-26T23:39:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-nord-stream/white-house-says-biden-believes-nord-stream-2-pipeline-is-a-bad-deal-for-europe-idUSW1N2IO07R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
         height: 630
         isCached: true

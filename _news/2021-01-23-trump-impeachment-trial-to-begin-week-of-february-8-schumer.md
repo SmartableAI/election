@@ -471,6 +471,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "House sends Senate second Trump impeachment for 'gravely' endangering security of US"
+    excerpt: "House Democrats have sent the impeachment charge of “incitement of insurrection” to the Senate, kicking off the trial process."
+    publishedDateTime: 2021-01-27T04:24:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/01/26/house-sends-trump-impeachment-senate-second-time/4254384001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/b5bb04cf-de38-4aa8-aa89-4e4241e23d11-VPC_IMPEACHMENT_HANDOFF_DESK.00_00_39_27.Still001.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "To fight impeachment, Trump turns to ‘Butch’ Bowers, a South Carolina lawyer at a small firm who has defended state Republicans"
     excerpt: "Bowers is taking on his biggest case yet: defending former president Donald Trump in his second impeachment trial, this time against a charge that he incited a mob to attack the U.S. Capitol. The longtime GOP attorney is little known outside of South Carolina and has no powerhouse law firm behind him."
     publishedDateTime: 2021-01-23T00:57:00Z

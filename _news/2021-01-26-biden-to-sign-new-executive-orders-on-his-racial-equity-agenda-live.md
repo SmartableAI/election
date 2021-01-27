@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donal
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548635762&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1OZ"
         width: 800
         height: 545
+        isCached: true
+  - title: "Biden orders Department of Justice to phase out contracts with private prisons"
+    excerpt: "President Joe Biden on Tuesday ordered the Department of Justice to end its reliance on private prisons and acknowledge the central role government has played in implementing discriminatory housing policies."
+    publishedDateTime: 2021-01-27T03:39:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-private-prisons-justice-department/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-private-prisons-justice-department/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-private-prisons-justice-department/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/fb6f912e-13a7-4545-af8e-5c4d110ebf4c/thumbnail/1200x630/6af22f0125269db1ce7ba18ee72dead2/gettyimages-1230788926.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden order seeks stronger workplace safety rules, signaling a more worker friendly approach"
     excerpt: "The Executive Order could lead to an emergency standard for businesses — a set of a regulations they would have to comply with, like mask-wearing, that advocates say is necessary to combat the pandemic."

@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nearly all GOP senators vote against impeachment trial for Trump, signaling likely acquittal"
+    excerpt: "Sen. Rand Paul (R-Ky.) offered a procedural objection questioning the constitutionality of impeaching a former president, and it won the backing of all but 5 Republicans."
+    publishedDateTime: 2021-01-27T04:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/gop-senators-to-question-basis-for-trump-impeachment-signaling-likely-acquittal/2021/01/26/cd7397dc-6002-11eb-9061-07abcc1f9229_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/gop-senators-to-question-basis-for-trump-impeachment-signaling-likely-acquittal/2021/01/26/cd7397dc-6002-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-senators-to-question-basis-for-trump-impeachment-signaling-likely-acquittal/2021/01/26/cd7397dc-6002-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IMAXTRTAAYI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump laid out a vision for America in his inaugural address 4 years ago. He has come nowhere near realizing it."
     excerpt: "President Trump will leave office with more Americans out of work than when he started, and with the US's international reputation damaged."
     publishedDateTime: 2021-01-19T22:44:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Trump economic aide Larry Kudlow to host show on Fox Business Network"
 excerpt: "Fox Corp's news division has hired Larry Kudlow, a former top economic adviser to ex-President Donald Trump, as a contributor to Fox News and host of a new weekday show on the Fox Business Network, the company said on Tuesday."
-publishedDateTime: 2021-01-27T02:35:00Z
-originalUrl: "https://www.reuters.com/article/fox-news-kudlow/trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network-idUSL1N2K12PY"
-webUrl: "https://www.reuters.com/article/fox-news-kudlow/trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network-idUSL1N2K12PY"
+publishedDateTime: 2021-01-27T04:16:00Z
+originalUrl: "https://www.reuters.com/article/us-fox-news-kudlow/trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network-idUSKBN29V2K3"
+webUrl: "https://www.reuters.com/article/us-fox-news-kudlow/trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network-idUSKBN29V2K3"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V2K3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2K3"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "kykICFH5IUnMsJ7d6mxHMYyrhnQqvxYWjdOD3V6LxSQCrfNjDoSELse3qltkROvbhaKxJ5SZ6ELOqCHsprCzxZopfz9K1cbxOfEJ4z59Nlt3Z4Y4gmBB+39hux5E3TORKxtNARMNjEqFu1LEjvX4Ebtm4Yf3M+k/zmCaKjFr8eAWIqU3PVV0O8qdRE1xTBFr5PCsuG8Kgg1941k2MNmTitTsjgo9pRA22hEqJBorc0im3/+Pai1Yf99pjtFp9nW0TIaHCAylbGjDz8ZbT8SfQjCwvkc4SRcFGjwcTxAFXl4Dzl0MesOI/wQB7j1RwYHlE61QT27s7yG8t/pqvK3l+4f7FhkDl0gsjfgGNDIu0HA=;cndGAP/TQrDhyyZdDlmqrw=="
+secured: "K5duREn8z0m4gAgNFiI9pj0+g2Jkfy1h7Z6+/k2rX+cqKZ0WGRvS2E1BgIDH7EQyI66qFn5B2ETS2wSj6yRXtf74Yne+oBADs2tdAEfQKm1XTNtqNkC/7Kk2GtjCpFAtsxR8xLyacqr+DYhsUaSR9pZ4NCt0dPge+3oV0ED6Q7+adOagHcp4YwzPiyadL7S/4CMkSfMOshXvVFS84qIimHwPC1wotqSQJbknnZfdiDyRAspDkXdoCXQDSAP3YYld6PpSybVZC30DGcHZjejUMHIdy5JaYxVdV453nfutcQovWH0mUmwyDs/V/GArB81lvyMByrijJA18B1iJFgkuF+4sCV9PqLDxcL/p+KAHEr8=;C7ZLZTD5YwlWhq1ZSWgSOQ=="
 ---
 

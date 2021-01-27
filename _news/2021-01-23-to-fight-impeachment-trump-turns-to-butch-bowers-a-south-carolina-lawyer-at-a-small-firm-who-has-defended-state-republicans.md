@@ -473,6 +473,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "House sends Senate second Trump impeachment for 'gravely' endangering security of US"
+    excerpt: "House Democrats have sent the impeachment charge of “incitement of insurrection” to the Senate, kicking off the trial process."
+    publishedDateTime: 2021-01-27T04:24:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/01/26/house-sends-trump-impeachment-senate-second-time/4254384001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/b5bb04cf-de38-4aa8-aa89-4e4241e23d11-VPC_IMPEACHMENT_HANDOFF_DESK.00_00_39_27.Still001.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Historians worry a Trump library will be an airbrushed 'MAGA' tribute to a twice-impeached president"
     excerpt: "It's not hard to image Trump's presidential library will burnish his tarnished legacy after he leaves office. Don't expect that to go smoothly."
     publishedDateTime: 2021-01-15T16:03:00Z

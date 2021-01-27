@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Cruz: Second Trump impeachment was 'exercise in political rage' by Democrats: 'It was their id speaking'"
+    excerpt: "Congressional Democrats' push to convicted former President Donald Trump of impeachable offenses is \"driven by the partisan rage and the partisan anger that the Democrats feel,\" Sen. Ted Cruz, R-Texas, told \"Hannity\" Tuesday."
+    publishedDateTime: 2021-01-27T04:46:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VJ0FgFNTRMs/cruz-trump-impeachment-exercise-political-rage-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-trump-impeachment-exercise-political-rage-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-trump-impeachment-exercise-political-rage-democrats.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ee76d37-7cc3-41e5-a110-85fc30d5e54c/b533923f-0a48-4031-b2f3-27fe4a3bb1ca/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hannity blasts McConnell, 'spineless Republicans' joining Democrats' repudiation of Trump"
     excerpt: "Senate Majority Leader Mitch McConnell's days in leadership will be numbered if he allows Minority Leader Chuck Schumer, D-N.Y. a free hand to litigate President Trump's impeachment, Sean Hannity said Tuesday."
     publishedDateTime: 2021-01-20T04:09:00Z

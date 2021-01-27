@@ -288,6 +288,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden issues executive orders promoting racial equity"
+    excerpt: "President Joe Biden on Tuesday rolled out an additional slate of executive actions to address racial equity, a move to fulfill a key campaign promise that he made during the height of this past summer’s protests."
+    publishedDateTime: 2021-01-27T03:10:00Z
+    webUrl: "https://www.politico.com/news/2021/01/26/biden-executive-orders-racial-equity-462663"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/8b048da1-b74a-43f9-bd97-bcfc8e91d8df/38de0abc-3202-405d-88e4-bd652801fde1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "rIbl8uyFkqRmIv1P2GgDev3hOzEKeAWpAC4sr9+yXhsX9tBfOwtTQZIND6GBXSzvP//AhylcjcUMfXaLQ7mgqmxJ3qOLhA3vCS1BDbZo9szu5ZGF4UDJ4o8jZh7Y8PC32/ipfk6uNADyCLvOeHfY4J/DajTGmbZp6mkv9CTlqsnn0lrABEfRG42kF8ra8kMX6SrTPNvuzIh6BCg1y1GQxmrO+GCMqh1SM8RkRtTiEYurdZOtJ7dOup5L2RJ/u45CZOd+nFwcRiEo8Y/tHJfDm0ZrUqipcZFhLNckgOsLcE3TY2KE9N0Uq0x5i5lAB4Nkk2ptoGRtp16b581bIyp8BRQCAqkmv6PM8unAvRmIMwM=;Ty3UzHM+Dw04Mb3Twk0ClA=="
 ---
