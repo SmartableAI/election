@@ -1337,22 +1337,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
-    excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
-    publishedDateTime: 2021-01-20T23:07:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
-    images:
-      - url: "https://www.chicagotribune.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
-        width: 1200
-        height: 896
-        isCached: true
   - title: "Watch Live: Inauguration Day events after Joe Biden sworn in as president"
     excerpt: "President Joe Biden and Vice President Kamala Harris were sworn into office Wednesday. Mr. Biden took the reins of power as 46th president of the United States at a perilous time in American history,"
     publishedDateTime: 2021-01-20T18:14:00Z
@@ -2958,6 +2942,22 @@ related:
       - url: "https://cdnph.upi.com/ph/st/th/2501611141231/2021/upi/d1227f998138c3593982f7ab4dc4540c/v1.5/Watch-live-Joe-Biden-is-sworn-in-as-46th-president-of-the-United-States.jpg?lg=2"
         width: 800
         height: 534
+        isCached: true
+  - title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
+    excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
+    publishedDateTime: 2021-01-21T02:04:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 74
+    images:
+      - url: "https://www.baltimoresun.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
+        width: 1200
+        height: 896
         isCached: true
   - title: "How Mike Pence's hometown views his legacy as vice presidency comes to an end"
     excerpt: "In a music store in this small city 45 minutes southeast of Indianapolis, a picture of Vice President Mike Pence playing guitar hangs by the door. Nearby"

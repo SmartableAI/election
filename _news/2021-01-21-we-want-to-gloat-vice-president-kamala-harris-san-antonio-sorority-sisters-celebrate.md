@@ -214,13 +214,13 @@ related:
   - title: "Kamala Harris administers oath to top US diplomat"
     excerpt: "America’s new top diplomat took the helm of the State Department on Wednesday with a vow to rebuild the ranks of the foreign service and rely on its expertise as"
     publishedDateTime: 2021-01-27T18:56:00Z
-    webUrl: "https://www.stltoday.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_6c142af6-9a3b-5b9a-b836-a960257c49a9.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_6c142af6-9a3b-5b9a-b836-a960257c49a9.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_6c142af6-9a3b-5b9a-b836-a960257c49a9.amp.html"
+    webUrl: "https://tulsaworld.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_e3ada776-f487-5495-bb9a-4ffe39ea2dcc.html"
+    ampWebUrl: "https://tulsaworld.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_e3ada776-f487-5495-bb9a-4ffe39ea2dcc.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_e3ada776-f487-5495-bb9a-4ffe39ea2dcc.amp.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 55
   - title: "Kamala Harris' Alpha Kappa Alpha Sorority Sisters Celebrate"
     excerpt: "JACKSON, Miss. (AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment."

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden signed two executive orders and a memorandum Wednesday. Here's what they do"
+    excerpt: "President Joe Biden on Wednesday continued his executive action blitz with a package of orders aimed at addressing the climate crisis along with a new memorandum on scientific integrity.\n    \n"
+    publishedDateTime: 2021-01-27T21:42:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XHgX_bpCDpw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/biden-executive-orders-today/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/biden-executive-orders-today/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127134225-01-biden-climate-remarks-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to sign orders that include moves toward $15 minimum wage for federal workers and contractors"
     excerpt: "President Joe Biden is expected to sign two more executive orders on Friday -- one focused on raising the minimum wage to $15 for the federal workforce and the other on expanding assistance for Americans in need -- as he continues his swift efforts to overturn his predecessor's policies.\n    \n"
     publishedDateTime: 2021-01-22T12:13:34Z

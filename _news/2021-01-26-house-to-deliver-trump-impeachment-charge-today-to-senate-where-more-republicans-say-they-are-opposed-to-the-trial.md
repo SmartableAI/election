@@ -431,6 +431,22 @@ related:
         width: 855
         height: 545
         isCached: true
+  - title: "As the numbers suggest a Trump acquittal, Senators explore censure and brace for impeachment trial"
+    excerpt: "Senate Democrats explored how to make their impeachment case against former President Donald Trump a day after a vote suggested he will be acquitted."
+    publishedDateTime: 2021-01-27T22:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/27/trump-impeachment-senators-floating-censure-after-rand-paul-motion/4280256001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4280256001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4280256001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/27/USAT/062d1fae-0a45-404c-8dda-c62f7a87ee96-durbin.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Power Up: And then there were five. Republicans, that is, willing to hold a Trump impeachment trial"
     excerpt: "Mitch McConnell isn't breaking with Trump, after all, as he voted to dismiss the impeachment trial because, 45 Republicans say, it's unconstitutional to convict a former president."
     publishedDateTime: 2021-01-27T16:21:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donal
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -138,6 +138,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 120
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q16A"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "UPDATE 1-Biden's U.N. nominee warns U.S. absence allows China to thrive at world body"
+    excerpt: "U.S. President Joe Biden's nominee for ambassador to the United Nations stressed on Wednesday the importance of U.S. re-engagement with the 193-member world body in order to challenge efforts by China to \"drive an authoritarian agenda\"."
+    publishedDateTime: 2021-01-27T21:03:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-un-idUSL1N2K21L4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K21L4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K21L4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q16A"
         width: 817

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
 type: article
 quality: 166
-heat: 286
+heat: 266
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://static.politico.com/b3/d9/6fec15f14316b8cfc913fc7c95a3/20210118-donaldtrump-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "McCarthy claws his way back to Trump's good side"
-    excerpt: "Kevin McCarthy is trying to get back in Donald Trump’s good graces — but he could wind up making more people unhappy in the process. In the aftermath of the deadly Capitol riots, McCarthy angered Trump by saying he bears some responsibility for the attack."
-    publishedDateTime: 2021-01-26T09:30:00Z
-    webUrl: "https://www.politico.com/news/2021/01/26/kevin-mccarthy-donald-trump-462445"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/26/kevin-mccarthy-donald-trump-462445"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/kevin-mccarthy-donald-trump-462445"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/e3/4e/a348753d4fd98010dbfd633ce75f/ap20317661233739.jpg"
-        width: 4544
-        height: 3029
         isCached: true
   - title: "Live Updates: Ahead of Impeachment Trial, McConnell Says Capitol Assault Was ‘Provoked’ by Trump"
     excerpt: "Senator Mitch McConnell said the mob that stormed the Capitol “was fed lies,” referring to attempts by President Trump to overturn the election based on bogus claims of voter fraud. The president is expected to issue dozens of pardons."

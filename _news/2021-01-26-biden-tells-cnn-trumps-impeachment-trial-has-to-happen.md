@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
 type: article
 quality: 190
-heat: 770
+heat: 790
 published: true
 
 provider:
@@ -302,6 +302,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/25/us/politics/25new-washington-briefing-impeachment2/25new-washington-briefing-impeachment2-facebookJumbo-v3.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump considers written letter as part of Senate trial defense"
+    excerpt: "Former President Donald Trump may submit a written letter in his defense for the Senate impeachment trial, contemplating the move as he expands his legal team less than two weeks before the proceedings are set to begin,"
+    publishedDateTime: 2021-01-27T22:03:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-considers-written-letter-part-senate-trial-defense-n1255893"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255893"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255893"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3445494/210127-donald-trump-al-1500_6fa7abd3a3efa96c46bff00840a3c333.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Sen. Rand Paul objects to 'sham' impeachment trial of former President Trump"
     excerpt: "Ky., spoke on the Senate floor to voice his objection to the impeachment trial of former President Donald Trump, calling it a \"sham\" and \"dark blot on the history of our country.\""

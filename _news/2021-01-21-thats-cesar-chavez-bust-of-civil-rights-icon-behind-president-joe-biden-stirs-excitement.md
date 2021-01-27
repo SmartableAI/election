@@ -224,6 +224,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Biden pitching a much vaster climate plan than Obama ever attempted"
+    excerpt: "President Joe Biden is launching his sweeping assault on climate change with a much larger army of allies than Barack Obama had 12 years ago — a coalition that ranges from labor unions, anti-fracking activists and racial justice advocates to leaders of Wall Street,"
+    publishedDateTime: 2021-01-27T22:12:00Z
+    webUrl: "https://www.politico.com/news/2021/01/27/biden-climate-orders-energy-463051"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/27/biden-climate-prders-energy-463051"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/27/biden-climate-prders-energy-463051"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/98/ce/6dd20fff426c96a5f11674f1596b/deb-haaland-773-ap-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Here are the executive actions Biden has signed so far"
     excerpt: "President Joe Biden has signed a flurry of executive orders, actions and memorandums aimed at rapidly addressing the coronavirus pandemic and dismantling many of former President Donald Trump's policies."
     publishedDateTime: 2021-01-27T13:58:00Z

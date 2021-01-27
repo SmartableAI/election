@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden signed two executive orders and a memorandum Wednesday. Here's what they do"
+    excerpt: "President Joe Biden on Wednesday continued his executive action blitz with a package of orders aimed at addressing the climate crisis along with a new memorandum on scientific integrity.\n    \n"
+    publishedDateTime: 2021-01-27T21:42:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XHgX_bpCDpw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/biden-executive-orders-today/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/biden-executive-orders-today/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127134225-01-biden-climate-remarks-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to halt new oil and gas leases on federal lands and take other climate-related action "
     excerpt: "President Joe Biden is expected to sign several executive actions related to climate on Wednesday, including issuing a moratorium on new oil and gas leases on federal lands, according to a person familiar with his plans.\n    \n"
     publishedDateTime: 2021-01-27T12:39:43Z

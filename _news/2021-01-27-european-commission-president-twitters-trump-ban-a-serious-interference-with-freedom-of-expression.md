@@ -1,0 +1,53 @@
+---
+category: news
+title: "European Commission president: Twitter's Trump ban a 'serious interference with freedom of expression'"
+excerpt: "European Commission president Ursula von der Leyen said regulators in the U.S. and abroad should work together to develop a “framework of laws for such far-reaching decisions.\""
+publishedDateTime: 2021-01-27T22:21:40Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ES6J2Mgmy7I/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ES6J2Mgmy7I/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression"
+ampWebUrl: "https://www.foxnews.com/politics/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression.amp"
+type: article
+quality: 159
+heat: 179
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb68ffc8-6b3e-4f50-8aa8-fbd4121d32e4/ec0272e1-91d1-4361-9227-e9df659a3a30/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Trump Pressed Justice Department to Go Directly to Supreme Court to Overturn Election Results"
+    excerpt: "The former president dropped the efforts to replace the acting attorney general after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar with the matter said."
+    publishedDateTime: 2021-01-23T23:33:00Z
+    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 139
+    images:
+      - url: "https://images.wsj.net/im-289628/social"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "1gB2I+bX9QygzMr3+6K4B22eYBxMDrDJjc60TRGuSBTTiJe5eNz7mweli4F1xfQyQ2/Tb/khiz9jfrD87LLfpaB5pUcbn0IEaT+gSI5XbPa+h7z1Fm3/7eO2q5/0cnXjPuhljeBvA8ULlp9xEH3mvnFJyjQeuR/Vnl7d5+bTNTa06pnL0+kpl88Iur7kvd6WlLtHJ+JibZc3zS4DtvpAiUB95h1aPQG9kR0coJt2wHhtd/I3iBaPtSsHRr+RvjL/j6p8sTbJ3ZB3mfTJ0Bs4+QjKZzRXzlm7KL9ZtnMD3jq0AVzrNFMbHic7mv7oDZ8C7sW4lYIxswJjjLGfRL7k8O1VbgE2jv+Z48CKHLbGzw0=;Fi5+MHWgcPTgz5BllHnHiA=="
+---
+

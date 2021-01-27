@@ -431,6 +431,22 @@ related:
         width: 855
         height: 545
         isCached: true
+  - title: "As the numbers suggest a Trump acquittal, Senators explore censure and brace for impeachment trial"
+    excerpt: "Senate Democrats explored how to make their impeachment case against former President Donald Trump a day after a vote suggested he will be acquitted."
+    publishedDateTime: 2021-01-27T22:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/27/trump-impeachment-senators-floating-censure-after-rand-paul-motion/4280256001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4280256001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4280256001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/27/USAT/062d1fae-0a45-404c-8dda-c62f7a87ee96-durbin.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump impeached again – now what? Politics Weekly Extra"
     excerpt: "Jonathan Freedland speaks to Harvard law professor Noah Feldman about the potential next steps after Donald Trump was impeached for a second time"
     publishedDateTime: 2021-01-14T13:30:00Z

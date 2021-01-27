@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden Launches Major Lobbying Campaign to Build Support for $1.9T Stimulus Package"
+    excerpt: "Biden and Democratic leaders in Congress want more money and programs, but GOP lawmakers have balked at the legislation's massive price tag."
+    publishedDateTime: 2021-01-27T22:46:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1718429/biden-harris.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers"
     excerpt: "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,"
     publishedDateTime: 2021-01-25T04:24:00Z

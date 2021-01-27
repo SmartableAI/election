@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
 type: article
 quality: 116
-heat: 136
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden Launches Major Lobbying Campaign to Build Support for $1.9T Stimulus Package"
+    excerpt: "Biden and Democratic leaders in Congress want more money and programs, but GOP lawmakers have balked at the legislation's massive price tag."
+    publishedDateTime: 2021-01-27T22:46:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1718429/biden-harris.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Some senators oppose the direct-payment part of Biden's stimulus plan because they think it gives too much money to the wealthy, report says"
     excerpt: "The bipartisan group of senators was said to have expressed its concerns during a call with the White House on Sunday."
     publishedDateTime: 2021-01-25T08:50:00Z
