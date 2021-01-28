@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
 type: article
 quality: 190
-heat: 790
+heat: 810
 published: true
 
 provider:
@@ -450,6 +450,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/26/us/politics/26new-washington-briefing-impeach1/26new-washington-briefing-impeach1-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Democrats look to quickly move past Trump trial"
+    excerpt: "The new Senate majority is eager to turn to Biden’s agenda now that it’s clear Republicans won’t convict the ex-president."
+    publishedDateTime: 2021-01-28T06:05:00Z
+    webUrl: "https://www.politico.com/news/2021/01/27/trump-impeachment-trial-democrats-463227"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/7b/51/631a4948453ba21e65286897915b/210127-kaine-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "McConnell wants to push Trump's Senate impeachment trial to mid-February"
     excerpt: "McConnell’s proposal is a deal to give both sides time to prepare for former President Donald Trump's second impeachment trial."

@@ -466,6 +466,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Democrats look to quickly move past Trump trial"
+    excerpt: "The new Senate majority is eager to turn to Biden’s agenda now that it’s clear Republicans won’t convict the ex-president."
+    publishedDateTime: 2021-01-28T06:05:00Z
+    webUrl: "https://www.politico.com/news/2021/01/27/trump-impeachment-trial-democrats-463227"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/7b/51/631a4948453ba21e65286897915b/210127-kaine-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "House managers deliver impeachment article against Trump, kicking off trial preparations"
     excerpt: "The House will deliver its article of impeachment against former President Donald Trump to the Senate on Monday, kicking off preparations for the upcoming trial. House impeachment managers will hold a procession ceremony through National Statuary Hall and the Capitol Rotunda to the Senate on Monday evening to present the article of impeachment to the secretary of the Senate."
     publishedDateTime: 2021-01-26T07:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-impeachment-republicans-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
 type: article
 quality: 175
-heat: 635
+heat: 655
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Liz Cheney’s popularity in Wyoming sinks after impeachment vote, Trump PAC claims"
+    excerpt: "Republican U.S. Rep. Liz Cheney is paying a price for supporting former President Trump’s impeachment, a poll commissioned by Trump’s political operation suggests, according to a report."
+    publishedDateTime: 2021-01-28T06:19:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2scucRw7-Fw/liz-cheneys-popularity-in-wyoming-sinks-after-impeachment-vote-trump-pac-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheneys-popularity-in-wyoming-sinks-after-impeachment-vote-trump-pac-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheneys-popularity-in-wyoming-sinks-after-impeachment-vote-trump-pac-claims.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c82de6-c14d-4137-89d3-071d65d22423/e9007209-f228-4dbe-a90e-c50c3ef80488/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Alaska's Murkowski pledges to stay with Senate Republicans despite issues with Trump"
     excerpt: "Moderate GOP Sen. Lisa Murkowski has been very vocal for years that she’s no fan of Donald Trump’s takeover of the Republican Party."

@@ -208,6 +208,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "In the Republican Party, the post-Trump era lasted a week"
+    excerpt: "Two roads diverged in American politics, and the Republican Party chose the one traveled by disgraced ex-President Donald Trump and QAnon conspiracy theorists."
+    publishedDateTime: 2021-01-28T00:46:00Z
+    webUrl: "https://www.cnn.com/2021/01/28/politics/donald-trump-republican-party/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/donald-trump-republican-party/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/donald-trump-republican-party/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191022133438-trump-kevin-mccarthy-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Most G.O.P. Senators Vote Against Holding Impeachment Trial for Trump"
     excerpt: "In a 55-to-45 vote that strongly suggested that the Senate would not be able to convict the former president, lawmakers narrowly killed a Republican effort to dismiss the impeachment charge as unconstitutional."
     publishedDateTime: 2021-01-26T22:18:00Z

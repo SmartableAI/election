@@ -2044,6 +2044,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden's brother promoted relationship with president in ad for Florida law firm: report"
+    excerpt: "Frank Biden, the president’s younger brother, reportedly promoted his relationship with President Biden in a newspaper ad for a Florida law firm printed on Inauguration Day."
+    publishedDateTime: 2021-01-28T06:12:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_rng-MpXpy8/bidens-brother-promotes-relationship-with-president-in-inauguration-day-ad-for-florida-law-firm-report"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-brother-promotes-relationship-with-president-in-inauguration-day-ad-for-florida-law-firm-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-brother-promotes-relationship-with-president-in-inauguration-day-ad-for-florida-law-firm-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/GettyImages-127896922.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump impeached by House over Capitol riots, becomes first president to face rebuke twice"
     excerpt: "The House of Representatives Wednesday made history by voting to impeach President Trump for a second time in his presidency."
     publishedDateTime: 2021-01-13T21:36:53Z

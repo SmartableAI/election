@@ -2047,6 +2047,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden's brother promoted relationship with president in ad for Florida law firm: report"
+    excerpt: "Frank Biden, the president’s younger brother, reportedly promoted his relationship with President Biden in a newspaper ad for a Florida law firm printed on Inauguration Day."
+    publishedDateTime: 2021-01-28T06:12:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_rng-MpXpy8/bidens-brother-promotes-relationship-with-president-in-inauguration-day-ad-for-florida-law-firm-report"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-brother-promotes-relationship-with-president-in-inauguration-day-ad-for-florida-law-firm-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-brother-promotes-relationship-with-president-in-inauguration-day-ad-for-florida-law-firm-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/GettyImages-127896922.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump Supporters Protest Biden Election Win; Violence Erupts at Night"
     excerpt: "Evening violence broke out in Washington, D.C., during clashes between some of the president’s allies and counterprotesters."
     publishedDateTime: 2020-12-13T06:14:00Z

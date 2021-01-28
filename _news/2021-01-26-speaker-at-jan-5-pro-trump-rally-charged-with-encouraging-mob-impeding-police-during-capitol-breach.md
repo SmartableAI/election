@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Supreme Court ends lawsuits alleging that Trump illegally profited from business interests"
-    excerpt: "All sides agreed that cases involving the Constitution’s emoluments clauses are moot after he lost reelection."
-    publishedDateTime: 2021-01-26T04:27:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-trump-emoluments-/2021/01/25/b243814a-5f1f-11eb-9430-e7c77b5b0297_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-trump-emoluments-/2021/01/25/b243814a-5f1f-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-trump-emoluments-/2021/01/25/b243814a-5f1f-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
+  - title: "In Wyoming, Cheney faces blowback for vote to impeach Trump"
+    excerpt: "When Liz Cheney, the third-ranking Republican in the House of Representatives, decided to vote to impeach a president from her own party, she knew she'd cause some waves. She might not have expected the seismic impact at home."
+    publishedDateTime: 2021-01-28T05:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/wyoming-cheney-faces-blowback-vote-impeach-trump-75531649"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wyoming-cheney-faces-blowback-vote-impeach-trump-75531649"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wyoming-cheney-faces-blowback-vote-impeach-trump-75531649"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZMRXHQP2EI6XCRVEN7PD2ZO64.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/WireAP_755753c232ff4eb6b4f28db16ed59c46_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "WRP+oV4mcfJWKpy04CsjC+dH04bNyK+fzeb0sKZpDK7PV+s8NOAH6VOBmpgCVaKSRAwxOacM1WfY0tr3Q08WYmmXOLI+aMa5wMLAih5HLrLhpifEBs94k0nAjevOz3z6XnNT9YzXtu1S+OtiQuooODfhE6w/4e7EJ5wORRfWY16ZCrXxWB9pAFl/Hol7JDRCa30LVJJ3t2QJUp9goI9Gp4bWX8BijwIxQ+i2ym5IbzHrn5Kgpv5EHC6xyeLrfOcdmFSF760MwI+HlxiOlHyKphYeYfKyFfHVbGAocflDTAdXRXndB52ZBjQL70rL5fyUGEqJnElJ0LtupK5Jm+JMQWL75mKRbIlmCQ70Yi4FGuQ=;xYnqfYgpAOy19fNx3MqIqg=="
