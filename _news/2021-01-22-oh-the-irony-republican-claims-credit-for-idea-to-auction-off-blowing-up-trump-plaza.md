@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Departs Vowing,‘We Will Be Back in Some Form’"
-    excerpt: "Defeated and twice impeached, the 45th president used his farewell remarks before a sparse crowd to brag about his record and wish luck to the incoming administration."
-    publishedDateTime: 2021-01-20T22:37:00Z
-    webUrl: "https://www.nytimes.com/2021/01/20/us/politics/trump-presidency.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/20/us/politics/trump-presidency.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/us/politics/trump-presidency.amp.html"
+  - title: "After promoting Trump's baseless fraud claims, Kelli Ward facing audit of her own Arizona GOP win"
+    excerpt: "Kelli Ward, the chair of the Arizona Republican Party who promoted President Donald Trump's baseless claims of voter fraud in the 2020 election, now faces an audit on her own recent electoral victory.\n    \n"
+    publishedDateTime: 2021-01-28T15:57:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hb8PtvlSuaU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/arizona-gop-kelli-ward-recount/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/arizona-gop-kelli-ward-recount/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 162
     images:
-      - url: "https://static01.nyt.com/images/2021/01/20/us/20dc-trump01/20dc-trump01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180824123524-02-kelli-ward-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "83UqtrlpCeITrQNl598FXY8ZNCuOv0s2/LK+QGEnyqHG5fi31Pp90PMCQWLbds7KqM0HbP624cxpL2YKJSlSj/AwGHUxOL6UXXRXJmblMSEMQivYDMKhBsW1moa6UvjmEVB0L2BqdwBNcDS/IAmg4X67iF7fWbv3E4HgYU3eeaw/nuTu1x1CHBLDmirCL8bzz9uVvTYTDdFpxfgywN1zTmDBm9kDPkaE/byK4Ale0dFZDJHCrkOkAMshpVS536fQ+fRVlMiaSjRQRhVFDJP5OeSuXaPuKZwcPsQqLRvFFLV2fkYjIuDlfEYvD4XULvw50TGcU4hxQT/1+SofbRplQMLhdM0AR6SaU3lgO+SRyIf41cZpMb7BLMiS7HN8P1SuDsaAHlP9K84xdV8OK7AgxFSpOx42xcnWoE9Y3ny+l3nqDWxiSi7keb/WYCtGFet2/GnqEKPy41zxvrD4YPtB2xdvumSNZT1D7qvdlE6dHpt63FFQlAcAc35XRhWpY9KdPqz++h5yojrzePUSsNYiqQ==;BLzEV9g/9riZbsWZVsZY1w=="

@@ -212,6 +212,17 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 55
+  - title: "Blair House guest quarters a temporary home for VP Harris"
+    excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the"
+    publishedDateTime: 2021-01-28T16:24:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
     excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."
     publishedDateTime: 2021-01-20T17:04:00Z
@@ -236,6 +247,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "afJVyO1Gqn0LdlYNE3x9SCK4CxQosPusBx9wapF/sIShBCEnRlFn8xHl8NcGA/P6XsbQux7EmmBvmAgAGSoqK793+VcO9yv77O5u+cPJuA7lqg5zn43orgkaNypTA9iasAt8SocWxlmZekfTasl6ZMbUUN+zX7jmQZKMXrd8cqJwykrQQUaq1t1q14UO56GhWDLCW9uwayyaxLfVeuD06VudLym8rxtai1k0FSfjd+8AzmrVAWPBYb3g7xHqrUvl9MSyluzOrP3yBW38RlLOwzAwMmGnZKwO7st9hsqH7MHbIa36gPdVx6l28aksnp87dpc7dULTrBxbvWKOUqDFsKhweodufQVvbf40hHBailY=;q1fzjQlmIZWKqbfirD/ivA=="
+secured: "91D3q/LNhfpeulDPZdOWHzU6sH+CgSX+aU5Z4D7y/CUhCufjuivCJflBD5EMdz/N6N5xKPvr5DAAofC9cvv4foG4ckRHdWHhmfAmCUBrPF7ZYvKJUYfEi4uKMJE/v6WTxNkKeWP7gDaJZoidKf9s9lYyXko+6G7+gDQRe8b1qQNzY2t6lf1rZrS9EaPwPW5urNbSrsnCqMYZ4RPzUoPkmvlUjdUnjZO2wstdzVt+WGuUX1AaA3RXGmoNp2avQtL6y95q+aRkQa+FtMKyN+qfAOM6vRNJ/N6Y1aQx0KF9/5Cn8JMnS8x/sU9UcOwZNoYUaRFuorT4htrTH7ah4wIErl39Xhy22mnMzZzLJJyJ4+aQKnplIEPP463vy5B0szUp7VxceEuuEU58jbnqufxPJwMzjyeTzWqXTv8iYBIo1u1AmsI4A8xBPt/Evbu92sOaANm5+Lmf5Z62x+96aBm1xSI68+E/DtmtjnbWaA3Fk94gat1e3GHS4GBT3mJDEfAl+ion2RX2Ufq4kCuFp5871A==;E+n2r7Tb85cnG037OJfihg=="
 ---
 

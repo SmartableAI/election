@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120202424-03-biden-executive-order-0120-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Klain pushes back on criticism over Biden's gush of executive actions"
+    excerpt: "White House chief of staff Ron Klain on Thursday defended the flurry of executive actions President Joe Biden has taken in his first week in office, pushing back against a New York Times editorial urging the administration to enact more policy through congressional legislation."
+    publishedDateTime: 2021-01-28T14:48:00Z
+    webUrl: "https://www.politico.com/news/2021/01/28/ron-klain-biden-executive-orders-463428"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/28/ron-klain-biden-executive-orders-463428"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/28/ron-klain-biden-executive-orders-463428"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/f0/1f/07f6351548c5b134e252af2e0a70/gettyimages-459992630-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "bDV5Bbfz1H41XXDbbU/NXDAr2Rf+ReV6xlw68Nd4BpJdoWaUQBIV2NCafhiLnNU6zBem3Pud5mW8Bgw8wPTOjQaNpB+WwZDkay7SCzSFOIM34GYr5KPTyhhILC05fLRzQu0QcNSxrlZb8Qg7UDSeobhZp+BXT4DKfuNl/mzEp4lvR1fv6gUY8lqlAP3PVLFE2dfHb5nACt5Ew1fB/aXb6UYRnng/MbOE979CJlL3OovMwd/S3MquK+uNVsjbM5wFOjx4uFX1039/VxfG0m0600tvQUM9ydzIDiqr3P2vlzLTA4AIVAiFSvezyzpX0f+/HKCdFUmUJdCPmry4MSVtl1iLkWNh+8rBwhT5k2o6xFg=;XqT5QweP2uAd58s9tLbC8A=="

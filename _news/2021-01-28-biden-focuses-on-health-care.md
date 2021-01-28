@@ -48,7 +48,23 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden still seeking bipartisan Covid-19 relief package despite stalemate"
+    excerpt: "President Joe Biden is continuing to chase a bipartisan deal over his $1.9 trillion coronavirus relief proposal, but White House officials privately acknowledge the bill will need to be pared down to secure Republican support after GOP lawmakers balked at the price tag.\n    \n"
+    publishedDateTime: 2021-01-28T15:28:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ROVjEAtdrJA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/biden-bipartisan-covid-19-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/biden-bipartisan-covid-19-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127192327-biden-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
-secured: "kx/VK4xtjA+ROjpXEV/2RZagENjT745sczXvtKOLmAXx08Q3wnMIGfso8PK4HKFFZ0y3e854v87YTNFwZSooONcZgsRwgSwpJfWgwz+cpqAkyUzg/kYH7JFxA8BuazQ7nstgCIN0w1JQOce35OeZgvUl980TKQRfBxkY+h33VoHpsrtw3i+qlMeefELKD/7TGEZ1kQ264/L5NbNuhB3sy+XKftYY98I4X0EJFRCPB/oxbvDPqpekI/BQctHO8JtRGY48r2bD4Tp3/fvrn2ycQelNL1TYyCkJrOKplYOBX/mqueibV2Eyx3TGojPQZGn0zZPusvsWDfBk5vAoNkjedJ7lep585CdHyZDsWN+WIgU=;1S57EJug8D+6Sixrw3uoWQ=="
+secured: "Ac8Hw96N8nWUcMvkornFdha0yb2CxK4WCqFItb+bJoFfxQoFwT1DZ4q39tl7I99nvM6tf5J87EZloRqdpoGRIPW3o0WWBnhadsBreZRk5vcGOqKleImDVeug26bIIddxlrETRJLsxsTodlRemR51dEz0mwJvcK/si8CGzGn3mwAL/JCoZqYj0Jgn4FykGhK8blOChKrBpBwIp5WFYpamn7U0jo6+0x/WrdynPhfXtmktS+ZUNunm9SyZxQWTWtBOKl6jdqOqNgK2wBUC4fme08I3tWaOUeI60GMnJl8UJQyu+P3spgjXwaDLkyJdDn8wwkyRUoFWgx4LgVOx6t8W1nuRMyfNqw7T1tTrmR2vKJr2k4W8Fod+s5122x79WOgf3wzir7/ApAOVn5umpCf7ODr24UXgHGITa4fReF8JE6WDHG1+nJUlXl6vu2W31WPFwOR7EqjKkx6ZTqSIs0USYJb69vcL9iIXyhBLS1u6UhyIvA6qeic2wn8TLLf1vw8Ig0dPGsla5/wgpD6tWU8oPw==;SfZgJwmJZfCuM91thBxmIw=="
 ---
 

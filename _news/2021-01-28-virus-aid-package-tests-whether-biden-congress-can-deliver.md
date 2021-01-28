@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Virus aid package tests whether Biden, Congress can deliver"
-excerpt: "More than a sweeping national rescue plan, President Joe Biden’s $1.9 trillion COVID-19 relief package presents a first political test — Support our journalism. Subscribe today. For Biden, the outcome will test the strength of his presidency,"
-publishedDateTime: 2021-01-28T05:40:00Z
-originalUrl: "https://www.washingtonpost.com/business/virus-aid-package-tests-whether-biden-congress-can-deliver/2021/01/28/a960fe56-612a-11eb-a177-7765f29a9524_story.html"
-webUrl: "https://www.washingtonpost.com/business/virus-aid-package-tests-whether-biden-congress-can-deliver/2021/01/28/a960fe56-612a-11eb-a177-7765f29a9524_story.html"
-ampWebUrl: "https://www.washingtonpost.com/business/virus-aid-package-tests-whether-biden-congress-can-deliver/2021/01/28/a960fe56-612a-11eb-a177-7765f29a9524_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/virus-aid-package-tests-whether-biden-congress-can-deliver/2021/01/28/a960fe56-612a-11eb-a177-7765f29a9524_story.html?outputType=amp"
+excerpt: "More than a sweeping national rescue plan, President Joe Biden ’s $1.9 trillion COVID-19 relief package presents a first political test — For Biden, the outcome will test the strength of his presidency,"
+publishedDateTime: 2021-01-28T15:27:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/virus-aid-package-tests-biden-congress-deliver-75538841"
+webUrl: "https://abcnews.go.com/Business/wireStory/virus-aid-package-tests-biden-congress-deliver-75538841"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/virus-aid-package-tests-biden-congress-deliver-75538841"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/virus-aid-package-tests-biden-congress-deliver-75538841"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_4c7821cc14164c268378df3e1b377dcd_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -174,6 +174,6 @@ related:
         height: 630
         isCached: true
 
-secured: "yyOb8kzbK8vlUlbYhsf8D6B6fCIGFZyQ2EeV1WCcFYfDWIVackDkxKDKq/ngFhmYH8ZdFcX3SnXPWpOAfjpneZoecLsJ8bs0I0FvpYaKM4HDB7wdTom1YX+HA1APlE0FzGtIeAHnQM+KyOdQJZUBMyOG9hf29V3LwF0EI//VOIFK/4KuSUVdjNnix5sHAcFui63t81rvtlWW4Q+fsa12z4AeWDBx0c/YM5NAwCQunfK0K+mDr3aggC17MzHRr2us/yBOw36626rQqLpshqxeNqWF8skgO19iH8FK/k52FVEzEdEEapIgj7cyG9NXEhUL/qLOXaOwGtoRLUV67HHyHZ7fwNw+szKYhV+hTNjVPkY=;+R4oMh3tDJ+j4Z23LeV3Vw=="
+secured: "CjSJO58fH8j51GjfXD8H9VYgmAVZ7TnhxOtCL3kzDLVHqYuiEZ58OLO1R9gvrDQ29I/pQwlxDqBKXxYa/2aIuC0xUo5755rD/fRkyn3GdAuigWtkdfDfW2ag+cF2SO2vITMZyxQwG5n7xHwGyJuvvWE7uf8tqwphiB8wx0O7cJlIxHNGvcmoow9ODijKduAXVNGoCvlEPDeg9Nl5LC9hJQ7DV8tilnI+UuE/T+Lg3G049YvYqyGCcJgmrbvwYz9xXts1Kw9nShCNmHd4hipNMV2i6/9a4RCb8ZFieF4yAmEgIqNUuqtTUMWIGhBmumdu2ld0F/HKYeuXi9XB1dZ8RWmgxZpn9DFDXOaDPyA3wLs=;Dy9PrJ8ecXQYOdRikaSIvA=="
 ---
 

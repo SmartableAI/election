@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-29-if-biden-and-democrats-truly-support-equity-why-are-they-silent-on-school-choice.md",
+      "title": "If Biden and Democrats Truly Support 'Equity,' Why Are They Silent on School Choice?",
+      "excerpt": "This is National School Choice Week, and if there's been one benefit to the pandemic lockdowns of public schools across the country it's this: American",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.html",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/48/481557_5_.jpg",
+          "width": 750,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.amp.html",
+      "publishedDateTime": "2021-01-28T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-nbc-news-retracts-story-about-biden-official-after-critics-label-it-anti-semitic.md",
+      "title": "NBC News retracts story about Biden official after critics label it anti-Semitic",
+      "excerpt": "NBC News admitted Wednesday an article about President Biden’s senior director for cyber policy donating to a pro-Israel lobbying group \"fell short\" of the Peacock Network's reporting standards after it was widely criticized and accused of having anti-Semitic implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/nbc-news-anti-semitic-report-deleted-biden-official-aipac",
+      "originalUrl": "https://www.foxnews.com/media/nbc-news-anti-semitic-report-deleted-biden-official-aipac",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/nbc-news-photo-edited.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/nbc-news-anti-semitic-report-deleted-biden-official-aipac.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-news-anti-semitic-report-deleted-biden-official-aipac.amp",
+      "publishedDateTime": "2021-01-28T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-cnn-reporter-gushes-over-bidens-impressively-productive-call-with-putin.md",
       "title": "CNN reporter gushes over Biden's 'impressively productive' call with Putin",
       "excerpt": "A CNN correspondent lauded the \"impressively productive\" call President Biden had with Russian President Vladimir Putin this week.",
@@ -67,7 +172,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1290,
+      "heat": 1330,
       "tags": null,
       "images": [
         {
@@ -529,63 +634,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-27-covid-live-updates-biden-raises-covid-vaccine-goal-uk-passes-100000-deaths.md",
-      "title": "Covid live updates: Biden raises Covid vaccine goal, UK passes 100,000 deaths",
-      "excerpt": "President Biden increased his Covid vaccine goal to 1.5 million shots administered a day, deemed more likely due to states ramping up vaccine distribution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/live-blog/2021-01-26-covid-live-updates-vaccine-news-n1255630",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/live-blog/2021-01-26-covid-live-updates-vaccine-news-n1255630",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_03/3443283/210120-covid-live-blog-social-only_82ae6975c21296c679fd88016020de7f.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1255630",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1255630",
-      "publishedDateTime": "2021-01-26T12:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-26-biden-to-sign-new-executive-orders-on-his-racial-equity-agenda-live.md",
       "title": "Biden to sign new executive orders on his racial equity agenda – live",
       "excerpt": "President will give address on racial equality on Tuesday afternoon after senators are sworn in for Trump impeachment",
@@ -594,7 +642,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates?page=with:block-6010258c8f0869215d930d1d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 625,
+      "heat": 645,
       "tags": null,
       "images": [
         {
@@ -1536,63 +1584,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-do-latino-voters-think-joe-biden-can-unite-the-country.md",
-      "title": "Do Latino voters think Joe Biden can unite the country?",
-      "excerpt": "\"It's going to be hard, because there's still going to be people that think the election was a fraud,\" said Yumaira Saavedra of Pennsylvania.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
-      "originalUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_03/3443384/210119-washington-capitol-inauguration-prep-2x1-ac-1055p_febc111051f1ce6e390fc8d524eb2182.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254800",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254800",
-      "publishedDateTime": "2021-01-20T03:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-uks-boris-johnson-discuss-par
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Schumer: Democrats are prepared to pass Biden's coronavirus relief package without GOP support"
+    excerpt: "Senate Majority Leader Chuck Schumer said Thursday that Democrats are prepared to pass President Biden's massive coronavirus relief package without GOP support if Republicans don't recognize that \"big\" action is needed."
+    publishedDateTime: 2021-01-28T16:23:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aBYHH_Mpxuw/schumer-dems-prepared-pass-bidens-coronavirus-relief-package-without-gop-support"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-dems-prepared-pass-bidens-coronavirus-relief-package-without-gop-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-dems-prepared-pass-bidens-coronavirus-relief-package-without-gop-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/c816ee60-57e1-4002-bc02-1c9118a87034/e87f80b6-fac7-43b2-b6aa-f9f1d05ae441/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "McCarthy questions Biden's change of mind on coronavirus travel bans as new restrictions announced"
     excerpt: "House Minority Leader Rep. Kevin McCarthy's office is questioning if President Biden changed his mind when it comes to coronavirus-related travel bans after it was reported that the Centers for Disease Control and Prevention is imposing a new restriction on travelers from South Africa."

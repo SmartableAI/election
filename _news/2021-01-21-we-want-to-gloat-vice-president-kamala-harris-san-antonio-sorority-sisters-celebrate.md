@@ -222,6 +222,17 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 55
+  - title: "Blair House guest quarters a temporary home for VP Harris"
+    excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the"
+    publishedDateTime: 2021-01-28T16:24:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "Kamala Harris' Alpha Kappa Alpha Sorority Sisters Celebrate"
     excerpt: "JACKSON, Miss. (AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment."
     publishedDateTime: 2021-01-23T20:46:00Z

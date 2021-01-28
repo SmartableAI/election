@@ -125,6 +125,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Fact check: No basis for claims that President Joe Biden's inauguration was faked"
+    excerpt: "A QAnon-related conspiracy theory claims President Joe Biden's inauguration was a fake. None of the supporting evidence offered by believers is true."
+    publishedDateTime: 2021-01-28T16:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/01/28/fact-check-president-joe-biden-inauguration-real-well-documented/4268923001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4268923001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4268923001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/NPRJ/7ed459ac-eec9-439f-8229-cdb26030cdda-APTOPIX_Biden_Inauguration.jpg?auto=webp&crop=1199,675,x0,y61&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Fact check: False news report indicates Biden plans to step down as president-elect"
     excerpt: "Viral posts posing as a news report falsely claim that Joe Biden is resigning as president-elect due to health issues. This is unfounded."
     publishedDateTime: 2021-01-05T21:23:00Z

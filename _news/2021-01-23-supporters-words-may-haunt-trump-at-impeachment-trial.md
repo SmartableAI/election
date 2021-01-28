@@ -239,6 +239,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump and the verdict of history: ANALYSIS"
+    excerpt: "Not yet out of office for a week and still a political force, Donald Trump’s place in history, let alone his sentence, is bound to be debated for years to come."
+    publishedDateTime: 2021-01-28T16:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-fla-20-rt-ml-210120_1611159652714_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump leaves behind a Republican Party both broken and still in his grip"
     excerpt: "Will Republicans purge the worst of what he has brought to their coalition or will Trump maintain his influence even after he is out of office?"
     publishedDateTime: 2021-01-16T20:15:00Z

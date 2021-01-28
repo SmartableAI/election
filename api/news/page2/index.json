@@ -2,6 +2,252 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-28-joe-scarborough-mike-pence-is-in-fear-for-his-life-because-of-donald-j-trump.md",
+      "title": "Joe Scarborough: 'Mike Pence is in fear for his life because of Donald J. Trump'",
+      "excerpt": "MSNBC co-host Joe Scarborough said Wednesday morning that former Vice President Mike Pence is “in fear for his life” because of former President Donald Trump’s actions leading up to the U.S. Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/01/27/scarborough_c35-0-900-505_s1200x700.jpg?3b9cfe2c93ef070d968f1facefb8412d0ec504ee",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
+      "publishedDateTime": "2021-01-27T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-trumps-youtube-channel-to-remain-suspended-after-capitol-riot-due-to-ongoing-potential-for-violence.md",
+      "title": "Trump's YouTube channel to 'remain suspended' after Capitol riot due to 'ongoing potential for violence'",
+      "excerpt": "Former President Donald Trump's YouTube channel will \"remain suspended,\" the company said Wednesday, pointing to an \"ongoing potential for violence\" in the wake of the Capitol riot on Jan. 6.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqJGzoF9Mys/trump-youtube-channel-remain-suspended-potential-for-violence-capitol-riot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqJGzoF9Mys/trump-youtube-channel-remain-suspended-potential-for-violence-capitol-riot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-youtube-channel-remain-suspended-potential-for-violence-capitol-riot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-youtube-channel-remain-suspended-potential-for-violence-capitol-riot.amp",
+      "publishedDateTime": "2021-01-27T07:30:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-mike-pence-wife-karen-reportedly-homeless-couch-surfing-in-indiana.md",
+      "title": "Mike Pence, wife Karen reportedly homeless, couch-surfing in Indiana",
+      "excerpt": "Reports are that the former Second Family is staying at the Indiana governor's cabin or crashing with kinfolk back in their home state.",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2021/01/27/mike-pence-homeless-indiana/",
+      "originalUrl": "https://thegrio.com/2021/01/27/mike-pence-homeless-indiana/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2021/01/ThePences-scaled.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2021/01/27/mike-pence-homeless-indiana/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/01/27/mike-pence-homeless-indiana/amp/",
+      "publishedDateTime": "2021-01-27T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-mcdaniel-says-rnc-pushing-back-against-bidens-extreme-policies.md",
+      "title": "McDaniel says RNC 'pushing back' against Biden's 'extreme policies'",
+      "excerpt": "EXCLUSIVE – With Democrats in control of the White House and holding fragile majorities in the Senate and House of Representatives, the Republican National Committee (RNC) has a new mission.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi1DgE_MUt4/mcdaniel-rncs-pushing-back-biden-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi1DgE_MUt4/mcdaniel-rncs-pushing-back-biden-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcdaniel-rncs-pushing-back-biden-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcdaniel-rncs-pushing-back-biden-policies.amp",
+      "publishedDateTime": "2021-01-27T03:11:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-uighur-advocates-will-biden-actions-match-words-on-genocide.md",
+      "title": "Uighur Advocates: Will Biden Actions Match Words on 'Genocide'?",
+      "excerpt": "One day before President Bidens inauguration, Secretary of State Mike Pompeo made the determination that Chinas treatment of Muslim Uighurs and",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.html",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/53/533465_5_.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.amp.html",
+      "publishedDateTime": "2021-01-27T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-report-israeli-settler-population-surged-during-trump-era.md",
       "title": "Report: Israeli settler population surged during Trump era",
       "excerpt": "A pro-settler group says Israel’s West Bank settler population has grown at a far higher rate than the country as a whole over the last four years",
@@ -704,63 +950,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-27-covid-live-updates-biden-raises-covid-vaccine-goal-uk-passes-100000-deaths.md",
-      "title": "Covid live updates: Biden raises Covid vaccine goal, UK passes 100,000 deaths",
-      "excerpt": "President Biden increased his Covid vaccine goal to 1.5 million shots administered a day, deemed more likely due to states ramping up vaccine distribution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/live-blog/2021-01-26-covid-live-updates-vaccine-news-n1255630",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/live-blog/2021-01-26-covid-live-updates-vaccine-news-n1255630",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_03/3443283/210120-covid-live-blog-social-only_82ae6975c21296c679fd88016020de7f.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1255630",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1255630",
-      "publishedDateTime": "2021-01-26T12:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-26-same-problems-will-resurface-if-biden-rolls-back-border-wall-construction-former-nm-governor-warns.md",
       "title": "'Same problems' will resurface if Biden rolls back border wall construction, former NM governor warns",
       "excerpt": "Former New Mexico Republican Gov. Susana Martinez warned Tuesday that it is 'very wrong' for the Biden administration to halt the construction of the southern border wall, calling the fence a 'piece of the security of our nation.'",
@@ -1122,226 +1311,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/fact-check-biden-economic-stats-pandemic-rescue-plan/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/fact-check-biden-economic-stats-pandemic-rescue-plan/index.html",
       "publishedDateTime": "2021-01-26T06:31:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-biden-to-sign-new-executive-orders-on-his-racial-equity-agenda-live.md",
-      "title": "Biden to sign new executive orders on his racial equity agenda – live",
-      "excerpt": "President will give address on racial equality on Tuesday afternoon after senators are sworn in for Trump impeachment",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates?page=with:block-6010258c8f0869215d930d1d",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates?page=with:block-6010258c8f0869215d930d1d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 625,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/2cf58929b1222f15c3f8573f1f34e86f29f147c3/0_209_5550_3333/master/5550.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8d61721628dd9df049b57a80b2e99eae",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates",
-      "publishedDateTime": "2021-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says.md",
-      "title": "Biden's White House victory fueled by record-shattering $145M in 'dark money,' report says",
-      "excerpt": "For years, Democrats have railed against anonymous campaign contributions as a uniquely corrupting political force — even as President Biden benefited from a record-shattering amount of \"dark money\" donations during the 2020 election. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVGLLkMXgOQ/bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVGLLkMXgOQ/bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72f42a4f-125b-4568-85ff-a3e63a5a17da/c104fc0a-640b-41f8-a636-659a18524c4d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-white-house-victory-fueled-by-record-shattering-145m-in-dark-money-report-says.amp",
-      "publishedDateTime": "2021-01-26T05:52:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-biden-to-sign-executive-orders-related-to-equity.md",
-      "title": "Biden to sign executive orders related to 'equity'",
-      "excerpt": "President Joe Biden is slated to sign a series of executive actions revolving around \"equity\" policy on Tuesday, focusing on policing reform, prison reform and public housing, according to a draft of a calendar document sent to administration allies and viewed by CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0AAEMCVqw04/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0AAEMCVqw04/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122162050-president-biden-executive-orders-economic-relief-mattingly-dnt-lead-vpx-00004102-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html",
-      "publishedDateTime": "2021-01-26T04:38:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-biden-aims-to-tackle-another-american-crisis-race.md",
-      "title": "Biden aims to tackle another American crisis: Race",
-      "excerpt": "If there was any doubt about the urgency of President Joe Biden's mission to tackle racial inequality, it was erased in the searing moment an insurrectionist rioter brazenly paraded the Confederate flag through the US Capitol.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MDazENa4X-0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MDazENa4X-0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122211659-05-biden-economy-0122-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html",
-      "publishedDateTime": "2021-01-26T04:35:47-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

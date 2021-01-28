@@ -239,6 +239,22 @@ related:
         width: 1440
         height: 1063
         isCached: true
+  - title: "Biden kills Trump plan on opioid-treatment prescriptions"
+    excerpt: "Physicians celebrated Trump's last-minute effort to loosen requirements they said hurt the opioid-crisis response. But the Biden administration said the plan was issued “prematurely.”"
+    publishedDateTime: 2021-01-28T12:12:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/01/27/biden-kills-buprenorphine-waiver/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/01/27/biden-kills-buprenorphine-waiver/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/27/biden-kills-buprenorphine-waiver/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6DR7FLR7ZMI6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "New Biden health care orders begin to unspool Trump policies"
     excerpt: "President Joe Biden is set to take his first steps to reverse Trump administration health care policies. The White House said Biden plans on Thursday to sign orders on a range of issues including getting more Americans covered and removing curbs on abortion counseling."
     publishedDateTime: 2021-01-28T10:36:00Z
@@ -710,6 +726,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548870152&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N06F"
         width: 816
+        height: 545
+        isCached: true
+  - title: "OUTLOOK 2021: Regulatory challenges abound for U.S. insurers as Biden takes over, pandemic rages"
+    excerpt: "U.S. insurers need to brace for a potential increase in federal oversight and climate-related action as President Joe Biden prioritizes pandemic response and environmental action in his first year in office."
+    publishedDateTime: 2021-01-28T15:13:00Z
+    webUrl: "https://www.reuters.com/article/bc-finreg-outlook-2021-insurers-regulato-idUSKBN29W2LL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2LL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2LL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 112
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210128&t=2&i=1549400245&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1HS"
+        width: 895
         height: 545
         isCached: true
   - title: "Joe Biden takes the helm, appeals for unity, signs executive orders targeting Trump policies"

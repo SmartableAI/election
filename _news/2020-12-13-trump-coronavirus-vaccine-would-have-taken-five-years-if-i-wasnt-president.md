@@ -239,6 +239,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden team forced to walk back, clarify president's coronavirus statements"
+    excerpt: "President Biden was never shy of criticizing former President Trump for his messaging on coronavirus, but just over a week into his presidency his administration is already walking back statements he has made about the pandemic and vaccine rollout."
+    publishedDateTime: 2021-01-28T16:36:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KaGjS7SL3qw/biden-team-clarifies-president-coronavirus-statements"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-team-clarifies-president-coronavirus-statements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-clarifies-president-coronavirus-statements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7155937b-2402-46a2-803b-81e07a3dbd1c/25b324de-91ea-401d-a3e2-1ec415d22749/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s 3-part plan to tackle the coronavirus: Masks, vaccinations, opening schools"
     excerpt: "President-elect Joe Biden on Tuesday announced a three-part plan to combat the coronavirus pandemic in the first 100 days of his administration. Biden, speaking in his hometown of Wilmington, Delaware as he formally unveiled his team of top health officials, emphasized “masking, vaccinations, opening"
     publishedDateTime: 2020-12-08T20:45:02Z

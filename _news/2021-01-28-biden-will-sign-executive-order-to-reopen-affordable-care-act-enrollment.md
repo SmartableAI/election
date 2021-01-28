@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Klain pushes back on criticism over Biden's gush of executive actions"
+    excerpt: "White House chief of staff Ron Klain on Thursday defended the flurry of executive actions President Joe Biden has taken in his first week in office, pushing back against a New York Times editorial urging the administration to enact more policy through congressional legislation."
+    publishedDateTime: 2021-01-28T14:48:00Z
+    webUrl: "https://www.politico.com/news/2021/01/28/ron-klain-biden-executive-orders-463428"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/28/ron-klain-biden-executive-orders-463428"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/28/ron-klain-biden-executive-orders-463428"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/f0/1f/07f6351548c5b134e252af2e0a70/gettyimages-459992630-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "8w8INPyhKTLFwulvBiG6JqUW0PQpDP8bcAq/H7G7MjknDVAAyJoFHdXsFEzri0VuInLTf0onpWRqwsqwNwuOWU1PvqIEnmmE/R2MLYZFPWslZX7ElgamOOEdpLlF8rzD77Z0088eAI5LaI7Db1QQe8la/CjfjvUDJ8qfI+ww4Kae/XS1HtrJLExf6dePWw4ODTIoNu5kumwJOlfca0Wiiw/W274fWi+DhfeT4ojXG0ceNj5PXr3WBHQ1ecXx4KD9JTEVLC3MsUHZZFtcp+y4a3c7m+wCIqJKU4uLZCZaiRsAqXOzV1a9e0myHnGkg6iw/6xPEzNxWo7VrjmzqqXqO8ULgQgMNsHF6M5D9raMa2g=;t6uiq0BKRG3kVsVztAoA1g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/what-matters-january-22/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/what-matters-january-22/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden still seeking bipartisan Covid-19 relief package despite stalemate"
+    excerpt: "President Joe Biden is continuing to chase a bipartisan deal over his $1.9 trillion coronavirus relief proposal, but White House officials privately acknowledge the bill will need to be pared down to secure Republican support after GOP lawmakers balked at the price tag.\n    \n"
+    publishedDateTime: 2021-01-28T15:28:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ROVjEAtdrJA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/biden-bipartisan-covid-19-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/biden-bipartisan-covid-19-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127192327-biden-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden focuses on health care"
     excerpt: "President Joe Biden forges ahead with his new administration and agenda as former President Trump's impeachment trial looms. Follow here for the latest."
     publishedDateTime: 2021-01-28T13:10:00Z

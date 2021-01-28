@@ -159,6 +159,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Schumer: Democrats are prepared to pass Biden's coronavirus relief package without GOP support"
+    excerpt: "Senate Majority Leader Chuck Schumer said Thursday that Democrats are prepared to pass President Biden's massive coronavirus relief package without GOP support if Republicans don't recognize that \"big\" action is needed."
+    publishedDateTime: 2021-01-28T16:23:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aBYHH_Mpxuw/schumer-dems-prepared-pass-bidens-coronavirus-relief-package-without-gop-support"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-dems-prepared-pass-bidens-coronavirus-relief-package-without-gop-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-dems-prepared-pass-bidens-coronavirus-relief-package-without-gop-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/c816ee60-57e1-4002-bc02-1c9118a87034/e87f80b6-fac7-43b2-b6aa-f9f1d05ae441/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Americans still awaiting coronavirus stimulus checks as Biden reportedly offers $4B to Central America"
     excerpt: "Americans still waiting on coronavirus relief, including stimulus checks, from the federal government may be surprised to learn that President Biden is reportedly offering $4 billion to Central American countries for development."
     publishedDateTime: 2021-01-25T19:11:06Z
