@@ -123,6 +123,22 @@ related:
         width: 800
         height: 547
         isCached: true
+  - title: "Trump laid out a vision for America in his inaugural address 4 years ago. He has come nowhere near realizing it."
+    excerpt: "President Trump will leave office with more Americans out of work than when he started, and with the US's international reputation damaged."
+    publishedDateTime: 2021-01-19T22:44:00Z
+    webUrl: "https://www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/6006a71ce3d62500185fd109?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Most Americans Want Trump Gone From Politics, Poll Says"
     excerpt: "A slim majority of Americans want to see Trump charged with the incitement of the mob that attacked the Capitol Building, which would bar him from holding public office if convict"
     publishedDateTime: 2021-01-15T15:21:00Z
@@ -139,21 +155,19 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Should Trump Pardon Himself? 68% Of Americans Say 'No'"
-    excerpt: "The U.S. Constitution does not explicitly say whether a sitting president can pardon himself for potential criminal liabilities."
-    publishedDateTime: 2021-01-18T00:26:00Z
-    webUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284"
-    ampWebUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
+  - title: "EU Chiefs Express Relief As 'Friend' Replaces Trump"
+    excerpt: "The European Union's top officials expressed relief on Wednesday that they would again have a friend in the White House as Joe Biden replaces Donald Trump. Charles Michel, president of the European Council,"
+    publishedDateTime: 2021-01-20T09:09:00Z
+    webUrl: "https://www.ibtimes.com/eu-chiefs-express-relief-friend-replaces-trump-3126426"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 75
+    quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/outgoing-us-president-donald-trump-is-seeking-to.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/von-der-leyen-compared-the-us-riot-to-AFP_8Z66KB.jpg"
         width: 1024
-        height: 716
+        height: 682
         isCached: true
   - title: "From the border to the federal bench to raging political divisions: How Donald Trump's tenure has changed America"
     excerpt: "No matter what Trump does now, his past four years have left a mark on immigration, the federal bench and the nation's raging political divisions."

@@ -3432,6 +3432,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "What Latinos Want to Hear From Biden"
+    excerpt: "Ed Morales writes that while the inauguration of Joe Biden was a welcome relief after four years of Donald Trump's constant demonization of Latinos, it's going to take more than symbolic gestures of inclusion to address the needs of this often fragmented ..."
+    publishedDateTime: 2021-01-28T07:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/25/what_latinos_want_to_hear_from_biden_534310.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/518745_5_.jpg"
+        width: 750
+        height: 496
+        isCached: true
   - title: "Despite 'unity' narrative, Biden and former presidents share bleak view of the country"
     excerpt: "Beneath President Biden’s calls for unity and bipartisanship in his inaugural address lurked a bleak assessment of the country he was preparing to govern."
     publishedDateTime: 2021-01-22T06:42:00Z

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "City council approves bill condemning Trump for Capitol riot"
+    excerpt: "A city council in Maryland unanimously approved a resolution condemning former President Donald Trump for the violent siege of the U.S. Capitol"
+    publishedDateTime: 2021-01-26T20:55:00Z
+    webUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump taps Huntsville lawyer for international agriculture board"
     excerpt: "In one of his final acts in office, President Donald Trump has appointed Huntsville lawyer Mark McDaniel to a prominent international agricultural food board. U.S. Rep. Mo Brooks announced the appointment Monday of McDaniel The board,"
     publishedDateTime: 2021-01-19T14:58:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/G52E5G6DYZEQFH352DCX7OSTUM.jpg"
         width: 835
         height: 724
-        isCached: true
-  - title: "Donald Trump grants clemency to 143 people (not himself or family members) in final hours"
-    excerpt: "President Donald Trump, who has repeatedly used his clemency authority as a political tool rather than an act of mercy, issued a final wave of pardons and commutations on his last night in office, delivering relief for a mix of beneficiaries that included former strategist Stephen Bannon ,"
-    publishedDateTime: 2021-01-20T14:42:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/19/donald-trump-pardons-steve-bannon-white-house/4209763001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4209763001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4209763001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/15/USAT/99b7b1ca-90be-4570-8335-90f8fb20af93-AP_Trump_2.jpg?auto=webp&crop=4378,2463,x0,y319&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Facebook 'Supreme Court' To Judge Trump Suspension"
     excerpt: "Facebook and Instagram suspended Trump after his supporters stormed the US Capitol on January 6, an attack on the seat of democracy that led to Trump's second impeachment. The leading social network is referring the decision to its independent oversight board -- known informally as the Facebook \"supreme court\" -- with the authority to make binding rulings even chief executive Mark Zuckerberg must abide by."

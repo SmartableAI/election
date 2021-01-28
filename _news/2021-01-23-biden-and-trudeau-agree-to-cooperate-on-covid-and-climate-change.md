@@ -47,19 +47,19 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Moon urges Biden to learn from Trump's N. Korea diplomacy"
-    excerpt: "South Korea’s president has urged the incoming Biden administration to build upon the achievements and learn from the failures of President Donald Trump’s diplomatic engagement with North Korea"
-    publishedDateTime: 2021-01-18T05:15:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/moon-urges-biden-learn-trumps-korea-diplomacy-75317048"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/moon-urges-biden-learn-trumps-korea-diplomacy-75317048"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/moon-urges-biden-learn-trumps-korea-diplomacy-75317048"
+  - title: "Trump's trial, Biden's Cabinet picks await Senate post-siege"
+    excerpt: "President Donald Trump’s last full day in office Tuesday is also senators’ first day back since the deadly Capitol siege"
+    publishedDateTime: 2021-01-19T16:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-trial-bidens-cabinet-picks-await-senate-post-75344526"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-trial-bidens-cabinet-picks-await-senate-post-75344526"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-trial-bidens-cabinet-picks-await-senate-post-75344526"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/US/WireAP_3f5fa3a78c7f407584288265b5a43ecc_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_78be78f51e874ec1b6e3ff585ca01188_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -78,6 +78,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/15/271825a6-0f84-4789-b1b5-26e6a1f513f0/thumbnail/1200x630/e2df6a2401b1edfdd1bf44bba92ff8c9/gettyimages-1296409766.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden aims for new course on trade, breaking with Trump and Democratic predecessors"
+    excerpt: "Biden will confront the same question that has bedeviled U.S. policymakers for three decades: How can the U.S. shape for maximum benefit its overseas commercial engagements?"
+    publishedDateTime: 2021-01-14T18:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/326P67B4AAI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "James Comey Says Joe Biden Should Consider Pardoning Donald Trump to Allow U.S. to Heal"
     excerpt: "James Comey, the former FBI director fired by President Donald Trump in 2017, said the U.S. needs to \"focus on things that are going to matter.\""
@@ -110,6 +126,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/23/USAT/d2af2f4d-3bc8-477e-a5ca-d8c20530111f-GTY_1292797972.jpg?auto=webp&crop=2750,1547,x1,y247&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump farewell planned for Wednesday morning at military base ahead of Joe Biden’s oath of office"
+    excerpt: "White House officials are planning a farewell ceremony for Donald Trump as he leaves Washington on Wednesday morning."
+    publishedDateTime: 2021-01-18T15:55:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-leaving-white-house-early-20210118-axqwpl73gjdjdmrmguj6vy6wjm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-leaving-white-house-early-20210118-axqwpl73gjdjdmrmguj6vy6wjm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-leaving-white-house-early-20210118-axqwpl73gjdjdmrmguj6vy6wjm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: chicagotribune.com
+    quality: 127
+    images:
+      - url: "https://www.chicagotribune.com/resizer/FArwfV_VCDy2wkkwgEwMwZ3ow20=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VOTAKBFCVB4D4PIUGHMVXRV4XE.aspx"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Joe Biden, Donald Trump Battle Over COVID Travel Bans as Contentious Transition Draws to a Close"
+    excerpt: "Trump signed an order on Monday lifting some COVID-19 travel bans. A spokesperson for Biden immediately said the incoming Administration does not intend to do that."
+    publishedDateTime: 2021-01-19T02:42:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-donald-trump-battle-over-covid-travel-bans-contentious-transition-draws-close-1562474"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-donald-trump-battle-over-covid-travel-bans-contentious-transition-draws-close-1562474?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-donald-trump-battle-over-covid-travel-bans-contentious-transition-draws-close-1562474?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 127
+    images:
+      - url: "https://d.newsweek.com/en/full/1710516/biden-trump-debate-stage.jpg"
+        width: 2500
+        height: 1733
         isCached: true
   - title: "Business grows skittish about Trump and GOP after riots"
     excerpt: "Corporate America is quickly distancing itself from President Donald Trump and his Republican allies, with many of the biggest names in business — Goldman Sachs, Coca Cola, Ford, and Blue Cross Blue Shield — suspending political donations after a Trump-inspired mob ransacked the U."
@@ -287,6 +335,70 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden's national security Cabinet nominees face Senate tests"
+    excerpt: "While the Homeland Security and the intelligence community are unlikely to be confirmed by the time Biden takes the oath of office at noon Wednesday, some could be in place within days. The Senate typically confirms some nominees,"
+    publishedDateTime: 2021-01-19T05:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_60278844665d4eceae3340c9dc0fd4c0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump Reveals Who He Wants Statues to Honor in National Garden"
+    excerpt: "What do Kobe Bryant, Bob Hope and Thomas Jefferson have in common? They are among the more than 200 names President Donald Trump has recommended to be honored in a yet-to-be created National Garden of American Heroes."
+    publishedDateTime: 2021-01-18T20:44:00Z
+    webUrl: "https://www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450"
+    ampWebUrl: "https://www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1710472/donald-trump.jpg"
+        width: 2500
+        height: 1597
+        isCached: true
+  - title: "Iran imposes symbolic sanctions on President Trump"
+    excerpt: "Iran says it has imposed sanctions on President Donald Trump and a number of members of his administration over their alleged role in support of terrorism"
+    publishedDateTime: 2021-01-19T16:59:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/iran-imposes-symbolic-sanctions-president-trump-75344657"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/iran-imposes-symbolic-sanctions-president-trump-75344657"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/iran-imposes-symbolic-sanctions-president-trump-75344657"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_be3fc3e4d922437896a2a577782f9f0d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "U.S. actors union to decide whether to expel Donald Trump"
+    excerpt: "The American actors union is to hold a meeting to consider expelling U.S. President Donald Trump from its ranks."
+    publishedDateTime: 2021-01-20T02:02:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-sag-idUKKBN29O2J8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29O2J8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29O2J8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548357837&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I1J9"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Joe Biden's $1.9Tn Stimulus Plan Falls Flat With Moderate GOP Senators"
     excerpt: "President Joe Biden's sweeping new $1.9 trillion stimulus plan has fallen flat with two moderate Senate Republicans who have expressed reluctance to prioritizing pandemic relief just one month after the last legislation was passed."
     publishedDateTime: 2021-01-21T00:51:00Z
@@ -319,6 +431,54 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Timeline to Trump's impeachment trial in U.S. Senate"
+    excerpt: "Former President Donald Trump's trial in the U.S. Senate will start in the week of Feb. 8, Senate leaders said on Friday, following his impeachment in the House of Representatives earlier this month on a charge of inciting an insurrection."
+    publishedDateTime: 2021-01-23T06:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-timeline-factbo-idUSKBN29S016"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29S016"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29S016"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548779115&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0M018"
+        width: 797
+        height: 545
+        isCached: true
+  - title: "Trump should not get intelligence briefings"
+    excerpt: "After he leaves, Trump has no need to know ,” Susan M. Gordon presented a compelling argument for restricting former president Donald Trump’s access to intelligence briefings. Let us not forget that he is thought to have revealed information about highly classified operations in the Middle East to Russian officials when he met with them in the Oval Office in 2017."
+    publishedDateTime: 2021-01-22T22:24:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/trump-should-not-get-intelligence-briefings/2021/01/22/44f04cf0-5c21-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/trump-should-not-get-intelligence-briefings/2021/01/22/44f04cf0-5c21-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/trump-should-not-get-intelligence-briefings/2021/01/22/44f04cf0-5c21-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VI63LKS3FYI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 932
+        isCached: true
+  - title: "Trump's coming impeachment trial aggravates rift among Republicans"
+    excerpt: "The coming second impeachment trial of former U.S. President Donald Trump on a charge of inciting the deadly storming of the Capitol has aggravated a rift among his fellow Republicans that was on full display on Sunday."
+    publishedDateTime: 2021-01-25T00:54:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN29T0OQ?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29T0OQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29T0OQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548888557&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N0CK"
+        width: 760
+        height: 545
+        isCached: true
   - title: "Biden, a longtime ally of police, will enter White House pushing for reform"
     excerpt: "We’ve always had a good working relationship with Biden,” said Jim Pasco, executive director of the Fraternal Order of Police, which twice endorsed Trump. He was one of the first police officials invited to meet with the Biden transition team."
     publishedDateTime: 2021-01-11T13:38:00Z
@@ -334,6 +494,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFBYXHRLUUI6TEDOTVK3MRI6WQ.jpg&w=1440"
         width: 1440
         height: 961
+        isCached: true
+  - title: "Prominent Senate Republican warns Trump trial could spark more impeachments"
+    excerpt: "A prominent U.S. Senate Republican warned on Saturday that former President Donald Trump's second impeachment trial could lead to the prosecution of former Democratic presidents if Republicans retake the chamber in two years."
+    publishedDateTime: 2021-01-24T01:42:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-cornyn-idUSKBN29S0O7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29S0O7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29S0O7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548834668&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0M0FI"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden signs executive actions on COVID, climate change, immigration and more"
+    excerpt: "On his first day in office, President Joe Biden signed more than a dozen executive actions, some of which reverse decisions made by his predecessor, former President Donald Trump. Several executive actions will make changes to the U."
+    publishedDateTime: 2021-01-21T22:45:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-signs-executive-orders-day-one/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-signs-executive-orders-day-one/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-signs-executive-orders-day-one/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/64589036-a7c4-4cc0-8d88-97ada3e2066b/thumbnail/1200x630/1f674aad3fe473e9bf1691bb7579e28c/ap21020808952796.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The GOP’s looming impeachment strategy: Focus on the Constitution, not Trump"
     excerpt: "The House will send its impeachment article to the Senate on Monday, Speaker Nancy Pelosi (D-Calif.) has announced, paving the way for another Donald Trump impeachment trial. The big immediate question is whether the former president will be convicted."
@@ -367,6 +559,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Trump presidency was marked by battles over truth itself. Those aren’t over."
+    excerpt: "Scholars say susceptibility to false beliefs and conspiracy theories preceded Trump and will extend well beyond him."
+    publishedDateTime: 2021-01-18T18:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R6IE53SVAYI6XKAX4XT7RJAG2Y.jpg&w=1440"
+        width: 1440
+        height: 914
+        isCached: true
   - title: "Trump’s final batch of more than 140 pardons a boon for well-connected fraudsters"
     excerpt: "Donald Trump’s final batch of more than 140 pardons and sentence commutations issued in his last hours as president."
     publishedDateTime: 2021-01-21T01:35:00Z
@@ -398,6 +606,36 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/9f041b88-1a5f-4dd5-9213-d06622116b6c/thumbnail/1200x630/6219b8c8009a7033546036bc1223f898/gettyimages-1230087931.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden to block Trump's plan to lift COVID-19 European travel restrictions"
+    excerpt: "U.S. President-elect Joe Biden plans to quickly extend travel restrictions barring travel by most people who have recently been in much of Europe and Brazil soon after President Donald Trump lifted those requirements effective Jan."
+    publishedDateTime: 2021-01-19T12:57:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-travel-exclusi-idCAKBN29N20Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548250195&r=LYNXMPEH0H19C&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Trump prepares to offer clemency to more than 100 people in his final hours in office"
+    excerpt: "The president has been consumed with the question of whether to issued preemptive pardons to his children, top aides and himself, but it remains unclear whether he will do so."
+    publishedDateTime: 2021-01-18T10:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-pardons-final-days/2021/01/17/7a57969c-5905-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pardons-final-days/2021/01/17/7a57969c-5905-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardons-final-days/2021/01/17/7a57969c-5905-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZSVFXTCZI4I6XOF55Y3LDTIYX4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Analysis: The three types of Republicans Donald Trump created and who wins in the end"
     excerpt: "Here is a taxonomy of the types of Republicans Donald Trump has left in his wake after departing the White House Wednesday."
@@ -561,6 +799,22 @@ related:
         width: 800
         height: 526
         isCached: true
+  - title: "McConnell: Donald Trump ‘fed lies’ to mob about Biden election"
+    excerpt: "Senate Republican leader Mitch McConnell opened the Senate on Tuesday saying the pro-Trump mob that stormed the Capitol was “fed lies” by the president and others in the deadly riot to overturn Democrat Joe Biden’s election."
+    publishedDateTime: 2021-01-19T18:37:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/mcconnell-donald-trump-fed-lies-to-mob-about-biden-election.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/mcconnell-donald-trump-fed-lies-to-mob-about-biden-election.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/mcconnell-donald-trump-fed-lies-to-mob-about-biden-election.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 105
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ASKG7CCQR5BJVDZDT23CK2WUFM.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "'Just move on': Republicans grapple with post-Trump future"
     excerpt: "For the first time in more than a decade, Republicans are waking up to a Washington where Democrats control the White House and Congress, adjusting to an era of diminished power, deep uncertainty and internal feuding."
     publishedDateTime: 2021-01-21T14:05:00Z
@@ -572,6 +826,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump Ends Where He Began, Fighting Release of Tax Returns"
+    excerpt: "Donald Trump’s lawyers made a preemptive move to stop congressional Democrats from obtaining his tax returns as President Joe Biden takes power, asking a judge for an Inauguration Day hearing in a case that could threaten the secrecy of his closely guarded financial information."
+    publishedDateTime: 2021-01-21T12:11:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-20/trump-ends-where-he-began-fighting-release-of-his-tax-returns"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTCLIIW43Mu8/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How This Trump Impeachment Trial Compares With First"
     excerpt: "The same Senate chamber that was overrun by insurrectionists will become a somber court for Donald Trump’s impeachment trial, with senators sitting silently in judgment as they hear arguments that could make him the first president permanently disqualified from federal office."
     publishedDateTime: 2021-01-22T20:58:00Z
@@ -642,6 +910,20 @@ related:
         width: 800
         height: 519
         isCached: true
+  - title: "Joe Biden won't fight for Donald Trump's TikTok ban, say experts after outgoing president extends lawsuit deadline"
+    excerpt: "Experts say President-elect Joe Biden is set to drop the ban, after Trump's administration extended a legal deadline over it to after he leaves office"
+    publishedDateTime: 2021-01-19T19:16:00Z
+    webUrl: "https://www.businessinsider.com/donald-trumps-tiktok-ban-likely-just-ended-with-legal-deadline-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5fff2702a8de7700187d3a0c?width=1200&format=jpeg"
+        width: 921
+        height: 460
+        isCached: true
   - title: "Republican U.S. senator joins calls for Trump resignation as Democrats prepare to impeach"
     excerpt: "Republican U.S. senator called for President Donald Trump to resign on Sunday, saying he could face criminal liability after the deadly storming of the U.S. Capitol by his supporters."
     publishedDateTime: 2021-01-11T00:16:00Z
@@ -656,6 +938,81 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump Lifts COVID-19 Travel Bans On Europe, UK; Biden Says 'No'"
+    excerpt: "U.S. citizens who have traveled to Brazil and Europe, including the U.K., within the last 14 days from entering the country."
+    publishedDateTime: 2021-01-19T00:20:00Z
+    webUrl: "https://www.ibtimes.com/trump-lifts-covid-19-travel-bans-europe-uk-biden-says-no-3124946"
+    ampWebUrl: "https://www.ibtimes.com/trump-lifts-covid-19-travel-bans-europe-uk-biden-says-no-3124946?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-lifts-covid-19-travel-bans-europe-uk-biden-says-no-3124946?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/19/air-france-has-decided-to-take-its-a380.jpg"
+        width: 1024
+        height: 680
+        isCached: true
+  - title: "Melania Trump Faces Criticism For Not Giving Jill Biden White House Tour"
+    excerpt: "Melania Trump received backlash on social media after reports said she broke tradition by not giving incoming first lady Jill Biden a pre-inauguration tour of the White House."
+    publishedDateTime: 2021-01-19T09:30:00Z
+    webUrl: "https://ibtimes.com/melania-trump-faces-criticism-not-giving-jill-biden-white-house-tour-3125214"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-faces-criticism-not-giving-jill-biden-white-house-tour-3125214?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-faces-criticism-not-giving-jill-biden-white-house-tour-3125214?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 89
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/08/melania-trump.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Joe Biden’s COVID team is nervous about what the Trump team hasn’t told them"
+    excerpt: "CNN With the hours dwindling until Joe Biden is sworn in — officially taking the helm of the US government during its worst health crisis in 100"
+    publishedDateTime: 2021-01-19T12:49:00Z
+    webUrl: "https://www.ocregister.com/2021/01/19/joe-bidens-covid-team-is-nervous-about-what-the-trump-team-hasnt-told-them/"
+    ampWebUrl: "https://www.ocregister.com/2021/01/19/joe-bidens-covid-team-is-nervous-about-what-the-trump-team-hasnt-told-them/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/19/joe-bidens-covid-team-is-nervous-about-what-the-trump-team-hasnt-told-them/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 87
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/01/200925174647-trump-v-biden-covid-19-live-video-2-1.jpg?w=576&h=324"
+        width: 576
+        height: 324
+        isCached: true
+  - title: "Trump lifts UK, Ireland and Brazil COVID travel restrictions; Biden pushes back"
+    excerpt: "President-elect Joe Biden’s incoming White House press secretary says his administration does not intend to lift coronavirus travel restrictions for Europe, the U.K., Ireland and Brazil. The message from Jen Psaki came Monday evening after the White House said President Donald Trump had lifted the restrictions for those countries,"
+    publishedDateTime: 2021-01-19T00:11:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-lifts-uk-ireland-and-brazil-covid-travel-restrictions-biden-pushes-back.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-lifts-uk-ireland-and-brazil-covid-travel-restrictions-biden-pushes-back.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-lifts-uk-ireland-and-brazil-covid-travel-restrictions-biden-pushes-back.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 86
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JMGXV76SHZDVFIJN6CQA4GX5WM.jpg"
+        width: 5371
+        height: 3581
+        isCached: true
+  - title: "McConnell Said Trump 'Fed Lies' to Mob About Biden Election"
+    excerpt: "Senate Republican leader Mitch McConnell opened the Senate on Tuesday saying the pro-Trump mob that stormed the Capitol was “fed lies” by the president and others in the deadly riot."
+    publishedDateTime: 2021-01-19T18:49:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-19/trumps-trial-bidens-cabinet-picks-await-senate-post-siege"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-19/trumps-trial-bidens-cabinet-picks-await-senate-post-siege?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-19/trumps-trial-bidens-cabinet-picks-await-senate-post-siege?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 85
   - title: "Donald Trump’s Republican wall eroding ahead of impeachment vote"
     excerpt: "But with a sudden force, the wall of Republican support that has enabled Trump to weather a seemingly endless series of crises is beginning to erode. Trump’s weakened standing among his own party will come into sharper focus on Wednesday when the House is expected to impeach the president for inciting a riot at the U."
     publishedDateTime: 2021-01-13T13:39:00Z
@@ -729,6 +1086,22 @@ related:
       name: Time
       domain: time.com
     quality: 74
+  - title: "Joe Bide, Donald Trump, Coronavirus news and more: What’s trending today"
+    excerpt: "A look at some of the top stories trending today including news on Joe Biden, Donald Trump's final days in office, coronavirus updates and much more."
+    publishedDateTime: 2021-01-19T16:16:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/joe-bide-donald-trump-coronavirus-news-and-more-whats-trending-today.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-bide-donald-trump-coronavirus-news-and-more-whats-trending-today.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-bide-donald-trump-coronavirus-news-and-more-whats-trending-today.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VZU3INCMZBB5DGJIPRCC6WNWD4.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden Pledges 'New Chapter' But Trump Impeachment Trial Looms"
     excerpt: "Biden promised \"a new chapter\" for the nation on the day after Trump became the first US president to ever be impeached twice, as the incoming Democrat sought to seize the narrative in a primetime address and get Americans looking forward again."
     publishedDateTime: 2021-01-15T02:24:00Z
@@ -743,6 +1116,31 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "Trump Impeachment Trial Looms Over Biden's First 100 Days Agenda"
+    excerpt: "Trump was impeached in the House of Representatives -- becoming the first US president in history subjected to a second impeachment -- Biden hopes to seize the narrative in a primetime address and get Americans looking forward again."
+    publishedDateTime: 2021-01-14T20:41:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-trial-looms-over-bidens-first-100-days-agenda-3122198"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-elect-joe-biden-wants-to-get.jpg"
+        width: 1024
+        height: 680
+        isCached: true
+  - title: "Canada's Trudeau Embraces Biden in Bid to Turn Page on Trump Era"
+    excerpt: "Canadian Prime Minister Justin Trudeau's swift embrace of U.S. president-elect Joe Biden illustrates the degree to which Canada, one of America's closest allies, is looking forward to turning the page on the Donald Trump era."
+    publishedDateTime: 2021-01-15T16:46:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "South Korea's Moon Urges Biden Admin to Follow up on Kim, Trump Summit"
     excerpt: "SEOUL (Reuters) - South Korean President Moon Jae-in said on Monday that U.S. President-elect Joe Biden should hold talks with North Korea to build on progress that President Donald Trump had made with leader Kim Jong Un."
     publishedDateTime: 2021-01-18T04:48:00Z
@@ -825,6 +1223,45 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Key Dates Of The Trump Presidency"
+    excerpt: "Here are some of the main dates punctuating Trump's political career: January 25, 2017: Trump signs an executive order ordering construction to begin on the wall he promised to build on the southern US border with Mexico,"
+    publishedDateTime: 2021-01-19T00:55:00Z
+    webUrl: "https://www.ibtimes.com/key-dates-trump-presidency-3125025"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/21/us-president-donald-trump-steps-into-the-northern.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "House Sending Trump Impeachment to Senate, GOP Opposes Trial"
+    excerpt: "WASHINGTON (AP) — As the House prepares to bring the impeachment charge against Donald Trump to the Senate for trial, a growing number of Republican senators say they are opposed to the proceeding, dimming the chances that former president will be convicted on the charge that he incited a siege of the U."
+    publishedDateTime: 2021-01-25T05:47:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-25/house-sending-trump-impeachment-to-senate-gop-opposes-trial"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-25/house-sending-trump-impeachment-to-senate-gop-opposes-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-25/house-sending-trump-impeachment-to-senate-gop-opposes-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Republicans Signal Deep Resistance To Trump Senate Trial"
+    excerpt: "Republican lawmakers demonstrated Sunday that Democrats will have a fight on their hands to convict Donald Trump when the Senate next month opens its first-ever impeachment trial of a former president."
+    publishedDateTime: 2021-01-24T16:10:00Z
+    webUrl: "https://www.ibtimes.com/republicans-signal-deep-resistance-trump-senate-trial-3129467"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
+        width: 1024
+        height: 714
+        isCached: true
   - title: "Trump Sought the World's Attention and Got It. Now the White House Reality Show Ends"
     excerpt: "President Donald Trump never hid how he felt. His words and body language made his thoughts clear. For more than four years, Trump, a Republican, cultivated a political base by sharing his thoughts and emotions - pride,"
     publishedDateTime: 2021-01-18T14:51:00Z

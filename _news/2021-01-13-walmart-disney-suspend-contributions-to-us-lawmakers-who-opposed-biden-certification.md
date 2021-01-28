@@ -77,22 +77,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Texas attorney general files lawsuit to block Biden's deportation freeze"
-    excerpt: "The Texas attorney general filed a lawsuit on Friday that seeks to block U.S. President Joe Biden's move to pause certain deportations for 100 days, a controversial opening-move by the Democratic president that has provoked blowback from some Republicans."
-    publishedDateTime: 2021-01-22T21:40:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-texas-idUSKBN29R2HM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2HM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2HM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548757965&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1FZ"
-        width: 830
-        height: 545
-        isCached: true
   - title: "As Joe Biden Calls for Unity, AOC Demands Josh Hawley and Ted Cruz Expulsions"
     excerpt: "The New York representative said the Republicans should be chucked out of the Senate if they failed to resign."
     publishedDateTime: 2021-01-22T14:23:00Z
@@ -218,6 +202,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/7595686b-762b-49ce-9210-96f74c5f7ead-GTY_1230427031.jpg?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden taps Levine for key health role, in historic pick of transgender person"
+    excerpt: "President-elect Joe Biden on Tuesday named Dr. Rachel Levine to service as assistant U.S. health secretary, a historic first as Levine would become the first openly transgender official to be confirmed by the Senate."
+    publishedDateTime: 2021-01-19T14:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-levine/biden-taps-levine-for-key-health-role-in-historic-pick-of-transgender-person-idUSKBN29O1J1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548313465&r=LYNXMPEH0I0ZQ&w=800"
+        width: 800
+        height: 515
         isCached: true
   - title: "Biden pledges to vaccinate 100 million Americans in his first 100 days in office"
     excerpt: "President-elect Joe Biden is pledging to fix the United States' slow coronavirus vaccine rollout. CBS News senior White House and political correspondent Ed O'Keefe spoke with CBSN's Elaine Quijano about what the incoming Biden administration plans to do."

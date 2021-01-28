@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/donald-melania-trump-looking-palm-beach-prop
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-melania-trump-looking-palm-beach-properties-report-says-3111038?amp=1"
 type: article
 quality: 75
-heat: 135
+heat: 115
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       name: International Business Times
       domain: ibtimes.com
     quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Twitter Reacts To Melania Trump Leaving Donald Trump Alone In Front Of Cameras"
-    excerpt: "Melania Trump left her husband, Donald Trump, alone in front of the cameras after their departure from the White House Wednesday. But some Twitter users said her husband pushed her to walk ahead."
-    publishedDateTime: 2021-01-24T10:06:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
         width: 1024

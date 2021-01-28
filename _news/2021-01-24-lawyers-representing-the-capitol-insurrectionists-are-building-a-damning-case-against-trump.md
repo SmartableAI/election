@@ -31,175 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump global broadcasting chief quits amid VOA staff revolt"
-    excerpt: "Former President Donald Trump’s hand-picked chief of U.S. international broadcasting has quit amid a burgeoning staff revolt and growing calls for his resignation"
-    publishedDateTime: 2021-01-21T06:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Cheney tests Trump grip on GOP post-presidency"
-    excerpt: "Rep. Liz Cheney's (R-Wyo.) leadership position in the House GOP is turning into a test for former President Trump's grip on the conference and the Republican Party."
-    publishedDateTime: 2021-01-22T18:25:00Z
-    webUrl: "https://thehill.com/homenews/house/535385-cheney-tests-trump-grip-on-gop-post-presidency"
-    ampWebUrl: "https://thehill.com/homenews/house/535385-cheney-tests-trump-grip-on-gop-post-presidency?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/535385-cheney-tests-trump-grip-on-gop-post-presidency?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Senate receives article of impeachment against Trump"
-    excerpt: "The article of impeachment against President Trump has been delivered to the Senate, and House impeachment managers presented, exhibited and read it aloud. The trial is set to begin the week of February 8."
-    publishedDateTime: 2021-01-26T12:23:00Z
-    webUrl: "https://www.cbsnews.com/news/senate-articles-of-impeachment-donald-trump/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/senate-articles-of-impeachment-donald-trump/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/senate-articles-of-impeachment-donald-trump/"
+  - title: "Meet the impeachment managers who will argue Democrats' case against Trump"
+    excerpt: "Pelosi said the House will officially send the article of impeachment against Mr. Trump to the Senate on Monday. \"We are respectful of the Senate's constitutional power over the t"
+    publishedDateTime: 2021-01-24T12:05:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-second-impeachment-managers/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/0fdec909-ae2b-411c-8627-853e30a4ec11/thumbnail/1200x630/71356b076f82a4707fdd684483bfcce5/gettyimages-1298447143.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/24/57aaa662-8c1c-41a3-ad09-c83e6c55cbd8/thumbnail/1200x630/0bd961208cc571af7316daf6ffedf08b/gettyimages-1296220549.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "GOP largely votes against holding Trump impeachment trial"
-    excerpt: "Senate Republicans have voted overwhelmingly against moving forward with Donald Trump’s second impeachment trial"
-    publishedDateTime: 2021-01-26T22:38:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
+  - title: "GOP Lawmaker Claimed 'Democratic Machine' Paid Capitol Rioters to Make Trump Look Bad"
+    excerpt: "As rioters supporting President Donald Trump attacked the U.S. Capitol on January 6, newly elected Republican North Carolina Congressman Madison Cawthorn told conservative talk radio program The Charlie Kirk Show that the \"Democratic machine\" had placed \"agitators\" among the mob in order to make Trump and his followers look bad."
+    publishedDateTime: 2021-01-18T22:31:00Z
+    webUrl: "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458"
+    ampWebUrl: "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_829e8312972b4569a4e084dadcdb1b36_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d.newsweek.com/en/full/1710490/madison-cawthorn-democratic-machine-rioters-trump-agitators.jpg"
+        width: 3308
+        height: 1932
         isCached: true
-  - title: "Senate rejects GOP motion to declare Trump impeachment trial unconstitutional"
-    excerpt: "Senators were sworn in as jurors on Tuesday in the second impeachment trial of former President Donald Trump for inciting an insurrection, with proceedings scheduled to get underway in two weeks. Senator Patrick Leahy,"
-    publishedDateTime: 2021-01-27T11:45:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/senate-rejects-motion-declare-trump-impeachment-trial-unconstitutional/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/senate-rejects-motion-declare-trump-impeachment-trial-unconstitutional/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/senate-rejects-motion-declare-trump-impeachment-trial-unconstitutional/"
+  - title: "Democrats Hail Jamie Raskin for Leading Donald Trump Impeachment After Loss of Son Tommy"
+    excerpt: "Rep. Jamie Raskin (D-MD) has been praised by his Democratic colleagues for his role leading the impeachment push against President Donald Trump following the death of his son in December. Raskin, whose son Thomas died aged 25 in December, took up the role ..."
+    publishedDateTime: 2021-01-18T12:53:00Z
+    webUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336"
+    ampWebUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/26/d8c6009b-1a41-4bf2-9d5d-627b79829356/thumbnail/1200x630/ed7731eecbd029ac99de9fcf4c3abfeb/screen-shot-2021-01-26-at-2-48-36-pm.png"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1710325/jamie-raskin-madeleine-dean-capitol.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Nearly all GOP senators vote against impeachment trial for Trump, signaling likely acquittal"
-    excerpt: "Sen. Rand Paul (R-Ky.) offered a procedural objection questioning the constitutionality of impeaching a former president, and it won the backing of all but 5 Republicans."
-    publishedDateTime: 2021-01-27T04:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/gop-senators-to-question-basis-for-trump-impeachment-signaling-likely-acquittal/2021/01/26/cd7397dc-6002-11eb-9061-07abcc1f9229_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/gop-senators-to-question-basis-for-trump-impeachment-signaling-likely-acquittal/2021/01/26/cd7397dc-6002-11eb-9061-07abcc1f9229_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-senators-to-question-basis-for-trump-impeachment-signaling-likely-acquittal/2021/01/26/cd7397dc-6002-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+  - title: "California man made pipe bombs, plotted attacks on Democrats to keep Trump in power, prosecutors allege"
+    excerpt: "Federal prosecutors alleged in charges made public Wednesday that a California man who wrongly believed Donald Trump had won the election built pipe bombs and planned to go to “war” against Democrats and others to keep him in power."
+    publishedDateTime: 2021-01-28T04:15:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/ian-benjamin-rogers-trump-pipe-bombs-democrats/2021/01/27/c9e2964e-60d5-11eb-9061-07abcc1f9229_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/ian-benjamin-rogers-trump-pipe-bombs-democrats/2021/01/27/c9e2964e-60d5-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/ian-benjamin-rogers-trump-pipe-bombs-democrats/2021/01/27/c9e2964e-60d5-11eb-9061-07abcc1f9229_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 114
+    quality: 109
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IMAXTRTAAYI6XILXO5S7FGUVEQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7ZLN4RX63YI6PHJR24WPPDN65Y.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Trump laid out a vision for America in his inaugural address 4 years ago. He has come nowhere near realizing it."
-    excerpt: "President Trump will leave office with more Americans out of work than when he started, and with the US's international reputation damaged."
-    publishedDateTime: 2021-01-19T22:44:00Z
-    webUrl: "https://www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/6006a71ce3d62500185fd109?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "USAGM Chief Fires Trump Allies Over Radio Free Europe And Other Networks"
-    excerpt: "The acting head of the U.S. Agency for Global Media fired the presidents and boards over three not-for-profit international networks who were appointed by an ally of former President Trump."
-    publishedDateTime: 2021-01-23T04:06:00Z
-    webUrl: "https://www.npr.org/2021/01/22/959848852/usagm-chief-fires-trump-allies-over-radio-free-europe-and-other-networks"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 104
-    images:
-      - url: "https://media.npr.org/assets/img/2021/01/23/ap_10011504186_wide-ec617adb6edf9bdcc0689da453bb1f38b4042c8e.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "What’s Next For Trump? His Plans As Impeachment Article Hits Senate"
-    excerpt: "Former President Donald Trump is opening a new office in Florida on Monday that will carry on his admininstration's administration, an announcement he made as the House delivered a single article of impeachment to the Senate."
-    publishedDateTime: 2021-01-26T12:26:00Z
-    webUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886"
-    ampWebUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
-        width: 1024
-        height: 696
-        isCached: true
-  - title: "EU Chiefs Express Relief As 'Friend' Replaces Trump"
-    excerpt: "The European Union's top officials expressed relief on Wednesday that they would again have a friend in the White House as Joe Biden replaces Donald Trump. Charles Michel, president of the European Council,"
-    publishedDateTime: 2021-01-20T09:09:00Z
-    webUrl: "https://www.ibtimes.com/eu-chiefs-express-relief-friend-replaces-trump-3126426"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/von-der-leyen-compared-the-us-riot-to-AFP_8Z66KB.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Rocker David Crosby On Songwriting, 'Emotional Voyages' And Donald Trump"
-    excerpt: "Like all entertainers, David Crosby -- the mustachioed co-founder of both the seminal folk rock band The Byrds and the supergroup Crosby, Stills and Nash (and Young) -- had a disappointing 2020 that saw the pandemic ground tours and thwart live performance."
-    publishedDateTime: 2021-01-17T00:58:00Z
-    webUrl: "https://www.ibtimes.com/rocker-david-crosby-songwriting-emotional-voyages-donald-trump-3123923"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/16/david-crosby-arrives-at-the-62nd-annual-grammy.jpg"
-        width: 1024
-        height: 650
         isCached: true
 
 secured: "6h7r6GeLNV+jiTqoltJKOwGp1TQ10E8gP2mAz1nt/fTuzvQQLO9azDsRt2w9XqL68L0lHLaGWQ0jTdLSkaj39E6crGPsl5rrLcXQyjhyGY1qpTcU4P3BOWWLTjK4Kix5V9rXgMNistFV7MfO/2qDK5st5JUIL1RSZAZVuAPRAttIRVDJ+e6TZKz4UhNot1U8mqehajjRm8nzcbc3l5cabA+VUyE61EtwiHxTGt1OKXK63RqRMyb1svApCOEWx1VjyU67tbSz+mfodErOS7IFv22xOLNnGEZOY3b+AKiKMStPw1C6IOSdc+pHhxpOVWGcNVlZiCLlz6RzrRS3BMfZzVILezGFw/zEoHJ9Bgn3AF8hSHcc1QfsfKr2fcfJ2ViXSYgqcSLs15F8q35/c4YZV9bdGT3EosDaqYZJjpe20qirHL2qdx3klfSJ100e7EOotKqw1fO1iCVWevVGYCGsozQPPBtc8gpe3AbEQFGIDROSrA8z9QDvT6/hM+E5OeGfGk42Huxq3Zenkn0qt/Kojg==;UUgNt52bJ00PcrJuplSw4w=="

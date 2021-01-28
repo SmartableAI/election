@@ -191,22 +191,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden promises help to U.S. workers hit by pandemic, Trump hints at 2024 run"
-    excerpt: "President-elect Joe Biden on Wednesday promised a group of workers hit by the raging COVID-19 pandemic that more aid would be on the way, while President Donald Trump hinted he may be ready to begin planning another run for the White House in 2024."
-    publishedDateTime: 2020-12-03T13:30:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idINKBN28C1H8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28C1H8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28C1H8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543264198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB11YK"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Factbox: Trump reshaped U.S. immigration system, Biden wants to reverse course"
     excerpt: "President Donald Trump's push to crack down on illegal immigration and overhaul the legal immigration system was at the heart of the Republican's 2016 campaign and remained at the forefront of his White House agenda."
     publishedDateTime: 2020-12-03T11:32:00Z
@@ -254,6 +238,22 @@ related:
       - url: "https://i.insider.com/5fcbe481b6a3a800199b6e0a?width=750&format=jpeg&auto=webp"
         width: 750
         height: 500
+        isCached: true
+  - title: "Power Up: One reason Trump keeps pushing to overturn Biden win: He's raking in cash"
+    excerpt: "President Trump has raised more than $150 million pushing his false claims about a rigged election, but a big chunk of the money could wind up as a down payment for the president's post-White House political operation – another sign that the blundering efforts to overturn the election results may not really be about winning at all."
+    publishedDateTime: 2020-12-01T11:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZAI342BSOEI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump’s unfinished border wall faces uncertain future after Biden pledge to freeze construction"
     excerpt: "President-elect Joe Biden has pledged to halt construction once in office, leaving Trump’s signature project in the lurch."

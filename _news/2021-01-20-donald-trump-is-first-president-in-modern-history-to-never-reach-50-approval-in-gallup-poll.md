@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-first-president-modern-history
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653?amp=1"
 type: article
 quality: 114
-heat: 114
+heat: 154
 published: true
 
 provider:
@@ -29,6 +29,40 @@ images:
     width: 2500
     height: 1623
     isCached: true
+
+related:
+  - title: "Trump made 30,573 false or misleading claims as president. Nearly half came in his final year."
+    excerpt: "The Washington Post Fact Checker’s database of Trump claims, originally launched as a project to track his first 100 days, offers a window into his obsessions."
+    publishedDateTime: 2021-01-24T04:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UMKPWNCU54I6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Donald Trump spends final minutes in office at Mar-a-Lago, is first president to skip inauguration in more than 150 years"
+    excerpt: "Trump's military send-off at Joint Base Andrews appeared smaller than expected. He left on Air Force One as Frank Sinatra's \"My Way\" played."
+    publishedDateTime: 2021-01-21T18:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/20/donald-trump-plans-end-his-presidency-mar-lago-florida/4210601001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4210601001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4210601001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/de83808c-d841-464c-9f8d-eb7ef135dad1-AFP_AFP_8Z69UN.JPG?auto=webp&crop=4566,2568,x0,y186&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "MDtu0ZVY4Nn7KK6tUY7DDwdcaEqIrUDFuOA7wgEJLVZSZKI6U74hjvdcEpM7f8P0YdpkECj8HH82JqLcIjuWsvN+tyZ/byLOsLXis9CKbDpiB1xnuSrrHpEpe7RzjpKc5rfBE6qKaSsgt0X7R1PXPuZA50XFCw/SFiPFMNzswVp/bFE6cKurBiomGEkxs6obx/ptV3S6/dIkSEQuK2y+XY9wiRw3DQuEhT1zkDRsyT7AGzLhZQ3jncABbqS7a5VCb4+h49jYVux1UPyh37sadB14a19KXdZZJdVGUMrUPYQ7PnWan1yYcLxheBc/IA3OmwYRSK3pkY7PBMtGIHvl9vR8Km4EduzhPfRMHPr9q9A=;TbuOiveEnBZH64w3FCIkKQ=="
 ---

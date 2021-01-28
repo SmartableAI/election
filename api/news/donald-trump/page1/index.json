@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-28-biden-pauses-trump-policies-as-blinken-takes-diplomatic-helm.md",
+      "title": "Biden pauses Trump policies as Blinken takes diplomatic helm",
+      "excerpt": "The Biden administration has paused or put under review a wide swath of Trump-era foreign policies as America's new top diplomat takes the helm of the State Department",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_422b8d5714fc41d48d28e76caf1444a1_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
+      "publishedDateTime": "2021-01-27T22:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-trump-supporter-charged-in-2016-twitter-scheme-to-undermine-hillary-clinton.md",
       "title": "Trump supporter charged in 2016 Twitter scheme to undermine Hillary Clinton",
       "excerpt": "A far-right social media influencer was arrested Wednesday and accused of interfering in the 2016 election through an organized campaign to boost Donald Trump's candidacy by conning supporters of his opponent,",
@@ -106,58 +159,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-28-analysis-mcconnell-was-done-with-trump-his-party-said-not-so-fast.md",
-      "title": "Analysis: McConnell was done with Trump. His party said not so fast.",
-      "excerpt": "Mitch McConnell had finally had enough. But with most Republicans rallying around Trump, he sided with his colleagues trying to throw out the impeachment case.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/ep6Q1vD4mePB-iDVbF8MWftnQD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MOWKPUEBW73M7CU3NULPPZFH7A.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-27T18:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-28-trump-to-meet-with-rep-kevin-mccarthy-in-florida.md",
       "title": "Trump to meet with Rep. Kevin McCarthy in Florida",
       "excerpt": "Former President Donald Trump is expected to meet on Thursday with Republican House Minority Leader Kevin McCarthy, sources confirm to The Post. McCarthy (R-Calif.) was a close Trump ally during",
@@ -203,162 +204,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-trump-opens-office-of-the-former-president-in-florida.md",
-      "title": "Trump opens \"Office of the Former President\" in Florida",
-      "excerpt": "Former President Donald Trump announced Monday the official opening of the Palm Beach County, Florida, which is tasked with overseeing the 45th president's official activities in his post-presidency life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/office-of-the-former-president-trump-florida/",
-      "originalUrl": "https://www.cbsnews.com/news/office-of-the-former-president-trump-florida/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/26/56763f7f-832f-4afa-b230-1e1232404aed/thumbnail/1200x630/d12b165a061a3afbccf9da5d0bdb3f56/gettyimages-1230702145.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/office-of-the-former-president-trump-florida/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/office-of-the-former-president-trump-florida/",
-      "publishedDateTime": "2021-01-27T03:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-donald-trump-didnt-pardon-himself-a-massive-tsunami-of-legal-peril-now-awaits-him.md",
-      "title": "Donald Trump didn't pardon himself. A massive tsunami of legal peril now awaits him.",
-      "excerpt": "Trump faces a host of investigations at the federal, state, and local levels involving his presidency, campaign, business interests, and taxes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1",
-      "originalUrl": "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/600865b6e3d62500185fd62e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-anti-trump-republican-adam-kinzinger-knows-fate-is-coming-for-him.md",
-      "title": "Anti-Trump Republican Adam Kinzinger knows fate is coming for him",
-      "excerpt": "One thing to understand about Adam Kinzinger is that he knows how this will end. “The only hope you have is to accept the fact that you’re already dead,” the Republican congressman from Illinois says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YPWG6TSYGMI6XIEL6E4B546SA4.jpg&w=1440",
-          "width": 1440,
-          "height": 968,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-27T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -627,21 +472,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-26-supreme-court-ends-lawsuits-alleging-that-trump-illegally-profited-from-business-interests.md",
-      "title": "Supreme Court ends lawsuits alleging that Trump illegally profited from business interests",
-      "excerpt": "All sides agreed that cases involving the Constitution’s emoluments clauses are moot after he lost reelection.",
+      "path": "_news/2021-01-26-twitter-on-jill-biden-potentially-being-more-active-first-lady-than-melania-trump-it-wont-be-a-challenge.md",
+      "title": "Twitter On Jill Biden Potentially Being 'More Active' First Lady Than Melania Trump: 'It Won't Be A Challenge'",
+      "excerpt": "During her first five days as first lady, Jill Biden had virtual appearances before governors' spouses, young Latinos and library officials and visited the nonprofit Whitman-Walker Health in Washington,",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/courts_law/supreme-court-trump-emoluments-/2021/01/25/b243814a-5f1f-11eb-9430-e7c77b5b0297_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/courts_law/supreme-court-trump-emoluments-/2021/01/25/b243814a-5f1f-11eb-9430-e7c77b5b0297_story.html",
+      "webUrl": "https://www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571",
+      "originalUrl": "https://www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZMRXHQP2EI6XCRVEN7PD2ZO64.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/13/jill-biden.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -649,16 +494,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/courts_law/supreme-court-trump-emoluments-/2021/01/25/b243814a-5f1f-11eb-9430-e7c77b5b0297_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-trump-emoluments-/2021/01/25/b243814a-5f1f-11eb-9430-e7c77b5b0297_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-25T20:27:00-08:00",
+      "ampWebUrl": "https://www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571?amp=1",
+      "publishedDateTime": "2021-01-25T21:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -731,59 +576,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-26-biden-overturns-trump-ban-on-transgender-people-serving-in-us-military.md",
-      "title": "Biden overturns Trump ban on transgender people serving in U.S. military",
-      "excerpt": "President Joe Biden on Monday signed an executive order that overturned a controversial ban by his predecessor on transgender individuals serving in the U.S. military, a move cheered by LGBTQ advocates that fulfills a campaign promise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-military-transgender-idUSKBN29U1VH",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-military-transgender-idUSKBN29U1VH",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2669,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548998122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O15J",
-          "width": 778,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29U1VH",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1VH",
-      "publishedDateTime": "2021-01-25T18:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-26-trump-is-threatening-to-form-the-patriot-party-that-name-has-already-been-used-by-hillbilly-socialists.md",
       "title": "Trump is threatening to form the Patriot Party. That name has already been used — by ‘hillbilly’ socialists.",
       "excerpt": "The original Patriot Party was a group of socialist radicals who sought to stoke revolutionary fervor among poor and working-class White people, decking themselves out in Confederate flags while taking their political inspiration from the Black Panthers.",
@@ -844,7 +636,7 @@
       "originalUrl": "https://www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -896,7 +688,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-dominion/trump-lawyer-giuliani-faces-dominion-lawsuit-for-big-lie-election-fraud-claims-idUSKBN29U1CD",
       "featuredContent": null,
       "highlight": null,
-      "heat": 475,
+      "heat": 515,
       "tags": null,
       "images": [
         {
@@ -1105,7 +897,7 @@
       "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1214,7 +1006,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 533,
+      "heat": 773,
       "tags": null,
       "images": [
         {
@@ -1266,7 +1058,7 @@
       "originalUrl": "https://www.cbsnews.com/news/trump-second-impeachment-managers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -1290,6 +1082,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-24-donald-trump-is-gone-but-his-big-lie-is-a-rallying-call-for-rightwing-extremists.md",
+      "title": "Donald Trump is gone but his big lie is a rallying call for rightwing extremists",
+      "excerpt": "The myth of the ‘stolen election’ – simple and endlessly repeated – is likely to be a rallying call for far-right terrorists",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/99bba16b7535882a7c3c741b8089b0c34f1fc2ce/0_0_4000_2667/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc52c78261d8aa66c1bd5b6e412311f9",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
+      "publishedDateTime": "2021-01-24T03:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1462,6 +1306,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-23-top-iran-leader-posts-trump-like-image-with-drone-vows-revenge.md",
+      "title": "Top Iran leader posts Trump-like image with drone, vows revenge",
+      "excerpt": "The website of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone alongside a threat of revenge over last year's killing of a top Iranian general in a U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU",
+      "originalUrl": "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548797338&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1C2",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN29R1YU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R1YU",
+      "publishedDateTime": "2021-01-23T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-georgia-us-attorney-pushed-to-resign-by-trump-aides-rejoins-law-firm.md",
       "title": "Georgia U.S. Attorney Pushed to Resign by Trump Aides Rejoins Law Firm",
       "excerpt": "The former top federal prosecutor in Atlanta, whom White House officials pushed to resign earlier this month because then-President Donald Trump was upset he wasn’t doing enough to investigate unproven claims of election fraud,",
@@ -1551,6 +1447,110 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-trump-impeachment-trial-likely-in-mid-february-republican-senator.md",
+      "title": "Trump impeachment trial likely in mid-February: Republican senator",
+      "excerpt": "Former President Donald Trump's U.S. Senate impeachment trial is likely to begin sometime around mid-February in order to give his defense team time to prepare, Republican Senator Mike Braun told reporters on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-trial/trump-impeachment-trial-likely-in-mid-february-republican-senator-idUSKBN29Q30X",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-trial/trump-impeachment-trial-likely-in-mid-february-republican-senator-idUSKBN29Q30X",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548638815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1PW",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29Q30X",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q30X",
+      "publishedDateTime": "2021-01-21T14:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-theologian-russell-moore-has-a-message-for-christians-who-still-worship-donald-trump.md",
+      "title": "Theologian Russell Moore Has a Message for Christians Who Still Worship Donald Trump",
+      "excerpt": "If you can defend this, you can defend anything,” wrote Russell Moore, a theologian who is also the president of the Ethics and Religious Liberty Commission (ERLC) of the Southern Baptist Convention (SBC),",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/5932014/donald-trump-christian-supporters/",
+      "originalUrl": "https://time.com/5932014/donald-trump-christian-supporters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2021/01/russell-moore-conservative-christians.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T03:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

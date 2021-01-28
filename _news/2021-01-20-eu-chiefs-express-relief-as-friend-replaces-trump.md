@@ -29,117 +29,113 @@ images:
     isCached: true
 
 related:
-  - title: "Trump global broadcasting chief quits amid VOA staff revolt"
-    excerpt: "Former President Donald Trump’s hand-picked chief of U.S. international broadcasting has quit amid a burgeoning staff revolt and growing calls for his resignation"
-    publishedDateTime: 2021-01-21T06:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+  - title: "Majority of Americans Think History Will View Trump as 'Failed' President"
+    excerpt: "Evaluating a president's time in office often requires a rearview mirror. While history has yet to weigh in on President Donald Trump's time in office, Americans don't see President Donald Trump receiving positive remarks down the road. After a contentious ..."
+    publishedDateTime: 2021-01-18T15:48:00Z
+    webUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394"
+    ampWebUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://d.newsweek.com/en/full/1710407/trump-history-americans-failed-president.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Cheney tests Trump grip on GOP post-presidency"
-    excerpt: "Rep. Liz Cheney's (R-Wyo.) leadership position in the House GOP is turning into a test for former President Trump's grip on the conference and the Republican Party."
-    publishedDateTime: 2021-01-22T18:25:00Z
-    webUrl: "https://thehill.com/homenews/house/535385-cheney-tests-trump-grip-on-gop-post-presidency"
-    ampWebUrl: "https://thehill.com/homenews/house/535385-cheney-tests-trump-grip-on-gop-post-presidency?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/535385-cheney-tests-trump-grip-on-gop-post-presidency?amp"
+  - title: "Slim majority of Americans want Senate to convict Trump: Reuters/Ipsos poll"
+    excerpt: "A slim majority of Americans say former President Donald Trump should be convicted by the Senate of inciting an insurrection and barred from holding public office, according to a Reuters/Ipsos poll, which showed a sharp partisan divide over the issue."
+    publishedDateTime: 2021-01-23T02:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-poll-idUSKBN29R2M9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2M9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2M9"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg"
-        width: 980
-        height: 551
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548764158&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1IU"
+        width: 804
+        height: 545
         isCached: true
-  - title: "Senate receives article of impeachment against Trump"
-    excerpt: "The article of impeachment against President Trump has been delivered to the Senate, and House impeachment managers presented, exhibited and read it aloud. The trial is set to begin the week of February 8."
-    publishedDateTime: 2021-01-26T12:23:00Z
-    webUrl: "https://www.cbsnews.com/news/senate-articles-of-impeachment-donald-trump/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/senate-articles-of-impeachment-donald-trump/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/senate-articles-of-impeachment-donald-trump/"
+  - title: "Exclusive: As Trump leaves office, 50% of Americans see him as a 'failed' president"
+    excerpt: "Trump hasn't succeeded in overturning the election results but he has persuaded a third of Americans that Biden wasn't legitimately elected"
+    publishedDateTime: 2020-12-24T09:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/donald-trump-failed-president-50-usa-today-poll-say/3926190001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3926190001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3926190001"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/0fdec909-ae2b-411c-8627-853e30a4ec11/thumbnail/1200x630/71356b076f82a4707fdd684483bfcce5/gettyimages-1298447143.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "GOP largely votes against holding Trump impeachment trial"
-    excerpt: "Senate Republicans have voted overwhelmingly against moving forward with Donald Trump’s second impeachment trial"
-    publishedDateTime: 2021-01-26T22:38:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-impeachment-senate-testing-sway-gop-75482333"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_829e8312972b4569a4e084dadcdb1b36_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Senate rejects GOP motion to declare Trump impeachment trial unconstitutional"
-    excerpt: "Senators were sworn in as jurors on Tuesday in the second impeachment trial of former President Donald Trump for inciting an insurrection, with proceedings scheduled to get underway in two weeks. Senator Patrick Leahy,"
-    publishedDateTime: 2021-01-27T11:45:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/senate-rejects-motion-declare-trump-impeachment-trial-unconstitutional/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/senate-rejects-motion-declare-trump-impeachment-trial-unconstitutional/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/senate-rejects-motion-declare-trump-impeachment-trial-unconstitutional/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/26/d8c6009b-1a41-4bf2-9d5d-627b79829356/thumbnail/1200x630/ed7731eecbd029ac99de9fcf4c3abfeb/screen-shot-2021-01-26-at-2-48-36-pm.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
-    excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."
-    publishedDateTime: 2021-01-24T00:15:00Z
-    webUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
+  - title: "Vast majority of Americans hold Trump responsible for Capitol siege, new Insider poll shows"
+    excerpt: "Americans overwhelmingly say that President Donald Trump is responsible on some level for the Capitol siege, according to a new Insider poll. 76% said Trump bears a \"great deal\" o"
+    publishedDateTime: 2021-01-17T13:59:00Z
+    webUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 115
     images:
-      - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
+      - url: "https://i.insider.com/6000b0e1a81ea100188db505?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Nearly all GOP senators vote against impeachment trial for Trump, signaling likely acquittal"
-    excerpt: "Sen. Rand Paul (R-Ky.) offered a procedural objection questioning the constitutionality of impeaching a former president, and it won the backing of all but 5 Republicans."
-    publishedDateTime: 2021-01-27T04:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/gop-senators-to-question-basis-for-trump-impeachment-signaling-likely-acquittal/2021/01/26/cd7397dc-6002-11eb-9061-07abcc1f9229_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/gop-senators-to-question-basis-for-trump-impeachment-signaling-likely-acquittal/2021/01/26/cd7397dc-6002-11eb-9061-07abcc1f9229_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-senators-to-question-basis-for-trump-impeachment-signaling-likely-acquittal/2021/01/26/cd7397dc-6002-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+  - title: "USA TODAY/Suffolk Poll: Americans, braced for violence at the inauguration, see democracy damaged after Trump"
+    excerpt: "A new USA TODAY/Suffolk Poll finds President Trump's standing has eroded since the U.S. Capitol riot. A majority predict violence at Joe Biden's inauguration."
+    publishedDateTime: 2021-01-17T14:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/17/trump-hurt-democracy-violence-feared-inauguration-poll/4165750001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4165750001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4165750001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IMAXTRTAAYI6XILXO5S7FGUVEQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/58d3db56-ae52-4500-9485-aa58d36fc8f2-USATSI_15428849.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
+    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
+    publishedDateTime: 2021-01-19T12:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-legacy/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSL1N2JS0KO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
+        width: 800
+        height: 547
+        isCached: true
+  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
+    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
+    publishedDateTime: 2021-01-19T16:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-legacy-analysis/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSKBN29O15W?post"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
+        width: 800
+        height: 547
         isCached: true
   - title: "Trump laid out a vision for America in his inaugural address 4 years ago. He has come nowhere near realizing it."
     excerpt: "President Trump will leave office with more Americans out of work than when he started, and with the US's international reputation damaged."
@@ -157,49 +153,35 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "USAGM Chief Fires Trump Allies Over Radio Free Europe And Other Networks"
-    excerpt: "The acting head of the U.S. Agency for Global Media fired the presidents and boards over three not-for-profit international networks who were appointed by an ally of former President Trump."
-    publishedDateTime: 2021-01-23T04:06:00Z
-    webUrl: "https://www.npr.org/2021/01/22/959848852/usagm-chief-fires-trump-allies-over-radio-free-europe-and-other-networks"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 104
-    images:
-      - url: "https://media.npr.org/assets/img/2021/01/23/ap_10011504186_wide-ec617adb6edf9bdcc0689da453bb1f38b4042c8e.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "What’s Next For Trump? His Plans As Impeachment Article Hits Senate"
-    excerpt: "Former President Donald Trump is opening a new office in Florida on Monday that will carry on his admininstration's administration, an announcement he made as the House delivered a single article of impeachment to the Senate."
-    publishedDateTime: 2021-01-26T12:26:00Z
-    webUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886"
-    ampWebUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886?amp=1"
+  - title: "Most Americans Want Trump Gone From Politics, Poll Says"
+    excerpt: "A slim majority of Americans want to see Trump charged with the incitement of the mob that attacked the Capitol Building, which would bar him from holding public office if convict"
+    publishedDateTime: 2021-01-15T15:21:00Z
+    webUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261"
+    ampWebUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-donald-trump-owns-the-unfortunate-distinction.jpg"
         width: 1024
-        height: 696
+        height: 682
         isCached: true
-  - title: "Rocker David Crosby On Songwriting, 'Emotional Voyages' And Donald Trump"
-    excerpt: "Like all entertainers, David Crosby -- the mustachioed co-founder of both the seminal folk rock band The Byrds and the supergroup Crosby, Stills and Nash (and Young) -- had a disappointing 2020 that saw the pandemic ground tours and thwart live performance."
-    publishedDateTime: 2021-01-17T00:58:00Z
-    webUrl: "https://www.ibtimes.com/rocker-david-crosby-songwriting-emotional-voyages-donald-trump-3123923"
+  - title: "From the border to the federal bench to raging political divisions: How Donald Trump's tenure has changed America"
+    excerpt: "No matter what Trump does now, his past four years have left a mark on immigration, the federal bench and the nation's raging political divisions."
+    publishedDateTime: 2021-01-18T23:23:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/18/heres-how-trumps-tumultuous-four-years-president-changed-america/4165708001/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 34
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/16/david-crosby-arrives-at-the-62nd-annual-grammy.jpg"
-        width: 1024
-        height: 650
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?crop=5999,3374,x1,y626&width=3200&height=1680&fit=bounds"
+        width: 2987
+        height: 1680
         isCached: true
 
 secured: "rA0dv1c0k+8Lb0i5yw9DDsUuGAkuXif8osHc6AGEyHaSdojGYdoVULCuvK8cGaaF0oLTrJZeb6lpkXYG6JwQ1ojok+rlT8D3UUurzf3u/Ra4hMRWcvj11AuXeqRYOnaZGLB9YZDEDcLiIaYE7gn7txC1+yUPrB2nMIhXn+vQ7G9yx5QDgD0uhdJ0ECIF9Q/c9flzBOxVj5d8T0yCvuxCSoFdHkdwvg0EtRGigJoVZzsAcDCnxiXvpZsKww1IAK+XICPZH5QZppvtTZ6GakO2FzZuqhyjxMe9ez3vyPLo1by/XaXjyW8N3o7WTHVt69vaTgoFEEchG6XSohaKOd2aJtKmO8TxbqpSKjqtZ4ELJNo=;s9fG1LgvH9ml/vcXZkHtAw=="

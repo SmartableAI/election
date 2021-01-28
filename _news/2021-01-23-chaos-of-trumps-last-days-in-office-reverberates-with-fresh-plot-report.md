@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Facebook's oversight board to rule on Trump ban"
+    excerpt: "Facebook is passing the buck for its indefinite suspension of former president Donald Trump to a quasi-independent oversight board, setting up a major test of the recently established panel"
+    publishedDateTime: 2021-01-21T18:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_1ad850f0ef8142389a126a58050fcfca_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Arizona Republicans reelect fervent Trump ally as chair"
     excerpt: "Arizona Republicans on Saturday reelected Kelli Ward as party chair, giving a second term to one of Donald Trump’s most unflinching supporters even after the GOP lost ground in the state last year"
     publishedDateTime: 2021-01-23T23:18:00Z
@@ -94,6 +110,70 @@ related:
       - url: "https://s.abcnews.com/images/Nightline/210123_ntl_politics_1239_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Power Up: Republican rift widens over Trump impeachment"
+    excerpt: "House lawmakers will tonight deliver to the Senate a single article of impeachment against former president Donald Trump, alleging “incitement of insurrection” in a trial set to start Feb. 9. The delay may help President Biden confirm some of his Cabinet nominees."
+    publishedDateTime: 2021-01-25T16:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4PXJQ4C6ZYI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 981
+        isCached: true
+  - title: "U.S. Senate blocks constitutional challenge to Trump impeachment trial"
+    excerpt: "The U.S. Senate voted 55-45 on Tuesday to block a Republican effort to upend plans for former President Donald Trump's impeachment trial on a charge that he incited the deadly Jan. 6 assault on the U."
+    publishedDateTime: 2021-01-27T02:25:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUKKBN29V2JI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29V2JI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29V2JI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1FA"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "U.S. Senate kills Republican move to upend Trump impeachment trial"
+    excerpt: "The U.S. Senate on Tuesday rejected a Republican effort to stop former President Donald Trump's upcoming impeachment trial on a charge that he incited the deadly Jan. 6 assault on the U.S. Capitol."
+    publishedDateTime: 2021-01-26T20:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-republican-idUSKBN29V2FL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V2FL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2FL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1F9"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump censure faces tough odds in Senate"
+    excerpt: "Senators are discussing a long-shot, bipartisan effort to censure former President Trump over the Jan. 6 Capitol attack."
+    publishedDateTime: 2021-01-27T23:47:00Z
+    webUrl: "https://thehill.com/homenews/senate/536210-trump-censure-faces-tough-odds-in-senate"
+    ampWebUrl: "https://thehill.com/homenews/senate/536210-trump-censure-faces-tough-odds-in-senate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536210-trump-censure-faces-tough-odds-in-senate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_01202021_getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Members of Trump campaign behind rally that ignited US Capitol riot, records show"
     excerpt: "Members of President Donald Trump’s failed presidential campaign played key roles in orchestrating the Washington rally that spawned a deadly assault on the U.S. Capitol."
@@ -143,6 +223,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "'Trumpocalypse' is over. Why the anti-Trump billboard in downtown Phoenix is coming down"
+    excerpt: "Trumpocalypse,' the anti-Donald Trump billboard in downtown Phoenix is being replaced. The controversial Grand Ave. billboard will feature new images"
+    publishedDateTime: 2021-01-24T15:07:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/arts/2021/01/24/donald-trump-billboard-downtown-phoenix/6665056002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6665056002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6665056002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/8748c6c4833f4d286dc7aab150adee2b64263865/c=0-173-4890-2936/local/-/media/2017/05/12/Phoenix/Phoenix/636302166299134058--20170319-Trump-billboard-0065.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Trump jumps into a divisive battle over the Republican Party — with a threat to start a ‘MAGA Party’"
     excerpt: "The former president, in his first political activity since leaving office, endorses an ally for Arizona party chair who backed his false claims of election fraud."
     publishedDateTime: 2021-01-24T04:10:00Z
@@ -189,6 +285,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Hundreds of publishing industry figures have signed an open letter in opposition to a potential Trump memoir"
+    excerpt: "Hundreds of authors, editors, and agents signed an open letter asking the world's publishers to skip a post-presidency memoir from Donald Trump."
+    publishedDateTime: 2021-01-22T10:27:00Z
+    webUrl: "https://www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/60044f8de3d62500185fcf8e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Arizona Republicans Censure Party Leaders At Odds With Trump"
     excerpt: "State GOP members passed resolutions at a meeting on Saturday to condemn three party leaders who they said failed to support President Trump: Gov. Doug Ducey, former Sen. Jeff Flake and Cindy McCain."
     publishedDateTime: 2021-01-24T03:10:00Z
@@ -217,6 +329,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Republicans face uncertain future in post-Trump era"
+    excerpt: "The third highest-ranking Republican in the House, Congresswoman Liz Cheney of Wyoming, is facing backlash following her support for impeaching former President Donald Trump. CBS News Capitol Hill producer Rebecca Kaplan joins \"CBSN AM\" to discuss the divisions within the GOP."
+    publishedDateTime: 2021-01-25T14:23:00Z
+    webUrl: "https://www.cbsnews.com/video/republican-party-post-trump-divisions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/25/c97f4332-6590-4643-8683-d132f8c2bfa2/thumbnail/1200x630/5c699f42fa172802dca2b8e49dd7e31d/cbsn-fusion-republicans-face-uncertain-future-in-post-trump-era-thumbnail-632647-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Impeachment Trial Rules Remain a Work in Progress"
     excerpt: "The same Senate chamber that was overrun by insurrectionists will become a somber court for Donald Trump’s impeachment trial, as senators weigh whether to make him the first president permanently disqualified from federal office."
     publishedDateTime: 2021-01-25T22:17:00Z
@@ -231,20 +357,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Does Donald Trump have a future in the Republican party?"
-    excerpt: "Former US President Donald Trump’s influence within the Republican party will weaken as he goes up against others who want to run for president, an ex-chief of staff at the Department of Homeland Security has said."
-    publishedDateTime: 2021-01-26T16:28:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-55809571"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0955kyw.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "GOP signals unwillingness to part with Trump after riot"
     excerpt: "Donald Trump has lost his social media megaphone, the power of government and the unequivocal support of his party's elected leaders. But a week after leaving the White House in disgrace, a large-scale Republican defection that would ultimately purge him from the party appears unlikely."
     publishedDateTime: 2021-01-27T11:26:00Z
@@ -256,6 +368,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Republicans face uncertain future in post-Trump era"
+    excerpt: "The third highest-ranking Republican in the House, Congresswoman Liz Cheney of Wyoming, is facing backlash following her support for impeaching former President Donald Trump. CBS News Capitol Hill producer Rebecca Kaplan joins \"CBSN AM\" to discuss the divisions within the GOP."
+    publishedDateTime: 2021-01-27T02:28:00Z
+    webUrl: "https://www.cbsnews.com/video/republican-party-post-trump-divisions-rebecca-kaplan-analysis-2021-01-25/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/25/c97f4332-6590-4643-8683-d132f8c2bfa2/thumbnail/1200x630/5c699f42fa172802dca2b8e49dd7e31d/cbsn-fusion-republicans-face-uncertain-future-in-post-trump-era-thumbnail-632647-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "45 Republican senators vote to dismiss impeachment of Donald Trump – video"
     excerpt: "Procedural objection fails but indicates stiff challenge of persuading 17 Republicans to vote for conviction"
     publishedDateTime: 2021-01-27T07:16:00Z
@@ -286,6 +412,36 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How Trump could mount a presidential campaign even if he's banned from office"
+    excerpt: "A Senate vote to bar former President Trump from public office may not be enough to stop him from running another White House campaign in 2024 — at least for awhile."
+    publishedDateTime: 2021-01-27T15:08:00Z
+    webUrl: "https://www.businessinsider.com/trump-2024-presidential-campaign-despite-impeachment-trial-conviction-banned-office-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/60109b811d2df20018b7106e?width=700"
+        width: 700
+        height: 525
+        isCached: true
+  - title: "Republicans back away from confronting Trump and his loyalists after the Capitol insurrection, embracing them instead"
+    excerpt: "Powerful party leaders are trying to avoid a divisive battle to improve their odds of reclaiming power in 2022."
+    publishedDateTime: 2021-01-28T06:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/riot-republicans-trump-impeachment/2021/01/27/b13633fe-60b6-11eb-9061-07abcc1f9229_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/riot-republicans-trump-impeachment/2021/01/27/b13633fe-60b6-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/riot-republicans-trump-impeachment/2021/01/27/b13633fe-60b6-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QRNMS5Q7VQI6XORB6LYAD4CVJM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump allies and Republican lawmakers lost thousands of followers in Twitter purge after Capitol riots"
     excerpt: "Republican lawmakers lost thousands of followers when Twitter purged QAnon accounts following the violent mob attack on the Capitol stoked by Trump."
     publishedDateTime: 2021-01-17T21:55:00Z
@@ -299,6 +455,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/01/14/USATODAY/usatsports/twitter-white-house-trump.jpg?width=1600&height=800&fit=crop"
         width: 1600
         height: 800
+        isCached: true
+  - title: "GOP to stay neutral should Donald Trump run again"
+    excerpt: "The head of the Republican National Committee on Wednesday declined to encourage former President Donald Trump to run for the White House in 2024, saying the GOP would stay “neutral” in its next presidential primary."
+    publishedDateTime: 2021-01-27T22:33:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/gop-to-stay-neutral-should-donald-trump-run-again.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/gop-to-stay-neutral-should-donald-trump-run-again.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/gop-to-stay-neutral-should-donald-trump-run-again.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AT5FBR475NGFHB2ZYFQMPUZA7I.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trump Mulled Replacing Attorney General Over Election Results: US Media"
     excerpt: "Donald Trump considered replacing then-acting US attorney general Jeffrey A. Rosen with a Justice Department lawyer who would help him force Georgia officials to overturn the state's election result,"
@@ -328,6 +500,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Most Pennsylvania GOP Backed Trump to the End, and Still Do"
+    excerpt: "With Donald Trump out of the White House, Pennsylvania’s Republican Party shows no sign of walking away from a president who lost control of Congress, carried out an unprecedented campaign to overturn an election and is blamed by some in his party for inciting a violent assault on the country’s democracy."
+    publishedDateTime: 2021-01-21T12:14:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-01-21/most-pennsylvania-gop-backed-trump-to-the-end-and-still-do"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "U1SkxWuCY12MY1ifObUc2Z0mBarhjU6iogoqD6IiUtNb0mC1cD0Xy+GxAO02XqGWpJTD1q7MQnhTayfLZw5U2cxjr0WWX+/VnyoL7r169Dz/1OgB4reXkkMXrv1UmtCYgSvtoMwuFu7NV1/Yj3+z1CtASKm1B8AqPsoUC4aBQP/ol5/us8XhfgZ3sx/d1CwuW+rdaSQtyjHSRyJyRjtVjetODWThXOGOr6VBtooa9n7hMIYNPoECiB6yQGSsnTomoX3CQZ9Lr/NAiRWlZdwDT85qdg3/sApa4244NJWvMTubHvxDQRfdcnd435g7aR9+BI14U2Zd6/eAocIFBKM2r45kMDkIslQbUtAN7sEHdRAIeo0UD6ZtpPcFR+YP47BHTVyN22ZRXR8pBlqJLFQTCUxDC/6rUuWnyTcggdBZMTAnsntcIe+NtuDxaKc+vZOl0OmqjpShz4eo/7XzHCwmQB9BoaL1Xrzze7VvmXjcFG6ljyFONzB1aZQNkPSkFOGPkeu8RrLicH+jJWu/aeNc+w==;q2X11z0lUWPe+PSl38z4DA=="
 ---

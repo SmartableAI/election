@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inaugura
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
 type: article
 quality: 125
-heat: 685
+heat: 665
 published: true
 
 provider:
@@ -242,20 +242,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/c5c40351-05c9-455e-b250-2a454d9b4c96/thumbnail/1200x630/de26ce642b0eba79813d73b9a9b6928f/cbsn-fusion-president-biden-hopes-us-reaches-15-million-covid-19-vaccinations-a-day-thumbnail-633320-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "President Biden hopes U.S. reaches 1.5 million COVID-19 vaccinations a day"
-    excerpt: "President Joe Biden has set a goal that the U.S. will eventually roll out 1.5 million COVID-19 vaccines a day, rather than 1 million a day, as previously suggested. Ed O'Keefe reports"
-    publishedDateTime: 2021-01-26T13:12:00Z
-    webUrl: "https://www.cbsnews.com/video/president-biden-hopes-us-reaches-15-million-covid-19-vaccinations-a-day/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 103
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/c5c40351-05c9-455e-b250-2a454d9b4c96/thumbnail/1200x630/de26ce642b0eba79813d73b9a9b6928f/cbsn-fusion-president-biden-hopes-us-reaches-15-million-covid-19-vaccinations-a-day-thumbnail-633320-640x360.jpg"
         width: 1200

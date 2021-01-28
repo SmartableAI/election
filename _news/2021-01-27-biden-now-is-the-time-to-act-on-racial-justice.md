@@ -93,20 +93,20 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden takes sweeping steps to curb climate change, vows job creation"
-    excerpt: "President Joe Biden on Wednesday signed a new raft of executive actions to combat climate change, including pausing new oil and gas leases on federal land and cutting fossil fuel subsidies, as he pursues green policies he billed as a boon for job creation."
-    publishedDateTime: 2021-01-28T04:45:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-climate-idUKKBN29W0YS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29W0YS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29W0YS"
+  - title: "U.S. private prison revenue under pressure from new Biden rules"
+    excerpt: "CoreCivic and the GEO Group, two of the largest U.S. private prison companies, could lose as much as a quarter of their revenue, about $1 billion a year between them, under new limits on the sector from President Joe Biden."
+    publishedDateTime: 2021-01-27T16:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-companies-biden-prisons-idUSKBN29W14Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W14Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W14Z"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1HP"
-        width: 846
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549232072&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q0OK"
+        width: 817
         height: 545
         isCached: true
   - title: "Biden to reopen Obamacare markets to offer medical coverage during pandemic"
@@ -124,6 +124,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/0544a4c/2147483647/strip/true/crop/5018x3277+0+109/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6d%2F4e%2Fcd2fce2245d9a6d4f573c11090c6%2Felection-2020-california-ballot-harvesting-25945.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Joe Biden to Sign 3 Executive Orders on Climate Change—Here's What They Do"
+    excerpt: "The actions are the president's latest moves in an effort to address campaign promises and appease his supporters."
+    publishedDateTime: 2021-01-27T16:49:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-sign-3-executive-orders-climate-changeheres-what-they-do-1564882"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-sign-3-executive-orders-climate-changeheres-what-they-do-1564882?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-sign-3-executive-orders-climate-changeheres-what-they-do-1564882?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1717934/joe-biden.jpg"
+        width: 2500
+        height: 1642
         isCached: true
   - title: "Watch live: Biden nominee for DHS Director testifies at confirmation hearing"
     excerpt: "President-elect Joe Biden's nominee for Director of the Department of Homeland Security Alejandro Mayorkas on Tuesday morning is slated to testify at his Senate confirmation hearing.The hearing is scheduled to begin at 10 a."

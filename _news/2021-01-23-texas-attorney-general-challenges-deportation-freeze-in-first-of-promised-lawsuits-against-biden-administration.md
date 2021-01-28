@@ -63,22 +63,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Texas sues Biden administration over 100-day deportation ‘pause’"
-    excerpt: "Attorney General Ken Paxton’s lawsuit claims Biden violated a last-minute deal Texas and other states signed with the Trump administration."
-    publishedDateTime: 2021-01-23T03:16:00Z
-    webUrl: "https://www.washingtonpost.com/national/texas-biden-lawsuit-ice-deportations/2021/01/22/4548eec2-5cea-11eb-aaad-93988621dd28_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/texas-biden-lawsuit-ice-deportations/2021/01/22/4548eec2-5cea-11eb-aaad-93988621dd28_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/texas-biden-lawsuit-ice-deportations/2021/01/22/4548eec2-5cea-11eb-aaad-93988621dd28_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RX5IVPC47II6XKLWXLLEGHQD4I.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "UPDATE 1-Biden administration to discuss stimulus with lawmakers Sunday"
     excerpt: "The Biden administration plans to discuss the need for economic stimulus with a group of senators on Sunday, White House national economic council director Brian Deese said on Friday, as it seeks to build support for what it sees as a critical round of new coronavirus"
     publishedDateTime: 2021-01-22T18:53:00Z
@@ -125,22 +109,6 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548379044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I1O9"
         width: 820
-        height: 545
-        isCached: true
-  - title: "Biden administration to unveil more climate policies, urges China to toughen emissions target"
-    excerpt: "U.S. President Joe Biden's administration next week will release more policies it believes are needed to tackle climate change and is urging China to toughen one of its targets on greenhouse gas emissions,"
-    publishedDateTime: 2021-01-24T06:43:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-climate-idUKKBN29S0PA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29S0PA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29S0PA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 114
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548870152&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N06F"
-        width: 816
         height: 545
         isCached: true
   - title: "Biden: Science will be at `forefront' of his administration"

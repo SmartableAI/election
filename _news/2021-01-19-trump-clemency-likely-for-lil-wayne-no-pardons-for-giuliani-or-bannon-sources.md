@@ -157,6 +157,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "U.S. House to deliver Trump charge to Senate, triggering impeachment trial"
+    excerpt: "The U.S. House of Representatives on Monday is set to formally deliver to the Senate a charge accusing former President Donald Trump with inciting insurrection in a speech to his supporters before the deadly attack on the Capitol,"
+    publishedDateTime: 2021-01-26T02:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN29U13G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U13G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U13G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549038682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P012"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Rudy Giuliani: lawyers call for Trump's personal attorney to lose law licence"
     excerpt: "Trump’s personal attorney, who led efforts to overturn election result, criticised for calling for ‘trial by combat’ before Capitol attack"
     publishedDateTime: 2021-01-22T02:12:00Z
@@ -259,6 +275,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "House Sends Trump Impeachment Article To Senate, Triggering Trial"
+    excerpt: "The US House of Representatives presented a single article of impeachment to the Senate on Monday accusing Donald Trump of inciting the storming of the Capitol, setting in motion the first-ever impeachment trial of a former president."
+    publishedDateTime: 2021-01-26T03:09:00Z
+    webUrl: "https://www.ibtimes.com/house-sends-trump-impeachment-article-senate-triggering-trial-3130178"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
+        width: 1024
+        height: 714
+        isCached: true
   - title: "With Trump Gone, U.S. Supreme Court Pulls Plug on Anti-Corruption Cases"
     excerpt: "Five days after the end of Donald Trump's presidency, the U.S. Supreme Court on Monday halted lawsuits accusing him of violating the U.S. Constitution's anti-corruption provisions by maintaining ownership of his business empire including a hotel near the White House while in office."
     publishedDateTime: 2021-01-26T00:36:00Z

@@ -2,115 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-12-05-as-deadline-lapses-trump-administration-continues-tiktok-talks.md",
-      "title": "As Deadline Lapses, Trump Administration Continues TikTok Talks",
-      "excerpt": "The Trump administration will allow a Friday deadline for TikTok’s Chinese parent company to sell the viral video app to lapse, said a person with knowledge of the decision. But the government will not enforce an executive order demanding the sale,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html",
-      "publishedDateTime": "2020-12-04T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-trump-administration-appoints-loyalists-corey-lewandowski-and-david-bossie-to-defense-business-board.md",
-      "title": "Trump administration appoints loyalists Corey Lewandowski and David Bossie to Defense Business Board",
-      "excerpt": "The Trump administration installed loyalists on a Pentagon advisory panel on Friday, naming Corey Lewandowski and David Bossie among the new appointees to the Defense Business Board. The appointments were announced along with the removal of other members,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/",
-      "originalUrl": "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JVMGHMQ7S4I6XLKTJQP5USMQPU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2020/12/04/trump-administration-appoints-loyalists-corey-lewandowski-david-bossie-defense-business-board/?outputType=amp",
-      "publishedDateTime": "2020-12-04T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-05-iowas-contact-tracing-firm-helped-trump-reynolds-campaigns.md",
       "title": "Iowa's contact-tracing firm helped Trump, Reynolds campaigns",
       "excerpt": "After facing a workforce shortage for months, Iowa has awarded an emergency $2.3 million contact-tracing contract to a company owned by a Republican Party insider",
@@ -1601,7 +1492,111 @@
         "Election",
         "Donald Trump"
       ]
+    },
+    {
+      "path": "_news/2020-12-01-scott-atlas-resigns-as-special-adviser-to-trump-on-coronavirus.md",
+      "title": "Scott Atlas resigns as special adviser to Trump on coronavirus",
+      "excerpt": "Dr. Scott Atlas has resigned as special adviser to President Donald Trump, a White House official said on Monday, after a controversial four months during which he clashed repeatedly with other members of the coronavirus task force.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-atlas-idUSKBN28B3AS",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-atlas-idUSKBN28B3AS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 705,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542984625&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01U3",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28B3AS",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS",
+      "publishedDateTime": "2020-11-30T17:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-post-election-gallup-poll-biden-favorability-rises-to-55-while-trumps-dips-to-42.md",
+      "title": "Post-election Gallup poll: Biden favorability rises to 55% while Trump's dips to 42%",
+      "excerpt": "WASHINGTON – According to a new poll from Gallup, President-elect Joe Biden’s favorability rating is up following the conclusion of the election while President Donald Trumps",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/30/poll-biden-favorability-rises-while-trumps-falls-post-election/6471704002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/30/poll-biden-favorability-rises-while-trumps-falls-post-election/6471704002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 868,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/01/USAT/30672691-3610-4f9a-8828-e1c1beaf8e2c-AP_Biden-LGBTQ_Rights.jpg?auto=webp&crop=5999,3375,x0,y600&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6471704002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6471704002",
+      "publishedDateTime": "2020-11-30T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
     }
   ],
-  "nextPage": 12
+  "nextPage": null
 }

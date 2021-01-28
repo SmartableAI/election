@@ -60,6 +60,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "LIVE UPDATES: Trump, McCarthy set up meeting ahead of impeachment"
+    excerpt: "Follow for the latest updates on Trump's impeachment"
+    publishedDateTime: 2021-01-28T08:47:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DeQPMQfA-dA/live-updates-trump-impeachment-1-28-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-28-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-28-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump impeachment conviction urged in letter circulated by House aides"
     excerpt: "A group of aides to members of the U.S. House of Representatives plans to call on members of the U.S. Senate to convict former President Trump on an impeachment charge of \"inciting an insurrection.\""
     publishedDateTime: 2021-01-28T04:28:10Z
@@ -201,6 +217,20 @@ related:
     quality: 121
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why the Trump impeachment fizzled and acquittal is now a foregone conclusion"
+    excerpt: "Any flickering hope among Democrats to convict private citizen Donald Trump died when 45 of the 50 Senate Republicans voted that the entire proceeding is unconstitutional."
+    publishedDateTime: 2021-01-28T08:07:00Z
+    webUrl: "https://www.foxnews.com/media/why-the-trump-impeachment-fizzled-and-acquittal-is-now-a-foregone-conclusion"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 112
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/schumer.jpg"
         width: 1280
         height: 720
         isCached: true

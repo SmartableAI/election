@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-28-biden-pauses-trump-policies-as-blinken-takes-diplomatic-helm.md",
+      "title": "Biden pauses Trump policies as Blinken takes diplomatic helm",
+      "excerpt": "The Biden administration has paused or put under review a wide swath of Trump-era foreign policies as America's new top diplomat takes the helm of the State Department",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_422b8d5714fc41d48d28e76caf1444a1_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
+      "publishedDateTime": "2021-01-27T22:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-trump-supporter-charged-in-2016-twitter-scheme-to-undermine-hillary-clinton.md",
       "title": "Trump supporter charged in 2016 Twitter scheme to undermine Hillary Clinton",
       "excerpt": "A far-right social media influencer was arrested Wednesday and accused of interfering in the 2016 election through an organized campaign to boost Donald Trump's candidacy by conning supporters of his opponent,",
@@ -86,58 +139,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-analysis-mcconnell-was-done-with-trump-his-party-said-not-so-fast.md",
-      "title": "Analysis: McConnell was done with Trump. His party said not so fast.",
-      "excerpt": "Mitch McConnell had finally had enough. But with most Republicans rallying around Trump, he sided with his colleagues trying to throw out the impeachment case.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/ep6Q1vD4mePB-iDVbF8MWftnQD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MOWKPUEBW73M7CU3NULPPZFH7A.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-27T18:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1070,110 +1071,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-27-trump-opens-office-of-the-former-president-in-florida.md",
-      "title": "Trump opens \"Office of the Former President\" in Florida",
-      "excerpt": "Former President Donald Trump announced Monday the official opening of the Palm Beach County, Florida, which is tasked with overseeing the 45th president's official activities in his post-presidency life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/office-of-the-former-president-trump-florida/",
-      "originalUrl": "https://www.cbsnews.com/news/office-of-the-former-president-trump-florida/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/26/56763f7f-832f-4afa-b230-1e1232404aed/thumbnail/1200x630/d12b165a061a3afbccf9da5d0bdb3f56/gettyimages-1230702145.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/office-of-the-former-president-trump-florida/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/office-of-the-former-president-trump-florida/",
-      "publishedDateTime": "2021-01-27T03:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-donald-trump-didnt-pardon-himself-a-massive-tsunami-of-legal-peril-now-awaits-him.md",
-      "title": "Donald Trump didn't pardon himself. A massive tsunami of legal peril now awaits him.",
-      "excerpt": "Trump faces a host of investigations at the federal, state, and local levels involving his presidency, campaign, business interests, and taxes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1",
-      "originalUrl": "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/600865b6e3d62500185fd62e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-27-mcdaniel-says-rnc-pushing-back-against-bidens-extreme-policies.md",
       "title": "McDaniel says RNC 'pushing back' against Biden's 'extreme policies'",
       "excerpt": "EXCLUSIVE – With Democrats in control of the White House and holding fragile majorities in the Senate and House of Representatives, the Republican National Committee (RNC) has a new mission.",
@@ -1230,58 +1127,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-27-anti-trump-republican-adam-kinzinger-knows-fate-is-coming-for-him.md",
-      "title": "Anti-Trump Republican Adam Kinzinger knows fate is coming for him",
-      "excerpt": "One thing to understand about Adam Kinzinger is that he knows how this will end. “The only hope you have is to accept the fact that you’re already dead,” the Republican congressman from Illinois says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YPWG6TSYGMI6XIEL6E4B546SA4.jpg&w=1440",
-          "width": 1440,
-          "height": 968,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-27T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-27-uighur-advocates-will-biden-actions-match-words-on-genocide.md",
       "title": "Uighur Advocates: Will Biden Actions Match Words on 'Genocide'?",
       "excerpt": "One day before President Bidens inauguration, Secretary of State Mike Pompeo made the determination that Chinas treatment of Muslim Uighurs and",
@@ -1326,6 +1171,166 @@
       "topics": [
         "Election",
         "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-report-israeli-settler-population-surged-during-trump-era.md",
+      "title": "Report: Israeli settler population surged during Trump era",
+      "excerpt": "A pro-settler group says Israel’s West Bank settler population has grown at a far higher rate than the country as a whole over the last four years",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-27T02:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-biden-says-hes-bringing-back-the-pros-for-virus-briefings.md",
+      "title": "Biden says he’s ‘bringing back the pros’ for virus briefings",
+      "excerpt": "President Joe Biden is dispatching the nation’s top scientists and public health experts to regularly brief the American public about the pandemic that has claimed more than 425,000 U.S. lives",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-says-hes-bringing-back-the-pros-for-virus-briefings/2021/01/27/2321ce2c-605f-11eb-a177-7765f29a9524_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-says-hes-bringing-back-the-pros-for-virus-briefings/2021/01/27/2321ce2c-605f-11eb-a177-7765f29a9524_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-says-hes-bringing-back-the-pros-for-virus-briefings/2021/01/27/2321ce2c-605f-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-says-hes-bringing-back-the-pros-for-virus-briefings/2021/01/27/2321ce2c-605f-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-27T02:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.md",
+      "title": "Dr. Scott Atlas fires back at Birx over 'bizarre' claim he gave Trump 'parallel data streams' on COVID",
+      "excerpt": "Former White House coronavirus adviser Dr. Scott Atlas joined \"The Ingraham Angle\" Tuesday to respond to former White House coronavirus response coordinator Dr. Deborah Birx's claim that he provided former President Trump with \"parallel data streams\" about the pandemic. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfIrozKUsas/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfIrozKUsas/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.amp",
+      "publishedDateTime": "2021-01-26T21:29:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

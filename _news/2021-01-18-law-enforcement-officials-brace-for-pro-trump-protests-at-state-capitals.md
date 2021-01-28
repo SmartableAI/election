@@ -59,31 +59,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "'It was a non-event': Pro-Trump protests quiet amid massive police presence across U.S."
-    excerpt: "Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
-    publishedDateTime: 2021-01-18T06:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-state-capitals-see-few-protesters-after-bracing-for-violent-demonstrations-idUSKBN29M046"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 97
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548124964&r=LYNXMPEH0G0GQ&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "'It Was a Non-Event': Pro-Trump Protests Quiet Amid Massive Police Presence Across U.S."
-    excerpt: "Trump Protests Quiet Amid Massive Police Presence Across U.S. HARRISBURG, Pa./LANSING, Mich. (Reuters) - Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
-    publishedDateTime: 2021-01-19T04:13:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
 
 secured: "JNNKTj3Kf3R6Eve3A+j1YSp7h/wYAFZIvKjaVnWjpmw0Vm2EC4po0Oix3QJEezzOQFZeelT0UvxaHaarxcrs4O8DySwH2pi317Br8C8OYZ87BeTSsRwFmF16FNWUzKacqJfsqa4bJs77kv3Jb6CTqUOWyloRCEEn2KpvGDa9/yq+TylOLWWSrsR+ZMrZcn45EHmeQvRBByEkClCLbG3VuQCByw1dNR8meFrE+T1mkTQvHhcR5hhKjzyCaWYCBC/fyQYWLJPIRYCKARR/w2zP74W0/RI7ICU92I7u1gzAgUWAkdXuIYjHkX3EtFYHiwlGMS2aVMMF1O76M22LQEY1C8GHiopB3ZxD3WdzyfEUfog=;MQY0CULrqcUbwQiZtT+sOA=="
 ---
