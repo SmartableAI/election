@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden aims for most ambitious US effort on climate change"
+    excerpt: "President Joe Biden is undertaking the most ambitious effort ever to cut America’s oil, gas and coal emissions and stave off the worst effects of climate change"
+    publishedDateTime: 2021-01-27T21:17:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-sources-biden-pause-oil-gas-sales-public-75507955"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pause-oil-gas-sales-public-75507955"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pause-oil-gas-sales-public-75507955"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_35fd541e3d434fa6a2947bf0050f6246_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Watch live: Biden nominee for DHS Director testifies at confirmation hearing"
     excerpt: "President-elect Joe Biden's nominee for Director of the Department of Homeland Security Alejandro Mayorkas on Tuesday morning is slated to testify at his Senate confirmation hearing.The hearing is scheduled to begin at 10 a."
     publishedDateTime: 2021-01-19T14:23:00Z

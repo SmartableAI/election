@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-mee
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "McCarthy to visit the former president in Florida, showing where he stands in a post-Trump Republican Party"
+    excerpt: "Former President Donald Trump is expected to meet with House Minority Leader Kevin McCarthy in Florida on Thursday, a source connected to the former President confirms to CNN.\n    \n"
+    publishedDateTime: 2021-01-28T00:12:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NGt5bsJuhw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191217154709-01-kevin-mccarthy-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McCarthy claws his way back to Trump's good side"
     excerpt: "Kevin McCarthy is trying to get back in Donald Trump’s good graces — but he could wind up making more people unhappy in the process. In the aftermath of the deadly Capitol riots, McCarthy angered Trump by saying he bears some responsibility for the attack."
     publishedDateTime: 2021-01-26T09:30:00Z
@@ -48,6 +64,6 @@ related:
         height: 3029
         isCached: true
 
-secured: "5W4ue4oHBTjQ6wwok8lJdZTjGiWYt2PPrlKpgZ/mmsw4g3jVgPy58xH/SG5IfH5HzdtWcZShYKllQtBRW/flQ92IQvIocun17hT4YOtQmpbA7jtWgSrEvOlMsg+2V+iyqYYocAiuOpt/f+xSI1XhTTq6Dda71SXSg+T1pv+oek58lXb2+KDPLXWNAiwGq1BjtHQcW8qq6PIV4v0KHjxV9JldyGHQ3nOb/e3I6w9CwLVsb8hA6Kr2IkwLLZx4BH7n3IBmXAnxm2lGH5zkcj8GXA5lLa9HjNs+4RKMo+qcG7fe0OEn8O/l44JPYlCUJgEFrp+qPOmujuLGEr+vDgtSHPxjYxe0VRIkzcBSAxx6/rA=;04malL1EyqQsg2A73Bt1Lw=="
+secured: "Pjk710ClLAl7xXbFy5xDo+7kRQdKRSvG11Mi39aROQlyM6NCUm6/b7dCayc3JKh1TmvcVlv5b8b4gupZ6bYI1OS/PubQk/2lcWSece8fLYQGT1YyejDrWyVfLiBj2X6a5TOBcwU8SEG9z/Ns1Gh6xYrQSfAvRLNY3wePEMbBKMyE0lAER8iXDokYFWWQ7fj3N5o2npXVZu7ut4cw/eO97ZJWWE7a0AISJBGpKm0aLriEg6OAiVchZdvL8va9yYEsJXJ0sjGCCu2kbTBFelFUFOCBxBnG7X8IC4lqBBWil5hsAYwzyYHZeteIhmwto74vS2XhYE2m3Y7UNXyXPnbqYiOgtrsGTtGakzblNuTc/dg=;KEQ1RMCOqVrjmAyTs9Nelw=="
 ---
 

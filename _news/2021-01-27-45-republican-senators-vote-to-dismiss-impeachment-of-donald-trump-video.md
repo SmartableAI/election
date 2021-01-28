@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Bipartisan Senate duo crafts censure resolution that might bar Trump from office"
+    excerpt: "With the outcome of former President Donald Trump’s second impeachment trial all but certain to end without a conviction, a bipartisan pair of senators is working on a resolution that for just the second time in history would censure a U."
+    publishedDateTime: 2021-01-27T22:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/susan-collins-ap-jef-210127_1611784510838_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Senate Republicans unite behind failed effort to challenge Trump impeachment trial"
     excerpt: "Forty-five Senate Republicans backed a failed effort on Tuesday to halt former President Donald Trump's impeachment trial, in a show of party unity that some cited as a clear sign he will not be convicted of inciting insurrection at the Capitol."
     publishedDateTime: 2021-01-27T06:53:00Z
@@ -313,6 +329,6 @@ related:
         height: 682
         isCached: true
 
-secured: "yya8B0fx01/CsN3A8HBQjb+vW82Gx/ATvACXAGPv+wjfxnZqv3qGmoMOrVUMOY7NH92rPtpixkvG1jsZxW59VYI5t4zXT9nIe5ylb942j3yRPzed2rmj6d7YHidGETkKu1DKYUVv2dpQ9TX9ZoItMagIKL2AWMBE+IjynFJK4R48ba3ABH+aeuStO/rj8ijD8es7HOqt1Y8rpfTYxz4jEFW1i1s1rcuwa7XBgn2X1Xuzg4zVnnX+ToC5hG3eOpvz4sTrhl4aU113NvG6aHoFRf1YQ9Zjs9/zF8u4JeBv328Ak0eCmwO0Fqtg0A9Q/v1QweNhvIzzwjgQ4CQm19fyQLyw43S7rltWz41yxIFhXQs=;dSuyqljpVs6mBWSku9tIGA=="
+secured: "UL6OQSCjJUwfJQj5YDdUPCEzy022094F7BpuwkkwQDNEV3eQ1IO+K3SRQ6zD0ZJtwfUSUErzKCqgv70g1kkWkU/5mmtB0Cd2iiPnclkJpzmjAKBODo03xWOXpqm6DD5vxAYFbQ20TCHAz4F7G0saRqM6+DsgMOs/tmqjRzRwrGZDOMQf8AiB9RB2XpoNUYkqOunX9dueSOGIWndwqPhQvm28z0tU6sI+L9CoOPX6mTpiIP/heDkqSCs1X/stEY/TcPecltOLBdY5Kf72AIAYBLP1dKCu0KYmA8tSt79nN3Wq4dHOTtMomfflGH4m1PbBejWs5sgknQDUi9WwXClZe8ZM+RsCkMgWqYu07r5qF5nS7XDcGz+9QCEIyhXc49mxOnqAX0qpMLUPrMEaHoqP9RBdRQ7NInyk0nyIAQOQx91tP5FYwvU9GOS1S+NVm2F9kQue7MCkaRGBk9WWX0UfOi85l+MYqR65Vqh4QwU8wwjEfInje8WTRv0S/zxuWNOBMe+nPoSO9M9YGr7DCQ0Ieg==;d7oVBq98DB1Ao/Obb8L5eQ=="
 ---
 

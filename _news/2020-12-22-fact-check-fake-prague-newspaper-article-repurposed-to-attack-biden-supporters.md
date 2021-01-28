@@ -95,6 +95,22 @@ related:
         width: 3873
         height: 2664
         isCached: true
+  - title: "Fact check: Satirical post claims Biden has labeled Libertarians as terrorists"
+    excerpt: "Spike Cohen, the Libertarian nominee for VP in 2020, said in a post the administration labeled Libertarians terrorists. He said the post was satire."
+    publishedDateTime: 2021-01-27T23:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/01/27/fact-check-post-calling-libertarians-terrorists-satire/4282040001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4282040001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4282040001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/78194cdb-50ef-403f-9498-d42deb00637f-AP_Capitol_Riot_Oklahoma_City_Bombing.jpg?auto=webp&crop=5791,3258,x0,y579&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: False news report indicates Biden plans to step down as president-elect"
     excerpt: "Viral posts posing as a news report falsely claim that Joe Biden is resigning as president-elect due to health issues. This is unfounded."
     publishedDateTime: 2021-01-05T21:23:00Z

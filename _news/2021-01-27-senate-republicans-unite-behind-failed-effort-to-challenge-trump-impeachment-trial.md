@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Bipartisan Senate duo crafts censure resolution that might bar Trump from office"
+    excerpt: "With the outcome of former President Donald Trump’s second impeachment trial all but certain to end without a conviction, a bipartisan pair of senators is working on a resolution that for just the second time in history would censure a U."
+    publishedDateTime: 2021-01-27T22:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/susan-collins-ap-jef-210127_1611784510838_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump jumps into a divisive battle over the Republican Party — with a threat to start a ‘MAGA Party’"
     excerpt: "The former president, in his first political activity since leaving office, endorses an ally for Arizona party chair who backed his false claims of election fraud."
     publishedDateTime: 2021-01-24T04:10:00Z

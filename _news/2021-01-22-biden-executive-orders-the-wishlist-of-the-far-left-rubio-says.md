@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden immigration bill would make illegal immigrant farmworkers immediately eligible for green cards"
+    excerpt: "President Joe Biden’s immigration proposal would make illegal immigrant farmworkers immediately eligible for green cards -- one of a number of provisions to grant legal status to those in the country illegally, but one that may face Republican opposition."
+    publishedDateTime: 2021-01-27T23:03:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4aBFbDS-M74/biden-immigration-bill-farmworkers-green-cards"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-bill-farmworkers-green-cards.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-bill-farmworkers-green-cards.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30196f8-d146-42fd-903a-aaca9b8fc92b/adcb71e9-3a3d-494c-a736-ecef72992447/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rubio demands clarity on Biden's 100-day deportation pause, amid fears violent criminals will remain in US"
     excerpt: "Sen. Marco Rubio, R-Fla., on Friday called for the Biden administration to clarify the scope of its 100-day moratorium on deportations and other immigration enforcement measures, amid fears that the radical move would allow violent criminals to remain in the U.S."
     publishedDateTime: 2021-01-22T18:05:43Z

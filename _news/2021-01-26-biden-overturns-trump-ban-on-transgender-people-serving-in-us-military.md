@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1VH"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1VH"
 type: article
 quality: 149
-heat: 2589
+heat: 2629
 published: true
 
 provider:
@@ -431,6 +431,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548599314&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K16T"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden says Trump's impeachment trial 'has to happen' even if it affects his legislative agenda"
+    excerpt: "President Joe Biden acknowledged the trial could stall his legislative agenda but told CNN there could be \"a worse effect if it didn't happen.\""
+    publishedDateTime: 2021-01-27T23:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-trump-impeachment-trial-has-to-happen-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-trump-impeachment-trial-has-to-happen-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trump-impeachment-trial-has-to-happen-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
+    images:
+      - url: "https://i.insider.com/600f800280e4540019816b32?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump farewell planned for Wednesday morning at military base ahead of Joe Biden’s oath of office"
     excerpt: "White House officials are planning a farewell ceremony for Donald Trump as he leaves Washington on Wednesday morning."
@@ -975,6 +991,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1F9"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump censure faces tough odds in Senate"
+    excerpt: "Senators are discussing a long-shot, bipartisan effort to censure former President Trump over the Jan. 6 Capitol attack."
+    publishedDateTime: 2021-01-27T23:47:00Z
+    webUrl: "https://thehill.com/homenews/senate/536210-trump-censure-faces-tough-odds-in-senate"
+    ampWebUrl: "https://thehill.com/homenews/senate/536210-trump-censure-faces-tough-odds-in-senate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536210-trump-censure-faces-tough-odds-in-senate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_01202021_getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "U.S. private prison revenue under pressure from new Biden rules"
     excerpt: "CoreCivic and the GEO Group, two of the largest U.S. private prison companies, could lose as much as a quarter of their revenue, about $1 billion a year between them, under new limits on the sector from President Joe Biden."

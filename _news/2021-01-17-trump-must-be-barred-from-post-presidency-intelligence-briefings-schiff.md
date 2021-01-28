@@ -415,6 +415,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration puts a freeze on Trump-era arm sales overseas"
+    excerpt: "The White House has temporarily stopped arms deals negotiated under the Trump administration with several Middle Eastern nations, including the United Arab Emirates (UAE)."
+    publishedDateTime: 2021-01-28T00:14:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UMii3AvBNLY/biden-administration-puts-a-freeze-on-trump-era-arm-sales"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-puts-a-freeze-on-trump-era-arm-sales.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-puts-a-freeze-on-trump-era-arm-sales.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
     excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "
     publishedDateTime: 2021-01-21T09:24:25Z
@@ -1598,6 +1614,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Pete-Buttigieg-Transportation-Secretary-Hearing-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "CBP stops border wall construction after Biden executive order"
+    excerpt: "Customs and Border Protection (CBP) confirmed on Wednesday that construction of the wall at the southern border has been suspended -- a week after President Biden signed an executive order halting President Donald Trump’s signature border security project."
+    publishedDateTime: 2021-01-27T23:27:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/saAwYzwlmws/cbp-border-wall-construction-biden-executive-order"
+    ampWebUrl: "https://www.foxnews.com/politics/cbp-border-wall-construction-biden-executive-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cbp-border-wall-construction-biden-executive-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30196f8-d146-42fd-903a-aaca9b8fc92b/adcb71e9-3a3d-494c-a736-ecef72992447/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pelosi urges Pentagon to block 'Trump loyalist' from national security role before Biden's inauguration"
     excerpt: "House Speaker Nancy Pelosi is calling on the acting defense secretary to \"immediately cease\" plans to install so-called \"Trump loyalist\" Michael Ellis as the new general counsel for the National Security Agency (NSA) just days before President-elect Joe Biden is inaugurated, describing the decision as"

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3905393001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3905393001"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106815272-1608668494791-gettyimages-1230264204-AFP_8XM4VF.jpeg?v=1608668541"
         width: 3873
         height: 2664
+        isCached: true
+  - title: "Fact check: Satirical post claims Biden has labeled Libertarians as terrorists"
+    excerpt: "Spike Cohen, the Libertarian nominee for VP in 2020, said in a post the administration labeled Libertarians terrorists. He said the post was satire."
+    publishedDateTime: 2021-01-27T23:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/01/27/fact-check-post-calling-libertarians-terrorists-satire/4282040001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4282040001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4282040001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/78194cdb-50ef-403f-9498-d42deb00637f-AP_Capitol_Riot_Oklahoma_City_Bombing.jpg?auto=webp&crop=5791,3258,x0,y579&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Fact check: Fake ‘Prague newspaper’ article repurposed to attack Biden supporters"
     excerpt: "Users on social media are sharing a text, allegedly an extract of an editorial piece by a Czech newspaper translated into English, which claims the United States is endangered by the people who have elected Joe Biden as president."

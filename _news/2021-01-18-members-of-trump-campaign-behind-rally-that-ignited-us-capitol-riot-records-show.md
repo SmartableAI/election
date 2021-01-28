@@ -111,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Bipartisan Senate duo crafts censure resolution that might bar Trump from office"
+    excerpt: "With the outcome of former President Donald Trump’s second impeachment trial all but certain to end without a conviction, a bipartisan pair of senators is working on a resolution that for just the second time in history would censure a U."
+    publishedDateTime: 2021-01-27T22:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/susan-collins-ap-jef-210127_1611784510838_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Senate Republicans unite behind failed effort to challenge Trump impeachment trial"
     excerpt: "Forty-five Senate Republicans backed a failed effort on Tuesday to halt former President Donald Trump's impeachment trial, in a show of party unity that some cited as a clear sign he will not be convicted of inciting insurrection at the Capitol."
     publishedDateTime: 2021-01-27T06:53:00Z

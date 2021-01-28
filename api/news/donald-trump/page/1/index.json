@@ -102,6 +102,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-27-donald-trump-didnt-pardon-himself-a-massive-tsunami-of-legal-peril-now-awaits-him.md",
+      "title": "Donald Trump didn't pardon himself. A massive tsunami of legal peril now awaits him.",
+      "excerpt": "Trump faces a host of investigations at the federal, state, and local levels involving his presidency, campaign, business interests, and taxes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1",
+      "originalUrl": "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/600865b6e3d62500185fd62e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-27T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-anti-trump-republican-adam-kinzinger-knows-fate-is-coming-for-him.md",
       "title": "Anti-Trump Republican Adam Kinzinger knows fate is coming for him",
       "excerpt": "One thing to understand about Adam Kinzinger is that he knows how this will end. “The only hope you have is to accept the fact that you’re already dead,” the Republican congressman from Illinois says.",
@@ -531,7 +583,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-military-transgender-idUSKBN29U1VH",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2589,
+      "heat": 2629,
       "tags": null,
       "images": [
         {
@@ -1006,7 +1058,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 513,
+      "heat": 533,
       "tags": null,
       "images": [
         {
@@ -1516,63 +1568,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-trump-departs-vowingwe-will-be-back-in-some-form.md",
-      "title": "Trump Departs Vowing,‘We Will Be Back in Some Form’",
-      "excerpt": "Defeated and twice impeached, the 45th president used his farewell remarks before a sparse crowd to brag about his record and wish luck to the incoming administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/20/us/politics/trump-presidency.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/20/us/politics/trump-presidency.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/20/us/20dc-trump01/20dc-trump01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/20/us/politics/trump-presidency.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/us/politics/trump-presidency.amp.html",
-      "publishedDateTime": "2021-01-20T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

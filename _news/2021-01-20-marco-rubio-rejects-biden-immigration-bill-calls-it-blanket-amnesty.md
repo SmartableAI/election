@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rubio-biden-immigration-bill-blanke
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-biden-immigration-bill-blanket-amnesty.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 161
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff97ad34-f426-498a-92e1-d58ea755a140/a6aaee8e-3882-4d85-b77a-a3ad885fd22b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden immigration bill would make illegal immigrant farmworkers immediately eligible for green cards"
+    excerpt: "President Joe Biden’s immigration proposal would make illegal immigrant farmworkers immediately eligible for green cards -- one of a number of provisions to grant legal status to those in the country illegally, but one that may face Republican opposition."
+    publishedDateTime: 2021-01-27T23:03:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4aBFbDS-M74/biden-immigration-bill-farmworkers-green-cards"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-bill-farmworkers-green-cards.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-bill-farmworkers-green-cards.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30196f8-d146-42fd-903a-aaca9b8fc92b/adcb71e9-3a3d-494c-a736-ecef72992447/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
+    excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."
+    publishedDateTime: 2021-01-27T18:51:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cruz: Second Trump impeachment was 'exercise in political rage' by Democrats: 'It was their id speaking'"
     excerpt: "Congressional Democrats' push to convicted former President Donald Trump of impeachable offenses is \"driven by the partisan rage and the partisan anger that the Democrats feel,\" Sen. Ted Cruz, R-Texas, told \"Hannity\" Tuesday. \"They hate Donald J."
     publishedDateTime: 2021-01-27T13:09:00Z

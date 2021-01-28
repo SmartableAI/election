@@ -141,6 +141,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden immigration bill would make illegal immigrant farmworkers immediately eligible for green cards"
+    excerpt: "President Joe Biden’s immigration proposal would make illegal immigrant farmworkers immediately eligible for green cards -- one of a number of provisions to grant legal status to those in the country illegally, but one that may face Republican opposition."
+    publishedDateTime: 2021-01-27T23:03:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4aBFbDS-M74/biden-immigration-bill-farmworkers-green-cards"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-bill-farmworkers-green-cards.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-bill-farmworkers-green-cards.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30196f8-d146-42fd-903a-aaca9b8fc92b/adcb71e9-3a3d-494c-a736-ecef72992447/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "quzsfRDLPUo37idLAJ7A80lYlk8AXO3SHIsQ0aQem/MGbOIDg5QbkC/g0axfYcXP6LLKwKfyKCPEQXbm25UXRGkz90bF9wWYUoOswjOTXSonYj7LwcWofYldac8AmS0ltTcFxUTJuqFXGsj+16bGqjgMrZesCr34embhpWzTSidxyTTHvActVrw8c1B01N9aR+n3xfvZu7dDizMiMqfsgNQN4ztXwL9njcXxRk7JDNksdoOk4GvvVwBBoMGSfQOizZLh58EBigdE0jznmSUcmd/wbyMhHc5UBzzSC2VUGbWr2kO+EoZUqvxOcUF4Ty8nOQkKNt+x9X7J2SwqBlnwUTjBG0inYT6hJaUt4RoNU1U=;KoIF++Wn7taXUpoNlE6V+w=="
 ---

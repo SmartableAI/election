@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp"
 type: article
 quality: 175
-heat: 755
+heat: 775
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ccedca73-8447-45bd-9bc7-2b1cc2a3e532/44618639-0f4e-4ea7-8a23-802511106a18/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden 'committed' to study Supreme Court reforms as progressives push for court packing"
+    excerpt: "President Biden is \"committed\" to following through on his campaign pledge of forming a bipartisan commission to study Supreme Court reforms, the White House said Wednesday. "
+    publishedDateTime: 2021-01-27T23:49:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6EAhoZmva6Y/biden-committed-to-study-supreme-court-reforms"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-committed-to-study-supreme-court-reforms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-committed-to-study-supreme-court-reforms.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f71b38a7-f911-413d-9ce9-8360f122c0ef/b9d50c62-2ac2-4472-ad2e-e18d1d465e88/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

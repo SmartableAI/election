@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McCarthy to visit the former president in Florida, showing where he stands in a post-Trump Republican Party"
+    excerpt: "Former President Donald Trump is expected to meet with House Minority Leader Kevin McCarthy in Florida on Thursday, a source connected to the former President confirms to CNN.\n    \n"
+    publishedDateTime: 2021-01-28T00:12:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NGt5bsJuhw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191217154709-01-kevin-mccarthy-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "qpsovy7+TGG16B0j4kbflyqHTXE3pkrrrLofADSIt2NFY3Vh/QugbSo0hnXUF/EZTJmjggRZqzzIbxxQO90M4U8OyfJhbbP+FW97hemRy97KznzLEnLSR91a2Y6ZfGILPC7NJwqILcd5Ei3FFO+8Vwg/8VCa7R+dpAfRpD4wC/2yMYwM5+eOMp/5HKg9fg/KqoHVY5QCMldJhZI6Lbqw5jxRLGcFRPufHlvwidD82h2Mk3pk1ysQdwVdcA1/FrK3gtorF+Prh7Z1zlEqH78EY48d8Q8u6X3lpDJaRhMwxpaPm+XUzB/aC2ob0A4yp+IlQJBKEoY9w55T6b+M9xcEAqNaQhKqRns3pCIhO0WRLqo=;dZHs0++XVu6mqsjC0049WA=="
 ---

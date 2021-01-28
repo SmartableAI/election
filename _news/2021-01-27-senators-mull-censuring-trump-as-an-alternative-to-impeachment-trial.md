@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Vindictive' and 'harsh' Trump impeachment trial won't bode well for Democrats: Historian Jay Winik"
+    excerpt: "The push by congressional Democrats to convict former President Donald Trump of impeachable offenses feels \"vindictive,\" and \"harsh,\" historian Jay Winik told \"Special Report\" Wednesday."
+    publishedDateTime: 2021-01-28T00:21:00Z
+    webUrl: "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster"
+    ampWebUrl: "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "SbtoPeYzEC3Zb4Xoz1+fT0cBdU3JzGSTJQqh7+qYaftedTiaKeWbJnqEjqM0SXH9pLkvYVxoy62iy4zb2XH+5ewXHBc8uWrSwRDPEXd8HB8Rld+fsyDyEAdP5/zyEoCffAljTTdxILQIWQtqbi0i/f/J5NooGZLTOIiFLiBCII4Gg7xkdyh8z0A+4KUsU/OfCVF6HKhaDXq5I1yoBoPx3+NE3CNyxlhhNNygerjn0jTL3LMzWrZxV6+XChWAAknjZRMLnnm204AZVJQotCErxakLY4nXECBBX0VBWpw3hmuD6M3wWXq1Bpu5PqBjX6n0pvm0SDxi4aY+zdmtvfWFTRQgDtOqAI0U+MctzgiwVzY=;yiVwO6KR/3R25E+J/It+jA=="
 ---
