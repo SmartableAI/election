@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Willie Brown: How Kamala Harris can be the face of the Biden administration"
-excerpt: "Make no mistake, President Biden is the star of the new administration. But it was our own Kamala Harris in her new role as the multiracial, multicultural, Democratic female power ideal who stole the show on Inauguration Day."
-publishedDateTime: 2021-01-23T12:00:00Z
-originalUrl: "https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
-webUrl: "https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
-ampWebUrl: "https://www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+title: "Vice President Kamala Harris will stay here until official home is ready"
+excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
+publishedDateTime: 2021-01-28T17:35:00Z
+originalUrl: "https://www.ajc.com/news/nation-world/vice-president-kamala-harris-will-stay-here-until-official-home-is-ready/MEWG6GQJRJHNXB7GDOLOTZCKCQ/"
+webUrl: "https://www.ajc.com/news/nation-world/vice-president-kamala-harris-will-stay-here-until-official-home-is-ready/MEWG6GQJRJHNXB7GDOLOTZCKCQ/"
 type: article
-quality: 88
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Atlanta Journal-Constitution
+  domain: ajc.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/16/20/70/20516384/16/rawImage.jpg"
-    width: 2048
-    height: 1367
+  - url: "https://www.ajc.com/resizer/SRQzj6K4MUguN56Z2N9ZLF-9bXs=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-21-2021/t_7e4f7c2f3e414295abc26151b2ec2751_name_db4cec39bce7441c8283051b99b794d7"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -74,6 +72,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/Biden_31600.jpg-5db22_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Willie Brown: How Kamala Harris can be the face of the Biden administration"
+    excerpt: "Make no mistake, President Biden is the star of the new administration. But it was our own Kamala Harris in her new role as the multiracial, multicultural, Democratic female power ideal who stole the show on Inauguration Day."
+    publishedDateTime: 2021-01-23T12:00:00Z
+    webUrl: "https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    ampWebUrl: "https://www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 88
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/20/70/20516384/16/rawImage.jpg"
+        width: 2048
+        height: 1367
         isCached: true
   - title: "NJ boutique owners hope for a boost from Jill Biden's blues and Kamala Harris' pearls"
     excerpt: "It's been a long 10 months for fashionistas during the pandemic. So the bold colors and styles at last week's inauguration were cause for celebration."
@@ -169,21 +183,7 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Vice President Kamala Harris will stay here until official home is ready"
-    excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
-    publishedDateTime: 2021-01-28T17:35:00Z
-    webUrl: "https://www.ajc.com/news/nation-world/vice-president-kamala-harris-will-stay-here-until-official-home-is-ready/MEWG6GQJRJHNXB7GDOLOTZCKCQ/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 54
-    images:
-      - url: "https://www.ajc.com/resizer/SRQzj6K4MUguN56Z2N9ZLF-9bXs=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-21-2021/t_7e4f7c2f3e414295abc26151b2ec2751_name_db4cec39bce7441c8283051b99b794d7"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "sW+HrMo0dJRha+c4JWQiaBhdWtf+EesH8Y3XNoZU/FeXdom9mElJxVFoL99L3iik2foGLRdG5FogOsJIsnuVgnUJyDzMlrxWrCmUt5uLXp33FcO1mMUIaU1zfuEU26bfvURltt+patihu72t9CnL6I6VL9NCc8bq6xBV+2b1FFsy/jhYsFsKNCwmyCXjt3e2Suz2kd75FBS/u2HOAw6Qi78qlb+mmYzfcvSQuHeOUVqHUmcx4cb5ppZvNw6F4FwTTOrDgtOCcAYO0ha8RUyEXu45dCiC/RRC5/uW6KROsquEiulYrPCYu/c4mLlsCX0g23wckAFpCbbS+rWhN2+kP/TofNRYw8IIQq5ktGMIhFWntTY/GX2qHHLyXdIX7dxSXH5O2/FfnhCV2Gmmfp02v/oM4RXohXjA8Zz38NDL633MgPmJUK3zY1clWmLv/QsJv8d747vJoO0FykIU4PQAxHC57WUvZJCrUUWCnhWhULxEzwNjAZK4t9fLISl3UkJ2H/fII3eOXQcE0tmd4i9R5g==;chT1/BZcTAJP9afjadECYg=="
+secured: "Acbv6mylzGml3YOB92EvkEIeWRqbiKXPayXk2yQPdczf8TUvgwcNjcUPROnWeGZSC2DnDrcRB5RyjWltTs/I6hn2SJ+id3nVylTbSpyuWILvOcZi3QXrYR/ut82EET8Rb9Nptc2tRtQHobygR+wOHxvqWqKqE39nLZCChS8C43WiRvQOTuBFKh+Ff5W6Lfxcvp/UseYQBuy7do7PCVHBEKL7n/TBIJzu1X5+Yx1onA1095xmBcw0ZxP64MBmF3985rE2KkYqzGzlVYiNvMTAttDVEzRNJxWQemHyk7Dqjzk6VhSpKQfsX+oERLczc70nBN/R/Kn8cNDxFNA0esjvyn77r2dYS//jt1/+JL+qNt0=;YfNAqsqC2ovoyKLNNVZ/Jg=="
 ---
 

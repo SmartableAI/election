@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Blair House guest quarters a temporary home for VP Harris"
-excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the"
-publishedDateTime: 2021-01-28T16:24:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/"
-webUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/?amp=1"
+excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue"
+publishedDateTime: 2021-01-28T16:28:00Z
+originalUrl: "https://apnews.com/article/biden-inauguration-politics-walter-mondale-symone-sanders-michael-pence-dda8bd956bf65cddc29f6cbed523c10b/gallery/bb45da96c98249f0813b42c0e82e8031"
+webUrl: "https://apnews.com/article/biden-inauguration-politics-walter-mondale-symone-sanders-michael-pence-dda8bd956bf65cddc29f6cbed523c10b/gallery/bb45da96c98249f0813b42c0e82e8031"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://storage.googleapis.com/afs-prod/media/bb45da96c98249f0813b42c0e82e8031/3000.jpeg"
+    width: 3000
+    height: 2000
+    isCached: true
 
 related:
   - title: "'Immense sense of pride': Caribbean diaspora celebrates Kamala Harris"
@@ -242,6 +246,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "83PdP+Hze3aPGPbFwrE0j8Dqxm0Gr9TbrosDA/QKldvYPWPKnkvAd6QfRzLxekMQ6oSTk9oY/6+F3bVjujqFIEJIi1qtKuUxdhsdTr8vI5F/SwyBcnXeZcqTrQHKD7KSCmvoAEmWw9v46Pf9ovy/fQaZzRfOPYisaAFLONQkJxlRiXBt1OaJ4Wnqi8sZyqTUe1Ih3S6VDlvFK0E5vSygljZpqvL5L4HQPUrCrGNyg5NBNldbTDT4zPHbLyWWvN8i/VdT7TYC0EvQ9iZxgI+iGOPSTcmI7n4f0Z6ET4PCKZWHaGrkL7X4FX5DGQgUqI0EAQFBqz9rnb6ksdYcwJEqHD6/pg4gmT/zfZBFnYNwqM/MCZle4rahV28E3EbTdb+YOH0RIkmjbNoNqlDagE8Flbuk2YzkM8soxgzHmUGHdhr6sgd4IRHGINJ/hFpKVRQsFySGQSuiNV/72a9ghcLNE8NsLg6jPXz/AX62sCRLwjSQ+hIX5tTcjcxb2wjY4NIjK/2N4puFA4DGjnGY3NbJjg==;9UsLPq3vgjqLRaEmVq+Z1Q=="
+secured: "KKvvwRaQ8mmz2OzZeCc8Bq/s/rXeHSjqT4q1w45jzT7asaA+U7ofYChDcEgJ/GewoUszAQs81DUb6XBZznTmLTvA0Y61NPL1USTyMYmC7mY63Qmz4hUGfwgW3OxibEjg0iTyxKPT21Dw1CrpHkqwcvCuprV177YvCPVSRiX8Lb3ztzemm2MTUd+TzodwIXDQ4PMyBk4haZC6RtMLNtg0jQYd01Ekn5uMnDsnFo0Wk84Alhidns68BU/s8zoEwmLHGo5t84yxaMk+RxZ0XCcuVy8rAuqzCEyFa/Fp1eXwxR9BGL8JEPIDBSdCFvdwy3JS2M3S9ab1GvWjYIjtjtQEBC4YPpeWj65Hi9ITMYdX2Y4=;jaM7VDWkwvelSiZAt/vW2w=="
 ---
 

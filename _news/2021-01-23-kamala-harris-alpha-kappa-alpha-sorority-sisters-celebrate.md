@@ -135,6 +135,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Blair House guest quarters a temporary home for VP Harris"
+    excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue"
+    publishedDateTime: 2021-01-28T16:28:00Z
+    webUrl: "https://apnews.com/article/biden-inauguration-politics-walter-mondale-symone-sanders-michael-pence-dda8bd956bf65cddc29f6cbed523c10b/gallery/bb45da96c98249f0813b42c0e82e8031"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/bb45da96c98249f0813b42c0e82e8031/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Latest line: A good week for Kamala Harris, bad one for oil industry"
     excerpt: "Oil industry Biden vows to block new drilling on public lands across the West, crack down on pollution and greenhouse emissions, and push former industry lobbyists out of government jobs. Alex Padilla Former California secretary of state is sworn in as the state’s first Latino U."
     publishedDateTime: 2021-01-24T14:11:00Z
@@ -207,17 +221,6 @@ related:
     provider:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
-    quality: 55
-  - title: "Blair House guest quarters a temporary home for VP Harris"
-    excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the"
-    publishedDateTime: 2021-01-28T16:24:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
     quality: 55
   - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
     excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."

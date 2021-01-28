@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump adviser says former president will be ‘actively involved’ in GOP politics, not interested in third party"
+    excerpt: "A longtime leading adviser to Donald Trump says the former president will be “actively involved” in Republican Party politics going forward."
+    publishedDateTime: 2021-01-28T17:27:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rHmjH9dlEI0/corey-lewandowski-trump-actively-involved-gop-politics"
+    ampWebUrl: "https://www.foxnews.com/politics/corey-lewandowski-trump-actively-involved-gop-politics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corey-lewandowski-trump-actively-involved-gop-politics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump offers first remarks since leaving office: 'We'll do something'"
     excerpt: "Former President Donald Trump was mysterious about his future plans in his first public remarks since leaving the White House earlier this week, but he suggested action is in the works, according to a report."
     publishedDateTime: 2021-01-24T21:12:00Z
@@ -79,6 +95,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/larry-kudlow-fox.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump adviser says former president will be ‘actively involved’ in GOP politics, not interested in third party"
+    excerpt: "A longtime leading adviser to Donald Trump says the former president will be “actively involved” in Republican Party politics going forward."
+    publishedDateTime: 2021-01-28T17:31:00Z
+    webUrl: "https://www.foxnews.com/politics/corey-lewandowski-trump-actively-involved-gop-politics"
+    ampWebUrl: "https://www.foxnews.com/politics/corey-lewandowski-trump-actively-involved-gop-politics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corey-lewandowski-trump-actively-involved-gop-politics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020506415429.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "MnvbsRKXTIPTeUedAf/9Yvkob9l5jp4khm8CYpqf8Z8S8FVXSTvcHB5WaXfmXT2E8VAyxUJdv/A+a6ICeCTjBEjPXoQzPX6LPfArYw3RTvF4nAXWi8QqWBQ5tmwU7zjJHQZOmO415UNqzvuTs3A+02CT8z/4SAFAeoGFr4cg3/JU1860seihohV2KlRtqZbJ28wAnYl9s5BQX1ntRxRc6aLeES1mfPKXqyRTFhaWkkqUAVFEui9OmfrUForoFhh75FLCGI6gritSiNRehqRDTpor/6y+0yuMRzn7sKxLX9se4MAJjVMl2JpV4F77P06X8aD20GytS6s0os9GmB8Zcsb2GyHniyZv3RlNx6bjWWbOfA9fmR8vJPGY69G+LErukBQBD9OIHEvLm9zKfFCM+54/u6DFcshkdwgIqKHKqPxyiEA9dYOXFwqLYQGBABky7GRc6zRpT+mf3XRCT26TekhjA77qMYlBLqikYlvCQTaMQhDBrwOIfqdcjmVcs3EeIu+dq9mzbxT1n/r+u/esmw==;fGczSZlnhEJp5s8pfGWy2g=="

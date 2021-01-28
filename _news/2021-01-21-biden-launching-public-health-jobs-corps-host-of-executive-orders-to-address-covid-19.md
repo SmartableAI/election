@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says 'nothing we can do' to change pandemic 'trajectory' in coming months"
-    excerpt: "Biden addressed his administration’s response efforts during a press briefing on two executive orders meant to provide food assistance to low-income families and protect workers’ rights during the pandemic."
-    publishedDateTime: 2021-01-22T23:09:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JFTIWZq33yA/biden-nothing-we-can-do-to-change-coronavirus-pandemic-trajectory-in-coming-months"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-nothing-we-can-do-to-change-coronavirus-pandemic-trajectory-in-coming-months.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nothing-we-can-do-to-change-coronavirus-pandemic-trajectory-in-coming-months.amp"
+  - title: "Biden signs executive order expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
+    excerpt: "Biden signed two executive orders expanding ObamaCare enrollment and rolling back anti-abortion policies"
+    publishedDateTime: 2021-01-28T18:49:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl1dyUUj0vo/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4006a873-be82-4386-b53f-517d6542b782/397ae1de-e40a-4273-9ea6-06ce58567c46/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21025646646363.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden hopes for 1.5 million COVID vaccinations per day, after 'nothing we can do' comments"
-    excerpt: "President Biden says he’s “quite confident” that in roughly three weeks the nation will “be vaccinating people at the range of a 1 million a day or in excess of that.”"
-    publishedDateTime: 2021-01-25T22:47:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s2jeEaVhlMY/biden-hopes-for-1-5-million-covid-vaccinations-per-day"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hopes-for-1-5-million-covid-vaccinations-per-day.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hopes-for-1-5-million-covid-vaccinations-per-day.amp"
+  - title: "Biden Plan to Order Review of Trump Health-Care Policies Likely to Face Speed Bumps"
+    excerpt: "President Biden is set to sign executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
+    publishedDateTime: 2021-01-28T15:30:00Z
+    webUrl: "https://www.wsj.com/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809?mod=hp_lead_pos6"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 144
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21025793966837.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://images.wsj.net/im-291590/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "CjWzMqH1H3erGgPio9dDWnugHGf2rEln2SkZcf0xFAEzAk/dG98Uc+8tKD/pMYqN7wkiEk7SZcBeYRAQrIBWLuBHJ3FCVYTsiLkpRxEDMbA2UiCTIRZDwg43C1wHH9U8nlXOYSqh6dw23cL1ajWutYlAWFWEc4v2W0gUD6c/HKpnOa8YRrHYvrq6Sjnwb+xvG5PcwnFCZerx+mJ7Bqqx0/bgd1CipBhkVkEMnvwi2Ghtam/SN3Te6nzIJqlk9jBq68e4x/X+qZhcpF7aPnC5n8lHR+OFNWcnaNmv/2+gEhGUGjN9FTAej/rbRo7sAF/wFrfZJ+Szilc09O+JtHw9RJ0FFoeB604zETZaynOcT9Y=;slfwCOkGOEuEA06arnSeXQ=="

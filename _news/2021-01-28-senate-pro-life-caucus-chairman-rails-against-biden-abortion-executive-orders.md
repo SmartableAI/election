@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden signs climate change orders amid concerns over jobs: 'It is time to act'"
-excerpt: "President Biden on Wednesday signed executive orders on climate change as he vowed to put the issue \"at the center\" of U.S. national security and domestic and foreign policy."
-publishedDateTime: 2021-01-27T19:36:45Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_PPicbvNnoE/biden-signs-climate-change-orders"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_PPicbvNnoE/biden-signs-climate-change-orders"
-ampWebUrl: "https://www.foxnews.com/politics/biden-signs-climate-change-orders.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-climate-change-orders.amp"
+title: "Senate pro-life caucus chairman rails against Biden abortion executive orders"
+excerpt: "Sen. Steve Daines, the founder and chairman of the Senate Pro-life Caucus, slammed President Biden over his planned executive actions Friday to roll back two Trump policies that restricted government support for abortion. "
+publishedDateTime: 2021-01-28T18:52:20Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PSe-GFSxZ3M/daines-rails-against-biden-abortion-executive-orders"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PSe-GFSxZ3M/daines-rails-against-biden-abortion-executive-orders"
+ampWebUrl: "https://www.foxnews.com/politics/daines-rails-against-biden-abortion-executive-orders.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/daines-rails-against-biden-abortion-executive-orders.amp"
 type: article
-quality: 171
+quality: 172
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
     width: 340
     height: 340
     isCached: true
@@ -79,19 +79,19 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Senate pro-life caucus chairman rails against Biden abortion executive orders"
-    excerpt: "Sen. Steve Daines, the founder and chairman of the Senate Pro-life Caucus, slammed President Biden over his planned executive actions Friday to roll back two Trump policies that restricted government support for abortion. "
-    publishedDateTime: 2021-01-28T18:52:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PSe-GFSxZ3M/daines-rails-against-biden-abortion-executive-orders"
-    ampWebUrl: "https://www.foxnews.com/politics/daines-rails-against-biden-abortion-executive-orders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/daines-rails-against-biden-abortion-executive-orders.amp"
+  - title: "Biden signs climate change orders amid concerns over jobs: 'It is time to act'"
+    excerpt: "President Biden on Wednesday signed executive orders on climate change as he vowed to put the issue \"at the center\" of U.S. national security and domestic and foreign policy."
+    publishedDateTime: 2021-01-27T19:36:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_PPicbvNnoE/biden-signs-climate-change-orders"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-climate-change-orders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-climate-change-orders.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -218,6 +218,6 @@ related:
         height: 562
         isCached: true
 
-secured: "Q3w9zDnxZgUTeTu8NokTGbXIJkd3BB4fvHlkkcFSlk07GsSsV+G9BbXBB2BgVbm/anJpN4mP1JIkQHrAzjdMyxk2UCeMCYO7bFU93ji61m5L/CT4n1IUA03VhTojUO7Kolm85S9NmRQNh+RLVRkZ6wTkqgQ84fNBO77UqehSOheudhfkJypggcVY5805ISpnwHpIzvGUc892exWBYRX2Zx1BWrILI9qllr+Pe/nkZ5Ec1o4S3z0NChkPrkHAHXJenDmTFQtzVV5tu/laM0pvzGw51a/hF3ZgvtYInMGy8yXOBEvLhb/tkA0dtRYQcpEZyR+5xcKKzOK9yVzc/VNJO4KSM5xnfd2rJU9AnlESWvE=;61TwHIM0zRaJNscZI1V86Q=="
+secured: "gcZC8w14eYPsfu5f7E2fl3XmCJdzg7UYx1p9gCXxZZhGl/9qXDn17QuKM9fpVdurKGAppHzIy09BRnY0Z+PNW7X5qyzjHRI7j3D/mzWmldWJmOLC3cHMlMXRtVnH7C2GDPvZJ5fV1HZwk+38Bhb2UMzIDFrSYFRV3ZAa/Lf/zLhkWxTu0DigdaPQ3ggsG6s1UpUhfSm63THowC9zmRdHJrXOpQwu0yMVySq/zPoH3+rBuiB3WxPGUd2SGptNDpRNsxFZlIXu9cnBz5dsEi+7ZlzMz20+mYOsAJLUb8EXOPQyTDHruA20cmeQujdhhIvaET40G0Ouw5RwgOVQRuSxeZ1Ex6AF/vcj9qOpHtzAKcM=;TqAVgkypi6FsyOwGSI4+ow=="
 ---
 

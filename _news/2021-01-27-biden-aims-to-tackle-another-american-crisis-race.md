@@ -74,6 +74,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Senate pro-life caucus chairman rails against Biden abortion executive orders"
+    excerpt: "Sen. Steve Daines, the founder and chairman of the Senate Pro-life Caucus, slammed President Biden over his planned executive actions Friday to roll back two Trump policies that restricted government support for abortion. "
+    publishedDateTime: 2021-01-28T18:52:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PSe-GFSxZ3M/daines-rails-against-biden-abortion-executive-orders"
+    ampWebUrl: "https://www.foxnews.com/politics/daines-rails-against-biden-abortion-executive-orders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/daines-rails-against-biden-abortion-executive-orders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden signs climate change orders amid concerns over jobs: 'It is time to act'"
     excerpt: "President Biden on Wednesday signed executive orders on climate change as he vowed to put the issue \"at the center\" of U.S. national security and domestic and foreign policy."
     publishedDateTime: 2021-01-27T19:36:45Z
@@ -121,6 +137,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/164891e7-5fe1-41e2-8197-0c3104488f27/3d5b8617-b309-4af6-882f-3f87e7de2b39/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Republicans recoil over Biden’s plan to study Supreme Court reforms amid left-wing court packing push"
+    excerpt: "Republicans in and out of the Senate are raising concerns about the Biden administration's commission to \"study\" the Supreme Court and propose potential \"reform,\" worrying that the result might eventually be a proposal to pack the tribunal with more justices."
+    publishedDateTime: 2021-01-28T17:28:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcPrdXLiipE/republicans-recoil-over-bidens-plan-to-study-supreme-court-reforms-amid-left-wing-court-packing-push"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-recoil-over-bidens-plan-to-study-supreme-court-reforms-amid-left-wing-court-packing-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-recoil-over-bidens-plan-to-study-supreme-court-reforms-amid-left-wing-court-packing-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Crenshaw blasts Biden admin, claims they don't like 'anything the American working class might actually want'"
     excerpt: "President Biden's executive orders about the economy prove that his administration is \"going to keep talking about unity but they don't want to unify behind anything the American working class might actually want,\" Rep. Dan Crenshaw, R-Texas, told \"Fox News Primetime\" Friday."

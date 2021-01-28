@@ -169,6 +169,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Vice President Kamala Harris will stay here until official home is ready"
+    excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
+    publishedDateTime: 2021-01-28T17:35:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/vice-president-kamala-harris-will-stay-here-until-official-home-is-ready/MEWG6GQJRJHNXB7GDOLOTZCKCQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 54
+    images:
+      - url: "https://www.ajc.com/resizer/SRQzj6K4MUguN56Z2N9ZLF-9bXs=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-21-2021/t_7e4f7c2f3e414295abc26151b2ec2751_name_db4cec39bce7441c8283051b99b794d7"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "u16zR+3QHhZDFuAytGU6HpWRJc92OGiHPR/b+902VoG/mAK0Ai4Sc79+hvim49CikZNWkfZR8UcZmGgYK3iHsurskPFsFdGpNGWQ9eTfqmW7YVNniM8Ez4rRjSlyejK+EKMHUD+xTytOyZsNCoS0DXDmxe1H/UYPJSsV88wlbP5DPhRS4CqoNN/AqqCZ5dz/ybx3RewhIFgSlbB+wdTMkl5467yqOROIZc96u6wc3V4S3wKCQNEZlB8HUuw74Fwzg0ve0aXhlu4DxEYYdONja7atpTnPb+hqajNTFrt1Zya2CrpMoS0vOqju9iS6zMlYPYiLhgp92SmK/rcOLpYqFmTStj83iTB+lMlFHXM9Sq8=;EaZRddDqvc7upF1AK3AYgQ=="
 ---

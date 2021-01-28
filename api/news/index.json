@@ -2,12 +2,68 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-28-biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.md",
+      "title": "Biden signs executive order expanding Affordable Care Act enrollment, reversing Trump policy on abortion",
+      "excerpt": "Biden signed two executive orders expanding ObamaCare enrollment and rolling back anti-abortion policies",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl1dyUUj0vo/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl1dyUUj0vo/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21025646646363.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp",
+      "publishedDateTime": "2021-01-28T10:49:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-if-biden-and-democrats-truly-support-equity-why-are-they-silent-on-school-choice.md",
       "title": "If Biden and Democrats Truly Support 'Equity,' Why Are They Silent on School Choice?",
       "excerpt": "This is National School Choice Week, and if there's been one benefit to the pandemic lockdowns of public schools across the country it's this: American",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.html",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.html",
+      "webUrl": "https://www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.html#!",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -103,63 +159,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps.md",
-      "title": "Biden Plan to Order Review of Trump Health-Care Policies Likely to Face Speed Bumps",
-      "excerpt": "President Biden is set to sign executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809?mod=hp_lead_pos6",
-      "originalUrl": "https://www.wsj.com/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809?mod=hp_lead_pos6",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-291590/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809",
-      "publishedDateTime": "2021-01-28T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {

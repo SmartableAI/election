@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here's what Biden's Obamacare executive order means for you"
+    excerpt: "President Joe Biden has promised to make health care more affordable and available. His executive order Thursday takes one immediate step in that direction.\n    \n"
+    publishedDateTime: 2021-01-28T18:03:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tLaOcfYKnTo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/biden-executive-order-aca-what-to-know/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/biden-executive-order-aca-what-to-know/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128123907-aca-supporter-signs-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Defeat in Texas shows how the conservative judiciary can thwart Biden's agenda"
     excerpt: "A federal judge's action Tuesday preventing President Joe Biden's 100-day pause in deportations demonstrated the land mines that await the new administration in the nation's courts.\n    \n"
     publishedDateTime: 2021-01-27T02:30:09Z

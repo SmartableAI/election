@@ -1,14 +1,14 @@
 ---
 category: news
-title: "First lady Jill Biden expected to take active role in immigrant family reunification"
-excerpt: "The Biden administration's planned task force aimed at reuniting children who were separated from their parents at the border under the Trump-era enforcement policies will include input from first lady Jill Biden, according to three sources familiar with the planning.\n    \n"
-publishedDateTime: 2021-01-27T19:35:18Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bCjKXOKosHk/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bCjKXOKosHk/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/jill-biden-immigration-family-separation/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/jill-biden-immigration-family-separation/index.html"
+title: "Here's what Biden's Obamacare executive order means for you"
+excerpt: "President Joe Biden has promised to make health care more affordable and available. His executive order Thursday takes one immediate step in that direction.\n    \n"
+publishedDateTime: 2021-01-28T18:03:36Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tLaOcfYKnTo/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tLaOcfYKnTo/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/biden-executive-order-aca-what-to-know/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/biden-executive-order-aca-what-to-know/index.html"
 type: article
-quality: 168
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/170601091326-jill-biden-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128123907-aca-supporter-signs-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Here's what Biden's Obamacare executive order means for you"
-    excerpt: "President Joe Biden has promised to make health care more affordable and available. His executive order Thursday takes one immediate step in that direction.\n    \n"
-    publishedDateTime: 2021-01-28T18:03:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tLaOcfYKnTo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/biden-executive-order-aca-what-to-know/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/biden-executive-order-aca-what-to-know/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128123907-aca-supporter-signs-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Defeat in Texas shows how the conservative judiciary can thwart Biden's agenda"
     excerpt: "A federal judge's action Tuesday preventing President Joe Biden's 100-day pause in deportations demonstrated the land mines that await the new administration in the nation's courts.\n    \n"
     publishedDateTime: 2021-01-27T02:30:09Z
@@ -76,6 +60,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "First lady Jill Biden expected to take active role in immigrant family reunification"
+    excerpt: "The Biden administration's planned task force aimed at reuniting children who were separated from their parents at the border under the Trump-era enforcement policies will include input from first lady Jill Biden, according to three sources familiar with the planning.\n    \n"
+    publishedDateTime: 2021-01-27T19:35:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bCjKXOKosHk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/jill-biden-immigration-family-separation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/jill-biden-immigration-family-separation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170601091326-jill-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 619
         isCached: true
 
-secured: "1nfXD+kRYS98aifS71BmvjAwMo+FCeWIY2LFkjLFA1eMw/dgQ4tmMQwm9jv6Rcc2GpjiHGQS/SKL/jPi35qlk+C/fe6y/0KCRh55laiAgT09JGN5Cf5WsZ4HkrJOwNwwTPe1BW01o1Rb9GrnrTWO3aTBnaWp5Z10CqBphyWt5E2pNjd6G7jnkhMy0coa/3YUUSM/KHqUmgy0TDjWT4NfkocJhquKz7k9dYz4Le4A1XLgt2IE0O74KXgZHUiK18RSyypgVj/fzif4zMfZmsvLwIooi6ApXU/7BX3WVAmIpHweBRGi+XXig4pTO983NBGyFmwa+H9QguZxZjzUwzBFSBH3+E8HL7vtWg9+02ZBOO4=;gXZdezBSf/6OprpF87CgpQ=="
+secured: "H4NBAFmDDW4LMZ9jk3Fu9Y5ANwVg9gds7F50yr0NA0j7UePdlKaXtD2bJ8k/X1pEK/9Ed/o6AofUuH2snbdpf/pHfFCqDUZqnrVkv/9jPGLWCjjmu+jzECWoq5Q6SsTzisWIFr0pBF0esGC6Axng7FZAqBncKkOtGaCoCyTVtKmoctGc4XnN7X+qZkdp7U6/BV4lsw8YvJVKW/dWPhsORwTVnMMtdrofv8BiTQvRPxUdG1ZBdyEz0cof6fME7m0LFlBdSU9JesvXbb63Yd1N8KXxbgwsx7txgu3jvlQK8YNs/N+YodzgegWDYYnsXkIl4iGDkGW9q5uBdfWQkZOYhBf8C7E220U1gSVozlzCm8A=;cdPuGDqLAsMBL8eLGW92YA=="
 ---
 
