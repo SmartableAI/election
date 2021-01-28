@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden takes sweeping steps to curb climate change, vows job creation"
+    excerpt: "President Joe Biden on Wednesday signed a new raft of executive actions to combat climate change, including pausing new oil and gas leases on federal land and cutting fossil fuel subsidies, as he pursues green policies he billed as a boon for job creation."
+    publishedDateTime: 2021-01-28T04:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-climate-idUKKBN29W0YS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29W0YS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29W0YS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1HP"
+        width: 846
+        height: 545
+        isCached: true
   - title: "Biden to reopen Obamacare markets to offer medical coverage during pandemic"
     excerpt: "President Biden plans to reopen the HealthCare.gov markets for a special sign-up opportunity for people without medical coverage in the pandemic."
     publishedDateTime: 2021-01-27T10:13:00Z

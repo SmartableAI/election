@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia election official says he hates 'being right' about Trump's capacity to incite violence with fraud claims"
+    excerpt: "Georgia election official Gabriel Sterling said Wednesday night that he hates \"being right\" about then-President Donald Trump's capacity to incite violence, following the US Capitol insurrection earlier this month.\n    \n"
+    publishedDateTime: 2021-01-28T03:16:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jXGyqcsoEGo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/gabriel-sterling-us-capitol-breach-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/gabriel-sterling-us-capitol-breach-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105183932-gabriel-sterling-georgia-voting-systems-manager-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "6FHFTKHc4IuvPiGhCgtzpG2hqYO9B03y6EQRGfRjKESTv04vdPi+0JPok+/goITSii04D/b6U+i7L5KeptOJUn9w88bZWcE1whuuMnfQ0BIyQWJHhqUHQAF67Nliin4VdBUpeYS3arzNr7yISvcj1ZqNcJgTfSb20LIBdU4t1c8vCjFHCXrKbgvzMDAWavKbtUwvXCy55GDQu2evAnRbkQn8Hf7c9j+VYqEvLhFZkna9+FN1YsYcdIBGDEojB9WWm998H3FpRGXDZM43rXpzgMQ3+UMVFevkDqUrRAZh0iUwOD4pjqSgN3amy7ZkutTqgZwF2ui9eB+5AhUBZXdqSDiIx6rxovoF7sCQ/FhqAAw=;VyCyqvujdQsfv1IJO6GkyQ=="
 ---

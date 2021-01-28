@@ -49,8 +49,8 @@ related:
         isCached: true
   - title: "Biden administration temporarily holds some U.S. weapons exports, official says"
     excerpt: "President Joe Biden's administration has temporarily paused some pending arms sales to U.S. allies in order to review them, a U.S. State Department official said on Wednesday."
-    publishedDateTime: 2021-01-27T22:20:00Z
-    webUrl: "https://www.reuters.com/article/usa-arms-emirates/update-1-biden-administration-temporarily-holds-some-us-weapons-exports-official-idUSL1N2K22KN"
+    publishedDateTime: 2021-01-28T02:54:00Z
+    webUrl: "https://www.reuters.com/article/usa-arms-emirates-int-idUSKBN29W2LA"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2LA"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2LA"
     type: article

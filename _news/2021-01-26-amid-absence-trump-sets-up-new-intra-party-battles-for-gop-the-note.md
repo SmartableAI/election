@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-pa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://i.insider.com/5fa9bbdff7d1cb0019e3aab7?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "GOP to stay neutral if Trump runs in 2024, but wants his help in 2022"
+    excerpt: "\"What I really do want to see him do, though, is help us win back majorities in 2022,” said RNC Chair Ronna McDaniel."
+    publishedDateTime: 2021-01-28T03:57:00Z
+    webUrl: "https://www.al.com/news/2021/01/gop-to-stay-neutral-if-trump-runs-in-2024-but-wants-his-help-in-2022.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/gop-to-stay-neutral-if-trump-runs-in-2024-but-wants-his-help-in-2022.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/gop-to-stay-neutral-if-trump-runs-in-2024-but-wants-his-help-in-2022.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YGTRPVDEYJE7LBQFKSN6JHNMAA.jpg"
+        width: 4270
+        height: 2847
         isCached: true
 
 secured: "hxTTG0demv46traG/u3LYovpvxsM4IGEEp3tFbNkpaMJSHz5As2TKqzARCJ50Ba6iVMDlzNwsYvgOXizjG/3NL0iqSPG7CrduzZ1lApZACpuINSg+iPESL8RXUdlmD6CwdVGKtxUqAw+vLxm3nrNSy8QA9b1zj1W2ab0ulNCUaie3xAruNFW28Cda0gjVxzFj3HIpH++ehxgIP0hJJCNoQTMu0lq76wQdJyR30+eUz0fELIJHdpQccq6stT1wtKQwRuWRj71eb0+lqYwCkpiXqzuwRrXHbNm2/x+umM3bbou86ZJQH/gwZX1Lg8mMpXyilQ/VENVou+ymB99Ui1QJFxInbTzifsNVZvwH2W5Eqw=;OASgde2WJS2yyZSiyfbF+Q=="

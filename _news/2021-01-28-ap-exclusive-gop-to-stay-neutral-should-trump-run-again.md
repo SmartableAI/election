@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "GOP to stay neutral if Trump runs in 2024, but wants his help in 2022"
+    excerpt: "\"What I really do want to see him do, though, is help us win back majorities in 2022,” said RNC Chair Ronna McDaniel."
+    publishedDateTime: 2021-01-28T03:57:00Z
+    webUrl: "https://www.al.com/news/2021/01/gop-to-stay-neutral-if-trump-runs-in-2024-but-wants-his-help-in-2022.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/gop-to-stay-neutral-if-trump-runs-in-2024-but-wants-his-help-in-2022.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/gop-to-stay-neutral-if-trump-runs-in-2024-but-wants-his-help-in-2022.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YGTRPVDEYJE7LBQFKSN6JHNMAA.jpg"
+        width: 4270
+        height: 2847
+        isCached: true
 
 secured: "HKxJkgTS/yNtdAg4tvu5PYCvH6ybgSV7u9062rykbMOrlv7zS6wR00hHi3B1b79Ra7PvYDPbctQ25uRQpU60TLOuDLFR1FZDqX9kuiXfC4bcZt+Lt0KNoCKLU8yjmigI+tqlPopFAGv+yRcxjExbwFGxy6N76rWBLD13iqydVu7NkVmhwO3d9UzO4m2tG45jts5gubhBXForqiRyBH+ksnqJ3Gy2/hF04gtRuCXv6beVMBvbY8bOFH5zYafXnEzkHhkDkeRS2g56AfB/iPNgSN+bK2ryEmNDoLemCFFDannfqI8RYnXF94yv+auHKFC999XJ8TVRiPGU8QnjtNWfMWp4G8L54h5GAym8i8yPyLo=;DQ/XzKpTC7oO7V2Zj5LCDA=="
 ---

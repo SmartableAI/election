@@ -1776,6 +1776,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration puts a hold on Trump's arms sale to United Arab Emirates"
+    excerpt: "Democrats in Congress had accused the Trump White House of rushing through an arms deal to the UAE weeks before Biden was inaugurated."
+    publishedDateTime: 2021-01-28T04:40:00Z
+    webUrl: "https://www.nbcnews.com/politics/national-security/biden-admin-puts-hold-trump-s-arms-sales-united-arab-n1255911"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255911"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255911"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3218636/200602-f35-plane-maddowblog-wm_b93c679aadb3319c55403d2f2bc8ce8f.jpg"
+        width: 830
+        height: 553
+        isCached: true
   - title: "Biden to take immediate steps to undo key Trump initiatives, unveil immigration plan"
     excerpt: "Joe Biden will sign more than a dozen executive actions Wednesday when he arrives at the White House as the 46th president."
     publishedDateTime: 2021-01-20T10:00:00Z

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden's 1st 100 days live updates: FEMA seeks US troops to help with vaccinations"
+    excerpt: "A draft request for assistance between FEMA and the Department of Defense is under discussion that would seek as many as 10,000 service members to support administering COVID-19 vaccine shots up to 100 sites nationwide,"
+    publishedDateTime: 2021-01-28T02:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/national-guard-vaccine-reut_hpMain_20210127-205858_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "FEMA would operate up to 100 federally run mass vaccination sites under Biden plan"
     excerpt: "A draft FEMA document envisions four different models for sites, with the largest capable of handling 6,000 doses a day."
     publishedDateTime: 2021-01-23T04:28:00Z
@@ -47,52 +63,6 @@ related:
         width: 1440
         height: 1005
         isCached: true
-  - title: "President Biden signs order mandating masks on planes: Will it reduce number of in-flight scofflaws?"
-    excerpt: "Airlines require masks and ban passengers who won't comply. A new federal mask rule signed by Biden Thursday gives them muscle to enforce it."
-    publishedDateTime: 2021-01-21T20:29:00Z
-    webUrl: "https://www.usatoday.com/story/travel/airline-news/2021/01/21/president-biden-issues-federal-mask-mandate-on-flights/4214019001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4214019001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4214019001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/dd14e355-72ea-4998-9a71-ee24ff1b399c-biden-signing.jpg?auto=webp&crop=5968,3357,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'Health of the nation is literally at stake': Biden vows swift action on vaccine sites, supplies; 100 million shots"
-    excerpt: "BIden will add clinics, bolster the public health workforce and invoke a wartime production law to ensure adequate vaccine supplies."
-    publishedDateTime: 2021-01-17T20:49:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2021/01/15/biden-add-clinics-and-supplies-complete-100-million-vaccine-shots/4174175001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4174175001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4174175001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 103
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/4836ad86-bdf1-496c-b913-038525820561-Day_in_pictures_Jan._12_2021_03.JPG?auto=webp&crop=4862,2735,x1,y36&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus"
-    excerpt: "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey."
-    publishedDateTime: 2021-01-18T07:40:00Z
-    webUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 102
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548111937&r=LYNXMPEH0G0AL&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Coronavirus updates: Single-dose vaccine from Johnson & Johnson could be 'game changer'; Biden to require masks on planes"
     excerpt: "A COVID vaccine being developed by New Jersey-based Johnson & Johnson could dramatically speed up the fight against the pandemic. Latest COVID news."
     publishedDateTime: 2021-01-21T18:20:00Z
@@ -106,6 +76,22 @@ related:
     quality: 100
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/a6d17a2c-5ef4-4acf-87f9-b26f62b41bc4-AP21020686218912.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Inauguration Day security live updates: Vice President Mike Pence among early arrivals at Capitol as security remains tight"
+    excerpt: "The inauguration of Joe Biden was set to kick off at 11 a.m. in a sun-splashed but chilly nation's capital-turned armed camp."
+    publishedDateTime: 2021-01-20T15:55:00Z
+    webUrl: "https://www.indystar.com/story/news/nation/2021/01/20/inauguration-day-security-washington-updates-protests-arrests/4214845001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4214845001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4214845001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 49
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/8322a60b-ed63-49cb-be25-0d2823e56ed9-XXX_TH__DC_security_measures700.JPG?auto=webp&crop=6474,3642,x0,y409&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

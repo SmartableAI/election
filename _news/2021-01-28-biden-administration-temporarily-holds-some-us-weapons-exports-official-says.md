@@ -2,9 +2,9 @@
 category: news
 title: "Biden administration temporarily holds some U.S. weapons exports, official says"
 excerpt: "President Joe Biden's administration has temporarily paused some pending arms sales to U.S. allies in order to review them, a U.S. State Department official said on Wednesday."
-publishedDateTime: 2021-01-27T22:20:00Z
-originalUrl: "https://www.reuters.com/article/usa-arms-emirates/update-1-biden-administration-temporarily-holds-some-us-weapons-exports-official-idUSL1N2K22KN"
-webUrl: "https://www.reuters.com/article/usa-arms-emirates/update-1-biden-administration-temporarily-holds-some-us-weapons-exports-official-idUSL1N2K22KN"
+publishedDateTime: 2021-01-28T02:54:00Z
+originalUrl: "https://www.reuters.com/article/usa-arms-emirates-int-idUSKBN29W2LA"
+webUrl: "https://www.reuters.com/article/usa-arms-emirates-int-idUSKBN29W2LA"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2LA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2LA"
 type: article
@@ -64,6 +64,6 @@ related:
         height: 960
         isCached: true
 
-secured: "bFJrOPruTy4PJ+TPkLUyiG/ZwD/+rvy8M1hdWdCbk2FIIM03rZY0mhW7DN/ePcVVIo7IxyDaAt8uepfCbkXoLmIiJSfNsggEls50rRvDfVdzBsfgdO7msiXUAMK3Mm849xPbULvK8DKccIuvTAVpLZz9lloCTcmsmghYVl3z27PGqyR5McFm1axljWB+I95kAiVS3vQz7PsgeL+y3iHygqEgB7DWUhcz2wyFn7oKWZ7NcSiPdhFlrNboNtoaPclaFtHF2o1TrjGiU9NDnuufhbODQZd2EsfooeITb5WX5NaJ4pShw/sceL4RIky3wQVff99cB/F9TCI+7aTOLlh7DhN8zjEDe4dxpKAm0KKK6us=;NTBm+RwfguAjV5JLaBiTvQ=="
+secured: "/+Zwh+TV6NpAyLYemmweByxMDJz56nfeO/Lm30kcH1alh8su3qm7DyxKpP54XYGiQFQ54mxhlVYYD8Fs6dIRsfYaFqJpSqzd9t3niI9WLR4gi+2+IBfLnhS2Al0LnX0rzegQ9fEFvL43t3sDhyvMC8e5biC3AOpNqfh0r86nqP8Wg1gaEuGJN8MPQQbWvqS8hIMjB8ayXij9JR0kB5yPDhw4lB1CZB/Zl1e0fgmJNxsKQUXaC+rglaXBHcVZ/SqAF5xUNmwg1WXnASzJQNANUROuf9EV0DET+gucvPoqv/NYzDFzo+rrdwRreorrwRQGL+PiucWgqTRLGwCitnbwQD3oh84UOcpyDFcGSqSGjYE=;jM2+18exzOEpEN38b+iV+A=="
 ---
 
