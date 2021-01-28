@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "European Commission president: Twitter's Trump ban a 'serious interference with freedom of expression'"
-    excerpt: "European Commission president Ursula von der Leyen said regulators in the U.S. and abroad should work together to develop a “framework of laws for such far-reaching decisions.\""
-    publishedDateTime: 2021-01-27T22:21:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ES6J2Mgmy7I/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression"
-    ampWebUrl: "https://www.foxnews.com/politics/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression.amp"
+  - title: "Pro-Trump social media influencer charged in 2016 scheme to suppress votes for Hillary Clinton"
+    excerpt: "A pro-Trump social media influencer was arrested in Florida Wednesday after prosecutors say he purposely spread disinformation online in an effort to suppress votes for Hillary Clinton in the 2016 presidential election."
+    publishedDateTime: 2021-01-28T21:40:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LIyuVcI6Fec/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 163
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb68ffc8-6b3e-4f50-8aa8-fbd4121d32e4/ec0272e1-91d1-4361-9227-e9df659a3a30/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "9xIs52rdOv1d/R+GNC9zHP6gEcoZMKs485Kck/JCz0p7XStDBM62fqE4eq4qxmIKNUiah9JAks/UX0ivH3Ny7bOpBIhEHU/rpEOpGVDRptABU02PFDq5tTIMxGpQWLYOehO76qhWF6+HGI41Tr784DtitZ68p/qKNRqXGhjFG0Hu3ynLCG9KtHa5Gn9GPodkKi05YOREo8LrxuUeYaxYaWkdY9x1JbgmajwF8IBKtxltd7BrucwPYO5258Mob8ihXz84Qti+InWwEdOAM15jcPHWBiaNaWDJNimAPEa5BeV0trujFz4jes1f08T3KR53OAT/5IJA4eF6i4iLLKoDAGq82UEEO/a9tMtDtpjVRg3ZeOrhLWNzHgdMhznk8RGAnNiixLOnmXpqmxuYqCEo5Bm3m4lnCvtO/x1Vd4M0q7aTRiJNSkQ3CTBuLD8Rdc+GJW8XJTwHllT9PNkOp+q75Hnb9zXW0m1gVyKNmANu6ISv0RrIQk0IsZCjassgYpkJ8w47GwdKtEdPTsVIRDkRiw==;8KdmG01MAHfWw/CNEknMsg=="

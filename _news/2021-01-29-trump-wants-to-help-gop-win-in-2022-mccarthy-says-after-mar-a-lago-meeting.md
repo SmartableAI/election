@@ -1,0 +1,82 @@
+---
+category: news
+title: "Trump wants to help GOP win in 2022, McCarthy says after Mar-a-Lago meeting"
+excerpt: "House Minority Leader Kevin McCarthy says former President Donald Trump on Thursday committed to helping Republicans retake Congress in 2022. Trump met with McCarthy (R-Calif.) at his Mar-a-Lago"
+publishedDateTime: 2021-01-28T21:57:00Z
+originalUrl: "https://nypost.com/2021/01/28/trump-wants-to-help-gop-win-in-2022-after-mar-a-lago-meeting-mccarthy/"
+webUrl: "https://nypost.com/2021/01/28/trump-wants-to-help-gop-win-in-2022-after-mar-a-lago-meeting-mccarthy/"
+ampWebUrl: "https://nypost.com/2021/01/28/trump-wants-to-help-gop-win-in-2022-after-mar-a-lago-meeting-mccarthy/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/28/trump-wants-to-help-gop-win-in-2022-after-mar-a-lago-meeting-mccarthy/amp/"
+type: article
+quality: 133
+heat: -1
+published: false
+
+provider:
+  name: New York Post
+  domain: nypost.com
+
+topics:
+  - Election
+  - Donald Trump
+  - Republican Voice
+
+images:
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/KevinMcCarthyTrump.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Trump meets with McCarthy in Florida to plan GOP House takeover in 2022"
+    excerpt: "House GOP Leader Kevin McCarthy met with former President Trump at Mar-a-lago Thursday where the two agreed to work together on Republicans taking back the House in 2022."
+    publishedDateTime: 2021-01-28T21:35:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fwi9dUj2ICg/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Mccarthy.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump to meet with Rep. Kevin McCarthy in Florida"
+    excerpt: "Former President Donald Trump is expected to meet on Thursday with Republican House Minority Leader Kevin McCarthy, sources confirm to The Post. McCarthy (R-Calif.) was a close Trump ally during"
+    publishedDateTime: 2021-01-27T22:39:00Z
+    webUrl: "https://nypost.com/2021/01/27/trump-to-meet-with-rep-kevin-mccarthy-in-florida/"
+    ampWebUrl: "https://nypost.com/2021/01/27/trump-to-meet-with-rep-kevin-mccarthy-in-florida/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/27/trump-to-meet-with-rep-kevin-mccarthy-in-florida/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-mccarthy-meeting.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "McCarthy Tries to Mend Fences With Trump"
+    excerpt: "House Republican leader Kevin McCarthy, who criticized former President Trump over the Capitol riot, discusses 2022 election goals with him in Florida visit."
+    publishedDateTime: 2021-01-28T22:25:00Z
+    webUrl: "https://www.wsj.com/articles/mccarthy-tries-to-mend-fences-with-trump-11611872037"
+    ampWebUrl: "https://www.wsj.com/amp/articles/mccarthy-tries-to-mend-fences-with-trump-11611872037"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mccarthy-tries-to-mend-fences-with-trump-11611872037"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-291733/social"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "PHA4WbiXmg1t92aFflj5e3rZifI4cl95NHM6c4iMi4vIN4eZYXxDWLg1wEJg3yiqhMOO4Y4j0+RRzDXsefF8mNCinnNGDskhzC6aX18ydkQ8NXk7nPo7k3ySIyNpG6NZTtqzQe8Fn8fg3X7TQONkLdMpSNyI6i8MDioqPQYWFVyVqPYKkxo7768wOjM2pzphhnUNQquEuAZ6euWploav6oarMRbC7ISBTIBkCHD29OwUrve9vES/aA2XhmNi0lorEs0UK9zbiU2YkRus/oFTxw93SQBmLH/5Yn8n7PpluP5FGKWp0HrnpPwL00oV3B9a4Q99JPykRqctt0gbQmBmDoF7yDQnRNj5hqkQWThwKg8=;e3s8CsuwtEiwbmPmjD5mhQ=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/european-commission-president-twitt
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression.amp"
 type: article
 quality: 159
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Trump Pressed Justice Department to Go Directly to Supreme Court to Overturn Election Results"
-    excerpt: "The former president dropped the efforts to replace the acting attorney general after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar with the matter said."
-    publishedDateTime: 2021-01-23T23:33:00Z
-    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 139
-    images:
-      - url: "https://images.wsj.net/im-289628/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "1gB2I+bX9QygzMr3+6K4B22eYBxMDrDJjc60TRGuSBTTiJe5eNz7mweli4F1xfQyQ2/Tb/khiz9jfrD87LLfpaB5pUcbn0IEaT+gSI5XbPa+h7z1Fm3/7eO2q5/0cnXjPuhljeBvA8ULlp9xEH3mvnFJyjQeuR/Vnl7d5+bTNTa06pnL0+kpl88Iur7kvd6WlLtHJ+JibZc3zS4DtvpAiUB95h1aPQG9kR0coJt2wHhtd/I3iBaPtSsHRr+RvjL/j6p8sTbJ3ZB3mfTJ0Bs4+QjKZzRXzlm7KL9ZtnMD3jq0AVzrNFMbHic7mv7oDZ8C7sW4lYIxswJjjLGfRL7k8O1VbgE2jv+Z48CKHLbGzw0=;Fi5+MHWgcPTgz5BllHnHiA=="
 ---

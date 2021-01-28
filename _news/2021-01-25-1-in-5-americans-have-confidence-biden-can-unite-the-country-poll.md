@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/1-in-5-americans-have-confidence-bi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -193,6 +193,20 @@ related:
     excerpt: "President Joe Biden signed an executive order on Tuesday promoting racial equity, \"addressing discriminatory housing polices, xenophobia against Asian Americans and Pacific Islanders, and more.\" \"I think the country's ready,"
     publishedDateTime: 2021-01-28T14:06:00Z
     webUrl: "https://www.realclearpolitics.com/video/2021/01/26/watch_live_biden_signs_executive_order_on_racial_equity_agenda.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/53/533438.jpg"
+        width: 750
+        height: 562
+        isCached: true
+  - title: "Biden Signs Executive Order On Racial Equity Agenda: \"I Think The Country's Ready\""
+    excerpt: "President Joe Biden signed an executive order on Tuesday promoting racial equity, \"addressing discriminatory housing polices, xenophobia against Asian Americans and Pacific Islanders, and more.\" \"I think the country's ready,"
+    publishedDateTime: 2021-01-28T22:02:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/26/watch_live_biden_signs_executive_order_on_racial_equity_agenda.html#!"
     type: article
     provider:
       name: RealClearPolitics

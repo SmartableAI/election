@@ -250,6 +250,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Jones Day hires top homeland security lawyer from Trump administration"
+    excerpt: "Chad Mizelle, who served as acting general counsel at the U.S. Department of Homeland Security during the Trump administration, has joined Jones Day as of counsel in its government regulation practice in Miami and Washington,"
+    publishedDateTime: 2021-01-28T21:17:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-moves-jones-day-idUSL1N2K32T2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K32T2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K32T2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Trump clemency likely for Lil Wayne, no pardons for Giuliani or Bannon: sources"
     excerpt: "U.S. President Donald Trump is likely to grant clemency to rapper Lil Wayne on Tuesday in a final wave of pardons and commutations that is not expected to include lawyer Rudy Giuliani or ex-aide Steve Bannon,"
     publishedDateTime: 2021-01-19T08:45:00Z
@@ -331,6 +342,6 @@ related:
         height: 696
         isCached: true
 
-secured: "mOzHNdcesc35cri7HixwLrNl9CdYOX/+7/5fPr5/hSR6wmU9YSvStaTbv4QmwIFvP4HNWh2JLYa8VofDn5q4CI35YpGOCnAbsQbGlEXP/fFGLnAqm2xtqgC+oiks+dBXl3MsTV2MPvydNKCulQqIC1Aimu0HEzYjh+QQKql1L4PUA0CTmRXgKz7Lf7MYmvLYIvnQys8NLm49GXfKkN6DZVtyisRrBlPo/CiiD0yK+6hVK0J7Zmwp2Ou1wskr550phdCLzJwO8bXtLRHlQmp4KXMRVNFA59Dd/k0Ug5OcZw/1TveYyA0Kraqp+rtEbJDF5bCNZmczViJhar4pd/DQnd6rPK3sTExsPcxPsZ4lXAc=;GkarPyS6mwCeERXLkbbSEA=="
+secured: "ykwkEj7ASb0wfxiY/KYHs1ax8wIo1O1Gegi7hAkpne7Ljsx/rcB8hQhUOO2vYcZmZWhEVUKpeHnbHxJ9PwDUzpsnUl41DNxxWH6pm2sKx0DH0uhpukuSv5uTef9noy6J7u1VxxMRU4u3fQJHSocBzNBioAyCYr5j9HB+82cnhEMZsQYGyJu3wB5vxeilNn7zS4jaIk/2r6YQ1pOInfMhDxnsC2KOwrj9WnGx0E2VqGRI6OhQC/R25vHrbHrTze8RGZt6s0YGIHGKuEgHbyOlBgXACvGgR+3WUcUfuSeq1n7Q/kvqJPVPs7QCwWEjXX0W1+QclgJBSCzEYITDHQl3L2njZN/XTOdTzTVbiRDj4qza6Kvsz+x9LgCGK6TE1cfHB1gPnskspH6EjW+2sJy9o4mEPru6qA5J3ejmF02eSYVx1/NjLWfpR21A7LLzSUP+d0hH3ZwMicH/Imeqfg/ns9FhlBPXwTjTTla5rSQ1i9+HbL+7PTlJBAWqDEHAW4X6PH7LZ09svRDRXUxENp6K4A==;rRozOH3S7ktdcoAtSQOBCg=="
 ---
 

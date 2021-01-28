@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden touts administration's first steps on racial disparities"
+    excerpt: "The four executive orders President Joe Biden signed on Tuesday on advancing racial equity marked the new administration’s first major address of systemic racism. They signal that Biden plans to attack the problem with sweeping policy changes mandating cooperation across multiple federal agencies — a bold departure from previous administrations which rarely tackled racial inequities head-on."
+    publishedDateTime: 2021-01-28T21:48:00Z
+    webUrl: "https://www.politico.com/news/2021/01/26/biden-racial-equity-executive-orders-462917"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/26/biden-racial-equity-executive-orders-462917"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/biden-racial-equity-executive-orders-462917"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/fc/d4/f9ad816f4b80a23e85e5c5589871/ap20295762126522-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "L0cydoc7BpNiER1G4QNLfo+gO2NRTrKS2BgbmidYC2sPXPrDwuuukumjMnwM8iJUWFh4jv+X8BhJk3eV5Tk22AQSbUlCOdnlYf5qQtai3PGPb/SugtM8s6sDFMtaoQAV9vnS5264RD/YtBp/35mdMRFMyHKTkGlRpE+LJntvOteY4bcDJvSND/v8xvMa0w4b31AcfJslLMt7iIQFDQMS3O0JqY+Ba6jSXzt0utUYgEf5/2swT20svKbLCPNaEeW4NPQPWeNmceQY5i/MGx9mJxLJAe7w1HqfksmVp3OlUCMkhJ1BTW9s5vJK26XxzpAjgAV6wcDTP5WQJhZqDNGfd0VVI4EY3KI6DjNqH1CDh/4=;9BNCvoPbM2XCr80xI075qg=="
 ---

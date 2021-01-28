@@ -192,6 +192,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "57 percent of voters say Trump impeachment will further divide Americans"
+    excerpt: "More than half of likely voters say in a new poll that former President Trump being tried in the Senate over his House impeachment would further divide an already politically-torn nation. The"
+    publishedDateTime: 2021-01-28T21:55:00Z
+    webUrl: "https://nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/"
+    ampWebUrl: "https://nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Trump-impeachment-divide-Americans-2-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump and McCarthy set up face-to-face meeting as Dems weigh impeachment trial options."
     excerpt: "Former President Donald trump is expected to meet with House Minority Leader Kevin McCarthy in Florida Thursday, Fox News has learned."
     publishedDateTime: 2021-01-27T21:21:00Z

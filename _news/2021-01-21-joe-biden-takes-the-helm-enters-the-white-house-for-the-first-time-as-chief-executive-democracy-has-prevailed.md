@@ -265,6 +265,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A new White House under Biden: Discipline, diversity, dogs and social distancing"
+    excerpt: "On the morning of Jan. 20, hours before Joe Biden arrived at the White House as the 46th U.S. president, a clear plexiglass shield was erected at the guard's desk at the entrance to the West Wing housing the executive offices."
+    publishedDateTime: 2021-01-28T21:57:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-white-house/a-new-white-house-under-biden-discipline-diversity-dogs-and-social-distancing-idUSL1N2K13DR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29X2G1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29X2G1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210128&t=2&i=1549422619&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0R1JA"
+        width: 817
+        height: 545
+        isCached: true
   - title: "UPDATE 1-Biden's U.N. nominee warns U.S. absence allows China to thrive at world body"
     excerpt: "U.S. President Joe Biden's nominee for ambassador to the United Nations stressed on Wednesday the importance of U.S. re-engagement with the 193-member world body in order to challenge efforts by China to \"drive an authoritarian agenda\"."
     publishedDateTime: 2021-01-27T21:03:00Z

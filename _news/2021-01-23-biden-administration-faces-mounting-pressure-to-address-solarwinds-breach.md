@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html"
 type: article
 quality: 173
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125145716-20210125-biden-whitehouse-staff-access-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'It's frustrating': Thousands of migrants sit in Mexico desperate for answers from the Biden administration"
+    excerpt: "Within the span of a year and a half, a Cuban couple living on the US-Mexico border were repeatedly threatened, attacked and lost a baby after being assaulted, as they waited for their next immigration court date in the United States under a Trump-era policy.\n    \n"
+    publishedDateTime: 2021-01-28T21:09:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3N_41SYeONc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/immigration-biden-mexico-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/immigration-biden-mexico-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127171643-01-matamoros-mexico-asylum-seekers-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

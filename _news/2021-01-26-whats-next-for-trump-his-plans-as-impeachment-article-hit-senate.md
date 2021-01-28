@@ -266,6 +266,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Jones Day hires top homeland security lawyer from Trump administration"
+    excerpt: "Chad Mizelle, who served as acting general counsel at the U.S. Department of Homeland Security during the Trump administration, has joined Jones Day as of counsel in its government regulation practice in Miami and Washington,"
+    publishedDateTime: 2021-01-28T21:17:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-moves-jones-day-idUSL1N2K32T2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K32T2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K32T2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Trump clemency likely for Lil Wayne, no pardons for Giuliani or Bannon: sources"
     excerpt: "U.S. President Donald Trump is likely to grant clemency to rapper Lil Wayne on Tuesday in a final wave of pardons and commutations that is not expected to include lawyer Rudy Giuliani or ex-aide Steve Bannon,"
     publishedDateTime: 2021-01-19T08:45:00Z

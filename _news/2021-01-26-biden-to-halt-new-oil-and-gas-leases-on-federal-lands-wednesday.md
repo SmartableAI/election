@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-halt-new-oil-gas-l
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-halt-new-oil-gas-leases/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126144131-01-fracking-site-texas-0507-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden touts administration's first steps on racial disparities"
+    excerpt: "The four executive orders President Joe Biden signed on Tuesday on advancing racial equity marked the new administration’s first major address of systemic racism. They signal that Biden plans to attack the problem with sweeping policy changes mandating cooperation across multiple federal agencies — a bold departure from previous administrations which rarely tackled racial inequities head-on."
+    publishedDateTime: 2021-01-28T21:48:00Z
+    webUrl: "https://www.politico.com/news/2021/01/26/biden-racial-equity-executive-orders-462917"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/26/biden-racial-equity-executive-orders-462917"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/biden-racial-equity-executive-orders-462917"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/fc/d4/f9ad816f4b80a23e85e5c5589871/ap20295762126522-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "f8LFGhUtO/X/fCuZhVr4d87ABXXyHAjOkbSeaiOzmZNptfHl4/d7/JclV/2h35ZsRto5H0TO1gXtswSZJXsKM86l2MMgPMdiYbh6RWY9hAVwcvBTxbHFTbioFeYjAYkJ4A/4fYimoOqMyVzYYttAKB4eZSWIa78c7grU7YwLJC36NzMW7qh0GR/rNAovwGs5uctgzBd8MLt7Z871y8GmzfQaImc0trC15mI28ODTDzQycDyMBQTgQIotMe9mN1f9RFMvDethzeKdsvVGKvgufgj1fmxdm10sRdBAYvRwPy+nDAZb8Wjd4/8dj2PXhLM2YYmLOQqDcqMugdV8hZJu9tGsWxMXCeAKk6kWQqTNyjU=;DxfDQ+DhEGSlGZerHaCo7w=="

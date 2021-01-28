@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'It's frustrating': Thousands of migrants sit in Mexico desperate for answers from the Biden administration"
+    excerpt: "Within the span of a year and a half, a Cuban couple living on the US-Mexico border were repeatedly threatened, attacked and lost a baby after being assaulted, as they waited for their next immigration court date in the United States under a Trump-era policy.\n    \n"
+    publishedDateTime: 2021-01-28T21:09:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3N_41SYeONc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/immigration-biden-mexico-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/immigration-biden-mexico-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127171643-01-matamoros-mexico-asylum-seekers-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "+wrUbcqEyvQUUAv7vLgbFFzVzuX5tJYLginW8oPj+cFxj9mv/S1diu6d8qw4b6N4xmrdDKHA62t8Pb1fMlYHnKa+1K5KytbF/qrrrKWTyUfXf9stf5k7oOJWr/Iyc1o5qdb2lsrzkOmPClRL/pcrOQD7ebS2KeUpDG7ZoCoQXbcafDc+kV5vBOBljU/JJAQsf+RHINPaJf+xkXKWTDWG5fPdRDZmad0CtldLf/F6KFUHlh9EiGaGWBHFazTpBTMI1xC8GBOKMZW7DEIdA6f7KIPlZeyEV9MZ2F6uQZM7tcB7iLRMMndKhv0x+kAV+VYCD/jv2VSqupvXMDNVoTggbEZLL4HmqTQ4ref78TLWCUM=;1WREO+uoExznEP4rSVSlwg=="
 ---

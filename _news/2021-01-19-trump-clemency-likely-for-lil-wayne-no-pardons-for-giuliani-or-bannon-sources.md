@@ -264,6 +264,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Jones Day hires top homeland security lawyer from Trump administration"
+    excerpt: "Chad Mizelle, who served as acting general counsel at the U.S. Department of Homeland Security during the Trump administration, has joined Jones Day as of counsel in its government regulation practice in Miami and Washington,"
+    publishedDateTime: 2021-01-28T21:17:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-moves-jones-day-idUSL1N2K32T2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K32T2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K32T2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "What’s Next For Trump? His Plans As Impeachment Article Hit Senate"
     excerpt: "Former President Donald Trump is opening a new office in Florida on Monday that will carry on his admininstration's administration, an announcement he made as the House delivered a single article of impeachment to the Senate."
     publishedDateTime: 2021-01-26T12:26:00Z
