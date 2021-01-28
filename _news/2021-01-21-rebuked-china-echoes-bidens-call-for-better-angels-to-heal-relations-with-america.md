@@ -161,6 +161,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to sign memorandum reversing Trump abortion access restrictions"
+    excerpt: "President Joe Biden will sign a presidential memorandum on Thursday to reverse restrictions on abortion access domestically and abroad imposed and expanded by the Trump administration, ​according to the Biden administration.\n    \n"
+    publishedDateTime: 2021-01-28T12:41:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yAWTEwlO4x8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/biden-abortion-executive-orders/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/biden-abortion-executive-orders/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015224228-biden-aborto-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden puts Trump's climate and environmental rollbacks in his crosshairs"
     excerpt: "Among incoming President Joe Biden's Day One priorities: Begin rolling back climate and environmental policies of the Trump administration, many of which were rollbacks of Obama-era or earlier rules.\n    \n"
     publishedDateTime: 2021-01-20T10:07:12Z

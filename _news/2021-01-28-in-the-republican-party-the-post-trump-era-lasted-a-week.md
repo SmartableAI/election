@@ -1,14 +1,14 @@
 ---
 category: news
 title: "In the Republican Party, the post-Trump era lasted a week"
-excerpt: "Two roads diverged in American politics, and the Republican Party chose the one traveled by disgraced ex-President Donald Trump and QAnon conspiracy theorists."
-publishedDateTime: 2021-01-28T00:46:00Z
-originalUrl: "https://www.cnn.com/2021/01/28/politics/donald-trump-republican-party/index.html"
-webUrl: "https://www.cnn.com/2021/01/28/politics/donald-trump-republican-party/index.html"
+excerpt: "Two roads diverged in American politics, and the Republican Party chose the one traveled by disgraced ex-President Donald Trump and QAnon conspiracy theorists.\n    \n"
+publishedDateTime: 2021-01-28T11:55:12Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cLn1g7IUkVs/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cLn1g7IUkVs/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/donald-trump-republican-party/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/donald-trump-republican-party/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
@@ -317,6 +316,6 @@ related:
         height: 773
         isCached: true
 
-secured: "cxiQriNcIV9KbA3k9HbHb7jyGt8HqjPmRislbVLRmbIQCpvThAslXq3TGjFWmB836ZGj/ToiVznBlGLSkZw3Rtm7ug10KsJmcBzsPxTJ7okyXpyoae0YQtXdlpMWEqwbcdjILDI+9LSasqBJPmV9+AdUUcMFXj8cOWyQT96WhTkHIMRLwNZFK/b0W5eXbw4/aP5sV6+BrOaC/B1HdbrGrW8fu+WQ0H492jQQKa/Ve/stfJBCti0dh48alUj32KYuxluUGS8eXN9VtqDs2zMz4MOQK7xjuMY8Gn/Sa0pUdrGFiXJXfZ4Zg39yiRGas4KX9E66apRIrDkQEEUvZD8hVV1gaUDE39C5sKk3qzYYgJBO9zA4J7DvpddW8z1iyqksf5wcf9J6T1hORMZitNSOU9eZm3/zwY7g4Ksh2MdSzqyN4r80PVaIMC3sd99oIe/2xX8LI5o0ky9Y4N7+2gpHj/9/X7KSqWKlxvuVVtmoVRHsOXIYjKuGyugYh2gwyd1X8t/MD9BKUAJUX/zQQgOdXQ==;goO/XPKVmvSW+XQU2cWnow=="
+secured: "Vtl4l3y63+IkgFdFSW78f2mcCOqeJr81qNB4E9k66hDXik4m+6mW6Fen9uSdpFduUek9o4XelYYzIgi+VsUQicjhsIMhe+2sChAthd2xY9ge5b8bxF14doLW2UQrwFBnqktNJ+bfZdRTXrxfrla/9njdvuOnbN7pUZj3Hrv6aOafo0vj+qj+Pc8fifgricEbzyjpDZigvM1B5AsoAlUPfUJvEPdB4/nweuy9OsJtThPdTiDh3VDAYoxymbJN+93Q9wvBpotp94oypaQx++8BLLqNZzDwMU637pauqadi9pwUR2VGcJG9yqtq5Bc/GN+g6e3o3a2tXDMWd/PmyCwydAWpuFZyRENfNEnLCq8V1FY=;zLcSL8Kc9lFOldCXlgzRDA=="
 ---
 

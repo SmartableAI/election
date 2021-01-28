@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In the Republican Party, the post-Trump era lasted a week"
+    excerpt: "Two roads diverged in American politics, and the Republican Party chose the one traveled by disgraced ex-President Donald Trump and QAnon conspiracy theorists.\n    \n"
+    publishedDateTime: 2021-01-28T11:55:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cLn1g7IUkVs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/donald-trump-republican-party/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/donald-trump-republican-party/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191022133438-trump-kevin-mccarthy-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Republican Party is at war with itself as it charts its post-Trump future"
     excerpt: "A cold war is underway within the Republican Party as its members begin to navigate how former President Donald Trump and his legacy fit into the GOP's future.\n    \n"
     publishedDateTime: 2021-01-26T16:22:38Z
@@ -191,22 +207,6 @@ related:
       - url: "https://static.politico.com/27/2e/35dd6d1e45b194a56eb16e1887b8/gettyimages-1230692458-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "In the Republican Party, the post-Trump era lasted a week"
-    excerpt: "Two roads diverged in American politics, and the Republican Party chose the one traveled by disgraced ex-President Donald Trump and QAnon conspiracy theorists."
-    publishedDateTime: 2021-01-28T00:46:00Z
-    webUrl: "https://www.cnn.com/2021/01/28/politics/donald-trump-republican-party/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/donald-trump-republican-party/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/donald-trump-republican-party/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191022133438-trump-kevin-mccarthy-file-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "Republicans’ Reluctance to Convict Trump"
     excerpt: "Re “Rallying Against Trial, G.O.P. Senators Signal a 2nd Trump Acquittal” (front page, Jan. 27): The vote by Republican senators against holding an impeachment trial doesn’t necessarily mean they plan to vote to acquit Donald Trump."

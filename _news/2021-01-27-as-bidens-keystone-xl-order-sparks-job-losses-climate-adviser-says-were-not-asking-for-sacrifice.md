@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tom Emmer, House GOP reelection chair, says Biden executive orders making job easier for Republicans"
+    excerpt: "The chair of the National Republican Congressional Committee said the initial policy moves by President Biden are helping him in his mission to win back the House majority next year."
+    publishedDateTime: 2021-01-28T12:31:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0KZocW1l0Do/house-gop-reelection-chair-emmer-2022-elections"
+    ampWebUrl: "https://www.foxnews.com/politics/house-gop-reelection-chair-emmer-2022-elections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-gop-reelection-chair-emmer-2022-elections.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "0Pfd8CkWNNWrrE3rLw8GC0iY2OcQqa8Bkc64U49yxwk4HDqGHI7OkmgcBwU6CXy8VjH0Eww+XMHDEoalkp9fHuHk4GqWKGgAPKkmmip3kXDsoRz/5nGk8A5+nA4Ewu5EXTAv66ZugfHo3CH5n0bbLmoo0q8RBmZxauF9t+4YlTfNMe2DDQJnqIdk7XGgqfrmH/eqo/gGpCaGwHtqjBkAwQIFN9GiQ9CRVWf1ZYo0pgRoYZEaHEOliXir5GMlfurVW4vdh9GlL+tEOXKfxzEEzZEikxgWzuUomwB6e4j28cz4aTX6rASWC+1gGu87Cg6/RadSElnqxjylpCSyyte8QqlIyfsFxLad45MOnRV9Ok4=;7Huj3daa3UFzY81zkVC8eA=="
 ---

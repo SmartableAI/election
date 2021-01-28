@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3350
+heat: 3370
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210124130226-05-joe-biden-0121-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to sign memorandum reversing Trump abortion access restrictions"
+    excerpt: "President Joe Biden will sign a presidential memorandum on Thursday to reverse restrictions on abortion access domestically and abroad imposed and expanded by the Trump administration, ​according to the Biden administration.\n    \n"
+    publishedDateTime: 2021-01-28T12:41:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yAWTEwlO4x8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/biden-abortion-executive-orders/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/biden-abortion-executive-orders/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015224228-biden-aborto-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

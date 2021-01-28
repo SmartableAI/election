@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump's influence grows in party with uncertain future: The Note"
+    excerpt: "Things are breaking Trump's way -- despite or even because of the turmoil inside the Republican Party. State parties and activists are lining up behind him, prospects for impeachment conviction are fading fast and President Joe Biden's executive orders and progressive priorities are making it easier for the GOP to find unified messaging."
+    publishedDateTime: 2021-01-28T11:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-13-gty-ml-210120_1611152722603_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Melania Trump leaves Donald Trump alone in front of the cameras – video"
     excerpt: "Former first lady left Donald Trump alone in front of the cameras at Palm Beach airport after the couple left the White House ahead of Joe Biden's inauguration"
     publishedDateTime: 2021-01-23T10:15:00Z

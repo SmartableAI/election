@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/schumer-suggests-biden-declare-clim
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-suggests-biden-declare-climate-emergency.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tom Emmer, House GOP reelection chair, says Biden executive orders making job easier for Republicans"
+    excerpt: "The chair of the National Republican Congressional Committee said the initial policy moves by President Biden are helping him in his mission to win back the House majority next year."
+    publishedDateTime: 2021-01-28T12:31:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0KZocW1l0Do/house-gop-reelection-chair-emmer-2022-elections"
+    ampWebUrl: "https://www.foxnews.com/politics/house-gop-reelection-chair-emmer-2022-elections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-gop-reelection-chair-emmer-2022-elections.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "As Biden's Keystone XL order sparks job losses, climate adviser says, 'We're not asking for sacrifice'"
     excerpt: "President Biden climate advisor Gina McCarthy said Wednesday that the administration is \"not asking for sacrifice\" with its executive order to shut down construction of the Keystone XL pipeline."
     publishedDateTime: 2021-01-27T18:38:04Z

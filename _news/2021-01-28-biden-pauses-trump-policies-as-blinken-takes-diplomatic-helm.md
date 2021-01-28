@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-pol
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721"
 type: article
 quality: 150
-heat: 1250
+heat: 1270
 published: true
 
 provider:
@@ -463,6 +463,22 @@ related:
       - url: "https://i.insider.com/600f800280e4540019816b32?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The Health 202: Biden's administration is starting to unravel dozens of Trump-era health policies"
+    excerpt: "President Biden today will take his first steps to relax some of former president Donald Trump’s most controversial health policies. But the expected executive actions are just a start. Behind the scenes,"
+    publishedDateTime: 2021-01-28T12:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/28/health-202-biden-administration-is-starting-unravel-dozens-trump-era-health-policies/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/28/health-202-biden-administration-is-starting-unravel-dozens-trump-era-health-policies/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/28/health-202-biden-administration-is-starting-unravel-dozens-trump-era-health-policies/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EH7AKGTAL4I6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 956
         isCached: true
   - title: "Biden administration to pause deportations, curtail arrests"
     excerpt: "Acting Homeland Security chief orders immigration agencies to focus on national security, aggravated felons and recent border crossers"
