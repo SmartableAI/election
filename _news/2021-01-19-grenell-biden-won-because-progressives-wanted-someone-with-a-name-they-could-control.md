@@ -168,6 +168,20 @@ related:
         width: 696
         height: 600
         isCached: true
+  - title: "Biden Signs Executive Order On Racial Equity Agenda: \"I Think The Country's Ready\""
+    excerpt: "President Joe Biden signed an executive order on Tuesday promoting racial equity, \"addressing discriminatory housing polices, xenophobia against Asian Americans and Pacific Islanders, and more.\" \"I think the country's ready,"
+    publishedDateTime: 2021-01-28T14:06:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/26/watch_live_biden_signs_executive_order_on_racial_equity_agenda.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/53/533438.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "BXOJxAsHU7hL0+dS9zR2Cz7KrPGCpA0pJOm8axbERYVlG+jlYQW3wQHZZOKg/bQ2Qix/3h7+4k3ehfyZBf5kEQ9cBb47u8YuBsiNTE7j5UPKsf7Hm8ssO6msFEI3NOiU2EYXM40vFW/NlOHJnOoK4AL3uozdAv60q4DWtZkLzfL7D6K5uH17FXkl4bipcRwGgDFzAkpIu05tflHd1rbllyZRFDCkTi661IVhRLhxbk/GCM48gst4SPjsrVtQGEkR7WXfes4OQ99e2o01EO3J/4b87ioP0SYMKvZHVDva4ny/xe8lpuLcy5fFoT+yGBHAr6vZHGDQOZQwY75ozk3tZk/v2PX7JN0KpIojM/P49mA=;EBuiX81l3UOUjGEpJHf9PQ=="
 ---

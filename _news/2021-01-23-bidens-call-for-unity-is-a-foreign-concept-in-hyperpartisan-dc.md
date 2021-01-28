@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/what-matters-january-22/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/what-matters-january-22/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden focuses on health care"
+    excerpt: "President Joe Biden forges ahead with his new administration and agenda as former President Trump's impeachment trial looms. Follow here for the latest."
+    publishedDateTime: 2021-01-28T13:10:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-1-28-21/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-presidency-trump-impeachment-1-28-21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-presidency-trump-impeachment-1-28-21/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_600/4b62b49e-5d5e-47a6-ae85-45dcb84adb32.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "6kHUQzL08OkmoFqHYZ2iZZMumYGQQ7npR1vtEauAh6fAzNUYS1j2o/ej9wdXZuKZRGOtx/qBLyjEB+Pr+gmZBeB+wlDIiCnBvEiDWwtzxk1DeylEPdyKwZzboX0kdb1wQrOuJRJKZvO52worpF3zyKkBO8YWj5AByXEJNBMZ4ibT+tPFhUmtPxttaoqM3hbs/pY1Q4YHIZDpZyuY4o9B2LQMSyq1N2kAChJ5Mk6c0dy1um32QliZodGhKTOcan3G5P0TCTMXFhyMXG+La8a6orljX7ENX3/hYUD2pl4Y1LAADgcnwmbw4t51NbCmdFjTvq+u8vCNWSPMV702HHOWs9OOVeUXUYatRA+s9vhGVSQ=;CrEPwuq5sIjmxwQLL3jPXQ=="
 ---

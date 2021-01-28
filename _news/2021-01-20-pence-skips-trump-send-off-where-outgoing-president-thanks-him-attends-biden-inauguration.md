@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 4625
+heat: 4645
 published: true
 
 provider:
@@ -413,6 +413,22 @@ related:
     quality: 190
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden rescinding Trump ban on funding abortions overseas"
+    excerpt: "The White House announced Thursday morning that President Biden will sign an executive order rescinding a rule known as the Mexico City policy which prohibits foreign non-governmental organizations from receiving U.S. funding if they promote or perform abortion as a method of family planning."
+    publishedDateTime: 2021-01-28T13:46:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wQiyB3-KWsE/biden-rescinds-trump-ban-abortion-funding-overseas"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-rescinds-trump-ban-abortion-funding-overseas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rescinds-trump-ban-abortion-funding-overseas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/092565fd-241d-4cf7-9a44-ff4a9d60eae5/83e319d0-34dd-40fc-baf0-5ce33b0dc03a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -185,6 +185,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden turns to US healthcare access in face of worrying Covid projections – live"
+    excerpt: "President to sign executive action on healthcare as experts warn of 500,000 death toll by February’s end"
+    publishedDateTime: 2021-01-28T14:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-60129a7f8f08bf384c76498c"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/0e50b8cb4c26f84ae89963efaeb7b69bd14f7faa/0_164_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c372d56c3e18bd368af3f1ad6b9479d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden's U.N. pick to warn that U.S. absence allows China to thrive at world body"
     excerpt: "U.S. President Joe Biden's nominee to be ambassador to the United Nations will stress on Wednesday the importance of U.S. re-engagement with the 193-member world body in order to challenge efforts by China to \"drive an authoritarian agenda."
     publishedDateTime: 2021-01-27T16:33:00Z
@@ -200,6 +216,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q16A"
         width: 817
         height: 545
+        isCached: true
+  - title: "Watch Live: Biden signs executive actions on abortion policy, health care access"
+    excerpt: "Mr. Biden has vowed to protect and expand the Affordable Care Act, which was enacted while he was vice president."
+    publishedDateTime: 2021-01-28T14:17:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/28/c6da5626-65f4-4274-ad76-480ed47da6ab/thumbnail/1200x630/5a5d95df2539d794cb0850404e613ac3/gettyimages-1230821605.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "UPDATE 1-Biden's U.N. nominee warns U.S. absence allows China to thrive at world body"
     excerpt: "U.S. President Joe Biden's nominee for ambassador to the United Nations stressed on Wednesday the importance of U.S. re-engagement with the 193-member world body in order to challenge efforts by China to \"drive an authoritarian agenda\"."

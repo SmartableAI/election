@@ -157,6 +157,20 @@ related:
         width: 696
         height: 600
         isCached: true
+  - title: "Biden Signs Executive Order On Racial Equity Agenda: \"I Think The Country's Ready\""
+    excerpt: "President Joe Biden signed an executive order on Tuesday promoting racial equity, \"addressing discriminatory housing polices, xenophobia against Asian Americans and Pacific Islanders, and more.\" \"I think the country's ready,"
+    publishedDateTime: 2021-01-28T14:06:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/26/watch_live_biden_signs_executive_order_on_racial_equity_agenda.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/53/533438.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Grenell: Biden Won Because Progressives Wanted Someone With A Name They Could Control"
     excerpt: "Former acting DNI Ric Grennell told FNC's Maria Bartiromo on \"Sunday Morning Futures\" that in a Biden administration, former President Barack Obama via former and future national security adviser Susan Rice will hold the true power."
     publishedDateTime: 2021-01-19T13:34:00Z
