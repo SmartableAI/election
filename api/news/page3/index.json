@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-26-irans-un-ambassador-says-iran-is-waiting-for-president-biden-to-make-the-first-diplomatic-move.md",
+      "title": "Iran's U.N. ambassador says Iran is waiting for President Biden to make the first diplomatic move",
+      "excerpt": "The Biden administration needs to lift sanctions on Iran and return to the nuclear deal that Trump ditched, the Iranian ambassador to the U.N. says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/national-security/iran-s-un-ambassador-says-iran-waiting-president-biden-make-n1255608",
+      "originalUrl": "https://www.nbcnews.com/politics/national-security/iran-s-un-ambassador-says-iran-waiting-president-biden-make-n1255608",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_04/3170401/200103-majid-takht-ravanchi-ew-432p_8963558298725b2e9f0f5729a9a8ba44.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1255608",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255608",
+      "publishedDateTime": "2021-01-26T01:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-twitter-on-jill-biden-potentially-being-more-active-first-lady-than-melania-trump-it-wont-be-a-challenge.md",
       "title": "Twitter On Jill Biden Potentially Being 'More Active' First Lady Than Melania Trump: 'It Won't Be A Challenge'",
       "excerpt": "During her first five days as first lady, Jill Biden had virtual appearances before governors' spouses, young Latinos and library officials and visited the nonprofit Whitman-Walker Health in Washington,",
@@ -726,7 +783,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 515,
+      "heat": 535,
       "tags": null,
       "images": [
         {
@@ -1304,58 +1361,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-dr-anthony-fauci-on-what-working-for-donald-trump-was-really-like.md",
-      "title": "Dr. Anthony Fauci on what working for Donald Trump was really like",
-      "excerpt": "As the coronavirus ravaged the country, Dr. Anthony Fauci’s calm counsel and commitment to hard facts endeared him to millions of Americans. But he also became a villain to millions of others.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
-      "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/uczaXLLkERAWDUmrCOo2M4q-54c=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/3LYGYJEE7PY4UWVJH55TXZUU2M.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-24T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Proud of My Vote for Biden"
+    excerpt: "I've been getting a lot of mail from critics lately asking if I'm happy with the Biden administration. They point to some of the new president's"
+    publishedDateTime: 2021-01-28T10:52:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533405_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "0fcM/vnWLqwWAGqKqgXj0yMnEqhLBDRrSxSX9o7KH7tt4CzzbHiYa1mYvr/+ajes0MniFX9BhyTKalHQaxp771cAMxkDnIRGLA2D3XzLv8z+XSqwHkA2dZLk3D1BGBz0nf8nNZfV5s6M8BePic6hOeXBWhH3kOJ2bDmwWkHJemcuARHyaT3KRz7iUQRM8oTSjLx8IjnEP1g2nlVBA1PonZOdOB8iHhqaidGf40+PFNja2a+FIgfBGDQ7ZpJAoM5ji/ls05dS7JvmzoffCNkqGPNpkUvqZH6p/RVQuX8jvk/sY0yD+bn2awJ5OkO622xCi4DChSGK2z1155+yNMa5OHFbks1QE1iHJOHgvCKkrAI=;HdsiR2ToHHVaHQnu1LPYlg=="
 ---

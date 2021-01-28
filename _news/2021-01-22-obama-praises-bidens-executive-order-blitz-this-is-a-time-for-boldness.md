@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-praises-biden-executive-order
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness.amp"
 type: article
 quality: 173
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden to sign executive orders expanding access, strengthening Obamacare through special enrollment period"
+    excerpt: "President Biden plans to sign two executive orders Thursday aimed at getting more Americans signed up for health care by reopening the federal Health Insurance Marketplace during a special enrollment period of the Affordable Care Act."
+    publishedDateTime: 2021-01-28T10:33:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XvsKMsUi5dc/biden-to-sign-executive-orders-to-expand-access-strengthen-obamacare-through-special-enrollment-period"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-sign-executive-orders-to-expand-access-strengthen-obamacare-through-special-enrollment-period.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-sign-executive-orders-to-expand-access-strengthen-obamacare-through-special-enrollment-period.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "4MvqBIaeyfX8qQqjoi60uYbVj+8+p8jGa8zgUytbKC2ZZH8HJt7kvCeJtbMI0L7LDOw21BOKoxyQQfuiknseCL6wcAANrOCmjiFdlUCFZpwlb/9KnS34erGIDGGs7I4WPZY0OvsvdWKh6eahtgpMGMMioz4MRdFDwXIN1M1dyV5eU1a2+FW/nfpu0GgtUE6PHQl0wgkYA0lHZF/kG/IR1U9Z98PtTyIBJ2OsXkyDisOzvnQIYFfnE3OZP0XlHjthiu0ZvpSi8TSlpZPnJUkFpXzyAJdZtzY7yGJyCcRKu/yn+ffg3sMgZ+cKH4wsxaD7LQ1TzEDPLjLos8bCgDa3XZvrqSzeW1InFGxO7hH/LSM=;li81pG1hTXQbfapX/OCfGw=="

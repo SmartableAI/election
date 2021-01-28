@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/alejandro-mayorkas-what-to-know-abo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Proud of My Vote for Biden"
+    excerpt: "I've been getting a lot of mail from critics lately asking if I'm happy with the Biden administration. They point to some of the new president's"
+    publishedDateTime: 2021-01-28T10:52:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533405_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "p+uokNzwVbLyJwHTGC0GD4GuleSHi415D8ksdQpVXNSX8bEHW1h+5ztP1Tx7YB+lNr6K1IYS/0LJ8M5kO28UmxlQOEMT5OlIDSikh3a8JbFpsNT1aclEjr1/rDOVSp/HQKBKy/+6exxM5ScXMdhh8CfXvMTIg2s7kpv6SLDGMnhs7+zZH3tgvzxgoHUOPnZFfqrK6A7gaSvGZ7ZDE0CNb+B3dsOIpxGxzc4Kzle9dNHsBmD4MxiUD9HDrHbqEDijhay48aYA1QgKDXfz3/ds7klyXUM34koRSFh0FqqDUO/1dNlROL6Yfd62gOU9PoMPp4FlK5Os9HMXjSLuqgoDc1jTKUo9DGRaAP2y10BXawY=;SePpqkLhcaMoDI8vG2ZbeQ=="

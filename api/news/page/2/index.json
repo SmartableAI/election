@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-27-dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.md",
+      "title": "Dr. Scott Atlas fires back at Birx over 'bizarre' claim he gave Trump 'parallel data streams' on COVID",
+      "excerpt": "Former White House coronavirus adviser Dr. Scott Atlas joined \"The Ingraham Angle\" Tuesday to respond to former White House coronavirus response coordinator Dr. Deborah Birx's claim that he provided former President Trump with \"parallel data streams\" about the pandemic. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfIrozKUsas/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfIrozKUsas/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.amp",
+      "publishedDateTime": "2021-01-26T21:29:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-biden-to-reopen-obamacare-markets-for-covid-19-relief.md",
       "title": "Biden to reopen 'Obamacare' markets for COVID-19 relief",
       "excerpt": "Fulfilling a campaign promise, President Joe Biden plans to reopen the HealthCare.gov insurance markets for a special sign-up opportunity geared to people needing coverage in the coronavirus pandemic.",
@@ -278,7 +334,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1314,63 +1370,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-irans-un-ambassador-says-iran-is-waiting-for-president-biden-to-make-the-first-diplomatic-move.md",
-      "title": "Iran's U.N. ambassador says Iran is waiting for President Biden to make the first diplomatic move",
-      "excerpt": "The Biden administration needs to lift sanctions on Iran and return to the nuclear deal that Trump ditched, the Iranian ambassador to the U.N. says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/national-security/iran-s-un-ambassador-says-iran-waiting-president-biden-make-n1255608",
-      "originalUrl": "https://www.nbcnews.com/politics/national-security/iran-s-un-ambassador-says-iran-waiting-president-biden-make-n1255608",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_04/3170401/200103-majid-takht-ravanchi-ew-432p_8963558298725b2e9f0f5729a9a8ba44.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1255608",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255608",
-      "publishedDateTime": "2021-01-26T01:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

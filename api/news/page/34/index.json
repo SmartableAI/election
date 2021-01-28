@@ -2,6 +2,62 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-12-10-obama-says-trump-did-serious-damage-to-policy-accomplishments-but-aca-remains-robust.md",
+      "title": "Obama says Trump did 'serious damage' to policy accomplishments but ACA 'remains robust'",
+      "excerpt": "President Trump has sought to roll back several major Obama-era policies since 2016.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_RhCt2v2DU/obama-trump-damage-policy-aca-robust",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_RhCt2v2DU/obama-trump-damage-policy-aca-robust",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e612c89-ef37-4a64-a3f7-916b3397e4bc/9dbd64bc-d36d-47ae-9455-7173f4a16be7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-trump-damage-policy-aca-robust.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-damage-policy-aca-robust.amp",
+      "publishedDateTime": "2020-12-09T17:30:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-senate-fails-to-block-trump-backed-arms-sale-to-united-arab-emirates.md",
       "title": "Senate fails to block Trump-backed arms sale to United Arab Emirates",
       "excerpt": "The Senate on Wednesday failed to pass two disapproval resolutions pushed by a bipartisan group of senators to block a $23 billion US arms sale to the United Arab Emirates that was approved by the Trump administration.\n    \n",
@@ -1311,63 +1367,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-trump-act-v-shakespeare-but-with-a-twist.md",
-      "title": "Trump, Act V: Shakespeare, but With a Twist",
-      "excerpt": "A reader says the Bard’s heroes, unlike the president, were remorseful in the end. Also: Children at play among the leaves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/07/business/07dc-presidentA1-inyt/merlin_180770211_a7e6f448-b301-478d-9187-fe0092cf5bb1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.amp.html",
-      "publishedDateTime": "2020-12-08T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

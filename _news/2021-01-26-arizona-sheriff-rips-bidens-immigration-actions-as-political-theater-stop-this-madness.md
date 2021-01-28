@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to sign executive orders expanding access, strengthening Obamacare through special enrollment period"
+    excerpt: "President Biden plans to sign two executive orders Thursday aimed at getting more Americans signed up for health care by reopening the federal Health Insurance Marketplace during a special enrollment period of the Affordable Care Act."
+    publishedDateTime: 2021-01-28T10:33:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XvsKMsUi5dc/biden-to-sign-executive-orders-to-expand-access-strengthen-obamacare-through-special-enrollment-period"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-sign-executive-orders-to-expand-access-strengthen-obamacare-through-special-enrollment-period.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-sign-executive-orders-to-expand-access-strengthen-obamacare-through-special-enrollment-period.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "YtclHquVfV+tiXh7YNBunSu1RwFAhQB7wkbsP6Km17ULzSR/zyQxJo5uCiGdjuCuwipQ1q5tUXcqODMeo91odtNshqn+A76jnpkVlVQf6R0zLppXSnYoFb7dyXUImv9x2sxvPGCPu5u6cKrlpuvD0TRQgLjp1xeWjYYYgElLjq4lXdaZwjcw8c/lT/MFXVmwqCCKASj+5egm1zKFm2qar928lJaijn1Ru04AArdtMNwQxOJ2lJzNSV/K80149LSLp/BSlCn+JLPhvrs4N3sVD7Y7tWv5f49cFyT7j+0yqIU9fZd6JgJaPDXqysErMS46KJOoRqhphROEh8MEQ7pvZlNT0yTk+0xVPITn7SWfY1U=;tAv4EF5qmZliGaIumA6FjQ=="
 ---

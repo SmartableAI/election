@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-21-house-expected-to-approve-waiver-for-bidens-defense-secretary-nominee-lloyd-austin.md",
+      "title": "House expected to approve waiver for Biden's Defense Secretary nominee Lloyd Austin",
+      "excerpt": "President Biden's nominee for Secretary of Defense is expected to clear an important hurdle Thursday in his pathway to confirmation of the new cabinet.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wCtQWjpjxJA/house-waiver-biden-secretary-defense-nominee-lloyd-austin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wCtQWjpjxJA/house-waiver-biden-secretary-defense-nominee-lloyd-austin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Gen.-Lloyd-Austin-III.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/house-waiver-biden-secretary-defense-nominee-lloyd-austin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-waiver-biden-secretary-defense-nominee-lloyd-austin.amp",
+      "publishedDateTime": "2021-01-21T10:57:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-logan-media-institutions-wont-admit-they-were-wrong-about-so-many-stories-during-trump-era.md",
       "title": "Logan: Media institutions won't 'admit they were wrong about so many stories' during Trump era",
       "excerpt": "Affiliates of the mainstream media will not admit they were wrong about how they conducted journalism during the Trump administration, Fox Nation host Lara Logan said on Thursday.",
@@ -1313,58 +1369,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-how-the-government-will-thoroughly-clean-and-disinfect-white-house-furniture-door-knobs-and-light-switches-after-trump-leaves.md",
-      "title": "How the government will 'thoroughly clean and disinfect' White House furniture, door knobs, and light switches after Trump leaves",
-      "excerpt": "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc827f450e71a001155893f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

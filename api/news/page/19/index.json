@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-01-05-defense-secretaries-letter-warning-trump-was-signed-by-all-in-only-2-days.md",
+      "title": "Defense secretaries' letter warning Trump was signed by all in only 2 days",
+      "excerpt": "The letter was drafted and orchestrated in consultation with former Republican Vice President Dick Cheney, himself a former secretary of defense.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
+      "originalUrl": "https://abcnews.go.com/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pentagon-gty-jt-191212_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
+      "publishedDateTime": "2021-01-04T19:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-trump-to-approve-land-swap-for-rio-tintos-resolution-copper-project-us-forest-service.md",
       "title": "Trump to approve land swap for Rio Tinto's Resolution Copper project: U.S. Forest Service",
       "excerpt": "U.S. President Donald Trump's outgoing administration plans to approve a controversial land swap needed for Rio Tinto Ltd and partners to build an Arizona copper project that Native American tribes say will destroy sites of cultural and religious value.",
@@ -1260,59 +1312,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-trumps-allies-are-rounding-on-lin-wood-after-he-tweeted-about-executing-mike-pence-and-arresting-mitch-mcconnell.md",
-      "title": "Trump's allies are rounding on Lin Wood after he tweeted about executing Mike Pence and arresting Mitch McConnell",
-      "excerpt": "Trump lawyer had posted a series of unhinged tweets saying the vice president should be arrested and executed over the 2020 election results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
-      "originalUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 569,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe87d0cedf8920018093c92?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp",
-      "publishedDateTime": "2021-01-03T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
       ]
     }
   ],

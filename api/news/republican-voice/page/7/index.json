@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-05-liberal-magazine-backtracks-after-naming-biden-sex-assault-accuser-tara-reade-among-top-ten-lunatics-of-2020.md",
+      "title": "Liberal magazine backtracks after naming Biden sex assault accuser Tara Reade among ‘Top Ten Lunatics of 2020’",
+      "excerpt": "Liberal publication Mother Jones removed Tara Reade, who rocked the presidential primary race last year with a sexual assault allegation against Joe Biden, from a list of the \"Top Ten Lunatics of 2020\" after the decision to include her in the first place was blasted by critics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/liberal-magazine-backtracks-biden-accuser-tara-reade-lunatics-2020",
+      "originalUrl": "https://www.foxnews.com/media/liberal-magazine-backtracks-biden-accuser-tara-reade-lunatics-2020",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2020/08/20/694940094001_6182980630001_6182978210001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/liberal-magazine-backtracks-biden-accuser-tara-reade-lunatics-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-magazine-backtracks-biden-accuser-tara-reade-lunatics-2020.amp",
+      "publishedDateTime": "2021-01-04T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-trump-urged-georgia-election-official-to-find-votes-in-phone-call-insisting-he-won-report.md",
       "title": "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report",
       "excerpt": "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results.",
@@ -1604,62 +1661,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-squad-introduces-bill-for-2000-stimulus-checks-backed-by-trump.md",
-      "title": "'Squad' introduces bill for $2,000 stimulus checks backed by Trump",
-      "excerpt": "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 535,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp",
-      "publishedDateTime": "2020-12-25T09:38:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

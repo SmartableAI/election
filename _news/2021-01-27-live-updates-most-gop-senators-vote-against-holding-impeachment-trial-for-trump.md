@@ -240,6 +240,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Why Trump can still be impeached after he left office"
+    excerpt: "Can a president who has already left office be impeached, tried, and convicted by the Senate if you can't remove him from that office? NBC News’ Danny Cevallos breaks down the argument."
+    publishedDateTime: 2021-01-28T10:23:00Z
+    webUrl: "https://www.nbcnews.com/now/video/why-trump-can-still-be-impeached-after-he-left-office-99998789634"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99998789634"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99998789634"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_impeac_dannycev_210125_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump leaves office with little to show of his major promises, and a legacy of violent divisiveness"
     excerpt: "Donald Trump promised to end \"American carnage\" and \"Make America Great Again.\" Four years later, he leaves with those goals far from reach."
     publishedDateTime: 2021-01-20T08:14:00Z

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-25-1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.md",
+      "title": "1 in 5 Americans have confidence Biden can unite the country: poll",
+      "excerpt": "Just one in five Americans have “a great deal of confidence” in President Biden’s ability to make good on his goal to unify the country, according to a new poll released Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vFoIpaK4fws/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vFoIpaK4fws/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20de377f-52eb-4d97-9de0-1949e9de080e/da946feb-d2c8-402f-9d32-9e153b1e2eca/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp",
+      "publishedDateTime": "2021-01-25T06:47:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-abcs-matthew-dowd-compares-trump-gop-with-hitler-tojo-kkk-apartheid.md",
       "title": "ABC's Matthew Dowd Compares Trump, GOP With Hitler, Tojo, KKK, Apartheid",
       "excerpt": "ABC News contributor Matthew Dowd commented Sunday on ABC's \"This Week\" roundtable: MATTHEW DOWD: Well, to me, the impeachment -- we have to separate the parts of the impeachment vote. I mean, other countries have gone through this before,",
@@ -840,7 +896,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1121,7 +1177,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 193,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -1613,62 +1669,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-first-100-days-of-biden-obama-clinton-escalating-spending-to-address-economic-challenge.md",
-      "title": "First 100 days of Biden, Obama, Clinton: Escalating spending to address economic challenge",
-      "excerpt": "The first 100 days of a two-term presidency mark about 3% of the eight-year span, but since President Franklin Delano Roosevelt, this brief early window of opportunity has been used to judge a new commander in chief’s agenda.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XD1cxSwvKd8/first-100-days-biden-clinton-obama",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XD1cxSwvKd8/first-100-days-biden-clinton-obama",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b73bb84-117b-4aef-abac-694d134af224/c072ecd3-b207-4d6d-81b1-e63d907ca983/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/first-100-days-biden-clinton-obama.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-100-days-biden-clinton-obama.amp",
-      "publishedDateTime": "2021-01-21T03:15:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

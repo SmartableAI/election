@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-12-30-nashville-mayor-says-trump-still-hasnt-reached-out-to-him-about-bombing.md",
+      "title": "Nashville mayor says Trump still hasn't reached out to him about bombing",
+      "excerpt": "Trump has made no public remarks on the bombing while spending the holidays at his Mar-a-Lago resort in Florida, where he's done a lot of golfing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/nashville-mayor-says-trump-hasnt-reached-out-about-bombing-2020-12",
+      "originalUrl": "https://www.businessinsider.com/nashville-mayor-says-trump-hasnt-reached-out-about-bombing-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5feb6af1edf89200180940e2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/nashville-mayor-says-trump-hasnt-reached-out-about-bombing-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nashville-mayor-says-trump-hasnt-reached-out-about-bombing-2020-12?amp",
+      "publishedDateTime": "2020-12-29T10:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-harris-emphasizes-covid-19-vaccine-is-painless-and-safe.md",
       "title": "Harris emphasizes COVID-19 vaccine is 'painless' and 'safe'",
       "excerpt": "Vice President-elect Kamala Harris on Tuesday publicly took the recently approved coronavirus vaccine.",
@@ -1283,62 +1335,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.md",
-      "title": "McConnell praises Trump for signing COVID-19, government funding bills",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQgFvI7pXFQ/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 455,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp",
-      "publishedDateTime": "2020-12-28T01:55:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

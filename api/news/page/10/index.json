@@ -2,6 +2,54 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-16-dustin-higgs-becomes-13th-and-final-inmate-executed-under-trump.md",
+      "title": "Dustin Higgs becomes 13th and final inmate executed under Trump",
+      "excerpt": "Another federal death row inmate in Indiana was executed early Saturday — marking final execution under the Trump administration, and the 13th since July. Dustin John Higgs, convicted of",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/",
+      "originalUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Dustin-John-Higgs.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/amp/",
+      "publishedDateTime": "2021-01-16T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-pence-speaks-at-memorial-service-for-yeager-in-west-virginia.md",
       "title": "Pence speaks at memorial service for Yeager in West Virginia",
       "excerpt": "Retired Air Force Brig. Gen. Chuck Yeager was remembered at a memorial service Friday as a hero, legend and friend who would go out of his way to help others.",
@@ -1298,58 +1346,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-seema-verma-says-she-has-no-regrets-about-her-healthcare-tenure-in-the-trump-administration-even-after-much-backlash.md",
-      "title": "Seema Verma says she has 'no regrets' about her healthcare tenure in the Trump administration even after much backlash",
-      "excerpt": "Some of Verma's policy accomplishments won't survive in a Biden administration and others are tied up in legal battles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/seema-verma-has-no-regrets-medicare-medicaid-obamacare-trump-2021-1",
-      "originalUrl": "https://www.businessinsider.com/seema-verma-has-no-regrets-medicare-medicaid-obamacare-trump-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6000b814b805070018995378?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
