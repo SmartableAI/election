@@ -207,6 +207,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Who could have predicted the Capitol riot? Plenty of people — including Trump allies."
+    excerpt: "Pro-Trump activists stormed the U.S. Capitol in an effort to overturn the results of the 2020 presidential election. Except for many, it was quite thinkable. It was thought aloud in some cases. As former president Donald Trump faces his second impeachment trial,"
+    publishedDateTime: 2021-01-28T19:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/28/who-could-have-predicted-capitol-siege-plenty-people/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/28/who-could-have-predicted-capitol-siege-plenty-people/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/28/who-could-have-predicted-capitol-siege-plenty-people/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHQOJMC24EI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 878
+        isCached: true
   - title: "Giuliani wasn’t just a Trump partisan but a shrewd marketer of vitamins, gold, lawsuit says"
     excerpt: "Trump’s personal lawyer sought to turn unfounded conspiracy theories and voter fraud videos into online moneymakers, attorneys said in a lawsuit seeking more than $1.3 billion in damages."
     publishedDateTime: 2021-01-27T01:52:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donal
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates"
 type: article
 quality: 125
-heat: 645
+heat: 685
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden rescinds abortion restrictions on US foreign aid"
+    excerpt: "President Joe Biden has rescinded a regulation that barred U.S. foreign aid from being used to perform or promote abortions"
+    publishedDateTime: 2021-01-28T19:19:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-rescinds-abortion-restrictions-us-foreign-aid-75544171"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-rescinds-abortion-restrictions-us-foreign-aid-75544171"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-rescinds-abortion-restrictions-us-foreign-aid-75544171"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_766293262c71470d944adf875ec86c14_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to reopen Obamacare markets to offer medical coverage during pandemic"
     excerpt: "President Biden plans to reopen the HealthCare.gov markets for a special sign-up opportunity for people without medical coverage in the pandemic."
     publishedDateTime: 2021-01-27T10:13:00Z
@@ -126,6 +142,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1717934/joe-biden.jpg"
         width: 2500
         height: 1642
+        isCached: true
+  - title: "Biden signs order to reopen Obamacare markets for special Covid-19 coverage"
+    excerpt: "President expected to sign executive order for special sign-up opportunity amid the coronavirus pandemic"
+    publishedDateTime: 2021-01-28T20:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/28/obamacare-aca-markets-reopening-biden-coverage"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/28/obamacare-aca-markets-reopening-biden-coverage"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/28/obamacare-aca-markets-reopening-biden-coverage"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/dd67192ff03e8ee7c6fc34da56a1b170c430542e/0_0_5935_3561/master/5935.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=487c409494275235af63302ef2d4e8cb"
+        width: 600
+        height: 360
         isCached: true
   - title: "Watch live: Biden nominee for DHS Director testifies at confirmation hearing"
     excerpt: "President-elect Joe Biden's nominee for Director of the Department of Homeland Security Alejandro Mayorkas on Tuesday morning is slated to testify at his Senate confirmation hearing.The hearing is scheduled to begin at 10 a."

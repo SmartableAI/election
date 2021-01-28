@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-delayed-impeachment-timeline-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c44be81c-5c8c-4e58-8ba9-ae49fc727bdc/0b142eae-7ee5-4a39-8206-ec49c98fc86b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden immigration executive orders delayed, as bipartisan bill begins to take shape on Hill"
+    excerpt: "The White House is delaying the signing of a number of immigration-related executive orders that would rescind a number of Trump-era policies, Fox News has learned -- just as a potential bipartisan immigration bill is beginning to take shape on the Hill."
+    publishedDateTime: 2021-01-28T19:48:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uWAVk2slz-8/biden-immigration-executive-orders-bipartisan-bill-hill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-executive-orders-bipartisan-bill-hill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-executive-orders-bipartisan-bill-hill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "NGplkqCn0H43PJeUm/zCXLROV9aOWbKo/fursIJxGY1CFDDIrEi7oYyOrb+0jHsN4PYPRwW2zPBRZubahtcg+znsBMKDYXojfojWFFLgIseOcuts/LCcF5jHnQvlqdqPIjamIPFKvDiBgS9LxOeaP9aphZo3U/xZT8z/D9wh1eIQwXXyiiPUOkEJT9wgeHhXdEWfVkQe80akvqesyXQOrOVPWnWbBM6awOmx+fVHGxavCM99KylARchE+aOzFphKg8tD+1w/YxJZ8Ejh9fhkiROhA/CxA1l69daAwKR7xkztkI+pIwQ148rj0frgo1LuwdXDlhQBYlp1uQWDfKn9NYk17H26bLh0Rszl5wrBvRQ=;I454uiYg3U089D1puQ7gag=="

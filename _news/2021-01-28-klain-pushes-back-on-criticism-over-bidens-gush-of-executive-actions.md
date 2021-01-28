@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House says it's their policy not to let businesses tout Biden's endorsement but they are mum on brother's law firm ad"
+    excerpt: "The White House said Thursday it is their policy to not let businesses imply they have President Joe Biden's support or endorsement, but declined to comment on the record about an advertisement in which Frank Biden touted his relationship to his brother. The ad for a Boca Raton law firm, for which Frank"
+    publishedDateTime: 2021-01-28T19:09:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0tNDHEMa0XA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/frank-biden-white-house-advertisement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/frank-biden-white-house-advertisement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128140313-frank-joe-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "6H5AAer22y9PYxSgyuiDNv6QEDj6/LgHue0Ja1SSjCKAljXpY0XbIRLQZCiDrWBDXV0OULHe/Mvf+YQKuGPSxwkhwmDC/stLw7SRgTIhTLTpE26rW3KTwI5u14YjWLKNw1Z/jyPs9OWaBGO0dZt+7X5qJjzP3ytMhXYzNxptcEdV1UVwElW/hA65R7vA2blpBrQX0JkSJk1Xt/6cq0XNLu5MjV3crcpCdO0T9DuPOY4H9QGHJP0SD+tRwOfnMf/BRldiNqlY/8M4V2ZPzeQ3shzq6bh9TKx34DL8WP/jv3KzC4dbMZeV3yn7YePuKStZh40OqgAGXtccXLgq8V2Bs2sT4n9ILZIG8esVdcTVGyKWNlx5EbgqmuiC3t1shP9ROIoPuxnNwjj3KPJ3p4OQPvYbYztUdC5OW6ca2P8mXu/t+Fclam0/n+125fuh2Y7Z59pOyMULLjSSO3UT6H8Kf+j4WDwrZqZ9+WDWEqrun2dZe/Gg6c1GUmkGMmwxtOKpOu5iTqZvJ0kilgOzq7TDuQ==;XrMTL2EMWxExYgghnLA5VA=="
 ---

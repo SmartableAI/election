@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden HUD nominee Fudge explains 'equity' doesn't mean 'treating everyone the same'"
+    excerpt: "President Biden's Housing and Urban Development Secretary nominee Rep. Marcia Fudge, D-Ohio, explained to the Senate Banking Committee Thursday that when it comes to housing, treating people the same based on race is not the preferred approach."
+    publishedDateTime: 2021-01-28T20:19:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vlJNyrVk1Ko/biden-hud-nominee-fudge-equity-not-treating-everyone-the-same"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hud-nominee-fudge-equity-not-treating-everyone-the-same.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hud-nominee-fudge-equity-not-treating-everyone-the-same.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0e9a35a-cdd7-493d-b0e0-8535c57de3fb/071070e4-ce62-44fe-9a99-32dadfc7bf59/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "RmCpuq4m4Cd+9wMgXqmkMv/MAmGGdcXLZaZJHkc9EQX0PLAnDhvCvcThXmZpeKJJCCvIUGxsgpiZICjcQxMZNL1FQeIEfKMR204V5lTGiS94PZSUTvKQrlCV5c0GvK7Hr9UId6Na/ZuaCcNQ5uiKeXwRq6a5OHHEN9lzGtgBkU8MPeFjy90SKlZgJJbocSS5xnKlLGM2Q0skFdjYbiu0osxJPtS67sPNM1O3Pbv+gPRSYQEcn8CtL6rtcllfjOHCXQcCGOoYFh8XNW1svWPhFqXoJWEO2aW55Ips8J+192VG1LSocGvkgcyETcYWyyBH7g86DCjDMxgAVJ9ygBHIdoqP+E4gDnCKfgpq3GjGW7M=;LSjQxbxPhEaAjACv+i/jiw=="
 ---

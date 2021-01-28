@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McCarthy and Trump discuss Republicans' plans to win House majority at Florida meeting Thursday"
+    excerpt: "Former President Donald Trump and House Minority Leader Kevin McCarthy met Thursday at Trump's Mar-a-Lago estate in Palm Beach, Florida, where the two Republicans discussed strategy for winning the House majority in next year's mid-terms, according to a readout of the meeting provided by Trump's Political"
+    publishedDateTime: 2021-01-28T20:48:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0l5L9FvhuGg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/donald-trump-kevin-mccarthy-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/donald-trump-kevin-mccarthy-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128153503-trump-mccarthy-save-america-pac-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McCarthy to visit the former president in Florida, showing where he stands in a post-Trump Republican Party"
     excerpt: "Former President Donald Trump is expected to meet with House Minority Leader Kevin McCarthy in Florida on Thursday, a source connected to the former President confirms to CNN.\n    \n"
     publishedDateTime: 2021-01-28T00:12:44Z

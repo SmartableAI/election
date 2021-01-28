@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden immigration executive orders delayed, as bipartisan bill begins to take shape on Hill"
+    excerpt: "The White House is delaying the signing of a number of immigration-related executive orders that would rescind a number of Trump-era policies, Fox News has learned -- just as a potential bipartisan immigration bill is beginning to take shape on the Hill."
+    publishedDateTime: 2021-01-28T19:48:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uWAVk2slz-8/biden-immigration-executive-orders-bipartisan-bill-hill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-executive-orders-bipartisan-bill-hill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-executive-orders-bipartisan-bill-hill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "gnluz3G0urX3B41W/cTYD8SxV2pM0MnHL3DP0rmN5gxUVvw4gY2h/x3+tEJgX9g14DGbBHEbVzKnjyKcnOiYK97zAMeg0I+bleVxG6+15tVeshtR20wkFfYz6hFU48n3TPmtQP4jSVE7bN6Os6dF6pL3ZVjt1D5lvt3rZa/QIQVlwa/9/sP+CECxCgrv1VvZhHMzkCiUF9UVSksZPBgsCDHQJAf87Qr4oTxdrfkRrr1tast9EGBs6psv5Jh+MsyLsmdtwLZjCg4D6RXWydagxHxAPj7X/7tQSKGc6VxXW5wHKKyXWZGsFldNam/p8hw11DoxAavU8TSTUary3hZgVq5mQyrv3RomisuLE42X3M4=;sik7nfl0hFu2DTa7CsaqmA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_4c7821cc14164c268378df3e1b377dcd_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Lawmakers push Biden to offer recurring $2,000 stimulus checks"
+    excerpt: "As Congress debates President Joe Biden's request for $1.9 trillion in coronavirus relief funding — including a third stimulus check pegged at $1,400 — some Democratic lawmakers are pushing for an even bigger response: $2,"
+    publishedDateTime: 2021-01-28T20:28:00Z
+    webUrl: "https://www.cbsnews.com/news/stimulus-check-2000-recurring-democratic-lawmakers/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/stimulus-check-2000-recurring-democratic-lawmakers/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stimulus-check-2000-recurring-democratic-lawmakers/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/28/01df0dab-acae-45d3-b972-d084f9d0e777/thumbnail/1200x630/a59f1fa9e474e8558ae2dd999604c312/gettyimages-1155807151.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "As Biden enters White House, some allies, former staffers thrive as lobbyists"
     excerpt: "Some of President Joe Biden's former staffers and allies, and those close to them, are cashing in as corporate interests look to influence the new administration."

@@ -1518,6 +1518,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Swift Action by Biden to Reverse Trump Policies"
+    excerpt: "Readers have varied reactions to the president’s use of executive orders rather than waiting for Congress to act."
+    publishedDateTime: 2021-01-28T18:58:00Z
+    webUrl: "https://www.nytimes.com/2021/01/28/opinion/letters/biden-executive-orders.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/28/opinion/letters/biden-executive-orders.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/28/opinion/letters/biden-executive-orders.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/28/lens/28biden-themorning/28biden-themorning-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Supreme Court's liberal justices lash out at unprecedented 'rush' of executions as Trump leaves office"
     excerpt: "As the country focused on the aftermath of riots in the US Capitol and the unprecedented second impeachment of President Donald Trump, the liberal justices of the Supreme Court spent Trump's last full week in office battling his administration's long-term objective to execute 13 federal death row inmates"
     publishedDateTime: 2021-01-16T14:36:03Z
@@ -2425,6 +2441,20 @@ related:
     quality: 130
     images:
       - url: "https://media4.s-nbcnews.com/j/newscms/2019_15/2819796/190411-transgender-military-ban-protest-al-1124_b2bd655352a105d41d9d5438c8a18606.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden moves to roll back Trump restrictions on abortion, Obamacare"
+    excerpt: "Biden’s actions on health care and abortion are among the numerous ways he has been wiping out his predecessor’s signature achievements."
+    publishedDateTime: 2021-01-28T13:34:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-moves-role-back-trump-restrictions-abortion-obamacare-n1255946"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2021_04/3445623/210128-joe-biden-mc-1152_4e064fd1b3e5e41a89bd92851da6f792.nbcnews-fp-1200-630.JPG"
         width: 1200
         height: 630
         isCached: true

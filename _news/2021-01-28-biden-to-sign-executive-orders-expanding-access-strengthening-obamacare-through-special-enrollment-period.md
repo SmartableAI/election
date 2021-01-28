@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Obama praises Biden's executive order blitz: 'This is a time for boldness'"
-    excerpt: "Former President Barack Obama praised President Biden on Thursday for enacting a sweeping slate of executive orders within hours of his inauguration as president."
-    publishedDateTime: 2021-01-22T02:35:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4SO-bhHBdXk/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness"
-    ampWebUrl: "https://www.foxnews.com/politics/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness.amp"
+  - title: "Biden urged by House Dems to extend ObamaCare benefits to DACA recipients"
+    excerpt: "More than 90 House Democrats led by Rep. Joaquin Castro are urging President Biden to extend ObamaCare health benefits to DACA recipients, in an effort some Republicans insist \"won't pass Congress\" if it were to be introduced as legislation."
+    publishedDateTime: 2021-01-28T19:51:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NAN54l9y8dg/biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/158a5324-bd78-42b4-bb85-fe4a4bbe248a/0a3fc3cf-becc-42c4-8c73-788c6711f952/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Arizona sheriff rips Biden's immigration actions as 'political theater': 'Stop this madness'"
-    excerpt: "An Arizona sheriff warned on Monday that President Biden’s executive orders on immigration are “hasty” and encouraged the president to “stop this madness.”"
-    publishedDateTime: 2021-01-26T13:59:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_m8C39sKmts/arizona-sheriff-biden-immigration-actions-political-theater-border-security"
-    ampWebUrl: "https://www.foxnews.com/politics/arizona-sheriff-biden-immigration-actions-political-theater-border-security.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-sheriff-biden-immigration-actions-political-theater-border-security.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McCarthy and Trump discuss Republicans' plans to win House majority at Florida meeting Thursday"
+    excerpt: "Former President Donald Trump and House Minority Leader Kevin McCarthy met Thursday at Trump's Mar-a-Lago estate in Palm Beach, Florida, where the two Republicans discussed strategy for winning the House majority in next year's mid-terms, according to a readout of the meeting provided by Trump's Political"
+    publishedDateTime: 2021-01-28T20:48:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0l5L9FvhuGg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/donald-trump-kevin-mccarthy-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/donald-trump-kevin-mccarthy-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128153503-trump-mccarthy-save-america-pac-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McCarthy claws his way back to Trump's good side"
     excerpt: "Kevin McCarthy is trying to get back in Donald Trump’s good graces — but he could wind up making more people unhappy in the process. In the aftermath of the deadly Capitol riots, McCarthy angered Trump by saying he bears some responsibility for the attack."
     publishedDateTime: 2021-01-26T09:30:00Z

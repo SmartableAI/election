@@ -444,6 +444,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden signs healthcare order to undo Trump 'damage' as US detects two South Africa Covid variant cases – live"
+    excerpt: "Two unconnected cases of variant identified in South Carolina, while president signs executive orders to expand healthcare access"
+    publishedDateTime: 2021-01-28T20:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-6013210d8f08afe716c72830"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 131
+    images:
+      - url: "https://i.guim.co.uk/img/media/4701cde480ee3378ee9f8147cd15c5e25bd347bf/0_190_5436_3262/master/5436.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=98046c3ee26cfd443786ce914eab3313"
+        width: 600
+        height: 360
+        isCached: true
   - title: "The Trump economy left Black Americans behind. Here’s how they want Biden to narrow the gaps."
     excerpt: "Black Americans propelled Biden to the presidency. Now they’re counting on him to deliver on his promise to end systemic racism."
     publishedDateTime: 2021-01-22T20:41:00Z
@@ -919,6 +935,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "After Trump Bromance, Biden Quickly Shifts Cold On Putin"
+    excerpt: "After Donald Trump's four-year flirtation with Russian President Vladimir Putin, Joe Biden is setting a new, colder tone -- unhesitant criticism, despite openness on arms control. Biden in his first week has already taken Moscow to task on its arrest of opposition leader Alexei Navalny as well as its alleged hacking,"
+    publishedDateTime: 2021-01-28T20:47:00Z
+    webUrl: "https://www.ibtimes.com/after-trump-bromance-biden-quickly-shifts-cold-putin-3132816"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/28/us-president-joe-biden-left-has-quickly-shown.jpg"
+        width: 864
+        height: 768
         isCached: true
   - title: "Top Republicans Ask Biden for Tougher Response to China Sanctions on Trump Officials"
     excerpt: "The Biden administration faced pressure from Republican lawmakers on its second day in office for a more forceful response to Beijing's announcement of sanctions against the architects of former President Donald Trump's tough China policy. As Democrat Joe ..."

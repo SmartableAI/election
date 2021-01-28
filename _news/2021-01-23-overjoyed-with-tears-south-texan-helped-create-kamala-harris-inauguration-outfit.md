@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Vice President Kamala Harris: White House wants to accelerate COVID-19 vaccinations in Arizona"
+    excerpt: "\"We have big problems right now, but we also have the ability to be bold with big solutions,\" Vice President Kamala Harris told The Arizona Republic."
+    publishedDateTime: 2021-01-28T20:00:00Z
+    webUrl: "https://www.azcentral.com/story/news/local/arizona-health/2021/01/28/white-house-wants-accelerate-covid-19-vaccinations-arizona/4293561001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4293561001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4293561001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/94c6f544-c7e2-45fb-9942-7c91a029b88f-VPC_BIDEN_SOT_DESK.00_00_07_05.Still015.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "eiuKoGkk8FmIIGZn76g8sEVwTSY0VzufeY3PixVEIqxsxMP0BN01GcP9oRSIMzMu6FzBOxUcb5jWvhQ4e8Qcb4GZ7mj7UXha8j5abJygq9XI3spTTnu+QkbbtS/DH5egGfK2bwXXL/u6hnKqrlhNsgQClzLtdZsF9s/9JVri1kz0hLwbyereC8cJrdbYMRe6hOlqKq4Ug8UtFYqJRK11FN6jVRFHFzKxFaBA32tvET4Ggcmqnv8irtK+hgrfa5qzfSo8owh/uiH6W46XRFWF1nTozZwI1WF4Hma5/sPyXxexNvMnpeSj1uZKzdfUJp72RX/PJH0zdzIuDMNOHvOnRm2pngU4TP/Y238ESdxcscRDsJCRUCpik0nxM4byGJafJjuB2WfpEJ6Y5OV+WfkzL+Z+d1MaC7igv3G5AGOA4pENXTuIa+rgRwCqvV1IrXaXQnsrVzZYluydfewlZQiIq6yBxibHH9+H076hMD0zWer5lnWiOBACZh8LdAjeOViILiXa9ryvqntQExd+M0gcqw==;Lm6f/SQZEDvUXICkliTAQA=="
 ---

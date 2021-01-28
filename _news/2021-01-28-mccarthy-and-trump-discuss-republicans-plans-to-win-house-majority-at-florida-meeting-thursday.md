@@ -1,0 +1,85 @@
+---
+category: news
+title: "McCarthy and Trump discuss Republicans' plans to win House majority at Florida meeting Thursday"
+excerpt: "Former President Donald Trump and House Minority Leader Kevin McCarthy met Thursday at Trump's Mar-a-Lago estate in Palm Beach, Florida, where the two Republicans discussed strategy for winning the House majority in next year's mid-terms, according to a readout of the meeting provided by Trump's Political"
+publishedDateTime: 2021-01-28T20:48:20Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0l5L9FvhuGg/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0l5L9FvhuGg/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/donald-trump-kevin-mccarthy-meeting/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/donald-trump-kevin-mccarthy-meeting/index.html"
+type: article
+quality: 163
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128153503-trump-mccarthy-save-america-pac-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Trump to meet with McCarthy in Florida on Thursday"
+    excerpt: "Former President Donald Trump is expected to meet with House Minority Leader Kevin McCarthy in Florida on Thursday, a source connected to the former President confirms to CNN.\n    \n"
+    publishedDateTime: 2021-01-27T22:49:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NGt5bsJuhw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191217154709-01-kevin-mccarthy-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McCarthy to visit the former president in Florida, showing where he stands in a post-Trump Republican Party"
+    excerpt: "Former President Donald Trump is expected to meet with House Minority Leader Kevin McCarthy in Florida on Thursday, a source connected to the former President confirms to CNN.\n    \n"
+    publishedDateTime: 2021-01-28T00:12:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NGt5bsJuhw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191217154709-01-kevin-mccarthy-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McCarthy claws his way back to Trump's good side"
+    excerpt: "Kevin McCarthy is trying to get back in Donald Trump’s good graces — but he could wind up making more people unhappy in the process. In the aftermath of the deadly Capitol riots, McCarthy angered Trump by saying he bears some responsibility for the attack."
+    publishedDateTime: 2021-01-26T09:30:00Z
+    webUrl: "https://www.politico.com/news/2021/01/26/kevin-mccarthy-donald-trump-462445"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/26/kevin-mccarthy-donald-trump-462445"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/kevin-mccarthy-donald-trump-462445"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/e3/4e/a348753d4fd98010dbfd633ce75f/ap20317661233739.jpg"
+        width: 4544
+        height: 3029
+        isCached: true
+
+secured: "DMlhveVqXeKkAfGSLLDlJ0bnB2X+5xjXFt5GfnA+ohN+QQag/Zs4Tczar7cD63qpbB27zE7T8BI9NkXTLpOL8ZXSaBpKSrBgd8xwQb29ZFT/UPuLCCLFVzL5Z54cJ8W3dTHgoMEWfwV2JGy/PRkBkjUruErBMTcV+YekHPtNpD3DVdAmCX/xK9jP8tiktEPTMkj9U+8mqACsr+TIKSOTjqSXA7gDswkTSU2QMz6VqAyFEUh+a3I99z0gT01D7O6aO8ApRWWNDdIr1lPbvveBltZgE7TY3/jL7gsYCsPD1aWswOSSKzX91vu2pkXYi7PQlCeeUTI/edqhKuZCef4WOSdvjoqBF8cH7925/2VqDgA=;t0r2bKOla8vOdSmuRO9+yQ=="
+---
+

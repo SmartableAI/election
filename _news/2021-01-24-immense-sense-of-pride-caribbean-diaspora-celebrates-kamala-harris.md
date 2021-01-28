@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribb
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -184,6 +184,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/26/biden_55145_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Blair House guest quarters a temporary home for Kamala Harris"
+    excerpt: "Harris is living temporarily at Blair House, the president’s official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
+    publishedDateTime: 2021-01-28T19:14:00Z
+    webUrl: "https://chicago.suntimes.com/2021/1/28/22254762/blair-house-guest-quarters-a-temporary-home-for-kamala-harris"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/1/28/22254762/blair-house-guest-quarters-a-temporary-home-for-kamala-harris"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/1/28/22254762/blair-house-guest-quarters-a-temporary-home-for-kamala-harris"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Kamala Harris’ historic rise as U.S.’s first Black, Caribbean-American VP celebrated"
     excerpt: "Vice President-elect Kamala Harris, left, and Felicia Persaud, a long-time Caribbean activist during a virtual celebration of Harris’ historic rise ahead of Jan. 20, 2021 inauguration of U.S. President-elect Joe Biden. Courtesy of Invest Caribbean ..."

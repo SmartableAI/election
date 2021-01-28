@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Lawmakers push Biden to offer recurring $2,000 stimulus checks"
+    excerpt: "As Congress debates President Joe Biden's request for $1.9 trillion in coronavirus relief funding — including a third stimulus check pegged at $1,400 — some Democratic lawmakers are pushing for an even bigger response: $2,"
+    publishedDateTime: 2021-01-28T20:28:00Z
+    webUrl: "https://www.cbsnews.com/news/stimulus-check-2000-recurring-democratic-lawmakers/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/stimulus-check-2000-recurring-democratic-lawmakers/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stimulus-check-2000-recurring-democratic-lawmakers/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/28/01df0dab-acae-45d3-b972-d084f9d0e777/thumbnail/1200x630/a59f1fa9e474e8558ae2dd999604c312/gettyimages-1155807151.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
     excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."
     publishedDateTime: 2021-01-21T12:38:00Z
