@@ -181,6 +181,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Blair House guest quarters a temporary home for VP Harris"
+    excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
+    publishedDateTime: 2021-01-28T11:30:00Z
+    webUrl: "https://www.chron.com/news/article/Blair-House-guest-quarters-a-temporary-home-for-15905348.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Blair-House-guest-quarters-a-temporary-home-for-15905348.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Blair-House-guest-quarters-a-temporary-home-for-15905348.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Blair House guest quarters a temporary home for Kamala Harris"
     excerpt: "Harris is living temporarily at Blair House, the president’s official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
     publishedDateTime: 2021-01-28T19:14:00Z

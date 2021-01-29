@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/01/27/biden-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/?outputType=amp"
 type: article
 quality: 109
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Washington Post
@@ -29,24 +29,6 @@ images:
     width: 1440
     height: 961
     isCached: true
-
-related:
-  - title: "In first lawsuit against Biden administration, Texas AG Paxton challenges deportation freeze"
-    excerpt: "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days."
-    publishedDateTime: 2021-01-22T22:48:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/01/22/texas-ag-ken-paxton-files-lawsuit-block-biden-deportation-freeze/6675679002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6675679002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6675679002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/media/2020/11/20/Austin/ghows-TX-200729145-8717c8b4.jpg?auto=webp&crop=750,422,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "jcXhfU3BAuyshJQTsOZCHAUsvfBGQ7QmZo2IBLa0o994jlYFOXWzC0Jq1nSe7NgfPvau5bAwCMYrebYLenNQjezX1sxL9x9oevB6HC31uSgoaJ6A5isCMtW8Ezo9ruHzDpGqNk+Cq4TtfGLNwRmXWlNNzGzUcdGTjhb2uj1N9scc0iIbDJBW1pHJyxj7C4yjByqZMbP20o9PywTD8Hk21e02Gl3evlccnnrVCsbSEA63ncrQbwUGh02v6polUZu5GJMCj9eLBQVYb+1EQZpS6tUIjkqTffaHARBWLjin715Hghdh05G9J5KR4MNaEZxdwFZVArRaGPQC49LwJfGS62XpENxHTByQu7AHkuA0aoabZdvRqKuU3MRdat848McZvhPlboHBOIDsX0jvVVBEgjNTf6EUZ2J4+T+5Jdg1nydQXZVd4gypGZowAe4e4gA+13mbkTE/8t7jAeuEccC55YiHFlRqJa9RZnT6bS+Xqsw3wTSXTVvcRN++wcKqUUaAmrZHIR84RCNpGjMDOuObEA==;zfU4B6Rk/FsCqmPZLNPNIw=="
 ---

@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
+    excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
+    publishedDateTime: 2021-01-23T19:39:00Z
+    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-289628/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "9xIs52rdOv1d/R+GNC9zHP6gEcoZMKs485Kck/JCz0p7XStDBM62fqE4eq4qxmIKNUiah9JAks/UX0ivH3Ny7bOpBIhEHU/rpEOpGVDRptABU02PFDq5tTIMxGpQWLYOehO76qhWF6+HGI41Tr784DtitZ68p/qKNRqXGhjFG0Hu3ynLCG9KtHa5Gn9GPodkKi05YOREo8LrxuUeYaxYaWkdY9x1JbgmajwF8IBKtxltd7BrucwPYO5258Mob8ihXz84Qti+InWwEdOAM15jcPHWBiaNaWDJNimAPEa5BeV0trujFz4jes1f08T3KR53OAT/5IJA4eF6i4iLLKoDAGq82UEEO/a9tMtDtpjVRg3ZeOrhLWNzHgdMhznk8RGAnNiixLOnmXpqmxuYqCEo5Bm3m4lnCvtO/x1Vd4M0q7aTRiJNSkQ3CTBuLD8Rdc+GJW8XJTwHllT9PNkOp+q75Hnb9zXW0m1gVyKNmANu6ISv0RrIQk0IsZCjassgYpkJ8w47GwdKtEdPTsVIRDkRiw==;8KdmG01MAHfWw/CNEknMsg=="
 ---

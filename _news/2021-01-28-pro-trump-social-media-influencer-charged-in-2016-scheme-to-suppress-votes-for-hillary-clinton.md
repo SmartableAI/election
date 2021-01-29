@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-social-media-influencer-2016-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp"
 type: article
 quality: 163
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 139
+    images:
+      - url: "https://images.wsj.net/im-289628/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
+    excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
+    publishedDateTime: 2021-01-23T19:39:00Z
+    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
     images:
       - url: "https://images.wsj.net/im-289628/social"
         width: 1280

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828115424-06-march-on-washington-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: No, Biden didn't say that signing lots of executive orders makes you a dictator "
+    excerpt: "President Joe Biden has signed more than 35 executive orders, actions and memorandums in his first week-and-a-half in the Oval Office. And some of Biden's critics are saying or suggesting that his frequent early use of the presidential pen contradicts a dramatic statement he made on the campaign trail"
+    publishedDateTime: 2021-01-29T18:42:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_SsXIAXU6Zk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 144
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125124643-biden-signs-executive-order-transgender-military-ban-repeal-vpx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

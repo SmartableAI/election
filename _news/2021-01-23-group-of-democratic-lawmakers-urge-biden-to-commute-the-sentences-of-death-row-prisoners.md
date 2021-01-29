@@ -111,6 +111,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: No, Biden didn't say that signing lots of executive orders makes you a dictator "
+    excerpt: "President Joe Biden has signed more than 35 executive orders, actions and memorandums in his first week-and-a-half in the Oval Office. And some of Biden's critics are saying or suggesting that his frequent early use of the presidential pen contradicts a dramatic statement he made on the campaign trail"
+    publishedDateTime: 2021-01-29T18:42:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_SsXIAXU6Zk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 144
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125124643-biden-signs-executive-order-transgender-military-ban-repeal-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "L95nMZD2plCMvn24bdtzn6bMrNdxLs3OChW09hUdMFJ1RcaVaS6KxzQN1K29TJ/GqLw8qpnTRjZkCTd33My6X67YW5qa8llqfab34q2jA7dUWpMbCp5Ky4quugmPIp4Cb3/KHirNeagLi2hl6kBd2N6yN8dUY4THzdAzTApReNjoNsduJ7KUr05TATdBHyA/sjQMZF5cYhT8ObMh/yhrkdPmcD51lmMndUoSNHwtHvVri+iyrcHSG2yGlhXmuhxGPP9VbH2KH/PgmTvwYPMMGiRA6OCAw6XrvfVAr1CrR/L0+O1XiOR1v/AqJOVpjBpTx2ltKTKh1C1Ft6jf+eEkFUV+uVDTbrd3djxHaDZXdVE=;zRzfKwwb20lNoaaVHXSqyw=="
 ---

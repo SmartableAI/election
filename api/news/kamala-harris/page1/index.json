@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-29-kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models.md",
-      "title": "Kamala Harris' Stepdaughter Ella Emhoff Signs With IMG Models",
-      "excerpt": "Ella Emhoff, the stepdaughter of Vice President Kamala Harris, made waves on the internet for donning a sparkling Miu Miu coat to “Momala’s” swearing in on Jan. 20. The chic inauguration ensemble even caught the eye of prestigious modeling agency IMG Models.",
+      "path": "_news/2021-01-30-joe-biden-basing-kamala-harris-relationship-on-obama-model-charlotte-observer.md",
+      "title": "Joe Biden basing Kamala Harris relationship on Obama model | Charlotte Observer",
+      "excerpt": "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/",
-      "originalUrl": "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/",
+      "webUrl": "https://www.charlotteobserver.com/news/politics-government/article248840399.html",
+      "originalUrl": "https://www.charlotteobserver.com/news/politics-government/article248840399.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 146,
       "tags": null,
       "images": [
         {
-          "url": "https://media.nbcnewyork.com/2021/01/Ella-Emhoff-IMG-Models.jpg?crop=221px%2C98px%2C4065px%2C2285px&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp",
-      "publishedDateTime": "2021-01-29T00:54:00-08:00",
+      "ampWebUrl": "https://amp.charlotteobserver.com/news/politics-government/article248840399.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article248840399.html",
+      "publishedDateTime": "2021-01-29T08:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -57,7 +57,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -390,7 +390,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president?share=facebook",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {

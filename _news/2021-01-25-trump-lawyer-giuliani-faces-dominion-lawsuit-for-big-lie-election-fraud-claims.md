@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1CD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1CD"
 type: article
 quality: 135
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -352,6 +352,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
+  - title: "Pro-Trump Lawyer Lin Wood Asked by Licensing Body to Undergo Mental Health Evaluation"
+    excerpt: "An attorney licensing body on Friday said it has asked L. Lin Wood, a lawyer who played a key role in Donald Trump's attempts to overturn his election defeat, to undergo a mental health evaluation. Wood said on the app Telegram on Thursday that the State Bar of Georgia had told him he needed to submit to the evaluation to keep his law license."
+    publishedDateTime: 2021-01-29T16:44:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
 
 secured: "ztJx8RjVwkKh11Z0Va9k1xNZOlkzTbOmFYzkFGL2mAeawxwW5a6UeqAHKMKUzrSnEMa2Q8oy5R9jSaMqXO+rq1rI7Luq5hmjQDcNHXYQK2OkCh5RF1ydAFXd1bS9mfHJWkJQiR1L1VCEAX20zAk9TOpk1eoUIisPMcA5Nv/gV4swC+wiyEOz8BVSG1TpEICX+FIDNnYVygRPSCMWfML2eOT6W9PZSMHSEJ4/ub0HfSHysG2ZbEBxlXuGS15B/Stx6FbjJpC/4K9cFi+D4KTrAHWPt+U1Gh/Pig3J9Ip4et4omzxSZd16Lfz5NdYfEqQ7c5Yb/ifNcKs1LOs3GI1Z0ijXhZeaKjhMStmVuROzbXV1BuR1idoy8PTVo4acGyBq4R84H/nE5unNq4HJUbUkIw/VhvBSkQVkoJcyieHq+6WuUiDiwhD8XnC1XVNoXL4ZalHubUBQaPQXBhMIrDKSKkkMuHHhxr4IYD0BNUkqX4piPtl2GykR59TA7buD9VFGJoCdDKG8iL0c/MUvCeq7og==;0rt1OKlubpF3iqnQP58ebQ=="
 ---

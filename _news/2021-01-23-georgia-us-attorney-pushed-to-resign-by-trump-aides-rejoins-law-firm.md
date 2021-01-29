@@ -46,6 +46,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Larry Kudlow, former top economic adviser to Trump, to host Fox Business show"
+    excerpt: "Fox is hiring Larry Kudlow, most recently the top economic advisor to Donald Trump in the White House, as contributor and host of a weekday show on its business network. Kudlow, who will start on"
+    publishedDateTime: 2021-01-26T20:32:00Z
+    webUrl: "https://nypost.com/2021/01/26/larry-kudlow-former-top-economic-adviser-to-trump-to-host-fox-business-show/"
+    ampWebUrl: "https://nypost.com/2021/01/26/larry-kudlow-former-top-economic-adviser-to-trump-to-host-fox-business-show/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/26/larry-kudlow-former-top-economic-adviser-to-trump-to-host-fox-business-show/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/larry-kudlow-fox.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "5pDTf9sy83d2DbOfrMD0jIHWie8Suj8fMVhnHUj+W3zrbwqeKBxmZs+8YqWKjBXPGFJ6gHwGY3S3VXTWj6HUtzYWPqHL/DfgsWNfvHqbBWJRo2KjSCjyu7Sa1Uy+AHRUljrFA1ivTikwbv7KQFinVodvHZ7kCAK5GFi4mvTMPIR9szdLVfA6aemcMQkKKG1azo4pcxC/7+VNCXDJuwVmuA9M7xDYsGmLPJqKKQlWdIgy+O8StvPKhHuCXamKkxy9yzzeym2eQ9J02VH+tDHliq8frO71/YPcmzN5l7ofaMCtAdzBWJ9UzylFxpvHkiXSZTVnm7ZRDmBLGzubGsRedNvDv0mnC1YmfmdQ6vQL3lU=;ZnRViiQgYJZHOitPkoMWXA=="
 ---

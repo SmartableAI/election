@@ -352,6 +352,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
+  - title: "Pro-Trump Lawyer Lin Wood Asked by Licensing Body to Undergo Mental Health Evaluation"
+    excerpt: "An attorney licensing body on Friday said it has asked L. Lin Wood, a lawyer who played a key role in Donald Trump's attempts to overturn his election defeat, to undergo a mental health evaluation. Wood said on the app Telegram on Thursday that the State Bar of Georgia had told him he needed to submit to the evaluation to keep his law license."
+    publishedDateTime: 2021-01-29T16:44:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
 
 secured: "Ax6Via+qAU9rRAv8iCzrZC4XQBsHnbf8E0DMV3p4GPMmPupUNLmdxsRYJhiOAoCwyN33s6a/dTD3gULXaJVi9FrsePiswyNjC6wZuAoShuUUWEGKsjdPyVPjl7Qdj8wd/i2bpz5yAPxGYwKE3iez0u2/foDgcbBocy97Nx0UWb45wkr/daf6+pGu+M5LHai/8VEZWKZIxRA2xZ7vIem5p7YadGB/0dZl/iVETQHPOshfDq+4KgZvall0TF3JXrOjnUK4ocGgi/sMbg4zA0vRb35seq1jsZ+zhqyqh2eT0Vsg7W7mbvnGcGVXQ8E0/Av6NOo2+cniNllvRx8RmcLcyQLOK3wL9WTqP1QtvclALFM=;iEWeJfEoHYYRxPgafJwKFg=="
 ---

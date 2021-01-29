@@ -1,0 +1,53 @@
+---
+category: news
+title: "Biden pledge to reopen PLO mission in Washington faces legal hurdles"
+excerpt: "U.S. President Joe Biden's plan to work to reopen the Palestinians' diplomatic mission in Washington could be held up over a law that exposes Palestinian officials to U.S. anti-terror lawsuits, officials and advisers to the Palestinians say."
+publishedDateTime: 2021-01-29T18:55:00Z
+originalUrl: "https://www.reuters.com/article/us-palestinians-usa-idUSKBN29Y1FB"
+webUrl: "https://www.reuters.com/article/us-palestinians-usa-idUSKBN29Y1FB"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y1FB"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y1FB"
+type: article
+quality: 125
+heat: 145
+published: true
+
+provider:
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549554099&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S0YT"
+    width: 825
+    height: 545
+    isCached: true
+
+related:
+  - title: "In first lawsuit against Biden administration, Texas AG Paxton challenges deportation freeze"
+    excerpt: "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days."
+    publishedDateTime: 2021-01-22T22:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/22/texas-ag-ken-paxton-files-lawsuit-block-biden-deportation-freeze/6675679002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6675679002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6675679002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/media/2020/11/20/Austin/ghows-TX-200729145-8717c8b4.jpg?auto=webp&crop=750,422,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "iWNf6KIMR0/5jURdHDKDVBaQCLm/JaWlzDKcV0XAzpSYlHOoftp1bN97wxRSoEUZEvn40dXrucB3Cdg5HU356HpNeKsJT+4Ms2uGOj50W9xY4UJueQNcsSoaNxy+hwbeBADTJyyyyX+9sjI1X4bq3O3OaRgKpEjOj9kLtQH5RHV3Yc1nnFLOtZdTFDiLJFIfv/4CaysGEonPPLmeonMAH9WGAxpYqXlwf1K/qIqyAL/mWjrWZOPQL/tU+h1t26zc8NAGRYr81Hvk7kvm6k1scZo6BheB5noBIZuuIeyvEOa4iTETVMeRE/OH0ya7KO6UNweT6ejW12AB9iBO+R0rpSU4bW5kIJM7wF4cL0rqAlw=;Ei1SR1GuCXPqbxZxnezNWg=="
+---
+

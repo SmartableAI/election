@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ari-fleischer-big-government-is-bac
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-big-government-is-back-under-biden.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fauci backs CDC research on reopening schools dismissed by Biden chief of staff"
+    excerpt: "Dr. Anthony Fauci backed new Centers for Disease Control and Prevention (CDC) findings that suggest schools can reopen safely during the coronavirus pandemic, despite President Biden's chief of staff previously downplaying the positive scientific research. "
+    publishedDateTime: 2021-01-29T17:25:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zEp9D5K3NR8/fauci-backs-cdc-research-reopening-schools-dismissed-biden-chief-of-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/fauci-backs-cdc-research-reopening-schools-dismissed-biden-chief-of-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-backs-cdc-research-reopening-schools-dismissed-biden-chief-of-staff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Anthony-Fauci-White-House-Coronavirus-Task-Force-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Huckabee: China is doing a 'big happy dance' over Biden climate agenda"
     excerpt: "Former Arkansas Gov. Mike Huckabee told \"The Story\" on Wednesday that President Joe Biden's $2 trillion clean energy infrastructure plan will hurt U.S. jobs and \"embolden\" U.S. foreign adversaries."
     publishedDateTime: 2021-01-27T22:19:00Z

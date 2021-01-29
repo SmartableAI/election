@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Fauci backs CDC research on reopening schools dismissed by Biden chief of staff"
+    excerpt: "Dr. Anthony Fauci backed new Centers for Disease Control and Prevention (CDC) findings that suggest schools can reopen safely during the coronavirus pandemic, despite President Biden's chief of staff previously downplaying the positive scientific research. "
+    publishedDateTime: 2021-01-29T17:25:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zEp9D5K3NR8/fauci-backs-cdc-research-reopening-schools-dismissed-biden-chief-of-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/fauci-backs-cdc-research-reopening-schools-dismissed-biden-chief-of-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-backs-cdc-research-reopening-schools-dismissed-biden-chief-of-staff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Anthony-Fauci-White-House-Coronavirus-Task-Force-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "uC6vEEjhJj2OMyUYUjE2nGW1wl6q+55jqStJXJ18w+c0AqPuIRlAUYkYWfNE/sQULJrGf7MjRy5S5/6bEWdobJuVoYqlOZdEKgJd9yes+seyqYXIr3rH2qOAumEYL9zZu+ktHQqvhaMSaYEJQ89fgWugnsHFRCZT/cC7147DluS/yfXt5bndzcsqyy0ZbwXxKd90xlf50BpnHHjws2ETSGdYQElwx7EiL0siIbUZBPc3uB+xba3prKdcEIVO52tsI3jXVCiKEd9frLhxDboOKsI2j7foPIb8aZ4WwbnIimX5zsZR36Ba2ngn018FEzGrjj6eQXfyVKfePS33W7eH0aY8iSoWDFAcIuMvceW6/sA=;j3+lYVQmX+/OP6Eu7huEjQ=="
 ---

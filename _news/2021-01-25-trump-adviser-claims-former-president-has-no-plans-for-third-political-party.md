@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-has-no-plans-for-a-third-poli
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
 type: article
 quality: 172
-heat: 272
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,85 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump adviser says former president will be ‘actively involved’ in GOP politics, not interested in third party"
-    excerpt: "A longtime leading adviser to Donald Trump says the former president will be “actively involved” in Republican Party politics going forward."
-    publishedDateTime: 2021-01-28T17:27:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rHmjH9dlEI0/corey-lewandowski-trump-actively-involved-gop-politics"
-    ampWebUrl: "https://www.foxnews.com/politics/corey-lewandowski-trump-actively-involved-gop-politics.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corey-lewandowski-trump-actively-involved-gop-politics.amp"
+  - title: "Cuomo blames nursing home scandal on 'political attack' by Trump admin"
+    excerpt: "In his first public comments since a scathing attorney general report finding New York Gov. Andrew Cuomo’s administration undercounted nursing home deaths, the governor on Friday argued criticisms of him were a \"political attack\" that began with the Trump administration. "
+    publishedDateTime: 2021-01-29T18:51:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/262Ph4N8eJ8/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump offers first remarks since leaving office: 'We'll do something'"
-    excerpt: "Former President Donald Trump was mysterious about his future plans in his first public remarks since leaving the White House earlier this week, but he suggested action is in the works, according to a report."
-    publishedDateTime: 2021-01-24T21:12:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ea90d02-cd6e-457c-b53e-f2fb5331749a/299a153c-3c94-492a-ad8f-7b19470806e9/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8026521c-9bdb-469e-89f3-e20f16b14ada/867e4894-5263-4683-bb40-4b9492ddefc6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Larry Kudlow, former top economic adviser to Trump, to host Fox Business show"
-    excerpt: "Fox is hiring Larry Kudlow, most recently the top economic advisor to Donald Trump in the White House, as contributor and host of a weekday show on its business network. Kudlow, who will start on"
-    publishedDateTime: 2021-01-26T20:32:00Z
-    webUrl: "https://nypost.com/2021/01/26/larry-kudlow-former-top-economic-adviser-to-trump-to-host-fox-business-show/"
-    ampWebUrl: "https://nypost.com/2021/01/26/larry-kudlow-former-top-economic-adviser-to-trump-to-host-fox-business-show/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/26/larry-kudlow-former-top-economic-adviser-to-trump-to-host-fox-business-show/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 132
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/larry-kudlow-fox.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
-    excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
-    publishedDateTime: 2021-01-23T19:39:00Z
-    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 128
-    images:
-      - url: "https://images.wsj.net/im-289628/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump adviser says former president will be ‘actively involved’ in GOP politics, not interested in third party"
-    excerpt: "A longtime leading adviser to Donald Trump says the former president will be “actively involved” in Republican Party politics going forward."
-    publishedDateTime: 2021-01-28T17:31:00Z
-    webUrl: "https://www.foxnews.com/politics/corey-lewandowski-trump-actively-involved-gop-politics"
-    ampWebUrl: "https://www.foxnews.com/politics/corey-lewandowski-trump-actively-involved-gop-politics.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corey-lewandowski-trump-actively-involved-gop-politics.amp"
+  - title: "Ingraham: Democrats 'using and abusing the troops' for 'political theater' after condemning Trump proposals"
+    excerpt: "In her \"Ingraham Angle\" monologue on Monday, host Laura Ingraham said Democrats are misuing American servicemembers for \"political theater\" just months after they roundly condemned Donald Trump for considering deploying National Guardsmen to quell left-wing riots in major cities across the country."
+    publishedDateTime: 2021-01-26T04:11:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D-j9fou6ByI/ingraham-democrats-using-and-abusing-the-troops-for-political-theater"
+    ampWebUrl: "https://www.foxnews.com/politics/ingraham-democrats-using-and-abusing-the-troops-for-political-theater.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ingraham-democrats-using-and-abusing-the-troops-for-political-theater.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 115
+    quality: 157
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020506415429.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08e69c18-2ef6-42fc-98ef-8972d9b4485d/99b97c7d-2abd-499d-89ec-815b75ef3a5b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "53H3tByekPk44JOYyhry43q1QV3voLC6691kGsHuzvAgbM7Pl2XpGfy71OiEb4BoeufrbRJUAzGFHHiuoRGXW1Vbgoy6+7W4o1eSsdNg6eZGqbeCG+6HP1PsDmq+QSLcyJz28mHwV/936FY0f1fNor+GN8sWjMg0NLAJluSq/TWZZU3ewDlpRSQP2P1rzWJiqhHj/GNy7EsAI3AQ+If7qguj1nFjwGDEeftG2kTJw49TWLH9oQXLwEAKVUHSQ/a44QzcgUuLiB6M9GY4C7qkZ5q1tRRWz5kUuAhU6RNlJKRudGU3UVIUe1L5TFnNiAPS1qRuc3+OhbzGiI5Q/TXX+UNlObiPWfKL5GIO9Z/sDGg=;qjWuWWc2WXyjT0ff5uF/Pw=="

@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden basing Kamala Harris relationship on Obama model | Charlotte Observer"
+    excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
+    publishedDateTime: 2021-01-29T16:52:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article248840399.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article248840399.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article248840399.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 86
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden basing Kamala Harris relationship on Obama model | Raleigh News & Observer"
+    excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
+    publishedDateTime: 2021-01-29T15:18:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article248840399.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article248840399.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article248840399.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 83
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris' Stepdaughter Ella Emhoff Signs With IMG Models"
     excerpt: "Ella Emhoff, the stepdaughter of Vice President Kamala Harris, made waves on the internet for donning a sparkling Miu Miu coat to “Momala’s” swearing in on Jan. 20. The chic inauguration ensemble even caught the eye of prestigious modeling agency IMG Models."
     publishedDateTime: 2021-01-29T08:54:00Z

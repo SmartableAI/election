@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/ingraham-democrats-using-and-abusin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ingraham-democrats-using-and-abusing-the-troops-for-political-theater.amp"
 type: article
 quality: 157
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,40 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Cuomo blames nursing home scandal on 'political attack' by Trump admin"
+    excerpt: "In his first public comments since a scathing attorney general report finding New York Gov. Andrew Cuomo’s administration undercounted nursing home deaths, the governor on Friday argued criticisms of him were a \"political attack\" that began with the Trump administration. "
+    publishedDateTime: 2021-01-29T18:51:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/262Ph4N8eJ8/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8026521c-9bdb-469e-89f3-e20f16b14ada/867e4894-5263-4683-bb40-4b9492ddefc6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump adviser claims former president has no plans for third political party"
+    excerpt: "Former President Donald Trump has reportedly dropped plans to create a third political party and will instead focus his energies on helping Republicans win back the House and Senate in the 2022 midterms, Fox News has learned."
+    publishedDateTime: 2021-01-25T00:34:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5QGzXiloiXI/trump-has-no-plans-for-a-third-political-party"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021665414903.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "cmLdlqkEviFX+9VG/yBWmcCX6lN0UGkBwfSG+q5T9n2C9dvVK9leyD/U27R9xAaIPVr6xe83LljswpLdrporpa4OYstVIMSUHKMNZ0wUyXxV12W7qrQh1Ej/jyurTjDwCz16uUMZ5Xpts9SsQsYIqN7UxT3fic3MMgf7wm6nagIRpgY3OLsNIeXh2u8VKIRgInWZXSl6dXrwws5V97y/MUi4XyDPLhn32gIIbOIdSJ/4eqdctMKZYLX7iT0IQrmvy7evvLf6wcDG+5VAgJxROpMFv2mv6sMTp6zNsJmEi5G34TghpIIGGi0pG3UOFJwK1+NDwmZaCZaYda+b082Wag0J+4djaK6wopE0cV8g4zI=;lBgPzPK2X5Vbv71ceUSJfQ=="
 ---

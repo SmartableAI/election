@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribb
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -184,6 +184,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/26/biden_55145_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Blair House guest quarters a temporary home for VP Harris"
+    excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
+    publishedDateTime: 2021-01-28T11:30:00Z
+    webUrl: "https://www.chron.com/news/article/Blair-House-guest-quarters-a-temporary-home-for-15905348.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Blair-House-guest-quarters-a-temporary-home-for-15905348.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Blair-House-guest-quarters-a-temporary-home-for-15905348.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Blair House guest quarters a temporary home for Kamala Harris"
     excerpt: "Harris is living temporarily at Blair House, the president’s official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
