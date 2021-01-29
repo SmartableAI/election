@@ -2,6 +2,174 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-12-03-comey-to-teach-at-columbia-law-school-alongside-professor-who-leaked-trump-memo.md",
+      "title": "Comey to teach at Columbia Law School alongside professor who leaked Trump memo",
+      "excerpt": "Ex-FBI chief to teach a seminar called “Lawyers and Leaders.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qX6dge0i47g/comey-columbia-law-school-professor-leaked-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qX6dge0i47g/comey-columbia-law-school-professor-leaked-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a9640e1-b124-4884-981d-3231a1bcb7e3/ddd90e79-5e88-4cba-b1c1-498dbe63c867/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/comey-columbia-law-school-professor-leaked-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-columbia-law-school-professor-leaked-trump.amp",
+      "publishedDateTime": "2020-12-02T16:52:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-ivanka-trump-was-deposed-tuesday-in-dc-attorney-generals-inauguration-lawsuit.md",
+      "title": "Ivanka Trump was deposed Tuesday in DC attorney general's inauguration lawsuit",
+      "excerpt": "Ivanka Trump, the President's daughter and adviser, sat for a deposition Tuesday with investigators from the Washington, DC, attorney general's office as part of its lawsuit alleging the misuse of inaugural funds, according to a court filing.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rDmis8lrzXU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rDmis8lrzXU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200827234139-ivanka-trump-speech-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/02/politics/ivanka-trump-deposition/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/ivanka-trump-deposition/index.html",
+      "publishedDateTime": "2020-12-02T16:45:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-gov-michelle-lujan-grisham-turned-down-biden-administration-post-sources-say.md",
+      "title": "Gov. Michelle Lujan Grisham turned down Biden administration post, sources say",
+      "excerpt": "The Democratic governor of New Mexico is rumored to be a contender for a separate position in the administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/85qBkTTlXU8/biden-cabinet-michelle-lujan-grisham-interior",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/85qBkTTlXU8/biden-cabinet-michelle-lujan-grisham-interior",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebbffdc8-b293-431a-8469-af03d8321f1e/95999e35-9a82-4907-be13-19f63604e35a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-cabinet-michelle-lujan-grisham-interior.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-michelle-lujan-grisham-interior.amp",
+      "publishedDateTime": "2020-12-02T16:39:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-to-vote-in-senate-runoffs-without-changes.md",
       "title": "Pro-Trump attorneys Sidney Powell, Lin Wood urge Georgians not to vote in Senate runoffs without changes",
       "excerpt": "Powell and Wood are not working for the Trump campaign in an official capacity.",
@@ -1212,167 +1380,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-us-supreme-court-asked-to-block-biden-win-in-pennsylvania.md",
-      "title": "US Supreme Court asked to block Biden win in Pennsylvania",
-      "excerpt": "Republicans attempting to undo President-elect Joe Biden’s victory in Pennsylvania have asked the U.S. Supreme Court to take up their lawsuit, three days after it was thrown out by the battleground st",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-supreme-court-asked-block-biden-win-pennsylvania-74490166",
-      "publishedDateTime": "2020-12-02T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-as-trump-rages-voters-in-a-key-county-move-on-im-not-sweating-it.md",
-      "title": "As Trump Rages, Voters in a Key County Move On: ‘I’m Not Sweating It’",
-      "excerpt": "Pre-election tensions ran high in Bucks County, Pa. But Biden supporters there are increasingly comfortable tuning President Trump out and moving on, with an eye toward January.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/02/us/politics/02biden-doylestown1/02biden-doylestown1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/02/us/politics/biden-trump-pennsylvania.amp.html",
-      "publishedDateTime": "2020-12-02T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-while-cuban-americans-in-florida-came-out-big-for-trump-cubans-stuck-in-mexico-pinned-their-hopes-on-biden.md",
-      "title": "While Cuban-Americans in Florida came out big for Trump, Cubans stuck in Mexico pinned their hopes on Biden",
-      "excerpt": "\"I will remain hoping for a change. I'm glad Trump is out for good, and no thanks to my family in Florida,\" a Cuban doctor in Mexico told Insider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12",
-      "originalUrl": "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc6cfb5037cbd00186133de?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cubans-stuck-in-mexico-because-of-trump-welcome-biden-election-2020-12?amp",
-      "publishedDateTime": "2020-12-02T00:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

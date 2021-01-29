@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-delayed-impeachment-timeline-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "The Flawed Thinking Behind Biden's Gun Control Bill"
+    excerpt: "The coming years will decide the survival of our Second Amendment, President Trump warned before the election. Trump was right. During the"
+    publishedDateTime: 2021-01-29T11:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533650_5_.jpg"
+        width: 750
+        height: 494
         isCached: true
 
 secured: "NGplkqCn0H43PJeUm/zCXLROV9aOWbKo/fursIJxGY1CFDDIrEi7oYyOrb+0jHsN4PYPRwW2zPBRZubahtcg+znsBMKDYXojfojWFFLgIseOcuts/LCcF5jHnQvlqdqPIjamIPFKvDiBgS9LxOeaP9aphZo3U/xZT8z/D9wh1eIQwXXyiiPUOkEJT9wgeHhXdEWfVkQe80akvqesyXQOrOVPWnWbBM6awOmx+fVHGxavCM99KylARchE+aOzFphKg8tD+1w/YxJZ8Ejh9fhkiROhA/CxA1l69daAwKR7xkztkI+pIwQ148rj0frgo1LuwdXDlhQBYlp1uQWDfKn9NYk17H26bLh0Rszl5wrBvRQ=;I454uiYg3U089D1puQ7gag=="

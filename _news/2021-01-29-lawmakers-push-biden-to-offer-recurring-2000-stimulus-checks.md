@@ -2,11 +2,11 @@
 category: news
 title: "Lawmakers push Biden to offer recurring $2,000 stimulus checks"
 excerpt: "As Congress debates President Joe Biden's request for $1.9 trillion in coronavirus relief funding — including a third stimulus check pegged at $1,400 — some Democratic lawmakers are pushing for an even bigger response: $2,"
-publishedDateTime: 2021-01-28T20:28:00Z
-originalUrl: "https://www.cbsnews.com/news/stimulus-check-2000-recurring-democratic-lawmakers/"
-webUrl: "https://www.cbsnews.com/news/stimulus-check-2000-recurring-democratic-lawmakers/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/stimulus-check-2000-recurring-democratic-lawmakers/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stimulus-check-2000-recurring-democratic-lawmakers/"
+publishedDateTime: 2021-01-29T11:39:00Z
+originalUrl: "https://www.cbsnews.com/news/biden-stimulus-check-2000-recurring-democratic-lawmakers/"
+webUrl: "https://www.cbsnews.com/news/biden-stimulus-check-2000-recurring-democratic-lawmakers/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/biden-stimulus-check-2000-recurring-democratic-lawmakers/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-stimulus-check-2000-recurring-democratic-lawmakers/"
 type: article
 quality: 125
 heat: -1
@@ -190,6 +190,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xK4e8nBbiinHW95J41XwaNF3HQ6+POEV4lZ9QVjTm3ThlNVeoxXmrjxFPhTgqrHBsaugfqmXEmaCiBNmydzc6Wi6xWfNJS8HS4aUxqtOo7u+BmrPWyvdyqng1SS9zVFFvObfEA2baYp4YiYzhVWIh7Iv6F1FhwdXtOjVG0Y52gMthlRGJEf1Izhhyhc0cS6SZiHt7dgn6f+Zp/z1rgjGjKC7qtM2fV9Y2oCzuniwTYgbQK78jB2POg/isRpfzml5iESeXmkCL+wwzpE9W6cvdWeqYVAbuCPrixwqGCHTufDsFOq5JyI640nMqlDln0Bba3sNABxud3ckMXAA3KQuXhZGnqv+dY0Q2lgS7MXpSpDgqg9DwmTVFOzmbeP0Th0oyBIG7m/CoAtme0kJ+FzHMMImHHZnQ6WbtEDYnvOMZotZw9unRsPYQlj/ZrUB8Xie+jKBtv8l77XX3Q8v+XnmLF6WQ9Bt+4QtHXYdQERx9ExzD+EGyKohnAtlZFO0i0MnvrxgM5ohHwOYnW/hr/i21Q==;vn4QSyLcyJc/rbV6efCqlQ=="
+secured: "H9wwL2q4XkO7vAyU0oHS0+OkzahrPU0pIr7H49pj1dAYsEOtwU7cGaFEWp4znqKs1vbxP+rkZ/0v/3ciJn6YM7cvVGvcR1PqMDqYLrzyvB0UqXCXvzEXpDV/lp9FGv/zY7TpQYmrgw4tcIJIGSDp+192wyQASAAKO+E2Xtys+VHB6XskSscztnfivFHCpFpmYG6Mk1PjlkrosfmctIvcvYvXMZHwSIZSft0aHJ2Vgt/5WV7RhWmiWWBNsibRj1rhVE+yRZDrFUssn95XW5FySuh/qNBWR9Uz6pBQppCaGP6paPCHr4LANHi0MGdd8eZZ/eH7tNvMEvohUHjsH420qbcvmA2LvojMyRFzoX0uODM=;mCzm3USXNskNtV4EsatD/w=="
 ---
 

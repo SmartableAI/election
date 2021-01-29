@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's legacy of mistrust sends Congress into total war"
+    excerpt: "Former President Donald Trump may be gone from the White House but his legacy of catastrophic mistrust is poisoning Washington, dimming hopes of a unified effort to crush the pandemic before mutant viral strains take root.\n    \n"
+    publishedDateTime: 2021-01-29T12:06:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/inDdLber52w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/donald-trump-republicans-joe-biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/donald-trump-republicans-joe-biden-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128150149-03-kevin-mccarthy-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump adviser says former President not currently considering launching a third party "
     excerpt: "Former President Donald Trump remains committed to reelecting Republicans and is not currently considering launching a third party, a senior Trump adviser said Sunday while noting that things could change.\n    \n"
     publishedDateTime: 2021-01-25T00:27:27Z
@@ -175,6 +191,6 @@ related:
         height: 773
         isCached: true
 
-secured: "oL156BTKMteVW9jHlykWEXzzOfIZJxWGbTj0gRaMqD+udrnNBLLYUlkJQ27u1jFZMBqZWS7FX244qKCv3gs3Gq72rIK38hBSSeS5G0vcLSFUdcO51VpOIcQC6Z9ahxtozviN8BmfYV/YdbkaClEM2OsQEuMIUbPw8Xy5NXdXP3VcemKqWnngjchA2cQFfjr92n7YEZQLdMX9C2jCe9Cz7mgKSHYx71Dj0hJp3sPJJVYICEXz+/Bs3xd85/NAavndNqC4B6kV2JX3/orGMQ3+gQVmNdHN1maWRl/fZrY3J7zLe/nPaHAMtDk5tB1sEYV5URdmUsjG86O+64ySlN5J0zPMY2nj+BfR81gsBEqhljI=;IdFn44iqyDJWvkTB8svpgw=="
+secured: "Mh1/u0rF4YZ/nRanSSeFrZLT+XWf3FRLFM7qSbOw6m2ZfOQbLBIKzRotv4+apUx+p3/utgS94wRQWRwUXuheRShWjXFDrxPSu6oUrsUjmnHYoODLRIULki6X5yxjcN1BZuQqxQmjTbR5U/dF/SnULPxc8rViMe1vawewT6m2EhtMWmKCaHr/rLaMF4HVxjAZ6vo01+9Uq8ovGxVENgjfJumRzHIarRSRQLlXaASTe+vPbO2yabZDKa5xts1rke/mlW19FJlpBGzrLIFgf1eY3ZRe0ir9eHvyjJaivYlWCwrypni4ACJg40SyK1/YgkOdynn02+0q/W0gYyKjj3qLsaTaE6T+ZPxFir8hGZi3h7JnlazOQoF9iZKK7g5BunXayH73BRnUYTZFmbijWtp4fIEuuAhyKDbkHO+W/rYQJ43Z1hsgMXAoQ2gFy/rwbLJZIBDzHS//nJDs8pN5wOcGyWFEkcUE+CWkcApxyHMybFDQjSkM0dsFCzu8YftbMc9aygzIjsFphv9dhntefU9OiQ==;XHNY49fwFT41ES56p3DDUQ=="
 ---
 

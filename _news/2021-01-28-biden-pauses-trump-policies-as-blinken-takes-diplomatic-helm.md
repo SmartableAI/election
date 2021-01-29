@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-pol
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721"
 type: article
 quality: 150
-heat: 1450
+heat: 1470
 published: true
 
 provider:
@@ -623,6 +623,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1HP"
         width: 846
         height: 545
+        isCached: true
+  - title: "A Republican grandee pays court to Donald Trump"
+    excerpt: "What - you thought Donald Trump would go off to Mar-a-Lago and only concern himself with his golf swing? That was never going to happen. And though we may not be getting the hourly glimpse into whatever is on his mind,"
+    publishedDateTime: 2021-01-29T12:19:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55850449"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55850449"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55850449"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/18454/production/_116721499_capture.png"
+        width: 1024
+        height: 576
         isCached: true
   - title: "OnPolitics: Biden's wild week of executive orders"
     excerpt: "President Joe Biden has signed over 30 executive orders, many of which undo former President Donald Trump's policies."

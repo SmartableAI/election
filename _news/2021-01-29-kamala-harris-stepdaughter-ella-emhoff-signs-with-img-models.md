@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris' Stepdaughter Ella Emhoff Signs With IMG Models"
 excerpt: "Ella Emhoff, the stepdaughter of Vice President Kamala Harris, made waves on the internet for donning a sparkling Miu Miu coat to “Momala’s” swearing in on Jan. 20. The chic inauguration ensemble even caught the eye of prestigious modeling agency IMG Models."
 publishedDateTime: 2021-01-29T08:54:00Z
-originalUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
-webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
+originalUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/"
+webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/"
 ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
 type: article
@@ -44,6 +44,6 @@ related:
         height: 573
         isCached: true
 
-secured: "7kAqrkG2Xu/3oUnSRY0jWhKi4YKhSOipPMwQ2Gn7T/BDPD1Dnj9CLFwUGbsjSgwml8Lmve14DyrbNGNQDhC61T+nnIwxEAsK9ayP4o0jDsWlUlvClp9uTpiDiWhpJVV4SG49yW5g2s9CozLdrajYATkhUp4N6v4fm6eAh3iHlcLTWV3BRED0HcxwUFUr/735FtHJGZoppWVOBhWsPlEAKVnFP2T2nv1KW/0I/G8YZ1qUvAgGwgnSvp7eow020po87/2noni3TgFiGeatoshhl2yCKiugx01ubTVHarsBjnngatIubyuAA6adJD/DR/LFsOlIYaHZth7xKbfUFnkAHH4b0DT9MwPAWTvGAE3rYyw=;wsm9iagNYNVpbB6m2VHPOg=="
+secured: "d00p2qjDWeeciVRu/l4jhym34Q+OPMZmCYgOOuLgJaOY8IqUTITAmjBj0N3EBYoPzdgz53entu6ZDG0ymRLXkdd7qGSHMJfJoBqthe2TRqzJwwWNolkCuzurVWk0MJOumAAeViFKEsTvhWKKAkoKHc1WWXGtgSy2SfOgBC2FY9rja4QTbSclfXjCBASf2/7R8sR8s2tG1Kqtr9atWvsQotruiaDtRa0/fh+Da7+a4aVb5i2/8He6SAe0xwVAjTMsH3HQYgyrHbxv48Hh6QajWzG6G/dgVMT9+8kW/UQxeYl5s3YFLVFVPGnHbGyQqdN4lwL8EDV6eJwf5xM8mit5HgdI8Nrl0V7siSrXlbiwp5I=;ghz21L8YTROzcA6+oy5/zg=="
 ---
 

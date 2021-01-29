@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "The Flawed Thinking Behind Biden's Gun Control Bill"
+    excerpt: "The coming years will decide the survival of our Second Amendment, President Trump warned before the election. Trump was right. During the"
+    publishedDateTime: 2021-01-29T11:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533650_5_.jpg"
+        width: 750
+        height: 494
+        isCached: true
 
 secured: "gnluz3G0urX3B41W/cTYD8SxV2pM0MnHL3DP0rmN5gxUVvw4gY2h/x3+tEJgX9g14DGbBHEbVzKnjyKcnOiYK97zAMeg0I+bleVxG6+15tVeshtR20wkFfYz6hFU48n3TPmtQP4jSVE7bN6Os6dF6pL3ZVjt1D5lvt3rZa/QIQVlwa/9/sP+CECxCgrv1VvZhHMzkCiUF9UVSksZPBgsCDHQJAf87Qr4oTxdrfkRrr1tast9EGBs6psv5Jh+MsyLsmdtwLZjCg4D6RXWydagxHxAPj7X/7tQSKGc6VxXW5wHKKyXWZGsFldNam/p8hw11DoxAavU8TSTUary3hZgVq5mQyrv3RomisuLE42X3M4=;sik7nfl0hFu2DTa7CsaqmA=="
 ---

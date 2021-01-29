@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's legacy of mistrust sends Congress into total war"
+    excerpt: "Former President Donald Trump may be gone from the White House but his legacy of catastrophic mistrust is poisoning Washington, dimming hopes of a unified effort to crush the pandemic before mutant viral strains take root.\n    \n"
+    publishedDateTime: 2021-01-29T12:06:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/inDdLber52w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/donald-trump-republicans-joe-biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/donald-trump-republicans-joe-biden-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128150149-03-kevin-mccarthy-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump adviser says former President not currently considering launching a third party "
     excerpt: "Former President Donald Trump remains committed to reelecting Republicans and is not currently considering launching a third party, a senior Trump adviser said Sunday while noting that things could change.\n    \n"
     publishedDateTime: 2021-01-25T00:27:27Z

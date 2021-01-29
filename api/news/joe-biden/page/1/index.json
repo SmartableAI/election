@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-29-desantis-florida-deserves-federal-help-governor-proposes-1b-climate-initiative-morgan-biden-gaetz-bashes-cheney-in-wyoming.md",
+      "title": "DeSantis: Florida deserves federal help — Governor proposes $1B climate initiative — Morgan & Biden? — Gaetz bashes Cheney in Wyoming",
+      "excerpt": "When Gov. Ron DeSantis laid out his $96 billion budget plan on Thursday, he was unapologetic that the billions of dollars that came out of Washington, D.C., have helped the state deal with the fallout from an economic collapse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/01/29/desantis-florida-deserves-federal-help-governor-proposes-1b-climate-initiative-morgan-biden-gaetz-bashes-cheney-in-wyoming-491566",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/01/29/desantis-florida-deserves-federal-help-governor-proposes-1b-climate-initiative-morgan-biden-gaetz-bashes-cheney-in-wyoming-491566",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-bidens-pandemic-problem-politics-weekly-extra-podcast.md",
       "title": "Biden's pandemic problem: Politics Weekly Extra podcast",
       "excerpt": "Jonathan Freedland speaks to the Pulitzer prize-winning author and journalist Laurie Garrett about what Joe Biden needs to do to get a grip on the Covid crisis in the US",
@@ -338,7 +395,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1450,
+      "heat": 1470,
       "tags": null,
       "images": [
         {
@@ -1541,63 +1598,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-charlottesville-inspired-biden-to-run-now-it-has-a-message-for-him.md",
-      "title": "Charlottesville Inspired Biden to Run. Now It Has a Message for Him.",
-      "excerpt": "The white supremacist rally in 2017 prefigured the rise of right-wing violence in President Trump’s name. Now, as President Biden calls for national unity, residents say it requires accountability first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/21/us/politics/21Charlottesville1/21Charlottesville1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
-      "publishedDateTime": "2021-01-21T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

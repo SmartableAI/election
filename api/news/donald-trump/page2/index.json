@@ -2,6 +2,106 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-24-facebook-vp-says-he-hopes-board-members-will-uphold-donald-trump-ban.md",
+      "title": "Facebook VP Says He Hopes Board Members Will Uphold Donald Trump Ban",
+      "excerpt": "Nick Clegg has acknowledged that social bans raised significant questions over big tech's role in the democratic process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/facebook-vp-hopes-board-uphold-donald-trump-ban-1563958",
+      "originalUrl": "https://www.newsweek.com/facebook-vp-hopes-board-uphold-donald-trump-ban-1563958",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1714823/facebooks-vice-president-nick-clegg.jpg",
+          "width": 2500,
+          "height": 1364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/facebook-vp-hopes-board-uphold-donald-trump-ban-1563958?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-vp-hopes-board-uphold-donald-trump-ban-1563958?amp=1",
+      "publishedDateTime": "2021-01-24T02:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-24-why-the-us-hispanic-conservative-movement-is-surging-even-without-trump.md",
+      "title": "Why the US Hispanic conservative movement is surging — even without Trump",
+      "excerpt": "Maria del Carmen Guzman-Weese stood with her mother and sister to take the oath of US citizenship. Then 17, Maria suddenly turned to her mother, and said: “I love this",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/23/why-the-us-hispanic-conservative-movement-is-surging-even-without-trump/",
+      "originalUrl": "https://nypost.com/2021/01/23/why-the-us-hispanic-conservative-movement-is-surging-even-without-trump/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Viva-El-GOP.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/23/why-the-us-hispanic-conservative-movement-is-surging-even-without-trump/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/23/why-the-us-hispanic-conservative-movement-is-surging-even-without-trump/amp/",
+      "publishedDateTime": "2021-01-23T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-top-iran-leader-posts-trump-like-image-with-drone-vows-revenge.md",
       "title": "Top Iran leader posts Trump-like image with drone, vows revenge",
       "excerpt": "The website of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone alongside a threat of revenge over last year's killing of a top Iranian general in a U.",
@@ -1486,116 +1586,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-top-fema-official-attended-trumps-stop-the-steal-rally.md",
-      "title": "Top FEMA official attended Trump's 'Stop the Steal' rally",
-      "excerpt": "A top official at the Federal Emergency Management Agency, which has been assisting in preparations for the Inauguration next week, attended President Donald Trump’s “Stop the Steal” rally on Jan. 6. At that rally, Trump urged his followers to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/15/fema-trump-rally-459734",
-      "originalUrl": "https://www.politico.com/news/2021/01/15/fema-trump-rally-459734",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/ad/37/43fd268d42649efd54bf08dfbb90/ap20337786621970-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/15/fema-trump-rally-459734",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/fema-trump-rally-459734",
-      "publishedDateTime": "2021-01-17T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-joe-bidens-options-for-dealing-with-donald-trump-are-worse-than-watergate.md",
-      "title": "Joe Biden's Options for Dealing with Donald Trump Are Worse than Watergate",
-      "excerpt": "When it comes to Donald Trump, the incoming president has a critical decision to make about the best way to move the country forward—and neither Democrats nor Republicans are likely to be happy about his choice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
-      "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1868,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1709816/fe-reconciliation-02.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1",
-      "publishedDateTime": "2021-01-17T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Donald Trump"
       ]
     }

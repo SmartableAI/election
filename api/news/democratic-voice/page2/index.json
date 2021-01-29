@@ -2,6 +2,119 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-21-ivanka-trump-and-jared-kushner-move-out-of-dc-and-lease-luxury-condo-in-miami.md",
+      "title": "Ivanka Trump and Jared Kushner move out of DC and lease luxury condo in Miami ",
+      "excerpt": "Ivanka Trump and Jared Kushner have moved out of their Washington, DC, home, and have signed a one-year lease on a luxury condo in Miami at the Arte, an expensive oceanfront residential building, a source familiar with the couple's move confirmed to CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bhdQ1s1ICyw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bhdQ1s1ICyw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201115070055-01-jared-kushner-ivanka-trump-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/21/politics/ivanka-trump-jared-kushner-luxury-condo-miami/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/ivanka-trump-jared-kushner-luxury-condo-miami/index.html",
+      "publishedDateTime": "2021-01-21T12:48:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-charlottesville-inspired-biden-to-run-now-it-has-a-message-for-him.md",
+      "title": "Charlottesville Inspired Biden to Run. Now It Has a Message for Him.",
+      "excerpt": "The white supremacist rally in 2017 prefigured the rise of right-wing violence in President Trump’s name. Now, as President Biden calls for national unity, residents say it requires accountability first.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/21/us/politics/21Charlottesville1/21Charlottesville1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
+      "publishedDateTime": "2021-01-21T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-fox-news-host-judge-jeanine-lobbied-trump-during-his-last-few-hours-in-office-to-pardon-her-ex-husband-it-worked.md",
       "title": "Fox News host Judge Jeanine lobbied Trump during his last few hours in office to pardon her ex-husband. It worked.",
       "excerpt": "Fox News host Judge Jeanine successfully lobbied former President Donald Trump in an eleventh-hour effort to pardon her ex-husband in the final hours of Trump's presidency, CNN has learned.\n    \n",
@@ -1580,118 +1693,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-georgia-republicans-reassign-gop-lawmakers-who-supported-trumps-election-fraud-claims.md",
-      "title": "Georgia Republicans reassign GOP lawmakers who supported Trump's election fraud claims",
-      "excerpt": "Georgia Republicans have reassigned three fellow GOP lawmakers who backed baseless allegations of voter fraud related to the November presidential election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bQk1jeke6AA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bQk1jeke6AA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 282,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190312141705-georgia-state-capitol-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/14/politics/georgia-republicans-election-fraud-claims-reassigned/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/georgia-republicans-election-fraud-claims-reassigned/index.html",
-      "publishedDateTime": "2021-01-14T14:24:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-senate-gop-torn-over-convicting-trump-theres-no-love-lost.md",
-      "title": "Senate GOP torn over convicting Trump: 'There's no love lost'",
-      "excerpt": "To many Senate Republicans, including Senate Majority Leader Mitch McConnell, there's no question in their minds: President Donald Trump committed impeachable offenses.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r1vWzdUQ28I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r1vWzdUQ28I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republican-senator-plans/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republican-senator-plans/index.html",
-      "publishedDateTime": "2021-01-14T14:09:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

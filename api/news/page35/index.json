@@ -2,6 +2,166 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-12-09-flashback-eric-swalwell-accused-don-trump-jr-of-meeting-russian-spy.md",
+      "title": "Flashback: Eric Swalwell accused Don Trump Jr. of meeting ‘Russian spy’",
+      "excerpt": "Rep. Eric Swalwell, D-Calif., who Axios reported Wednesday was a main target of a Chinese spy between 2011 and 2015, accused Donald Trump Jr. last year of meeting \"with a Russian spy.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GP9J7w6yoc8/eric-swalwell-donald-trump-jr-spy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GP9J7w6yoc8/eric-swalwell-donald-trump-jr-spy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5110eb86-e53d-4155-bddd-274bb8738742/df0cbd95-9d65-4dda-8adf-8d93b0c68fba/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/eric-swalwell-donald-trump-jr-spy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-swalwell-donald-trump-jr-spy.amp",
+      "publishedDateTime": "2020-12-09T14:38:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-mike-pence-introduces-astronauts-for-future-nasa-moon-mission.md",
+      "title": "Mike Pence introduces astronauts for future NASA moon mission",
+      "excerpt": "The vice president is at the Kennedy Space Center to discuss the mission to get astronauts back to the moon by 2024 under NASA's Artemis program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
+      "originalUrl": "https://www.cbsnews.com/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/454dd4c9-216f-4188-a8e0-59d4ec6dbac5/thumbnail/1200x630/c79b8bc48e0e82cc0506366e67034711/artemis-astronauts.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-nasa-artemis-moon-mission-spaceflight-watch-live-stream-today-2020-12-09/",
+      "publishedDateTime": "2020-12-09T12:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-dunes-at-trumps-scottish-golf-course-lose-protected-status.md",
+      "title": "Dunes at Trump's Scottish golf course lose protected status",
+      "excerpt": "Conservation officials in Scotland say the coastal sand dunes at President Donald Trump’s Aberdeenshire golf resort have lost their special status as a protected environmental site",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/dunes-trumps-scottish-golf-lose-protected-status-74624436",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/dunes-trumps-scottish-golf-lose-protected-status-74624436",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/dunes-trumps-scottish-golf-lose-protected-status-74624436",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/dunes-trumps-scottish-golf-lose-protected-status-74624436",
+      "publishedDateTime": "2020-12-09T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-vice-president-pence-announces-official-name-change-of-patrick-space-force-base.md",
       "title": "Vice President Pence announces official name change of Patrick Space Force Base",
       "excerpt": "One year after the U.S. Space Force was created by President Trump and Patrick Air Force Base was designated a space force base, Vice President Mike Pence made the name change to Patrick Space Force Base official.",
@@ -1200,162 +1360,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-trump-administration-adds-china-nigeria-iran-to-list-of-countries-lacking-religious-freedom.md",
-      "title": "Trump administration adds China, Nigeria, Iran to list of countries lacking religious freedom",
-      "excerpt": "The Trump administration on Monday added China, Nigeria and Iran to the list of countries that engage in violating or allowing violations of religious freedom within their borders — part of U.S. efforts to end religious persecution around the world. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4fSEvVXMVc/trump-china-nigeria-iran-religious-freedom-violations",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4fSEvVXMVc/trump-china-nigeria-iran-religious-freedom-violations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbf6a5de-4c6e-402d-ad75-1713dbc7e628/f49d8ca1-c005-47ec-8e0b-075fcd435fc5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp",
-      "publishedDateTime": "2020-12-08T08:28:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-former-israeli-space-security-chief-says-extraterrestrials-exist-and-trump-knows-about-it.md",
-      "title": "Former Israeli space security chief says extraterrestrials exist, and Trump knows about it",
-      "excerpt": "\"The Unidentified Flying Objects have asked not to publish that they are here, humanity is not ready,\" Haim Eshed said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333",
-      "originalUrl": "https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_50/3434098/201208-space-contact-mc-1000_2ccd3fbfb3e3d974e910d1abd9b81c1a.jpg",
-          "width": 2500,
-          "height": 1584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250333",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250333",
-      "publishedDateTime": "2020-12-08T05:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-vice-president-mike-pence-schedules-stop-in-south-carolina.md",
-      "title": "Vice President Mike Pence schedules stop in South Carolina",
-      "excerpt": "Pence is scheduled to hold a round table discussion on Operation Warp Speed, the administrations effort to promote the development of the coronavirus vaccine as quickly as possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestate.com/news/politics-government/article247690655.html",
-      "originalUrl": "https://www.thestate.com/news/politics-government/article247690655.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998035001/5717e438-c9d2-43cc-9edc-de8c4bd3f94b/main/1280x720/23s861ms/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.thestate.com/news/politics-government/article247690655.html",
-      "cdnAmpWebUrl": "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/politics-government/article247690655.html",
-      "publishedDateTime": "2020-12-08T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The State",
-        "domain": "thestate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

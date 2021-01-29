@@ -97,10 +97,10 @@ related:
         isCached: true
   - title: "Lawmakers push Biden to offer recurring $2,000 stimulus checks"
     excerpt: "As Congress debates President Joe Biden's request for $1.9 trillion in coronavirus relief funding — including a third stimulus check pegged at $1,400 — some Democratic lawmakers are pushing for an even bigger response: $2,"
-    publishedDateTime: 2021-01-28T20:28:00Z
-    webUrl: "https://www.cbsnews.com/news/stimulus-check-2000-recurring-democratic-lawmakers/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/stimulus-check-2000-recurring-democratic-lawmakers/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stimulus-check-2000-recurring-democratic-lawmakers/"
+    publishedDateTime: 2021-01-29T11:39:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-stimulus-check-2000-recurring-democratic-lawmakers/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-stimulus-check-2000-recurring-democratic-lawmakers/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-stimulus-check-2000-recurring-democratic-lawmakers/"
     type: article
     provider:
       name: CBS News

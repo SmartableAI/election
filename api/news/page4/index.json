@@ -2,6 +2,170 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-26-trump-endorses-sarah-huckabee-sanders-for-arkansas-governor.md",
+      "title": "Trump endorses Sarah Huckabee Sanders for Arkansas governor",
+      "excerpt": "Former President Donald Trump endorsed Sarah Huckabee Sanders in her run for Arkansas governor on Monday night.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6RtMOZNBUTE/trump-endorses-sanders-in-run-for-arkansas-governor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6RtMOZNBUTE/trump-endorses-sanders-in-run-for-arkansas-governor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Sanders-Split.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp",
+      "publishedDateTime": "2021-01-25T20:54:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-ingraham-democrats-using-and-abusing-the-troops-for-political-theater-after-condemning-trump-proposals.md",
+      "title": "Ingraham: Democrats 'using and abusing the troops' for 'political theater' after condemning Trump proposals",
+      "excerpt": "In her \"Ingraham Angle\" monologue on Monday, host Laura Ingraham said Democrats are misuing American servicemembers for \"political theater\" just months after they roundly condemned Donald Trump for considering deploying National Guardsmen to quell left-wing riots in major cities across the country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D-j9fou6ByI/ingraham-democrats-using-and-abusing-the-troops-for-political-theater",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D-j9fou6ByI/ingraham-democrats-using-and-abusing-the-troops-for-political-theater",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08e69c18-2ef6-42fc-98ef-8972d9b4485d/99b97c7d-2abd-499d-89ec-815b75ef3a5b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ingraham-democrats-using-and-abusing-the-troops-for-political-theater.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ingraham-democrats-using-and-abusing-the-troops-for-political-theater.amp",
+      "publishedDateTime": "2021-01-25T20:11:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-twitters-misinformation-problem-is-much-bigger-than-trump-the-crowd-may-help-solve-it.md",
+      "title": "Twitter’s misinformation problem is much bigger than Trump. The crowd may help solve it.",
+      "excerpt": "Twitter's Birdwatch pilot lets selected users write corrections and fact checks on potentially misleading tweets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IA4PZSC7IMI6XILXO5S7FGUVEQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/?outputType=amp",
+      "publishedDateTime": "2021-01-25T19:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-biden-declines-to-tell-chicago-teachers-refusing-to-teach-in-person-to-go-back-to-work.md",
       "title": "Biden declines to tell Chicago teachers refusing to teach in-person to go back to work",
       "excerpt": "President Biden declined to tell Chicago teachers on Monday to return to school following a union vote over the weekend to defy a district order for educators to return to campuses in order to prepare to resume in-person classroom instruction. ",
@@ -1196,171 +1360,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-republican-congressman-played-a-role-in-trumps-campaign-to-fight-election-loss-nyt.md",
-      "title": "Republican congressman played a role in Trump's campaign to fight election loss: NYT",
-      "excerpt": "A Republican U.S. congressman played a role in ex-President Donald Trump's efforts to oust the top Justice Department official and replace him with a loyalist willing to support efforts to overturn his election defeat,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 813,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548877639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N093",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29T0FS",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0FS",
-      "publishedDateTime": "2021-01-24T11:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-biden-health-officials-express-concern-about-short-term-vaccine-supply-crunch.md",
-      "title": "Biden health officials express concern about short-term vaccine supply crunch",
-      "excerpt": "I think that the supply is probably going to be the most limiting constraint early on,\" the CDC director said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
-      "originalUrl": "https://www.politico.com/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/5e/d0/474a6135462a9b2742bc5b5226f7/210124-murthy-ap773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
-      "publishedDateTime": "2021-01-24T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-trump-impeachment-trial-is-stupid-bad-for-the-country-rubio.md",
-      "title": "Trump impeachment trial is 'stupid,' 'bad for the country': Rubio",
-      "excerpt": "The Senate impeachment trial of former President Donald Trump is \"stupid\" and \"bad for the country,\" Sen. Marco Rubio said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-8S90EU9loE/trump-impeachment-trial-rubio-senate-republicans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-8S90EU9loE/trump-impeachment-trial-rubio-senate-republicans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020641075301.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-trial-rubio-senate-republicans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-rubio-senate-republicans.amp",
-      "publishedDateTime": "2021-01-24T08:34:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

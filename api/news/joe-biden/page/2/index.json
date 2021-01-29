@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-21-charlottesville-inspired-biden-to-run-now-it-has-a-message-for-him.md",
+      "title": "Charlottesville Inspired Biden to Run. Now It Has a Message for Him.",
+      "excerpt": "The white supremacist rally in 2017 prefigured the rise of right-wing violence in President Trump’s name. Now, as President Biden calls for national unity, residents say it requires accountability first.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/21/us/politics/21Charlottesville1/21Charlottesville1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
+      "publishedDateTime": "2021-01-21T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-live-updates-anti-biden-antifa-protesters-take-to-the-streets-in-portland-seattle-overnight.md",
       "title": "LIVE UPDATES: Anti-Biden Antifa protesters take to the streets in Portland, Seattle overnight",
       "excerpt": "At least eight adults were arrested for crimes ranging from rioting and possession of a destructive device to reckless burning.",
@@ -1476,58 +1533,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-biden-picks-california-official-isabel-guzman-to-head-sba.md",
-      "title": "Biden Picks California Official Isabel Guzman to Head SBA",
-      "excerpt": "President-elect Joe Biden announced Thursday that he picked California official Isabel Guzman to lead the Small Business Administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/on-small-business/biden-picks-california-official-isabel-guzman-to-head-sba/2021/01/07/1449ffb0-514f-11eb-a1f5-fdaf28cfca90_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/on-small-business/biden-picks-california-official-isabel-guzman-to-head-sba/2021/01/07/1449ffb0-514f-11eb-a1f5-fdaf28cfca90_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3UVATCSRLUI6XIPV7WXSRT6KSA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T23:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

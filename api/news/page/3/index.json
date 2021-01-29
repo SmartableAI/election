@@ -2,6 +2,162 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-27-biden-to-reopen-obamacare-markets-for-covid-19-relief.md",
+      "title": "Biden to reopen 'Obamacare' markets for COVID-19 relief",
+      "excerpt": "Fulfilling a campaign promise, President Joe Biden plans to reopen the HealthCare.gov insurance markets for a special sign-up opportunity geared to people needing coverage in the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_4ce7a743968f4008a13d04865fd4058c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946",
+      "publishedDateTime": "2021-01-26T20:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network.md",
+      "title": "Trump economic aide Larry Kudlow to host show on Fox Business Network",
+      "excerpt": "Fox Corp's news division has hired Larry Kudlow, a former top economic adviser to ex-President Donald Trump, as a contributor to Fox News and host of a new weekday show on the Fox Business Network, the company said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-fox-news-kudlow/trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network-idUSKBN29V2K3",
+      "originalUrl": "https://www.reuters.com/article/us-fox-news-kudlow/trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network-idUSKBN29V2K3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549158404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1HY",
+          "width": 706,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V2K3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2K3",
+      "publishedDateTime": "2021-01-26T20:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-white-house-says-biden-believes-nord-stream-2-pipeline-is-bad-deal-for-europe.md",
+      "title": "White House says Biden believes Nord Stream 2 pipeline is 'bad deal' for Europe",
+      "excerpt": "President Joe Biden believes the Nord Stream 2 natural gas pipeline is a \"bad deal for Europe\" and his administration will be reviewing restrictions on the project included in a bill that passed during the Trump administration,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-biden-nord-stream/update-1-white-house-says-biden-believes-nord-stream-2-pipeline-is-bad-deal-for-europe-idUSL1N2K12HE",
+      "originalUrl": "https://www.reuters.com/article/usa-biden-nord-stream/update-1-white-house-says-biden-believes-nord-stream-2-pipeline-is-bad-deal-for-europe-idUSL1N2K12HE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549153912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1G9",
+          "width": 806,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V29X",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V29X",
+      "publishedDateTime": "2021-01-26T17:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-cuomo-says-biden-vaccine-ramp-up-not-enough-for-new-york.md",
       "title": "Cuomo says Biden vaccine ramp up 'not enough' for New York",
       "excerpt": "New York Gov. Andrew Cuomo said on Tuesday that President Biden’s plan to ramp up distribution of the COVID-19 vaccine was \"not enough,\" as the Empire State faces a shortage of doses.",
@@ -1193,170 +1349,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-trump-endorses-sarah-huckabee-sanders-for-arkansas-governor.md",
-      "title": "Trump endorses Sarah Huckabee Sanders for Arkansas governor",
-      "excerpt": "Former President Donald Trump endorsed Sarah Huckabee Sanders in her run for Arkansas governor on Monday night.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6RtMOZNBUTE/trump-endorses-sanders-in-run-for-arkansas-governor",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6RtMOZNBUTE/trump-endorses-sanders-in-run-for-arkansas-governor",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Sanders-Split.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp",
-      "publishedDateTime": "2021-01-25T20:54:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-ingraham-democrats-using-and-abusing-the-troops-for-political-theater-after-condemning-trump-proposals.md",
-      "title": "Ingraham: Democrats 'using and abusing the troops' for 'political theater' after condemning Trump proposals",
-      "excerpt": "In her \"Ingraham Angle\" monologue on Monday, host Laura Ingraham said Democrats are misuing American servicemembers for \"political theater\" just months after they roundly condemned Donald Trump for considering deploying National Guardsmen to quell left-wing riots in major cities across the country.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D-j9fou6ByI/ingraham-democrats-using-and-abusing-the-troops-for-political-theater",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D-j9fou6ByI/ingraham-democrats-using-and-abusing-the-troops-for-political-theater",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08e69c18-2ef6-42fc-98ef-8972d9b4485d/99b97c7d-2abd-499d-89ec-815b75ef3a5b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ingraham-democrats-using-and-abusing-the-troops-for-political-theater.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ingraham-democrats-using-and-abusing-the-troops-for-political-theater.amp",
-      "publishedDateTime": "2021-01-25T20:11:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-twitters-misinformation-problem-is-much-bigger-than-trump-the-crowd-may-help-solve-it.md",
-      "title": "Twitter’s misinformation problem is much bigger than Trump. The crowd may help solve it.",
-      "excerpt": "Twitter's Birdwatch pilot lets selected users write corrections and fact checks on potentially misleading tweets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IA4PZSC7IMI6XILXO5S7FGUVEQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/?outputType=amp",
-      "publishedDateTime": "2021-01-25T19:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

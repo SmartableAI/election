@@ -2,6 +2,172 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-07-bidens-pick-for-the-department-of-homeland-security-raked-in-millions-at-wilmerhale-advising-blackstone-airbnb-pnc-and-others.md",
+      "title": "Biden's pick for the Department of Homeland Security raked in millions at WilmerHale advising Blackstone, Airbnb, PNC and others",
+      "excerpt": "Alejandro Mayorkas is leaving the partnership at Big Law firm WilmerHale to join the Biden administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-dhs-leader-made-3-million-advising-blackstone-airbnb-2021-1",
+      "originalUrl": "https://www.businessinsider.com/biden-dhs-leader-made-3-million-advising-blackstone-airbnb-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff721be6d61c10019cce1c8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T07:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-read-pence-letter-saying-he-does-not-have-unilateral-authority-to-reject-electoral-votes.md",
+      "title": "READ: Pence letter saying he does not have 'unilateral authority' to reject electoral votes",
+      "excerpt": "Pence writes a letter saying he does not have 'unilateral authority' to reject electoral votes",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljnAEb1RQQ8/read-pence-letter-unilateral-authority-to-reject-electoral-votes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljnAEb1RQQ8/read-pence-letter-unilateral-authority-to-reject-electoral-votes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Pence-bt2.jpg",
+          "width": 1280,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T05:53:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-biden-pick-for-dept-of-justices-top-civil-rights-post-has-called-for-partially-defunding-police.md",
+      "title": "Biden pick for Dept. of Justice's top civil rights post has called for partially defunding police",
+      "excerpt": "President-elect Joe Biden is expected to pick Kristen Clarke, a civil rights lawyer, as Assistant Attorney General for the Civil Rights Division of the Department of Justice, which is expected to be a prioritized role in the Biden administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
+      "originalUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d358d2cc-f940-473b-bfb7-5e489ad2caa5/4bf5cd6b-a53b-4fb6-9b9e-3b41fa25e8b0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
+      "publishedDateTime": "2021-01-07T04:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-iraq-issues-arrest-warrant-for-trump-over-soleimani-killing.md",
       "title": "Iraq issues arrest warrant for Trump over Soleimani killing",
       "excerpt": "Iraq’s judiciary says it has issued an arrest warrant for outgoing President Donald Trump in connection with the killing of an Iranian general and a powerful Iraqi militia leader last year",
@@ -1160,167 +1326,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-video-shows-romney-being-called-traitor-by-trump-fans-while-on-flight.md",
-      "title": "Video shows Romney being called \"traitor\" by Trump fans while on flight",
-      "excerpt": "Senator Mitt Romney of Utah faced chants of \"traitor\" while on a flight from Salt Lake City to Washington, D.C. A video posted to Twitter appears to show a small group of passengers chanting, at least one of whom appears to not be properly wearing a mask.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/donald-trump-fans-chant-traitor-at-mitt-romney-on-flight-from-salt-lake-city-to-washington-dc-2020-01-05/",
-      "originalUrl": "https://www.cbsnews.com/news/donald-trump-fans-chant-traitor-at-mitt-romney-on-flight-from-salt-lake-city-to-washington-dc-2020-01-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/15/d59f3cf4-2765-4eef-8ba6-0ac0c2a1fa64/thumbnail/1200x630/5adc68b1321cf2039392175302a1cce4/cbsn-fusion-senator-mitt-romney-on-electoral-college-vote-covid-19-relief-bill-negotiations-thumbnail-609751-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/donald-trump-fans-chant-traitor-at-mitt-romney-on-flight-from-salt-lake-city-to-washington-dc-2020-01-05/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/donald-trump-fans-chant-traitor-at-mitt-romney-on-flight-from-salt-lake-city-to-washington-dc-2020-01-05/",
-      "publishedDateTime": "2021-01-05T22:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-trump-signs-order-banning-alipay-and-other-chinese-apps.md",
-      "title": "Trump Signs Order Banning Alipay and Other Chinese Apps",
-      "excerpt": "WASHINGTON—President Trump signed an executive order banning transactions with Chinese payment platform Alipay and other Chinese apps. Write to Andrew Restuccia at Andrew.Restuccia@wsj.com and John D. McKinnon at john.mckinnon@wsj.com",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364?mod=hp_lead_pos4",
-      "originalUrl": "https://www.wsj.com/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364?mod=hp_lead_pos4",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-281098/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364",
-      "publishedDateTime": "2021-01-05T20:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-trump-is-my-president-protesters-gather-in-dc-a-day-before-congress-certifies-election.md",
-      "title": "'Trump is my president': Protesters gather in DC a day before Congress certifies election",
-      "excerpt": "Crowds gathered in Washington on Tuesday, a day before larger rallies and a congressional vote to certify the election are planned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2021/01/05/dc-protest-over-donald-trump-election-voter-fraud-claims-underway/4141044001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/01/05/dc-protest-over-donald-trump-election-voter-fraud-claims-underway/4141044001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 531,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/05/USAT/fb64f38a-fa86-4187-9fcc-00a05d2b22c4-MicrosoftTeams-image_3.png?auto=webp&crop=2775,1561,x1,y439&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4141044001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4141044001",
-      "publishedDateTime": "2021-01-05T20:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
