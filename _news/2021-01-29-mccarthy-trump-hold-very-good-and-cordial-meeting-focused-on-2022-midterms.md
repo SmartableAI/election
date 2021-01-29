@@ -1,33 +1,34 @@
 ---
 category: news
-title: "McCarthy to visit the former president in Florida, showing where he stands in a post-Trump Republican Party"
-excerpt: "Former President Donald Trump is expected to meet with House Minority Leader Kevin McCarthy in Florida on Thursday, a source connected to the former President confirms to CNN.\n    \n"
-publishedDateTime: 2021-01-28T00:12:44Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NGt5bsJuhw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NGt5bsJuhw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
+title: "McCarthy, Trump hold ‘very good and cordial’ meeting focused on 2022 midterms"
+excerpt: "Former President Donald Trump met House Minority Leader Kevin McCarthy on Thursday for what was later described as a “very good and cordial” meeting in which the top agenda item was taking back the House of Representatives in 2022."
+publishedDateTime: 2021-01-29T07:26:00Z
+originalUrl: "https://www.politico.com/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
+webUrl: "https://www.politico.com/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
+ampWebUrl: "https://www.politico.com/amp/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
 type: article
-quality: 157
+quality: 132
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/191217154709-01-kevin-mccarthy-lead-image-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/ba/54/a2db9c9e48f48ef5db6a7cf7bbc2/ap21012842712411-c.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -79,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McCarthy to visit the former president in Florida, showing where he stands in a post-Trump Republican Party"
+    excerpt: "Former President Donald Trump is expected to meet with House Minority Leader Kevin McCarthy in Florida on Thursday, a source connected to the former President confirms to CNN.\n    \n"
+    publishedDateTime: 2021-01-28T00:12:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NGt5bsJuhw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191217154709-01-kevin-mccarthy-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McCarthy claws his way back to Trump's good side"
     excerpt: "Kevin McCarthy is trying to get back in Donald Trump’s good graces — but he could wind up making more people unhappy in the process. In the aftermath of the deadly Capitol riots, McCarthy angered Trump by saying he bears some responsibility for the attack."
     publishedDateTime: 2021-01-26T09:30:00Z
@@ -95,23 +112,7 @@ related:
         width: 4544
         height: 3029
         isCached: true
-  - title: "McCarthy, Trump hold ‘very good and cordial’ meeting focused on 2022 midterms"
-    excerpt: "Former President Donald Trump met House Minority Leader Kevin McCarthy on Thursday for what was later described as a “very good and cordial” meeting in which the top agenda item was taking back the House of Representatives in 2022."
-    publishedDateTime: 2021-01-29T07:26:00Z
-    webUrl: "https://www.politico.com/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 132
-    images:
-      - url: "https://static.politico.com/ba/54/a2db9c9e48f48ef5db6a7cf7bbc2/ap21012842712411-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "FrwyejviBRozB3406Lbrep7g8+nR2rpUmT+dOLABUTAqirbH3ISCvt/iKgTBa2duapWfCLWpTtpfX9zmAuZ7o2LB7tD/UHtrduqypAoTXtdjnsg9/p63wZhIQvVA84NEtRf0Zp7CcwTmu0d6GNCWk5TXNIpaLGiQU/tJPLApOd2Y93u2+i5ZOTqiXTGMKtvqTdJSDs3gNF7WoyPEepNBuZ9F+uEUzfB/VKp7WFqi58Lg2/5dZJC6ElSPKHSCD3GdA92LurZRu3ckS1RkYkRA1+6hrNcm4AgSnJK/pONjhqG87DIoO6Sx86mmROMdLs39LIjkbFGO4prbTECfpl3/srgByOwFUtibiPcD5ZSj6a4=;oLyjQMYA8nAFBhUlH74/Xw=="
+secured: "eprX74XnTBRYku4j+43kHzV1Si5K0DK7pJfaPAWhAWKd0s89W9rVY3zooDetxVVcynKdH4GFSwxc4sWxzlgZELHwuZebr0RPR/qrNKYd2XOGYd8DmTbxP88dEeEWPyqLBmy9DSP3shKLtlmG84lAOzJX2nLOsda/75akWKvGvCMezxgkcn9jiSRza8RWwxlwZZh1OQFGgMPcXxsv+wrulm/KcMsVGqWWe0yX6O6092wO2SlAjtNkTlEyQeCReANwOZxkstmfscEOyZ4hV7arz4FzOsjEdf7ulbKKCyhzVkMP2qzjwKlbmToZIRkhohW606vpKNQwuooEejmmzLCfj0kPKKhMVSNeQ+5GoHNZPZU=;jV8UVu/cSSfc1i45VlWOOQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-mee
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://static.politico.com/e3/4e/a348753d4fd98010dbfd633ce75f/ap20317661233739.jpg"
         width: 4544
         height: 3029
+        isCached: true
+  - title: "McCarthy, Trump hold ‘very good and cordial’ meeting focused on 2022 midterms"
+    excerpt: "Former President Donald Trump met House Minority Leader Kevin McCarthy on Thursday for what was later described as a “very good and cordial” meeting in which the top agenda item was taking back the House of Representatives in 2022."
+    publishedDateTime: 2021-01-29T07:26:00Z
+    webUrl: "https://www.politico.com/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 132
+    images:
+      - url: "https://static.politico.com/ba/54/a2db9c9e48f48ef5db6a7cf7bbc2/ap21012842712411-c.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "Pjk710ClLAl7xXbFy5xDo+7kRQdKRSvG11Mi39aROQlyM6NCUm6/b7dCayc3JKh1TmvcVlv5b8b4gupZ6bYI1OS/PubQk/2lcWSece8fLYQGT1YyejDrWyVfLiBj2X6a5TOBcwU8SEG9z/Ns1Gh6xYrQSfAvRLNY3wePEMbBKMyE0lAER8iXDokYFWWQ7fj3N5o2npXVZu7ut4cw/eO97ZJWWE7a0AISJBGpKm0aLriEg6OAiVchZdvL8va9yYEsJXJ0sjGCCu2kbTBFelFUFOCBxBnG7X8IC4lqBBWil5hsAYwzyYHZeteIhmwto74vS2XhYE2m3Y7UNXyXPnbqYiOgtrsGTtGakzblNuTc/dg=;KEQ1RMCOqVrjmAyTs9Nelw=="

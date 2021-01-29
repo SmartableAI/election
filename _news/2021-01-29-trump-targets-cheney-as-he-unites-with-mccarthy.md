@@ -95,6 +95,22 @@ related:
         width: 4544
         height: 3029
         isCached: true
+  - title: "McCarthy, Trump hold ‘very good and cordial’ meeting focused on 2022 midterms"
+    excerpt: "Former President Donald Trump met House Minority Leader Kevin McCarthy on Thursday for what was later described as a “very good and cordial” meeting in which the top agenda item was taking back the House of Representatives in 2022."
+    publishedDateTime: 2021-01-29T07:26:00Z
+    webUrl: "https://www.politico.com/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/28/kevin-mccarthy-donald-trump-midterms-meeting-463594"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 132
+    images:
+      - url: "https://static.politico.com/ba/54/a2db9c9e48f48ef5db6a7cf7bbc2/ap21012842712411-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "OOdsU6jryw6lOFJY0aP3rUFEJ85ycC/qnPPTrHZzEXB0BT/8RpkkMprM9QlpaxCxKmaBG9HgGmPqTStAvuR78RmG3ip8lBSQ24PsEx5TJpSMeF/JTcCIHr5cSM7KoUs6QLSmxwlIrKzBCqM+Og1lV/d341ShShaNns+LM147rGFfoziO0zZ4O9jv7jKDfVb/J7wwmwofAWcg96dcWO3FHpE2H3VTcraqqYuR9+Fz7m+DPTWxFwkTqZCJNWWh1iCZeQi2pfjXNvpP0ecZyJ/ob64duzfc6klk7yqjfWTUbXzwGu1mCnLT1p5/cK+jwsCJcsmo6FhPBgEj4LiQQAb1vwTY6/POyfaTZAfYLDvaENE=;UFh+hcFzpUVoHDMHvUvbLA=="
 ---

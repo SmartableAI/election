@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Arizona GOP narrowly reelects Trump loyalist Kelli Ward; censures Cindy McCain, Gov. Doug Ducey, ex-Sen. Jeff Flake"
-excerpt: "The closely watched result offers an early, state-level indication that Trump retains sway over the activist GOP base, though it is more tenuous."
-publishedDateTime: 2021-01-24T18:27:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/arizona-gop-reelects-kelli-ward-censures-cindy-mccain-jeff-flake-doug-ducey/6692657002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/arizona-gop-reelects-kelli-ward-censures-cindy-mccain-jeff-flake-doug-ducey/6692657002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-ampWebUrl: "https://amp.usatoday.com/amp/6692657002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6692657002"
+title: "Trump and Rep. Kevin McCarthy discussed 2022 election during Florida meeting as Trump allies target pro-impeachment Republicans"
+excerpt: "McCarthy meeting takes place less than two weeks before the Senate impeachment trial, and a year before potentially divisive GOP primaries."
+publishedDateTime: 2021-01-29T07:12:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/01/28/donald-trump-meets-kevin-mccarthy-trump-allies-hit-other-republicans/4290454001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/01/28/donald-trump-meets-kevin-mccarthy-trump-allies-hit-other-republicans/4290454001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4290454001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4290454001"
 type: article
-quality: 103
+quality: 112
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/01/07/PPHX/f063a3d8-bbc8-4d8b-9728-245e41c58cf1-cent02-7dyzmbiscdh80zdihle_original.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2021/01/28/USAT/94b27749-b9aa-4a64-89a0-1e51787f2653-AFP_AFP_1R63QE.JPG?auto=webp&crop=5477,3081,x0,y378&format=pjpg&width=1200"
     width: 1200
     height: 675
     isCached: true
@@ -63,23 +63,23 @@ related:
         width: 3065
         height: 2152
         isCached: true
-  - title: "Trump and Rep. Kevin McCarthy discussed 2022 election during Florida meeting as Trump allies target pro-impeachment Republicans"
-    excerpt: "McCarthy meeting takes place less than two weeks before the Senate impeachment trial, and a year before potentially divisive GOP primaries."
-    publishedDateTime: 2021-01-29T07:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/28/donald-trump-meets-kevin-mccarthy-trump-allies-hit-other-republicans/4290454001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4290454001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4290454001"
+  - title: "Arizona GOP narrowly reelects Trump loyalist Kelli Ward; censures Cindy McCain, Gov. Doug Ducey, ex-Sen. Jeff Flake"
+    excerpt: "The closely watched result offers an early, state-level indication that Trump retains sway over the activist GOP base, though it is more tenuous."
+    publishedDateTime: 2021-01-24T18:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/arizona-gop-reelects-kelli-ward-censures-cindy-mccain-jeff-flake-doug-ducey/6692657002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6692657002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6692657002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 112
+    quality: 103
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/28/USAT/94b27749-b9aa-4a64-89a0-1e51787f2653-AFP_AFP_1R63QE.JPG?auto=webp&crop=5477,3081,x0,y378&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/PPHX/f063a3d8-bbc8-4d8b-9728-245e41c58cf1-cent02-7dyzmbiscdh80zdihle_original.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
 
-secured: "T4xBEgCo7uKnd6bXJxFjXZSAk5b0lGVvR8GYwmDk/1eiJbA/A6Lp/mekhtIyxlBPlX87aqYJivFo6tC2uY0YuKoOr1siGAzbRgeSDB41u6RwsLPbQ2llDllAGPsZ/jV2/vxBsG/M9I/8HxU51QYUPuZ8azOWZcfu9Iiaz0nXTVMNl00Z9Q/7K7u1BKmGk4+xE/I9grxIS0Hq/pSPLdw+oPL+76UeqFVvHLzVxwx0N3c4/OXUYdBlePYifHX+2kj0Cx45sC7do3eMucA2qCRlW9h5N38qzZ+m2Ljv/QQvIAJMi1XTA9GVBwFanF37mEn+n/3HAmbBpWW4JlPL6tFQAgqhx515XZjYVxTCFoU/XNk=;2IaHJwltUmjgTt00UxXjJQ=="
+secured: "oSNTDOHTtNpJFlhUvUf5P4INmhAJQCdYzH/6FrKPGwV/WsdBqJAk9FTibS6Vb4bT+S3exP0I3QHefrHTYjtwLwndE4C3RbzhvjQs073EqnHqbyqtk3OlX+FmaVTVUI3SxGKwVvnGw0ZShVICQimIWrVkha4zpoQQFpYblnML7yQHipd93aq9Q/s4WtVTEBksK/nqSI6MNPQOyuBmSJ+VsWXmuXzeDYrQ0FpQp6dijTloFLmW0GSDXzrNwLx0njVNgjK0qZD4mNhORA5qARBdMfw6XiCablSMmmn/7sJOnzlUzQbNOwlYqAvH1xxbzPQSlTSDik6zTAm7PPOUxJoCNS6CEeoSwEbvHAdSTzWG6AE=;MvwMY2uuQVOJel2Lll4unA=="
 ---
 
