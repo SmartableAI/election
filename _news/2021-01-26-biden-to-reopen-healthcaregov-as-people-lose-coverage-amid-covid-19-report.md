@@ -90,6 +90,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 99
+  - title: "Biden says covid relief bill 'has to pass' with or without Republican support"
+    excerpt: "President Joe Biden on Jan. 29 said the covid relief bill “has to pass” but did not say whether he is for budget reconciliation."
+    publishedDateTime: 2021-01-29T19:53:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/biden-says-covid-relief-bill-has-to-pass-with-or-without-republican-support/2021/01/29/a5a02c08-f2b9-47ad-9f8f-d4dbf038adf7_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 82
 
 secured: "w94FbUhS13m090+sWP+4lKzrIEjVKz4VUeOTFRpX6izOpa7/GrB544BRhV5UXYCVNwfv77RgUhiqzmHFnR2HiFvgQqZJfqsoQBgfriorUC+Sm+K6grID0ka0OIkWJK/4sIW8aLo/+r1CjOW9n6kIlk/ImcKs4MpWMz0W+7BIKFMp2EWE9lwRwzMJvHlfbBgrEK7QdEKGT5+jzlw4iMMVi07X6Oc8s7YZ30x+CUj5wiPWvYw1bef9zH2qNqjolPIb/XU72zjnfCsORTZtaDo1oZ6VnQh/C9LpMYZMo3+aFR2gRxug3La5qGb2t4aT+rtgnIL7KHATxJCIVyZZIDQpbrgcSYH1oYGIkZAzTW9WTyY=;v4ITr6BSqpteZq287ZDESw=="
 ---

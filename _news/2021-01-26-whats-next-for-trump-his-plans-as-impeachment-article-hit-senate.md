@@ -291,6 +291,22 @@ related:
         width: 800
         height: 558
         isCached: true
+  - title: "Former FBI lawyer gets probation for altering email during investigation into ties between Russia, 2016 Trump campaign"
+    excerpt: "A former FBI lawyer was sentenced to probation for altering a document the Justice Department relied on during its surveillance of a Donald Trump aide during the Russia investigation."
+    publishedDateTime: 2021-01-29T17:54:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/qTFSIBHni0wRVA9K0csySIUoZrQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2QII4RLQJNTTGT6DI7IS7R3CEE.aspx"
+        width: 1200
+        height: 779
+        isCached: true
   - title: "Dominion Voting Systems Sues Trump Lawyer Giuliani Over Election Claims"
     excerpt: "WASHINGTON (Reuters) - Dominion Voting Systems Inc has filed a lawsuit against former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation for making false claims of fraud about the November 2020 U."
     publishedDateTime: 2021-01-25T12:59:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2M9"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2M9"
 type: article
 quality: 90
-heat: -1
-published: false
+heat: 90
+published: true
 
 provider:
   name: Reuters
@@ -29,24 +29,6 @@ images:
     width: 763
     height: 545
     isCached: true
-
-related:
-  - title: "Fact check: Ted Nugent shared but did not write ‘letter to Biden’ that went viral"
-    excerpt: "Social media posts, shared thousands of times, show a text attributed to Ted Nugent which is addressed to President Joe Biden that says: “This Trump supporter will be giving you the same respect you gave my President Trump."
-    publishedDateTime: 2021-01-25T23:24:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-ted-nugent-biden/fact-check-ted-nugent-shared-but-did-not-write-letter-to-biden-that-went-viral-idUSKBN29U21R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U21R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U21R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1549002778&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O18F"
-        width: 880
-        height: 545
-        isCached: true
 
 secured: "1KpWvzviEZYGhab+h4uskmG1En4b5GF8ORzQAUMxoa06zy2EAk5M2/GQp78qGIOPrjjbDMMJRSdtt5A6Ov6goYjW7+lIz2UiASHnF/8WEfK+h7IXcRjum4Vhp77ohBS6Fa8GanSD7XRqrPv6ngVbTO9VvVtcL3UAt1RdfZn456PJ/7jJ1zefXGdDT5qyltagHfatIh3B2V5H005iSCTKL9cPQricAfd83WHV2SpbMQc/hxVUmfx2zJSPF0H4XgX957h/PuTroeFZlYGUXCHUdP6jY0cpN7yn6z1fGxMEG2kPHDGy1GISkpVN5uYYKLaXfymwheKpowNrli7jcoSHq5QrkAbkQnIvcqhr0sygs3A=;L4RZ443djJqWKFswST4Ilg=="
 ---

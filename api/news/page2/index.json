@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-28-pro-trump-social-media-influencer-charged-in-2016-scheme-to-suppress-votes-for-hillary-clinton.md",
+      "title": "Pro-Trump social media influencer charged in 2016 scheme to suppress votes for Hillary Clinton",
+      "excerpt": "A pro-Trump social media influencer was arrested in Florida Wednesday after prosecutors say he purposely spread disinformation online in an effort to suppress votes for Hillary Clinton in the 2016 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LIyuVcI6Fec/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LIyuVcI6Fec/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp",
+      "publishedDateTime": "2021-01-28T13:40:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.md",
       "title": "Trump meets with McCarthy in Florida to plan GOP House takeover in 2022",
       "excerpt": "House GOP Leader Kevin McCarthy met with former President Trump at Mar-a-lago Thursday where the two agreed to work together on Republicans taking back the House in 2022.",
@@ -182,7 +238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 253,
+      "heat": 273,
       "tags": null,
       "images": [
         {
@@ -929,6 +985,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-28-fact-check-biden-family-bible-used-during-his-oath-is-historically-roman-catholic-not-connected-to-illuminati-or-freemasons-as-posts-claim.md",
+      "title": "Fact check: Biden Family Bible used during his oath is historically Roman Catholic, not connected to Illuminati or freemasons as posts claim",
+      "excerpt": "In the days following U.S. President Joe Biden’s inauguration on Jan. 20, posts on social media claimed that the Bible he used during his swearing-in ceremony is connected to the Masonic Order or the Illuminati.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-fact-check-biden-bible-illuminati-fre-idUSKBN29W2M9",
+      "originalUrl": "https://www.reuters.com/article/uk-fact-check-biden-bible-illuminati-fre-idUSKBN29W2M9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1HV",
+          "width": 763,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29W2M9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2M9",
+      "publishedDateTime": "2021-01-27T16:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-trump-to-meet-with-mccarthy-in-florida-on-thursday.md",
       "title": "Trump to meet with McCarthy in Florida on Thursday",
       "excerpt": "Former President Donald Trump is expected to meet with House Minority Leader Kevin McCarthy in Florida on Thursday, a source connected to the former President confirms to CNN.\n    \n",
@@ -1258,119 +1366,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-biden-un-pick-promises-to-counter-chinas-authoritarian-agenda-and-regrets-2019-speech.md",
-      "title": "BIden UN pick promises to counter China's 'authoritarian agenda' and regrets 2019 speech",
-      "excerpt": "Linda Thomas-Greenfield, President Biden’s pick to be ambassador to the United Nations, pledged Wednesday to stand up to China’s \"authoritarian agenda\" at the U.N., -- as she was grilled by lawmakers about a 2019 speech she made praising Beijing’s approach in Africa.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQ6gcNRqD4g/biden-un-pick-chinas-agenda-2019-speech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQ6gcNRqD4g/biden-un-pick-chinas-agenda-2019-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21027610672208.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-un-pick-chinas-agenda-2019-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-un-pick-chinas-agenda-2019-speech.amp",
-      "publishedDateTime": "2021-01-27T12:52:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-la-times-special-kamala-harris-section-called-out-by-media-critics-blatant-pr-campaign.md",
-      "title": "L.A. Times’ special Kamala Harris section called out by media critics: 'Blatant PR campaign'",
-      "excerpt": "The Los Angeles Times’ fawning coverage of Vice President Kamala Harris has been labeled “inappropriate and disappointing” by critics, some comparing it to the way state-run media would treat leaders in authoritarian nations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/los-angeles-times-kamala-harris-slammed-inappropriate-disappointing",
-      "originalUrl": "https://www.foxnews.com/media/los-angeles-times-kamala-harris-slammed-inappropriate-disappointing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Harris.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/los-angeles-times-kamala-harris-slammed-inappropriate-disappointing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/los-angeles-times-kamala-harris-slammed-inappropriate-disappointing.amp",
-      "publishedDateTime": "2021-01-27T12:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29R2JV"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29R2JV"
 type: article
 quality: 125
-heat: 145
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says Congress needs to 'act now' on $1.9tn Covid relief proposal"
+    excerpt: "President said he supported passing relief with or without Republicans"
+    publishedDateTime: 2021-01-29T20:27:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/29/joe-biden-covid-relief-congress-democrats-republicans"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/29/joe-biden-covid-relief-congress-democrats-republicans"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/29/joe-biden-covid-relief-congress-democrats-republicans"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/31ccf94c3e1f00dd299d25d63e6bc66eb6a7fc7f/0_57_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=22f9cf2305c623242a40c65046d5a746"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden is president now and everything has happened just as we were warned"
     excerpt: "Joe Biden is the president and the first thing he did was hurt God, just as they told us he would. He went right up to God and smote God, and now God is crying and Nietzsche has had to clamber back out of Hell to provide comfort."
     publishedDateTime: 2021-01-22T02:22:00Z
@@ -46,6 +62,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JEBAYYC4BEI6XKCJN6KCHJ277U.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden visits with wounded soldiers at Walter Reed"
+    excerpt: "President Joe Biden made his first major foray outside the White House Friday, to visit wounded soldiers at Walter Reed Hospital. Biden thanked hospital officials for taking care of his on Beau in his final days \"with great grace and dignity."
+    publishedDateTime: 2021-01-29T20:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/29/biden-visits-wounded-soldiers-walter-reed/4314384001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/26419840-4e1c-4c70-aa8d-6bf9686ef490_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "utxvPjqdI+xq/S9Qhsr4f2+nbbb2bw8Kot9eFvR0cL1zXFv5Fod9JQyOGXqXUfrB9TShs/YdHHwGRMxXOAxvPeiA3YoBckcfrb31sXac3HU0aNhhcXIGAK8KDqRooJ5TFw9jyRDsXH0YHgMwXYCkvyWI/iY7T00N04k3cK4FO0UytlCac6nkCqoO8hQQGGFl+6Zuq6zSbdi2mZKbctBZxMfgVdup5sg7uxT/i+u8a1OSQUGSRTgy+CjlkNXq6tMDMxZONoHqWje9ggVUvlxJlhGV0+6hXBuFutw7PMSgUC7Pge5SSMvpUXFdpAQYc+IJ4vGuKwjgLTT/RMKaWiHNph4sv4wY2miNmUdQI865zjk=;O7Ie9TAJ8Lm9YMLP2a6iVw=="

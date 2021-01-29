@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden will keep Trump letter private, White House says"
+    excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"
+    publishedDateTime: 2021-01-29T20:13:00Z
+    webUrl: "https://nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/"
+    ampWebUrl: "https://nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/biden-trump-letter-e1611950822303.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden Plan to Order Review of Trump Health-Care Policies Likely to Face Speed Bumps"
     excerpt: "President Biden is set to sign executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
     publishedDateTime: 2021-01-28T15:30:00Z

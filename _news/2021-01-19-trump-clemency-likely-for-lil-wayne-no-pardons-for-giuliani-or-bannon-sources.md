@@ -275,6 +275,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Former FBI lawyer gets probation for altering email during investigation into ties between Russia, 2016 Trump campaign"
+    excerpt: "A former FBI lawyer was sentenced to probation for altering a document the Justice Department relied on during its surveillance of a Donald Trump aide during the Russia investigation."
+    publishedDateTime: 2021-01-29T17:54:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/qTFSIBHni0wRVA9K0csySIUoZrQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2QII4RLQJNTTGT6DI7IS7R3CEE.aspx"
+        width: 1200
+        height: 779
+        isCached: true
   - title: "What’s Next For Trump? His Plans As Impeachment Article Hit Senate"
     excerpt: "Former President Donald Trump is opening a new office in Florida on Monday that will carry on his admininstration's administration, an announcement he made as the House delivered a single article of impeachment to the Senate."
     publishedDateTime: 2021-01-26T12:26:00Z

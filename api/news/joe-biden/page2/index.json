@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-22-president-biden-signs-order-mandating-masks-on-planes-will-it-reduce-number-of-in-flight-scofflaws.md",
+      "title": "President Biden signs order mandating masks on planes: Will it reduce number of in-flight scofflaws?",
+      "excerpt": "Airlines require masks and ban passengers who won't comply. A new federal mask rule signed by Biden Thursday gives them muscle to enforce it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/travel/airline-news/2021/01/21/president-biden-issues-federal-mask-mandate-on-flights/4214019001/",
+      "originalUrl": "https://www.usatoday.com/story/travel/airline-news/2021/01/21/president-biden-issues-federal-mask-mandate-on-flights/4214019001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/21/USAT/dd14e355-72ea-4998-9a71-ee24ff1b399c-biden-signing.jpg?auto=webp&crop=5968,3357,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4214019001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4214019001",
+      "publishedDateTime": "2021-01-21T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-charlottesville-inspired-biden-to-run-now-it-has-a-message-for-him.md",
       "title": "Charlottesville Inspired Biden to Run. Now It Has a Message for Him.",
       "excerpt": "The white supremacist rally in 2017 prefigured the rise of right-wing violence in President Trump’s name. Now, as President Biden calls for national unity, residents say it requires accountability first.",
@@ -1481,58 +1533,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-nba-los-angeles-lakers-hope-to-meet-president-joe-biden-but-champions-lose-at-spurs.md",
-      "title": "NBA: Los Angeles Lakers hope to meet President Joe Biden but champions lose at Spurs",
-      "excerpt": "The Los Angeles Lakers hope to re-establish the tradition of NBA champions visiting the president of the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/basketball/55584721",
-      "originalUrl": "https://www.bbc.com/sport/basketball/55584721",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1313B/production/_116393187_lakers.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/amp/basketball/55584721",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/basketball/55584721",
-      "publishedDateTime": "2021-01-08T00:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

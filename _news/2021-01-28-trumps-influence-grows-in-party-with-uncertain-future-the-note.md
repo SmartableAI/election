@@ -79,6 +79,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Judge blocks Trump rule to limit health studies in EPA regs"
+    excerpt: "A federal judge has blocked a last-minute rule issued by the Trump administration to limit what evidence the Environmental Protection Agency may consider as it regulates pollutants to protect public h"
+    publishedDateTime: 2021-01-29T19:41:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_b1408a184fa440d7bfebd39cf4f8f16a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "US senators have been sworn in as jurors in Trump's impeachment trial"
+    excerpt: "Senators were sworn in on Tuesday as jurors in former President Donald Trump 's second impeachment trial. A formal summons will now be sent to Trump laying out the charge against him and inviting him to respond in writing."
+    publishedDateTime: 2021-01-29T19:52:00Z
+    webUrl: "https://www.businessinsider.com/senators-sworn-in-jurors-trump-second-impeachment-trial-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/senators-sworn-in-jurors-trump-second-impeachment-trial-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senators-sworn-in-jurors-trump-second-impeachment-trial-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/600ff19567a6bc0019d9af6e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Morgan Lewis, Trump's longtime tax counsel, prepares for split"
     excerpt: "Morgan, Lewis & Bockius said Wednesday it was stepping away from advising Donald Trump on tax matters, leaving the former president and his businesses further isolated from the country's largest law firms."
     publishedDateTime: 2021-01-21T04:07:00Z

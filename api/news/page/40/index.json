@@ -2,6 +2,62 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-12-02-cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.md",
+      "title": "CNN has been ‘overwhelmingly biased’ against Trump: Joe Concha",
+      "excerpt": "You don't need behind-the-scenes tapes to know that CNN is anti-Trump because of how blatant the network coverage is, Fox News contributor Joe Concha told \"America's Newsroom\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cwjh8tUrxXc/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cwjh8tUrxXc/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.amp",
+      "publishedDateTime": "2020-12-02T10:21:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-trumps-former-campaign-manager-brad-parscale-said-he-planned-to-capitalize-on-baseless-fears-about-mass-voter-fraud.md",
       "title": "Trump's former campaign manager Brad Parscale said he planned to capitalize on baseless fears about mass voter fraud",
       "excerpt": "Trump has relentlessly spread false claims and conspiracy theories about mass voter fraud committed by Democrats.",
@@ -1313,58 +1369,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-giuliani-discussed-pre-emptive-pardon-with-trump-report-says-live.md",
-      "title": "Giuliani discussed ‘pre-emptive pardon' with Trump, report says – live",
-      "excerpt": "New York Times reports lawyer has discussed possibility with president, but not yet clear what Giuliani would need pardon for – follow all the latest news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc68c458f08c1b9f135793d",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates?page=with:block-5fc68c458f08c1b9f135793d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c11052f35fb1f65fe7c377c654ef0658772a6589/0_27_4860_2916/master/4860.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=da753df18c72d2a40197acf879c33f5f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/01/us-election-2020-joe-biden-donald-trump-scott-atlas-coronavirus-covid-live-updates",
-      "publishedDateTime": "2020-12-01T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-m
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -90,6 +90,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 99
+  - title: "Biden says covid relief bill 'has to pass' with or without Republican support"
+    excerpt: "President Joe Biden on Jan. 29 said the covid relief bill “has to pass” but did not say whether he is for budget reconciliation."
+    publishedDateTime: 2021-01-29T19:53:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/biden-says-covid-relief-bill-has-to-pass-with-or-without-republican-support/2021/01/29/a5a02c08-f2b9-47ad-9f8f-d4dbf038adf7_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 82
 
 secured: "/X8ZWsWiNU/Z2w/av++8b0reO0alMDau4oEQq/d770SuQ7jfSgQ7JRE7MRJ6no87n7j6/MqTjMPKsLQTFFQp+Ly1OBHR8VNdg8ipsz7aKPGBskJ+DyHeThwxdUHUQUA1XVgIQr40XH2htOGnvWkwx/eIhhIBORrRzURYV9MwGEV71uBknlKpeddj+eUQybbbyLBpNxO9aG5A0UrC3U7ee27tbd2ahz1JdeahvCPCwetPdc1hh+2X0Rsf7/NDu80dbj/4Vd4K6S4haEoaPcIZtVfftSv9pLIxWLw/evPJ/x0Xna1P542r8AbbmdVr1gMZ405zm/GgM0QZOiRfmP7iyFjyHdk1zLo/xPdSdATEeqv2Pvj6sMsK2tUDbM6+Tx6WmSSddtkEqJDx7X/4qk33oVYUuhcAeHl/AHhtsZSK7ZaNb8tUe70ML3Utv3jEyqdUVqeUUXc0jdTQncdP9FOVdT27MsCKRw3KARoLRWl/a1qOOFEzrzeDj4GCZvCgE1W8S/uRFlnQ37ojnui2lJ1Zsg==;h/QNrXFHEUXpA9fWTRjj3Q=="
 ---

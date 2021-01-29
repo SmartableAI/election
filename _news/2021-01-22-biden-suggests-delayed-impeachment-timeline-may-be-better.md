@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-delayed-impeachment-timeline-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
         width: 750
         height: 494
         isCached: true
+  - title: "Biden's Presidency: More Interesting Than Expected"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-01-29T19:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/29/bidens_presidency_more_interesting_than_expected_534710.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "NGplkqCn0H43PJeUm/zCXLROV9aOWbKo/fursIJxGY1CFDDIrEi7oYyOrb+0jHsN4PYPRwW2zPBRZubahtcg+znsBMKDYXojfojWFFLgIseOcuts/LCcF5jHnQvlqdqPIjamIPFKvDiBgS9LxOeaP9aphZo3U/xZT8z/D9wh1eIQwXXyiiPUOkEJT9wgeHhXdEWfVkQe80akvqesyXQOrOVPWnWbBM6awOmx+fVHGxavCM99KylARchE+aOzFphKg8tD+1w/YxJZ8Ejh9fhkiROhA/CxA1l69daAwKR7xkztkI+pIwQ148rj0frgo1LuwdXDlhQBYlp1uQWDfKn9NYk17H26bLh0Rszl5wrBvRQ=;I454uiYg3U089D1puQ7gag=="
 ---

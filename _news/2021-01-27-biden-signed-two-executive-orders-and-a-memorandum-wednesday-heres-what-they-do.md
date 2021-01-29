@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Judge likely to extend hold on Biden's deportation pause until late February"
+    excerpt: "A federal judge in Texas said Friday that he'll likely extend his hold on the Biden administration's deportation moratorium until February 23.\n    \n"
+    publishedDateTime: 2021-01-29T19:24:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PAqiwBM64-4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/immigration-biden-deportations-texas/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/immigration-biden-deportations-texas/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128143435-01-biden-health-care-eo-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to sign orders that include moves toward $15 minimum wage for federal workers and contractors"
     excerpt: "President Joe Biden is expected to sign two more executive orders on Friday -- one focused on raising the minimum wage to $15 for the federal workforce and the other on expanding assistance for Americans in need -- as he continues his swift efforts to overturn his predecessor's policies.\n    \n"
     publishedDateTime: 2021-01-22T12:13:34Z
