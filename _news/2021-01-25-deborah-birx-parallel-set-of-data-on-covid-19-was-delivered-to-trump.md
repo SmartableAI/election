@@ -158,6 +158,22 @@ related:
         width: 1895
         height: 1263
         isCached: true
+  - title: "Job Seekers With Trump White House on Their Résumés Face a Cold Reality"
+    excerpt: "Working at the White House has traditionally been a ticket to a lucrative future. But that hasn’t been the case so far for Trump alumni."
+    publishedDateTime: 2021-01-29T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-FORMERS-1/merlin_182384682_4bb64c40-0d06-4baf-b8d6-124f5a65fe19-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "q20B7SzWdWmQ9meckPNuzOiZcqSysvajx4wRpNcDeZ12Yb24/ZZwrdmE73o6NsIUlszR8u09ww93fg184Z7G/rDq17vSahIXJvSgPYOP3yCroKFfXdea3y0bkOkd1eatyaeBrBXrK/mz5IhtKQ3D2juBaRqS+tzUMrhKbwMUBrK++WBfyDowZzInt5LUeIoBoYzsUyI8bHIzWaD5Qcjsq31r/Qo6nz9Bumudte+YrOQ4BdZV7B1NO3OypoRW+5SliEjQVzcQAferFvvrwviav28/tMorBycw6KM53RgZSNKEAKVAiUm43hogiJ9ha90psk1dIW3GToZ4DTMImxaxlNcR2lwjhJeu1Nt7MdqDjN0jqzO4U8gjhuXHlOyYTgVzsznSdrIlhd3zjAOqY02XVijm1FLhtfJFXyKFG+2ZRtr897k0ngDeendopSmT4Y2A4T0BzAYVpN2X3Fysuyk6+tPWlSZOepvzmbGYMdPzHthUpORAcdsgnNw5Go92WXcliRt5iVJc3/BxBGU3gVHK9Q==;F8ND7+B6Ff3nW6iMYl0irg=="
 ---

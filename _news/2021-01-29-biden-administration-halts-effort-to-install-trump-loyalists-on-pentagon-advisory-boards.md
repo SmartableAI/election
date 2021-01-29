@@ -641,10 +641,10 @@ related:
         isCached: true
   - title: "Republican bill seeks to block Biden's federal lands oil leasing halt"
     excerpt: "Republican senators from oil-producing states introduced legislation on Thursday that would block the Biden administration's order pausing new oil and gas leasing on federal lands."
-    publishedDateTime: 2021-01-29T01:23:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-drilling-idUSKBN29X2T2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29X2T2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29X2T2"
+    publishedDateTime: 2021-01-29T03:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-drilling-idUKKBN29X2T2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29X2T2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29X2T2"
     type: article
     provider:
       name: Reuters
@@ -705,8 +705,8 @@ related:
         isCached: true
   - title: "Biden signs healthcare order to undo Trump 'damage' as US detects two South Africa Covid variant cases – live"
     excerpt: "Two unconnected cases of variant identified in South Carolina, while president signs executive orders to expand healthcare access"
-    publishedDateTime: 2021-01-29T01:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-601355268f08653792879b27"
+    publishedDateTime: 2021-01-28T23:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-60131be28f08653792879888"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
     type: article
@@ -1035,6 +1035,6 @@ related:
       domain: usnews.com
     quality: 58
 
-secured: "1FU3nppl6FMWdaeQFY51HnliiBLdM/IikkWMLc/OM6lRwSOpHEecf3HMm3hfWiu/xqGSjXca3CdQ7IQXzNoJl2dAbJeBryeHvocECxIGtO1b4rGasYT/VK6bpQbDRd13yx/NW4BeDcAqmQ7L6QAPqMIrv9OIVSeRU/j1e4+4EI0Cw7pcJ8ku/ppk9ZmM2U7X+qOL7Kxh/00DlDjXDBunlKHR8BfQvOsDuuts5/CgX0EGrPCAq65/+Tj2BXWAQ/WaMjew5B3GMWuaNdF1khwYTA+qzxzH76UbjcNbBY08/PZqQ4VNOogaxgL7LKZJQNU+BlRtLGgbMJXe1C2whctG1OpcC7oV8vZpfPmvQ8/Pt1M=;YefxbQTUvOxuI4MvLzCNKg=="
+secured: "jFxmHUvEuB117qRpt5KsKdJbhCuP9kqg79D1z8QHExAOiQr37VRQpR/HSDbYmph790KZflHxOALk2RfxV6PcNoEIMEDx7uzdoOaTrmGO4/LkdpZheUeh54OdiqzNe33yOnLg0BlMg30BlAfOQ1rzOhf8RcPr42vqCcQDw81Psu4r7r9mtCAJdQK34sZgZYZ0I0af7kwwrLk0GhHIZnJbbxCZNQiCS0iVDFAOh6NrcW4U2dGpLIWdnnydVAJXjLGpUhM7rIkpBVgge0fxeIh8VXaNYILtj9pNvbP2NMcOsq6EqMfkfY5nPBxd8IRfgMxGV3FYuE815WCpvSF+UNlsAYS0LTHX0DCs2RJubMv07Vwn5cgJp5KgCH5AX9caCff2joJR9haCa7L6YGwoTusYtskhIIXuxMVOrNf8aAef1jo55S71gj2nofjRFlAN2Q7XN9dS8SYIftUYvVBaP+lE1OdY98k6vEjX1+/+B3zmgd/UT4iYTGbZI0l56iGhdpW3TJ64W6V9snAQg1Qaf5nRtg==;uBVL53D0gzJfpkih+Pi5Ig=="
 ---
 

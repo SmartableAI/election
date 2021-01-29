@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://static.politico.com/65/fe/6d62b2ac4fc0ae9b59232ba6b303/gettyimages-1209090127-1.jpg"
         width: 1895
         height: 1263
+        isCached: true
+  - title: "Job Seekers With Trump White House on Their Résumés Face a Cold Reality"
+    excerpt: "Working at the White House has traditionally been a ticket to a lucrative future. But that hasn’t been the case so far for Trump alumni."
+    publishedDateTime: 2021-01-29T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-FORMERS-1/merlin_182384682_4bb64c40-0d06-4baf-b8d6-124f5a65fe19-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Deborah Birx: ‘Parallel set of data’ on Covid-19 was delivered to Trump"
     excerpt: "I saw the president presenting graphs that I never made,” the former White House coronavirus response coordinator told CBS."

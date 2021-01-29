@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Trump and the Foiled Plot at the Justice Dept."
-excerpt: "Readers are shocked by what one calls “the most stunning episode” in the former president’s efforts to overturn the election."
-publishedDateTime: 2021-01-26T18:14:00Z
-originalUrl: "https://www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.html"
-webUrl: "https://www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.html"
-ampWebUrl: "https://www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.amp.html"
+title: "Job Seekers With Trump White House on Their Résumés Face a Cold Reality"
+excerpt: "Working at the White House has traditionally been a ticket to a lucrative future. But that hasn’t been the case so far for Trump alumni."
+publishedDateTime: 2021-01-29T10:00:00Z
+originalUrl: "https://www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.html"
+webUrl: "https://www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.html"
+ampWebUrl: "https://www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -26,7 +26,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/01/26/us/politics/24dc-justice/24dc-justice-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-FORMERS-1/merlin_182384682_4bb64c40-0d06-4baf-b8d6-124f5a65fe19-facebookJumbo.jpg"
     width: 1050
     height: 550
     isCached: true
@@ -128,6 +128,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump and the Foiled Plot at the Justice Dept."
+    excerpt: "Readers are shocked by what one calls “the most stunning episode” in the former president’s efforts to overturn the election."
+    publishedDateTime: 2021-01-26T18:14:00Z
+    webUrl: "https://www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/24dc-justice/24dc-justice-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "A top MAGA gathering finds life complicated after Trump"
     excerpt: "In recent years, the conservative confab has been the go-to stop for rising GOP stars, grassroots organizers and luminaries in the Trump movement. But President Donald Trump’s election loss has created hurdles around programming and guest booking."
     publishedDateTime: 2021-01-27T18:18:00Z
@@ -144,22 +160,6 @@ related:
         width: 1895
         height: 1263
         isCached: true
-  - title: "Job Seekers With Trump White House on Their Résumés Face a Cold Reality"
-    excerpt: "Working at the White House has traditionally been a ticket to a lucrative future. But that hasn’t been the case so far for Trump alumni."
-    publishedDateTime: 2021-01-29T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/29/us/politics/trump-white-house-jobs.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-FORMERS-1/merlin_182384682_4bb64c40-0d06-4baf-b8d6-124f5a65fe19-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Deborah Birx: ‘Parallel set of data’ on Covid-19 was delivered to Trump"
     excerpt: "I saw the president presenting graphs that I never made,” the former White House coronavirus response coordinator told CBS."
     publishedDateTime: 2021-01-24T19:17:00Z
@@ -175,6 +175,6 @@ related:
         height: 773
         isCached: true
 
-secured: "rB+QKTUt9+s2VWMGkh4kkamgp05Dicp/iyeCTMP8FiSQEpT1TcGLsG+vEoQZjzJP2s2wPaTERwNIcGi3YBuikZsElk4QuofMcII+D38YqOsTv1pml0NhhG9XxXDIUIAxevlSiULVK55ldRWTZczTTU/R9ih9FkXcWF0D03knzWqq1qBROieMVkkp6KTpue94lvuKfv74bzXF9QOKGBHsb9pDQCyGf2J1jlZffYQBJmXlfwnPyacfddOsGV2Etejbi4rDo4wvKS+uqnFwIlcgE1w2Qlo7CUNG4giRrQUuVFosnDM1iq9C8xGVJK4kuhPxY0xsD/ZMls1JMyaRf5FFGfhRYUyTvV23rwdIpHtlVaI=;FIJ3DadbHPMEhyGSJMoHIg=="
+secured: "oL156BTKMteVW9jHlykWEXzzOfIZJxWGbTj0gRaMqD+udrnNBLLYUlkJQ27u1jFZMBqZWS7FX244qKCv3gs3Gq72rIK38hBSSeS5G0vcLSFUdcO51VpOIcQC6Z9ahxtozviN8BmfYV/YdbkaClEM2OsQEuMIUbPw8Xy5NXdXP3VcemKqWnngjchA2cQFfjr92n7YEZQLdMX9C2jCe9Cz7mgKSHYx71Dj0hJp3sPJJVYICEXz+/Bs3xd85/NAavndNqC4B6kV2JX3/orGMQ3+gQVmNdHN1maWRl/fZrY3J7zLe/nPaHAMtDk5tB1sEYV5URdmUsjG86O+64ySlN5J0zPMY2nj+BfR81gsBEqhljI=;IdFn44iqyDJWvkTB8svpgw=="
 ---
 

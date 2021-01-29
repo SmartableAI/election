@@ -642,10 +642,10 @@ related:
         isCached: true
   - title: "Republican bill seeks to block Biden's federal lands oil leasing halt"
     excerpt: "Republican senators from oil-producing states introduced legislation on Thursday that would block the Biden administration's order pausing new oil and gas leasing on federal lands."
-    publishedDateTime: 2021-01-29T01:23:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-drilling-idUSKBN29X2T2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29X2T2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29X2T2"
+    publishedDateTime: 2021-01-29T03:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-drilling-idUKKBN29X2T2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29X2T2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29X2T2"
     type: article
     provider:
       name: Reuters
@@ -706,8 +706,8 @@ related:
         isCached: true
   - title: "Biden signs healthcare order to undo Trump 'damage' as US detects two South Africa Covid variant cases – live"
     excerpt: "Two unconnected cases of variant identified in South Carolina, while president signs executive orders to expand healthcare access"
-    publishedDateTime: 2021-01-29T01:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-601355268f08653792879b27"
+    publishedDateTime: 2021-01-28T23:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-60131be28f08653792879888"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
     type: article
