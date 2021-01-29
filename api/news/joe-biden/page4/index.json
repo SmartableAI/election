@@ -2,6 +2,115 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-23-biden-warns-darkest-days-are-ahead-for-us.md",
+      "title": "Biden warns 'darkest days' are ahead for U.S....",
+      "excerpt": "Watch \"President-elect Joe Biden warns of 'darkest days' are ahead for U.S.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08244329_1608741244.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-biden-no-obvious-choice-yet-for-attorney-general.md",
+      "title": "Biden: No 'obvious choice' yet for attorney general",
+      "excerpt": "The president-elect also re-upped his commitment to not discuss his son's legal troubles with any AG candidates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/22/biden-no-attorney-general-yet-450008",
+      "originalUrl": "https://www.politico.com/news/2020/12/22/biden-no-attorney-general-yet-450008",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/0b/63/437fda84437f80dc3d864f2e690d/webp.net-resizeimage%20(48).jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/22/biden-no-attorney-general-yet-450008",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/22/biden-no-attorney-general-yet-450008",
+      "publishedDateTime": "2020-12-22T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-biden-picks-connecticut-schools-chief-as-education-secretary.md",
       "title": "Biden picks Connecticut schools chief as education secretary",
       "excerpt": "President-elect Joe Biden has chosen the education commissioner for Connecticut and a former public school teacher to serve as education secretary",
@@ -1496,110 +1605,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-analysis-senate-gangs-show-biden-whats-possible-and-not.md",
-      "title": "Analysis: Senate 'gangs' show Biden what's possible, and not",
-      "excerpt": "Senators met day after day, night after night, trying to hammer out a framework for a $900 billion-plus COVID-19 aid and economic relief package",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_6bac3ffdc5f74a06a16c2493a02e3037_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-senate-gangs-show-biden-74685929",
-      "publishedDateTime": "2020-12-13T00:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-biden-cabinet-picks-from-obama-era-mean-bold-new-thinking.md",
-      "title": "Biden: Cabinet picks from Obama era mean 'bold new thinking'",
-      "excerpt": "President-elect Joe Biden on Friday introduced a series of key picks for his new government that drew heavily from the Obama administration",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_356ca0eaf41c446db3ea424d5c48b946_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-unveils-top-picks-deep-obama-administration-ties-74674302",
-      "publishedDateTime": "2020-12-13T00:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

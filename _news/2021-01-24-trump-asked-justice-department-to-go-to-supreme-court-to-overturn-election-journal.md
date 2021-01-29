@@ -341,6 +341,17 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Special Counsel Appointed Under Trump Seeks Prison for Former FBI Lawyer"
+    excerpt: "A former FBI lawyer who pleaded guilty to falsifying a document during the agency's investigation of contacts between former President Donald Trump's 2016 campaign and Russia is due to be sentenced on Friday,"
+    publishedDateTime: 2021-01-29T11:37:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-29/special-counsel-appointed-under-trump-seeks-prison-for-former-fbi-lawyer"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-29/special-counsel-appointed-under-trump-seeks-prison-for-former-fbi-lawyer?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-29/special-counsel-appointed-under-trump-seeks-prison-for-former-fbi-lawyer?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
 
 secured: "WMCd9iuYrQ0EMbBNb2EN5dY7oOOugFleO4LfwSDwOyzgSjEpUDe+c+fVm/Xk/UKsrWfIga6E/yrR7zkbAjGqgJhlvj1yb9xXnQJMFq3QDkxxEiOrN7fgyNiRdpYIuq++ZhmAVgQZi/cGZ33OUMuoua/4YEA8XgmWAuyBuZugTALYTDtvtWgVtDPBVgvmk7tU5hkTraMaWw88OyNWS2Nj+XIbENA2eb3/jtIm9YhULP8xgqZ0Arw/r+qBYbICW0AkOIJe9rv+zhFCIM+Ax5dYt7IvfuDlJXsbjqOlraCez7/0yw30dUKITGJQJwDI0oZ44paxMz8QD0vrHsBUTpHelBTAFw3atYQTY/vO6sfEUpU=;z/DrM90CIPRyMTFl8OwNEw=="
 ---

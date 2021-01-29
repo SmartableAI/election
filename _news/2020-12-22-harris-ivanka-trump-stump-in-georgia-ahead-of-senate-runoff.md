@@ -283,6 +283,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Kamala Harris Defends Joe Biden's Climate Policies, Says They're Creating More Jobs"
+    excerpt: "Biden has faced strong criticism from Republicans for an executive order pausing oil and gas extraction on federal land."
+    publishedDateTime: 2021-01-29T14:36:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-defends-joe-biden-climate-policies-creating-more-jobs-1565370"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-defends-joe-biden-climate-policies-creating-more-jobs-1565370?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-defends-joe-biden-climate-policies-creating-more-jobs-1565370?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 144
+    images:
+      - url: "https://d.newsweek.com/en/full/1720204/vice-president-kamala-harris.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Sen. Lamar Alexander says that Trump should put 'the country first' and accept Biden's election win"
     excerpt: "\"States have certified their votes,\" the GOP senator said. \"The courts have resolved the disputes. It looks very much like the electors will vote for Joe Biden.\""
     publishedDateTime: 2020-12-13T21:23:00Z

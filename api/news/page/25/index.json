@@ -2,6 +2,114 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-12-24-democratic-rep-elect-kai-kahele-combat-veteran-says-trump-supporters-are-a-force-to-be-reckoned-with.md",
+      "title": "Democratic Rep.-elect Kai Kahele, combat veteran, says Trump supporters are 'a force to be reckoned with'",
+      "excerpt": "As a progressive Democrat who supports the Green New Deal and \"Medicare-for-all,\" Rep.-elect Kai Kahele, D-Hawaii, has had to temper his aspirations for the new Congress. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dk5H_nPt1QU/hawaii-rep-elect-kai-kahele-trumps-supporters-force-to-be-reckoned-with",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dk5H_nPt1QU/hawaii-rep-elect-kai-kahele-trumps-supporters-force-to-be-reckoned-with",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/kai.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hawaii-rep-elect-kai-kahele-trumps-supporters-force-to-be-reckoned-with.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawaii-rep-elect-kai-kahele-trumps-supporters-force-to-be-reckoned-with.amp",
+      "publishedDateTime": "2020-12-24T03:23:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-iran-foreign-minister-dismisses-trumps-tweet-that-tehran-behind-attack-on-us-embassy-in-baghdad.md",
+      "title": "Iran foreign minister dismisses Trump's tweet that Tehran behind attack on U.S. Embassy in Baghdad",
+      "excerpt": "Iran’s foreign minister on Thursday dismissed U.S. President Donald Trump’s allegations that Iran was behind the recent rocket attack on the U.S. Embassy in Baghdad.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/iran-usa-zarif-int-idUSKBN28Y0JA",
+      "originalUrl": "https://www.reuters.com/article/iran-usa-zarif-int-idUSKBN28Y0JA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545642257&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN0A1",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Y0JA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y0JA",
+      "publishedDateTime": "2020-12-24T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad.md",
       "title": "Trump issues stern warning to Iran after rocket attack on US Embassy in Baghdad",
       "excerpt": "",
@@ -1237,114 +1345,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat.md",
-      "title": "News Wrap: Alex Padilla is tapped to fill Kamala Harris’ Senate seat",
-      "excerpt": "In our news wrap Tuesday, California Secretary of State Alex Padilla is tapped to fill the U.S. Senate seat vacated by Vice President-elect Kamala Harris, the E.U.'s executive body calls for an end to travel bans aimed at confining a new COVID-19 strain in Britain,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat",
-      "originalUrl": "https://www.pbs.org/newshour/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 825,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/newswrap15-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat",
-      "publishedDateTime": "2020-12-22T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-nancy-pelosi-plans-to-pull-trump-out-of-the-white-house-by-his-hair-report.md",
-      "title": "Nancy Pelosi plans to pull Trump out of the White House 'by his hair': Report",
-      "excerpt": "The House Speaker is said to have made the comments during discussions regarding a coronavirus relief package.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tuqs7ifuXZs/nancy-pelosi-pull-trump-out-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tuqs7ifuXZs/nancy-pelosi-pull-trump-out-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4075735f-49a6-4cdc-891c-07958e64eca1/f8e5afac-7cf8-49c2-8e7a-12643376b67d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nancy-pelosi-pull-trump-out-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nancy-pelosi-pull-trump-out-white-house.amp",
-      "publishedDateTime": "2020-12-22T14:54:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

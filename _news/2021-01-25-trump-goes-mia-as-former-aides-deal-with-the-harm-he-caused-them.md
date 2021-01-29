@@ -332,6 +332,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "The Real Scandal Is the Pardon Trump Didn’t Give"
+    excerpt: "Rufus Rochell checked all the right boxes for clemency: an exemplary record in prison, advocacy out of it, and a friendship with a famous Trump booster. So why didn’t he get it?"
+    publishedDateTime: 2021-01-29T09:31:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/01/29/trump-pardon-didnt-give-rufus-rochell-463587"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/32/751e863c4a1db7364b990ef28e44/lede.Rufus.Rochelle.Wallace.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "OM8P2Mn4oya7vtgwzJlvS4rI/i8kWGWDCecEuXGdQRxhcne/dn9TTDBo3f39nFDEYR+bDkQfkZLB7oltw7DTUI7LxTTdG2gs8QansyZOKxbtuUtc4FLohyX3+U2eEo5I+ragsl+MUV7qO8GgCoSLA9vX1IZGTDV3KhJgpNuG+6tDFlOK1I8YFDhk0g5yy/gFU4swi0FJIQHrsyVWM4tJ3GfO6PpF+yzBk8rczwwIvZdpWafYkKXfjBEQMkbK7Zauk0O2Ou0umIoMNcKYa3f0P+JD4r9HezByv1UVtyRIZPV6qc2Ju8vpxutyHIF3GRdjElwMoaccDvGso1SeSHlAJQnygtGSi3WVMMswoVbmB/A=;1bPtKF3GBAPt/pF5clEydQ=="
 ---

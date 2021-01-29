@@ -428,6 +428,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "As McCarthy seeks unity with Trump, Gaetz slams Cheney in Wyoming amid speculation over Trump-backed primary"
+    excerpt: "Rep. Matt Gaetz traveled to Wyoming on Thursday to call for the ouster of House Republican Caucus Chair Liz Cheney over her vote to impeach former President Trump, underscoring the divisions in the GOP at grapples with its identity in the wake of Trump's presidency."
+    publishedDateTime: 2021-01-29T13:02:00Z
+    webUrl: "https://www.foxnews.com/politics/liz-cheney-matt-gaetz-kevin-mccarthy-donald-trump-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-matt-gaetz-kevin-mccarthy-donald-trump-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-matt-gaetz-kevin-mccarthy-donald-trump-republicans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Rep-Liz-Cheney.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Sen. McConnell Told Republicans He Would Propose Starting Trump Impeachment Trial in Two Weeks"
     excerpt: "Senate Minority Leader Mitch McConnell told Republicans he would propose starting former President Donald Trump’s impeachment trial in two weeks to give his legal team time to prepare, GOP aides said Thursday."
     publishedDateTime: 2021-01-22T15:50:00Z

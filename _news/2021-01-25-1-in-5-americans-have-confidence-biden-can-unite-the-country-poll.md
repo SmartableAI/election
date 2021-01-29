@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/1-in-5-americans-have-confidence-bi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden has signed 40 executive orders and actions since taking office"
+    excerpt: "President Biden has signed more than three dozen executive orders, actions and directives since he took office just 9 days ago — with Biden officials telling Fox News that the moves are \"previews\" of the agenda items the president will push in Congress as Republicans rail against the record-making flurry"
+    publishedDateTime: 2021-01-29T13:38:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9sZwgiiSlwA/biden-has-signed-40-executive-orders-and-actions-since-taking-office"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-has-signed-40-executive-orders-and-actions-since-taking-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-has-signed-40-executive-orders-and-actions-since-taking-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden’s reported plans to kill Keystone XL pipeline alarm Canadian officials"
     excerpt: "President-elect Joe Biden is considering canceling the cross-border permit for TC energy’s Keystone XL pipeline -- and Canadian officials are worried."
     publishedDateTime: 2021-01-18T18:37:25Z

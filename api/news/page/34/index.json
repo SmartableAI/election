@@ -2,6 +2,115 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-12-10-pence-says-trump-deserves-his-day-in-supreme-court.md",
+      "title": "Pence says Trump ‘deserves his day’ in Supreme Court",
+      "excerpt": "Saying “God bless Texas,” Vice President Mike Pence on Thursday gave a rousing endorsement of a lawsuit filed by the Texas attorney general and backed by President Trump that aims to throw out the election results in four key battleground states won last month by President-elect Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqzw8poCUJw/pence-says-trump-deserves-his-day-in-supreme-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqzw8poCUJw/pence-says-trump-deserves-his-day-in-supreme-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 840,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp",
+      "publishedDateTime": "2020-12-10T14:38:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-george-conway-writes-op-ed-calling-trumps-effort-to-overturn-the-election-the-true-big-fraud-of-2020.md",
+      "title": "George Conway writes op-ed calling Trump's effort to overturn the election the true 'big fraud' of 2020",
+      "excerpt": "\"History will record that the scam didn't succeed,\" George Conway wrote in an op-ed excoriating Trump's effort to overturn the election.",
+      "sourceUrl": null,
+      "webUrl": "https://businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12",
+      "originalUrl": "https://businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fd2968d7b7e0500191074ca?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12?amp",
+      "publishedDateTime": "2020-12-10T14:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-kamala-harriss-husband-will-teach-at-georgetown-law-school.md",
       "title": "Kamala Harris’s husband will teach at Georgetown Law school",
       "excerpt": "Vice President-elect Kamala Harris’ husband Douglas Emhoff will join the staff of Georgetown University’s law school next month. Emhoff, 56, will be the first non-female and first Jewish ...",
@@ -1241,119 +1350,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-senate-fails-to-block-trump-backed-arms-sale-to-united-arab-emirates.md",
-      "title": "Senate fails to block Trump-backed arms sale to United Arab Emirates",
-      "excerpt": "The Senate on Wednesday failed to pass two disapproval resolutions pushed by a bipartisan group of senators to block a $23 billion US arms sale to the United Arab Emirates that was approved by the Trump administration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jVRB1oQWfZQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jVRB1oQWfZQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/121231065730-capitol-hill-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/united-arab-emirates-senate-vote-fail/index.html",
-      "publishedDateTime": "2020-12-09T17:18:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-live-updates-trump-legal-team-dismisses-safe-harbor-deadline-pledge-to-continue-fight.md",
-      "title": "Live Updates: Trump legal team dismisses 'safe harbor deadline,' pledge to continue fight",
-      "excerpt": "The Trump campaign legal team on Tuesday dismissed the importance of the \"safe harbor deadline\" and indicated they intend to keep going with their legal fight of the election results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020",
-      "originalUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/855b0975-a82d-44dd-9ee9-e16eee6933da/80778d32-d6f8-43fa-917e-4bfbf73968d2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-legal-12-8-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-8-2020.amp",
-      "publishedDateTime": "2020-12-09T16:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

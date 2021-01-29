@@ -44,6 +44,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "As McCarthy seeks unity with Trump, Gaetz slams Cheney in Wyoming amid speculation over primary challenges"
+    excerpt: "Rep. Matt Gaetz traveled to Wyoming on Thursday to call for the ouster of House Republican Caucus Chair Liz Cheney over her vote to impeach former President Trump, underscoring the divisions in the GOP at grapples with its identity in the wake of Trump's presidency.   "
+    publishedDateTime: 2021-01-29T13:01:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mVoZKxaw4Jk/liz-cheney-matt-gaetz-kevin-mccarthy-donald-trump-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-matt-gaetz-kevin-mccarthy-donald-trump-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-matt-gaetz-kevin-mccarthy-donald-trump-republicans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "McCarthy Tries to Mend Fences With Trump"
     excerpt: "House Republican leader Kevin McCarthy, who criticized former President Trump over the Capitol riot, discusses 2022 election goals with him in Florida visit."
     publishedDateTime: 2021-01-28T22:25:00Z

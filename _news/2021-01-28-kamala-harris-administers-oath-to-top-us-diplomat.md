@@ -3,18 +3,18 @@ category: news
 title: "Kamala Harris administers oath to top US diplomat"
 excerpt: "America’s new top diplomat took the helm of the State Department on Wednesday with a vow to rebuild the ranks of the foreign service and rely on its expertise as"
 publishedDateTime: 2021-01-27T18:56:00Z
-originalUrl: "https://www.stltoday.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_6c142af6-9a3b-5b9a-b836-a960257c49a9.html"
-webUrl: "https://www.stltoday.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_6c142af6-9a3b-5b9a-b836-a960257c49a9.html"
-ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_6c142af6-9a3b-5b9a-b836-a960257c49a9.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_6c142af6-9a3b-5b9a-b836-a960257c49a9.amp.html"
+originalUrl: "https://tulsaworld.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_e3ada776-f487-5495-bb9a-4ffe39ea2dcc.html"
+webUrl: "https://tulsaworld.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_e3ada776-f487-5495-bb9a-4ffe39ea2dcc.html"
+ampWebUrl: "https://tulsaworld.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_e3ada776-f487-5495-bb9a-4ffe39ea2dcc.amp.html"
+cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_e3ada776-f487-5495-bb9a-4ffe39ea2dcc.amp.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - Election
@@ -261,6 +261,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "C0alGpMgyDAB7EWubn8qrN6wqLcb/JZtbpC4vjwyMZ7OZV1FtDU+tEdaoMVZgsWZSz054q9UxHe+4BPUdOUc0Bfy+p8BwdDJNvKUTMnCgcOEIw6DMV3BUSHiUq0SpPTdFLUzVRBNBTMAckEXOd4lbi49t53cnjoDEWgdse+9tPNuqPBrI97OSr5wWso/ekVubm97U84Jgkba6MtvJQ1fzhJGzRbzfuEeKbxEyZp9LPKyV86biJW2UF1LDlHI97YgGEg5xyLBpgH5qlDRgSA5x2Yr90tQ4TT9dm7sZ24NRVdzCfCMFhWn07oq/H/A1o9qcjzmZ+qc1ZnhqRw8aqmU4Xi7tOIR3aNpI/AAfV1uIXjE3ta9omFixEtm0ewFvagtf2+fdKFoSDNJNElsKlyT9X8h24sqN8OzoSWd0shzLA2Tmx5+18gZfAWouC/ETbKBKViEF68bCvBoOyMFO6mfu64Wt93+FSmPpNTaEo1kbf6ianDJE4DQWwmTHP5OYZg9PQvW/ynQAB32ernFUK1Ipg==;/uFBlQAzouXhcl2O29vLuw=="
+secured: "2qMsNLplVY8ovnTF77CL6BpigNSI/bxjDPTpFhBESFjGY5qt2vtkagA1vAUciosJWJnjCzaznOaAqs336Y5rJY3ZAvKtrUgdmJA4kmg4oSIoUiHVfAk7KuBk8DsxYvo+YyvuOeqVfHXUp9j9Com2mgrVbYFdVpqPQjTKsUqMDXFTLOeSnnRmGi1HnpP4LTu0zR4uTiufhZBJsYkId2O8FOQnu83S4IzM8WYEkkWIurYl1uHpR/XsJCo1AzG3lbCPIp3jOmroopJFZwryymPsWUhT2sMvQO910+3uS7Q/wUtoTXebZemiBcpDtvuquHbCalOFn31SrYrQhVTH81dqt4sSafk3Ch1kGt4WEmf8s1you6JQAE2y7N2iE3iAaq7CtyEsZ8PI5lOz2j+9bdstnGrdi60duG3LvtMcxEnXkOGegIDl6Y72tL0g0tfcVYEn9PtzugF0rf3z8ml646HahmlPpY82pBG5h3L4XFPzg4q6tfIUlZQty2EVfQjVk/aIvdikYYoCWjsnuhrY94kjWw==;tgAkh8o4LjK5U9jIMQP06g=="
 ---
 
