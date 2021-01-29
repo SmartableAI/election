@@ -2,9 +2,9 @@
 category: news
 title: "Republican bill seeks to block Biden's federal lands oil leasing halt"
 excerpt: "Republican senators from oil-producing states introduced legislation on Thursday that would block the Biden administration's order pausing new oil and gas leasing on federal lands."
-publishedDateTime: 2021-01-29T03:02:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-congress-drilling/republican-bill-seeks-to-block-bidens-federal-lands-oil-leasing-halt-idUSKBN29X2T2"
-webUrl: "https://www.reuters.com/article/us-usa-congress-drilling/republican-bill-seeks-to-block-bidens-federal-lands-oil-leasing-halt-idUSKBN29X2T2"
+publishedDateTime: 2021-01-29T01:23:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-congress-drilling-idUSKBN29X2T2"
+webUrl: "https://www.reuters.com/article/us-usa-congress-drilling-idUSKBN29X2T2"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29X2T2"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29X2T2"
 type: article
@@ -447,6 +447,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden administration halts effort to install Trump loyalists on Pentagon advisory boards"
+    excerpt: "The Biden administration has halted an effort to install several Trump loyalists on Defense Department advisory boards, Pentagon officials said Wednesday, as the new administration considers a series of unusual appointments that were made in the waning days of the Trump administration."
+    publishedDateTime: 2021-01-29T06:03:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/2021/01/28/biden-administration-halts-effort-install-trump-loyalists-pentagon-advisory-boards/"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/2021/01/28/biden-administration-halts-effort-install-trump-loyalists-pentagon-advisory-boards/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2021/01/28/biden-administration-halts-effort-install-trump-loyalists-pentagon-advisory-boards/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ISCDBIRWPAI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Trump economy left Black Americans behind. Here’s how they want Biden to narrow the gaps."
     excerpt: "Black Americans propelled Biden to the presidency. Now they’re counting on him to deliver on his promise to end systemic racism."
     publishedDateTime: 2021-01-22T20:41:00Z
@@ -689,8 +705,8 @@ related:
         isCached: true
   - title: "Biden signs healthcare order to undo Trump 'damage' as US detects two South Africa Covid variant cases – live"
     excerpt: "Two unconnected cases of variant identified in South Carolina, while president signs executive orders to expand healthcare access"
-    publishedDateTime: 2021-01-29T00:42:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-601351388f0895a273684c18"
+    publishedDateTime: 2021-01-29T01:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-601355268f08653792879b27"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
     type: article
@@ -1019,6 +1035,6 @@ related:
       domain: usnews.com
     quality: 58
 
-secured: "/UxHzipiiPzWtbu9896xO1BD3qFUs9l4Me5Ccua99NU9AVM54fPUaYSlXZVlax0JjQZJR8NlmeALj7oQZyBURr8aPX4L1/tJ7xSlUz45cN9BU+Wzpt1bl2fiYywbDpf/REmKOJJVX/NcKFqhRMzI+Wt0Fbo8gMM0rGl6IUJ7LIy6q4iOOXSsbOo7HyXWl9SkUIedWl5Nw+EoAX10JmI8gxBRx0OTWpCK9xAHVUgflpu1iBNKFYhom1rCRWkjVzqKjuhrOyLH4acyS9Xi6ss2g4GdcQ9zMre7AiqNuVP2w0GqT6pF1vlCsoU0wE0APLtPAzTzmiScN4LpKGqCoaCx5BmsznwWQVcbCR+z4X39UiU=;6sUTUgg5cgqRXNWCFsLUgg=="
+secured: "/tEMO/X/W+vS2ukcJvAE2FMDQpqfeoLguodX4KPG1NnFRaEeq+lwAdX30AWbtf8G64+JzjssIy985Evqg9mLMmOiJwYH68D8Emuw68svd8A+/m8V/qltcjkJhH81sUC6xYSJnyxbx2IeFRC/wB+AYEItG/nn+xXGhLNOpHsEnv+FU34pu6dsxvj0TkCI/THEe2Sd+9p+HwXy9B9T4JY6Z+NXHdNf6J1+t4Ge/C6yPHOGWcgjVvK3aK0/RNTpdCrTB08GGM1HwOqHWtISRyRGVjYd0JTAw+1L/+8pnH92XUlffR32TSm7znzNueMzf7ioeqzrZ5rQjf2UoHx4TcCoJ0hAqxBunmKWyZPxcAjuhbw=;AQ9eWqnrPpfxcXRjJuYIdw=="
 ---
 

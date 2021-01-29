@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q30X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q30X"
 type: article
 quality: 125
-heat: 1205
+heat: 1225
 published: true
 
 provider:
@@ -510,6 +510,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IMAXTRTAAYI6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "GOP Sen. Rob Portman says Trump impeachment trial post-presidency could set a dangerous precedent"
+    excerpt: "Republican Sen. Rob Portman of Ohio explains why he joined 44 other Republicans to reject the constitutionality of impeaching former President Donald Trump."
+    publishedDateTime: 2021-01-29T06:54:00Z
+    webUrl: "https://www.cnbc.com/2021/01/28/gop-sen-says-trump-impeachment-trial-could-set-a-dangerous-precedent.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/gop-sen-says-trump-impeachment-trial-could-set-a-dangerous-precedent.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/gop-sen-says-trump-impeachment-trial-could-set-a-dangerous-precedent.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 112
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106829332-1611590056858-gettyimages-1230674125-SENATE_MAYORKAS.jpeg?v=1611590145"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "As the numbers suggest a Trump acquittal, Senators explore censure and brace for impeachment trial"
     excerpt: "Senate Democrats explored how to make their impeachment case against former President Donald Trump a day after a vote suggested he will be acquitted."

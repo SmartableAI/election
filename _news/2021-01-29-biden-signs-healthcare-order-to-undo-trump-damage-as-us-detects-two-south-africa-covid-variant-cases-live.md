@@ -2,9 +2,9 @@
 category: news
 title: "Biden signs healthcare order to undo Trump 'damage' as US detects two South Africa Covid variant cases – live"
 excerpt: "Two unconnected cases of variant identified in South Carolina, while president signs executive orders to expand healthcare access"
-publishedDateTime: 2021-01-29T00:42:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-601351388f0895a273684c18"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-601351388f0895a273684c18"
+publishedDateTime: 2021-01-29T01:00:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-601355268f08653792879b27"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-601355268f08653792879b27"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
 type: article
@@ -447,6 +447,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden administration halts effort to install Trump loyalists on Pentagon advisory boards"
+    excerpt: "The Biden administration has halted an effort to install several Trump loyalists on Defense Department advisory boards, Pentagon officials said Wednesday, as the new administration considers a series of unusual appointments that were made in the waning days of the Trump administration."
+    publishedDateTime: 2021-01-29T06:03:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/2021/01/28/biden-administration-halts-effort-install-trump-loyalists-pentagon-advisory-boards/"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/2021/01/28/biden-administration-halts-effort-install-trump-loyalists-pentagon-advisory-boards/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2021/01/28/biden-administration-halts-effort-install-trump-loyalists-pentagon-advisory-boards/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ISCDBIRWPAI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Trump economy left Black Americans behind. Here’s how they want Biden to narrow the gaps."
     excerpt: "Black Americans propelled Biden to the presidency. Now they’re counting on him to deliver on his promise to end systemic racism."
     publishedDateTime: 2021-01-22T20:41:00Z
@@ -641,8 +657,8 @@ related:
         isCached: true
   - title: "Republican bill seeks to block Biden's federal lands oil leasing halt"
     excerpt: "Republican senators from oil-producing states introduced legislation on Thursday that would block the Biden administration's order pausing new oil and gas leasing on federal lands."
-    publishedDateTime: 2021-01-29T03:02:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-drilling/republican-bill-seeks-to-block-bidens-federal-lands-oil-leasing-halt-idUSKBN29X2T2"
+    publishedDateTime: 2021-01-29T01:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-drilling-idUSKBN29X2T2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29X2T2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29X2T2"
     type: article
@@ -1019,6 +1035,6 @@ related:
       domain: usnews.com
     quality: 58
 
-secured: "EAOb2mraQxPRbL3fiG+uwnLYAkhmA9KbYOwRsCDiBvqWetYJeHnCd3/5fI2BtdUjjGqTR/uEAB156pEo6uxDX0pfOgI7XUiohT9hZv+9WIUHUILKWNKNgHD+VU9dYmCqooPYdG9im2NDjj+5Z2Og3iicum9EViOZIlAi9i7pzJpHSgMCBLjBSDKeatfzH+I+mR0TCOgi+DFT7zZDUXvX0fuidI58k26MzlpPYhnYkIlJYhlUE34qraEhKJRm/Knm9XFgjIGD5/3Uo7KU4oN/8qKcCqyA/sSiFlgOED1Zt0OVqVpR4bO3/UMdqLVz2jp3h2CZDV5BBxxPZj4cCLE9TgznkC4czTCALDNTHxtHLLc=;Ltztb0/w0Zk//GzYTbDwbw=="
+secured: "ynKjOmCznoTa+Pw7ikkEKCDANU61Y+Of7I3ussoTyEKpK2EyHUGIMxoimz6W7XnbMcUXzd78fmwtcFomzfXBOyxdOBxpQ/QAa0zl5blNCrjfSMM6uJ6UuM8H226Dh7fHK8FSPaQBnT8yeWUVe1QEghgv0eAXVh153/Zw4phIesRIx1s5BO5UpdEjfxAB9sMAwiPJi34yYHabsEFHWjw+m8mNEmirSbWxRK77unk60HcHbkI1cLCyA4NwXtkkLzcSkqnA4mt/S7IlcJLwF52+xW+3kQfw02kfY83h3cxGghMGFlGWFF3RZVGtitzIPwy3XrFtek1QIQqHKIg7geFAiWe2s78MFnkuzcdyGGJvGJ8=;SY5WpCOt/zgEh+4zsvh3OQ=="
 ---
 

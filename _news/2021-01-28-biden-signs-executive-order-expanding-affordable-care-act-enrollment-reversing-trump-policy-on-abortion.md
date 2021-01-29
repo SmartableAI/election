@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expandi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
 type: article
 quality: 173
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://images.wsj.net/im-291590/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Biden signs executive orders expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
+    excerpt: "President Biden on Thursday signed a pair of executive orders expanding access to the Affordable Care Act during the coronavirus pandemic and rolling back some of the anti-abortion measures implemented by the Trump administration."
+    publishedDateTime: 2021-01-29T04:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21025646646363.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "cEJcrJldbjNliqvtIxIzRPbxFOJoIUbzZAC3ApYbigvx+EmWFBo8IGsMX15GwWAd1vbFRWsOYaaxmzG6svya1TiQLviqbjJnlIjcosUaK6aAmvF9JbQAnInOG/PKVfHrUVlM4gmZv7iZYPcm1+c89EmIzSzyA+n4Xwrpx7zdTLP7seijvmTpgVwu8PCBCByQoI/yPpeIrid76b7fEPY04Zz0bhYLdEkIQ2ra9k9ku0yZrUIm9EnFudscc35uBBf+/L7R8wv/CvzIFpuPP6vue5fVic8c1qrSTHFGwuYZ5tbd7dvnalRRgauidrogjx/01lN3NtVifvXJPuV/99lkFrs2uK4RNNMC6t30KPrFDq4=;AdapDR1eVjDQ/pYkJsxPow=="

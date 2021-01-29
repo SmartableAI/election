@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden signs executive orders expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
+    excerpt: "President Biden on Thursday signed a pair of executive orders expanding access to the Affordable Care Act during the coronavirus pandemic and rolling back some of the anti-abortion measures implemented by the Trump administration."
+    publishedDateTime: 2021-01-29T04:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21025646646363.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Jf9WaIrPMCKATQ4JGXRSHWSXUny4OPeAvid1YTQQXl4bSdV8qeb+6+HyI8xGH2/rJV2V59dUj5Jdoid+eoZyWRCDi9CukMHNdEjiEVdcFoqaqMqVFJX56cj4errtWYkxihkjKDubeEcl4dnnxBrmS3G8BBQ+JJCWOUwHE9OewH/Eht6lRB6hUE6T3PTKMSk8zJL/jNaONO0RqTq/3zI1H5jWoefsK5dZatVwiYH9jq/Ajw63PP96l8Mc6BDyODh8p4F99grwYZlPT/hjhw4kPal8uXQ5FM8Q7+/INb6mXPjo6ozlwQNWwo/57oLGFvF0GpQ1U42dB1f11XOkXKLll1YBLnpGC2goOqEfTyqgG5ZAxz4cs4hVvrGJEL+qHgNkhHDLL11sUozaT1k0B0WHXW5VS5o/hJSIovBmjiqRy8Kp5/HtOpgiGUKplpzXhXyPeLZjLTfh1KAc/FakXrI3hK/VpxnVd7VF4mR2BigevQR2UiXxRy1C9YSvvvkFo0qpmqxR3nIFht7UBRU5nOvVtw==;EafvzEiBcksrukpU3qyYww=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/twitter-jill-biden-potentially-being-more-ac
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571?amp=1"
 type: article
 quality: 70
-heat: 90
+heat: 110
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Melania Trump Snubbing Husband Donald In Public Allegedly Just For ‘Distraction’"
+    excerpt: "Melania Trump snubbed her husband Donald Trump in public to distract the crowd, according to her former aide, Stephanie Winston Wolkoff."
+    publishedDateTime: 2021-01-29T02:51:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-snubbing-husband-donald-public-allegedly-just-distraction-3132996"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-snubbing-husband-donald-public-allegedly-just-distraction-3132996?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-snubbing-husband-donald-public-allegedly-just-distraction-3132996?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-and-his-wife-melania-left-washington.jpg"
+        width: 1024
+        height: 668
+        isCached: true
   - title: "Melania Trump Allegedly Snubbed Husband Donald In Public To Create A ‘Distraction’"
     excerpt: "Melania Trump snubbed her husband Donald Trump in public to distract the crowd, according to her former aide, Stephanie Winston Wolkoff."
     publishedDateTime: 2021-01-29T02:51:00Z

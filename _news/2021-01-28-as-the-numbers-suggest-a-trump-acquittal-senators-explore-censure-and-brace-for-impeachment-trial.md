@@ -527,6 +527,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "GOP Sen. Rob Portman says Trump impeachment trial post-presidency could set a dangerous precedent"
+    excerpt: "Republican Sen. Rob Portman of Ohio explains why he joined 44 other Republicans to reject the constitutionality of impeaching former President Donald Trump."
+    publishedDateTime: 2021-01-29T06:54:00Z
+    webUrl: "https://www.cnbc.com/2021/01/28/gop-sen-says-trump-impeachment-trial-could-set-a-dangerous-precedent.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/gop-sen-says-trump-impeachment-trial-could-set-a-dangerous-precedent.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/gop-sen-says-trump-impeachment-trial-could-set-a-dangerous-precedent.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 112
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106829332-1611590056858-gettyimages-1230674125-SENATE_MAYORKAS.jpeg?v=1611590145"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Power Up: And then there were five. Republicans, that is, willing to hold a Trump impeachment trial"
     excerpt: "Mitch McConnell isn't breaking with Trump, after all, as he voted to dismiss the impeachment trial because, 45 Republicans say, it's unconstitutional to convict a former president."
     publishedDateTime: 2021-01-27T16:21:00Z

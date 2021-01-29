@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Hannity challenges Biden to ground government jets to support climate change agenda"
+    excerpt: "Joe Biden and members of his administration should practice what they preach about climate change and decline to fly on their environmentally-unfriendly fleet of jets, Sean Hannity suggested Thursday."
+    publishedDateTime: 2021-01-29T05:07:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-challenges-biden-to-ground-government-jets-to-support-climate-concern"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-challenges-biden-to-ground-government-jets-to-support-climate-concern.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-challenges-biden-to-ground-government-jets-to-support-climate-concern.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83e8d145-dcf7-44a3-aa7b-fa8998107ae1/50e0632b-09fc-4e6e-b99a-c95c4702b5ac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "1O2j3tg/wvCVyprz8yhyxX+aReP1a0YBKELyB+Njix+UuudtypAceYJXuM63Oq8ru4CGeFPAI+Js7Lzjor7cuUDv02hiq9lKbXf0G51F1kBV95C9eROpQj+pV+QFL/6iqJkNAcx441em4lYedVFFufeWRLhPOvi4iTS9LxnleYIRs1DZkrwSZVi1e/ROqix2kfF+1yVhZi5U1LvoYiWtyrCCh2VSczAHRNjmjQh/f9x69X9HaeyQbH15gLXxcdlwQ6oD0XsL19knkG6+d3RQKTWy8c35qOfYZj+WqSVZcNSeSLJS00UcxSCC1CXQmSxMMdbujhK/5Q2+nHLOGOMt6f/+UZvc7A7vvouP9e5af1c=;KRjgRri4i9xaQR6mF2YBsw=="
 ---
