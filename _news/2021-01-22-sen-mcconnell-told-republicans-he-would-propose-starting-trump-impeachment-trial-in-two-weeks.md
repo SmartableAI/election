@@ -318,6 +318,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "At Wyoming rally, Trump ally Gaetz blasts Cheney over impeachment"
+    excerpt: "One of former President Trump’s top supporters in Congress held a rally Thursday in Wyoming to blast the state’s sole House member – Rep. Liz Cheney – the most high profile House Republican to vote two weeks ago to impeach Trump."
+    publishedDateTime: 2021-01-28T23:00:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S3HslqUexI0/wyoming-rally-trump-ally-gaetz-blasts-cheney-impeachment"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Matt-Gaetz-Liz-Cheney.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Left-leaning groups pressure companies not to hire ex-Trump officials"
     excerpt: "The \"Campaign against Corporate Complicity\" calls for major corporations to pledge not to hire former senior Trump administration officials who helped to implement “cruel and anti-democratic policies."
     publishedDateTime: 2021-01-26T20:38:00Z
@@ -413,6 +427,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/chuck-Schumer.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "At Wyoming rally, Trump ally Gaetz blasts Cheney over impeachment"
+    excerpt: "One of former President Trump’s top supporters in Congress held a rally Thursday in Wyoming to blast the state’s sole House member – Rep. Liz Cheney – the most high profile House Republican to vote two weeks ago to impeach Trump."
+    publishedDateTime: 2021-01-28T23:03:00Z
+    webUrl: "https://www.foxnews.com/politics/wyoming-rally-trump-ally-gaetz-blasts-cheney-impeachment"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Matt-Gaetz-Liz-Cheney.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "dgqulavB30LDSNGiGuTXwNhj3bz9uNH2i31NXPny3x3W9zoXPhStz6Bw+AdFw2nj9l4a7BZ69g6nQy8bkMuklnPFMfdVeHh33gtHu5tGnYEGW2mK4VO7Y/Nn89CI+Di2Y8kLh1KJ692pR9csnRvPhWsxFbtKPNDr7lntCOgJc95Qcwhraj9mH/AiK1lmn+WQjnc6guSl82BoIi4Ev7DZQbHZFQAKLJ1VJUyjBduYsuBmM/DgYGy5bqQ6c3kA3MLH4qczJP9hAsgBzCCnFFcf5WTGe9UhllNmj/3WOb+iVi9oPyRcjf9K/G9FidMa9P2cCgOse47Mr/AZKZ8gyIFm+GX39xbRIh/iAK8pwWoXi0E=;lKP56SdEEjf5XbZ6yk2rfQ=="

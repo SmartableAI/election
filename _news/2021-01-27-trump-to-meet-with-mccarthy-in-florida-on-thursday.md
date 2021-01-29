@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-mee
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump targets Cheney as he unites with McCarthy"
+    excerpt: "Former President Donald Trump is focusing his political energy on targeting Rep. Liz Cheney, the third-ranking House Republican, who voted for Trump's impeachment earlier this month.\n    \n"
+    publishedDateTime: 2021-01-29T00:53:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bn2rpTSzVkc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/donald-trump-cheney-mccarthy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/donald-trump-cheney-mccarthy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128192549-mccarthy-trump-cheney-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McCarthy and Trump discuss Republicans' plans to win House majority at Florida meeting Thursday"
     excerpt: "Former President Donald Trump and House Minority Leader Kevin McCarthy met Thursday at Trump's Mar-a-Lago estate in Palm Beach, Florida, where the two Republicans discussed strategy for winning the House majority in next year's mid-terms, according to a readout of the meeting provided by Trump's Political"
     publishedDateTime: 2021-01-28T20:48:20Z

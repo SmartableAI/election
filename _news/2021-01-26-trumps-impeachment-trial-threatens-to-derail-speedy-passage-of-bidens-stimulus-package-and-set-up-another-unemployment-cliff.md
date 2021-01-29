@@ -447,22 +447,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden signs healthcare order to undo Trump 'damage' as US detects two South Africa Covid variant cases – live"
-    excerpt: "Two unconnected cases of variant identified in South Carolina, while president signs executive orders to expand healthcare access"
-    publishedDateTime: 2021-01-28T20:43:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-6013210d8f08afe716c72830"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 131
-    images:
-      - url: "https://i.guim.co.uk/img/media/4701cde480ee3378ee9f8147cd15c5e25bd347bf/0_190_5436_3262/master/5436.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=98046c3ee26cfd443786ce914eab3313"
-        width: 600
-        height: 360
-        isCached: true
   - title: "The Trump economy left Black Americans behind. Here’s how they want Biden to narrow the gaps."
     excerpt: "Black Americans propelled Biden to the presidency. Now they’re counting on him to deliver on his promise to end systemic racism."
     publishedDateTime: 2021-01-22T20:41:00Z
@@ -686,6 +670,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549280212&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1HF"
         width: 782
         height: 545
+        isCached: true
+  - title: "Biden signs healthcare order to undo Trump 'damage' as US detects two South Africa Covid variant cases – live"
+    excerpt: "Two unconnected cases of variant identified in South Carolina, while president signs executive orders to expand healthcare access"
+    publishedDateTime: 2021-01-29T00:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-601351388f0895a273684c18"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/67249365d71092befe11ccc46dbf958aad4fe29f/4_10_3492_2094/master/3492.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ff5a5863e8d13f8ea547a344ca7da09"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden cleans house at VOA after revolt over Trump changes"
     excerpt: "The Biden administration has moved quickly to remove a number of senior officials aligned with former President Donald Trump from the Voice of America and the agency that oversees all U.S.-funded international broadcasting."

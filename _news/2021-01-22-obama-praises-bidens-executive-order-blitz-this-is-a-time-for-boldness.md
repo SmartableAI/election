@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-praises-biden-executive-order
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness.amp"
 type: article
 quality: 173
-heat: 213
+heat: 233
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Catholic bishops slam Biden’s 'grievous' executive order funding overseas abortion providers"
+    excerpt: "Roman Catholic bishops are condemning President Biden's decision to reverse a policy that blocks funding for overseas abortion providers, calling a recent executive order on the issue \"incompatible with Catholic teaching.\""
+    publishedDateTime: 2021-01-28T23:57:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TSQSAPzP_xk/catholic-bishops-slam-biden-mexico-city-abortion"
+    ampWebUrl: "https://www.foxnews.com/politics/catholic-bishops-slam-biden-mexico-city-abortion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholic-bishops-slam-biden-mexico-city-abortion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28dd9146-caf4-4c06-b874-45d449d2b677/321e8c76-a4ae-41d7-ab50-16cf80f33e89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "4MvqBIaeyfX8qQqjoi60uYbVj+8+p8jGa8zgUytbKC2ZZH8HJt7kvCeJtbMI0L7LDOw21BOKoxyQQfuiknseCL6wcAANrOCmjiFdlUCFZpwlb/9KnS34erGIDGGs7I4WPZY0OvsvdWKh6eahtgpMGMMioz4MRdFDwXIN1M1dyV5eU1a2+FW/nfpu0GgtUE6PHQl0wgkYA0lHZF/kG/IR1U9Z98PtTyIBJ2OsXkyDisOzvnQIYFfnE3OZP0XlHjthiu0ZvpSi8TSlpZPnJUkFpXzyAJdZtzY7yGJyCcRKu/yn+ffg3sMgZ+cKH4wsxaD7LQ1TzEDPLjLos8bCgDa3XZvrqSzeW1InFGxO7hH/LSM=;li81pG1hTXQbfapX/OCfGw=="

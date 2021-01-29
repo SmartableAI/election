@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-rubio-senat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-rubio-senate-republicans.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Donald Trump Fought For Us. Now It's Our Turn"
+    excerpt: "Trump invited the American people to fight back. We can argue over whether he was a carnival clown, but it was wildly successful."
+    publishedDateTime: 2021-01-28T22:54:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/27/donald_trump_fought_for_us_now_its_our_turn_534525.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/532922_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "K2VKxob/gBtaVNHJco2OBbRuOA8GSRh6znRTO27gqtjrebDurCgDSesMyufTJIgUvfrEh4lOL4KF8rz5WVO7kVUZuHUEYC7rI0Bu7jCzUlRh8Sfq+/dTAk83iumQPxziK5H4I3wkWdUYojxtnejIXGxPZlup7aZ/L9loQabvbtDjwI3OrLjCLV30/RPnbLcbMgZ9PVFokz9dbLbW2XOS8ZptXlOeqadkZFVfh6E2kB6cwCS/Ntv38OWYPV/JFsQPQM1u1Gh7e1mL9gdHJMwn/zdxZOyVloItqj4NkstFU1ODgJD131ZUYTeFJKZDglBLulrTbe3YBB3IUujJ2Fq0nXv0OO+SBuPZCTtKzbfgZI0=;btZLjh7/P1zkjnZW45lFVw=="

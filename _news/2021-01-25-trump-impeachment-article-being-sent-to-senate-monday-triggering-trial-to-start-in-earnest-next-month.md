@@ -320,6 +320,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "At Wyoming rally, Trump ally Gaetz blasts Cheney over impeachment"
+    excerpt: "One of former President Trump’s top supporters in Congress held a rally Thursday in Wyoming to blast the state’s sole House member – Rep. Liz Cheney – the most high profile House Republican to vote two weeks ago to impeach Trump."
+    publishedDateTime: 2021-01-28T23:00:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S3HslqUexI0/wyoming-rally-trump-ally-gaetz-blasts-cheney-impeachment"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Matt-Gaetz-Liz-Cheney.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Left-leaning groups pressure companies not to hire ex-Trump officials"
     excerpt: "The \"Campaign against Corporate Complicity\" calls for major corporations to pledge not to hire former senior Trump administration officials who helped to implement “cruel and anti-democratic policies."
     publishedDateTime: 2021-01-26T20:38:00Z
@@ -399,6 +413,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "At Wyoming rally, Trump ally Gaetz blasts Cheney over impeachment"
+    excerpt: "One of former President Trump’s top supporters in Congress held a rally Thursday in Wyoming to blast the state’s sole House member – Rep. Liz Cheney – the most high profile House Republican to vote two weeks ago to impeach Trump."
+    publishedDateTime: 2021-01-28T23:03:00Z
+    webUrl: "https://www.foxnews.com/politics/wyoming-rally-trump-ally-gaetz-blasts-cheney-impeachment"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Matt-Gaetz-Liz-Cheney.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Sen. McConnell Told Republicans He Would Propose Starting Trump Impeachment Trial in Two Weeks"
     excerpt: "Senate Minority Leader Mitch McConnell told Republicans he would propose starting former President Donald Trump’s impeachment trial in two weeks to give his legal team time to prepare, GOP aides said Thursday."

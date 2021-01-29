@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Catholic bishops slam Biden’s 'grievous' executive order funding overseas abortion providers"
+    excerpt: "Roman Catholic bishops are condemning President Biden's decision to reverse a policy that blocks funding for overseas abortion providers, calling a recent executive order on the issue \"incompatible with Catholic teaching.\""
+    publishedDateTime: 2021-01-28T23:57:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TSQSAPzP_xk/catholic-bishops-slam-biden-mexico-city-abortion"
+    ampWebUrl: "https://www.foxnews.com/politics/catholic-bishops-slam-biden-mexico-city-abortion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholic-bishops-slam-biden-mexico-city-abortion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28dd9146-caf4-4c06-b874-45d449d2b677/321e8c76-a4ae-41d7-ab50-16cf80f33e89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "hdmzootgPBo4poALfvxqzxqpdA/GRhe8xm3cHsF4PzJGJD7L6pGAdLBsuI6LUYOF0BGQMnbDaH7JT4Q90i1cS0uUHBHHEN8kIRteWx3+N40aM8YOt9ReHg1D+0VkLvCO+Fk4tsZd8etELcjdzHhSzfHk/GQcRWXOXrgTVLd68rYjEed7wIRQ0MF84+Ls4rxlJDOxfMusnCNgkelr+UleNWqTt7ZOk7IgFbqsi8iOzWNWN9bYX5x5GJHZicTLvBZAiMqfHc21oR8PsVHP+OCZzkgOQ6g8I5ni8ymJU0cHRgR6fqNLljs2CKeUdadgIkA+FR+FRTPOO4+CV6rFX0v6B+QNpAepp2GhGl3y60SgJo0=;hznCRpizNsUjEhwKlk8bCw=="
 ---

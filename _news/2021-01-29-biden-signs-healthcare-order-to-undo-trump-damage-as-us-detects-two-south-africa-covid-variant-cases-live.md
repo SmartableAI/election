@@ -2,13 +2,13 @@
 category: news
 title: "Biden signs healthcare order to undo Trump 'damage' as US detects two South Africa Covid variant cases – live"
 excerpt: "Two unconnected cases of variant identified in South Carolina, while president signs executive orders to expand healthcare access"
-publishedDateTime: 2021-01-28T20:43:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-6013210d8f08afe716c72830"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-6013210d8f08afe716c72830"
+publishedDateTime: 2021-01-29T00:42:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-601351388f0895a273684c18"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-601351388f0895a273684c18"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
 type: article
-quality: 131
+quality: 121
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/4701cde480ee3378ee9f8147cd15c5e25bd347bf/0_190_5436_3262/master/5436.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=98046c3ee26cfd443786ce914eab3313"
+  - url: "https://i.guim.co.uk/img/media/67249365d71092befe11ccc46dbf958aad4fe29f/4_10_3492_2094/master/3492.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ff5a5863e8d13f8ea547a344ca7da09"
     width: 600
     height: 360
     isCached: true
@@ -977,6 +976,6 @@ related:
       domain: usnews.com
     quality: 58
 
-secured: "+8Pja5tX3CI7Pg343x34cgjRViKCWs74Pfxr3PDuhIb6FvsnMYTjk4+pJwcL6iBO5Z2veER8wWpxofVHYokanzJQaWMwuwFeVZA1WDm3FaG22eGAtGSTreVBeUAVypvtlOEzZ6eEkpZMpyy12rxjeBOK00YPpd+YOua4gLuy/+h2dXBUBomFM5PxY8DS22jVH4T+NQQllpqp2r0U5azCBelSpgwIVlVKG4QqDvkvjHWLc9iumh8YTjm79hedQtvIQyMobPzzWIUpjdp8K8RTwIxsOdaAAdlB3OO7aLtrTU4biSWKRjzYjcWQHXKjdZo6041CwUtVOB/8EEBENxWzjH3ix+V7otlvjiwoIuMUAnI=;8eQ54UiejuWvvy3F3UmYmA=="
+secured: "EAOb2mraQxPRbL3fiG+uwnLYAkhmA9KbYOwRsCDiBvqWetYJeHnCd3/5fI2BtdUjjGqTR/uEAB156pEo6uxDX0pfOgI7XUiohT9hZv+9WIUHUILKWNKNgHD+VU9dYmCqooPYdG9im2NDjj+5Z2Og3iicum9EViOZIlAi9i7pzJpHSgMCBLjBSDKeatfzH+I+mR0TCOgi+DFT7zZDUXvX0fuidI58k26MzlpPYhnYkIlJYhlUE34qraEhKJRm/Knm9XFgjIGD5/3Uo7KU4oN/8qKcCqyA/sSiFlgOED1Zt0OVqVpR4bO3/UMdqLVz2jp3h2CZDV5BBxxPZj4cCLE9TgznkC4czTCALDNTHxtHLLc=;Ltztb0/w0Zk//GzYTbDwbw=="
 ---
 

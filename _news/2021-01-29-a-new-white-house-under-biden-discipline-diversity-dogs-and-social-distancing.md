@@ -2,11 +2,11 @@
 category: news
 title: "A new White House under Biden: Discipline, diversity, dogs and social distancing"
 excerpt: "On the morning of Jan. 20, hours before Joe Biden arrived at the White House as the 46th U.S. president, a clear plexiglass shield was erected at the guard's desk at the entrance to the West Wing housing the executive offices."
-publishedDateTime: 2021-01-28T21:57:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-white-house/a-new-white-house-under-biden-discipline-diversity-dogs-and-social-distancing-idUSL1N2K13DR"
-webUrl: "https://www.reuters.com/article/usa-biden-white-house/a-new-white-house-under-biden-discipline-diversity-dogs-and-social-distancing-idUSL1N2K13DR"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29X2G1"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29X2G1"
+publishedDateTime: 2021-01-28T22:09:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-white-house-idINKBN29X2FX"
+webUrl: "https://www.reuters.com/article/usa-biden-white-house-idINKBN29X2FX"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29X2FX"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29X2FX"
 type: article
 quality: 120
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210128&t=2&i=1549422619&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0R1JA"
-    width: 817
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210128&t=2&i=1549419957&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0R1IJ"
+    width: 809
     height: 545
     isCached: true
 
@@ -488,6 +488,6 @@ related:
         height: 800
         isCached: true
 
-secured: "061ebu/wv1O2dj8bgDZ0P1tFjU4lbU5EouNbhoCdehl7NiVB0C8NwpihwL7dzqlZ78itABCuUWU/9jGcA2l01XmYpbM1JsZA1JEjspIWw+wtFlKM0fRC5qmqv7+3mh721w3z/M4t0fmkIgOdytPRpdv5uq7IrU2wWTll4eP5tbdBPH8FokETLs4sXcdalUMpV0WAPTWdcEjhJ6yi4EUsKi4AxcTyLdOi4h8++abzpfy7KXRakPhp3bB97WnZ2gAUIi+W+3jJ9ct/fp72zBuO+CCtnbX3fqm7FjxQz9Wtjw9JWYXeb7CHCCKLsZGD7wn9RmlFgnWDT09hamvv/14CRgQPYFKJymfU8/Kz/wXHOAM=;ZKMnTP/zg1Hz2DMRXSCdjg=="
+secured: "OcGf+1VYykriVVbK+GkKMlLmOg/aGpnFS9JeK9X8AdM7a0iP4oVDmSepi05nUnyAnkMOyI0EV0WN1IEYZFzSerho8Lgh8fLx+oNMVTRq9GRphROeag5k88Vtz2lOO+LjzMMYLzPiuy3IBVYS132F4EHn4jyfU6DyzIcy4DGU3PsNEwCPq1rHP3Y5QrHiu/bqvVa6YQO9bJGbLryBEoKqVfztWsd0S6SZYlCd/IPRhHd2B9uqvWMVxdKNsMVJPtfkQXI06AXb9OE/NQU8rMgmcokP8WJffK2QV1FDPITrySBXKfw70Ct2iXPaSw+V/2o9T43lif1dpI4Md14kPCvKK8bTTCErCnI82Il/5zptEIY=;V7AQ0yH1fyPnAK+dNcLdCA=="
 ---
 
