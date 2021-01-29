@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
 type: article
 quality: 166
-heat: 286
+heat: 306
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/b3/d9/6fec15f14316b8cfc913fc7c95a3/20210118-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump may poison the party, but Republicans have decided they need him"
+    excerpt: "A delicate dance is underway to keep some distance from the ex-president while also letting him know he’s beloved and welcomed."
+    publishedDateTime: 2021-01-29T02:50:00Z
+    webUrl: "https://www.politico.com/news/2021/01/28/republicans-need-trump-463684"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/28/republicans-need-trump-463684"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/28/republicans-need-trump-463684"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/2a/75/8fde41744d21b97d1a1c918237f4/ap21020485913788-1.jpg"
         width: 1160
         height: 773
         isCached: true

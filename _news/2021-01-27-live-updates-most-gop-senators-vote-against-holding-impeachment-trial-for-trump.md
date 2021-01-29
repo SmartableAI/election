@@ -256,6 +256,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "McCarthy Seeks Thaw With Trump as G.O.P. Rallies Behind Former President"
+    excerpt: "The top House Republican met with former President Donald J. Trump, working to mend fences after saying that Mr. Trump bore responsibility for the Jan. 6 attack on the Capitol."
+    publishedDateTime: 2021-01-28T22:41:00Z
+    webUrl: "https://www.nytimes.com/2021/01/28/us/politics/kevin-mccarthy-trump-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/28/us/politics/kevin-mccarthy-trump-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/28/us/politics/kevin-mccarthy-trump-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/28/us/politics/28dc-mccarthy-1/28dc-mccarthy-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump leaves office with little to show of his major promises, and a legacy of violent divisiveness"
     excerpt: "Donald Trump promised to end \"American carnage\" and \"Make America Great Again.\" Four years later, he leaves with those goals far from reach."
     publishedDateTime: 2021-01-20T08:14:00Z

@@ -45,6 +45,22 @@ related:
         width: 844
         height: 545
         isCached: true
+  - title: "Biden HUD, economist nominees pledge to fight inequality, spar with Republicans"
+    excerpt: "President Joe Biden's nominees for a key White House economic post and to lead the Department of Housing and Urban Development called on Thursday for more action to reduce inequities in the U.S. economy,"
+    publishedDateTime: 2021-01-29T01:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-nominees/update-1-biden-hud-economist-nominees-pledge-to-fight-inequality-spar-with-republicans-idUSL1N2K32C4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29X25A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29X25A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210128&t=2&i=1549422959&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0R1BR"
+        width: 712
+        height: 545
+        isCached: true
   - title: "Biden presses Putin on Navalny arrest and pushes arms treaty in first phone call"
     excerpt: "The White House said the president raised concerns about Navalny's arrest and Russia's treatment of protesters."
     publishedDateTime: 2021-01-26T19:08:00Z

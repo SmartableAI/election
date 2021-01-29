@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fox News's primetime ratings took a dive during Biden's inauguration"
+    excerpt: "Fox News took a hit during inauguration week after setting records for Trump's in 2017. A similar shift happened in 2013 for Obama's second inaugural."
+    publishedDateTime: 2021-01-29T01:17:00Z
+    webUrl: "https://www.businessinsider.com/fox-news-ratings-down-25-percent-year-to-year-primetime-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/fox-news-ratings-down-25-percent-year-to-year-primetime-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-ratings-down-25-percent-year-to-year-primetime-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/6011872f1d2df20018b71166?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden to reopen Obamacare markets to offer medical coverage during pandemic"
     excerpt: "President Biden plans to reopen the HealthCare.gov markets for a special sign-up opportunity for people without medical coverage in the pandemic."
     publishedDateTime: 2021-01-27T10:13:00Z

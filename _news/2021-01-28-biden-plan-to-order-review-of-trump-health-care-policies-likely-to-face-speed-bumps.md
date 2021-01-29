@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden Orders Review of Trump Health-Care Policies, but Move Likely Faces Bumps"
+    excerpt: "President Biden signed executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
+    publishedDateTime: 2021-01-29T02:27:00Z
+    webUrl: "https://www.wsj.com/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-291886/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "Jf9WaIrPMCKATQ4JGXRSHWSXUny4OPeAvid1YTQQXl4bSdV8qeb+6+HyI8xGH2/rJV2V59dUj5Jdoid+eoZyWRCDi9CukMHNdEjiEVdcFoqaqMqVFJX56cj4errtWYkxihkjKDubeEcl4dnnxBrmS3G8BBQ+JJCWOUwHE9OewH/Eht6lRB6hUE6T3PTKMSk8zJL/jNaONO0RqTq/3zI1H5jWoefsK5dZatVwiYH9jq/Ajw63PP96l8Mc6BDyODh8p4F99grwYZlPT/hjhw4kPal8uXQ5FM8Q7+/INb6mXPjo6ozlwQNWwo/57oLGFvF0GpQ1U42dB1f11XOkXKLll1YBLnpGC2goOqEfTyqgG5ZAxz4cs4hVvrGJEL+qHgNkhHDLL11sUozaT1k0B0WHXW5VS5o/hJSIovBmjiqRy8Kp5/HtOpgiGUKplpzXhXyPeLZjLTfh1KAc/FakXrI3hK/VpxnVd7VF4mR2BigevQR2UiXxRy1C9YSvvvkFo0qpmqxR3nIFht7UBRU5nOvVtw==;EafvzEiBcksrukpU3qyYww=="
 ---

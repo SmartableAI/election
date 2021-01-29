@@ -712,6 +712,17 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden administration to review Trump policy on Cuba: White House"
+    excerpt: "The Biden administration will review U.S. policy on Cuba, the White House said on Thursday, after former President Donald Trump rolled back a historic Obama-era detente with Havana."
+    publishedDateTime: 2021-01-29T01:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-cuba-whitehouse-idUSKBN29X2TA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29X2TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29X2TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
   - title: "Biden administration to unveil more climate policies, urges China to toughen emissions target"
     excerpt: "U.S. President Joe Biden's administration next week will release more policies it believes are needed to tackle climate change and is urging China to toughen one of its targets on greenhouse gas emissions,"
     publishedDateTime: 2021-01-24T06:43:00Z
@@ -798,6 +809,17 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 105
+  - title: "Republican bill seeks to block Biden's federal lands oil leasing halt"
+    excerpt: "Republican senators from oil-producing states introduced legislation on Thursday that would block the Biden administration's order pausing new oil and gas leasing on federal lands."
+    publishedDateTime: 2021-01-29T01:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-congress-drilling/republican-bill-seeks-to-block-bidens-federal-lands-oil-leasing-halt-idUSL1N2K32NV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K32NV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K32NV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 105
   - title: "‘We need to get over being a divided country.’ What three Trump voters think of Biden’s call for unity."
     excerpt: "Biden’s call for unity comes at a time of stark division in the nation, including over his own leadership. A recent-ABC News poll found that 50 percent of Americans had “just some” confidence or “none at all” in Biden’s ability to make the right decisions for the country’s future,"

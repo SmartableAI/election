@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_impeac_dannycev_210125_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "McCarthy Seeks Thaw With Trump as G.O.P. Rallies Behind Former President"
+    excerpt: "The top House Republican met with former President Donald J. Trump, working to mend fences after saying that Mr. Trump bore responsibility for the Jan. 6 attack on the Capitol."
+    publishedDateTime: 2021-01-28T22:41:00Z
+    webUrl: "https://www.nytimes.com/2021/01/28/us/politics/kevin-mccarthy-trump-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/28/us/politics/kevin-mccarthy-trump-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/28/us/politics/kevin-mccarthy-trump-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/28/us/politics/28dc-mccarthy-1/28dc-mccarthy-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Live Updates: Most G.O.P. Senators Vote Against Holding Impeachment Trial for Trump"
     excerpt: "In a 55-to-45 vote that strongly suggested that the Senate would not be able to convict the former president, lawmakers narrowly killed a Republican effort to dismiss the impeachment charge as unconstitutional."

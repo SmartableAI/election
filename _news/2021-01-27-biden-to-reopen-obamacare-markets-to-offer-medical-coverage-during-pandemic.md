@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fox News's primetime ratings took a dive during Biden's inauguration"
+    excerpt: "Fox News took a hit during inauguration week after setting records for Trump's in 2017. A similar shift happened in 2013 for Obama's second inaugural."
+    publishedDateTime: 2021-01-29T01:17:00Z
+    webUrl: "https://www.businessinsider.com/fox-news-ratings-down-25-percent-year-to-year-primetime-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/fox-news-ratings-down-25-percent-year-to-year-primetime-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-ratings-down-25-percent-year-to-year-primetime-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/6011872f1d2df20018b71166?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden to Sign 3 Executive Orders on Climate Change—Here's What They Do"
     excerpt: "The actions are the president's latest moves in an effort to address campaign promises and appease his supporters."
     publishedDateTime: 2021-01-27T16:49:00Z
