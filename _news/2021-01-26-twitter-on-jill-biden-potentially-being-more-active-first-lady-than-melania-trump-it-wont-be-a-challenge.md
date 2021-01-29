@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/twitter-jill-biden-potentially-being-more-ac
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-jill-biden-potentially-being-more-active-first-lady-melania-trump-it-wont-be-3130571?amp=1"
 type: article
 quality: 70
-heat: 70
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Melania Trump Allegedly Snubbed Husband Donald In Public To Create A ‘Distraction’"
+    excerpt: "Melania Trump snubbed her husband Donald Trump in public to distract the crowd, according to her former aide, Stephanie Winston Wolkoff."
+    publishedDateTime: 2021-01-29T02:51:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-allegedly-snubbed-husband-donald-public-create-distraction-3132996"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-allegedly-snubbed-husband-donald-public-create-distraction-3132996?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-allegedly-snubbed-husband-donald-public-create-distraction-3132996?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 69
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-and-his-wife-melania-left-washington.jpg"
+        width: 1024
+        height: 668
+        isCached: true
 
 secured: "SwewB9AUxijl8nOBdbO+4f5S5J/oaP83eE17/DULmg0lMdZI11OA34v7NLIOYLlvcyglrxgsdhyyaiXJRFmA89BgdTMjE6fZ2S79E5bmedNriutwZY8rJvP8nA0CkIKjdSJBI1eeF4sAOLuqSMxdcM8aZL5h+6o7c6FrL4/fLd53TjaTawA4RC/mx2yar8bFYUMhEh8bP5vpg2zU8eCtxBtHSKwyeQgiufGwYL1wG9Gv69lO1AQq4r4kSqvH9ZcerANn1cRNzYYktCBfisXt33XhBoTQV9bNAOXG40Y5JNvkTQvc9U9Oa6P5cXp1/NZcfygAElgAFP+RALOs0KjfnbI2apMHY19wlvYPdg1K1z16xbhUAGhR42lSp2WLFL2wDEQ847x+RlpqaI0CLfDv5WwbBQslVVIzXBtS5jaO5KP7wPsUWN99cK+NtCFAjiiWQwswLlIYFGsxMJrzcCHEOgTnYjA3ODMd6JtWu5PSVhSiP4as6tf2s/rcGEl026qGGRMDnl7yA7ZEf/sBdIyaKA==;Wz33tvO2lZf2ZHpoeXD1Jg=="
 ---

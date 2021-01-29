@@ -396,6 +396,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-29-bidens-radical-left-agenda-with-no-focus-on-jobs-will-hurt-family-after-family-scott.md",
+      "title": "Biden's 'radical left agenda' with no focus on jobs will 'hurt family after family': Scott",
+      "excerpt": "President Biden showed that he is merely a \"puppet for the radical left\" after ending the Keystone pipeline project, Sen. Rick Scott, R-Fla., told \"The Faulkner Focus\" on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott",
+      "originalUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott.amp",
+      "publishedDateTime": "2021-01-28T11:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.md",
       "title": "Biden signs executive order expanding Affordable Care Act enrollment, reversing Trump policy on abortion",
       "excerpt": "Biden signed two executive orders expanding ObamaCare enrollment and rolling back anti-abortion policies",
@@ -1588,62 +1645,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/rnc-chair-mcdaniel-says-trumps-not-going-to-start-a-third-party.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-chair-mcdaniel-says-trumps-not-going-to-start-a-third-party.amp",
       "publishedDateTime": "2021-01-26T10:36:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-schumer-suggests-biden-declare-climate-emergency.md",
-      "title": "Schumer suggests Biden declare 'climate emergency'",
-      "excerpt": "Senate Democratic Leader Chuck Schumer suggested Monday that President Biden consider declaring an emergency on climate change.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VgxiybkVqSk/schumer-suggests-biden-declare-climate-emergency",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VgxiybkVqSk/schumer-suggests-biden-declare-climate-emergency",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/e086b04b-AP20365586336985.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/schumer-suggests-biden-declare-climate-emergency.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-suggests-biden-declare-climate-emergency.amp",
-      "publishedDateTime": "2021-01-26T09:57:34-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

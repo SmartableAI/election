@@ -41,6 +41,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Liz Cheney Voted to Impeach Trump. Now She's Under Pressure from Her Own Party"
+    excerpt: "The fight for the future of the Republican party is here, and an early proxy battle is playing out in the House of Representatives."
+    publishedDateTime: 2021-01-29T04:47:00Z
+    webUrl: "https://time.com/5934208/liz-cheney-republican-party-battle/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 81
 
 secured: "8HKZ+3OepYy6NSP2G5dzoTNIu6jBk75v5OjlKX8Zmiw3ulBHimm1ye7U2muUzLzaVVADsrjD1DZ8dAXtNNahSWa9uOLVfKIujPE0XxIs50xiHtb0jHsmTITU/DVVTMMtIJcCyH2XTKU8sI6Dacz94Cbz4vc9zRhR235jMTLDM76xK8B1BI0J3LU6RJ5YAV/3si/ZHiyw71dyr1Z2XK4LRVvox7CsSEi1zgljtjfxzlUl5BKKKefEbfd03oMWK2Y42uA+7Kr8l5EXTc0yrRncGMZfnydQAR1ezLM4gJBuu0tLdDSZH4a0omYPN1yHIil9XimHaP04J0FhnPVP3iMu1GS14RgTFPeuhqRkgV3RA78=;6BmEalWvCJQq8qQH/2T3+Q=="
 ---

@@ -2,13 +2,13 @@
 category: news
 title: "Republican bill seeks to block Biden's federal lands oil leasing halt"
 excerpt: "Republican senators from oil-producing states introduced legislation on Thursday that would block the Biden administration's order pausing new oil and gas leasing on federal lands."
-publishedDateTime: 2021-01-29T01:23:00Z
-originalUrl: "https://www.reuters.com/article/usa-congress-drilling/republican-bill-seeks-to-block-bidens-federal-lands-oil-leasing-halt-idUSL1N2K32NV"
-webUrl: "https://www.reuters.com/article/usa-congress-drilling/republican-bill-seeks-to-block-bidens-federal-lands-oil-leasing-halt-idUSL1N2K32NV"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K32NV"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K32NV"
+publishedDateTime: 2021-01-29T03:02:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-congress-drilling/republican-bill-seeks-to-block-bidens-federal-lands-oil-leasing-halt-idUSKBN29X2T2"
+webUrl: "https://www.reuters.com/article/us-usa-congress-drilling/republican-bill-seeks-to-block-bidens-federal-lands-oil-leasing-halt-idUSKBN29X2T2"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29X2T2"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29X2T2"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210128&t=2&i=1549442199&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0R1PC"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Biden pauses Trump policies as Blinken takes diplomatic helm"
@@ -617,6 +623,22 @@ related:
         width: 846
         height: 545
         isCached: true
+  - title: "OnPolitics: Biden's wild week of executive orders"
+    excerpt: "President Joe Biden has signed over 30 executive orders, many of which undo former President Donald Trump's policies."
+    publishedDateTime: 2021-01-28T22:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/28/biden-reverses-trump-policies-healthcare-abortion-covid-19/4298282001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4298282001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4298282001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/c62aa8d5-ffad-41b9-bc9c-d5b1a3e2027d-AP_Trump_Biden_Immigration_Snub.jpg?auto=webp&crop=5999,3374,x1,y422&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Texas attorney general files lawsuit to block Biden's deportation freeze"
     excerpt: "The Texas attorney general filed a lawsuit on Friday that seeks to block U.S. President Joe Biden's move to pause certain deportations for 100 days, a controversial opening-move by the Democratic president that has provoked blowback from some Republicans."
     publishedDateTime: 2021-01-22T21:40:00Z
@@ -997,6 +1019,6 @@ related:
       domain: usnews.com
     quality: 58
 
-secured: "p+S23/DBxtllco552mHP4V8uStzj+EKCEPMLDeljOiaAZDfdtTnR7XUzGFCPVxEJ3/YPJ4CbsmbXWLIb3+DuZFDjGpZ/E0AExVPV2gvdFqhDXVc1ljp9NVU7g5u/1NyujG/XWiReM/bG3Rcqg3Y7Ev4su5dPfsTbQaluNg4ui4iGvWjslhT0+eXEQx05/l3uJrItWBYp704iKTanJdkRU3mB9J/XTVYfI9tadO97LDUW6u1/C0Yz9n6yumo/gWyUqTE+P7/FliO8V8bFr6tm2KWaG/n/frnPkQ7aQL2lupqen8dAWfaBkYcBhSsxVNo9DIuCTpOSJdVYwXmD0VWo74aCkxobFIFEUMAlEaJgUzUFl34DpwgIQj9NEJrvl3SbAZguuXWFLtnbXszPM68I0dj8SwF1g8Cu6Oaaeh+X8kwTEFIW5rSd5+BmOHpqUfxgexhuNGw814Kyzjx9bTKwehu7h5wFGiVJR2P/tdCHHDQO9+jCO20BUZCRfs65H+W95xSExZkEjwekCjZFRwtvMA==;zCz6QjFQCl7KJ+omCg1uYQ=="
+secured: "/UxHzipiiPzWtbu9896xO1BD3qFUs9l4Me5Ccua99NU9AVM54fPUaYSlXZVlax0JjQZJR8NlmeALj7oQZyBURr8aPX4L1/tJ7xSlUz45cN9BU+Wzpt1bl2fiYywbDpf/REmKOJJVX/NcKFqhRMzI+Wt0Fbo8gMM0rGl6IUJ7LIy6q4iOOXSsbOo7HyXWl9SkUIedWl5Nw+EoAX10JmI8gxBRx0OTWpCK9xAHVUgflpu1iBNKFYhom1rCRWkjVzqKjuhrOyLH4acyS9Xi6ss2g4GdcQ9zMre7AiqNuVP2w0GqT6pF1vlCsoU0wE0APLtPAzTzmiScN4LpKGqCoaCx5BmsznwWQVcbCR+z4X39UiU=;6sUTUgg5cgqRXNWCFsLUgg=="
 ---
 
