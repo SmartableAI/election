@@ -531,6 +531,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Republicans condemned Donald Trump. Now they’re seeking his help"
+    excerpt: "House Republican leader Kevin McCarthy declared Donald Trump culpable in the deadly attack on the U.S. Capitol. By Thursday, he was seeking his political support."
+    publishedDateTime: 2021-01-29T15:04:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/republicans-condemned-donald-trump-now-theyre-seeking-his-help/KWYJ7M5QOFFTHDR4QMTQL72XQI/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/WS-SVnSWaN5aLUubCQaDwdiRJXk=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/DOMQFJO3C5H5EDNKDUMTEHRHFU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Most Pennsylvania GOP Backed Trump to the End, and Still Do"
     excerpt: "With Donald Trump out of the White House, Pennsylvania’s Republican Party shows no sign of walking away from a president who lost control of Congress, carried out an unprecedented campaign to overturn an election and is blamed by some in his party for inciting a violent assault on the country’s democracy."
     publishedDateTime: 2021-01-21T12:14:00Z

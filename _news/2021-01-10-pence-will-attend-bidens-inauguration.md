@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2880
+heat: 2900
 published: true
 
 provider:
@@ -2074,6 +2074,20 @@ related:
     excerpt: "Biden could theoretically have released all the executive orders and actions on his first day in office or over a more compressed window. Instead, his team chose to dribble them out over the course of more than a dozen days,"
     publishedDateTime: 2021-01-27T01:00:00Z
     webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/01/26/inside-the-biden-plan-to-be-boring-491530"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Republicans pounce on Biden orders"
+    excerpt: "Republican criticism of President Joe Biden's recent executive orders mounted Thursday, foreshadowing the challenges ahead as the administration seeks to enact portions of its sweeping climate agenda."
+    publishedDateTime: 2021-01-29T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-energy/2021/01/29/republicans-pounce-on-biden-orders-793045"
     type: article
     provider:
       name: Politico

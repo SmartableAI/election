@@ -127,6 +127,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
+    excerpt: "President Joe Biden is making his first major foray outside the White House, to visit wounded soldiers at Walter Reed Hospital, just outside Washington"
+    publishedDateTime: 2021-01-29T15:36:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_c332139ef1dc440aaaa9f6ee89d4095f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to reopen Obamacare markets to offer medical coverage during pandemic"
     excerpt: "President Biden plans to reopen the HealthCare.gov markets for a special sign-up opportunity for people without medical coverage in the pandemic."
     publishedDateTime: 2021-01-27T10:13:00Z

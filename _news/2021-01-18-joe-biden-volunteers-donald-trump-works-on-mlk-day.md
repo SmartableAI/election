@@ -364,6 +364,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden’s executive actions reverse most ‘egregious’ Trump policies: Kate Bedingfield"
+    excerpt: "White House Communications Director Kate Bedingfield defended President Joe Biden’s use of executive actions on ABC’s “The View” on Friday. “What he's done is looked at some of the most egregious, damaging actions from the Trump administration,"
+    publishedDateTime: 2021-01-29T16:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-executive-actions-reverse-egregious-trump-policies-kate/story?id=75545722"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-executive-actions-reverse-egregious-trump-policies-kate/story?id=75545722"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-executive-actions-reverse-egregious-trump-policies-kate/story?id=75545722"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/bedinger-abc-rc-201003_1601755586486_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden gets to work as Pelosi says Trump impeachment will head to Senate 'soon' – live"
     excerpt: "Biden will sign 10 more executive orders to fight the coronavirus pandemic and is expected to retain Christopher Wray as FBI director"
     publishedDateTime: 2021-01-21T15:05:00Z

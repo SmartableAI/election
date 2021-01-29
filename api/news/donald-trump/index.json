@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-30-rnc-chairwoman-ronna-mcdaniel-is-trying-to-hold-together-a-party-that-donald-trump-might-want-to-tear-up.md",
+      "title": "RNC Chairwoman Ronna McDaniel is trying to hold together a party that Donald Trump might want to tear up",
+      "excerpt": "McDaniel, the unfailingly amiable chairwoman of the Republican National Committee, had stood by Trump, even as a trickle of GOP luminaries abandoned him. She had been Trump’s ha",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/ronna-mcdaniel-interview-trump-republican-party/2021/01/28/c2cbc93e-5770-11eb-a817-e5e7f8a406d6_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/ronna-mcdaniel-interview-trump-republican-party/2021/01/28/c2cbc93e-5770-11eb-a817-e5e7f8a406d6_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DOVI3HS75EI6XILXO5S7FGUVEQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/ronna-mcdaniel-interview-trump-republican-party/2021/01/28/c2cbc93e-5770-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/ronna-mcdaniel-interview-trump-republican-party/2021/01/28/c2cbc93e-5770-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-29T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home.md",
+      "title": "New Georgia runoffs data finds that more Black voters than usual came out. Trump voters stayed home.",
+      "excerpt": "Our analysis finds two notable patterns that could account for the wins: high turnout among Black voters and low turnout in the predominantly White and rural precincts that had supported incumbent President Donald Trump — where voters were more likely to believe Trump’s baseless allegations of electoral fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ESU4GC3RQI6XKCJN6KCHJ277U.jpg&w=1440",
+          "width": 1440,
+          "height": 936,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/?outputType=amp",
+      "publishedDateTime": "2021-01-29T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-the-perfect-target-russia-cultivated-trump-as-asset-for-40-years-ex-kgb-spy.md",
       "title": "‘The perfect target’: Russia cultivated Trump as asset for 40 years – ex-KGB spy",
       "excerpt": "The KGB ‘played the game as if they were immensely impressed by his personality’, Yuri Shvets, a key source for a new book, tells the Guardian",
@@ -108,6 +212,115 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me.md",
+      "title": "Nancy Sinatra: 'I'll never forgive Trump voters. I hope the anger doesn't kill me'",
+      "excerpt": "She may be 80 and cut off by Covid, but she’s still ready to walk all over Donald Trump. As her greatest songs are reissued, she reflects on the sexual politics of the 60s, her friendship with Elvis a",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "originalUrl": "https://www.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/82417b28bc16912f6f47d9e309378f3e086e658f/0_663_2275_1567/master/2275.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=631bc24f8cf8b8ecc2c3619dfe27efa4",
+          "width": 600,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "publishedDateTime": "2021-01-29T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-defense-chief-holds-up-trump-nominees-to-pentagon-boards.md",
+      "title": "Defense Chief Holds Up Trump Nominees to Pentagon Boards",
+      "excerpt": "Among those affected by Defense Secretary Lloyd Austin’s move are Corey Lewandowski, former President Donald Trump’s 2016 presidential campaign manager, and David Bossie, a former Trump deputy campaign manager.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214",
+      "originalUrl": "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-292183/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214",
+      "publishedDateTime": "2021-01-28T22:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -264,63 +477,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-defense-chief-holds-up-trump-nominees-to-pentagon-boards.md",
-      "title": "Defense Chief Holds Up Trump Nominees to Pentagon Boards",
-      "excerpt": "Among those affected by Defense Secretary Lloyd Austin’s move are Corey Lewandowski, former President Donald Trump’s 2016 presidential campaign manager, and David Bossie, a former Trump deputy campaign manager.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214?mod=politics_lead_pos7",
-      "originalUrl": "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214?mod=politics_lead_pos7",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-292183/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214",
-      "publishedDateTime": "2021-01-28T17:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -488,7 +644,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1470,
+      "heat": 1490,
       "tags": null,
       "images": [
         {
@@ -1384,7 +1540,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 813,
+      "heat": 833,
       "tags": null,
       "images": [
         {
@@ -1408,162 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-meet-the-impeachment-managers-who-will-argue-democrats-case-against-trump.md",
-      "title": "Meet the impeachment managers who will argue Democrats' case against Trump",
-      "excerpt": "Pelosi said the House will officially send the article of impeachment against Mr. Trump to the Senate on Monday. \"We are respectful of the Senate's constitutional power over the t",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-second-impeachment-managers/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-second-impeachment-managers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/24/57aaa662-8c1c-41a3-ad09-c83e6c55cbd8/thumbnail/1200x630/0bd961208cc571af7316daf6ffedf08b/gettyimages-1296220549.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-second-impeachment-managers/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-second-impeachment-managers/",
-      "publishedDateTime": "2021-01-24T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-donald-trump-is-gone-but-his-big-lie-is-a-rallying-call-for-rightwing-extremists.md",
-      "title": "Donald Trump is gone but his big lie is a rallying call for rightwing extremists",
-      "excerpt": "The myth of the ‘stolen election’ – simple and endlessly repeated – is likely to be a rallying call for far-right terrorists",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/99bba16b7535882a7c3c741b8089b0c34f1fc2ce/0_0_4000_2667/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc52c78261d8aa66c1bd5b6e412311f9",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
-      "publishedDateTime": "2021-01-24T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-arizona-republicans-censure-mccain-flake-and-ducey-over-trump-split.md",
-      "title": "Arizona Republicans censure McCain, Flake and Ducey over Trump split",
-      "excerpt": "Pro-Trump party chair Kelli Ward wins another term but Cindy McCain, widow of John, sees censure as ‘a badge of honor’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/24/arizona-republicans-censure-mccain-flake-ducey-trump",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/arizona-republicans-censure-mccain-flake-ducey-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4b7b22f2fc853c467f9293ec182748880c7de89b/0_81_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ce49c0dced099ed33df0907f613e692f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/24/arizona-republicans-censure-mccain-flake-ducey-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/arizona-republicans-censure-mccain-flake-ducey-trump",
-      "publishedDateTime": "2021-01-24T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

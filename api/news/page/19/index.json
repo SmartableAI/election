@@ -2,6 +2,170 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-01-06-huckabee-says-cloud-will-be-over-biden-presidency-if-election-fraud-isnt-fully-investigated.md",
+      "title": "Huckabee says 'cloud' will be over Biden presidency if election fraud isn't fully investigated",
+      "excerpt": "Former Arkansas Gov. Mike Huckabee told \"Fox & Friends\" on Wednesday that he wishes that all the elected officials, including Democrats, \"would demand a full accounting for how the ballots were tabulated\" in the 2020 election, saying that \"Democrats have the most to gain.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSDHbekb6qI/mike-huckabee-democrats-full-accounting-election-results",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSDHbekb6qI/mike-huckabee-democrats-full-accounting-election-results",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 318,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-huckabee-democrats-full-accounting-election-results.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-democrats-full-accounting-election-results.amp",
+      "publishedDateTime": "2021-01-06T06:58:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-trump-bars-us-transactions-with-eight-chinese-apps-including-alipay.md",
+      "title": "Trump bars U.S. transactions with eight Chinese apps including Alipay",
+      "excerpt": "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay mobile payment app, the White House said, escalating tensions with Beijing two weeks before President-elect Joe",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-china-tech-exclusive-idINKBN29A2PA",
+      "originalUrl": "https://www.reuters.com/article/us-usa-china-tech-exclusive-idINKBN29A2PA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546737122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041G7",
+          "width": 815,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN29A2PA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A2PA",
+      "publishedDateTime": "2021-01-06T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-trump-supporters-confront-mitt-romney-at-airport-on-plane-videos.md",
+      "title": "Trump supporters confront Mitt Romney at airport, on plane: videos",
+      "excerpt": "Sen. Mitt Romney, R-Utah, was confronted by supporters of President Trump on Tuesday while waiting for a flight at an airport and during the flight, according to videos circulating on social media.   ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OoTQdcMaNsU/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OoTQdcMaNsU/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/romney.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos.amp",
+      "publishedDateTime": "2021-01-06T04:25:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-no-the-us-constitution-does-not-allow-mike-pence-to-reject-electoral-votes.md",
       "title": "No, the U.S. Constitution does not allow Mike Pence to reject electoral votes",
       "excerpt": "As many as 140 House members and over a dozen senators have said they will challenge some of the state results.",
@@ -1151,171 +1315,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-politico-reporter-tells-journalists-call-gopers-objecting-to-biden-win-radicals-extremists.md",
-      "title": "Politico reporter tells journalists: Call GOPers objecting to Biden win 'radicals', 'extremists'",
-      "excerpt": "Politico chief political correspondent Tim Alberta is urging other journalists to refrain from characterizing any Republican who supports President Trump's ongoing efforts to challenge the results of the 2020 presidential election as a \"conservative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/politico-tim-alberta-republicans-radicals-extremists",
-      "originalUrl": "https://www.foxnews.com/media/politico-tim-alberta-republicans-radicals-extremists",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b35a2672-345b-40da-8e02-a17c39c4dd36/5f64718e-370f-4ef4-9f1b-4ff1343125df/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/politico-tim-alberta-republicans-radicals-extremists.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tim-alberta-republicans-radicals-extremists.amp",
-      "publishedDateTime": "2021-01-04T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.md",
-      "title": "White House responds to report suggesting Trump will head to Scotland before inauguration",
-      "excerpt": "The White House downplayed a report late Monday that suggested President Trump may be planning a trip to Scotland the day before the inauguration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp",
-      "publishedDateTime": "2021-01-04T21:04:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-defense-secretaries-letter-warning-trump-was-signed-by-all-in-only-2-days.md",
-      "title": "Defense secretaries' letter warning Trump was signed by all in only 2 days",
-      "excerpt": "The letter was drafted and orchestrated in consultation with former Republican Vice President Dick Cheney, himself a former secretary of defense.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
-      "originalUrl": "https://abcnews.go.com/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/pentagon-gty-jt-191212_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
-      "publishedDateTime": "2021-01-04T19:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Florida Republicans welcome Trump’s political activity in area: ‘He is our hometown president’"
+    excerpt: "Florida Republicans are welcoming former President Trump -- and his political activity -- to the Sunshine State since leaving office, dubbing him their \"hometown president.\""
+    publishedDateTime: 2021-01-29T15:54:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/72lgBRJztwE/florida-republicans-welcome-trumps-political-activity-in-area-he-is-our-hometown-president"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-republicans-welcome-trumps-political-activity-in-area-he-is-our-hometown-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-republicans-welcome-trumps-political-activity-in-area-he-is-our-hometown-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "As McCarthy seeks unity with Trump, Gaetz slams Cheney in Wyoming amid speculation over primary challenges"
     excerpt: "Rep. Matt Gaetz traveled to Wyoming on Thursday to call for the ouster of House Republican Caucus Chair Liz Cheney over her vote to impeach former President Trump, underscoring the divisions in the GOP at grapples with its identity in the wake of Trump's presidency.   "
     publishedDateTime: 2021-01-29T13:01:30Z

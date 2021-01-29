@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ending-keystone-pipeline-proj
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp"
 type: article
 quality: 166
-heat: 166
+heat: 186
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden's Keystone pipeline cancellation is pandering to 'radical environmentalists': Gov. Gianforte"
+    excerpt: "Montana Governor Greg Gianforte said the Biden administration is pandering to \"radical environmentalists\" with his decision to shut down construction of the Keystone XL Pipeline and encouraged him to reverse his decision."
+    publishedDateTime: 2021-01-29T15:36:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6T1YqWy3us/biden-keystone-cancellation-radical-environmentalists-gianforte"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keystone-cancellation-radical-environmentalists-gianforte.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-cancellation-radical-environmentalists-gianforte.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1a7335b-9feb-4671-a212-28a3255ee5c5/027d949f-451f-47c3-9aee-7a21041f5b3b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ACUiOMALrVP4K1+doGj5H+IcRxQFrXW7YfUuv+cjqFzHbIVoNRDxOLtQjs/AqfF9DTE9FfdgbpIoqMxLj1eR0FFl+2MNwRvOErMYRbSnSGMtfd+wxWr7Gt0nNgcI1E68cerYHHCys8Q50bwBCqFYnb4rPgNoWLdzEhJfAwe3h9M9xS2CLg7u1TB9dX5W0NwW1qiAJv9H1AJDX86TdYzWJJmWO+zwCuOMCK9zO59MjNr1OoZ2T6qUSkGsIXtLp8u8O4XIgsOaSYNIodm0s+PEirhdaH7Bm81m8vHj5PJb8PzYdG2a2aR7Vom1bLYPbIponY0dyOAM+Juqpfhf+WiW36KOvucDi3Zun0YGzjF77vY=;0eHVM9+q6ZRrZ7SiUxiMhg=="
 ---

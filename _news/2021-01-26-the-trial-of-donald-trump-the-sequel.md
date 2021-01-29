@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Three new lawyers added to Trump's impeachment defense"
+    excerpt: "Former President Donald Trump has added three additional criminal defense lawyers to his impeachment defense team, bringing the current number of attorneys representing him next month to five.\n    \n"
+    publishedDateTime: 2021-01-29T15:27:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8IO3xY4dNmw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/donald-trump-impeachment-defense-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/donald-trump-impeachment-defense-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116020618-03-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's impeachment case is now in the Senate's hands. Here's what's next"
     excerpt: "The House voted to impeach President Donald Trump on January 14, but waited until Monday to complete the next step in the process -- having House managers read the single article of impeachment aloud on the House floor and then walking it over to the Senate.\n    \n"
     publishedDateTime: 2021-01-26T01:01:22Z
@@ -173,6 +189,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125134312-01-justice-john-roberts-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden has signed 42 executive actions since taking office. Here's what each does"
+    excerpt: "President Joe Biden hasn't wasted any time setting his agenda into motion through a flurry of executive actions that address everything from Covid-19 to the climate crisis.\n    \n"
+    publishedDateTime: 2021-01-29T16:00:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zzpwF-pnNVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/biden-executive-orders-climate-health-care-coronavirus-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/biden-executive-orders-climate-health-care-coronavirus-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127144815-01-biden-climate-eo-0127-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

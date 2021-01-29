@@ -2,6 +2,278 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-29-hawley-rips-bidens-40-executive-orders-radical-policies-an-attempt-to-govern-by-executive-fiat.md",
+      "title": "Hawley rips Biden's 40 executive orders, 'radical policies': 'An attempt to govern by executive fiat'",
+      "excerpt": "President Biden's 40 executive orders show that he is pursuing a \"far-left agenda\" that will kill American energy jobs, Sen. Josh Hawley, R-Mo., said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evT6u0af_70/biden-executive-orders-hawley-governing-executive-fiat",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evT6u0af_70/biden-executive-orders-hawley-governing-executive-fiat",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-executive-orders-hawley-governing-executive-fiat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-hawley-governing-executive-fiat.amp",
+      "publishedDateTime": "2021-01-29T08:29:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.md",
+      "title": "Biden reportedly warned family about business dealings before election: 'For Christ’s sake, watch yourself’",
+      "excerpt": "President Biden, before the presidential election, reportedly told his family to \"watch yourself\" about their business dealings, Politico reported, as their various financial entanglements came under scrutiny.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ssYWolxvQ3U/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ssYWolxvQ3U/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.amp",
+      "publishedDateTime": "2021-01-29T08:28:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-biden-taps-iran-envoy-to-face-challenges-of-confronting-both-tehran-and-polarized-views-at-home.md",
+      "title": "Biden taps Iran envoy to face challenges of confronting both Tehran and polarized views at home",
+      "excerpt": "The Biden administration has tapped Robert Malley, a progressive foreign policy expert who served on the Obama administration's negotiating team for the Iran nuclear deal, as its new top envoy for Iran.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JXxUB8oA6-w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JXxUB8oA6-w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210129111003-restricted-file-robert-malley-2017-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/29/politics/rob-malley-iran-envoy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/rob-malley-iran-envoy/index.html",
+      "publishedDateTime": "2021-01-29T08:24:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-rnc-chairwoman-ronna-mcdaniel-is-trying-to-hold-together-a-party-that-donald-trump-might-want-to-tear-up.md",
+      "title": "RNC Chairwoman Ronna McDaniel is trying to hold together a party that Donald Trump might want to tear up",
+      "excerpt": "McDaniel, the unfailingly amiable chairwoman of the Republican National Committee, had stood by Trump, even as a trickle of GOP luminaries abandoned him. She had been Trump’s ha",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/ronna-mcdaniel-interview-trump-republican-party/2021/01/28/c2cbc93e-5770-11eb-a817-e5e7f8a406d6_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/ronna-mcdaniel-interview-trump-republican-party/2021/01/28/c2cbc93e-5770-11eb-a817-e5e7f8a406d6_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DOVI3HS75EI6XILXO5S7FGUVEQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/ronna-mcdaniel-interview-trump-republican-party/2021/01/28/c2cbc93e-5770-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/ronna-mcdaniel-interview-trump-republican-party/2021/01/28/c2cbc93e-5770-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-29T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home.md",
+      "title": "New Georgia runoffs data finds that more Black voters than usual came out. Trump voters stayed home.",
+      "excerpt": "Our analysis finds two notable patterns that could account for the wins: high turnout among Black voters and low turnout in the predominantly White and rural precincts that had supported incumbent President Donald Trump — where voters were more likely to believe Trump’s baseless allegations of electoral fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2ESU4GC3RQI6XKCJN6KCHJ277U.jpg&w=1440",
+          "width": 1440,
+          "height": 936,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/29/new-georgia-runoffs-data-finds-that-more-black-voters-than-usual-came-out-trump-voters-stayed-home/?outputType=amp",
+      "publishedDateTime": "2021-01-29T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-the-fired-fox-news-editor-behind-the-networks-arizona-election-call-for-biden-says-he-became-the-target-of-murderous-rage-from-viewers.md",
       "title": "The fired Fox News editor behind the network's Arizona election call for Biden says he became the target of 'murderous rage' from viewers",
       "excerpt": "Chris Stirewalt, who oversaw the Fox News Decision Desk during 2020 election coverage, was fired last week after being exiled from air.",
@@ -263,25 +535,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-29-live-updates-biden-hopes-to-win-gop-support-on-19-trillion-relief-package.md",
-      "title": "Live Updates: Biden Hopes to Win G.O.P. Support on $1.9 Trillion Relief Package",
-      "excerpt": "But some Democrats see a path forward unilaterally. The administration named Robert Malley as a special envoy who must persuade Tehran to rein in its nuclear program.",
+      "path": "_news/2021-01-29-nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me.md",
+      "title": "Nancy Sinatra: 'I'll never forgive Trump voters. I hope the anger doesn't kill me'",
+      "excerpt": "She may be 80 and cut off by Covid, but she’s still ready to walk all over Donald Trump. As her greatest songs are reissued, she reflects on the sexual politics of the 60s, her friendship with Elvis a",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment",
-      "originalUrl": "https://www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment",
+      "webUrl": "https://www.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "originalUrl": "https://www.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
+      "highlight": null,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2021/01/29/world/29new-washington-briefing-stimulus/29new-washington-briefing-stimulus-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://i.guim.co.uk/img/media/82417b28bc16912f6f47d9e309378f3e086e658f/0_663_2275_1567/master/2275.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=631bc24f8cf8b8ecc2c3619dfe27efa4",
+          "width": 600,
+          "height": 414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -289,16 +557,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment.amp.html",
-      "publishedDateTime": "2021-01-29T00:42:00-08:00",
+      "ampWebUrl": "https://amp.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "publishedDateTime": "2021-01-29T00:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -315,8 +583,64 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
-        "Democratic Voice"
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-defense-chief-holds-up-trump-nominees-to-pentagon-boards.md",
+      "title": "Defense Chief Holds Up Trump Nominees to Pentagon Boards",
+      "excerpt": "Among those affected by Defense Secretary Lloyd Austin’s move are Corey Lewandowski, former President Donald Trump’s 2016 presidential campaign manager, and David Bossie, a former Trump deputy campaign manager.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214",
+      "originalUrl": "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-292183/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214",
+      "publishedDateTime": "2021-01-28T22:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -580,63 +904,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-defense-chief-holds-up-trump-nominees-to-pentagon-boards.md",
-      "title": "Defense Chief Holds Up Trump Nominees to Pentagon Boards",
-      "excerpt": "Among those affected by Defense Secretary Lloyd Austin’s move are Corey Lewandowski, former President Donald Trump’s 2016 presidential campaign manager, and David Bossie, a former Trump deputy campaign manager.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214?mod=politics_lead_pos7",
-      "originalUrl": "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214?mod=politics_lead_pos7",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-292183/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214",
-      "publishedDateTime": "2021-01-28T17:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -927,7 +1194,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1079,280 +1346,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-bidens-radical-left-agenda-with-no-focus-on-jobs-will-hurt-family-after-family-scott.md",
-      "title": "Biden's 'radical left agenda' with no focus on jobs will 'hurt family after family': Scott",
-      "excerpt": "President Biden showed that he is merely a \"puppet for the radical left\" after ending the Keystone pipeline project, Sen. Rick Scott, R-Fla., told \"The Faulkner Focus\" on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott",
-      "originalUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott.amp",
-      "publishedDateTime": "2021-01-28T11:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.md",
-      "title": "Biden signs executive order expanding Affordable Care Act enrollment, reversing Trump policy on abortion",
-      "excerpt": "Biden signed two executive orders expanding ObamaCare enrollment and rolling back anti-abortion policies",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl1dyUUj0vo/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl1dyUUj0vo/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21025646646363.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp",
-      "publishedDateTime": "2021-01-28T10:49:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-if-biden-and-democrats-truly-support-equity-why-are-they-silent-on-school-choice.md",
-      "title": "If Biden and Democrats Truly Support 'Equity,' Why Are They Silent on School Choice?",
-      "excerpt": "This is National School Choice Week, and if there's been one benefit to the pandemic lockdowns of public schools across the country it's this: American",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/48/481557_5_.jpg",
-          "width": 750,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.amp.html",
-      "publishedDateTime": "2021-01-28T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-after-promoting-trumps-baseless-fraud-claims-kelli-ward-facing-audit-of-her-own-arizona-gop-win.md",
-      "title": "After promoting Trump's baseless fraud claims, Kelli Ward facing audit of her own Arizona GOP win",
-      "excerpt": "Kelli Ward, the chair of the Arizona Republican Party who promoted President Donald Trump's baseless claims of voter fraud in the 2020 election, now faces an audit on her own recent electoral victory.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hb8PtvlSuaU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hb8PtvlSuaU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180824123524-02-kelli-ward-lead-image-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/28/politics/arizona-gop-kelli-ward-recount/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/arizona-gop-kelli-ward-recount/index.html",
-      "publishedDateTime": "2021-01-28T07:57:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-nbc-news-retracts-story-about-biden-official-after-critics-label-it-anti-semitic.md",
-      "title": "NBC News retracts story about Biden official after critics label it anti-Semitic",
-      "excerpt": "NBC News admitted Wednesday an article about President Biden’s senior director for cyber policy donating to a pro-Israel lobbying group \"fell short\" of the Peacock Network's reporting standards after it was widely criticized and accused of having anti-Semitic implications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/nbc-news-anti-semitic-report-deleted-biden-official-aipac",
-      "originalUrl": "https://www.foxnews.com/media/nbc-news-anti-semitic-report-deleted-biden-official-aipac",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/nbc-news-photo-edited.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/nbc-news-anti-semitic-report-deleted-biden-official-aipac.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-news-anti-semitic-report-deleted-biden-official-aipac.amp",
-      "publishedDateTime": "2021-01-28T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

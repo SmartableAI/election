@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Florida Republicans welcome Trump’s political activity in area: ‘He is our hometown president’"
+    excerpt: "Florida Republicans are welcoming former President Trump -- and his political activity -- to the Sunshine State since leaving office, dubbing him their \"hometown president.\""
+    publishedDateTime: 2021-01-29T15:54:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/72lgBRJztwE/florida-republicans-welcome-trumps-political-activity-in-area-he-is-our-hometown-president"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-republicans-welcome-trumps-political-activity-in-area-he-is-our-hometown-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-republicans-welcome-trumps-political-activity-in-area-he-is-our-hometown-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump to meet with Rep. Kevin McCarthy in Florida"
     excerpt: "Former President Donald Trump is expected to meet on Thursday with Republican House Minority Leader Kevin McCarthy, sources confirm to The Post. McCarthy (R-Calif.) was a close Trump ally during"
     publishedDateTime: 2021-01-27T22:39:00Z

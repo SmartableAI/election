@@ -2,9 +2,9 @@
 category: news
 title: "Defense Chief Holds Up Trump Nominees to Pentagon Boards"
 excerpt: "Among those affected by Defense Secretary Lloyd Austin’s move are Corey Lewandowski, former President Donald Trump’s 2016 presidential campaign manager, and David Bossie, a former Trump deputy campaign manager."
-publishedDateTime: 2021-01-29T01:50:00Z
-originalUrl: "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214?mod=politics_lead_pos7"
-webUrl: "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214?mod=politics_lead_pos7"
+publishedDateTime: 2021-01-29T06:36:00Z
+originalUrl: "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214"
+webUrl: "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214"
 ampWebUrl: "https://www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 853
         isCached: true
 
-secured: "dU8bP2nS9D3O21H4fUUXjSwWY/QFdd4jRxWyjhMWvxEbdn05Gc/gpxnorksHHo4d2s7QrOuXoYQjF91IxCP7kKDe3hYYTPisfeMwielQkRISEC7R7IbjikXg25dA8kq2GC6dVsoQZYfB1zWt2P0slvjEOwyN4nUqxHlnYDq/1PKBxPVUYl0gF61eGLFHbpmxDhrXQVH76i0PagsyjorYoj1qz/4sHzfnV2KnwehT7o5Kglc2LxSIc89Si5i0CUFO5tmzUPeN3bCPpM+cxZ5jB5Hu+BjzIKkK50TXeEFpT4pMQ+VbdW38dUm/EtH7kxEkfx2oIJa/UyjNOWtgl9wUFDRvqz3Q0T4GDff7FvedLOh4oUz9V4ymaLU2x+ogPJi1NK5rH6iBKqssK0/M/4KRk7y97FwsHCLiGvApR4dPPI8ay6CI4zrMR+VZgB/UCEGq3qekWQJlhemr9iLxNuOEnp2awuFuqxtTRxEMH2IzX8C3EE+6bk+Q94Pv/f3P9dDXGzXqe69CXA6FUj5BI/QdhA==;SStbxOGnm7rkdGQzioGwRg=="
+secured: "izqr868W6adsP4p/G4mqvo4P391gpZNs154kgqgOb3JsLeUPph+86COignRYTWm3gnDKHj7hY1XOed+PFDI/0c8tKYUeUjLuJCzQX3AQ5ckWS3loOdo48RZ7CNf/4BFYYHpfXhohLJ8WsXhDAsky/K5DIF+v6C4PNGDE/akcmYxYJ+1sp6QYzd+qrVIae63gnp95xH/CYzlBETO0GoQEx0IoIktAT/X1ym+tXDCPG3kjQwvI5NVNillCPdkSSZ46e6DM4rZz3j5hi636DE5YPNcG+l1hJ5wq7as+9IqXgTNvwwkIQcvlbud5AoUJ4Iq1Nwxwmjx5C9eoQpga4SP1+O2YwhY3ZKpPL0prw0841vU=;ZcCtCyTUbmiCeP6om0Lh2g=="
 ---
 

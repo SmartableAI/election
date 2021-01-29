@@ -111,63 +111,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-29-live-updates-biden-hopes-to-win-gop-support-on-19-trillion-relief-package.md",
-      "title": "Live Updates: Biden Hopes to Win G.O.P. Support on $1.9 Trillion Relief Package",
-      "excerpt": "But some Democrats see a path forward unilaterally. The administration named Robert Malley as a special envoy who must persuade Tehran to rein in its nuclear program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment",
-      "originalUrl": "https://www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/29/world/29new-washington-briefing-stimulus/29new-washington-briefing-stimulus-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment.amp.html",
-      "publishedDateTime": "2021-01-29T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-29-bidens-pandemic-problem-politics-weekly-extra-podcast.md",
       "title": "Biden's pandemic problem: Politics Weekly Extra podcast",
       "excerpt": "Jonathan Freedland speaks to the Pulitzer prize-winning author and journalist Laurie Garrett about what Joe Biden needs to do to get a grip on the Covid crisis in the US",
@@ -274,63 +217,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-bidens-radical-left-agenda-with-no-focus-on-jobs-will-hurt-family-after-family-scott.md",
-      "title": "Biden's 'radical left agenda' with no focus on jobs will 'hurt family after family': Scott",
-      "excerpt": "President Biden showed that he is merely a \"puppet for the radical left\" after ending the Keystone pipeline project, Sen. Rick Scott, R-Fla., told \"The Faulkner Focus\" on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott",
-      "originalUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott.amp",
-      "publishedDateTime": "2021-01-28T11:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {
@@ -504,7 +390,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1470,
+      "heat": 1490,
       "tags": null,
       "images": [
         {
@@ -974,7 +860,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates?page=with:block-6010258c8f0869215d930d1d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 725,
+      "heat": 745,
       "tags": null,
       "images": [
         {
@@ -1015,63 +901,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-irans-un-ambassador-says-iran-is-waiting-for-president-biden-to-make-the-first-diplomatic-move.md",
-      "title": "Iran's U.N. ambassador says Iran is waiting for President Biden to make the first diplomatic move",
-      "excerpt": "The Biden administration needs to lift sanctions on Iran and return to the nuclear deal that Trump ditched, the Iranian ambassador to the U.N. says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/national-security/iran-s-un-ambassador-says-iran-waiting-president-biden-make-n1255608",
-      "originalUrl": "https://www.nbcnews.com/politics/national-security/iran-s-un-ambassador-says-iran-waiting-president-biden-make-n1255608",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_04/3170401/200103-majid-takht-ravanchi-ew-432p_8963558298725b2e9f0f5729a9a8ba44.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1255608",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255608",
-      "publishedDateTime": "2021-01-26T01:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1603,6 +1432,167 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-biden-demands-decency-promising-staff-members-i-will-fire-you-on-the-spot-if-they-disrespect-others.md",
+      "title": "Biden demands decency, promising staff members 'I will fire you on the spot' if they disrespect others",
+      "excerpt": "President Joe Biden conducted a swearing-in ceremony by video conference Wednesday with hundreds of new government staff members.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-i-will-fire-you-on-spot-if-disrespect-others-2021-1",
+      "originalUrl": "https://www.businessinsider.com/biden-i-will-fire-you-on-spot-if-disrespect-others-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6008c79fdb847c001918bfb3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-i-will-fire-you-on-spot-if-disrespect-others-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-i-will-fire-you-on-spot-if-disrespect-others-2021-1?amp",
+      "publishedDateTime": "2021-01-21T14:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-president-biden-signs-order-mandating-masks-on-planes-will-it-reduce-number-of-in-flight-scofflaws.md",
+      "title": "President Biden signs order mandating masks on planes: Will it reduce number of in-flight scofflaws?",
+      "excerpt": "Airlines require masks and ban passengers who won't comply. A new federal mask rule signed by Biden Thursday gives them muscle to enforce it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/travel/airline-news/2021/01/21/president-biden-issues-federal-mask-mandate-on-flights/4214019001/",
+      "originalUrl": "https://www.usatoday.com/story/travel/airline-news/2021/01/21/president-biden-issues-federal-mask-mandate-on-flights/4214019001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/21/USAT/dd14e355-72ea-4998-9a71-ee24ff1b399c-biden-signing.jpg?auto=webp&crop=5968,3357,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4214019001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4214019001",
+      "publishedDateTime": "2021-01-21T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-charlottesville-inspired-biden-to-run-now-it-has-a-message-for-him.md",
+      "title": "Charlottesville Inspired Biden to Run. Now It Has a Message for Him.",
+      "excerpt": "The white supremacist rally in 2017 prefigured the rise of right-wing violence in President Trump’s name. Now, as President Biden calls for national unity, residents say it requires accountability first.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/21/us/politics/21Charlottesville1/21Charlottesville1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
+      "publishedDateTime": "2021-01-21T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

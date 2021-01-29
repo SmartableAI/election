@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-pol
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721"
 type: article
 quality: 150
-heat: 1470
+heat: 1490
 published: true
 
 provider:
@@ -349,6 +349,22 @@ related:
     quality: 134
     images:
       - url: "https://s.abcnews.com/images/Politics/biden-oval-office-rt-jef-210121_1611250718053_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden’s executive actions reverse most ‘egregious’ Trump policies: Kate Bedingfield"
+    excerpt: "White House Communications Director Kate Bedingfield defended President Joe Biden’s use of executive actions on ABC’s “The View” on Friday. “What he's done is looked at some of the most egregious, damaging actions from the Trump administration,"
+    publishedDateTime: 2021-01-29T16:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-executive-actions-reverse-egregious-trump-policies-kate/story?id=75545722"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-executive-actions-reverse-egregious-trump-policies-kate/story?id=75545722"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-executive-actions-reverse-egregious-trump-policies-kate/story?id=75545722"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/bedinger-abc-rc-201003_1601755586486_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

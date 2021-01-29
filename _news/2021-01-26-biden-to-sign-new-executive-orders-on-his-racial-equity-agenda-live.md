@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donal
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates"
 type: article
 quality: 125
-heat: 725
+heat: 745
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
+    excerpt: "President Joe Biden is making his first major foray outside the White House, to visit wounded soldiers at Walter Reed Hospital, just outside Washington"
+    publishedDateTime: 2021-01-29T15:36:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_c332139ef1dc440aaaa9f6ee89d4095f_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Fox News's primetime ratings took a dive during Biden's inauguration"
     excerpt: "Fox News took a hit during inauguration week after setting records for Trump's in 2017. A similar shift happened in 2013 for Obama's second inaugural."

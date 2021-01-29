@@ -2,6 +2,171 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-01-05-politico-reporter-tells-journalists-call-gopers-objecting-to-biden-win-radicals-extremists.md",
+      "title": "Politico reporter tells journalists: Call GOPers objecting to Biden win 'radicals', 'extremists'",
+      "excerpt": "Politico chief political correspondent Tim Alberta is urging other journalists to refrain from characterizing any Republican who supports President Trump's ongoing efforts to challenge the results of the 2020 presidential election as a \"conservative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/politico-tim-alberta-republicans-radicals-extremists",
+      "originalUrl": "https://www.foxnews.com/media/politico-tim-alberta-republicans-radicals-extremists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b35a2672-345b-40da-8e02-a17c39c4dd36/5f64718e-370f-4ef4-9f1b-4ff1343125df/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/politico-tim-alberta-republicans-radicals-extremists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tim-alberta-republicans-radicals-extremists.amp",
+      "publishedDateTime": "2021-01-04T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.md",
+      "title": "White House responds to report suggesting Trump will head to Scotland before inauguration",
+      "excerpt": "The White House downplayed a report late Monday that suggested President Trump may be planning a trip to Scotland the day before the inauguration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/938pgdVeLhk/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-responds-to-report-suggesting-trump-will-head-to-scotland-before-inauguration.amp",
+      "publishedDateTime": "2021-01-04T21:04:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-defense-secretaries-letter-warning-trump-was-signed-by-all-in-only-2-days.md",
+      "title": "Defense secretaries' letter warning Trump was signed by all in only 2 days",
+      "excerpt": "The letter was drafted and orchestrated in consultation with former Republican Vice President Dick Cheney, himself a former secretary of defense.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
+      "originalUrl": "https://abcnews.go.com/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pentagon-gty-jt-191212_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/defense-secretaries-letter-warning-trump-signed-days/story?id=75036788",
+      "publishedDateTime": "2021-01-04T19:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-trump-to-approve-land-swap-for-rio-tintos-resolution-copper-project-us-forest-service.md",
       "title": "Trump to approve land swap for Rio Tinto's Resolution Copper project: U.S. Forest Service",
       "excerpt": "U.S. President Donald Trump's outgoing administration plans to approve a controversial land swap needed for Rio Tinto Ltd and partners to build an Arizona copper project that Native American tribes say will destroy sites of cultural and religious value.",
@@ -1156,163 +1321,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-president-trump-rails-against-media-coverage-of-fauci-he-works-for-me.md",
-      "title": "President Trump rails against media coverage of Fauci: ‘He works for me’",
-      "excerpt": "President Trump on Sunday griped that the news media is giving Dr. Anthony Fauci credit for the coronavirus response that he deserves.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/",
-      "originalUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-anthony-fauci.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/amp/",
-      "publishedDateTime": "2021-01-03T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-us-surgeon-general-no-reason-to-doubt-covid-19-death-toll-number-after-trump-claims-deaths-exaggerated.md",
-      "title": "US surgeon general: 'No reason to doubt' Covid-19 death toll number after Trump claims deaths 'exaggerated'",
-      "excerpt": "US Surgeon General Dr. Jerome Adams on Sunday said he has \"no reason to doubt\" the US Centers for Disease Control and Prevention's Covid-19 death toll, contradicting President Donald Trump's claim that the agency has \"exaggerated\" its numbers.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYGtfOWoNB4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYGtfOWoNB4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180516200947-jerome-adams-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/03/politics/jerome-adams-trump-coronavirus-death-toll-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/jerome-adams-trump-coronavirus-death-toll-cnntv/index.html",
-      "publishedDateTime": "2021-01-03T08:07:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-trumps-allies-are-rounding-on-lin-wood-after-he-tweeted-about-executing-mike-pence-and-arresting-mitch-mcconnell.md",
-      "title": "Trump's allies are rounding on Lin Wood after he tweeted about executing Mike Pence and arresting Mitch McConnell",
-      "excerpt": "Trump lawyer had posted a series of unhinged tweets saying the vice president should be arrested and executed over the 2020 election results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
-      "originalUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 569,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe87d0cedf8920018093c92?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp",
-      "publishedDateTime": "2021-01-03T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
       ]
     }
   ],

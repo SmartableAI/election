@@ -2098,6 +2098,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Republicans pounce on Biden orders"
+    excerpt: "Republican criticism of President Joe Biden's recent executive orders mounted Thursday, foreshadowing the challenges ahead as the administration seeks to enact portions of its sweeping climate agenda."
+    publishedDateTime: 2021-01-29T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-energy/2021/01/29/republicans-pounce-on-biden-orders-793045"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Biden eyeing ways to prevent impeachment from derailing Senate confirmations"
     excerpt: "A Trump trial in the early days of the new administration would throw a wrench into the battle to confirm nominees."
     publishedDateTime: 2021-01-11T21:46:00Z

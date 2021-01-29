@@ -540,6 +540,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Republicans condemned Donald Trump. Now they’re seeking his help"
+    excerpt: "House Republican leader Kevin McCarthy declared Donald Trump culpable in the deadly attack on the U.S. Capitol. By Thursday, he was seeking his political support."
+    publishedDateTime: 2021-01-29T15:04:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/republicans-condemned-donald-trump-now-theyre-seeking-his-help/KWYJ7M5QOFFTHDR4QMTQL72XQI/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/WS-SVnSWaN5aLUubCQaDwdiRJXk=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/DOMQFJO3C5H5EDNKDUMTEHRHFU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "dZmRvtjGd37ZNtVR7k1dxisGEPmYK/pA9ONHUPJTB0p2q1YUcvjM1G7qLNW2x88jXCGyD3aivdIqfuJMMQ4pbL02OsMgvfbBKe/UuMK30JhSCk/e4SrqH0DLJ3lRDO1In3u+mnoVe7eSB11oC1wmZaJ+z95tvfNOyFmVFVC7RBmhDP3+swz7SFlRORauPI+Ia0U5JgEIpDJFwggRDtFlEzHqywsk0Ubzped2GpYO3ewYECqGqxStowypuvlHNBr22E4iAXBQJoEbBHw3ZsCyRWInK4NqhdiRg1+S4tRX2y4JU5KwzdYJb/jldINeMSeo16XsboMzL/pOZuDcDesRWzlA6LX5D3Z/U3VO+IR0G/M=;+Q6Aeiq4LTPnWsJwbSi8VQ=="
 ---

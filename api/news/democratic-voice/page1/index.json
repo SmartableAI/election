@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-29-biden-taps-iran-envoy-to-face-challenges-of-confronting-both-tehran-and-polarized-views-at-home.md",
+      "title": "Biden taps Iran envoy to face challenges of confronting both Tehran and polarized views at home",
+      "excerpt": "The Biden administration has tapped Robert Malley, a progressive foreign policy expert who served on the Obama administration's negotiating team for the Iran nuclear deal, as its new top envoy for Iran.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JXxUB8oA6-w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JXxUB8oA6-w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210129111003-restricted-file-robert-malley-2017-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/29/politics/rob-malley-iran-envoy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/rob-malley-iran-envoy/index.html",
+      "publishedDateTime": "2021-01-29T08:24:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-desantis-florida-deserves-federal-help-governor-proposes-1b-climate-initiative-morgan-biden-gaetz-bashes-cheney-in-wyoming.md",
       "title": "DeSantis: Florida deserves federal help — Governor proposes $1B climate initiative — Morgan & Biden? — Gaetz bashes Cheney in Wyoming",
       "excerpt": "When Gov. Ron DeSantis laid out his $96 billion budget plan on Thursday, he was unapologetic that the billions of dollars that came out of Washington, D.C., have helped the state deal with the fallout from an economic collapse.",
@@ -112,63 +168,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-live-updates-biden-hopes-to-win-gop-support-on-19-trillion-relief-package.md",
-      "title": "Live Updates: Biden Hopes to Win G.O.P. Support on $1.9 Trillion Relief Package",
-      "excerpt": "But some Democrats see a path forward unilaterally. The administration named Robert Malley as a special envoy who must persuade Tehran to rein in its nuclear program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment",
-      "originalUrl": "https://www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/29/world/29new-washington-briefing-stimulus/29new-washington-briefing-stimulus-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment.amp.html",
-      "publishedDateTime": "2021-01-29T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -849,63 +848,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-26-irans-un-ambassador-says-iran-is-waiting-for-president-biden-to-make-the-first-diplomatic-move.md",
-      "title": "Iran's U.N. ambassador says Iran is waiting for President Biden to make the first diplomatic move",
-      "excerpt": "The Biden administration needs to lift sanctions on Iran and return to the nuclear deal that Trump ditched, the Iranian ambassador to the U.N. says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/national-security/iran-s-un-ambassador-says-iran-waiting-president-biden-make-n1255608",
-      "originalUrl": "https://www.nbcnews.com/politics/national-security/iran-s-un-ambassador-says-iran-waiting-president-biden-make-n1255608",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_04/3170401/200103-majid-takht-ravanchi-ew-432p_8963558298725b2e9f0f5729a9a8ba44.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1255608",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255608",
-      "publishedDateTime": "2021-01-26T01:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-26-sarah-sanders-run-for-arkansas-governor-to-test-value-of-ties-to-trump.md",
       "title": "Sarah Sanders' run for Arkansas governor to test value of ties to Trump ",
       "excerpt": "Sarah Huckabee Sanders on Monday became the first of what could be a wave of Republicans from former President Donald Trump's inner circle to chart a political future, launching her bid for Arkansas governor.\n    \n",
@@ -1030,7 +972,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 870,
+      "heat": 910,
       "tags": null,
       "images": [
         {
@@ -1667,6 +1609,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html",
       "publishedDateTime": "2021-01-22T10:51:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-fauci-says-lack-of-candor-from-trump-administration-very-likely-cost-lives.md",
+      "title": "Fauci says lack of candor from Trump administration 'very likely' cost lives",
+      "excerpt": "Dr. Anthony Fauci said Friday that the lack of truthfulness from the Trump administration regarding the Covid-19 pandemic \"very likely\" cost American lives.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/taeDdXHZFJU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/taeDdXHZFJU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210121183810-03-white-house-covid-presser-0121-fauci-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html",
+      "publishedDateTime": "2021-01-22T05:27:57-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

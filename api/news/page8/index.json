@@ -2,6 +2,162 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-21-donald-trump-grants-clemency-to-legendary-las-vegas-gambler-billy-walters.md",
+      "title": "Donald Trump grants clemency to legendary Las Vegas gambler Billy Walters",
+      "excerpt": "Famed sports gambler Billy Walters was among the 143 people to which outgoing President Donald Trump granted clemency in his final day in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/2t16n8Mz9CcYaGATnLGU-glOYJs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KOZBWRJWBJHHPENSR4ZSMVOI4M.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-20T09:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-joe-biden-invokes-lincoln-in-plea-for-unity-an-end-to-uncivil-war.md",
+      "title": "Joe Biden Invokes Lincoln in Plea for Unity, an End to 'Uncivil War'",
+      "excerpt": "Biden asked those who didn't support him as president to give him a chance and urged people to open their souls and show tolerance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-invokes-lincoln-plea-unity-end-uncivil-war-1563130",
+      "originalUrl": "https://www.newsweek.com/joe-biden-invokes-lincoln-plea-unity-end-uncivil-war-1563130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1712291/joe-biden-inauguration-lincoln-speech-unity.jpg",
+          "width": 2500,
+          "height": 1690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-invokes-lincoln-plea-unity-end-uncivil-war-1563130?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-invokes-lincoln-plea-unity-end-uncivil-war-1563130?amp=1",
+      "publishedDateTime": "2021-01-20T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-how-the-government-will-thoroughly-clean-and-disinfect-white-house-furniture-door-knobs-and-light-switches-after-trump-leaves.md",
+      "title": "How the government will 'thoroughly clean and disinfect' White House furniture, door knobs, and light switches after Trump leaves",
+      "excerpt": "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12",
+      "originalUrl": "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc827f450e71a001155893f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-pence-skips-trump-send-off-where-outgoing-president-thanks-him-attends-biden-inauguration.md",
       "title": "Pence skips Trump send-off where outgoing president thanks him, attends Biden inauguration",
       "excerpt": "Vice President Mike Pence attended President-elect Joe Biden's inaugural ceremony on Wednesday after skipping President Trump's farewell address at Joint Base Andrews.",
@@ -1180,170 +1336,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-joe-biden-set-to-arrive-in-washington-on-eve-of-his-inauguration.md",
-      "title": "Joe Biden set to arrive in Washington on eve of his inauguration",
-      "excerpt": "President-elect Joe Biden arrives in Washington Tuesday for the start of his inaugural ceremonies at a dark and solemn moment in American history, preparing to take his oath of office as the US approaches 400,000 coronavirus deaths and is more divided than at any time since the Civil War.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2b-bS4R_BRc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2b-bS4R_BRc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 515,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210118185745-field-of-flags-210118-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html",
-      "publishedDateTime": "2021-01-19T10:50:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-tiffany-trump-announces-engagement-to-michael-boulos-with-white-house-photo-hours-before-father-leaves-office.md",
-      "title": "Tiffany Trump announces engagement to Michael Boulos with White House photo, hours before father leaves office",
-      "excerpt": "President Trump's youngest daughter Tiffany Trump and her beau Michael Boulos announced their engagement with a photo taken at the White House on the president's last day in office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xgWSi5LmmCg/tiffany-trump-engaged-michael-boulos-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xgWSi5LmmCg/tiffany-trump-engaged-michael-boulos-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tiffany-trump-engaged-michael-boulos-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-engaged-michael-boulos-white-house.amp",
-      "publishedDateTime": "2021-01-19T10:02:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-donald-trump-is-first-president-in-modern-history-to-never-reach-50-approval-in-gallup-poll.md",
-      "title": "Donald Trump is First President in Modern History to Never Reach 50% Approval in Gallup Poll",
-      "excerpt": "Trump will also exit the White House with the lowest average approval rating of any president in the Gallup poll. At 41 percent, the president's rating is four points lower than the averages of Jimmy Carter and Harry Truman,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653",
-      "originalUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1710870/donald-trump-border-wall-visit-1-12-2021.jpg",
-          "width": 2500,
-          "height": 1623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653?amp=1",
-      "publishedDateTime": "2021-01-19T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
