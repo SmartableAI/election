@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-01-from-covfefe-to-the-mooch-10-funny-moments-from-the-trump-presidency.md",
+      "title": "From covfefe to the Mooch: 10 funny moments from the Trump presidency",
+      "excerpt": "Amid four years of corruption, caging children and trashing democracy there were some light-hearted moments – no really",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/76465e089e54707c797f297b9ad6992732765620/0_0_3465_2080/master/3465.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=989b841aea1fe87f1b98431a116acc58",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/donald-trump-presidency-funny-moments",
+      "publishedDateTime": "2020-12-31T23:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-trump-reportedly-lashed-out-at-kushner-over-increased-covid-19-testing-im-going-to-lose-and-its-going-to-be-your-fault.md",
       "title": "Trump reportedly lashed out at Kushner over increased COVID-19 testing: 'I'm going to lose, and it's going to be your fault'",
       "excerpt": "Trump reportedly told Kushner, \"I want to do what Mexico does. They don't give you a test till you get to the emergency room and you're vomiting.\"",
@@ -1525,63 +1577,6 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-the-trump-bump-for-books-has-been-significant-can-it-continue.md",
-      "title": "The ‘Trump Bump’ for Books Has Been Significant. Can It Continue?",
-      "excerpt": "As a new administration looms, publishers have snapped up another crop of forthcoming Trump books by prominent journalists and pundits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/21/books/00trumpbooks2/merlin_179822574_2e450d6e-0246-43c1-a80c-8d197ee7f3bc-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/24/books/trump-administration-books-2021.amp.html",
-      "publishedDateTime": "2020-12-24T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

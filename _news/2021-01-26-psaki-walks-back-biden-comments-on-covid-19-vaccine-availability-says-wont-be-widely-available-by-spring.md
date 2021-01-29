@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-press-conference-biden-vaccin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-press-conference-biden-vaccine.amp"
 type: article
 quality: 157
-heat: 177
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Psaki hints Biden may skip bipartisan deal on COVID-19 if needed: 'Not going to take any tools off the table'"
-    excerpt: "President Biden has signaled that he wants to secure bipartisan support for another coronavirus relief package, but his administration is refusing to rule out unilateral action by congressional Democrats on the next round of emergency aid. "
-    publishedDateTime: 2021-01-21T19:27:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LfrsAcP4MT8/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table.amp"
+  - title: "Biden suggests he would allow COVID-19 relief bill to move under 'reconciliation' with GOP support"
+    excerpt: "President Biden told reporters Thursday that coronavirus relief will be passed with or without the support of congressional Republicans."
+    publishedDateTime: 2021-01-29T21:23:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2uBTG67udY8/biden-says-he-will-get-covid-relief-passed-no-ifs-and-or-buts"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-he-will-get-covid-relief-passed-no-ifs-and-or-buts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-he-will-get-covid-relief-passed-no-ifs-and-or-buts.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02ffb9d0-2cf9-48be-ab41-b1de73501fc5/9e9d4d74-cf2f-45e3-b809-ad89a8a6aee2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donal
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates"
 type: article
 quality: 125
-heat: 745
+heat: 765
 published: true
 
 provider:
@@ -442,6 +442,22 @@ related:
       - url: "https://i.insider.com/600abde421f52a0018cba02d?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden pushing for major immigration reforms, but another humanitarian crisis at the border could derail his agenda"
+    excerpt: "There are signs that a crisis could be brewing, from migrant caravans forming in Central America to asylum seekers protesting at the U.S. border."
+    publishedDateTime: 2021-01-29T21:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/immigration/2021/01/29/another-humanitarian-crisis-border-could-derail-bidens-agenda/4246680001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4246680001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4246680001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PPHX/edadfce1-ffd2-493e-b34d-83d803317283-AP21020798939360.jpg?auto=webp&crop=4206,2366,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'This is our historic moment of crisis and challenge': Joe Biden calls for unity in first speech as president – live"
     excerpt: "Joe Biden has been sworn in as president, bringing an end to four years of Donald Trump’s leadership in Washington"

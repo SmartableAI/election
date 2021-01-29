@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump White House donated 8,700 ventilators to other nations. Officials now don’t know where many of them are, watchdog finds."
+    excerpt: "The GAO was unable to identify how the Trump White House made its decisions on ventilator allocations. Sri Lanka had just three new coronavirus cases per day when it received 200 ventilators. Bangladesh,"
+    publishedDateTime: 2021-01-29T22:07:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/2021/01/29/usaid-trump-ventilators-watchdog/"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/2021/01/29/usaid-trump-ventilators-watchdog/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2021/01/29/usaid-trump-ventilators-watchdog/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 97
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MBQZY7Q7TEI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "6h7r6GeLNV+jiTqoltJKOwGp1TQ10E8gP2mAz1nt/fTuzvQQLO9azDsRt2w9XqL68L0lHLaGWQ0jTdLSkaj39E6crGPsl5rrLcXQyjhyGY1qpTcU4P3BOWWLTjK4Kix5V9rXgMNistFV7MfO/2qDK5st5JUIL1RSZAZVuAPRAttIRVDJ+e6TZKz4UhNot1U8mqehajjRm8nzcbc3l5cabA+VUyE61EtwiHxTGt1OKXK63RqRMyb1svApCOEWx1VjyU67tbSz+mfodErOS7IFv22xOLNnGEZOY3b+AKiKMStPw1C6IOSdc+pHhxpOVWGcNVlZiCLlz6RzrRS3BMfZzVILezGFw/zEoHJ9Bgn3AF8hSHcc1QfsfKr2fcfJ2ViXSYgqcSLs15F8q35/c4YZV9bdGT3EosDaqYZJjpe20qirHL2qdx3klfSJ100e7EOotKqw1fO1iCVWevVGYCGsozQPPBtc8gpe3AbEQFGIDROSrA8z9QDvT6/hM+E5OeGfGk42Huxq3Zenkn0qt/Kojg==;UUgNt52bJ00PcrJuplSw4w=="
 ---

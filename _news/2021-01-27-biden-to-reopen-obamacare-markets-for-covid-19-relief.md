@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-m
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/26/68dab874-c21b-4556-90b1-af7217166798/thumbnail/1200x630/993b8c863211e6b4f1e875eb8a050a63/gettyimages-1230802973.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden renews deportation relief for Syrians in the United States"
+    excerpt: "The administration of President Joe Biden on Friday extended deportation relief for several thousand Syrian immigrants living in the United States, an early move that aligns with his broader pro-immigrant platform."
+    publishedDateTime: 2021-01-29T21:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-immigration-syria-int-idUSKBN29Y28W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y28W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y28W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549573106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1AD"
+        width: 818
+        height: 545
         isCached: true
   - title: "Biden to reopen healthcare.gov as people lose coverage amid COVID-19: report"
     excerpt: "U.S. President Joe Biden plans to order the nation's online insurance marketplace, healthcare.gov, to reopen for at least a few months to offer Americans a way to buy health insurance amid the COVID-19 pandemic,"

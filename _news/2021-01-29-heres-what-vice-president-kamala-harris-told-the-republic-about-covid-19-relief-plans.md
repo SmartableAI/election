@@ -27,67 +27,161 @@ images:
     isCached: true
 
 related:
-  - title: "'Representation is important:' Local South Asian-Americans react to Kamala Harris' inauguration as vice president"
-    excerpt: "Kamala Harris may be the first woman to serve as vice president of the United States, but her inauguration last week also marked the first time an American of South Asian descent was elected to such a high national office."
-    publishedDateTime: 2021-01-26T23:37:00Z
-    webUrl: "https://www.chicagotribune.com/suburbs/park-ridge/ct-prh-kamala-harris-south-asian-community-tl-0128-20210126-cndkdij3rrgqfnw32eiohe6qzq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/suburbs/park-ridge/ct-prh-kamala-harris-south-asian-community-tl-0128-20210126-cndkdij3rrgqfnw32eiohe6qzq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/park-ridge/ct-prh-kamala-harris-south-asian-community-tl-0128-20210126-cndkdij3rrgqfnw32eiohe6qzq-story.html?outputType=amp"
+  - title: "Ella Emhoff, Kamala Harris's stepdaughter, signs with IMG Models"
+    excerpt: "IMG Models chief says design student ‘exudes joy’ and will join poet Amanda Gorman at agency"
+    publishedDateTime: 2021-01-29T14:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 104
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/UPr6Q60l0I58--VyC8AgXhAxoWk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZFT3MU6F6VBK7LNE3T4HL6RCQU.jpg"
-        width: 1200
-        height: 800
+      - url: "https://i.guim.co.uk/img/media/89bb9f7e42085dbd40c3b2e6f0b07e524a2b4733/0_103_7184_4310/master/7184.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fd9acd50a4e6222a3cba4fce6f922c6b"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Kamala Harris as VP sparks pride, tears of joy among South Asians in Hicksville and beyond"
-    excerpt: "When Kamala Devi Harris was sworn in Wednesday as vice president, some of the women in Deepak Bansal’s Hicksville office started crying. \"It was [a] great moment, historical moment,\" Bansal said. \"In"
-    publishedDateTime: 2021-01-25T10:14:00Z
-    webUrl: "https://www.newsday.com/long-island/nassau/kamala-harris-indian-american-vice-president-1.50128780"
-    ampWebUrl: "https://www.newsday.com/amp/long-island/nassau/kamala-harris-indian-american-vice-president-1.50128780"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/nassau/kamala-harris-indian-american-vice-president-1.50128780"
+  - title: "Ella Emhoff, Kamala Harris' stepdaughter, snags modeling deal with IMG"
+    excerpt: "Vice President Kamala Harris ' stepdaughter Ella Emhoff, has a new modeling deal and it's major. She will officially be joining an all-star lineup of notables as one of IMG Models' newest faces. The prestigious agency has been famously known for its alignment with supermodels such as Gisele Bündchen,"
+    publishedDateTime: 2021-01-29T21:06:00Z
+    webUrl: "https://abcnews.go.com/GMA/Style/ella-emhoff-kamala-harris-stepdaughter-snags-modeling-deal/story?id=75563684"
+    ampWebUrl: "https://goodmorningamerica.com/amp/style/story/ella-emhoff-kamala-harris-stepdaughter-snags-modeling-deal-75563684"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/style/story/ella-emhoff-kamala-harris-stepdaughter-snags-modeling-deal-75563684"
     type: article
     provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 65
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.50130423.1611573246!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+      - url: "https://s.abcnews.com/images/GMA/ella-emhoff-crop-gty-rc-210129_1611936263218_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Love Kamala Harris? Buy Converse Sneakers And Pearls Like Hers Online"
+    excerpt: "Vice President Kamala Harris' signature #chucksandpearls look has endeared her to so many women across the nation. Here's how you can pull it off without breaking the bank"
+    publishedDateTime: 2021-01-22T22:40:00Z
+    webUrl: "https://www.newsweek.com/amplify/love-kamala-harris-buy-converse-sneakers-pearls-like-hers-online"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 105
+    images:
+      - url: "https://d.newsweek.com/en/full/1686820/kamala-harris-queen-theater-12-11-2020.jpg"
+        width: 2500
+        height: 1712
+        isCached: true
+  - title: "Joe Biden basing Kamala Harris relationship on Obama model | Charlotte Observer"
+    excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
+    publishedDateTime: 2021-01-29T16:52:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article248840399.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article248840399.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article248840399.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 86
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
         width: 1280
-        height: 719
+        height: 720
         isCached: true
-  - title: "Vice President Kamala Harris: White House wants to accelerate COVID-19 vaccinations in Arizona"
-    excerpt: "\"We have big problems right now, but we also have the ability to be bold with big solutions,\" Vice President Kamala Harris told The Arizona Republic."
-    publishedDateTime: 2021-01-28T20:00:00Z
-    webUrl: "https://www.azcentral.com/story/news/local/arizona-health/2021/01/28/white-house-wants-accelerate-covid-19-vaccinations-arizona/4293561001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4293561001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4293561001"
+  - title: "Joe Biden basing Kamala Harris relationship on Obama model | Raleigh News & Observer"
+    excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
+    publishedDateTime: 2021-01-29T15:18:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article248840399.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article248840399.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article248840399.html"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 63
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 83
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/94c6f544-c7e2-45fb-9942-7c91a029b88f-VPC_BIDEN_SOT_DESK.00_00_07_05.Still015.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris' inauguration dress made by Louisiana designer"
+    excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
+    publishedDateTime: 2021-01-23T14:42:00Z
+    webUrl: "https://www.chron.com/news/article/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Kamala Harris' inauguration dress made by Louisiana designer"
+    excerpt: "The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
+    publishedDateTime: 2021-01-23T21:05:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/23/kamala-harris-inauguration-dress-made-by-louisiana/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/23/kamala-harris-inauguration-dress-made-by-louisiana/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/23/kamala-harris-inauguration-dress-made-by-louisiana/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/21/biden_inauguration_harris_48328_c0-242-5820-3637_s1200x700.jpg?e52f6e140b4040e7519f6080cc14ad0f9ca0b58a"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Kamala Harris' Stepdaughter Ella Emhoff Signs With IMG Models"
+    excerpt: "Ella Emhoff, the stepdaughter of Vice President Kamala Harris, made waves on the internet for donning a sparkling Miu Miu coat to “Momala’s” swearing in on Jan. 20. The chic inauguration ensemble even caught the eye of prestigious modeling agency IMG Models."
+    publishedDateTime: 2021-01-29T08:54:00Z
+    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/"
+    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/Ella-Emhoff-IMG-Models.jpg?crop=221px%2C98px%2C4065px%2C2285px&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
-  - title: "'Overjoyed with tears': South Texan helped create Kamala Harris' Inauguration outfit"
-    excerpt: "The purple outfit Vice President Kamala Harris wore on Inauguration Day had a South Texas connection. Arturo Castaneda Contreras, a Rio Grande Valley native, helped make the pattern and sewed the top coat Harris wore Wednesday for the historic day."
-    publishedDateTime: 2021-01-22T16:02:00Z
-    webUrl: "https://www.sfchronicle.com/news/local/article/Rio-Grande-Valley-native-helped-create-Vice-15889911.php"
+  - title: "Kamala Harris’ Stepdaughter Ella Emhoff Convinced ‘Protective’ Family To Accept Modeling Career"
+    excerpt: "After attending the inauguration of President Joe Biden and Vice President Kamala Harris, Ella Emhoff has signed a contract with the modeling agency, IMG. Although the VP’s stepdaughter went viral after wearing an embellished plaid Miu Miu coat to the historic event,"
+    publishedDateTime: 2021-01-28T21:29:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoff-convinced-protective-family-accept-modeling-3132804"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoff-convinced-protective-family-accept-modeling-3132804?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoff-convinced-protective-family-accept-modeling-3132804?amp=1"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 48
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
     images:
-      - url: "https://s.hdnux.com/photos/01/16/20/25/20514135/7/rawImage.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/20/ella-emhoff-the-step-daughter-of-democratic-vice.jpg"
+        width: 1024
+        height: 573
+        isCached: true
+  - title: "Inside Kamala Harris' New Home-and Why It's Not Where You Think"
+    excerpt: "Vice presidents usually settle into the Naval Observatory, but for now Kamala Harris is dropping her bags elsewhere. Here's why. While everyone knows that President Joe Biden resides at the White House,"
+    publishedDateTime: 2021-01-25T21:30:00Z
+    webUrl: "https://www.chron.com/realestate/article/Inside-Kamala-Harris-New-Home-and-Why-It-s-Not-15896968.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/24/75/20533103/3/rawImage.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "SsiOSMlb6X/a7ao8hUhjl22zTnn29BdpanaHOAi/1ywufuE/M3oyADPJ503Z3OXFCcE8INJeOIWlKm93N/RjVhEEN+EVuCe5kEuRhB6tho2NG+qWXUflmZrqa1QeO2hxnRMLouar9XlVzSi0nPeKLYWM1zAadczF2/UnVV6dNehuM9o5UxXmc+45ViKm6EMvlucogicdfdkp3Omih99Eefsdhp0Nwg/p6iWL8tw2pPl5ovSshG/qXHeSew0ZBSOjn1S9A2/muGrTJglJ5XNFJgR144VA4ulhpVmD6vB9mDffZYo6kUYOTMgqilMSq18VioIpIAxx9pCK0h9wwrJ6grJS1wN8/Q7mwy7k/JfYEL8CD3UJHqB2KWRWexT8Ujk6mTIvA2UxSIf1XKUPPv6RrBo8W+oeRHPK8EEnT8Oa5fr6c0yVcWJdtyLeFGGH2QeT2kzw0OfxzMOjLCN/A4pFKh3ICud+lLMEh3zAIeAOGqos91SFiPVcqFh7J2Do8E7Wpa8rE9MiCgkIMGOsPdFhLw==;oHl88Oni25RIMoezrzIcjw=="

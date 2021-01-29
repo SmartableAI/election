@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2900
+heat: 2920
 published: true
 
 provider:
@@ -1659,6 +1659,22 @@ related:
     quality: 135
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120213030-biden-inauguration-speech-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The latest on the Biden presidency"
+    excerpt: "President Joe Biden forges ahead with his new administration and agenda as former President Trump's impeachment trial looms. Follow here for the latest."
+    publishedDateTime: 2021-01-29T20:34:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-1-29-21/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-presidency-trump-impeachment-1-29-21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-presidency-trump-impeachment-1-29-21/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127160132-rba-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

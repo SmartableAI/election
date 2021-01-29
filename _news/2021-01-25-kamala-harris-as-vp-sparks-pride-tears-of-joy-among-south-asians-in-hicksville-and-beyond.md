@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Here's what Vice President Kamala Harris told The Republic about COVID-19 relief plans"
-    excerpt: "Vice President Kamala Harris advocated for the Biden administration's American Rescue Plan legislation in a virtual meeting with The Arizona Republic."
-    publishedDateTime: 2021-01-28T23:36:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/01/28/kamala-harris-told-the-arizona-republic-covid-19-relief-american-rescue-plan/4296845001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4296845001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4296845001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PPHX/cb204f9d-b642-4c95-a432-fcaf637c5559-What_Change_America_07A.JPG?auto=webp&crop=4606,2591,x0,y285&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Vice President Kamala Harris: White House wants to accelerate COVID-19 vaccinations in Arizona"
     excerpt: "\"We have big problems right now, but we also have the ability to be bold with big solutions,\" Vice President Kamala Harris told The Arizona Republic."
     publishedDateTime: 2021-01-28T20:00:00Z

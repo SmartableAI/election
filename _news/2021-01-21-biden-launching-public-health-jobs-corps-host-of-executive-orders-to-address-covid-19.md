@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Ohio Republicans propose state holiday honoring ex-President Donald Trump"
+    excerpt: "A pair of lawmakers from Ohio want to set aside a day to honor former President Trump. The proposal from two Republican state legislators would make June 14 every year President Donald Trump Day"
+    publishedDateTime: 2021-01-29T21:42:00Z
+    webUrl: "https://nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/"
+    ampWebUrl: "https://nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Donald-Trump-16.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden signs executive orders expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
     excerpt: "President Biden on Thursday signed a pair of executive orders expanding access to the Affordable Care Act during the coronavirus pandemic and rolling back some of the anti-abortion measures implemented by the Trump administration."
     publishedDateTime: 2021-01-29T04:25:00Z

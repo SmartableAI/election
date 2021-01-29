@@ -2,6 +2,174 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-29-democrats-outraged-as-anti-cuomo-troll-uses-maxine-waters-quote-that-had-targeted-trump-aides.md",
+      "title": "Democrats outraged as anti-Cuomo troll uses Maxine Waters quote that had targeted Trump aides",
+      "excerpt": "Democrats have been riled up on Twitter after a troll account altered a quote by Rep. Maxine Waters, D-Calif., to go after Gov. Andrew Cuomo.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XapNwoUtNSg/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XapNwoUtNSg/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize.amp",
+      "publishedDateTime": "2021-01-29T14:23:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-biden-suggests-he-would-allow-covid-19-relief-bill-to-move-under-reconciliation-with-gop-support.md",
+      "title": "Biden suggests he would allow COVID-19 relief bill to move under 'reconciliation' with GOP support",
+      "excerpt": "President Biden told reporters Thursday that coronavirus relief will be passed with or without the support of congressional Republicans.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2uBTG67udY8/biden-says-he-will-get-covid-relief-passed-no-ifs-and-or-buts",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2uBTG67udY8/biden-says-he-will-get-covid-relief-passed-no-ifs-and-or-buts",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-he-will-get-covid-relief-passed-no-ifs-and-or-buts.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-he-will-get-covid-relief-passed-no-ifs-and-or-buts.amp",
+      "publishedDateTime": "2021-01-29T13:23:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform.md",
+      "title": "AOC, Green New Dealers rejoice over Biden’s climate plan: ‘It’s almost as if we helped shape the platform’",
+      "excerpt": "Advocates for the Green New Deal have praised the Biden administration for its early moves to address climate change, taking a victory lap after the president signed a slew of sweeping executive orders targeting the environment.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xa7e3xBeUSY/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xa7e3xBeUSY/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f87b45ab-9b1d-4274-910d-0cd5d365ed79/daf8ef02-3c48-4616-96db-218daa791fed/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform.amp",
+      "publishedDateTime": "2021-01-29T12:59:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.md",
       "title": "Cuomo blames nursing home scandal on 'political attack' by Trump admin",
       "excerpt": "In his first public comments since a scathing attorney general report finding New York Gov. Andrew Cuomo’s administration undercounted nursing home deaths, the governor on Friday argued criticisms of him were a \"political attack\" that began with the Trump administration. ",
@@ -408,7 +576,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -576,7 +744,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 273,
+      "heat": 293,
       "tags": null,
       "images": [
         {
@@ -1499,174 +1667,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.md",
-      "title": "Dr. Scott Atlas fires back at Birx over 'bizarre' claim he gave Trump 'parallel data streams' on COVID",
-      "excerpt": "Former White House coronavirus adviser Dr. Scott Atlas joined \"The Ingraham Angle\" Tuesday to respond to former White House coronavirus response coordinator Dr. Deborah Birx's claim that he provided former President Trump with \"parallel data streams\" about the pandemic. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfIrozKUsas/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfIrozKUsas/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.amp",
-      "publishedDateTime": "2021-01-26T21:29:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-cuomo-says-biden-vaccine-ramp-up-not-enough-for-new-york.md",
-      "title": "Cuomo says Biden vaccine ramp up 'not enough' for New York",
-      "excerpt": "New York Gov. Andrew Cuomo said on Tuesday that President Biden’s plan to ramp up distribution of the COVID-19 vaccine was \"not enough,\" as the Empire State faces a shortage of doses.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YJIzm7xJJBo/cuomo-biden-vaccine-ramp-up-not-enough-ny",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YJIzm7xJJBo/cuomo-biden-vaccine-ramp-up-not-enough-ny",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80409122-a6c0-4a2a-bb5d-bd1a504fe2f8/e3f75bfd-08a4-4139-b7b4-7414de337f4d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-biden-vaccine-ramp-up-not-enough-ny.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-biden-vaccine-ramp-up-not-enough-ny.amp",
-      "publishedDateTime": "2021-01-26T16:50:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-biden-ending-keystone-pipeline-project-was-totally-political-laid-off-pipeline-worker.md",
-      "title": "Biden ending Keystone pipeline project was 'totally political': Laid-off pipeline worker",
-      "excerpt": "The Biden administration's cancelation of the Keystone XL Pipeline project was \"totally political,\" a laid-off worker said on Tuesday, expressing dismay after being unemployed due to the executive order. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fhz5WOxVpc/biden-ending-keystone-pipeline-project-political-worker",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fhz5WOxVpc/biden-ending-keystone-pipeline-project-political-worker",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp",
-      "publishedDateTime": "2021-01-26T13:15:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

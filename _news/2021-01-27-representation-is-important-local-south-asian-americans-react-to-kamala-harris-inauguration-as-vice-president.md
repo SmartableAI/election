@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/suburbs/park-ridge/ct-prh-kamala-harr
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/park-ridge/ct-prh-kamala-harris-south-asian-community-tl-0128-20210126-cndkdij3rrgqfnw32eiohe6qzq-story.html?outputType=amp"
 type: article
 quality: 104
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's what Vice President Kamala Harris told The Republic about COVID-19 relief plans"
-    excerpt: "Vice President Kamala Harris advocated for the Biden administration's American Rescue Plan legislation in a virtual meeting with The Arizona Republic."
-    publishedDateTime: 2021-01-28T23:36:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/01/28/kamala-harris-told-the-arizona-republic-covid-19-relief-american-rescue-plan/4296845001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4296845001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4296845001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PPHX/cb204f9d-b642-4c95-a432-fcaf637c5559-What_Change_America_07A.JPG?auto=webp&crop=4606,2591,x0,y285&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Kamala Harris as VP sparks pride, tears of joy among South Asians in Hicksville and beyond"
     excerpt: "When Kamala Devi Harris was sworn in Wednesday as vice president, some of the women in Deepak Bansal’s Hicksville office started crying. \"It was [a] great moment, historical moment,\" Bansal said. \"In"
     publishedDateTime: 2021-01-25T10:14:00Z

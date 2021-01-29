@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden renews deportation relief for Syrians in the United States"
+    excerpt: "The administration of President Joe Biden on Friday extended deportation relief for several thousand Syrian immigrants living in the United States, an early move that aligns with his broader pro-immigrant platform."
+    publishedDateTime: 2021-01-29T21:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-immigration-syria-int-idUSKBN29Y28W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y28W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y28W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549573106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1AD"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts"
     excerpt: "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said."
     publishedDateTime: 2021-01-23T18:57:00Z

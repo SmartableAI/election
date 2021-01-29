@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-meets-with-mccarthy-in-florid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/KevinMcCarthyTrump.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Ana Navarro calls McCarthy's visit to Trump 'white slavery': He looks like he's 'owned by his master'"
+    excerpt: "Ana Navarro panned House Minority Leader Kevin McCarthy's recent meeting with President Trump at Mar-a-Lago, saying the GOP congressman is a \"slave\" to the former commander-in-chief."
+    publishedDateTime: 2021-01-29T22:39:00Z
+    webUrl: "https://www.foxnews.com/media/ana-navarro-kevin-mccarthy-white-slavery-trump"
+    ampWebUrl: "https://www.foxnews.com/media/ana-navarro-kevin-mccarthy-white-slavery-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ana-navarro-kevin-mccarthy-white-slavery-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/411dd625-e2d8-49fc-9ce9-9d4b1c75516f/5557711e-00ad-4dd0-8602-986965f82e5d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "RQTAVznLjahyM5Nbra0Agc6zd+hjRwKDU3VePdEKonV5Gr4MxLmvx2oMbDVuw1L7RMCY+9vjPJ+oM9OQKr0exgIruOZl4OW23LmqqZ9vGlJG3DHWMkoLYsc371VJOpKurgs/0IgiLCEhAHhrvRJlEqPYLGKSk5IR+tPk0woikZuxMFwHmrjkVzGHZJeScv9F/w1ioura9VtC4GiM7PHnYyGtTQkRhIvTry2eOu8LEfNKhPVx9wL5e4JBgYYdXWvS7yc2QQTBkmbU5Sppa9gUS1grvLJcIoA36j/rkb3wojLMpajBR66SeaToSLNFs0OaEGgMQbsg72lwgvraJzDVrK5l62We6pT9C8VffPgk5Qo=;ofwHskmtx7RpvF7LX3T+lA=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/biden-caravan-immigration-mexico-borde
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-caravan-immigration-mexico-border-biden-administration.amp"
 type: article
 quality: 128
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Psaki hints Biden may skip bipartisan deal on COVID-19 if needed: 'Not going to take any tools off the table'"
+    excerpt: "President Biden has signaled that he wants to secure bipartisan support for another coronavirus relief package, but his administration is refusing to rule out unilateral action by congressional Democrats on the next round of emergency aid. "
+    publishedDateTime: 2021-01-21T19:27:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LfrsAcP4MT8/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02ffb9d0-2cf9-48be-ab41-b1de73501fc5/9e9d4d74-cf2f-45e3-b809-ad89a8a6aee2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "hQ4LMwR4HYxwlzUmTWjNZYT60N1sfh214qi6OrOFgcao+kWvWzjayMlxS3CuMmFpgMDFtnTsMrkVNAbkzqlRCOIqS4iNCYYKO3REpuB43xMQ5sdfZI99u0pLjyKjDg7BcSYxFQrsM/SN1vvLZFfyqI2W9MzXPY5chM2FL+cs2pUi5b8FEb4oPAMomZn6BmRLWf9iwaFBYfiIvkeZUvmeSKBOsVI4wGJ+NC3PcXRXGbULplXeKUIq8Q+tjeBPmqZU0BE47rLpuAGxnkYv9fjUeH0IkdxGPUWcpGyQQKRC4UnQOjF99b0Wmkxtg9QQkYewlAodRbmh0/0EvVhaj8sEXIdjB3W11QfSH9PUy/BKjmc=;Er1nYt+bwt1W5r/TS4dKrA=="
 ---

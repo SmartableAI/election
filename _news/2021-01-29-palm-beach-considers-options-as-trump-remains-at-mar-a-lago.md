@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/palm-beach-considers-options
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/de83808c-d841-464c-9f8d-eb7ef135dad1-AFP_AFP_8Z69UN.JPG?auto=webp&crop=4566,2568,x0,y186&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump White House donated 8,700 ventilators to other nations. Officials now don’t know where many of them are, watchdog finds."
+    excerpt: "The GAO was unable to identify how the Trump White House made its decisions on ventilator allocations. Sri Lanka had just three new coronavirus cases per day when it received 200 ventilators. Bangladesh,"
+    publishedDateTime: 2021-01-29T22:07:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/2021/01/29/usaid-trump-ventilators-watchdog/"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/2021/01/29/usaid-trump-ventilators-watchdog/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2021/01/29/usaid-trump-ventilators-watchdog/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 97
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MBQZY7Q7TEI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "AXo0PDif4Ddsd+tNdqB8uF64f40TY8fO/EKtmYFtslL7KaPjxPhzXeRoj7BedmeYxSDsRmX0AqbN3SFoMbzwWqeuUCaqhg/pxYRhr6sxkNxQMM8Pq0ovZEshlbRsHzGSn/AfOn3H2IEySShoawdDRBbLdvn9GIWvwqQXggsldYfmRqSVTqMrDlD/rVG0Xac83V22XxM2BF82Zv8mkbEYZRj030bvhdC5LnTf56hdLlTJ8EluVvaLbANYvSrjsgDWQ2ux+k6MbI/fMiOueKVhpCpn3e1tMNr1RJt6GsbhCUNa5mMk0FqCNFeNvKOa2Jd04qURWWVAl1DfiZgcycXp/de3vxFg6YD46NJqQcc1gBM=;goiYzvV40tiR2Ul5TzmpBw=="

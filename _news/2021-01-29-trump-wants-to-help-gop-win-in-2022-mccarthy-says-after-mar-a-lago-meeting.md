@@ -108,6 +108,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Ana Navarro calls McCarthy's visit to Trump 'white slavery': He looks like he's 'owned by his master'"
+    excerpt: "Ana Navarro panned House Minority Leader Kevin McCarthy's recent meeting with President Trump at Mar-a-Lago, saying the GOP congressman is a \"slave\" to the former commander-in-chief."
+    publishedDateTime: 2021-01-29T22:39:00Z
+    webUrl: "https://www.foxnews.com/media/ana-navarro-kevin-mccarthy-white-slavery-trump"
+    ampWebUrl: "https://www.foxnews.com/media/ana-navarro-kevin-mccarthy-white-slavery-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ana-navarro-kevin-mccarthy-white-slavery-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/411dd625-e2d8-49fc-9ce9-9d4b1c75516f/5557711e-00ad-4dd0-8602-986965f82e5d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "PHA4WbiXmg1t92aFflj5e3rZifI4cl95NHM6c4iMi4vIN4eZYXxDWLg1wEJg3yiqhMOO4Y4j0+RRzDXsefF8mNCinnNGDskhzC6aX18ydkQ8NXk7nPo7k3ySIyNpG6NZTtqzQe8Fn8fg3X7TQONkLdMpSNyI6i8MDioqPQYWFVyVqPYKkxo7768wOjM2pzphhnUNQquEuAZ6euWploav6oarMRbC7ISBTIBkCHD29OwUrve9vES/aA2XhmNi0lorEs0UK9zbiU2YkRus/oFTxw93SQBmLH/5Yn8n7PpluP5FGKWp0HrnpPwL00oV3B9a4Q99JPykRqctt0gbQmBmDoF7yDQnRNj5hqkQWThwKg8=;e3s8CsuwtEiwbmPmjD5mhQ=="
 ---

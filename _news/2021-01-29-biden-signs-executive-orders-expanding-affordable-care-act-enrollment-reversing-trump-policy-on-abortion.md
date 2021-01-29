@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Ohio Republicans propose state holiday honoring ex-President Donald Trump"
+    excerpt: "A pair of lawmakers from Ohio want to set aside a day to honor former President Trump. The proposal from two Republican state legislators would make June 14 every year President Donald Trump Day"
+    publishedDateTime: 2021-01-29T21:42:00Z
+    webUrl: "https://nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/"
+    ampWebUrl: "https://nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Donald-Trump-16.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "dUXTEUKax1IXQosUHJT3qlSxDglW0UjMdhDA8cgUQaM9rBJvrXTSyU/ubtSoem2SnIAFC4shheuuhm0tZxmE+ePpxl8VvdLq7OdN0WsVfxgnhC5RVLYmzvVw6Q8D1tkAm2XO1gEH4GqTOoMBOv8U33mo9W/iV5uyOtUyFw3o+/nPZsZJCUcmoEN+Z3SL0cJAi2wWSRbdccvYJpXtVXswj2/7AsSianlNBijIj8T20AXX82cGTpt6+mmIyuVKun7vmjpVS+8ELUohHd4+HAkthBzdccnUK3ArwwcX+GRNenJ7XWVX1QSv1DU35KtUkGClXyuNHkK6Xz57uYIvla7/VEbOnnoFF3WdDJHrAR4D4tI=;d7gordObGdixEXwBrTyZHg=="
 ---

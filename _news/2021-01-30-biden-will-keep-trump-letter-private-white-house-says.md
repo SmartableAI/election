@@ -92,6 +92,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Ohio Republicans propose state holiday honoring ex-President Donald Trump"
+    excerpt: "A pair of lawmakers from Ohio want to set aside a day to honor former President Trump. The proposal from two Republican state legislators would make June 14 every year President Donald Trump Day"
+    publishedDateTime: 2021-01-29T21:42:00Z
+    webUrl: "https://nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/"
+    ampWebUrl: "https://nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Donald-Trump-16.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden signs executive orders expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
     excerpt: "President Biden on Thursday signed a pair of executive orders expanding access to the Affordable Care Act during the coronavirus pandemic and rolling back some of the anti-abortion measures implemented by the Trump administration."
     publishedDateTime: 2021-01-29T04:25:00Z
@@ -109,6 +125,6 @@ related:
         height: 720
         isCached: true
 
-secured: "f/sZhOCEwUP6x9LPHndzYQ9FcbmilR2u4tDtkcDl3lMAL5QYFW+pdH+piKDLuL5LVUaz7e/NF/7GKWO1z0JTlwT6LfVkOwlbK4mM+eRm0gyKMIPfcuZMEDA/Mi7AeP4fFbO2miUFaX71cxV2CX9TQE8Pzgy9GhYmDkS3PqYE5dTQ+P2uvBuVvfwYqAdK9F6hbWULTCR0k52XKrRv7wGV3QgQuoIB2hmoyx+BOZ3UwB04xHwnSzuIdbYKUFL9g5wmmdyCdLg+UKlbZDyUnPSGH2rlezKsdZJNX5OnHx69tIzYFkNUTwYHqptGnDwf7r5nNsz1RjKodyv/BfJnlFNWJfPulkd8iS1Wxq9Mtq/Qux8=;D2t369MxzTB4cD9eJuW51Q=="
+secured: "NbFPLiH7JL78Cb3d7hg2mxYhwPFN/A4kE1pvCI9+ND9hiOdVGZAxYV4CEeFHrcu1v72AqdslxurhA7ZZqxvcDG5Ssvt11sIMaPx82V27s4xgKdA4dihEi5LaXEkDluraSbFp9q6/QkqQvGxSh+C6vB0PfxjyWNa0IQyEenMcvFqZvJ8mgzdZzkiW3BQSaSjSirE5g11zNGV5BmL5UUDCVs6TQ+j+qXxUb0Fzv4VJHfcZE1nCvnRBSYkq6IO4Y5rPxXQq7yH9q+JCs1jGTnaObi8SkEfD782Wsz0nc8/gHt57g8cnZQMb3Ug4pM9zu5FeeiXeRWM0uUCUCD0ZL929tsgpz7bl1Gd4xvh10oSI6YG/aEcAJEYKts2W6ronipmu+R/aMbjNrLzD8LnI8pcLAUBLWRAxaBquZ5IvGH/Zo3R99NVdD8BdXpZGPV1qGaHRl4ICdWWNFyXhaVvUY70gjFoEIBc5yizViG2k5FVD+fsXb0NNRTQngEfP+QT96TR0hQ+TPD1PKoxYTJi0I81JXw==;hCSJ9OyehhZH3xyUTR+H0g=="
 ---
 

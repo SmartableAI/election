@@ -75,6 +75,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Parents loved Taking Cara Babies' sleep tips. Then they found out she donated to Trump"
+    excerpt: "Cara Dumaplin's sleep tips for babies were \"life-changing.\" Then her followers learned she donated to Donald Trump. Here's how the drama unfolded."
+    publishedDateTime: 2021-01-29T21:01:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/media/2021/01/29/taking-cara-babies-trump-donations/4276997001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4276997001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4276997001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/28/PPHX/987a56a3-98e0-4333-95ee-1099d7e324b3-Cara_Dumaplin_video_screenshot.png?auto=webp&crop=1142,642,x165,y13&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Democrats have these 7 last-minute Trump administration regulations in their sights to overturn now that they control the Senate"
     excerpt: "Senate Democrats are eyeing the Congressional Review Act as a way to obliterate federal regulations from the Trump administration."
     publishedDateTime: 2021-01-21T13:41:00Z

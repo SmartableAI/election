@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-13-live-politics-updates-republican-wis-election-official-in-says-no-evidence-of-fraud-trump-supporters-protest-in-dc.md",
+      "title": "Live politics updates: Republican Wis. election official in says no evidence of fraud; Trump supporters protest in DC",
+      "excerpt": "A Republican election official told Wisconsin legislators there is no credible evidence of widespread fraud; Trump backers rally in D.C. – updates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/12/live-politics-updates-donald-trump-joe-biden/6520470002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/12/live-politics-updates-donald-trump-joe-biden/6520470002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/2590db33eb99f305084c29985422bc6d845d2c97/c=430-0-3373-1663/local/-/media/2017/09/26/WIGroup/Milwaukee/636420419021309996-MJS-elections-4-hoffman.jpg-HACK.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6520470002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6520470002",
+      "publishedDateTime": "2020-12-12T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report.md",
       "title": "Jordan claims Trump 'paid what he owed' in response to NY Times report",
       "excerpt": "One poll says nearly three in four registered voters plan to tune in to see President Trump face off against Democratic nominee Joe Biden tonight.  MACCALLUM: Fireworks are anticipated as theshowdown comes against a tense backdrop in thenation.",
@@ -1558,58 +1610,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-who-is-behind-the-fake-trump-presidential-library-website-we-talk-to-the-anonymous-architect.md",
-      "title": "Who is behind the fake Trump Presidential Library website? We talk to the anonymous architect",
-      "excerpt": "Not quite as mysteriously as a monolith, a website has appeared for a fictional Donald J. Trump Presidential Library. The anonymous architect tells us why they did it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/7e11cfb/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6e%2F76%2F70d6e3b8436db2301d3382e733f0%2Fa-christmas-for-mary.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview?_amp=true",
-      "publishedDateTime": "2020-12-07T22:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

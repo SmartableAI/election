@@ -126,7 +126,7 @@ related:
   - title: "Blair House guest quarters a temporary home for VP Harris"
     excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue"
     publishedDateTime: 2021-01-28T16:28:00Z
-    webUrl: "https://apnews.com/article/biden-inauguration-politics-walter-mondale-symone-sanders-michael-pence-dda8bd956bf65cddc29f6cbed523c10b/gallery/bb45da96c98249f0813b42c0e82e8031"
+    webUrl: "https://apnews.com/article/biden-inauguration-politics-walter-mondale-symone-sanders-michael-pence-dda8bd956bf65cddc29f6cbed523c10b"
     type: article
     provider:
       name: Associated Press

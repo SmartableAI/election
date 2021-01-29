@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-30-joe-biden-basing-kamala-harris-relationship-on-obama-model-charlotte-observer.md",
-      "title": "Joe Biden basing Kamala Harris relationship on Obama model | Charlotte Observer",
-      "excerpt": "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table.",
+      "path": "_news/2021-01-29-ella-emhoff-kamala-harriss-stepdaughter-signs-with-img-models.md",
+      "title": "Ella Emhoff, Kamala Harris's stepdaughter, signs with IMG Models",
+      "excerpt": "IMG Models chief says design student ‘exudes joy’ and will join poet Amanda Gorman at agency",
       "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/news/politics-government/article248840399.html",
-      "originalUrl": "https://www.charlotteobserver.com/news/politics-government/article248840399.html",
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 325,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.guim.co.uk/img/media/89bb9f7e42085dbd40c3b2e6f0b07e524a2b4733/0_103_7184_4310/master/7184.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fd9acd50a4e6222a3cba4fce6f922c6b",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/news/politics-government/article248840399.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article248840399.html",
-      "publishedDateTime": "2021-01-29T08:52:00-08:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models",
+      "publishedDateTime": "2021-01-29T06:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
-        "images": null,
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -167,7 +176,7 @@
       "originalUrl": "https://www.chicagotribune.com/suburbs/park-ridge/ct-prh-kamala-harris-south-asian-community-tl-0128-20210126-cndkdij3rrgqfnw32eiohe6qzq-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -710,7 +719,7 @@
       "originalUrl": "https://www.cbsnews.com/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 230,
+      "heat": 150,
       "tags": null,
       "images": [
         {

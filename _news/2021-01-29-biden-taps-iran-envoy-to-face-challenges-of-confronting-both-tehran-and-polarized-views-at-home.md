@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/rob-malley-iran-envoy/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/rob-malley-iran-envoy/index.html"
 type: article
 quality: 163
-heat: 223
+heat: 243
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/29/world/29new-washington-briefing-stimulus/29new-washington-briefing-stimulus-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden taps Iran envoy to face challenges of confronting both Tehran and polarized views at home"
+    excerpt: "The Biden administration has tapped Robert Malley, a progressive foreign policy expert who served on the Obama administration's negotiating team for the Iran nuclear deal, as its new top envoy for Iran."
+    publishedDateTime: 2021-01-29T16:24:00Z
+    webUrl: "https://www.cnn.com/2021/01/29/politics/rob-malley-iran-envoy/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/rob-malley-iran-envoy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/rob-malley-iran-envoy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 123
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129111003-restricted-file-robert-malley-2017-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Iran's U.N. ambassador says Iran is waiting for President Biden to make the first diplomatic move"
     excerpt: "The Biden administration needs to lift sanctions on Iran and return to the nuclear deal that Trump ditched, the Iranian ambassador to the U.N. says."
