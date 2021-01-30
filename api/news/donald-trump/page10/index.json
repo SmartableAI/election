@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-13-this-is-a-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-at-rally.md",
+      "title": "'This Is a Phony Pandemic': GOP Congressman-Elect Praises Maskless Trump Supporters at Rally",
+      "excerpt": "\"This looks like a group of people that get that this is a phony pandemic,\" Bob Good of Virginia told \"Stop the Steal\" rallygoers Saturday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365",
+      "originalUrl": "https://www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1685454/bob-good-phony-pandemic-maskless.jpg",
+          "width": 768,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365?amp=1",
+      "publishedDateTime": "2020-12-12T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-trump-supporters-counterprotesters-clash-in-olympia-wash.md",
       "title": "Trump supporters, counterprotesters clash in Olympia, Wash.",
       "excerpt": "Protests are raging on for another weekend in Olympia, Wash. Trump supporters and members of the Proud Boys gathered at Washington's state Capitol, along with leftist counterprotesters. There was at least one street brawl between the groups.",
@@ -1541,58 +1593,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots.md",
-      "title": "Trump boasts of vaccines, but will he coax people to get shots?",
-      "excerpt": "President Trump takes credit for new coronavirus vaccines, yet they'll do little good if many people remain opposed to vaccinations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots",
-      "originalUrl": "https://www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/72d8926/2147483647/strip/true/crop/4592x2999+0+224/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9b%2Fd9%2F94374aa24f578e18c9842f2775df%2Fla-fi-lazarus-healthcare-three-hundred-dollar-band-aid.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-08/trump-boasts-of-vaccines-but-will-he-coax-people-to-get-shots?_amp=true",
-      "publishedDateTime": "2020-12-08T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

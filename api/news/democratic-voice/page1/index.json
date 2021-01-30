@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-30-something-aoc-trump-jr-and-ted-cruz-can-all-agree-on-gamestop.md",
+      "title": "Something AOC, Trump Jr. and Ted Cruz can all agree on: GameStop",
+      "excerpt": "Stocks in the video game retailer and other struggling companies saw huge rallies that blindsided some of the most powerful players on Wall Street.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/28/gamestop-stock-aoc-trump-jr-cruz-463539",
+      "originalUrl": "https://www.politico.com/news/2021/01/28/gamestop-stock-aoc-trump-jr-cruz-463539",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/39/c5/05e4063f49e0b5662de3a903191a/210128-gamestop-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T22:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-federal-appeals-court-allows-us-border-officials-to-swiftly-return-unaccompanied-migrant-children-under-trump-era-policy.md",
       "title": "Federal appeals court allows US border officials to swiftly return unaccompanied migrant children under Trump-era policy",
       "excerpt": "A federal appeals court ruled Friday that the federal government can quickly return unaccompanied migrant children apprehended at the US-Mexico border under a public health order put in place under former President Donald Trump.\n    \n",
@@ -1610,62 +1667,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html",
       "publishedDateTime": "2021-01-22T19:35:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-birx-i-always-considered-quitting-trumps-white-house-covid-task-force.md",
-      "title": "Birx: I always considered quitting Trump's White House Covid task force",
-      "excerpt": "Dr. Deborah Birx \"always\" considered quitting then-President Donald Trump's White House coronavirus task force and was troubled by colleagues' perceptions that she had become political, she said in an interview clip released Friday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xMutAa4evAQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xMutAa4evAQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222145539-deborah-birx-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html",
-      "publishedDateTime": "2021-01-22T18:10:26-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -128,7 +128,7 @@ related:
   - title: "Kamala Harris' Stepdaughter Ella Emhoff Signs With IMG Models"
     excerpt: "Ella Emhoff, the stepdaughter of Vice President Kamala Harris, made waves on the internet for donning a sparkling Miu Miu coat to “Momala’s” swearing in on Jan. 20. The chic inauguration ensemble even caught the eye of prestigious modeling agency IMG Models."
     publishedDateTime: 2021-01-29T08:54:00Z
-    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
+    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/"
     ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
     type: article

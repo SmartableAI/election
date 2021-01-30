@@ -2,30 +2,26 @@
 category: news
 title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
 excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
-publishedDateTime: 2021-01-20T23:07:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+publishedDateTime: 2021-01-21T02:04:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
 type: article
-quality: 124
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
+  - url: "https://www.baltimoresun.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
     width: 1200
     height: 896
     isCached: true
@@ -3310,6 +3306,6 @@ related:
         height: 800
         isCached: true
 
-secured: "1P/ASlgxCTRN0i80rqOZzWNORJLhZRQ/+MyaeMmWCQS4ytNMAYK+VseRpKMbomYIRQU4MzgPjJ2nVeegb2kxOpJs0hBOvt2c29nKJQLEYs8Yv5nc3VQHnjKWwldV3HM1DeGMXf0yYF3Tmaf6b0uyi1fpDB7O4P9mUAlbzxlcl4Lk02WvLe/OVRogIsskyFDLghj+4kkH4OWIu658wL/C89I+aBJAXN28CigXM5QVTzKWkO6T0wN2WHJ55cKUHt56hfwWNvItMamqXyaV3+8E+EKv6n4uAwGZuQxwvy6cLumgvaDrjpftmi4sDlzn6XLq15UOTaG1NOAeAmD3gz9EF5bD3lj07biFg8S8wl2RX4U=;QeNZQOUmAchZLTyrwqbu3g=="
+secured: "fRu+WSTnq6VNArY4FJhss7ROoeZf7c/vAm6wd4nQB2bjiEN7QBieNXpS3rz8AqZWVCGxcoPpc6eAUD/cUCmyetR11BI5YWyfCrdhjflztnszdIIDoXO8Np9PASv6AbWhx3dYMSvZ4qOZnjNfdlSMWKLdHwe3F//Zg4hz37aQP6mKqTXaYV8FviQCLj3zeoBVvuO2RgEqB+E3gI1+5UuE57C8Itd1zl1LcwDn4GUs3vmQVHfiy7B6oZ3/QkMPz4trwNeoCmK+pKwzitO2CCPKOf/RD4ZcGsfdm3H0QqvZ3KqNToep3MRQruWIcTA1g5gnNk+mbVLSUz+SRbuLBJRZhJifEWulyAQzRnQ5zphCnbQ=;4oyVDvH6q177Ofc7w8hbWg=="
 ---
 

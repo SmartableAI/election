@@ -168,6 +168,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cowboys for Trump Leader Refuses Virus Test in Jail"
+    excerpt: "The jailed leader of Cowboys for Trump has been held in solitary isolation for two weeks as he refused to take a coronavirus test."
+    publishedDateTime: 2021-01-30T03:21:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail"
+    ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "wtAeM6+/2CMQs5erifwJbqkmpwOYNbt14euOKiAKEMCacSE+wQm2ccPEY3G7ib7zA2WseT85K1FtEZMrxuxIPP/HXBYGovNp99AiclX8fzaryI8dsB0MfbdNe6foIJNkH8t04LjiCmL7C6WudpRtKiwk9VjBqy24jka1ThiPa77k7AZU1TN0GGCq4zTGCXs0EPMoqUbYP9gr6u4c/xqdt/+aICTGcUIC28m8KoOapGf2j2KMvTcwYzncJwJnGt8vGmigprsSuRUjZxt+uPwv5GjXnhep6o9GiYlO+UKpGqVt6ZqilWzQQwgtJ3LsXHmj98wOxZ3x4GbgoA7q9j1+Xk6mVbIR2c+bQTY6fVt+uQQL/sOqC0fhKTnWRysd0VDBG9mbUngfqwMH+3zr3YTWXvGI0AelmooWnFt/MVyycEXC0X7eFDbejDi/q/Mdw0yJqYeeU1h3tlDRyin+MK0ib+Ek53iuvRfyYqNRCNCjb44GR5dhimwJp7claeiLjCF/P5hNfM/wfRiMvbWsipvunw==;VvZ2x3UyUROI8flpuapZaA=="
 ---

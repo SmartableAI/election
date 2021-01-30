@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-29-bidens-pandemic-problem-politics-weekly-extra-podcast.md",
+      "title": "Biden's pandemic problem: Politics Weekly Extra podcast",
+      "excerpt": "Jonathan Freedland speaks to the Pulitzer prize-winning author and journalist Laurie Garrett about what Joe Biden needs to do to get a grip on the Covid crisis in the US",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/politics/audio/2021/jan/29/biden-pandemic-problem-politics-weekly-extra-podcast",
+      "originalUrl": "https://www.theguardian.com/politics/audio/2021/jan/29/biden-pandemic-problem-politics-weekly-extra-podcast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9bf19b42569b77c3f28a41a3742231fc1e1e8f22/0_2_2843_1707/master/2843.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09516b1de2db107a68ece6b91c8273cb",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-trump-officials-moved-most-bureau-of-land-management-positions-out-of-dc-more-than-87-percent-quit-instead.md",
+      "title": "Trump officials moved most Bureau of Land Management positions out of D.C. More than 87 percent quit instead.",
+      "excerpt": "The decision to relocate BLM headquarters to Colorado and redistribute jobs in the West prompted 287 employees to retire or find other jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/",
+      "originalUrl": "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VC6BWOA4CUI6PBMYTKM5UVM7TY&w=1440",
+          "width": 1440,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp",
+      "publishedDateTime": "2021-01-28T20:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-palm-beach-considers-options-as-trump-remains-at-mar-a-lago.md",
       "title": "Palm Beach considers options as Trump remains at Mar-a-Lago",
       "excerpt": "The Town of Palm Beach, Florida, is considering its legal options as former President Donald Trump is still living at his Mar-a-Lago club, a possible violation of a 1993 agreement",
@@ -1256,110 +1360,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-bidens-1st-100-days-live-updates-fema-seeks-us-troops-to-help-with-vaccinations.md",
-      "title": "Biden's 1st 100 days live updates: FEMA seeks US troops to help with vaccinations",
-      "excerpt": "A draft request for assistance between FEMA and the Department of Defense is under discussion that would seek as many as 10,000 service members to support administering COVID-19 vaccine shots up to 100 sites nationwide,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
-      "originalUrl": "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/national-guard-vaccine-reut_hpMain_20210127-205858_16x9_1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
-      "publishedDateTime": "2021-01-27T18:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-fact-check-biden-family-bible-used-during-his-oath-is-historically-roman-catholic-not-connected-to-illuminati-or-freemasons-as-posts-claim.md",
-      "title": "Fact check: Biden Family Bible used during his oath is historically Roman Catholic, not connected to Illuminati or freemasons as posts claim",
-      "excerpt": "In the days following U.S. President Joe Biden’s inauguration on Jan. 20, posts on social media claimed that the Bible he used during his swearing-in ceremony is connected to the Masonic Order or the Illuminati.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-fact-check-biden-bible-illuminati-fre-idUSKBN29W2M9",
-      "originalUrl": "https://www.reuters.com/article/uk-fact-check-biden-bible-illuminati-fre-idUSKBN29W2M9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1HV",
-          "width": 763,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29W2M9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2M9",
-      "publishedDateTime": "2021-01-27T16:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
