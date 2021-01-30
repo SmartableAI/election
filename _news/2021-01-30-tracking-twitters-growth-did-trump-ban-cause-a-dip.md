@@ -2,9 +2,9 @@
 category: news
 title: "Tracking Twitter's Growth: Did Trump Ban Cause a Dip?"
 excerpt: "As COVID-19 began sweeping across the world last spring, Twitter experienced phenomenal growth with much of the planets population confined to their homes, helping the platform recover from"
-publishedDateTime: 2021-01-29T18:06:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/01/29/tracking_twitters_growth_did_trump_ban_cause_a_dip_145154.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/01/29/tracking_twitters_growth_did_trump_ban_cause_a_dip_145154.html"
+publishedDateTime: 2021-01-30T04:17:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/01/29/tracking_twitters_growth_did_trump_ban_cause_a_dip_145154.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/01/29/tracking_twitters_growth_did_trump_ban_cause_a_dip_145154.html#!"
 type: article
 quality: 65
 heat: 65
@@ -25,6 +25,6 @@ images:
     height: 500
     isCached: true
 
-secured: "ItfZ0TE8TeqhRvRhMAuckyzEjYPeXoDxWRAI/A67vsbZCesp2Z3LZdXH1vZPBz5Pofos9qu2XVyzpcjz14vL0t8AqHI6yFsQ+Sz5J73oHwr2pPDgMb1+BVcl8Tz746DwOE7mFryTS6eX05VRczrdy3CZd/OCzNnp5L323fnMPp7Qi58sM8IPNVLfeI2c6lOtg9qvnu4ldjdloi3OMo50zQEVsUFHCDin97E62NT9bGSxsTOvNWjCw3P62LCR+cT2C/a3INNzCA7RDng2VieApF9oR1X4aTvBEzAwGVDkAgs5XhuF9FB7LxgiGTLtOaE00jYg05GNCTsaQ1pA+UbjoSnUFO+ieYfdEDD3WYcwOtY=;V1ngkHfn2f2ssxwcUYZycQ=="
+secured: "38VJa4XWUVovgIJuKFAkdtvQcH1j1LPwjrMcv5VdhIT6UWJsLXBVkKrTdfsrGb5gqLg/LWhZ2auUP6pYGULy7VDn88/ZRZkC7pkK7u9qUTD5UYSgWpA0UJlJdBufgyg2xKTiPLBoaXs2eNLtvOzC6/W7fengaXYC2WlfGM3VME2JhZfdxo9lUD2KhFsBBiNYoR2gnME8oKt2W4g8P4wd2mxiYzvHqoCa9mn39cQlknu75AKlSC9wQTT2IKiXSEDYG72uhorTNgOPqjlY/GFGWktVw7iOeLcGZ+R0HXWAQnfq54Gpphze10DI+/P2Qk30VDk0/lPx9M97GrUZaMJIfEstDLPLailCoBskB4x9m6I=;FljyGBnXRM0oZ8DvwBwCbA=="
 ---
 

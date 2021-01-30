@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris' Stepdaughter Ella Emhoff Signs With IMG Models"
 excerpt: "Ella Emhoff, the stepdaughter of Vice President Kamala Harris, made waves on the internet for donning a sparkling Miu Miu coat to “Momala’s” swearing in on Jan. 20. The chic inauguration ensemble even caught the eye of prestigious modeling agency IMG Models."
 publishedDateTime: 2021-01-29T08:54:00Z
-originalUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/"
-webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/"
+originalUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
+webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
 ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
 type: article
@@ -184,6 +184,6 @@ related:
         height: 360
         isCached: true
 
-secured: "/V+/ViGMkJ4Am4mBaBe4LnP81W62bosgLImG4SMHbrmwhxHj/7QlTH8xn7aNmem2iFVNb6bF3YtTb3KC418FniCNQHe2rLGWM4HP9+wHBnE/3Tw37NNuMe367f3r/THlUjqEB9NuJzUX4ly21IdzMibIUReTlMAwgyx8FAsOCrk3CBCDfSL/HV8MX0k6R5MtcjYcUZh9SlY8ueOX6lUyXT38xBUvM6D0wew1N6VKus46Gyf63DT1nNBToTudVW/Z/MDOrNOw4X7MDqTKB6h0pTZu1w/NfENnAxwFgdljmqf5ExRm35wNRfGNCjY+76Fb2XUeabZ4twRYuCYlwzVBQgui8ZXpbtSZhCq+t3W2Q8k57GZooAgW5pWXn/YUCsYWUZAcSL51W3tfJ3AoOp/07e584H+fU9cC4Z4LMaE67EFGYCm70Sma7jiH8K0L2Blfzy513rbY1bpozHkESaDJa6hEOSfk8l/a3DmALdqLDADVynCpsFz9Lr85V9f3gZMLDU1U3ADJ240xihjKomkEbQ==;UJtP8tLz79Vo/kBwHYBgVQ=="
+secured: "IUyYFbfown9ULJGrMnPicL98UOpjRoE68FKPnJQkzVvP5+6PyAwU9M9bTAq5QWz8OA7Ux+TP1SwwYZWh7oF5aL+bpIBpX6K/DwRpbYTV9GmKxE3/TIrbcX4TiU7ebLWOYWitx3a0Ic961vZ0RdWIBPiXSJySbLg3NtrY4RqMMWL85rO7e3wMeDah/+4nqGU613v46tt9w5/O7inrLJ5tnWQJiiJgwmui0v8/4cH9KUA++EdHdVvNUlAd4MoH/G/ClvWAQmhWn4ecg0wb/3kiWIBMkCjKGLGcbmdI5C4dcOAcQEG/6oddU1d5NHffit5lcRXFpDfS2pbfeCI24g6BCv0TUuX40HPCSsap3qjCaFA=;jsMrpYj28oFnAjrSIWfOKw=="
 ---
 

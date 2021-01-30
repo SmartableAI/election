@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hannity pans Biden administration over rule-by-executive-order, 'propagandist' promise of unity"
+    excerpt: "In his \"Opening Monologue\" on Friday, \"Hannity\" host Sean Hannity labeled White House Press Secretary Jennifer Psaki a \"propagandist,\" and pointed to the fact President Biden made adamant remarks last year that to rule by executive order would be governing like a \"dictator.\""
+    publishedDateTime: 2021-01-30T03:31:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/68tuQT6OR5c/hannity-blasts-biden-propagandist-jen-psaki-president-executive-actions-unity"
+    ampWebUrl: "https://www.foxnews.com/politics/hannity-blasts-biden-propagandist-jen-psaki-president-executive-actions-unity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hannity-blasts-biden-propagandist-jen-psaki-president-executive-actions-unity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83c050bc-bde6-4d92-87bb-0612a75fa2ee/46414336-5c41-4d88-be91-b57a22927be3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden will keep Trump letter private, White House says"
     excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"
     publishedDateTime: 2021-01-29T20:13:00Z

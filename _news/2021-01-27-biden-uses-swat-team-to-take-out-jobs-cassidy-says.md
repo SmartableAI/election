@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-energy-climate-swat-team-take
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-energy-climate-swat-team-take-out-jobs-cassidy.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Biden's early executive orders put him at odds with Catholic Church"
+    excerpt: "The White House asserts that President Biden is \"devout,\" but many in Church leadership and among the rank-and-file have denounced his policies."
+    publishedDateTime: 2021-01-30T04:36:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SJuBKGe9tVQ/bidens-executive-orders-catholic-church"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-executive-orders-catholic-church.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-executive-orders-catholic-church.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a49a324-5f30-4b69-97c2-9d9175f94a48/3d8f7535-62b6-4e2b-b2bf-51ba9ec2f29b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "tmGhXnnKmfJ+uN87E5ZjJjjn0iYdTpYgcrXE+po38TUPXB8viK7SmqA94m6T9FrlJnINQRBKbdK+o1EEKmSofYnfqhjylswF3VrCtXrgBN9Ikf/asCxxinj+7Q6NCmpvrNcnvRuQQcId6HnageCMK4Nm4J93Ri7N5gpat/FpDa2vBpOWp6Cm9leA3OVkwMRgIomca1pMDodpVdbJvpBIoOL4FkGdHlc4DYxTF3oA+5T8Ufj7gG2vqY1qtsGLBRUwK9h0/DBncDVfPDwgCCSrxU3u2ypMcVWj3ljMnBvSc16vn9yH50CvyOSisUf5HDr/wCIbnN+/Ukejukf2LKK3rJ/itgRJHB4qmh4rC/0y5lk=;oHGVwZJc7t0QxuE1OJIidw=="
 ---

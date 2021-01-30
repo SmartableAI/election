@@ -288,6 +288,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Legal Pressure on Trump Increases With Judge’s Order in Fraud Inquiry"
+    excerpt: "The order, answering a demand for documents by New York’s attorney general, rejected a bid to shield the records with attorney-client privilege."
+    publishedDateTime: 2021-01-30T01:16:00Z
+    webUrl: "https://www.nytimes.com/2021/01/29/nyregion/trump-fraud-investigation.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/29/nyregion/trump-fraud-investigation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/29/nyregion/trump-fraud-investigation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/29/nyregion/29trumpsevensprings/29trumpsevensprings-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "McCarthy Seeks Thaw With Trump as G.O.P. Rallies Behind Former President"
     excerpt: "The top House Republican met with former President Donald J. Trump, working to mend fences after saying that Mr. Trump bore responsibility for the Jan. 6 attack on the Capitol."
     publishedDateTime: 2021-01-28T22:41:00Z
@@ -319,6 +335,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/26/us/politics/26new-washington-briefing-impeach/26new-washington-briefing-impeach-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Federal Court Lifts Block on Trump Policy Expelling Migrant Children at the Border"
+    excerpt: "The prospect of border agents again turning away children is likely to renew pressure on the Biden administration."
+    publishedDateTime: 2021-01-30T02:57:00Z
+    webUrl: "https://www.nytimes.com/2021/01/29/us/politics/biden-migrant-children-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/29/us/politics/biden-migrant-children-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/29/us/politics/biden-migrant-children-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/29/us/politics/29DC-BORDER/merlin_182678190_777d2e0f-44a6-4101-a2db-06c1ec783562-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump leaves office with little to show of his major promises, and a legacy of violent divisiveness"
     excerpt: "Donald Trump promised to end \"American carnage\" and \"Make America Great Again.\" Four years later, he leaves with those goals far from reach."

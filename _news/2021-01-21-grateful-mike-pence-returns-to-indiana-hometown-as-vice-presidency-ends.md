@@ -2,26 +2,30 @@
 category: news
 title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
 excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
-publishedDateTime: 2021-01-21T02:04:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+publishedDateTime: 2021-01-20T23:07:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
 type: article
-quality: 74
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
+  - url: "https://www.chicagotribune.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
     width: 1200
     height: 896
     isCached: true
@@ -3306,6 +3310,6 @@ related:
         height: 800
         isCached: true
 
-secured: "4januln2EtaHLc34mB/OeIhWprS8ys8T12QJjlm5A2osoRkaNZopiStzxTtCOgcSVoECP+hOaIkkvIHh1trEUZtifUbokBusQrMblsDSjE45g7ceUqarIi2PkHuRw0jxK1VJLgIx7iDe+7fsWlqJQBAwVCW+IIRF+/LknkpBYUvJjO4ypm7KgpSDAdQIkHO/IaDrF4Ot7MEdxiJd3q+LycyhPrERglfhW3o6O87NfmRk48p3sUsz2XvawDbZCW62xVAEpZS/nKH79k3C0/a4+klm61S0cTO1enMyffqnGIhsEHJSJD8TviNmOe8Xf9lABQYDe3Y4ipCzK9NqNkwcj0YZ3EzoUyxn5qQWKOi1psI=;QX1efVamh7Kba6kr6yIt/Q=="
+secured: "1P/ASlgxCTRN0i80rqOZzWNORJLhZRQ/+MyaeMmWCQS4ytNMAYK+VseRpKMbomYIRQU4MzgPjJ2nVeegb2kxOpJs0hBOvt2c29nKJQLEYs8Yv5nc3VQHnjKWwldV3HM1DeGMXf0yYF3Tmaf6b0uyi1fpDB7O4P9mUAlbzxlcl4Lk02WvLe/OVRogIsskyFDLghj+4kkH4OWIu658wL/C89I+aBJAXN28CigXM5QVTzKWkO6T0wN2WHJ55cKUHt56hfwWNvItMamqXyaV3+8E+EKv6n4uAwGZuQxwvy6cLumgvaDrjpftmi4sDlzn6XLq15UOTaG1NOAeAmD3gz9EF5bD3lj07biFg8S8wl2RX4U=;QeNZQOUmAchZLTyrwqbu3g=="
 ---
 

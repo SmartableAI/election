@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-30-nancy-sinatra-will-never-forgive-trump-supporters-ever-singer-says.md",
+      "title": "Nancy Sinatra will 'never forgive' Trump supporters 'ever,' singer says",
+      "excerpt": "\"Somethin' Stupid\" singer and daughter of Frank Sinatra, Nancy Sinatra, said she'll \"never forgive\" supporters of former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/nancy-sinatra-never-forgive-trump-supporters",
+      "originalUrl": "https://www.foxnews.com/entertainment/nancy-sinatra-never-forgive-trump-supporters",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Nancy-Sinatra.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/nancy-sinatra-never-forgive-trump-supporters.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/nancy-sinatra-never-forgive-trump-supporters.amp",
+      "publishedDateTime": "2021-01-29T18:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-judge-orders-trump-organization-to-hand-over-documents-to-new-york-attorney-general.md",
       "title": "Judge orders Trump Organization to hand over documents to New York attorney general",
       "excerpt": "A judge in New York has ordered the attorneys for the Trump Organization to give unprivileged documents to the state's attorney general by Feb. 4.",
@@ -743,7 +800,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 333,
+      "heat": 353,
       "tags": null,
       "images": [
         {
@@ -1410,7 +1467,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1618,54 +1675,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-uighur-advocates-will-biden-actions-match-words-on-genocide.md",
-      "title": "Uighur Advocates: Will Biden Actions Match Words on 'Genocide'?",
-      "excerpt": "One day before President Bidens inauguration, Secretary of State Mike Pompeo made the determination that Chinas treatment of Muslim Uighurs and",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.html",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/53/533465_5_.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/27/uighur_advocates_will_biden_actions_match_words_on_genocide_145130.amp.html",
-      "publishedDateTime": "2021-01-27T02:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }
