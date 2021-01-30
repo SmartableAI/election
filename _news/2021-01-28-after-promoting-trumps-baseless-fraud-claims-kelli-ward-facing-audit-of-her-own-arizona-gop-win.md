@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/arizona-gop-kelli-ward-r
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/arizona-gop-kelli-ward-recount/index.html"
 type: article
 quality: 162
-heat: 182
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,17 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Oh, the irony. Republican claims credit for idea to auction off blowing up Trump Plaza"
-    excerpt: "But Atlantic City Mayor Marty Small insists the auction idea was his. Fitzgerald said if things had gone his way, the auction may not have fallen through and may have gotten a higher bid before it was canceled,"
-    publishedDateTime: 2021-01-22T10:00:00Z
-    webUrl: "https://www.politico.com/states/new-jersey/story/2021/01/22/oh-the-irony-republican-claims-credit-for-idea-to-auction-off-blowing-up-trump-plaza-1359123"
+  - title: "South Carolina GOP censures Rep. Tom Rice after his vote to impeach Trump"
+    excerpt: "The South Carolina Republican Party voted Saturday to formally censure Rep. Tom Rice, who represents the state's 7th Congressional District, for his vote to impeach former President Donald Trump in the House of Representatives.\n    \n"
+    publishedDateTime: 2021-01-30T19:41:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y4EapU38utc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/tom-rice-south-carolina-republicans-censure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/tom-rice-south-carolina-republicans-censure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123112210-rep-tom-rice-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'People are angry': House Republicans who voted to impeach Trump face backlash at home"
+    excerpt: "The wave of backlash facing 10 House Republicans who voted to impeach former President Donald Trump has turned their 2022 primaries into tests of how long Trump, now out of office, can hold the stage in Republican politics -- and whether GOP voters are willing to turn the midterms into tests of loyalty"
+    publishedDateTime: 2021-01-29T12:40:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vzUHPg8R6eA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/house-republicans-impeach-trump-backlash/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/house-republicans-impeach-trump-backlash/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128141317-gop-impeachment-vote-house-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pennsylvania GOP pledges full allegiance to Trump"
+    excerpt: "Once a producer of centrist Republicans like Arlen Specter and Tom Ridge, the state GOP now bears the MAGA stamp."
+    publishedDateTime: 2021-01-26T23:49:00Z
+    webUrl: "https://www.politico.com/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 107
+    quality: 135
     images:
-      - url: "https://static.politico.com/ce/b9/ed00b16c4632a38003f7456445d1/ap17331787586679-c.jpg"
+      - url: "https://static.politico.com/93/f7/09cc34c044568e3833bd4cf29005/210126-mastriano-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

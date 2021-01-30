@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2021/01/28/us/politics/pennsylvania-republic
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.amp.html"
 type: article
 quality: 135
-heat: -1
-published: false
+heat: 135
+published: true
 
 provider:
   name: New York Times
@@ -30,24 +30,6 @@ images:
     width: 1050
     height: 550
     isCached: true
-
-related:
-  - title: "Pennsylvania GOP pledges full allegiance to Trump"
-    excerpt: "Once a producer of centrist Republicans like Arlen Specter and Tom Ridge, the state GOP now bears the MAGA stamp."
-    publishedDateTime: 2021-01-26T23:49:00Z
-    webUrl: "https://www.politico.com/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/93/f7/09cc34c044568e3833bd4cf29005/210126-mastriano-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "xRaH7n+KSpynHuZEKtm3vtA4+5YX5fK6XTadL8vDEX3xMby4crag7QLGBpQbw9y4tiLrVJa2xndctTw95dMAIr899WXjoSKK/TFurZxvVEe4IUjdyBxN+PWwoXAhrGj5LWqDr04wfN0QjSDny6QH29ypTYn3j53K2Wa6GwH5SaGKexakzVIB9ABT2ZKMlVC/fpvluK45DzUlnOIyrcKudQX6kFr21YjTe+tZm4seeEpPbFaMN+Wmis/AsxbKe5LkB6SJObH54mUEGENjFNDGJ8SgME+uE5EJkhnRRvE0/gTnF6OXRPrzzJWg4VA9KgxXM/3atzRU8eKlFvxs5mJTpqez/q681XweytOEA8Dv0o4riofmjDGTew1336xgD4gDlo6Pt3hyK0NNWe4H23LAK+bfUXdPkktN4Ciau3EMVHLlvHNe+D05M/H4zaOQukb7TAYEFLGGe7glTy0IhGG0CfcOZtUOqvHvoKQ6CxEhj6zTg8vaaACSorXE/ZyM5CNe9CWe++5NKeSkl/SzFpqz/g==;a71zMPL3DlIOOTvxIRcTPw=="
 ---
