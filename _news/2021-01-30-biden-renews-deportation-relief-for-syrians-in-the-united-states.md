@@ -3,8 +3,8 @@ category: news
 title: "Biden renews deportation relief for Syrians in the United States"
 excerpt: "The administration of President Joe Biden on Friday extended deportation relief for several thousand Syrian immigrants living in the United States, an early move that aligns with his broader pro-immigrant platform."
 publishedDateTime: 2021-01-29T21:13:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-immigration-syria-int-idUSKBN29Y28W"
-webUrl: "https://www.reuters.com/article/usa-biden-immigration-syria-int-idUSKBN29Y28W"
+originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN29Y28E?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN29Y28E?edition-redirect=uk"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y28W"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y28W"
 type: article
@@ -116,6 +116,6 @@ related:
       domain: washingtonpost.com
     quality: 82
 
-secured: "kb0HJXwmHWKtgix9lwavp1iM9BrZ0q8R+ufehIPcIYqGLSBF2zV6BbfGklsB1BgMQ/WcXiOcMi8c16WVB8cCQ5I5gq7RI2pJjRM6lU+fc+JXF9I60AoHSMFQpOp9bI4x2GwvjloXdqPswbSefZnNbH+9Szg/Tcc29qiucc05rRm8O1SeOdgAuakEaWHbwW8J3dp++t5l60skIaWy0S69CQ7IMXDg/WLl9p9l4cc8birvDmmuMe5C1e1XdCC1qhRwY04Xy8As8YQUrr39Y03gWX1Lj8pqAHvcMIquBT8vVOK/reB/ZWIM+dLFAlpZhjS3QwYQhYndshZoCQ6YIggF/07w68+SxzSuFswVGEAtA50=;vge1FKuaOb9+5im4swXLIQ=="
+secured: "aK8zlk6PG+tg+xMwtEy5fZt6Q2q82RhUpGfFPOgua6CWOL/CPkfzM5m5YB///QimysY7iZZXH5b4Yd7ZsP2ji9DzHB1Z8BAgqyU+39GQPnug1xKZSAOHrUz5CVjJSF7348XPKJ5Ji/YeaMy5XsicIsVlQTA1O3bEbP8iuhWOqDsqO+EfGjUqt0EwhStCLtXYPhY3Zai9cirtzjGmcK9QmVABtdwJ+D1EMOxYaMiDnPiSfU6CaGX/NJC7w49PB/jau6s7jKmoJ7h6cFCah1RjCgkp9DCy78lZX+j1OBb6tsNW+6nljBNULNu/FR3jaCP2xUrTT9531GkSUjQSKRd2OiFODMDpNoUKglETS8aGit8=;1UFvP2SlzVSI2/jz9WYwRA=="
 ---
 

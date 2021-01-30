@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Washington Post critic declares Trump should 'never' get presidential library, urges Congress to block efforts"
+    excerpt: "A Washington Post critic is calling for legislation preventing former President Donald Trump from having his own presidential library."
+    publishedDateTime: 2021-01-30T03:05:00Z
+    webUrl: "https://www.foxnews.com/media/washington-post-trump-presidential-library"
+    ampWebUrl: "https://www.foxnews.com/media/washington-post-trump-presidential-library.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-trump-presidential-library.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8602e5d-9e71-49fc-9804-aadaf01d4fca/3c23923f-67f8-4d1a-a5a4-fbcaa78831f8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "9xIs52rdOv1d/R+GNC9zHP6gEcoZMKs485Kck/JCz0p7XStDBM62fqE4eq4qxmIKNUiah9JAks/UX0ivH3Ny7bOpBIhEHU/rpEOpGVDRptABU02PFDq5tTIMxGpQWLYOehO76qhWF6+HGI41Tr784DtitZ68p/qKNRqXGhjFG0Hu3ynLCG9KtHa5Gn9GPodkKi05YOREo8LrxuUeYaxYaWkdY9x1JbgmajwF8IBKtxltd7BrucwPYO5258Mob8ihXz84Qti+InWwEdOAM15jcPHWBiaNaWDJNimAPEa5BeV0trujFz4jes1f08T3KR53OAT/5IJA4eF6i4iLLKoDAGq82UEEO/a9tMtDtpjVRg3ZeOrhLWNzHgdMhznk8RGAnNiixLOnmXpqmxuYqCEo5Bm3m4lnCvtO/x1Vd4M0q7aTRiJNSkQ3CTBuLD8Rdc+GJW8XJTwHllT9PNkOp+q75Hnb9zXW0m1gVyKNmANu6ISv0RrIQk0IsZCjassgYpkJ8w47GwdKtEdPTsVIRDkRiw==;8KdmG01MAHfWw/CNEknMsg=="
 ---

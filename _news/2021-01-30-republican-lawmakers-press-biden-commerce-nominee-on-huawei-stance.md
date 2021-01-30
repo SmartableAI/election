@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Republican lawmakers press Biden Commerce nominee on Huawei stance"
-excerpt: "Three China hardliners in the Senate are calling on President Joe Biden's Commerce Department nominee to clarify if she would remove China's telecoms equipment giant Huawei Technologies Ltd from a trade blacklist under any circumstances."
-publishedDateTime: 2021-01-30T03:39:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-huawei-congress/republican-lawmakers-press-biden-commerce-nominee-on-huawei-stance-idUSKBN29Y31T?edition-redirect=in"
-webUrl: "https://www.reuters.com/article/us-usa-huawei-congress/republican-lawmakers-press-biden-commerce-nominee-on-huawei-stance-idUSKBN29Y31T?edition-redirect=in"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y31T"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y31T"
+excerpt: "Three China hardliners in the Senate are calling on President Joe Biden's nominee to head the Commerce Department to clarify if she would remove China's telecoms equipment giant Huawei Technologies Ltd."
+publishedDateTime: 2021-01-30T03:27:00Z
+originalUrl: "https://www.reuters.com/article/usa-huawei-congress/republican-lawmakers-press-biden-commerce-nominee-on-huawei-stance-idUSL1N2K42X8"
+webUrl: "https://www.reuters.com/article/usa-huawei-congress/republican-lawmakers-press-biden-commerce-nominee-on-huawei-stance-idUSL1N2K42X8"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K42X8"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K42X8"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549618256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1PW"
-    width: 794
-    height: 545
-    isCached: true
 
 related:
   - title: "Mexican leader says Biden offers $4B for Central America"
@@ -206,6 +200,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5bROW3fKPge5g8cvFLfKxVS/E2vIyFXKqU98DNwFyidZotCLVV5gjwKVrU25WT1T1pIFqDjPYVzFuohy0Qh1T3wveqTLGJKouuwFDyk6e116DVMQSu4I80Sm/A7F2puGA2pAkWjBm2n2ql4+49t4LG1xToCH9XB321HX/qJ9FL33OnNR0LKSs2vwOXpzuFsJksjM00FoA2KO6fr04WKyS+TFyLJVI0YUvNkJV9hR/T4TNCL9ND+Qu/495xO/GwJH1Vo90rpDPVFC7iZJYuzCLDgLyD5IsvhsaWXc+YTgUipGE0Q8B4007hhTSsjR0X/esY+In8slKh2H9wqqp5aBvt/Fv95PhTt9WRAcyPZDQIM=;85BU+7ycx9wnBJqpsR8yXA=="
+secured: "bk8j2fsAU/STGS1njJoRUmaOYHIrpN0Az8KEpFiANx/9hp+iV3E5oPQ1MhuRKhgnDD7a4kemfV4UqM8DbCieubLGqbYox1FfONvzb9WZS6Fy7Kw3UmRSDW9UsWnlo+JblxXG278N5rUgMwBZnwKRpwdgagEBnzaST8mnhpdU4qIMkmzjMtgIGPWGPzGyYfAEKn4AXvTgpwqMfA5R3tZjiE9cGBm3qwISsNvZG8waLF/U5iZ2GWQ6kA8+Oz3TveiO1gVyne/Zu0yUcAe65YP/ehX5RhkQLhCUkSbqxNNbM50ig/jxi0q854Vmyl9ybsxIFZhIvFd+64zj1eerHABVfJPsGY3CNHCxZvR8uO081DI=;IsGA1VfUBgQScnRXdRnZ8Q=="
 ---
 

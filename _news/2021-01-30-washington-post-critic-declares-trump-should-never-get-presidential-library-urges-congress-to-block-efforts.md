@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
-excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
-publishedDateTime: 2021-01-23T19:39:00Z
-originalUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+title: "Washington Post critic declares Trump should 'never' get presidential library, urges Congress to block efforts"
+excerpt: "A Washington Post critic is calling for legislation preventing former President Donald Trump from having his own presidential library."
+publishedDateTime: 2021-01-30T03:05:00Z
+originalUrl: "https://www.foxnews.com/media/washington-post-trump-presidential-library"
+webUrl: "https://www.foxnews.com/media/washington-post-trump-presidential-library"
+ampWebUrl: "https://www.foxnews.com/media/washington-post-trump-presidential-library.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-trump-presidential-library.amp"
 type: article
-quality: 128
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
+  name: Fox News
+  domain: foxnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-289628/social"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8602e5d-9e71-49fc-9804-aadaf01d4fca/3c23923f-67f8-4d1a-a5a4-fbcaa78831f8/1280x720/match/image.jpg"
     width: 1280
-    height: 640
+    height: 720
     isCached: true
 
 related:
@@ -64,23 +64,23 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Washington Post critic declares Trump should 'never' get presidential library, urges Congress to block efforts"
-    excerpt: "A Washington Post critic is calling for legislation preventing former President Donald Trump from having his own presidential library."
-    publishedDateTime: 2021-01-30T03:05:00Z
-    webUrl: "https://www.foxnews.com/media/washington-post-trump-presidential-library"
-    ampWebUrl: "https://www.foxnews.com/media/washington-post-trump-presidential-library.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-trump-presidential-library.amp"
+  - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
+    excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
+    publishedDateTime: 2021-01-23T19:39:00Z
+    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8602e5d-9e71-49fc-9804-aadaf01d4fca/3c23923f-67f8-4d1a-a5a4-fbcaa78831f8/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-289628/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
 
-secured: "MnvbsRKXTIPTeUedAf/9Yvkob9l5jp4khm8CYpqf8Z8S8FVXSTvcHB5WaXfmXT2E8VAyxUJdv/A+a6ICeCTjBEjPXoQzPX6LPfArYw3RTvF4nAXWi8QqWBQ5tmwU7zjJHQZOmO415UNqzvuTs3A+02CT8z/4SAFAeoGFr4cg3/JU1860seihohV2KlRtqZbJ28wAnYl9s5BQX1ntRxRc6aLeES1mfPKXqyRTFhaWkkqUAVFEui9OmfrUForoFhh75FLCGI6gritSiNRehqRDTpor/6y+0yuMRzn7sKxLX9se4MAJjVMl2JpV4F77P06X8aD20GytS6s0os9GmB8Zcsb2GyHniyZv3RlNx6bjWWbOfA9fmR8vJPGY69G+LErukBQBD9OIHEvLm9zKfFCM+54/u6DFcshkdwgIqKHKqPxyiEA9dYOXFwqLYQGBABky7GRc6zRpT+mf3XRCT26TekhjA77qMYlBLqikYlvCQTaMQhDBrwOIfqdcjmVcs3EeIu+dq9mzbxT1n/r+u/esmw==;fGczSZlnhEJp5s8pfGWy2g=="
+secured: "u85n39l3OUjgkxeWhemqQpZhmww9cZ0vx8QYwCIrN0TYv1pvAXD8PkE1BVS8RdttQkCTRKYIDPbDbBgBORbAC/cz+V5g1LYzQuQXJknhk0cQIXo6E7rPY7LiyP5UDkQTBVipDG4IBztQD6qTkwUaYNEouVz8jGHjP8cG8PND9iidp8U0QZ5iclZlUuCTV/hlZH+NR4hLasdHnpV8yOkEvrV/5n/LxY6z0VnoctT90J1a51UlbRLwji/MjO0NGk6erDaHzs0CPV/3bJfAppYA8ixrlxqWvjTvNiQB9DTpqsjEqNYSQtkgLS5CoBWoLRg9MmnpZcFaOHGArVysYZB6JmI10+9gxzaEufMrCDvkKtM=;7atUu3FnybQkRMgzYlTc9g=="
 ---
 

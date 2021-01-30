@@ -128,7 +128,7 @@ related:
   - title: "Kamala Harris' Stepdaughter Ella Emhoff Signs With IMG Models"
     excerpt: "Ella Emhoff, the stepdaughter of Vice President Kamala Harris, made waves on the internet for donning a sparkling Miu Miu coat to “Momala’s” swearing in on Jan. 20. The chic inauguration ensemble even caught the eye of prestigious modeling agency IMG Models."
     publishedDateTime: 2021-01-29T08:54:00Z
-    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/"
+    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
     ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
     type: article
@@ -188,6 +188,6 @@ related:
         height: 360
         isCached: true
 
-secured: "iU4yvJErSMuc2bBNL9weymIzF1RdoIlYEva7IwvC81u8M/N+vkN6QDlQecWGo86yS/vYhZWMI1WtHzDxa9JIG44RZHtMyGQGHrtx1lVhwNEmvtY39Q9F/h9u52cEdmD/UR8Bw1ObbDr/KONMqA4QxkXYilhNdhLMDdoV/3ohv7nR6CEK6coMvF/TQVEaIcBUkcA3n2nJz/bdXbcRwBidniXdew/w/ImJ3vqBzllYaOyqt5y3In8MDTV2deahNjZ5L3fKZozBYhx1mQYxfgOeCNFToKvrGpxA6HxBxIu+FMvp9cm9ojXNUFwqC0zJ321qJavmSna+eOxAOeOpo0z8SNMziXgZx08Eolnjmb8aKSg=;ElvDYTzoz7Fct/rWINkvNA=="
+secured: "3nweCpxxUT+8X4PpoiaRivLgv/1MzIOKBdw1Y8T0DOL47F70LZFvQUw2RI5UnS9VBlmQygAm70KOu5/cQxf3Qv0ab/L613+sOQp/AZ1Z27WW1NB8XJi//tLrZvw37dXy6bHkPBCgAmjRb7DK6bW+PAZIWx9A9N0php14l1JUCbVO7CgsmjQQuOqCqhid+Rv//EyDrWj8k966cJAdtuJfUwmhDOjW3i7J41YfUpdCbQHTtAE5ay3/yqC5srYXr1BHkH9RVFI/f19GDujIHOHrqtqazDjLHfPIg704oAJSRQgxCbU9YNSyj1hipaRAvyeOlkWdQcV+aAZE5swY1ptAsPfwSXhzTWHvexFXR/rLu+kgwBPlN6+0Idin8NljvMroqU8l6LeZroa+ujs5uYhj2GvxM9ey2cXvLhfC3hCl/f+AnBf5RX+Ktk6gpe+XyQb3+jfav/B8xMZZbI5H9NMoFsBA59/86Wr83uOYWyPwnEDn805IAbUdYqVSiCj2mQWAhiem8LaJZWZjHnWcZLmQPA==;PhGRbFCAuCHBJvqZFYqkKg=="
 ---
 

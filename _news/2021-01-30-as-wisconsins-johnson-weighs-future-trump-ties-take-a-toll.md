@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump makes 2nd request to Supreme Court over Wisconsin loss"
-excerpt: "President Donald Trump on Wednesday asked the U.S. Supreme Court to overturn his election loss in Wisconsin, his second appeal in as many days to the high court over the result in the key battleground state."
-publishedDateTime: 2020-12-31T08:23:00Z
-originalUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html"
-webUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+title: "As Wisconsin's Johnson weighs future, Trump ties take a toll"
+excerpt: "Fealty to former President Donald Trump has endeared Republican Sen. Ron Johnson to the far-right base in Wisconsin, but it could prove costly if he decides to seek a third term in 2022"
+publishedDateTime: 2021-01-30T07:47:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/wisconsins-johnson-weighs-future-trump-ties-toll-75577834"
+webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsins-johnson-weighs-future-trump-ties-toll-75577834"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsins-johnson-weighs-future-trump-ties-toll-75577834"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsins-johnson-weighs-future-trump-ties-toll-75577834"
 type: article
 quality: 125
-heat: 365
-published: true
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_b136776f6267406d8360145b96f02447_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
+  - title: "Trump makes 2nd request to Supreme Court over Wisconsin loss"
+    excerpt: "President Donald Trump on Wednesday asked the U.S. Supreme Court to overturn his election loss in Wisconsin, his second appeal in as many days to the high court over the result in the key battleground state."
+    publishedDateTime: 2020-12-31T08:23:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump to forgo New Year's Eve in Florida for early return to Washington"
     excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
     publishedDateTime: 2020-12-31T15:25:00Z
@@ -94,22 +110,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546880792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH051JP"
         width: 817
         height: 545
-        isCached: true
-  - title: "As Wisconsin's Johnson weighs future, Trump ties take a toll"
-    excerpt: "Fealty to former President Donald Trump has endeared Republican Sen. Ron Johnson to the far-right base in Wisconsin, but it could prove costly if he decides to seek a third term in 2022"
-    publishedDateTime: 2021-01-30T07:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsins-johnson-weighs-future-trump-ties-toll-75577834"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsins-johnson-weighs-future-trump-ties-toll-75577834"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsins-johnson-weighs-future-trump-ties-toll-75577834"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b136776f6267406d8360145b96f02447_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Trump to forego New Year's Eve in Florida for early return to Washington"
     excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
@@ -214,6 +214,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "pQduHYtxhm/69Z3oG1g6p1xeu0BDldFbd0peQ5Q2IaQO527rssp6Ss2LXdGWzfSHAFUf8XLJciM1P8rCYgH2BVum/og/mcMWE+Zo3YkRSoufGK4xsTeDLaZjQ1W21Gyhzao7+WdtdyrwXnlTmkRFx4opcY9+JiM51n0QFExrTbwwsh6aSZjSuA5fHEUUqDt/7ZAqFSb17TyHgbpK/gka/2rrrMavV5gjVKDX69Gj4xH/0cAyBCDZ2T+IozzPTarZphT+5U3A0gPpgmuT/d/X9njEMtuWay4pRnd3BRH48UVRiNUup7WMk3YqvvpYNxybzeW+S1iuyvreGR8fmjj0uY5V/hEqErSCE0uefK16lEA=;9qJKmgPqssRbZOfRaLP1JQ=="
+secured: "iizysnP2KPc+jGeizqodTqa+CbYJSwlu6nruKwXD/JIgqRNz7JUcwgHt+642fzB4yGtkjnbhFrq4lwXW2yAjssVYtRgQ/x8C/l5IqgOGycnh3f1m0eAYXsiSev8NaE8mjgl+q2RdY2BLalaGMSw1bByPgfWeUj3ZHqPLvqgpeUhL2CLEQ0+q8VXi05ih4o70kXvp3jVYPM97Vd65Whv2usgbSOOiMhbnMVx54z4qlj4kV2dXl1VJsrTZEu1z30Qd3XPCWo45on30+jhuu3eLMPXH0+oKnVApzkMahGAF0CbM82o236ISiMZYocmDjw/pqxJ5l33WN/lIc/NLDQzWlV1H0mgSo0rr4r9Xr1OWDGA=;7/K66Mh9xPPU8CZXmOjhhQ=="
 ---
 
