@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Arizona GOP narrowly reelects Trump loyalist Kelli Ward; censures Cindy McCain, Gov. Doug Ducey, ex-Sen. Jeff Flake"
-excerpt: "The closely watched result offers an early, state-level indication that Trump retains sway over the activist GOP base, though it is more tenuous."
-publishedDateTime: 2021-01-24T18:27:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/arizona-gop-reelects-kelli-ward-censures-cindy-mccain-jeff-flake-doug-ducey/6692657002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/arizona-gop-reelects-kelli-ward-censures-cindy-mccain-jeff-flake-doug-ducey/6692657002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-ampWebUrl: "https://amp.usatoday.com/amp/6692657002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6692657002"
+title: "Publix Supermarkets Under Fire After Heiress Reportedly Donates $300,000 To Trump Rally"
+excerpt: "The Publix supermarket chain is facing backlash after a bombshell report revealed the chain's heiress donated money to the infamous Trump rally that preceded the Capitol riots."
+publishedDateTime: 2021-01-30T17:38:00Z
+originalUrl: "https://www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985"
+webUrl: "https://www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985"
+ampWebUrl: "https://www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985?amp=1"
 type: article
-quality: 103
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/01/07/PPHX/f063a3d8-bbc8-4d8b-9728-245e41c58cf1-cent02-7dyzmbiscdh80zdihle_original.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/publix.jpg"
     width: 1200
-    height: 675
+    height: 847
     isCached: true
 
 related:
@@ -79,23 +79,23 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Publix Supermarkets Under Fire After Heiress Reportedly Donates $300,000 To Trump Rally"
-    excerpt: "The Publix supermarket chain is facing backlash after a bombshell report revealed the chain's heiress donated money to the infamous Trump rally that preceded the Capitol riots."
-    publishedDateTime: 2021-01-30T17:38:00Z
-    webUrl: "https://www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985"
-    ampWebUrl: "https://www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985?amp=1"
+  - title: "Arizona GOP narrowly reelects Trump loyalist Kelli Ward; censures Cindy McCain, Gov. Doug Ducey, ex-Sen. Jeff Flake"
+    excerpt: "The closely watched result offers an early, state-level indication that Trump retains sway over the activist GOP base, though it is more tenuous."
+    publishedDateTime: 2021-01-24T18:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/arizona-gop-reelects-kelli-ward-censures-cindy-mccain-jeff-flake-doug-ducey/6692657002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6692657002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6692657002"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/publix.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/PPHX/f063a3d8-bbc8-4d8b-9728-245e41c58cf1-cent02-7dyzmbiscdh80zdihle_original.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 847
+        height: 675
         isCached: true
 
-secured: "T4xBEgCo7uKnd6bXJxFjXZSAk5b0lGVvR8GYwmDk/1eiJbA/A6Lp/mekhtIyxlBPlX87aqYJivFo6tC2uY0YuKoOr1siGAzbRgeSDB41u6RwsLPbQ2llDllAGPsZ/jV2/vxBsG/M9I/8HxU51QYUPuZ8azOWZcfu9Iiaz0nXTVMNl00Z9Q/7K7u1BKmGk4+xE/I9grxIS0Hq/pSPLdw+oPL+76UeqFVvHLzVxwx0N3c4/OXUYdBlePYifHX+2kj0Cx45sC7do3eMucA2qCRlW9h5N38qzZ+m2Ljv/QQvIAJMi1XTA9GVBwFanF37mEn+n/3HAmbBpWW4JlPL6tFQAgqhx515XZjYVxTCFoU/XNk=;2IaHJwltUmjgTt00UxXjJQ=="
+secured: "G/qD5qFyfIE3ExXTt7EMTkZmkXFY9x/xs87iqqgmhc5tO2A8IZlzTs8BX9QSYd3O5fjPrsLkZ1aCIjN5TslnxCpIfTRYRU0I/c9WyN2t09AZRSpkzGX+81E575joHwRKvXedDSvpHnuFrzMBboluwMEC2McC5vb1c+h+iHL6ZtQ97twVxIo5jOsKi01YFBemDl8l2mao1NIfNv8DK3xnlzPUEErNrSPVrOUuq9ISV4AdW7p5DUi5xJCrpIIn7TmVzA3iYHiX/mYcD7+KhAtXVbKnuK0cKEUYdx4hQMh97Eo7jgS5kU1z4XDnFLikoif1O4xw84Mdd7yINHVbARRh/HpMZSBcL7OpM4Uvjx0Yj54=;6LlGZ/gCbgOoAJBrRtm6NA=="
 ---
 

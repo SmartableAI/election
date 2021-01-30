@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Publix Supermarkets Under Fire After Heiress Reportedly Donates $300,000 To Trump Rally"
+    excerpt: "The Publix supermarket chain is facing backlash after a bombshell report revealed the chain's heiress donated money to the infamous Trump rally that preceded the Capitol riots."
+    publishedDateTime: 2021-01-30T17:38:00Z
+    webUrl: "https://www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985"
+    ampWebUrl: "https://www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/publix.jpg"
+        width: 1200
+        height: 847
+        isCached: true
 
 secured: "exWo4+tfzkGSGpszR2GKpWh0QSQAG+TeOa3pcCXH9ZtQigMrg2fkIgqsBvByB+RG1TwqZUFrHZg32S8AJWTp3THSeru4QeZ7NSFumwrYhLpbiia5HNwfwBNgY/FgSMi8L2lMF8WnuVTdyk1OrBJLL73pE4iOR/XTvh3WGTi6iUm8lOGariqfczIgc+tndQbrR1VEJ1PUDBi7LSJ+9zY1jqyoGk5zuvjCx9I9Coq+NJHDaWU4nlfp//klnBd/Pw61uHtL6pUrYvW1pXiLkXsKhGatuScP6inXX5rfEz0+KJ2hWot2sZCarGS6+sf3agEta+ZY4CSqS2cn0ZAnt7Vi/8SsfSmKFiictQ1fvRwkmbQ=;EgF7hWwoBRzXht/O8ua0tw=="
 ---

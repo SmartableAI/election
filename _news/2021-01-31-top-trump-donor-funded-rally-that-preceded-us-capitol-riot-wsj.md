@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Ex-Trump spokeswoman Sanders running for Arkansas governor"
-excerpt: "LITTLE ROCK, Ark. (AP) — Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, announced Monday she’s running for Arkansas governor, vying for political office even as the former president’s legacy is clouded by an impeachment charge that he incited the deadly siege at the U."
-publishedDateTime: 2021-01-25T18:42:00Z
-originalUrl: "https://www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1"
-webUrl: "https://www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1"
-ampWebUrl: "https://www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1?amp"
+title: "Top Trump donor funded rally that preceded U.S. Capitol riot - WSJ"
+excerpt: "An heiress to the Publix Super Markets chain donated about $300,000 to fund a rally that preceded the deadly storming of the U.S. Capitol this month by supporters of former President Donald Trump, the Wall Street Journal reported on Saturday."
+publishedDateTime: 2021-01-30T17:57:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-capitol-riots/top-trump-donor-funded-rally-that-preceded-u-s-capitol-riot-wsj-idUSKBN29Z0QP"
+webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-riots/top-trump-donor-funded-rally-that-preceded-u-s-capitol-riot-wsj-idUSKBN29Z0QP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Z0QP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Z0QP"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210130&t=2&i=1549674179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0T0GO"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Dr. Anthony Fauci on what working for Donald Trump was really like"
@@ -57,22 +63,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Top Trump donor funded rally that preceded U.S. Capitol riot - WSJ"
-    excerpt: "An heiress to the Publix Super Markets chain donated about $300,000 to fund a rally that preceded the deadly storming of the U.S. Capitol this month by supporters of former President Donald Trump, the Wall Street Journal reported on Saturday."
-    publishedDateTime: 2021-01-30T17:57:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-riots/top-trump-donor-funded-rally-that-preceded-u-s-capitol-riot-wsj-idUSKBN29Z0QP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Z0QP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Z0QP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210130&t=2&i=1549674179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0T0GO"
-        width: 817
-        height: 545
-        isCached: true
   - title: "New Pentagon chief praises Germany for hosting U.S. troops, reversing Trump's tack"
     excerpt: "New U.S. Defense Secretary Lloyd Austin praised Germany for hosting U.S. troops in a call with his German counterpart on Wednesday, fueling speculation that President Joe Biden could overturn a drawdown ordered by his predecessor Donald Trump."
     publishedDateTime: 2021-01-28T02:59:00Z
@@ -105,6 +95,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Ex-Trump spokeswoman Sanders running for Arkansas governor"
+    excerpt: "LITTLE ROCK, Ark. (AP) — Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, announced Monday she’s running for Arkansas governor, vying for political office even as the former president’s legacy is clouded by an impeachment charge that he incited the deadly siege at the U."
+    publishedDateTime: 2021-01-25T18:42:00Z
+    webUrl: "https://www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Ex-Trump Spokeswoman Sanders Running for Arkansas Governor"
     excerpt: "(AP) — Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, is running for Arkansas governor, a senior campaign official told The Associated Press. Sanders, who left the White House in 2019 to return to her home state,"
     publishedDateTime: 2021-01-25T12:21:00Z
@@ -117,6 +118,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "Z8TLgvQD6jR9cWy2vGhtDKSmWAkssOHg1zF/2HOun4yZJ/QekzTaPQFNweJERdFma9ficMhLQSj1dP+SUqhJcpd+yjsViALaKq/N3+hHtyAiLwrt4GiF4UFGGbC5qMlJUZPBLqHZjiLtgfusqrRnYhmP24giLa1+KbGmj2fJhbVR2+cSmTxOOzf3/twf5Y7BT0lz7aaVYRdiio9+sPoxgQd/oIMqhFcV8m23Tom0cxSYlzJ8kCA3QTj0Pd03Wd0nv3KCsY4kSAiE/CcuwnSwBKhVF2MCElt6wnIQnD+X6XMSiSvTnuP3525su68La3Xsfwl2G4it3CAM/cZtx4Puf8rKhGbaOVHgyh5hl8AqHOw=;hvhJc6Db52pA72NNRLgSOw=="
+secured: "3MLHdL11P4PRg/tCEri8l6FesU8ecw6H5Rq6k1+KfogIUDz9dgQ2NIA4ZkjaiWXRTAqsPsxNDRPnMsHBrMKuV49qgUpFF0XaIg3kdfUJnJaaE/2WAzDiM3a71iGNlC/4wzHPCTiKDXosLO0mGVVeNXLC1kJioVYVTqz+vDLH8CzvJ7jA4Twp/Qx8TcFa8mhCyd0JLq4Hkj5BFVmdGVvUZYfAfa+eB33JyTvtu6LQQZ+eDC3ZL+yzzEG6pigLoYx80/eXHkGZ/3sa9l2h5DuL9RbxLFUW21+cLkFAat9lpk8YT3A/SBhLb6P4+3mJAenMTzkSnNcXlO7fZQlk7Ri/NmoNH5TImYEtoQo18VqXxpU=;LZIh83GgqDIm0aLrJDgH+Q=="
 ---
 

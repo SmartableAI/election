@@ -542,6 +542,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "President Joe Biden, Democrats hit gas on push for $15 minimum wage"
+    excerpt: "President Joe Biden called for a $15 hourly minimum wage during his campaign and has followed through by hitching it to a measure that, among other things, calls for $1,400 stimulus checks and $130 billion to help schools reopen."
+    publishedDateTime: 2021-01-30T18:07:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DCYM7LIUA5EM3N44LCYC3SJYVI.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "nXJiO6q3D9M+kKspx82jNUMC3P5H4jHjmKot16KCbHhhmmnD1zk2Iun/BFrQN+MIRCoNEyzEk3O7Pl4P/0CSPjwn5C6j/JX7q2261lINkF00kaiZ6ldUtqs+KKmFQmThFgf0ZaYaYAD+WLL0GE6OxYfdw0fwsP3IftDKza2CSF/FSj5+cgwc3ckszNdlZBnwS6BX8w3cxWh65Y0KT5i02cy++GbgYtw6DUnUNEXYOpikW3E6/Xj+EGOEiNW3zUHxf/27GicfcNlpTpb6dghQ2m/2ug1lVfuz6k/7vtEkyBAmqIcysRzb+wlXbt0DRcACXbBO6idlqTFAvxF2N0K46xjoX6CeRKB3zd+WTMr3RgU=;ef0b5SqtCFN6aFyOQaqzRw=="
 ---

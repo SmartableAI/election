@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Biden is expected reinstate federal funding for abortions in an upcoming executive order"
-excerpt: "As part of a series of healthcare actions, President Joe Biden plans to back ending provisions that bar federal funds from being used for abortions."
-publishedDateTime: 2021-01-28T16:08:00Z
-originalUrl: "https://www.businessinsider.com/biden-reinstate-federal-funding-for-abortions-in-upcoming-executive-order-2021-1"
-webUrl: "https://www.businessinsider.com/biden-reinstate-federal-funding-for-abortions-in-upcoming-executive-order-2021-1"
-ampWebUrl: "https://www.businessinsider.com/biden-reinstate-federal-funding-for-abortions-in-upcoming-executive-order-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-reinstate-federal-funding-for-abortions-in-upcoming-executive-order-2021-1?amp"
+title: "President Joe Biden, Democrats hit gas on push for $15 minimum wage"
+excerpt: "President Joe Biden called for a $15 hourly minimum wage during his campaign and has followed through by hitching it to a measure that, among other things, calls for $1,400 stimulus checks and $130 billion to help schools reopen."
+publishedDateTime: 2021-01-30T18:07:00Z
+originalUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html"
+webUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html"
+ampWebUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html?outputType=amp"
+cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html?outputType=amp"
 type: article
-quality: 116
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Oregonian
+  domain: oregonlive.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/600b20e6bc6a6a0012f4a25c?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DCYM7LIUA5EM3N44LCYC3SJYVI.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -335,6 +331,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden is expected reinstate federal funding for abortions in an upcoming executive order"
+    excerpt: "As part of a series of healthcare actions, President Joe Biden plans to back ending provisions that bar federal funds from being used for abortions."
+    publishedDateTime: 2021-01-28T16:08:00Z
+    webUrl: "https://www.businessinsider.com/biden-reinstate-federal-funding-for-abortions-in-upcoming-executive-order-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-reinstate-federal-funding-for-abortions-in-upcoming-executive-order-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-reinstate-federal-funding-for-abortions-in-upcoming-executive-order-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/600b20e6bc6a6a0012f4a25c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden order seeks stronger workplace safety rules, signaling a more worker friendly approach"
     excerpt: "The Executive Order could lead to an emergency standard for businesses — a set of a regulations they would have to comply with, like mask-wearing, that advocates say is necessary to combat the pandemic."
     publishedDateTime: 2021-01-21T22:56:00Z
@@ -532,22 +544,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "President Joe Biden, Democrats hit gas on push for $15 minimum wage"
-    excerpt: "President Joe Biden called for a $15 hourly minimum wage during his campaign and has followed through by hitching it to a measure that, among other things, calls for $1,400 stimulus checks and $130 billion to help schools reopen."
-    publishedDateTime: 2021-01-30T18:07:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DCYM7LIUA5EM3N44LCYC3SJYVI.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Joe Biden takes the helm, enters the White House for the first time as chief executive: ‘Democracy has prevailed’"
     excerpt: "Joe Biden was sworn in as the 46th president of the United States on Wednesday, declaring that “democracy has prevailed” and summoning American resilience and unity to confront the deeply divided nation’s historic confluence of crises."
     publishedDateTime: 2021-01-20T21:56:00Z
@@ -563,6 +559,6 @@ related:
         height: 800
         isCached: true
 
-secured: "umMK4Z5xBbjWatq77iC7SFOWvaDB94A+GmzNOFkjHSDfr281ECZb8Gz/jiAmc3r2zoqNQ0TAP0t3zPoXJMgPmRMAJlaBN9QYoS+5wBQ14nADJoWfmQQcnFkp3J8I9s4H5G+DFVYxQxX4xcIJRXkegNDi0vwrfdzar5uJGeACRAvMBnEmDVrTL/sBxkXQb+onvn0ftWzWltXyTncryYShBt4BZVco3VMzPviuf6BnSQ+LLYTopD3WQmCxGHWcJWoJ+yl07CdpyV5ooFEhaA3wOzl7zdKGJEO9kNGl1F1EGXZGin/w/JfhZCqTe2LnIBunQhTChLqI6IsMwQ1sAFVI16ZlrxI3Vu4dc4+gAiCPgRiLvra0J1vse1inSP/KGK+FEhJAj6O8XcsKPv8/yYIQK3760EmKwNuNSDHreVexj1hmUK6xnDNt/nRgCQ3uVqGsIRHCOqabLfG8acDgVmBHBDX33bnPTmp9O1wNyhC54IQ8IBriD518W5yDhYsy+wAcMc1rWeaPPE0I9xc6URbuuQ==;OoBtRZBym6oC7x3mt7f1fA=="
+secured: "O3O2eGIkK7JZGs2qmS6mQNEBeeyGUkLaN/2+FSP4Xvfr9R4tZuwe2VuGnyTOVz6Xlq66CfUHgfUgA7cbYfNPt2mC4dHv1/pHwwHm6fXf7B6Boe8wPk6sV1rKyGKcnjBhMdj9Q2efvm/TmtBcJCrQzcgnE1TUIkQpR5QR6s+0qIn6JngutEpKA51T2UoCl7nZPijzljKqjbK98WSgt6AjiklUjBw1TFYOtkDGoTRWxoRmDUnnpDpbEd9PFLXLZ5//I50m+WmU32u2CY0VKGkOXt/AQ5V+eYHIQdd26nyMAw6Pe4Fze7F4DwgXNDT1OIAq5siXMFZ9YX19W6ZIDH8vV10yNbmCZHKMUoKXLycRlN4=;GRMZ8OBmF2mgLj2kuLHGRg=="
 ---
 

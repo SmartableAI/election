@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-cor
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/faucianthony_trumpdonald_101220gn-getty_split_fauci.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Top Trump donor funded rally that preceded U.S. Capitol riot - WSJ"
+    excerpt: "An heiress to the Publix Super Markets chain donated about $300,000 to fund a rally that preceded the deadly storming of the U.S. Capitol this month by supporters of former President Donald Trump, the Wall Street Journal reported on Saturday."
+    publishedDateTime: 2021-01-30T17:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-riots/top-trump-donor-funded-rally-that-preceded-u-s-capitol-riot-wsj-idUSKBN29Z0QP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Z0QP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Z0QP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210130&t=2&i=1549674179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0T0GO"
+        width: 817
+        height: 545
         isCached: true
   - title: "New Pentagon chief praises Germany for hosting U.S. troops, reversing Trump's tack"
     excerpt: "New U.S. Defense Secretary Lloyd Austin praised Germany for hosting U.S. troops in a call with his German counterpart on Wednesday, fueling speculation that President Joe Biden could overturn a drawdown ordered by his predecessor Donald Trump."

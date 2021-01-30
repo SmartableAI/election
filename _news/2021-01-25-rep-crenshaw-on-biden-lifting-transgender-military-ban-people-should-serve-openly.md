@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/crenshaw-biden-lifting-transgender-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-biden-lifting-transgender-military-ban-people-openly.amp"
 type: article
 quality: 168
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Rep. Crenshaw introduces House bill to protect Texas oil, gas jobs in light of Biden order"
+    excerpt: "Republican Texas Rep. Dan Crenshaw has introduced a bill that aims to protect oil and gas industry jobs near the Gulf of Mexico."
+    publishedDateTime: 2021-01-30T17:56:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ezUcwPN6kHk/crenshaw-bill-protect-texas-oil-gas-jobs"
+    ampWebUrl: "https://www.foxnews.com/politics/crenshaw-bill-protect-texas-oil-gas-jobs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-bill-protect-texas-oil-gas-jobs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20261552108227.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "5JWszsg5VyR+eQuyFG12n8hnfJZ5LRyzXJVC91tcZHyTfHZQEXle+TdwKpSKUVa2NLfXVk9eme+9fvF38+etZD3pUiMNAA92hQAIhKqcB2e6Krot6rjeVZmYg3NoZT35X25ZpugFQyOdvph6ciJBNqEeJRFOiDLz7jTaR2VAxfJPuMbkt8LSWMlyI6awrcIXyg6PVpA1eFDjaiRyuVSQ1p9DjBH39oTUp/cDjOPn6rBF4XdK0uUhbEjjEC6femxmTW88ytl62zQVHRt4YuFJLD+dRYo9FNzeFffuR0bOshrunNiJjRoBrrpy5BmjQEow+K+wtC3i/g28iVFocJju/x5co9C2zsjuH5WzMVvGoMg=;Ty82npMgQzXqXm0ks6IuBA=="
 ---

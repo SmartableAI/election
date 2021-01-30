@@ -2,11 +2,11 @@
 category: news
 title: "As asylum camp swells at U.S.-Mexico border, Biden aide calls for patience"
 excerpt: "The Biden administration is urging migrants waiting in Mexico under restrictions imposed by former U.S. President Donald Trump to be patient, even as the population of a makeshift camp in northeastern Mexico begins to swell with hopeful asylum seekers."
-publishedDateTime: 2021-01-30T08:17:00Z
-originalUrl: "https://www.reuters.com/article/usa-immigration-biden-idINKBN29Z04P"
-webUrl: "https://www.reuters.com/article/usa-immigration-biden-idINKBN29Z04P"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29Z04P"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29Z04P"
+publishedDateTime: 2021-01-30T15:46:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-immigration-biden-idUSKBN29Y2S3"
+webUrl: "https://www.reuters.com/article/us-usa-immigration-biden-idUSKBN29Y2S3"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y2S3"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y2S3"
 type: article
 quality: 123
 heat: -1
@@ -1131,6 +1131,6 @@ related:
       domain: usnews.com
     quality: 58
 
-secured: "3PdS7i5Vbr6KhSqpqdLwEFpyp2Ifd6xMoGk9u9g1LGhNvynsq8Ht4NdzNr9LmqRY3/9uM2D5QiMDLEJrTUfCRF3BFG8nAAGsAkaYV5W8XfxGF5ycfJT6Y9aPJXPDGoyUbL6RQmDad6TvbNvMYVLvpdHaJDndKvTNTbTzFd7HnzbdRc7z+uPiqSy/dbfWA3l5yW37B2AZAhM68qa2lIV6nxUYySiIaN+WsB1q1raynohgvu+cC7sDO0xmgENucMAuRbcGrKoVREG3EKQiAreguWBNHhT8JyEWecniyDnUQ/mymdYlSTAbVvm3wKLOkS6q1y9yXYekA4Ii4SJZjBgnrtIfZY94+Lc+tcsM2WaGtzA=;IsxC8i0Y0hAmchg5heIy5w=="
+secured: "7AKTQ8YdgvtAtMWD0wK5vu1QMDaZzrBb7ihWrhFqAKyWXJLdTra439NoaEr1Pp7yhmSyDjCs157EgPTJh87z2Wz5I/lqJluCPhoNYGsvFPmKOvymfxkwRwdLuPht4PNrGBinWZ4xwjIzHeXCIwTZxqLt0MCKmLRlb24ntx7H0iqyC3U4EA7K7C3LVah6MTrXV/t0WsejHKXgXdVWr1D8Pjkj1W37WRsbZG7jpSsAWS63uG/wNQG2f6SRXq63O7/bjrCLWE1j9elKzU5l0R9/X1yemx2QF46S1iKiNZs6Jq21a1DqajdEL0zrPrUWkzCPqk6CGwg3YZsZqpc/bv1S1OGTQIEYKzbc+Fo51Jo8lTk=;Fp3AwiGuagyCCDVM/OLDGg=="
 ---
 
