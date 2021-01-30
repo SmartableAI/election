@@ -1455,6 +1455,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump's in a historically strong 2024 primary position for an ex-president"
+    excerpt: "Donald Trump is no longer president. He no longer has the megaphone of Twitter.\n    \n"
+    publishedDateTime: 2021-01-30T15:01:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BqHTixEi1V8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/trump-2024-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/trump-2024-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126134325-trump-1208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Environmental groups sue Trump administration over rule allowing for faster dishwashers"
     excerpt: "A coalition of environmental groups sued the Energy Department on Tuesday in an effort to block a new federal rule that would allow for faster dishwashers, arguing it could possibly lead to \"higher household utility bills and more pollution.\"\n    \n"
     publishedDateTime: 2020-12-29T18:48:27Z

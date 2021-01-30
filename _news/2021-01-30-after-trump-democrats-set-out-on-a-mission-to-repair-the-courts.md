@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "From building the wall to bringing back coal: Some of Trump's more notable broken promises"
+    excerpt: "While Donald Trump's first campaign for president was all about change, his argument for re-election was based on the premise that he had delivered on his initial promises and would continue to do so. The campaign slogan \"Promises made, promises kept,\" became Trump's rallying cry.\n    \n"
+    publishedDateTime: 2021-01-30T16:07:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7QJeVWDnBeY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/trump-broken-promises/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/trump-broken-promises/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128205257-trump-oval-office-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Blame Trump' defense from alleged Capitol rioters dovetails with Democrats' impeachment case"
     excerpt: "The \"Trump defense\" is taking shape among some alleged Capitol rioters.\n    \n"
     publishedDateTime: 2021-01-27T11:00:49Z
@@ -368,6 +384,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "From building the wall to bringing back coal: Some of Trump's more notable broken promises"
+    excerpt: "While Donald Trump's first campaign for president was all about change, his argument for re-election was based on the premise that he had delivered on his initial promises and would continue to do so."
+    publishedDateTime: 2021-01-30T16:07:00Z
+    webUrl: "https://www.cnn.com/2021/01/30/politics/trump-broken-promises/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/trump-broken-promises/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/trump-broken-promises/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 125
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128205257-trump-oval-office-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump leaves office with little to show of his major promises, and a legacy of violent divisiveness"
     excerpt: "Donald Trump promised to end \"American carnage\" and \"Make America Great Again.\" Four years later, he leaves with those goals far from reach."
     publishedDateTime: 2021-01-20T08:14:00Z
@@ -443,6 +475,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "XxZyws+o7pcikQYHeN5p9490UbjQNfWt1edZWyJ+LzzZYus/T12i8devFEryqwpK5XsK02Do9mRSmxWjWnV9YBFmMjnr0TZRKvQQecdD1u7b9t/5rl7rJ1NXiInpd4QZdHi3/x6pnGqUU8T0L54r6sRjUF0qv5N5+2ZfVuizATBy1Bc4ZAkKzMde0ObIxrzq5zdYXV0FJ9G2QvU5nuhGuQUvS1VT4tX/IYEgScs0M83SyI6+VHOL0zl5WVNl/fXW4G5TkKiUhSTuR14TsjLA1i/hByRXVt39iY2oGsfAQy5Li8cQf66k9vzh3sVSpBlaRjidZZrDmVyOSRJRyfryQI56Jw9NGet5Y67hDPfHO58=;x9QXAkuJgBd8awIvBIyGkA=="
+secured: "lbHbTetMYq+2ZqGtzznlacfrtPvO4Ml42SljcIr+BUVHxtkkJBx2YJvVb4OTNZi3dC/XExEfcJHSkY7W0n6MYLyGglBqd5h3UW21TIpmtZJGMKKQeXbyhPpgtjgCEBwDSk5GkCw6UmAFYc5w6kKuW/gHT4ND69uUMZd7nV1GxTqcuhmTs8C2qoAIf/OnuasKFxAJ2PsScdExeHuU6E3gtbH+8NorQkjwcbcuWOCg0r/QIMnPnq04b6wYs8VBZcGtK8v5L1+sZupctJ2rg8u/cQPuUQrRCk7ZxJWJ7ojzqNyxC+OHBojXQ4PbNasAOyFjt10c0b9LCsGsW1x+rXmF6LLmiDHXvXKvYiHMjAMI4MyJ/CQW0J6gnNVFnL++Pb9TfxfqurjFsKli3mkeNfsP0zEk3T3sULgvBqLaDTvz8nYSLuynxk2LjnLfrvX3ZUMps0mmqEIdenwH9UjaATQtZRsjoTmrlGQxyyTp5g9eWOL8aB7vm+3ZWDYAzbcmdVj6JGwHkX4fEea4nXDYlZw9rA==;kcJh4CzLUtfOFzIabTtVTQ=="
 ---
 

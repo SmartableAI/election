@@ -291,6 +291,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Could Trump Make A Comeback In 2024?"
+    excerpt: "There is little precedent for a former president running again, let alone winning. But since when has the lack of precedent bothered Donald Trump?"
+    publishedDateTime: 2021-01-30T16:42:00Z
+    webUrl: "https://www.npr.org/2021/01/30/961919674/could-trump-make-a-comeback-in-2024"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/01/29/gettyimages-1219610965_wide-3379fbbb9e69bb5b81f0c19676ca4d8c8708b070.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Former FBI lawyer gets probation for altering email during investigation into ties between Russia, 2016 Trump campaign"
     excerpt: "A former FBI lawyer was sentenced to probation for altering a document the Justice Department relied on during its surveillance of a Donald Trump aide during the Russia investigation."
     publishedDateTime: 2021-01-29T17:54:00Z
