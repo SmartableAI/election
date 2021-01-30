@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Republican operatives sweat Trump's role in upcoming Senate primaries"
+    excerpt: "Republicans tasked with taking back the Senate in 2022 are preparing for a contentious primary season, fearful that former President Donald Trump could use his popularity inside the party to back candidates who could struggle in statewide races.\n    \n"
+    publishedDateTime: 2021-01-30T14:00:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G7HeS_17GHU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/2022-republican-senate-primaries-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/2022-republican-senate-primaries-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122224-02-mcconnell-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Republican Party is at war with itself as it charts its post-Trump future"
     excerpt: "A cold war is underway within the Republican Party as its members begin to navigate how former President Donald Trump and his legacy fit into the GOP's future.\n    \n"
     publishedDateTime: 2021-01-26T16:22:38Z
@@ -270,6 +286,22 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_impeac_dannycev_210125_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "After Trump, Democrats set out on a mission to 'repair the courts'"
+    excerpt: "The White House and senators are coordinating on an ambitious judicial project. Some Democrats want to fill every vacancy by the end of 2022."
+    publishedDateTime: 2021-01-30T10:01:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/after-trump-democrats-set-out-mission-repair-courts-n1256174"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256174"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256174"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_04/3446141/210129-chuck-schumer-dick-durbin-ew-118p_f5913a63f068f3e072d8a1b9f79e0647.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "Legal Pressure on Trump Increases With Judge’s Order in Fraud Inquiry"
     excerpt: "The order, answering a demand for documents by New York’s attorney general, rejected a bid to shield the records with attorney-client privilege."

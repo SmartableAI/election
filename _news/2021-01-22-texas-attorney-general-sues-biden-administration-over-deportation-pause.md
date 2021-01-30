@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden steps into global scene upended by Trump's ego-driven tumult"
+    excerpt: "As President Joe Biden was ticking through a litany of grievances with his Russian counterpart on Tuesday, it wasn't only his tone that made for a departure from his predecessor.\n    \n"
+    publishedDateTime: 2021-01-30T13:04:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nn_7n2Rf3Fk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/biden-trump-foreign-calls/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/biden-trump-foreign-calls/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden puts Trump's climate and environmental rollbacks in his crosshairs"
     excerpt: "Among incoming President Joe Biden's Day One priorities: Begin rolling back climate and environmental policies of the Trump administration, many of which were rollbacks of Obama-era or earlier rules.\n    \n"
     publishedDateTime: 2021-01-20T10:07:12Z

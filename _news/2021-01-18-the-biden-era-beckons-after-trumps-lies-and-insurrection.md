@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3410
+heat: 3430
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015224228-biden-aborto-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden steps into global scene upended by Trump's ego-driven tumult"
+    excerpt: "As President Joe Biden was ticking through a litany of grievances with his Russian counterpart on Tuesday, it wasn't only his tone that made for a departure from his predecessor.\n    \n"
+    publishedDateTime: 2021-01-30T13:04:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nn_7n2Rf3Fk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/biden-trump-foreign-calls/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/biden-trump-foreign-calls/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

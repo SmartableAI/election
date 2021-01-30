@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "With new urgency, Biden makes his case to the American people for Covid-19 relief"
+    excerpt: "President Joe Biden came to Washington with big dreams of bipartisanship, but the practicalities are now setting in.\n    \n"
+    publishedDateTime: 2021-01-30T14:35:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sJAUwogngJo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/biden-covid-19-relief-urgency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/biden-covid-19-relief-urgency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127134523-01-biden-0125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's favorability on the rise as majority of Americans think he's handling transition well"
     excerpt: "President-elect Joe Biden will take office Wednesday with high expectations and largely positive reviews of how he has handled the transition, according to a new CNN Poll conducted by SSRS. But those rosy assessments of Biden come as negative perceptions of how things are going in the United States are"
     publishedDateTime: 2021-01-19T12:26:41Z
@@ -142,6 +158,22 @@ related:
       - url: "https://static.politico.com/f0/1f/07f6351548c5b134e252af2e0a70/gettyimages-459992630-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden faces calls to secure release of U.S. man in Afghanistan"
+    excerpt: "Mark Frerichs’ family and other supporters are urging the Biden administration not to withdraw additional troops without the Navy veteran being released from captivity."
+    publishedDateTime: 2021-01-30T14:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-faces-calls-secure-release-u-s-man-afghanistan-n1256256"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256256"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256256"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3446319/210130-mark-frerichs-al-0945_eaf4b1268340e609cb11542817c0d8bc.jpg"
+        width: 2500
+        height: 1459
         isCached: true
 
 secured: "Fd7SARiRa0bWN7Y3kQQFC+l634csINxABzC1LO95j+izdhIWNTucsBS2Dm96vG07jbfMlVwiK/4sPPLQScXDq5L5vZDD0kPLiWjz+XhuT3POwY4i9YMqPbYYI0w3dG/K/umr5NoxkUtUxZ5uvmOadf/SlMSUlTBV0zf4DPtWEnLtG/X3DyMaGPfn4fxJL2XvGurLtcUQu5hQJ4ezar8eH7L1i8vw0aK55Bm6M3j3tN0NHcDSTCCUQg27jxeavjoXTPx4jU8oC4MPKk0K24rbLxwR6M8KqVSHkbQtNTKl4gfpzCXiELb+w6W9IFV0Pdx3kt0t2b3mMrmUVlKqTBFbEgYRSlILyNvu5RqKaW/sRRE=;MeX3ARUvWXr1IkbNCzSRmg=="

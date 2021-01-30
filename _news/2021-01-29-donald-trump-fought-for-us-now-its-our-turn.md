@@ -58,6 +58,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Patrick Leahy Takes Gavel in Second Trump Impeachment Trial"
+    excerpt: "When Sen. Patrick Leahy makes history as the first person to preside over the impeachment trial of a former president, the Vermont Democrat also will be in the thorny position of running the trial and serving as a juror."
+    publishedDateTime: 2021-01-30T14:51:00Z
+    webUrl: "https://www.wsj.com/articles/patrick-leahy-takes-gavel-in-second-trump-impeachment-trial-11612018170"
+    ampWebUrl: "https://www.wsj.com/amp/articles/patrick-leahy-takes-gavel-in-second-trump-impeachment-trial-11612018170"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/patrick-leahy-takes-gavel-in-second-trump-impeachment-trial-11612018170"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-291103/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "Mn6nu6b0ZbJRUFpwmn07oBaaILxHb5WYaPb7ozwLSGZX3nz75BpevR4ckWaa8pTS6Viq2hU+BjCHfQUHnVDR0s7ioVriIvQ4AWZBydbRQBM8JNAaWz7Q9qMnBAzp3fybKL/6giimCXCgAq81fS3ZpG+R/8zfdBI98Yw4qtjghuc7XqcJ8H7IxgkG5Bx8XZ71n57ppWOTIIklYdWQge+AXHPigx4Nw/Siije3+6wkaUJlhhTFVV6+KBmriSTQEbwfksO0CsD0+8BvHKNBOgbkfT4ensHOxsKO1muXw5e4dWffExZxde5uGXhczxvuQHNiY8oKrQvrOU4L3D8WXhnR5iuYfkGRDGi03ZukxLNuaVmY1eYpbnsgEx5TEzRU3dWNhTsrGiuCbKANn3B7LREDm8k+Fjpmgsv3pLNb4xWWOSobpJjJvEtBPsd8wzStK5aVXHoAQmWxnL3KXLL2HLjIzQpDaTEltix/nuMZSso6rLuN9BSCN3TQCVMNldPAnTlFfG354BhkjulktN+GxCcgaw==;4zA8wk1Klb+1UYdzQih61A=="
 ---

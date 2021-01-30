@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden steps into global scene upended by Trump's ego-driven tumult"
+    excerpt: "As President Joe Biden was ticking through a litany of grievances with his Russian counterpart on Tuesday, it wasn't only his tone that made for a departure from his predecessor.\n    \n"
+    publishedDateTime: 2021-01-30T13:04:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nn_7n2Rf3Fk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/biden-trump-foreign-calls/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/biden-trump-foreign-calls/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Divisive policies and actions from Trump-era that Biden could decide to alter"
     excerpt: "President Joe Biden assumed the office intent on healing a deeply fractured country and reversing former President Donald Trump's divisive legacy.\n    \n"
     publishedDateTime: 2021-01-21T05:50:05Z
