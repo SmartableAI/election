@@ -2,6 +2,115 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-12-18-covid-us-vice-president-mike-pence-to-receive-vaccine.md",
+      "title": "Covid: US Vice-President Mike Pence to receive vaccine",
+      "excerpt": "President Mike Pence is to receive the coronavirus vaccine live on television at later on Friday. The White House said the aim of the move was to \"promote the safety and efficacy of the vaccine and build confidence among the American people\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-55362697",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-55362697",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 525,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/17EF3/production/_116153089_tv063637087.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-us-canada-55362697",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55362697",
+      "publishedDateTime": "2020-12-18T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-late-night-compares-trump-health-adviser-paul-alexander-to-a-comic-book-villain.md",
+      "title": "Late Night Compares Trump Health Adviser, Paul Alexander, to a Comic Book Villain",
+      "excerpt": "The former Health and Human Services adviser’s leaked emails encouraged herd immunity to deal with the pandemic, writing of Americans, “We want them infected.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/18/arts/18latenight/18latenight-facebookJumbo.png",
+          "width": 876,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.amp.html",
+      "publishedDateTime": "2020-12-17T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-joe-biden-wears-a-kick-me-sign.md",
       "title": "Joe Biden Wears a ‘Kick Me’ Sign",
       "excerpt": "Critics like AOC and Sanders believe there is no price to be paid, and benefits to be gained, by publicly pressuring the new administration.",
@@ -1254,105 +1363,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-trump-administration-blocks-funding-for-california-brings-doj-suit-over-abortion-issues.md",
-      "title": "Trump administration blocks funding for California, brings DOJ suit over abortion issues",
-      "excerpt": "The Trump administration announced two key actions Wednesday designed to protect entities that sought to avoid supporting abortion.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bE0RDm0X_8E/trump-admin-conscience-abortion-hhs-california",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bE0RDm0X_8E/trump-admin-conscience-abortion-hhs-california",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d81c8226-1711-4eae-b269-b02d3e289aff/b0d46677-1617-4e11-ba3c-473a0d6f011c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-admin-conscience-abortion-hhs-california.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-admin-conscience-abortion-hhs-california.amp",
-      "publishedDateTime": "2020-12-16T19:59:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-report-trump-contemplating-not-leaving-white-house-on-january-20.md",
-      "title": "Report: Trump Contemplating Not Leaving White House on January 20",
-      "excerpt": "One of the very few remaining mysteries surrounding Donald Trump — a very simple man prone to blurting out his feelings around the clock in whatever medium he has available — is whether or to what degree he is conscious of his lies.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2020/12/will-trump-leave-white-house-january-20-inauguration.html",
-      "originalUrl": "https://nymag.com/intelligencer/2020/12/will-trump-leave-white-house-january-20-inauguration.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/b8e/d89/22cc7310a26c6ebe1e4007d0e9860f8e18-donald-trump-pouts.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2020/12/will-trump-leave-white-house-january-20-inauguration.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/will-trump-leave-white-house-january-20-inauguration.html",
-      "publishedDateTime": "2020-12-16T19:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

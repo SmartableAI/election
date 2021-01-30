@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-30-ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest.md",
+      "title": "Ohio Republicans pitch ‘President Donald J Trump Day’ to ‘celebrate one of the greatest’",
+      "excerpt": "Two Republicans in Ohio have reportedly suggested named June 14 \"Donald J. Trump Day.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VXOtbHMeT5s/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VXOtbHMeT5s/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest.amp",
+      "publishedDateTime": "2021-01-30T02:20:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together.md",
+      "title": "Kamala Harris TV appearance in West Virginia surprises Manchin: 'That's not working together'",
+      "excerpt": "Vice President Kamala Harris promoted the Biden administration’s \"critical\" coronavirus \"American Rescue Plan\" this week in a pair of interviews with local TV stations in West Virginia and Arizona.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m97r65yFQcQ/kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m97r65yFQcQ/kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/HarrisManchinSplit.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together.amp",
+      "publishedDateTime": "2021-01-30T01:00:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-tucker-dems-rhetoric-actions-show-theyre-more-afraid-now-that-donald-trump-has-left-office.md",
       "title": "Tucker: Dems' rhetoric, actions show they're 'more afraid now that Donald Trump has left office'",
       "excerpt": "Democrats and their allies in Big Tech and the media are doing more than just attacking their political opponents, host Tucker Carlson argued Friday on \"Tucker Carlson Tonight.\"",
@@ -949,7 +1062,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1260,110 +1373,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me.md",
-      "title": "Nancy Sinatra: 'I'll never forgive Trump voters. I hope the anger doesn't kill me'",
-      "excerpt": "She may be 80 and cut off by Covid, but she’s still ready to walk all over Donald Trump. As her greatest songs are reissued, she reflects on the sexual politics of the 60s, her friendship with Elvis a",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
-      "originalUrl": "https://www.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/82417b28bc16912f6f47d9e309378f3e086e658f/0_663_2275_1567/master/2275.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=631bc24f8cf8b8ecc2c3619dfe27efa4",
-          "width": 600,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
-      "publishedDateTime": "2021-01-29T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-fauci-said-macho-guy-trump-saw-masks-as-a-sign-of-weakness-and-many-americans-followed-his-lead.md",
-      "title": "Fauci said 'macho guy' Trump saw masks as a 'sign of weakness' and many Americans followed his lead",
-      "excerpt": "\"To him, a mask was a sign of weakness. The unfortunate aspect of this is that a lot of people in the country took that on as a mantra,\" Fauci said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1",
-      "originalUrl": "https://www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f777ea0282c500018c785f2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1?amp",
-      "publishedDateTime": "2021-01-28T22:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

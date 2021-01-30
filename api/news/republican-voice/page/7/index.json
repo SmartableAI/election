@@ -2,6 +2,120 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-07-biden-pick-for-dept-of-justices-top-civil-rights-post-has-called-for-partially-defunding-police.md",
+      "title": "Biden pick for Dept. of Justice's top civil rights post has called for partially defunding police",
+      "excerpt": "President-elect Joe Biden is expected to pick Kristen Clarke, a civil rights lawyer, as Assistant Attorney General for the Civil Rights Division of the Department of Justice, which is expected to be a prioritized role in the Biden administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
+      "originalUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d358d2cc-f940-473b-bfb7-5e489ad2caa5/4bf5cd6b-a53b-4fb6-9b9e-3b41fa25e8b0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
+      "publishedDateTime": "2021-01-07T04:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-pence-pelosi-share-elbow-bump-following-biden-certification-vote.md",
+      "title": "Pence, Pelosi share 'elbow bump' following Biden certification vote",
+      "excerpt": "Vice President Mike Pence and House Speaker Nancy Pelosi concluded a trying and at times scary joint session of Congress with an elbow bump in the predawn hours of Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Co6aMCUkgA/pence-pelosi-share-elbow-bump-following-biden-certification-vote",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Co6aMCUkgA/pence-pelosi-share-elbow-bump-following-biden-certification-vote",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 360,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006674774302.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-pelosi-share-elbow-bump-following-biden-certification-vote.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-pelosi-share-elbow-bump-following-biden-certification-vote.amp",
+      "publishedDateTime": "2021-01-07T03:07:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-house-members-harris-allred-nearly-come-to-blows-during-pennsylvania-certification-debate-reports.md",
       "title": "House members Harris, Allred nearly come to blows during Pennsylvania certification debate: reports",
       "excerpt": "Tensions on Capitol Hill nearly resulted in fisticuffs early Thursday between a Republican and a Democrat in the U.S. House, according to reporter accounts.",
@@ -1533,120 +1647,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-acostas-admission-hell-go-easier-on-biden-shows-personal-vendetta-against-trump-kurtz.md",
-      "title": "Acosta's admission he'll go easier on Biden shows 'personal vendetta' against Trump: Kurtz",
-      "excerpt": "Fox News media analyst Howard Kurtz told \"America’s Newsroom\" Wednesday that CNN White House correspondent Jim Acosta’s admission he will approach a Biden White House in less adversarial fashion shows he's brought a \"personal vendetta\" to his reporting on the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz",
-      "originalUrl": "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1e622b6-6e10-4621-a6e1-1afd6135d900/51a5d55e-4bf6-42a7-96f7-16d475e23c5e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz.amp",
-      "publishedDateTime": "2020-12-30T11:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-joe-and-jill-biden-to-appear-on-ryan-seacrests-new-years-rockin-eve.md",
-      "title": "Joe and Jill Biden to appear on Ryan Seacrest's 'New Year's Rockin' Eve'",
-      "excerpt": "President-elect Joe Biden and his wife, Dr. Jill Biden, will join Ryan Seacrest on Thursday night's \"Dick Clark's New Year's Rockin' Eve.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/joe-jill-biden-appear-ryan-seacrest-new-years-rockin-eve",
-      "originalUrl": "https://www.foxnews.com/entertainment/joe-jill-biden-appear-ryan-seacrest-new-years-rockin-eve",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/seacrest-ap.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/joe-jill-biden-appear-ryan-seacrest-new-years-rockin-eve.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/joe-jill-biden-appear-ryan-seacrest-new-years-rockin-eve.amp",
-      "publishedDateTime": "2020-12-30T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

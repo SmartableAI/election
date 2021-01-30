@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-30-kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together.md",
+      "title": "Kamala Harris TV appearance in West Virginia surprises Manchin: 'That's not working together'",
+      "excerpt": "Vice President Kamala Harris promoted the Biden administration’s \"critical\" coronavirus \"American Rescue Plan\" this week in a pair of interviews with local TV stations in West Virginia and Arizona.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m97r65yFQcQ/kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m97r65yFQcQ/kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/HarrisManchinSplit.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together.amp",
+      "publishedDateTime": "2021-01-30T01:00:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-ella-emhoff-kamala-harriss-stepdaughter-signs-with-img-models.md",
       "title": "Ella Emhoff, Kamala Harris's stepdaughter, signs with IMG Models",
       "excerpt": "IMG Models chief says design student ‘exudes joy’ and will join poet Amanda Gorman at agency",
@@ -10,7 +67,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1568,58 +1625,6 @@
       "topics": [
         "Election",
         "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-kamala-harris-and-husband-doug-emhoff-receive-covid-19-vaccine.md",
-      "title": "Kamala Harris and husband Doug Emhoff receive COVID-19 vaccine",
-      "excerpt": "The vice president-elect received her shot on camera as part of efforts to build public trust in the coronavirus vaccine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/kamala-harris-doug-emhoff-covid-vaccine/",
-      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-doug-emhoff-covid-vaccine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 505,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/29/8cbf2e07-8d58-471e-8572-0e4176b0db22/thumbnail/1200x630/9fc15131cf2b1c1379915144a2afbcdb/ap-20364578711714.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vaccine/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vaccine/",
-      "publishedDateTime": "2020-12-29T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }

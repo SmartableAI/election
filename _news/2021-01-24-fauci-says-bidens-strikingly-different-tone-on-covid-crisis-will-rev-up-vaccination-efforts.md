@@ -95,6 +95,22 @@ related:
         width: 856
         height: 545
         isCached: true
+  - title: "Congresswoman urges Biden team to involve more distributors in COVID vaccine shipments"
+    excerpt: "A Democratic U.S. lawmaker urged the Biden administration to involve additional major healthcare distributors in the shipment of COVID-19 vaccines to speed vaccinations, according to a letter seen by Reuters."
+    publishedDateTime: 2021-01-30T07:31:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-vaccine-distributi-idUSKBN29Z05E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Z05E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Z05E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210130&t=2&i=1549634941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0T035"
+        width: 817
+        height: 545
+        isCached: true
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z

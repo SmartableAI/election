@@ -2,6 +2,106 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-01-02-trump-urges-south-dakota-governor-to-challenge-rino-sen-thune.md",
+      "title": "Trump urges South Dakota governor to challenge ‘RINO’ Sen. Thune",
+      "excerpt": "Thune, the Senate majority whip, outraged Trump last month when he said a challenge to the Electoral College results would “go down like a shot dog.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
+      "originalUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Election-2020-RNC-Noem.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
+      "publishedDateTime": "2021-01-01T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-pence-seeks-dismissal-of-suit-aiming-to-overturn-election.md",
+      "title": "Pence seeks dismissal of suit aiming to overturn election",
+      "excerpt": "The Justice Department has asked a federal judge to dismiss a last-gasp lawsuit led by a House Republican that seeks to give Vice President Mike Pence the power to overturn the results of the presiden",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 520,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-seeks-dismissal-of-suit-aiming-to-overturn-election/2021/01/01/02c511f4-4c3f-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-01T11:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-what-will-pence-do-when-congress-counts-the-votes.md",
       "title": "What Will Pence Do When Congress Counts the Votes?",
       "excerpt": "Readers are shocked that the question is being asked and speculate that the vice president may find an excuse not to be present. They also criticize Senator Josh Hawley.",
@@ -1230,115 +1330,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-acostas-admission-hell-go-easier-on-biden-shows-personal-vendetta-against-trump-kurtz.md",
-      "title": "Acosta's admission he'll go easier on Biden shows 'personal vendetta' against Trump: Kurtz",
-      "excerpt": "Fox News media analyst Howard Kurtz told \"America’s Newsroom\" Wednesday that CNN White House correspondent Jim Acosta’s admission he will approach a Biden White House in less adversarial fashion shows he's brought a \"personal vendetta\" to his reporting on the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz",
-      "originalUrl": "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1e622b6-6e10-4621-a6e1-1afd6135d900/51a5d55e-4bf6-42a7-96f7-16d475e23c5e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz.amp",
-      "publishedDateTime": "2020-12-30T11:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-thomas-l-friedman-column-will-trump-force-principled-conservatives-to-start-their-own-party-i-hope-so.md",
-      "title": "Thomas L. Friedman column: Will Trump force principled conservatives to start their own party? I hope so.",
-      "excerpt": "As the Trump presidency heads into the sunset, kicking and screaming, one of the most important questions that will shape American politics at the local, state and national levels is this: Can Donald Trump maintain his iron grip over the Republican Party when he is out of office?",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-republicans-principles-thomas-friedman-column-20201230-xk57ext4k5f23nvlwbrnrch3ga-story.html",
-      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-republicans-principles-thomas-friedman-column-20201230-xk57ext4k5f23nvlwbrnrch3ga-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/YYU9TfU1m8pAK_U8lmVrbM3G5UA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A2A2DS3MISN6JSRITNRSEGF2CQ.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-republicans-principles-thomas-friedman-column-20201230-xk57ext4k5f23nvlwbrnrch3ga-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-republicans-principles-thomas-friedman-column-20201230-xk57ext4k5f23nvlwbrnrch3ga-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-30T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

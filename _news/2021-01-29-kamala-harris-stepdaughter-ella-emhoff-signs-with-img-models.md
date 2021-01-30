@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris' Stepdaughter Ella Emhoff Signs With IMG Models"
 excerpt: "Ella Emhoff, the stepdaughter of Vice President Kamala Harris, made waves on the internet for donning a sparkling Miu Miu coat to “Momala’s” swearing in on Jan. 20. The chic inauguration ensemble even caught the eye of prestigious modeling agency IMG Models."
 publishedDateTime: 2021-01-29T08:54:00Z
-originalUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
-webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
+originalUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/"
+webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/"
 ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-stepdaughter-ella-emhoff-signs-with-img-models/2855187/?amp"
 type: article
@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris’ Stepdaughter Ella Emhoff’s Modeling Contract Sparks Melania Trump Comparisons On Twitter"
+    excerpt: "Some Twitter users were not impressed with Kamala Harris' stepdaughter Ella Emhoff signing a modeling contract, while others compared the 22-year-old's situation with that of former first lady Melania Trump,"
+    publishedDateTime: 2021-01-30T09:29:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Here's what Vice President Kamala Harris told The Republic about COVID-19 relief plans"
     excerpt: "Vice President Kamala Harris advocated for the Biden administration's American Rescue Plan legislation in a virtual meeting with The Arizona Republic."
     publishedDateTime: 2021-01-28T23:36:00Z
@@ -184,6 +200,6 @@ related:
         height: 360
         isCached: true
 
-secured: "fIwtaolUQMAFpzAGqzTO5y/KAvzmrBKBgfcIsM6w6zo1lHduH0hzmAgO52EV5GB2+UQH0WKAa5OqlOXqRPcVOsndAA9R4EZ+3kjAtORAtZb0vpFSwm6876D8Ntl6qRkvzr+NbKx45s7KzVhXqHu//sXdX3Q6ZoUY5SYs+pvCTMzsrqJ2bhn5CGy+rnVWrog0N5Ki8gjYpyRK8yjPMKHVC8pW49P7Ql+efxudXwB4bfQImopdL9BpZ8xOpilWN4+M+0n5ZVlNuTG/KV2x4ZMy0xqtijynN9F3fYKcxrScCWCf1ynnbkgj8NMG5J13uTfB8SJ08o/TBgocCGyUf6F9DkNqCT1rlq5W53DAwMRk2VM=;x0PuUEBKZLqwtgAOMW/MgA=="
+secured: "+owoe3JV5RoYE2wBxOph/V/3GPAgyFyG8rYd4U56/bvJjyXmIZ4DCu0IL269W3oQ/AjqTEcAHRtb0j443jXvVCqOUYV+qfBIGA8RuvHytTsWxYvksvO88yN6WMnBEQjy44p9ljsJ5l9Smf6dvd6OIXxcBT4fIfLwIHciRkNzkTzgtfhjj3y3cPKXvZhwUgn8Gys+tpj67nBcONMCcnqdVrVk1M3uAMAvZEHN+2MtYoWz8ovPmLPztVAyi5/6mvc9Ozi2cvU6AEy2q+Y1oOYmzzuB0Cc0rmAPGauS1lqM/E0UD32SZ0v7gogbb7kWnJqCxLjhgnvftN1IHkJ+dnj5TXgFdWr1q76XlMI6ZCXxCUw=;beDRF3q2B95Ocx479kOBQA=="
 ---
 

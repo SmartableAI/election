@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-m
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549108836&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P0XP"
         width: 856
+        height: 545
+        isCached: true
+  - title: "Congresswoman urges Biden team to involve more distributors in COVID vaccine shipments"
+    excerpt: "A Democratic U.S. lawmaker urged the Biden administration to involve additional major healthcare distributors in the shipment of COVID-19 vaccines to speed vaccinations, according to a letter seen by Reuters."
+    publishedDateTime: 2021-01-30T07:31:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-vaccine-distributi-idUSKBN29Z05E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Z05E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Z05E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210130&t=2&i=1549634941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0T035"
+        width: 817
         height: 545
         isCached: true
   - title: "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts"

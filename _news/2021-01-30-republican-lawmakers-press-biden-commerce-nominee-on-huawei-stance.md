@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Republican lawmakers press Biden Commerce nominee on Huawei stance"
-excerpt: "Three China hardliners in the Senate are calling on President Joe Biden's nominee to head the Commerce Department to clarify if she would remove China's telecoms equipment giant Huawei Technologies Ltd."
-publishedDateTime: 2021-01-30T03:27:00Z
-originalUrl: "https://www.reuters.com/article/usa-huawei-congress/republican-lawmakers-press-biden-commerce-nominee-on-huawei-stance-idUSL1N2K42X8"
-webUrl: "https://www.reuters.com/article/usa-huawei-congress/republican-lawmakers-press-biden-commerce-nominee-on-huawei-stance-idUSL1N2K42X8"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K42X8"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K42X8"
+excerpt: "Three China hardliners in the Senate are calling on President Joe Biden's Commerce Department nominee to clarify if she would remove China's telecoms equipment giant Huawei Technologies Ltd from a trade blacklist under any circumstances."
+publishedDateTime: 2021-01-30T03:39:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-huawei-congress-idUSKBN29Y31T"
+webUrl: "https://www.reuters.com/article/us-usa-huawei-congress-idUSKBN29Y31T"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y31T"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y31T"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549618256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1PW"
+    width: 794
+    height: 545
+    isCached: true
 
 related:
   - title: "Mexican leader says Biden offers $4B for Central America"
@@ -200,6 +206,6 @@ related:
         height: 630
         isCached: true
 
-secured: "bk8j2fsAU/STGS1njJoRUmaOYHIrpN0Az8KEpFiANx/9hp+iV3E5oPQ1MhuRKhgnDD7a4kemfV4UqM8DbCieubLGqbYox1FfONvzb9WZS6Fy7Kw3UmRSDW9UsWnlo+JblxXG278N5rUgMwBZnwKRpwdgagEBnzaST8mnhpdU4qIMkmzjMtgIGPWGPzGyYfAEKn4AXvTgpwqMfA5R3tZjiE9cGBm3qwISsNvZG8waLF/U5iZ2GWQ6kA8+Oz3TveiO1gVyne/Zu0yUcAe65YP/ehX5RhkQLhCUkSbqxNNbM50ig/jxi0q854Vmyl9ybsxIFZhIvFd+64zj1eerHABVfJPsGY3CNHCxZvR8uO081DI=;IsGA1VfUBgQScnRXdRnZ8Q=="
+secured: "5tkj2aeodNsHrySkcXxGOBuNvv1NHbNuuBXuSCkRw9UTzWmQ5vOc+5dDkiU8iy314/e7+usSOH4JsHPu6H64b9bykzibHPJqF0uS3WIYmcntNc5hhVQw1juuzMGSoDAOQbJ7KNqD5INQ44fmpi6R75SHUt0tcFRC5u+G0l8AD/SvH9uktDOQgNpVBkwU9BQ5XZhBO1qPjAYw989QYTMNlpz5UFa4FmzcxbfrJndi4l+BuPg/7IV/V5+DHl4QWRQj+gozV3PfdZDOY5Fkt9Up6E+4M2SV/DxmN9lBC7UDTNonyUj0Dd/PdwodmDqz3lWYya/hdI7EKHDp4LUErYV5nd/W77yyAnquGPT2R8PwBRA=;jrJSfLy2jYXon/G02cX4/g=="
 ---
 

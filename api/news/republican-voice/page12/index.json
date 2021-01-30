@@ -2,6 +2,119 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-06-patrick-basham-explains-why-biden-victory-not-statistically-impossible-but-statistically-implausible.md",
+      "title": "Patrick Basham explains why Biden victory 'not statistically impossible, but ... statistically implausible'",
+      "excerpt": "President-elect Joe Biden defied key \"non-polling metrics\" to defeat President Trump in a way that is \"not statistically impossible, but it's statistically implausible,\" pollster Patrick Basham told Fox News' \"Life, Liberty & Levin\" in an interview airing Sunday night.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zBlRDCVKiZY/2020-presidential-election-joe-biden-donald-trump-patrick-basham-mark-levin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zBlRDCVKiZY/2020-presidential-election-joe-biden-donald-trump-patrick-basham-mark-levin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b48d50c3-ace8-4c6b-b129-3b661b55fa7a/e249a213-52e6-4085-8808-f8e743c39797/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/2020-presidential-election-joe-biden-donald-trump-patrick-basham-mark-levin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/2020-presidential-election-joe-biden-donald-trump-patrick-basham-mark-levin.amp",
+      "publishedDateTime": "2020-12-06T04:30:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-jill-biden-will-back-debt-free-community-college-as-student-debt-nears-17-trillion-report.md",
+      "title": "Jill Biden will back debt-free community college as student debt nears $1.7 trillion: report",
+      "excerpt": "Dr. Jill Biden will advocate for debt-free community college as First Lady, a source close to President-elect Joe Biden's wife told Yahoo News.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady",
+      "originalUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9f95446-19c6-49f1-9e81-2990fc27ae48/dddd10c9-8149-4b93-8944-9f5121330efb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-debt-free-community-college-as-first-lady.amp",
+      "publishedDateTime": "2020-12-05T18:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-appeals-court-oks-trump-taking-military-money-for-border-wall.md",
       "title": "Appeals court OKs Trump taking military money for border wall",
       "excerpt": "A federal appeals court ruled Friday that a lower court was wrong to bar the Trump administration from taking $3.6 billion from military construction projects for a border wall.",
@@ -1548,118 +1661,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp",
       "publishedDateTime": "2020-12-02T05:55:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit.md",
-      "title": "Trump, Biden camps inspect Nevada election office ahead of Thursday hearing on lawsuit",
-      "excerpt": "Attorneys for the Trump 2020 Campaign and representatives of Joe Biden’s six Nevada Electoral College delegates inspected a vote-counting location in Carson City on Tuesday in connection with a voter fraud lawsuit filed by the Trump team.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X3PuysVGGVs/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X3PuysVGGVs/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 377,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a05a6f71-adcf-43b7-8139-dd0c114c7d1f/45c6487d-dc28-4d26-bb45-979df0143ac0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-camps-inspect-nevada-election-office-ahead-of-thursday-hearing-on-lawsuit.amp",
-      "publishedDateTime": "2020-12-01T22:57:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-brad-parscale-accuses-d-level-talking-heads-around-trump-for-forcing-him-out-of-2020-campaign.md",
-      "title": "Brad Parscale accuses 'D-level' 'talking heads' around Trump for forcing him out of 2020 campaign",
-      "excerpt": "Former Trump 2020 campaign manager Brad Parscale has accused \"D-level\" \"talking heads\" in the president's orbit of starting a whisper campaign that forced him out earlier this year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7R_46I7Tv-w/brad-parscale-blasts-d-level-talking-heads-trump-2020-campaign",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7R_46I7Tv-w/brad-parscale-blasts-d-level-talking-heads-trump-2020-campaign",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bc71753-778e-4f60-ad87-1c50cfa1104f/36f89332-d7c5-4524-ab7f-191e86a4ecc4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/brad-parscale-blasts-d-level-talking-heads-trump-2020-campaign.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brad-parscale-blasts-d-level-talking-heads-trump-2020-campaign.amp",
-      "publishedDateTime": "2020-12-01T18:40:40-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
