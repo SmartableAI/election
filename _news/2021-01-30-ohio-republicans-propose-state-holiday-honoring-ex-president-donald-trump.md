@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rep. Murphy urges Biden administration to continue Trump approach to Iran: 'These folks are not our friends'"
+    excerpt: "North Carolina Republican Rep. Greg Murphy is spearheading an effort to urge President Biden not to reenter the Iran nuclear deal or ease sanctions without verifiable assurances about the country’s nuclear activities."
+    publishedDateTime: 2021-01-29T23:10:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZcJIyiroQuM/rep-murphy-biden-administration-trump-iran"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-murphy-biden-administration-trump-iran.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-murphy-biden-administration-trump-iran.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Greg-Murphy-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden launching Public Health Jobs Corps, host of executive orders to address COVID-19"
     excerpt: "President Biden laid out on Thursday a strategy for addressing the coronavirus that included increasing funding and the number of federal employees deployed to meet an ambitious set of goals for countering the pandemic."
     publishedDateTime: 2021-01-21T10:07:23Z
@@ -57,6 +73,22 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbbb4448-7269-4978-8efc-90bb155801cf/b7d0f268-1824-4f6f-9047-a126c13f1ea6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Facebook's Sandberg praises Biden abortion policy, criticizes South Carolina partial ban"
+    excerpt: "Facebook Chief Operating Officer Sheryl Sandberg is praising President Bident's recent executive order on overseas abortion providers and criticizing South Carolina's legislation banning most abortions."
+    publishedDateTime: 2021-01-30T00:13:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkhXXSz3npI/facebook-sandberg-biden-abortion"
+    ampWebUrl: "https://www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/11/30/694940094001_5973634959001_5973636138001-vs.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -125,6 +157,6 @@ related:
         height: 720
         isCached: true
 
-secured: "YM6OwuQyajj5FnV0C/OsRuH8R+bSJbGWb9soqlRPytbxScUgfjK2cHqHaZ46KsmKnso+S7sXsaEYdrXJi5wFcVZHhE1pH32I6UoV0yn7RUWZIBeTBJqwkYhFjFTtSPSaJTdDuxA5Axm0y0y9ubMQjnsUSx9a9TPLxznLaP3sF+fNnI9OP/JyKVxGeXhpM+Cm6aivTioopCA6Hbvkby+F3C/n2MWSh8L6qqBvzPgBkfa0HhkFI3wpP3kV7Uh9dz8QfdmDLU4VYL5uzHC1M6oQbYETD5KX1bcDOFKcuYOmXASzke606pGAT21th83EwKFUhRWabXCdB++iwQamkVxCMER9imh5f3PRU28oIjO/bLY=;YSyXSvaRC+yy1nsmd6c4Cg=="
+secured: "hGSpwF4f4zaBSbZ/PIJrQ1KCykD4O7PdqyeG3xnBdK5ckrknzM60spGUAT9NpzyURNMnBPWo7+3OBIGPM1PV+HZd18VeQeIj4ctMyTIlKCRspgv5kE00M0xSGVzYktMXOCyeNBq0EuGUPRDDqI4+7kwo1wjKqBxtstltPxzPwQ82b9pNXpsW16X4tgU6mGvbHIjuG0a+OkH+L2/6HKxGLptGfC+xBoHIX09ZLDCav/o9eocyDiRNpLEJR32umTU+nhug7dspS7gcQjraVkAcFcMy9fqgXUG12O+evSnquitZ64ITrDfcqmd4KUzvOyYd8IKGXbtbr7HSnPDtNZHfyaZ4Z/El/rrI5sBM9SN51HeD51w47GwWhwDWvExNv8UsQmYHK9UfjrhBt0dBPRa4Cd1PvC4ghHl9T497SaksaBhmHheVidcskln1Lt0EdDjnsocR++ph7xojchH2XLa36ERL87PJirry1JMqP+ibavOJyl1a/wk/0/qIcY+t6FVVjSqeWdatP68ek3IYhDjlUw==;g4hWKYBS6AEVcVvK0E6PqA=="
 ---
 

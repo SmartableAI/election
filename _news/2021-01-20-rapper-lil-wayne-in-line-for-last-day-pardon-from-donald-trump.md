@@ -223,6 +223,22 @@ related:
         width: 1440
         height: 878
         isCached: true
+  - title: "Pro-Trump lawyer Lin Wood asked by licensing body to undergo mental health evaluation"
+    excerpt: "An attorney licensing body on Friday said it has asked L. Lin Wood, a lawyer who played a key role in Donald Trump's attempts to overturn his election defeat, to undergo a mental health evaluation."
+    publishedDateTime: 2021-01-29T21:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-wood/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation-idUSKBN29Y2CD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y2CD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y2CD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549578848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1CG"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Giuliani wasn’t just a Trump partisan but a shrewd marketer of vitamins, gold, lawsuit says"
     excerpt: "Trump’s personal lawyer sought to turn unfounded conspiracy theories and voter fraud videos into online moneymakers, attorneys said in a lawsuit seeking more than $1.3 billion in damages."
     publishedDateTime: 2021-01-27T01:52:00Z
@@ -368,17 +384,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
-  - title: "Pro-Trump Lawyer Lin Wood Asked by Licensing Body to Undergo Mental Health Evaluation"
-    excerpt: "An attorney licensing body on Friday said it has asked L. Lin Wood, a lawyer who played a key role in Donald Trump's attempts to overturn his election defeat, to undergo a mental health evaluation. Wood said on the app Telegram on Thursday that the State Bar of Georgia had told him he needed to submit to the evaluation to keep his law license."
-    publishedDateTime: 2021-01-29T16:44:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
 
 secured: "ulnV2dUiojxN6WdJKAiwEhD7gElg9RLIhsbtoDC8wSyJwNnMXvJPKfwga0QA3gRzBGcktNdKEwOyEngGV9Enb7J6+I45fknaR4Tn2ng+hgl/scXyGvSdj8uQ2dD0Lq+Fu23D69xzmYqUtdVz+wWwI+HZ4/QyEPQVsmA+PkVKcO9kaw8PY3siAyCQdHAa9/dveoh/MBW8pUuoErCYe/h2VVOCWzf7mVAzBLBvBppcnZwM/OX2OLFRcePU1EnIY3LLT2p3YSxVVWCjc2/xFB9xef99S26W519p0BiW7w1f3koIjrLjzOzJLxLos5B9jjm2GkCg5DMHcstTi7IDAfBzXupJrBIxHI7LmTeqeiJwOUgMsaa8IUfTGadIsDNU53UuISs1EgeG8NF+MRnnqlUaGUrairT8ecWa+d4KKG2tkVYCAgyCI+zipVlhn8XJMOMq6RTyxmMdng9eT52IZQ8SEDc9N3YLqH2ovRvvAgURIV7H8olgmj7IO0TrCPBhMvZ6bs4Lb8GHjYczHEBFShKNDQ==;IlCXInUMM78JlkWCZ+Bnqg=="
 ---

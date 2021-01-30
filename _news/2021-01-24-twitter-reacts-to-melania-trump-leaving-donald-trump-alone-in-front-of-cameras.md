@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facing a post-Trump world, abortion opponents at March for Life strike a less partisan tone"
+    excerpt: "Abortion opponents began facing the post-Trump world Friday at the annual March for Life, divided over whether the past president helped or harmed their cause and shifting towards less partisan language than in the recent past."
+    publishedDateTime: 2021-01-29T23:24:00Z
+    webUrl: "https://www.washingtonpost.com/religion/2021/01/29/march-for-life-roe-wade-abortion-trump-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/religion/2021/01/29/march-for-life-roe-wade-abortion-trump-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/01/29/march-for-life-roe-wade-abortion-trump-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SMDCU3DCMII6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Morgan Lewis, Trump's longtime tax counsel, prepares for split"
     excerpt: "Morgan, Lewis & Bockius said Wednesday it was stepping away from advising Donald Trump on tax matters, leaving the former president and his businesses further isolated from the country's largest law firms."
     publishedDateTime: 2021-01-21T04:07:00Z

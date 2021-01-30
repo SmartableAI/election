@@ -316,22 +316,6 @@ related:
         width: 1440
         height: 1059
         isCached: true
-  - title: "FACTBOX-With strokes of pen, Biden overturns Trump policies and fights COVID-19"
-    excerpt: "In his first days in office, U.S. President Joe Biden issued a wave of executive orders and proclamations aimed at dismantling some of former President Donald Trump's agenda and bolstering the nation’s COVID-19 response."
-    publishedDateTime: 2021-01-29T18:54:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-orders/factbox-with-strokes-of-pen-biden-overturns-trump-policies-and-fights-covid-19-idUSL1N2K42DN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K42DN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K42DN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 136
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549594836&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1J0"
-        width: 799
-        height: 545
-        isCached: true
   - title: "McConnell proposes delaying Trump's trial as Biden details Covid strategy – live"
     excerpt: "Fauci says it is ‘liberating’ to work under new administration – follow live"
     publishedDateTime: 2021-01-22T00:20:00Z
@@ -347,6 +331,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/7777538c12d33c9fa8ae782ffd9e41c23f9813cc/0_113_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91b247bff974cdec6bd8a4d814639e39"
         width: 600
         height: 360
+        isCached: true
+  - title: "Factbox: With strokes of pen, Biden overturns Trump policies and fights COVID-19"
+    excerpt: "In his first days in office, U.S. President Joe Biden issued a wave of executive orders and proclamations aimed at dismantling some of former President Donald Trump's agenda and bolstering the nation’s COVID-19 response."
+    publishedDateTime: 2021-01-30T00:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-orders-factbox-idUSKBN29Y2QN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y2QN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y2QN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549594836&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1J0"
+        width: 799
+        height: 545
         isCached: true
   - title: "At Voice of America, a sweeping ouster of Trump officials on Biden’s first full day"
     excerpt: "With a veteran reporter taking the place of controversial overseer Michael Pack, the dominoes started falling in other top offices."

@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden visits wounded warriors at Walter Reed hospital"
+    excerpt: "In his first visit since entering the White House as Commander in Chief, President Biden spent Friday afternoon with wounded servicemen at the Walter Reed National Military Medical Center."
+    publishedDateTime: 2021-01-29T23:58:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dWro2SnUzXM/biden-visits-wounded-service-members-at-walter-reed-where-his-son-died"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-visits-wounded-service-members-at-walter-reed-where-his-son-died.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-visits-wounded-service-members-at-walter-reed-where-his-son-died.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden immigration executive orders delayed, as bipartisan bill begins to take shape on Hill"
     excerpt: "The White House is delaying the signing of a number of immigration-related executive orders that would rescind a number of Trump-era policies, Fox News has learned -- just as a potential bipartisan immigration bill is beginning to take shape on the Hill."
     publishedDateTime: 2021-01-28T19:48:22Z

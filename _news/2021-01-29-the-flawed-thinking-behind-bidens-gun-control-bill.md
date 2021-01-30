@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden visits wounded warriors at Walter Reed hospital"
+    excerpt: "In his first visit since entering the White House as Commander in Chief, President Biden spent Friday afternoon with wounded servicemen at the Walter Reed National Military Medical Center."
+    publishedDateTime: 2021-01-29T23:58:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dWro2SnUzXM/biden-visits-wounded-service-members-at-walter-reed-where-his-son-died"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-visits-wounded-service-members-at-walter-reed-where-his-son-died.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-visits-wounded-service-members-at-walter-reed-where-his-son-died.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'Impeachment is totally wrong,' flies against Biden's unity message: McCarthy"
     excerpt: "House Minority Leader Kevin McCarthy, R-Calif., encouraged President Biden to call Democrats off holding an impeachment trial for former President Donald Trump Thursday, whom he said could still lead the party going forward."
     publishedDateTime: 2021-01-21T18:06:15Z

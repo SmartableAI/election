@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Pro-Trump Lawyer Lin Wood Asked by Licensing Body to Undergo Mental Health Evaluation"
-excerpt: "An attorney licensing body on Friday said it has asked L. Lin Wood, a lawyer who played a key role in Donald Trump's attempts to overturn his election defeat, to undergo a mental health evaluation. Wood said on the app Telegram on Thursday that the State Bar of Georgia had told him he needed to submit to the evaluation to keep his law license."
-publishedDateTime: 2021-01-29T16:44:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation"
-webUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation"
-ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation?context=amp"
+title: "Pro-Trump lawyer Lin Wood asked by licensing body to undergo mental health evaluation"
+excerpt: "An attorney licensing body on Friday said it has asked L. Lin Wood, a lawyer who played a key role in Donald Trump's attempts to overturn his election defeat, to undergo a mental health evaluation."
+publishedDateTime: 2021-01-29T21:38:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-wood/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation-idUSKBN29Y2CD"
+webUrl: "https://www.reuters.com/article/us-usa-trump-wood/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation-idUSKBN29Y2CD"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y2CD"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y2CD"
 type: article
-quality: 48
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549578848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1CG"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Trump lawyer Giuliani faces Dominion lawsuit for 'big lie' election fraud claims"
@@ -379,6 +385,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "DaZDO/KBATsdZluXTZGpKV8Cusdp330FmaHpl/Uguz9shj4kXNu/RqVG7Cqk5LvdPBc2WrgNb119L/PbEOKAxLf8Q+P5MT9+MImX706iBH1oEtHzqhymfzl6iwlq/AGbhX48A/xmuAAQxnPjDx7hO1JS1Az3URNdX16mLiQis0PeVwSlgjCFWO+oVXmtu3CPSadHG6icUgJVgmksb9WS0nRAvI0e1Oj+27TyJHUJIqfRGYhcv8iUZnnI2/u4Y2NcUrDtpE3Dg59dY8rpbm9anaF12429GKy2bbaEMTO/krKKrEwiymEUWT0hQbAlaSPczXwICmQZpfsdtDCfG/0D8jLVchiVpIRAxZ0uwRqmp7tDbOnGkO3enSrs1/pq7dA5fYshkv4NZopvsHM8ZtjRTg2XIXNcAO1YvHG/JscHtPWnuSRA1Fe1sXTla+0+kuZUNYhwMceEKEJHncdCF9W8g0cTtvA8WWVhMiuUVX2DGYoAAJGLkz/ZHw/w8oNUvtxPH7xNSVp0w39N7AxQyWLr6w==;n445Stb9fB91nJch5DGD2A=="
+secured: "YouDSsF39L8Wjk/5C6gVJ1wXYSzoNxsiTL4SibehaPtGAT9DB1ILl0jm4zNwJXMC+Wbylssr6QM0qBXCtWMd3j5Wy/9Q8IPv5ZY7UVWuDLcBj/8PJb4KCitH9anzJSv7VuphU29I1MNwbj7APH5Dtitcbcz3Z0jpuOzepbo0U1U1dlPQtKm44QUOINshdSsGYBrAn8sLhvsoZEM2NoDUqfnRs6lOFtLL3uDmkbi/2MdgQHfgWMQZo6IySpXVH0MOl7HGs6Oz3ci8GJSqUOIC/TfgdpwO8VQmeuSPNY+32J4U/d84JTtL7u+NST49ZuU3vTJrr69F5FAs2V6aBtq7b13WNmSjHYpdMgOtMuOWLrc=;ONlrjL1sMXZOz0IxchN0cQ=="
 ---
 

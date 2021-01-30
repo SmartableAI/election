@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facing a post-Trump world, abortion opponents at March for Life strike a less partisan tone"
+    excerpt: "Abortion opponents began facing the post-Trump world Friday at the annual March for Life, divided over whether the past president helped or harmed their cause and shifting towards less partisan language than in the recent past."
+    publishedDateTime: 2021-01-29T23:24:00Z
+    webUrl: "https://www.washingtonpost.com/religion/2021/01/29/march-for-life-roe-wade-abortion-trump-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/religion/2021/01/29/march-for-life-roe-wade-abortion-trump-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/01/29/march-for-life-roe-wade-abortion-trump-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SMDCU3DCMII6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Melania Trump leaves Donald Trump alone in front of the cameras – video"
     excerpt: "Former first lady left Donald Trump alone in front of the cameras at Palm Beach airport after the couple left the White House ahead of Joe Biden's inauguration"
     publishedDateTime: 2021-01-23T10:15:00Z

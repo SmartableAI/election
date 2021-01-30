@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donal
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates"
 type: article
 quality: 125
-heat: 765
+heat: 785
 published: true
 
 provider:
@@ -427,6 +427,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
+    excerpt: "President Joe Biden is making his first major foray outside the White House on Friday, to visit wounded soldiers at Walter Reed National Military Medical Center."
+    publishedDateTime: 2021-01-29T23:33:00Z
+    webUrl: "https://www.businessinsider.com/biden-to-visit-wounded-soldiers-at-walter-reed-hospital-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-to-visit-wounded-soldiers-at-walter-reed-hospital-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-visit-wounded-soldiers-at-walter-reed-hospital-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden plans to sign executive orders boosting workers' rights and pushing for a $15 minimum wage for federal staff"
     excerpt: "Biden is set to sign an order on Friday ensuring that people can still claim unemployment benefits if they turn down a job because of COVID-19 risks."
     publishedDateTime: 2021-01-22T23:27:00Z

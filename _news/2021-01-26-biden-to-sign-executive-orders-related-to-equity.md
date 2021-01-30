@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       name: CNN
       domain: cnn.com
     quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden seeks to intensify public lobbying for Covid-19 relief bill amid the pandemic"
+    excerpt: "When President Joe Biden intensifies his attention next week to selling Republicans and Democrats on his coronavirus relief bill, he won't be relying on some of the presidency's most symbolic powers.\n    \n"
+    publishedDateTime: 2021-01-30T00:20:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8a3ctX5h8Yw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/joe-biden-covid-19-relief-negotiations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/joe-biden-covid-19-relief-negotiations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
         width: 1100

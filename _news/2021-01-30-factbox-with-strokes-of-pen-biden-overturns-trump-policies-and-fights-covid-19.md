@@ -1,14 +1,14 @@
 ---
 category: news
-title: "FACTBOX-With strokes of pen, Biden overturns Trump policies and fights COVID-19"
+title: "Factbox: With strokes of pen, Biden overturns Trump policies and fights COVID-19"
 excerpt: "In his first days in office, U.S. President Joe Biden issued a wave of executive orders and proclamations aimed at dismantling some of former President Donald Trump's agenda and bolstering the nation’s COVID-19 response."
-publishedDateTime: 2021-01-29T18:54:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-orders/factbox-with-strokes-of-pen-biden-overturns-trump-policies-and-fights-covid-19-idUSL1N2K42DN"
-webUrl: "https://www.reuters.com/article/usa-biden-orders/factbox-with-strokes-of-pen-biden-overturns-trump-policies-and-fights-covid-19-idUSL1N2K42DN"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K42DN"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K42DN"
+publishedDateTime: 2021-01-30T00:04:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-orders-factbox-idUSKBN29Y2QN"
+webUrl: "https://www.reuters.com/article/us-usa-biden-orders-factbox-idUSKBN29Y2QN"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y2QN"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y2QN"
 type: article
-quality: 136
+quality: 135
 heat: -1
 published: false
 
@@ -1083,6 +1083,6 @@ related:
       domain: usnews.com
     quality: 58
 
-secured: "c5lEeCXyRPRa97xEUoN93LmtlwJH4W1hQnAXA5G2P3izSp/wkDSKuptTrIGmy3m6/0s8CuR5D6A95Ts/ENpG5z8gxbAXIJyPHXabQQwojHT41K2aK3ehDASPBb6dazRwM474rK6EZSnVi/kCQvu+quoBJkj596tg4FdOcKjYfnpr0jA3hMHseMK3elPR8tUmoVbTzOKjtZNJny4gZpSypmtaBMGh/9nzQorTGN9d7kLGmJSU/8LRh3CywZ57kEOxrVCPuK1cM++vZVtVgORt9otL+wjwnYvXsVMupQMxoYTdS1Kf+TesrWVUGMAMWyYsvYZ+XJexEE0LIblLoFq5xZTVzLFzeawa9fxgoGu7yTM=;5Zh+OeDOnxUcciXs2oYnLQ=="
+secured: "8Dk2q2M64Z/KNj0T0fl380tdgzZGYymChBqvQUxHxMTotuL8GnCaWaEXAQporpKUjy3WNu6vfO502SpanbDpXjreh44WX6aaDsFXmqD9dv6VkIGWyNmyGX4mVYmbtxXAzq9nznHHlZ5ZUSE6QjXLunyZkOcxN6hSIl9tGP513wtT92CDHxGKUKA2GGcPfx/+WSfdh224GpkrAAQKVAq7wnakNZiftZ7OPWZC8OLcGiyrpNP5vJx6tOQWbdN7wswxvpdLcWZmZnJTgAvCJNX6wBzZtXmILA05u6p9VemV2mAewgpfLZWy20LBtSqy1Sg826bAoxGOkrCau9MFLzbWEeFW+/1cLIOHE4t5N/Gnzc8=;zMBXRWk0dWIaS+cxCN6Nzg=="
 ---
 

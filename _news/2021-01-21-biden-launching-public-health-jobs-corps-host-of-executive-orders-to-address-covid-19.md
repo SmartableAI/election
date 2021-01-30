@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rep. Murphy urges Biden administration to continue Trump approach to Iran: 'These folks are not our friends'"
+    excerpt: "North Carolina Republican Rep. Greg Murphy is spearheading an effort to urge President Biden not to reenter the Iran nuclear deal or ease sanctions without verifiable assurances about the country’s nuclear activities."
+    publishedDateTime: 2021-01-29T23:10:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZcJIyiroQuM/rep-murphy-biden-administration-trump-iran"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-murphy-biden-administration-trump-iran.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-murphy-biden-administration-trump-iran.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Greg-Murphy-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Facebook's Sandberg praises Biden abortion policy, criticizes South Carolina partial ban"
+    excerpt: "Facebook Chief Operating Officer Sheryl Sandberg is praising President Bident's recent executive order on overseas abortion providers and criticizing South Carolina's legislation banning most abortions."
+    publishedDateTime: 2021-01-30T00:13:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkhXXSz3npI/facebook-sandberg-biden-abortion"
+    ampWebUrl: "https://www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/11/30/694940094001_5973634959001_5973636138001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden will keep Trump letter private, White House says"
     excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"
     publishedDateTime: 2021-01-29T20:13:00Z

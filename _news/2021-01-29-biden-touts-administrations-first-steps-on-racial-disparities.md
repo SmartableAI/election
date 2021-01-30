@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's plan to halt evictions does not address 'structural problems,' housing advocates say"
+    excerpt: "It will be many months for assistance to make its way across the country to households who are behind on rent.”"
+    publishedDateTime: 2021-01-29T23:24:00Z
+    webUrl: "https://www.nbcnews.com/business/business-news/biden-s-plan-halt-evictions-does-not-address-structural-problems-n1255590"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255590"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255590"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3444061/210121-california-eviction-covid-se-331p_387483efba3bdeeb8213d2cea740bd4f.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "RKTJvTWL2uAFHO2seT/0cWoAdDWB+gFKcQ5FLxPZx09IGcemUzDborvdAF+M6K4O2dAVoLHb78C0Q6JaYz3/DEV3F2On7Kzwkg3EeDNgOGyGVRvCUDTks8ZLhveFTs8taJz0hwjxweGwO6w3sJ1QEqVhUBwKKkMX58WPB4wrRjqGPeeYqo2p9sIA084NtU/IW/ehNjcb7SKdq2IXYW4elC0isohaKS75OXGv10bFGcGe/cutw827j3rsFsL1/udCvEfSuiAlgg/C2SQr66xdCfuxLTmy2qLjIWWgjb7rup2Npp5bMrFQGrBFKAlLPJbChcY2gaXAPJ0XjYS5yTKOOAQXS2xabp308dlYuH8Uh1gk1kE7r+9EKbCfaaMREYGRSXQDU3vEBKBc80FJc789SuwAUP5Kf/b+yDOoOImQvzCEgnA7fkVLu9efl3uIslQd5J6tTtVVwljV7rdXRWeWvna4hS8be5LhgS1k9aNsaxa10qowKwCczIymx7MvrZuX9TcP41TmlsgFN5GqsbDa0Q==;Q4EbM/MwX89AlT6NlO3ggA=="
 ---

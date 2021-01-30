@@ -2,21 +2,21 @@
 category: news
 title: "Biden visits wounded soldiers at Walter Reed, where son died"
 excerpt: "President Joe Biden has made his first major foray outside the White House with a visit to Walter Reed National Military Medical Center to meet with wounded soldiers"
-publishedDateTime: 2021-01-29T20:32:00Z
-originalUrl: "https://www.washingtonpost.com/world/national-security/biden-to-visit-wounded-soldiers-at-walter-reed-hospital/2021/01/29/32b04014-6247-11eb-a177-7765f29a9524_story.html"
-webUrl: "https://www.washingtonpost.com/world/national-security/biden-to-visit-wounded-soldiers-at-walter-reed-hospital/2021/01/29/32b04014-6247-11eb-a177-7765f29a9524_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-to-visit-wounded-soldiers-at-walter-reed-hospital/2021/01/29/32b04014-6247-11eb-a177-7765f29a9524_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-to-visit-wounded-soldiers-at-walter-reed-hospital/2021/01/29/32b04014-6247-11eb-a177-7765f29a9524_story.html?outputType=amp"
+publishedDateTime: 2021-01-30T00:16:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
+webUrl: "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
 type: article
 quality: 125
 heat: 145
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Health/WireAP_1fb006fe7b104c96a50132cb5ffdcdcf_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -48,6 +48,6 @@ related:
         height: 545
         isCached: true
 
-secured: "l/MNMp7QdDXhSeIoM/gHvU9gddcJd+6ExoSFxyCR9hBoaQLufqo3jD8Fanv8RdchEWOt3zf6OBvHFKSACXiSItZDVUfC/biWMFcaIARrKq2UVQK5yywKqSR/knZNQBcG0TmOeGoRzCUK1A5j1yyrzXEKTcC+Zs0XbewzHPT93UMGMgePyIZtiQLedsgdg7s3GQ/X+z4Z5MVAN5u27N7Caq5unT5+18IchELeYBOWH1iTPDH3UKqsfrYJmcbgXc7LaN89aJgmyn8JQPnP5ZdJpuy287AclL7DR784PQJ4/G/ugreDvSWZtZxcPap4zHz2+sFBWXyh6TlViTgIquoRJiolEnxbtwtl6vC3oDWCdUM=;nVch2GXRKgAvgVqWtpr6MA=="
+secured: "wZcz2NSJUmTpJe1GhE1Rzs8v+fIqd3yIy2reuWvNGQcs/p6stldGSrGyEnn9lBuX/tEribVvKl5ZwESnscXqDoMYrxZ67MFylingl8SBMsk15repvNyQdUHPJfW1x0FA6BSCq9cZmrYLTk9RRgwYbuDMZW0xD2Nwu2tZJKAQe6yBstl3QcpA/kHozIyRMaotiWoT/YUqA3ZOGkRMc5mKHzdsXZx+MlxuOLAr5VWBhJZOoW0yllQEUMc5/84pXo0h36FPePf6N5Rm6naEMgmGQZ8nRK05F3bJMH+JH7yU4PLx1O//Jrm5a9bdFK2kCgUNSqCKMMjv8rq+eI1aMSwbLN51uqar6LxvUhrrD0GFGP4=;4UB4MHjA/Zr0CdZpvAWXqQ=="
 ---
 

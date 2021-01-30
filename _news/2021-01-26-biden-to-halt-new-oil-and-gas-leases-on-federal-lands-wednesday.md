@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-halt-new-oil-gas-l
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-halt-new-oil-gas-leases/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://static.politico.com/fc/d4/f9ad816f4b80a23e85e5c5589871/ap20295762126522-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden's plan to halt evictions does not address 'structural problems,' housing advocates say"
+    excerpt: "It will be many months for assistance to make its way across the country to households who are behind on rent.”"
+    publishedDateTime: 2021-01-29T23:24:00Z
+    webUrl: "https://www.nbcnews.com/business/business-news/biden-s-plan-halt-evictions-does-not-address-structural-problems-n1255590"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255590"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255590"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3444061/210121-california-eviction-covid-se-331p_387483efba3bdeeb8213d2cea740bd4f.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "f8LFGhUtO/X/fCuZhVr4d87ABXXyHAjOkbSeaiOzmZNptfHl4/d7/JclV/2h35ZsRto5H0TO1gXtswSZJXsKM86l2MMgPMdiYbh6RWY9hAVwcvBTxbHFTbioFeYjAYkJ4A/4fYimoOqMyVzYYttAKB4eZSWIa78c7grU7YwLJC36NzMW7qh0GR/rNAovwGs5uctgzBd8MLt7Z871y8GmzfQaImc0trC15mI28ODTDzQycDyMBQTgQIotMe9mN1f9RFMvDethzeKdsvVGKvgufgj1fmxdm10sRdBAYvRwPy+nDAZb8Wjd4/8dj2PXhLM2YYmLOQqDcqMugdV8hZJu9tGsWxMXCeAKk6kWQqTNyjU=;DxfDQ+DhEGSlGZerHaCo7w=="
