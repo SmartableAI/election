@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "'Inexcusable' Trump Impeachment Vote Earns Republican Rep. Tom Rice Censure by S.C. GOP"
+    excerpt: "The South Carolina Republican Party said Rice's vote to impeach former President Donald Trump \"betrayed\" his party's constituents and fell in line with \"unprincipled Leftists.\""
+    publishedDateTime: 2021-01-30T22:12:00Z
+    webUrl: "https://www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610"
+    ampWebUrl: "https://www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1720904/tom-rice.jpg"
+        width: 2500
+        height: 1669
+        isCached: true
   - title: "Trump and Rep. Kevin McCarthy discussed 2022 election during Florida meeting as Trump allies target pro-impeachment Republicans"
     excerpt: "McCarthy meeting takes place less than two weeks before the Senate impeachment trial, and a year before potentially divisive GOP primaries."
     publishedDateTime: 2021-01-29T07:12:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/24/arizona-republicans-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/arizona-republicans-censure-mccain-flake-ducey-trump"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Inexcusable' Trump Impeachment Vote Earns Republican Rep. Tom Rice Censure by S.C. GOP"
+    excerpt: "The South Carolina Republican Party said Rice's vote to impeach former President Donald Trump \"betrayed\" his party's constituents and fell in line with \"unprincipled Leftists.\""
+    publishedDateTime: 2021-01-30T22:12:00Z
+    webUrl: "https://www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610"
+    ampWebUrl: "https://www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1720904/tom-rice.jpg"
+        width: 2500
+        height: 1669
+        isCached: true
   - title: "Arizona GOP Censures Cindy McCain, Jeff Flake and Governor Ducey for Breaking With Trump"
     excerpt: "The Arizona Republican Party on Saturday approved resolutions to censure Cindy McCain, widow of the late Senator John McCain, and former Senator Jeff Flake for endorsing President Joe Biden, and Governor Doug Ducey for enforcing the state's coronavirus restrictions."
     publishedDateTime: 2021-01-24T04:12:00Z

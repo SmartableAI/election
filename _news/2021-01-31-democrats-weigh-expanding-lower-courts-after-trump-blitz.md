@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Twitter Reacts To Melania Trump Leaving Donald Trump Alone In Front Of Cameras"
-excerpt: "Melania Trump left her husband, Donald Trump, alone in front of the cameras after their departure from the White House Wednesday. But some Twitter users said her husband pushed her to walk ahead."
-publishedDateTime: 2021-01-24T10:06:00Z
-originalUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165"
-webUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165"
-ampWebUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
+title: "Democrats weigh expanding lower courts after Trump blitz"
+excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
+publishedDateTime: 2021-01-30T22:00:00Z
+originalUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
+webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
+ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
 type: article
-quality: 71
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
-    width: 1024
-    height: 683
+  - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -127,22 +127,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Democrats weigh expanding lower courts after Trump blitz"
-    excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
-    publishedDateTime: 2021-01-30T22:00:00Z
-    webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
-    ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Facing a post-Trump world, abortion opponents at March for Life strike a less partisan tone"
     excerpt: "Abortion opponents began facing the post-Trump world Friday at the annual March for Life, divided over whether the past president helped or harmed their cause and shifting towards less partisan language than in the recent past."
     publishedDateTime: 2021-01-29T23:24:00Z
@@ -184,6 +168,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Twitter Reacts To Melania Trump Leaving Donald Trump Alone In Front Of Cameras"
+    excerpt: "Melania Trump left her husband, Donald Trump, alone in front of the cameras after their departure from the White House Wednesday. But some Twitter users said her husband pushed her to walk ahead."
+    publishedDateTime: 2021-01-24T10:06:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Cowboys for Trump Leader Refuses Virus Test in Jail"
     excerpt: "The jailed leader of Cowboys for Trump has been held in solitary isolation for two weeks as he refused to take a coronavirus test."
     publishedDateTime: 2021-01-30T03:21:00Z
@@ -196,6 +196,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "wtAeM6+/2CMQs5erifwJbqkmpwOYNbt14euOKiAKEMCacSE+wQm2ccPEY3G7ib7zA2WseT85K1FtEZMrxuxIPP/HXBYGovNp99AiclX8fzaryI8dsB0MfbdNe6foIJNkH8t04LjiCmL7C6WudpRtKiwk9VjBqy24jka1ThiPa77k7AZU1TN0GGCq4zTGCXs0EPMoqUbYP9gr6u4c/xqdt/+aICTGcUIC28m8KoOapGf2j2KMvTcwYzncJwJnGt8vGmigprsSuRUjZxt+uPwv5GjXnhep6o9GiYlO+UKpGqVt6ZqilWzQQwgtJ3LsXHmj98wOxZ3x4GbgoA7q9j1+Xk6mVbIR2c+bQTY6fVt+uQQL/sOqC0fhKTnWRysd0VDBG9mbUngfqwMH+3zr3YTWXvGI0AelmooWnFt/MVyycEXC0X7eFDbejDi/q/Mdw0yJqYeeU1h3tlDRyin+MK0ib+Ek53iuvRfyYqNRCNCjb44GR5dhimwJp7claeiLjCF/P5hNfM/wfRiMvbWsipvunw==;VvZ2x3UyUROI8flpuapZaA=="
+secured: "Vc6rGisjLqklPmNLHSOHfj7MEIbiu07VZQsBSzoQ0iEOtHVhWbHtGdTlFpZreQhMwCBHtOcXpg8lujFjmkCMkpvAgBPeyQCKAuMn4bXSKzgMICjH02bnCJ1MY0Dgr+szrPhqLNY9qGvKtXxLP2moj8G0CuIwmO1alhysSfmAE9Hz/tlSl7YF9mK1VH9I94c1gHrL1Ral7gxnmYPsbn+NNL8Ma3Qjqf33cKqQyVs1hf7PE3VNus5q2f/3wgBI3P1knJemgh/cE1gvBmRJcB+4QXxcDMPwhirNRKSI7yOVFCMIQ/hPfK/BwnXJsgfZjtz2hOTT3UlDGaTLRgL6hD6kco5+x9hUZ6xaHJrF0k6k0sY=;0NfnzLQG9OX11YbH37drUg=="
 ---
 
