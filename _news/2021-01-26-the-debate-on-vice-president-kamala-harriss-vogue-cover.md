@@ -41,6 +41,22 @@ related:
         width: 992
         height: 559
         isCached: true
+  - title: "VP Kamala Harris' niece Meena Harris on learning 'female ambition is a good thing'"
+    excerpt: "Meena Harris spoke with \"The View\" co-host Sunny Hostin on her children's book \"Ambitious Girl\" and how her family serves as a constant inspiration to her work."
+    publishedDateTime: 2021-01-28T00:39:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/vp-kamala-harris-niece-meena-harris-learning-female/story?id=75514535"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/vp-kamala-harris-niece-meena-harris-learning-female/story?id=75514535"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/vp-kamala-harris-niece-meena-harris-learning-female/story?id=75514535"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/US/MeenaHarris-TheView_1611758373667_hpMain_16x9_992.jpg"
+        width: 992
+        height: 559
+        isCached: true
   - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
     excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
     publishedDateTime: 2020-12-30T13:58:00Z

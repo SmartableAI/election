@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate Republicans say Trump should be held accountable for riot -- but not by them"
+    excerpt: "To Senate Minority Whip John Thune, former President Donald Trump's actions ahead of the deadly Capitol riot are totally indefensible.\n    \n"
+    publishedDateTime: 2021-01-30T02:05:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a444TyPXHQg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/senate-republicans-trump-impeachment-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/senate-republicans-trump-impeachment-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170515101540-01-john-cornyn-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kaine working on Trump censure resolution though other Democrats throw cold water on the idea"
     excerpt: "Democrat Sen. Tim Kaine of Virginia said Wednesday he has drafted a resolution to censure former President Donald Trump for his actions ahead of the January 6 deadly riot at the US Capitol, a method some think would be a faster way to hold Trump accountable than an impeachment trial.\n    \n"
     publishedDateTime: 2021-01-27T17:03:39Z

@@ -384,6 +384,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
+  - title: "Pro-Trump Lawyer Lin Wood Puts License in Jeopardy by Refusing Mental Health Evaluation"
+    excerpt: "L. Lin Wood, a lawyer who played a role in former President Donald Trump's attempts to overturn his election defeat, put his law license in jeopardy on Friday by saying on social media that he would not undergo a mental health evaluation requested by an attorney licensing body."
+    publishedDateTime: 2021-01-30T01:40:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "YouDSsF39L8Wjk/5C6gVJ1wXYSzoNxsiTL4SibehaPtGAT9DB1ILl0jm4zNwJXMC+Wbylssr6QM0qBXCtWMd3j5Wy/9Q8IPv5ZY7UVWuDLcBj/8PJb4KCitH9anzJSv7VuphU29I1MNwbj7APH5Dtitcbcz3Z0jpuOzepbo0U1U1dlPQtKm44QUOINshdSsGYBrAn8sLhvsoZEM2NoDUqfnRs6lOFtLL3uDmkbi/2MdgQHfgWMQZo6IySpXVH0MOl7HGs6Oz3ci8GJSqUOIC/TfgdpwO8VQmeuSPNY+32J4U/d84JTtL7u+NST49ZuU3vTJrr69F5FAs2V6aBtq7b13WNmSjHYpdMgOtMuOWLrc=;ONlrjL1sMXZOz0IxchN0cQ=="
 ---

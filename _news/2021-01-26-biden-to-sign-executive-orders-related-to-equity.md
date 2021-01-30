@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125124643-biden-signs-executive-order-transgender-military-ban-repeal-vpx-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "'Fragile change': Biden signs executive orders but many lack force"
+    excerpt: "President Joe Biden has signed a series of executive orders on a wide range of issues almost every day he’s been in office — from climate change to racial equality to curtailing the spread of Covid-19."
+    publishedDateTime: 2021-01-30T02:18:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/fragile-change-biden-inks-executive-orders-many-lack-force-n1256165"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256165"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256165"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_04/3446095/210129-joe-biden-al-1130_8b7ef0f8dd606f328e7395d942f22111.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "OzjodE44NdbqsyhSUUyJcIZ8AWN5VfszH57c1HVbWBj4XOttuA8d40gRYvfltZc++hq/Nvw3SnacvMQ/j3t5uKwrR0T46H30mfobDTcuZ7aiTEF/OzzTTbP028VoRGMQktUliBNYQHKyvJ2iejQ7Ue269JFGH4JTkmrHFL635pX26j3usmbKV7lx03bXZwRQOjvwZh1d3auVA516HCRjkwMG7hNpr8eT3SgYZM3csFu0k+1kRPguJSRq/U4+gJ2/WG2MjEwZZYyU/fOtSnGvpWjK39QfAH+vw0E+nktbVkuV1VDh3lznPfPB5L3jBQraxASCFMUV7I5gkJwGBUTykcXMv6Y5eATXK65gDhoXaw4=;lGFff7dSr9AvoXNOQKnfWA=="

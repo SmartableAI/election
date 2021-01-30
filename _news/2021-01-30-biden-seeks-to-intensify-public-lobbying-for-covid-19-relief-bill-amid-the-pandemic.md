@@ -141,6 +141,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Fragile change': Biden signs executive orders but many lack force"
+    excerpt: "President Joe Biden has signed a series of executive orders on a wide range of issues almost every day he’s been in office — from climate change to racial equality to curtailing the spread of Covid-19."
+    publishedDateTime: 2021-01-30T02:18:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/fragile-change-biden-inks-executive-orders-many-lack-force-n1256165"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256165"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256165"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_04/3446095/210129-joe-biden-al-1130_8b7ef0f8dd606f328e7395d942f22111.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "/Y7cSSzM5oWXdUgST7qfPmBA1fjByOKwbfllhfdEy0o1gBIyQNIVZoaG8D5LPVFucvzXWxYvS1XXo0eQ35uSVJ6xl5YPQ0G8UqbJ/NQcofmrCPhmtbVMiNDxtWAWKFAcEc9LYlS5ae75a1+XihckIzyf2LpozdZNjqrhnWh/IxW7BcpFlPRihX6+d4tu9+9RTemyn3rg9nRneYb90uFuOQc0OzLJ+u1ObVt8m3u47UHg8JnxNuiaGSqj16cMuqPtmvZpvvnWb/0GejVzrEruV6gy6Rso8Hq+znYcj2DZ7BjxCs8O3wRxGHn1F8w1LC0z1dRtZoaWYRGoZkSrCnF0MhHJO+8OI7IUlgxYaOV9IgQ=;r+B409VvKABGyz8znH3EWA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/defense-chief-holds-up-trump-nomine
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214"
 type: article
 quality: 135
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Larry Kudlow, former top economic adviser to Trump, to host Fox Business show"
-    excerpt: "Fox is hiring Larry Kudlow, most recently the top economic advisor to Donald Trump in the White House, as contributor and host of a weekday show on its business network. Kudlow, who will start on"
-    publishedDateTime: 2021-01-26T20:32:00Z
-    webUrl: "https://nypost.com/2021/01/26/larry-kudlow-former-top-economic-adviser-to-trump-to-host-fox-business-show/"
-    ampWebUrl: "https://nypost.com/2021/01/26/larry-kudlow-former-top-economic-adviser-to-trump-to-host-fox-business-show/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/26/larry-kudlow-former-top-economic-adviser-to-trump-to-host-fox-business-show/amp/"
+  - title: "Judge orders Trump Organization to hand over documents to New York attorney general"
+    excerpt: "A judge in New York has ordered the attorneys for the Trump Organization to give unprivileged documents to the state's attorney general by Feb. 4."
+    publishedDateTime: 2021-01-30T01:06:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0o8i4JRqtuE/new-york-judge-trump-organization-documents"
+    ampWebUrl: "https://www.foxnews.com/politics/new-york-judge-trump-organization-documents.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-judge-trump-organization-documents.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 132
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/larry-kudlow-fox.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Georgia U.S. Attorney Pushed to Resign by Trump Aides Rejoins Law Firm"
     excerpt: "The former top federal prosecutor in Atlanta, whom White House officials pushed to resign earlier this month because then-President Donald Trump was upset he wasn’t doing enough to investigate unproven claims of election fraud,"

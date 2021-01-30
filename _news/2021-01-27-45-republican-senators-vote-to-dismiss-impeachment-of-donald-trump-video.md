@@ -428,6 +428,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Morgan Lewis can't withhold Trump organization docs in NY AG probe"
+    excerpt: "A Manhattan state judge on Friday ordered Morgan, Lewis & Bockius to turn over documents related to its representation of the Trump Organization, ruling the law firm had marked some of its communications with former U."
+    publishedDateTime: 2021-01-30T01:14:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-trump-morgan-lewis-idUSL1N2K501M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K501M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K501M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "45 Republicans voted to declare Trump's Senate impeachment trial unconstitutional, all but guaranteeing his acquittal"
     excerpt: "Kentucky Sen. Rand Paul forced the upper chamber to vote on the constitutionality of even holding a trial."
     publishedDateTime: 2021-01-26T22:30:00Z

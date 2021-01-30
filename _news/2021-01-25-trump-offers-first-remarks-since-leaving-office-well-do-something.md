@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remark
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Politico reporter: Trump base is 'getting stronger' since he left office, impeachment would only empower him"
+    excerpt: "Politico reporter Tara Palmeri suggested on Friday that President Trump may have more political clout among his supporters than the D.C. establishment and the mainstream media assumed he had since he left office."
+    publishedDateTime: 2021-01-30T02:20:00Z
+    webUrl: "https://www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger"
+    ampWebUrl: "https://www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Tara-Palmeri-GETTY-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "S4Nrsj3Ugv7K8QXvngD6hGol9pML8jhPBJSf9Z5VcISg59oL0g7wZ40w+yQ5feAFHQCR/rYIM0xpBICQ5xrHYOcLSu+cLpHvLzWEFrhYpSplyTCSR703FEn9sLNCkK/X3DwdvA8ysh0XBy03DaR5TfTuLAQ+h4HpAbhW6HXoOV0sYoR6Jq5LWbxFZtLULgt1oPzLVtPFCwW+inMvNFZ0wLQaOUjMRJobMIO04drB4dNuDxPIiqkq/blHvNS531d8EqPc4X8gC1cBi4kGTRlqAtGjZ3o7sXrx80X8lDpk2kACB1rNhlC+cv1v3GZBxwNwNrEKBQGDPGJXzMEfaAIYML2HgBHynlLPBT/CGdNbxwE=;MJFjk0hRYjFxC4ndhCa3ZA=="
 ---

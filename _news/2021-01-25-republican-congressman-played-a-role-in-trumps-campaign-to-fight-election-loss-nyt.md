@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0FS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0FS"
 type: article
 quality: 133
-heat: 833
+heat: 853
 published: true
 
 provider:
@@ -414,6 +414,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Morgan Lewis can't withhold Trump organization docs in NY AG probe"
+    excerpt: "A Manhattan state judge on Friday ordered Morgan, Lewis & Bockius to turn over documents related to its representation of the Trump Organization, ruling the law firm had marked some of its communications with former U."
+    publishedDateTime: 2021-01-30T01:14:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-trump-morgan-lewis-idUSL1N2K501M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K501M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K501M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "45 Republican senators vote to dismiss impeachment of Donald Trump – video"
     excerpt: "Procedural objection fails but indicates stiff challenge of persuading 17 Republicans to vote for conviction"
     publishedDateTime: 2021-01-27T07:16:00Z

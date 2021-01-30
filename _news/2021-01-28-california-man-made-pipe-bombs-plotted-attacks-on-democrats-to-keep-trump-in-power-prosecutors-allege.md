@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "‘QAnon Shaman' Offers To Testify At Trump's Impeachment Trial"
+    excerpt: "A lawyer representing Jacob Chansley, the self-proclaimed \"QAnon Shaman,\" said his client now feels betrayed by former President Donald Trump and is willing to testify at his impeachment trial in the Senate."
+    publishedDateTime: 2021-01-29T15:25:00Z
+    webUrl: "https://www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569"
+    ampWebUrl: "https://www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/us-prosecutors-believe-supporters-of-president-donald-trump.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "eHp5j8q1aJevyaAD/kvhD9L365jqpnkLAzJZFc6jzZft9BgGRQwfo5SyxHMiX8oe4+4/qLp7nNnMiYu0lmXWH/XN4WCHWkjLG1JaHa9SXE2FMPAe05Ru1m5QX6b0IgOVOF4JDijV5WfFSusIrTWR1QaKtU5arSiLZpYXlEZOIRw6imU/5LWJEg1+kTPMlbnuOZXAzsTcXNv/SCVruCODnB3NgF1PTL+9h5N5eUWrjdjmOS9AX3/otsXa/W9fGfpXAI08etDJv2BllOMln60Xp+nenVgzjaJCZ2n8w9hpTyHPHnnlAeY3O6MR866y4sqsJf/5HjQ8fltrnhHanwbqWUP9V82mflw7oRdb7yJrX9F0npq+5eAR2XTVyzIJFLDbH/yQ04s4LXKbudvyGQ0yNXOL6krrFkEjIpOpMsXtlJAR5s4nhBHYiwcks5o/Ozszjt00++DfQeZIilJhBeq/ZPaq9ohczBT78BqX8Qdqen/FSn8Pf/3ufDIYYSRm/10roqpfJizDCTw6C55VpXL6ng==;wtP/87bwP0hzzNZJ5BoX5w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
 type: article
 quality: 123
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7ZLN4RX63YI6PHJR24WPPDN65Y.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "‘QAnon Shaman' Offers To Testify At Trump's Impeachment Trial"
+    excerpt: "A lawyer representing Jacob Chansley, the self-proclaimed \"QAnon Shaman,\" said his client now feels betrayed by former President Donald Trump and is willing to testify at his impeachment trial in the Senate."
+    publishedDateTime: 2021-01-29T15:25:00Z
+    webUrl: "https://www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569"
+    ampWebUrl: "https://www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/us-prosecutors-believe-supporters-of-president-donald-trump.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "t9Q7gRnoPKCynlun3Mrx/ZUdZs1AGQTqM/i36dAX/d49r1POvXWNJLUwi0bFBsm7JH17mlxZ3dsGmiKlDi0Q7s9vx8v9ZimMaqQtAZ3q3NZqBDXxAuZOQ9WZeXJ/8XZYYBKANcX+tLSBwhpPFq1lQGeUUd45ts1TWwRxBt8N9KEG+QSNbErUMnfk1JMoQp+JsNCFQwXaWuOro0cvSygZqVY6uPx+ikyZ9sGo25Os6gghkWpzumLYfoJi8Ok7T0rD6IoBDyFwECIusqNHkce1z7fuIObpTF4ZdEvZW1hNXAfjrW6TSwGLZoxxAK6eyiq1C4+Tc+4o4qC/1J2h8plmILD3I7tLKKmmDRqea7pM6W4=;tYKWY/M0FQhaLHOnWWU/Tw=="

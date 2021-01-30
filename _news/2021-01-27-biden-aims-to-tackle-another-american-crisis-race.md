@@ -202,6 +202,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's United States of Racial Quotas and Preferences"
+    excerpt: "On Tuesday, six days into Joe Biden's administration, it became clear why Susan Rice, hitherto a foreign policy specialist, was named director of the"
+    publishedDateTime: 2021-01-30T02:29:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_united_states_of_racial_quotas_and_preferences_145147.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_united_states_of_racial_quotas_and_preferences_145147.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/29/the_united_states_of_racial_quotas_and_preferences_145147.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533692_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Biden Signs Executive Order On Racial Equity Agenda: \"I Think The Country's Ready\""
     excerpt: "President Joe Biden signed an executive order on Tuesday promoting racial equity, \"addressing discriminatory housing polices, xenophobia against Asian Americans and Pacific Islanders, and more.\" \"I think the country's ready,"
     publishedDateTime: 2021-01-28T14:06:00Z

@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate Republicans say Trump should be held accountable for riot -- but not by them"
+    excerpt: "To Senate Minority Whip John Thune, former President Donald Trump's actions ahead of the deadly Capitol riot are totally indefensible.\n    \n"
+    publishedDateTime: 2021-01-30T02:05:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a444TyPXHQg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/senate-republicans-trump-impeachment-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/senate-republicans-trump-impeachment-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170515101540-01-john-cornyn-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Blame Trump' defense from alleged Capitol rioters dovetails with Democrats' impeachment case"
     excerpt: "The \"Trump defense\" is taking shape among some alleged Capitol rioters.\n    \n"
     publishedDateTime: 2021-01-27T11:00:49Z

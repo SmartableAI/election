@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/1-in-5-americans-have-confidence-bi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a443a685-9d0b-4e4f-9a72-27d95505ea14/2881018b-7128-4fa5-b286-01762d13f81d/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden's United States of Racial Quotas and Preferences"
+    excerpt: "On Tuesday, six days into Joe Biden's administration, it became clear why Susan Rice, hitherto a foreign policy specialist, was named director of the"
+    publishedDateTime: 2021-01-30T02:29:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_united_states_of_racial_quotas_and_preferences_145147.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_united_states_of_racial_quotas_and_preferences_145147.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/29/the_united_states_of_racial_quotas_and_preferences_145147.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533692_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Biden Aims To Tackle Another American Crisis: Race"
     excerpt: "If there was any doubt about the urgency of President Joe Biden's mission to tackle racial inequality, it was erased in the searing moment an insurrectionist rioter brazenly paraded the Confederate flag through the US Capitol."
