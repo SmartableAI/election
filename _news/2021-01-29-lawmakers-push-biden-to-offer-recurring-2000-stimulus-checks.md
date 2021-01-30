@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Lawmakers push Biden to offer recurring $2,000 stimulus checks"
+    excerpt: "As Congress debates President Joe Biden's request for $1.9 trillion in coronavirus relief funding — including a third stimulus check pegged at $1,400 — some Democratic lawmakers are pushing for an even bigger response: $2,"
+    publishedDateTime: 2021-01-30T12:17:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-stimulus-check-2000-recurring-democratic-lawmakers-2021-01-30/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-stimulus-check-2000-recurring-democratic-lawmakers-2021-01-30/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-stimulus-check-2000-recurring-democratic-lawmakers-2021-01-30/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/28/01df0dab-acae-45d3-b972-d084f9d0e777/thumbnail/1200x630/a59f1fa9e474e8558ae2dd999604c312/gettyimages-1155807151.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Republican lawmakers press Biden Commerce nominee on Huawei stance"
     excerpt: "Three China hardliners in the Senate are calling on President Joe Biden's Commerce Department nominee to clarify if she would remove China's telecoms equipment giant Huawei Technologies Ltd from a trade blacklist under any circumstances."
     publishedDateTime: 2021-01-30T03:39:00Z

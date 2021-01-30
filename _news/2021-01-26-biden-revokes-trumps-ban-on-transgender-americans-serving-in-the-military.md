@@ -271,6 +271,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden team rushes to take over government, and oust Trump loyalists"
+    excerpt: "Biden named nearly all of his cabinet secretaries and their immediate deputies before he took office, but his real grasp on the levers of power has come several layers down."
+    publishedDateTime: 2021-01-30T12:14:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-government-overhaul-20210128-r3rifnt5qvg5rmr34yi5rfjfmm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-government-overhaul-20210128-r3rifnt5qvg5rmr34yi5rfjfmm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-biden-government-overhaul-20210128-r3rifnt5qvg5rmr34yi5rfjfmm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 140
+    images:
+      - url: "https://www.chicagotribune.com/resizer/a9Gx_d2O1BftEwLpHLaq2FkwQK0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AMKH2W6XRVF6PDZKC3AXPHBQTQ.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden promises help to U.S. workers hit by pandemic, Trump hints at 2024 run"
     excerpt: "President-elect Joe Biden on Wednesday promised a group of workers hit by the raging COVID-19 pandemic that more aid would be on the way, while President Donald Trump hinted he may be ready to begin planning another run for the White House in 2024."
     publishedDateTime: 2020-12-03T13:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-pol
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721"
 type: article
 quality: 150
-heat: 1510
+heat: 1530
 published: true
 
 provider:
@@ -255,6 +255,22 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_3df8a8f2331648e9a6e9dde61eecf377_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden team rushes to take over government, and oust Trump loyalists"
+    excerpt: "Biden named nearly all of his cabinet secretaries and their immediate deputies before he took office, but his real grasp on the levers of power has come several layers down."
+    publishedDateTime: 2021-01-30T12:14:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-government-overhaul-20210128-r3rifnt5qvg5rmr34yi5rfjfmm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-government-overhaul-20210128-r3rifnt5qvg5rmr34yi5rfjfmm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-biden-government-overhaul-20210128-r3rifnt5qvg5rmr34yi5rfjfmm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 140
+    images:
+      - url: "https://www.chicagotribune.com/resizer/a9Gx_d2O1BftEwLpHLaq2FkwQK0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AMKH2W6XRVF6PDZKC3AXPHBQTQ.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden revokes Trump's ban on transgender Americans serving in the military"
     excerpt: "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said."

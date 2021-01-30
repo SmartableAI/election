@@ -2,11 +2,11 @@
 category: news
 title: "RNC planning to invite Trump to donor retreat"
 excerpt: "The Republican National Committee is planning to invite former President Trump to their spring donor meeting in April, two sources confirmed to CBS News. The news comes as the RNC tries to figure out its post-Trump future and amid his polarizing impeachment and the loss of two high-profile Senate seats in Georgia,"
-publishedDateTime: 2021-01-30T04:36:00Z
-originalUrl: "https://www.cbsnews.com/news/rnc-planning-to-invite-trump-to-donor-retreat/"
-webUrl: "https://www.cbsnews.com/news/rnc-planning-to-invite-trump-to-donor-retreat/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/rnc-planning-to-invite-trump-to-donor-retreat/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rnc-planning-to-invite-trump-to-donor-retreat/"
+publishedDateTime: 2021-01-30T12:21:00Z
+originalUrl: "https://www.cbsnews.com/news/rnc-trump-donor-retreat/"
+webUrl: "https://www.cbsnews.com/news/rnc-trump-donor-retreat/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/rnc-trump-donor-retreat/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rnc-trump-donor-retreat/"
 type: article
 quality: 125
 heat: -1
@@ -583,6 +583,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Whnz5qWLc00qZbP9FsKGq0gR7sRFP2oSc5cALMszfc1h6/Q9ZWWp6xGzosjcCHZv5DmHVzI5oBS5B3jQY3uUu0zu4nk5Ii9AwqwBVjD1HLxxjkWDfn8IkCeAzdCZpBtr3pemBGJ/KSIIcWEAoKjJGsTvwSP2NehpUaH/VW9TluDQ3BtgK5yzmv0IyqxCp5dx53poVil93tE0IkMBDGQEF/h4zQzjYh+fzD2F+Od8RxjGhHjTQmhsOSdw99WAwkS0KYI4MKUB9aUw9hEijd7dnc4HMZt/ATLyMGbafqXR3OPkFT9NOLxMCS9uufIMWlaXH5G/jt6rUgzBAXe0f6/OpzRlcTbIHfP1qTo6ASn6D4k=;5tX5YVIQu4HOhbUl4rqH0w=="
+secured: "iRRzNH98u6XJ/X3FcxGBsg9+JQ/+iUi/APNzH4DbpIoDIM23Wnt51ttx1Mf3B7DJMq8QqwGUrdBvLVtmVXYTEmoJmzgoL1IDKLNf9/dVVhWEjCFzmwIfEqFItRIoxhPtwnsCI/MQ/0EjjAyqQxpG/xNq+krWE68zi/boR6acKFl1O4sj3rZSQ1FiY7fmSLRIe4NOek1FdzXRYOODeNfZNjVrY4+Z6ZJxBfrgRGKT4BMzDac8DVD5FDCo4lAPxYmxHWiE+AOpamOVUmotd0q7U1kjttMkjl+PTFpysbdITABkBSmZsD7DkpLHGpBRJAKaJf9hJ/ZFpg29lKZ2ESh38rfAPrLeSu3IUaKfo4o+B9o=;Xp7MB2o2nm1VlEhhNXx8Nw=="
 ---
 

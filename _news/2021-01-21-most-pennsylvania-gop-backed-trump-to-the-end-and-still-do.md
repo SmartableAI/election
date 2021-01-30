@@ -201,10 +201,10 @@ related:
         isCached: true
   - title: "RNC planning to invite Trump to donor retreat"
     excerpt: "The Republican National Committee is planning to invite former President Trump to their spring donor meeting in April, two sources confirmed to CBS News. The news comes as the RNC tries to figure out its post-Trump future and amid his polarizing impeachment and the loss of two high-profile Senate seats in Georgia,"
-    publishedDateTime: 2021-01-30T04:36:00Z
-    webUrl: "https://www.cbsnews.com/news/rnc-planning-to-invite-trump-to-donor-retreat/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/rnc-planning-to-invite-trump-to-donor-retreat/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rnc-planning-to-invite-trump-to-donor-retreat/"
+    publishedDateTime: 2021-01-30T12:21:00Z
+    webUrl: "https://www.cbsnews.com/news/rnc-trump-donor-retreat/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/rnc-trump-donor-retreat/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rnc-trump-donor-retreat/"
     type: article
     provider:
       name: CBS News
