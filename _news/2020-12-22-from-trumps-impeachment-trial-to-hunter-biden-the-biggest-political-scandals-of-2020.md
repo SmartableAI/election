@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scand
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
 type: article
 quality: 182
-heat: 422
+heat: 402
 published: true
 
 provider:
@@ -205,15 +205,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Why the Trump Impeachment Trial Is Crucial"
-    excerpt: "Frida Ghitis writes that Donald Trump's impeachment trial will help establish the record of fact for when willingness to face the truth arrives. Read Full Article »"
-    publishedDateTime: 2021-01-26T12:39:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/26/why_the_trump_impeachment_trial_is_crucial_534392.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "sNpHSgJOnBsL/v+O4SP2X17Ah42MThBWJNT+jAId2h2DJ4rNIj0HIeyIADBLSr2uXuqDdi8cP5F3AB2bDU4EffmPoxAUmNT4j4Qik+zYbgLDxqN2R3CA/gGHZX1I3O08zpe0+EOgckz7vMx4V/FseP2ci+ghX3+0GFhB1DNKsIR0yWrDV1LhDG/EwvqiMnFhEnm8vGeyFnheuiyMC6R61VDQVJPIC/RVmUv3VKeizXM5ZVz+PBoWJnynBfwo1Ap2+GfgO/Z65SgJ//03RJqGuTkgEAkSJ6X5nLTXMcp+I6itkry/5JHn2itqZLGzpigxOezNK1U7dUjLeAAnpF1HlmZjZmAyyM1a84/ShXMhktU=;aLdU3RWLUXoY5Xduk4BHYw=="
 ---

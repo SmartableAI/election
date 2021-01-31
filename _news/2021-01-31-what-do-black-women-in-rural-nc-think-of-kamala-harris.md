@@ -1,20 +1,22 @@
 ---
 category: news
-title: "What do Black women in rural NC think of Kamala Harris?"
+title: "What Do Black Women in Rural NC Think of Kamala Harris?"
 excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
-publishedDateTime: 2021-01-31T07:11:00Z
-originalUrl: "https://www.washingtontimes.com/news/2021/jan/31/what-do-black-women-in-rural-nc-think-of-kamala-ha/"
-webUrl: "https://www.washingtontimes.com/news/2021/jan/31/what-do-black-women-in-rural-nc-think-of-kamala-ha/"
-ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/31/what-do-black-women-in-rural-nc-think-of-kamala-ha/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/31/what-do-black-women-in-rural-nc-think-of-kamala-ha/"
+publishedDateTime: 2021-01-31T05:09:00Z
+originalUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2021-01-31/what-do-black-women-in-rural-nc-think-of-kamala-harris"
+webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2021-01-31/what-do-black-women-in-rural-nc-think-of-kamala-harris"
 type: article
-quality: 55
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -285,6 +287,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "pOIMlep3Rv4WZaWGEbI52SZOL817tIZUSrHHzqhoE2DVVulp30WN8+8GYJp2cz1IszeJsoyGEwbiBR6Av+bqAANvw88OHxfqj01X10KOB5hkVwvZN1TR30Im1b222u1kZdlSfxvi/4c/pZ5Cjo+qTLdimILbbJOeK/SC81fHUocNn37DEA0kmIbpPxSk1h88WPQbmADlk2Dgyz7dG4+RKJWuYg856DF8cksvpEPvtC3eJSTzM51GY6lCSEp3Omqo3GBmHS9+4DS0LVGP1FZhMyBT5uk+Mo+CgAsssdyGKlEAylIi1OaEgoDofWsmtBhVW4cRAi7sjzrFkKZKVYk7iUkKPTiANxBiZEglggImA+M=;Ob5vDdnRyfAMH3XbTlSaQw=="
+secured: "1yFciKY/qQqiiDKj0KI1BCvLWdz0QiD46woxTiSHfesA3fB5Tj04uWVxGwnUnrxvwvfxai2P8rc7onu6U8LTDvTmhVh7oiHRBU8D+WrkUMO3IRA7ZCkvwDlp5Rsz77QTlUf5bYDtZlhBvHJUIZIZqbxOTRkc2AfsI9THpTaLU/INwSd/Xf6F4KmROHle9GdW1iTo3oZtzC5VNBAoBOZhh5+uiRXfShXxiFVQ1lEuL0gdZkVFaCf3LIGuxusaozeVWv+6eoci1ImS5aMX5Og0P4BCo3QkWtO2EZISkK/MYkxwKbqDhiIM7Oivb4wIwWYSald8fPETjsD7cDxale1nVbKE+WfViJRmBndYCPDNBTg=;ULbYMoNlt2yDi24YeUOhyA=="
 ---
 

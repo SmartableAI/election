@@ -2,62 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2020-12-24-ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.md",
-      "title": "Ivanka Trump champions working families, fights human trafficking during her father's presidency",
-      "excerpt": "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
-      "publishedDateTime": "2020-12-24T10:23:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-24-harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.md",
       "title": "Harris giving Biden 'spotlight' on coronavirus relief talks: Deroy Murdock",
       "excerpt": "Vice-president-elect Kamala Harris is giving President-elect Joe Biden the “spotlight” on coronavirus relief discussions, Fox News contributor Deroy Murdock said on Thursday.",
@@ -1351,6 +1295,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-three-christmases-highlights-of-trumps-previous-mar-a-lago-holiday-stays.md",
+      "title": "Three Christmases: Highlights of Trump's previous Mar-a-Lago holiday stays",
+      "excerpt": "Lago will have in store this year, but his previous holidays at the Southern White House have been notable and memorable. Trump arrived on Dec. 16 and departed on Jan. 1. On his way to Palm Beach, the president-elect first stopped in Orlando for a \"thank you\" rally for supporters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/74095b5e-ff54-474c-871d-7364dab22c13-123116_NYE_lago_20.JPG?auto=webp&crop=2099,1181,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3855759001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3855759001",
+      "publishedDateTime": "2020-12-22T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

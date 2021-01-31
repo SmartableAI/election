@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-01-23-top-iran-leader-posts-trump-like-image-with-drone-vows-revenge.md",
-      "title": "Top Iran leader posts Trump-like image with drone, vows revenge",
-      "excerpt": "The website of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone alongside a threat of revenge over last year's killing of a top Iranian general in a U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU",
-      "originalUrl": "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548797338&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1C2",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN29R1YU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R1YU",
-      "publishedDateTime": "2021-01-23T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-23-live-updates-trump-impeachment-trial-delayed-until-february.md",
       "title": "LIVE UPDATES: Trump impeachment trial delayed until February",
       "excerpt": "Follow for the latest updates on Trump's impeachment.",
@@ -66,7 +14,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 515,
+      "heat": 435,
       "tags": null,
       "images": [
         {
@@ -1373,6 +1321,62 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-ivanka-trump-and-jared-kushner-move-out-of-dc-and-lease-luxury-condo-in-miami.md",
+      "title": "Ivanka Trump and Jared Kushner move out of DC and lease luxury condo in Miami ",
+      "excerpt": "Ivanka Trump and Jared Kushner have moved out of their Washington, DC, home, and have signed a one-year lease on a luxury condo in Miami at the Arte, an expensive oceanfront residential building, a source familiar with the couple's move confirmed to CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bhdQ1s1ICyw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bhdQ1s1ICyw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201115070055-01-jared-kushner-ivanka-trump-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/21/politics/ivanka-trump-jared-kushner-luxury-condo-miami/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/ivanka-trump-jared-kushner-luxury-condo-miami/index.html",
+      "publishedDateTime": "2021-01-21T12:48:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

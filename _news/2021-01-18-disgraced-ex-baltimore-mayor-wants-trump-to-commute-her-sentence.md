@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ex-baltimore-mayor-trump-commute-se
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-baltimore-mayor-trump-commute-sentence.amp"
 type: article
 quality: 175
-heat: 315
+heat: 295
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://images.wsj.net/im-289103/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Democrat Prospects of Convicting Trump in Senate Fade Away"
-    excerpt: "As the House prepares to bring the impeachment charge against Donald Trump to the Senate for trial, a growing number of Republican"
-    publishedDateTime: 2021-01-25T13:45:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/533287_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "ALKp2Ow5EuFKd3UlTmCfj+Q3wAZitdkoaj06qqNn3elvzQMeSzuQGQcD99KDBFbwRPuzIO9EvSnkXUYWHy4WtQQDqKsH2a1rKBtw+ckWFew8RkC62xXWt85rtnkTFm2i5Fmmq1BgE5tDMxGx/iETmAYbf+30MjLvdb3nI7McdHybnWed+Vgs8xsIuEJuAghuqocFi+a1NBz0NfU0efKjCK6ArPDZ4lZPYVkCU5Zyaw4gyeeLUnrA3uboIkNw3pcUwaLAI7Ob9MghTsyEoo5utn6mcXKZGBH1kSxwd/0KmNLH7dbRFFFv3INbELWgKSj4llgFYN531o5vS2R2Eb0a7ZBcSuiFlDvT/H7gx0W3MBc=;JIU+RbW9sWajyY7B5bhZTg=="

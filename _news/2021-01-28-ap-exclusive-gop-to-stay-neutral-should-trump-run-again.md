@@ -109,6 +109,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "GOP Rep Kinzinger Starts PAC to Resist Party’s Trump Embrace"
+    excerpt: "Rep. Adam Kinzinger, one of 10 Republicans who voted to impeach Donald Trump, is launching a political action committee to push back against a House GOP leadership team and party that he says have become too closely aligned to the former president."
+    publishedDateTime: 2021-01-31T18:39:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-31/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-31/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-31/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "HKxJkgTS/yNtdAg4tvu5PYCvH6ybgSV7u9062rykbMOrlv7zS6wR00hHi3B1b79Ra7PvYDPbctQ25uRQpU60TLOuDLFR1FZDqX9kuiXfC4bcZt+Lt0KNoCKLU8yjmigI+tqlPopFAGv+yRcxjExbwFGxy6N76rWBLD13iqydVu7NkVmhwO3d9UzO4m2tG45jts5gubhBXForqiRyBH+ksnqJ3Gy2/hF04gtRuCXv6beVMBvbY8bOFH5zYafXnEzkHhkDkeRS2g56AfB/iPNgSN+bK2ryEmNDoLemCFFDannfqI8RYnXF94yv+auHKFC999XJ8TVRiPGU8QnjtNWfMWp4G8L54h5GAym8i8yPyLo=;DQ/XzKpTC7oO7V2Zj5LCDA=="
 ---

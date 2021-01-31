@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/new-york-judge-trump-organization-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-judge-trump-organization-documents.amp"
 type: article
 quality: 169
-heat: 209
+heat: 189
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Defense Chief Holds Up Trump Nominees to Pentagon Boards"
-    excerpt: "Among those affected by Defense Secretary Lloyd Austin’s move are Corey Lewandowski, former President Donald Trump’s 2016 presidential campaign manager, and David Bossie, a former Trump deputy campaign manager."
-    publishedDateTime: 2021-01-29T06:36:00Z
-    webUrl: "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214"
-    ampWebUrl: "https://www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-292183/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Georgia U.S. Attorney Pushed to Resign by Trump Aides Rejoins Law Firm"
     excerpt: "The former top federal prosecutor in Atlanta, whom White House officials pushed to resign earlier this month because then-President Donald Trump was upset he wasn’t doing enough to investigate unproven claims of election fraud,"
     publishedDateTime: 2021-01-22T16:03:00Z

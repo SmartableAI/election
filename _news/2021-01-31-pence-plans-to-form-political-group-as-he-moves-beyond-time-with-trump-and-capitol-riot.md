@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-gr
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
 type: article
 quality: 132
-heat: 692
+heat: 712
 published: true
 
 provider:
@@ -445,6 +445,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump parts with impeachment lawyers a week before trial"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his Senate trial is set to begin, two people familiar with the situation said Saturday. Butch Bowers and Deborah Barbier,"
+    publishedDateTime: 2021-01-31T16:48:00Z
+    webUrl: "https://www.chron.com/politics/article/Trump-loses-lead-impeachment-lawyers-15912221.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/Trump-loses-lead-impeachment-lawyers-15912221.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Trump-loses-lead-impeachment-lawyers-15912221.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "House To Send Trump Impeachment Article To Senate, Triggering Trial"
     excerpt: "The US House of Representatives is to deliver a single article of impeachment to the Senate on Monday accusing Donald Trump of inciting the storming of the Capitol, triggering the first-ever impeachment trial of a former president."
     publishedDateTime: 2021-01-25T17:30:00Z
@@ -471,6 +487,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "mOBarCeGZzXd+UD8b93d/w0CYUXJ68xhD5ku3msFavM/vTnHcQH2Rs03UxIre1QPO5Vj9v+SD52abrkTRkr+6j3FsFoH5vE2WyGzYIonZi5PIaNL7qK3wUl59KsSmDdV+WImERUG90W49uoTCZpKwn5fHd8ambHfargyRb0KTh1n3IDkVSN2s0iw3uxPJe8fz5P501Tm713wxpcTk1/wDEiXzP1Z1fNev9VCkrG8lavls/Gf/TSA6N5UySxFEascAy9Yy6eQQ8IuOwtXFFvR7wJsZRAj7+/v2pg+cQ4wzyosHSA6W3M69oq92WFLg1Prr7wKlVXzW8joAHBOPSeq+bioyhtC1SV3cP6e9iAuU0E=;Ngt5sRclzicKyvXQpSeg5w=="
+secured: "UvBVvZ3c4vwlgau/8h9ymxUUmQKEvzHOTi0fjqcyi+v6BLlPeHkkVPW7ps2fcno1Bvsg+eM8EaEP5QNQm/o1tEJ9oTKr7FbCEMHXVM/gFIVdJ+cw1DzS9wUdUAnLViiiKjuR2I7RNUWuGPsmxRqeloypWj39/e4zEylABj0Mm/gJ9d5uWHeYaJZf/AUJBjtyfqFkmL2HHLAJhABrTfc5kYgaEoL5OYgmnGPkGcrIc/c+cymgeKWrFLZtZp9zKiK+8U//Lr6tV1tgnAZB37vHHhFg2phQZJZ6sFdN7F+IJx3/J0BLBcj3yo9s+LuGgsb7jMjy4A03UAAPqsz5xzS/t1BlW5nPun50N5UDAFa73ejaY2YYxkYeQLIpySReXZ7OZe2MimSvOTUV5feAAw4yNmsqQwCVNR6DouegtQhnZCu4+LgsFXjVQQ4H5Z6zY7srsMaKgi8H/Uw0XdHRR+XQEAxeWO8W7ApyxDPeK9vhGGO24T1LrkhecBlDAFTiWNSf1chz2y7bhLdPUr9Lg7XtfA==;Dv5Op6uvC3WPwACa2DKT9A=="
 ---
 

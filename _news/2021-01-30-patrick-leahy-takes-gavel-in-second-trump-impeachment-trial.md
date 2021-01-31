@@ -80,20 +80,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Donald Trump Fought For Us. Now It's Our Turn"
-    excerpt: "Trump invited the American people to fight back. We can argue over whether he was a carnival clown, but it was wildly successful."
-    publishedDateTime: 2021-01-28T22:54:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/27/donald_trump_fought_for_us_now_its_our_turn_534525.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/532922_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "XO3Q+0ZOnhopiMrXB7hJp5JwZkbCNOS2GXn6USsoO5xdbvXI7x+CLV7ddOJ6G09y50CQUtYHzQe5dzOs+3z+22Kgco97sahfTslfW8kOH4qDqZ73u6YnYeEhaiD+wwitcjwh+jXZBmSGV232Qnz8gn6iNapWr6GEPqQsEmuFcj4cGCkAXSmd/+xm6EhpbZ2yo3nFEi+A5a0mmyyKVX31GGURcb02Qq9j8TqZzfMC/9AgNDGQfB4pGFBEEIJP3K1CIlb3BZae6TCL63//VColDIad0xnNtk2AN5DI2rvoaWARvsbyvdyF51LOKRIyz7Ou/1157Qk3h2iNToXnZw8YGSSBzFVTf4G8usuneD/BD+MvMShbWjggbqPj6RY6lXBZJB0aDjGxSgf2UpHuD9X7BRnfuAOcfnW3LLF+psDK7Hr/8paliThYW+n+CKq8H4EQQ8NWLzb7cf+2/jDJX0Z9wxu/tGeXWGe1IVk7dbG04UZkQ1NeSZ7li7QApuAGKy8XszGezwDexehbQk7tNGWrCw==;QMn2X4Y64TRxQ+R4fqz0tw=="
 ---

@@ -215,63 +215,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-30-ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest.md",
-      "title": "Ohio Republicans pitch ‘President Donald J Trump Day’ to ‘celebrate one of the greatest’",
-      "excerpt": "Two Republicans in Ohio have reportedly suggested that June 14 become \" Donald J. Trump Day\" in the state. State Reps. Jon Cross and Reggie Stoltzfus emailed their fellow lawmakers Friday in an appeal for co-sponsors of the bill,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest",
-      "originalUrl": "https://www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest.amp",
-      "publishedDateTime": "2021-01-30T02:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-30-something-aoc-trump-jr-and-ted-cruz-can-all-agree-on-gamestop.md",
       "title": "Something AOC, Trump Jr. and Ted Cruz can all agree on: GameStop",
       "excerpt": "Stocks in the video game retailer and other struggling companies saw huge rallies that blindsided some of the most powerful players on Wall Street.",
@@ -1137,7 +1080,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1570,
+      "heat": 1590,
       "tags": null,
       "images": [
         {
@@ -1446,7 +1389,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1567,6 +1510,58 @@
       "ampWebUrl": "https://www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/?outputType=amp",
       "publishedDateTime": "2021-01-25T19:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-trump-is-threatening-to-form-the-patriot-party-that-name-has-already-been-used-by-hillbilly-socialists.md",
+      "title": "Trump is threatening to form the Patriot Party. That name has already been used — by ‘hillbilly’ socialists.",
+      "excerpt": "The original Patriot Party was a group of socialist radicals who sought to stoke revolutionary fervor among poor and working-class White people, decking themselves out in Confederate flags while taking their political inspiration from the Black Panthers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EJN6TCWUF5GYFMPY24WTPRXZ3M.jpg&w=1440",
+          "width": 1440,
+          "height": 922,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/?outputType=amp",
+      "publishedDateTime": "2021-01-25T09:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

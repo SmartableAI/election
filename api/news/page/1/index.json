@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-31-trump-republicans-raised-207m-amid-push-to-contest-election.md",
+      "title": "Trump, Republicans raised $207M amid push to contest election",
+      "excerpt": "In the weeks following Election Day, President Trump and Republican committees and candidates raised at least $207 million, according to a recent Federal Election Commission (FEC) filing, as Trump and Republican lawmakers contested election results.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HkiTnz91k5E/trump-republican-fundraising-after-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HkiTnz91k5E/trump-republican-fundraising-after-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 530,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-republican-fundraising-after-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-republican-fundraising-after-election.amp",
+      "publishedDateTime": "2021-01-31T10:37:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-heres-what-to-exect-from-pences-post-vp-life.md",
       "title": "Here's what to exect from Pence's post-VP life",
       "excerpt": "Pence's relationship with former President Donald Trump, which, to put it mildly, faltered after the deadly Jan. 6 Capitol riot, does not appear to have improved over the last few weeks, NBC reports.",
@@ -53,7 +109,7 @@
       "originalUrl": "https://www.cnbc.com/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 692,
+      "heat": 712,
       "tags": null,
       "images": [
         {
@@ -625,62 +681,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-30-republicans-in-key-battlegrounds-push-to-tighten-voting-rules-in-wake-of-trumps-defeat.md",
-      "title": "Republicans in key battlegrounds push to tighten voting rules in wake of Trump's defeat",
-      "excerpt": "Republican state lawmakers in three battleground states where President Biden narrowly edged Donald Trump in November’s presidential election are pushing to tighten voting restrictions on mail-in balloting in future contests.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBxlJQwA32M/republicans-key-battlegrounds-push-voting-restrictions-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBxlJQwA32M/republicans-key-battlegrounds-push-voting-restrictions-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump.amp",
-      "publishedDateTime": "2021-01-30T12:46:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-30-white-house-facing-optics-issue-with-kamala-harris-ambitious-niece.md",
       "title": "White House facing optics issue with Kamala Harris’ ambitious niece",
       "excerpt": "Meena Harris, the industrious and outspoken niece of Vice President Kamala Harris, is creating an optics issue for the White House. ",
@@ -1070,63 +1070,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-30-ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest.md",
-      "title": "Ohio Republicans pitch ‘President Donald J Trump Day’ to ‘celebrate one of the greatest’",
-      "excerpt": "Two Republicans in Ohio have reportedly suggested that June 14 become \" Donald J. Trump Day\" in the state. State Reps. Jon Cross and Reggie Stoltzfus emailed their fellow lawmakers Friday in an appeal for co-sponsors of the bill,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest",
-      "originalUrl": "https://www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest.amp",
-      "publishedDateTime": "2021-01-30T02:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-30-kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together.md",
       "title": "Kamala Harris TV appearance in West Virginia surprises Manchin: 'That's not working together'",
       "excerpt": "Vice President Kamala Harris promoted the Biden administration’s \"critical\" coronavirus \"American Rescue Plan\" this week in a pair of interviews with local TV stations in West Virginia and Arizona.",
@@ -1350,6 +1293,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-judge-orders-trump-organization-to-hand-over-documents-to-new-york-attorney-general.md",
+      "title": "Judge orders Trump Organization to hand over documents to New York attorney general",
+      "excerpt": "A judge in New York has ordered the attorneys for the Trump Organization to give unprivileged documents to the state's attorney general by Feb. 4.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0o8i4JRqtuE/new-york-judge-trump-organization-documents",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0o8i4JRqtuE/new-york-judge-trump-organization-documents",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/new-york-judge-trump-organization-documents.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-judge-trump-organization-documents.amp",
+      "publishedDateTime": "2021-01-29T17:06:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

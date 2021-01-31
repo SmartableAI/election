@@ -2,58 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2020-12-30-trump-lashes-out-at-weak-and-tired-republican-leaders-after-house-votes-to-override-his-veto-a-disgraceful-act-of-cowardice.md",
-      "title": "Trump lashes out at ‘weak and tired’ Republican leaders after House votes to override his veto: ‘A disgraceful act of cowardice’",
-      "excerpt": "President Donald Trump is lashing out at congressional Republicans after the House easily voted to override his veto.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/ErIEyMj5FnfbO54lqyCIIZcV0yk=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FA5WMDJ3UZDNLK6CF66LMW4YYU.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-defense-spending-bill-veto-20201229-f5rk7lz4vfdtvgjqjpgvlye6ua-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-29T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-30-how-richard-jewells-lawyer-became-a-pro-trump-conspiracy-theorist.md",
       "title": "How Richard Jewell’s Lawyer Became a Pro-Trump Conspiracy Theorist",
       "excerpt": "The defamation lawyer L. Lin Wood has transformed into a fierce advocate for President Trump whose error-riddled lawsuits have promoted falsehoods about election fraud.",
@@ -1337,6 +1285,59 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-politics-updates-trump-advocates-for-2000-stimulus-checks-after-signing-relief-package.md",
+      "title": "Politics updates: Trump advocates for $2,000 stimulus checks after signing relief package",
+      "excerpt": "President Donald Trump continued to argue for $2,000 stimulus checks after signing a coronavirus relief package with a provision for a lower amount.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/28/politics-updates-presidential-transition-covid-relief/4057942001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/28/politics-updates-presidential-transition-covid-relief/4057942001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1026,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/21/USAT/e44d7247-c30b-46ea-98e6-527cfd048984-VPC_COVID19_NEW_RELIEF_DEAL_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4057942001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4057942001",
+      "publishedDateTime": "2020-12-28T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Joe Biden"
       ]
     }

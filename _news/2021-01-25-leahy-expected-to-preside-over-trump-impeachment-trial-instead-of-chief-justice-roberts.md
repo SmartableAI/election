@@ -127,22 +127,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Democrat Prospects of Convicting Trump in Senate Fade Away"
-    excerpt: "As the House prepares to bring the impeachment charge against Donald Trump to the Senate for trial, a growing number of Republican"
-    publishedDateTime: 2021-01-25T13:45:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/533287_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "JQY3DSTXRfn6edndBikfCkqr0P6iErQVed2gzkt9cCO/rO9Ng0nrigGAZv+ohM4alKNKIeFIYW0cY3f1n7Sps74e2AFEd0/rLNenQaBrjtJ1U0PpKORsLTIw8pWg0ekFLVJFiUa67bSb2QIHwkCVjbSIU0J7hFOSl8CQZ+NMwcRIvyXc24BWzynq8TqTnynfEvILkkWCb+OiJwyg5huPYivwyOJbjMqQjGiOFYYmif0mGuZNpxH0WYxVoT3TwlnzlUT98p0hvBvHp8yTmULiBp7tRSfzb/6BWusHIvu7R4Keu4dPxbKRXZob4Zpo5HGN7l9YX6rJYYiKDkkNeY7TSAPf5crf+N6pTORzHp+Rzos=;eGpV/KsMADy9jP/0yx5ggQ=="
 ---

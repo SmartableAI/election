@@ -2,64 +2,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_news/2020-12-11-biden-harris-beat-trump-again-this-time-as-times-person-of-the-year.md",
-      "title": "Biden, Harris beat Trump again, this time as Time's 'Person of the Year'",
-      "excerpt": "Other contenders were Dr. Anthony Fauci, front-line Covid-19 workers and racial justice movements that led protests over the death of George Floyd.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/biden-harris-beat-trump-again-time-time-s-person-year-n1250762",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/biden-harris-beat-trump-again-time-time-s-person-year-n1250762",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_33/3404797/200811-joe-biden-kamala-harris-ac-1014p_e00b2642631f6be472883994c8fc6730.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250762",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250762",
-      "publishedDateTime": "2020-12-10T20:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-12-11-in-leaked-audio-joe-biden-says-defund-the-police-was-used-to-beat-the-living-hell-out-of-democrats.md",
       "title": "In leaked audio, Joe Biden says 'defund the police' was used to 'beat the living hell' out of Democrats",
       "excerpt": "WASHINGTON — President-elect Joe Biden told civil rights leaders in a meeting on Tuesday he thought Republicans used the \"defund the police\" movement to defeat Democrats in down",
@@ -1344,6 +1286,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-10-trevor-noah-trump-takes-another-l-trying-to-unlose-the-election.md",
+      "title": "Trevor Noah: Trump Takes Another ‘L’ Trying to ‘Unlose’ the Election",
+      "excerpt": "Not only did they shut this case down, but they shut it down in just 34 minutes,” Noah said of the Supreme Court. “They didn’t even pretend that they were going to consider it.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/10/arts/television/trevor-noah-trump-supreme-court.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/10/arts/television/trevor-noah-trump-supreme-court.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/10/arts/10latenight/10latenight-facebookJumbo-v2.png",
+          "width": 669,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/10/arts/television/trevor-noah-trump-supreme-court.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/10/arts/television/trevor-noah-trump-supreme-court.amp.html",
+      "publishedDateTime": "2020-12-09T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

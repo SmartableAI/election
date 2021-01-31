@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "LIVE UPDATES: Trump impeachment trial delayed until February"
-    excerpt: "Follow for the latest updates on Trump's impeachment."
-    publishedDateTime: 2021-01-23T05:46:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hfMt1sSqDhM/live-updates-trump-impeachment-trial-1-23-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-23-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-23-21.amp"
+  - title: "Trump, Republicans raised $207M amid push to contest election"
+    excerpt: "In the weeks following Election Day, President Trump and Republican committees and candidates raised at least $207 million, according to a recent Federal Election Commission (FEC) filing, as Trump and Republican lawmakers contested election results."
+    publishedDateTime: 2021-01-31T18:37:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HkiTnz91k5E/trump-republican-fundraising-after-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-republican-fundraising-after-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-republican-fundraising-after-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1b0bf1a-86a1-4ca8-9894-9739ebb7d128/f2f33f2c-0474-4cef-bbc9-7303999d82d2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Senators mull censuring Trump as an alternative to impeachment trial"
-    excerpt: "Senators mull censuring Trump as an alternative to impeachment trial"
-    publishedDateTime: 2021-01-27T18:01:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IyW1h4ErIxc/senators-mull-censuring-trump-impeachment-trial-alternative"
-    ampWebUrl: "https://www.foxnews.com/politics/senators-mull-censuring-trump-impeachment-trial-alternative.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senators-mull-censuring-trump-impeachment-trial-alternative.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "LIVE UPDATES: Trump, McCarthy set up meeting ahead of impeachment"
-    excerpt: "Follow for the latest updates on Trump's impeachment"
-    publishedDateTime: 2021-01-28T08:47:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DeQPMQfA-dA/live-updates-trump-impeachment-1-28-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-28-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-28-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump impeachment conviction urged in letter circulated by House aides"
     excerpt: "A group of aides to members of the U.S. House of Representatives plans to call on members of the U.S. Senate to convict former President Trump on an impeachment charge of \"inciting an insurrection.\""
@@ -95,85 +63,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Sen. Cory Booker expects Trump impeachment trial 'as quickly as possible'"
-    excerpt: "Sen. Cory Booker, D-N.J., said that after the House voted to impeach President Trump last week, he expects the Senate to hold a trial relatively soon."
-    publishedDateTime: 2021-01-17T19:14:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXTLAGXiBHs/sen-booker-trump-impeachment-trial-quickly-as-possible"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
+  - title: "Rand Paul to trigger Senate vote on whether Trump impeachment trial is constitutional"
+    excerpt: "Sen. Rand Paul on Tuesday afternoon is expected to force a vote on whether or not the Senate impeachment trial of former President Trump is unconstitutional now that he is out of office. "
+    publishedDateTime: 2021-01-26T17:01:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6wAhFfvIQA/rand-paul-senate-impeachment-trial-unconstitutional-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31a1fe1e-5515-468e-9607-4738d2533c9f/c9629705-1284-496f-9cfa-44d30c4119aa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "'QAnon Shaman' willing to testify in Trump's impeachment trial, lawyer says"
-    excerpt: "A man who calls himself the \"QAnon Shaman\" and stormed the U.S. Capitol on Jan. 6 while wearing a horned bearskin headdress, face paint and no shirt, is willing to testify in former President Trump’s upcoming impeachment trial, his lawyer said this week."
-    publishedDateTime: 2021-01-29T04:35:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iS88E0-_gno/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says"
-    ampWebUrl: "https://www.foxnews.com/politics/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/qanon-shaman-willing-to-testify-in-trumps-impeachment-trial-lawyer-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21028544684163.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "LIVE UPDATES: Trump parts with lead impeachment lawyers a week before trial"
-    excerpt: "Follow for the latest updates on Trump's impeachment trial."
-    publishedDateTime: 2021-01-31T06:42:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z5LhvczW83M/live-updates-trump-impeachment-trial-1-31-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1280db39-0cc4-4fce-8c70-ebbdd510a556/5b88d5ef-ffb2-4dd2-a4ca-441f12e0a412/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump and McCarthy set up face-to-face meeting as Dems weigh impeachment trial options."
-    excerpt: "Former President Donald trump is expected to meet with House Minority Leader Kevin McCarthy in Florida Thursday, Fox News has learned."
-    publishedDateTime: 2021-01-27T21:18:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vWPpr7YrKEI/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
+  - title: "Republicans in key battlegrounds push to tighten voting rules in wake of Trump's defeat"
+    excerpt: "Republican state lawmakers in three battleground states where President Biden narrowly edged Donald Trump in November’s presidential election are pushing to tighten voting restrictions on mail-in balloting in future contests."
+    publishedDateTime: 2021-01-30T20:46:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBxlJQwA32M/republicans-key-battlegrounds-push-voting-restrictions-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Rubio doubles down on criticism of Trump impeachment trial: 'It's not even constitutional'"
-    excerpt: "Sen. Marco Rubio, R-Fla., doubled down Tuesday on statements he made over the weekend calling next month's impeachment trial of former President Trump \"stupid\"."
-    publishedDateTime: 2021-01-26T23:38:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qgpCiNqYrf4/rubio-trump-impeachment-trial-not-even-constitutional"
-    ampWebUrl: "https://www.foxnews.com/politics/rubio-trump-impeachment-trial-not-even-constitutional.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-trump-impeachment-trial-not-even-constitutional.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3265ed32-8048-4719-ac07-8c0ec3a09c46/77e46171-0bf6-45ae-8ea9-67f7073c8f92/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Live Updates: Gaetz slams Cheney after the high-profile House Republican voted to impeach Trump"
     excerpt: "She was one of only 10 Republicans who joined all 222 House Democrats in voting to impeach the president for inciting the Jan. 6 insurrection at the U.S. Capitol. "
@@ -191,99 +111,131 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Trump impeachment manager Eric Swalwell says Democrats will 'be ready' with witnesses if allowed"
-    excerpt: "Follow for the latest updates on Trump's impeachment trial."
-    publishedDateTime: 2021-01-24T06:19:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q9djUbQpluo/live-updates-trump-impeachment-1-24-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-24-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-24-21.amp"
+  - title: "Republicans Challenge Trump Impeachment Trial"
+    excerpt: "Sen. Rand Paul said he would attempt to force a vote Tuesday afternoon on whether the Senate can try a private citizen, although Senate Democrats could counter by making a motion to table the measure."
+    publishedDateTime: 2021-01-26T16:46:00Z
+    webUrl: "https://www.wsj.com/articles/republicans-challenge-trump-impeachment-trial-11611683182"
+    ampWebUrl: "https://www.wsj.com/amp/articles/republicans-challenge-trump-impeachment-trial-11611683182"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republicans-challenge-trump-impeachment-trial-11611683182"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cd48adb-674f-4d81-b34f-2a62f1752737/7b0254aa-3121-4ce2-82b2-67ef0837684f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "GOP senators blast Dems for moving forward with Trump impeachment trial"
-    excerpt: "Republican senators are blasting Democrats for moving ahead with an impeachment trial against former President Donald Trump after 45 GOP senators voted that it was unconstitutional, with"
-    publishedDateTime: 2021-01-27T14:25:00Z
-    webUrl: "https://nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/"
-    ampWebUrl: "https://nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/27/gop-senators-blast-dems-for-pursuing-trump-impeachment-trial/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/senate-impeachment-22.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.wsj.net/im-290562/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "57 percent of voters say Trump impeachment will further divide Americans"
-    excerpt: "More than half of likely voters say in a new poll that former President Trump being tried in the Senate over his House impeachment would further divide an already politically-torn nation. The"
-    publishedDateTime: 2021-01-28T21:55:00Z
-    webUrl: "https://nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/"
-    ampWebUrl: "https://nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/28/most-voters-feel-trump-impeachment-will-divide-nation-more/amp/"
+  - title: "Defense Chief Holds Up Trump Nominees to Pentagon Boards"
+    excerpt: "Among those affected by Defense Secretary Lloyd Austin’s move are Corey Lewandowski, former President Donald Trump’s 2016 presidential campaign manager, and David Bossie, a former Trump deputy campaign manager."
+    publishedDateTime: 2021-01-29T06:36:00Z
+    webUrl: "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214"
+    ampWebUrl: "https://www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-292183/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Appointees Poised to Influence Legal Outcomes for Decades to Come"
+    excerpt: "GOP’s focus on judicial nominees under Trump leaves Biden few appellate-court vacancies to fill."
+    publishedDateTime: 2021-01-31T17:03:00Z
+    webUrl: "https://www.wsj.com/articles/trump-appointees-poised-to-influence-legal-outcomes-for-decades-to-come-11612112401"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-appointees-poised-to-influence-legal-outcomes-for-decades-to-come-11612112401"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-appointees-poised-to-influence-legal-outcomes-for-decades-to-come-11612112401"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-292044/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Ohio Republicans propose state holiday honoring ex-President Donald Trump"
+    excerpt: "A pair of lawmakers from Ohio want to set aside a day to honor former President Trump. The proposal from two Republican state legislators would make June 14 every year President Donald Trump Day"
+    publishedDateTime: 2021-01-29T21:42:00Z
+    webUrl: "https://nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/"
+    ampWebUrl: "https://nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 134
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Trump-impeachment-divide-Americans-2-1.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Donald-Trump-16.jpg?quality=90&strip=all&w=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Ingraham: Second Senate impeachment trial of Trump will be 'ugly, feudal farce'"
-    excerpt: "Senate Majority Leader Chuck Schumer's commitment to holding a post-presidential impeachment trial of Donald Trump sets the stage for an \"ugly, feudal farce,\" Laura Ingraham said Friday."
-    publishedDateTime: 2021-01-23T04:39:00Z
-    webUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce"
-    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
+  - title: "Trump, Republicans took in $86M in last five weeks of 2020, FEC filing shows"
+    excerpt: "Kicking up a fuss over election results may not result in victory — but it pays very, very well. Former President Trump and the Republican Party raked in $86 million over the last five weeks"
+    publishedDateTime: 2021-01-30T20:37:00Z
+    webUrl: "https://nypost.com/2021/01/30/trump-gop-took-in-86m-in-last-five-weeks-of-2020-fec-filing/"
+    ampWebUrl: "https://nypost.com/2021/01/30/trump-gop-took-in-86m-in-last-five-weeks-of-2020-fec-filing/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/30/trump-gop-took-in-86m-in-last-five-weeks-of-2020-fec-filing/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Donald-Trump-17.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Rand Paul to trigger Senate vote on whether Trump impeachment trial is constitutional"
+    excerpt: "Sen. Rand Paul on Tuesday afternoon is expected to force a vote on whether or not the Senate impeachment trial of former President Trump is unconstitutional now that he is out of office."
+    publishedDateTime: 2021-01-26T17:22:00Z
+    webUrl: "https://www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 131
+    quality: 128
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f803e6d-1655-44a5-bb1a-14973471d214/5337238f-a929-46b9-8827-dbae154b3388/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump and McCarthy set up face-to-face meeting as Dems weigh impeachment trial options."
-    excerpt: "Former President Donald trump is expected to meet with House Minority Leader Kevin McCarthy in Florida Thursday, Fox News has learned."
-    publishedDateTime: 2021-01-27T21:21:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-mccarthy-set-up-face-to-face-meeting-as-dems-weigh-impeachment-trial-options.amp"
+  - title: "Republicans in key battlegrounds push to tighten voting rules in wake of Trump's defeat"
+    excerpt: "Republican state lawmakers in three battleground states where President Biden narrowly edged Donald Trump in November’s presidential election are pushing to tighten voting restrictions on mail-in balloting in future contests."
+    publishedDateTime: 2021-01-30T20:50:00Z
+    webUrl: "https://www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 127
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Georgia-counting.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "'Vindictive' and 'harsh' Trump impeachment trial won't bode well for Democrats: Historian Jay Winik"
-    excerpt: "The push by congressional Democrats to convict former President Donald Trump of impeachable offenses feels \"vindictive,\" and \"harsh,\" historian Jay Winik told \"Special Report\" Wednesday."
-    publishedDateTime: 2021-01-28T00:21:00Z
-    webUrl: "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster"
-    ampWebUrl: "https://www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/historian-jay-winik-trump-impeachment-trial-senate-filibuster.amp"
+  - title: "Ohio Republicans pitch ‘President Donald J Trump Day’ to ‘celebrate one of the greatest’"
+    excerpt: "Two Republicans in Ohio have reportedly suggested that June 14 become \" Donald J. Trump Day\" in the state. State Reps. Jon Cross and Reggie Stoltzfus emailed their fellow lawmakers Friday in an appeal for co-sponsors of the bill,"
+    publishedDateTime: 2021-01-30T10:22:00Z
+    webUrl: "https://www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 121
+    quality: 126
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -301,6 +253,45 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democrat Prospects of Convicting Trump in Senate Fade Away"
+    excerpt: "As the House prepares to bring the impeachment charge against Donald Trump to the Senate for trial, a growing number of Republican"
+    publishedDateTime: 2021-01-25T13:45:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533287_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Donald Trump Fought For Us. Now It's Our Turn"
+    excerpt: "Trump invited the American people to fight back. We can argue over whether he was a carnival clown, but it was wildly successful."
+    publishedDateTime: 2021-01-28T22:54:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/27/donald_trump_fought_for_us_now_its_our_turn_534525.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/532922_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Why the Trump Impeachment Trial Is Crucial"
+    excerpt: "Frida Ghitis writes that Donald Trump's impeachment trial will help establish the record of fact for when willingness to face the truth arrives. Read Full Article »"
+    publishedDateTime: 2021-01-26T12:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/26/why_the_trump_impeachment_trial_is_crucial_534392.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "WUJ662QC0+KJKe5GwJ5LbCTLHZrRU9f7oyY9+/unSXM3GXABTYQC82GJFjJIybMZ/2Ijubz6firuTCmchedGvDNHbprXvAXSsq6ZxYwkzjIpxhsLP04J/Xgt4R+FDy9J7roPDmbbux/NC5vNL6ItceLxiVDxzWbwrGev5KQ3c/b3RFmN+E5HWo1iVp/J+d1SynXgxP9DRiwyXEE4f6YjmETOUN252ly3aVtvIilfifP34S42abaGwqYGCdOxI9UH1Wf+7qlFFE+Dw1R83hMQ1FU0yJb91h4ZCYVO3UOOTEMU/GHlveYBY2rG1W96vPYaDoL1Q5P8OO0AAlRbBB2LUdp65WPDNpUTcBnVO0/ZjSw=;f844+0vdZ5GV01Eh9O0/Kg=="
 ---

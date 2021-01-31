@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump impeachment conviction urged in letter circulated by House aides"
-    excerpt: "A group of aides to members of the U.S. House of Representatives plans to call on members of the U.S. Senate to convict former President Trump on an impeachment charge of \"inciting an insurrection.\""
-    publishedDateTime: 2021-01-28T04:28:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D-jehCQLPjg/trump-impeachment-conviction-urged-in-letter-circulated-by-house-aides"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-conviction-urged-in-letter-circulated-by-house-aides.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-conviction-urged-in-letter-circulated-by-house-aides.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Sen. Cory Booker expects Trump impeachment trial 'as quickly as possible'"
     excerpt: "Sen. Cory Booker, D-N.J., said that after the House voted to impeach President Trump last week, he expects the Senate to hold a trial relatively soon."
     publishedDateTime: 2021-01-17T19:14:26Z
@@ -143,22 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: All but 5 Republican senators vote to dismiss Trump' impeachment trial"
-    excerpt: "Follow for the latest updates on Trump's impeachment trial"
-    publishedDateTime: 2021-01-27T09:14:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IH4LuB76Cgw/live-updates-trump-impeachment-trial-1-27-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-27-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-27-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump and McCarthy set up face-to-face meeting as Dems weigh impeachment trial options."
     excerpt: "Former President Donald trump is expected to meet with House Minority Leader Kevin McCarthy in Florida Thursday, Fox News has learned."
     publishedDateTime: 2021-01-27T21:18:24Z
@@ -188,22 +156,6 @@ related:
     quality: 165
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3265ed32-8048-4719-ac07-8c0ec3a09c46/77e46171-0bf6-45ae-8ea9-67f7073c8f92/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Gaetz slams Cheney after the high-profile House Republican voted to impeach Trump"
-    excerpt: "She was one of only 10 Republicans who joined all 222 House Democrats in voting to impeach the president for inciting the Jan. 6 insurrection at the U.S. Capitol. "
-    publishedDateTime: 2021-01-29T05:16:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/orYIuLG6IJk/live-updates-trump-impeachment-1-29-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-29-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-29-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -284,20 +236,6 @@ related:
     quality: 121
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Why the Trump impeachment fizzled and acquittal is now a foregone conclusion"
-    excerpt: "Any flickering hope among Democrats to convict private citizen Donald Trump died when 45 of the 50 Senate Republicans voted that the entire proceeding is unconstitutional."
-    publishedDateTime: 2021-01-28T08:07:00Z
-    webUrl: "https://www.foxnews.com/media/why-the-trump-impeachment-fizzled-and-acquittal-is-now-a-foregone-conclusion"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 112
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/schumer.jpg"
         width: 1280
         height: 720
         isCached: true

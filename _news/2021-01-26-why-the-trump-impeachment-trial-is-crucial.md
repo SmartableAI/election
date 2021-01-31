@@ -20,193 +20,271 @@ topics:
   - Republican Voice
 
 related:
-  - title: "From Trump's impeachment trial to Hunter Biden: The biggest political scandals of 2020"
-    excerpt: "As 2020 comes to a close, the news has been dominated by a global pandemic, statewide lockdowns and a presidential election. Amid all that, it’s easy to forget about political events, including scandals and controversies, that otherwise would have been more in the spotlight."
-    publishedDateTime: 2020-12-22T19:27:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U99P66zzip0/trump-biden-biggest-political-scandals-of-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
+  - title: "Trump, Republicans raised $207M amid push to contest election"
+    excerpt: "In the weeks following Election Day, President Trump and Republican committees and candidates raised at least $207 million, according to a recent Federal Election Commission (FEC) filing, as Trump and Republican lawmakers contested election results."
+    publishedDateTime: 2021-01-31T18:37:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HkiTnz91k5E/trump-republican-fundraising-after-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-republican-fundraising-after-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-republican-fundraising-after-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 182
+    quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6735719-5880-4721-98a4-9f6162f992d6/7744e53b-a550-4780-9b27-5228d2ea0d54/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Live Updates: Biden warns Trump administration’s efforts to vaccinate Americans 'falling behind'"
-    excerpt: "The president-elect also criticized the outgoing administration's lack of COVID testing for Americans, calling it \"a travesty.\" "
-    publishedDateTime: 2020-12-30T05:03:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qr4xzxxbuRs/live-updates-biden-12-30-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Arizona congresswoman backs calls for Hunter Biden special counsel"
-    excerpt: "Rep. Debbie Lesko says she has sent a letter to the Attorney General."
-    publishedDateTime: 2020-12-29T02:52:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mPgrJiiKwBw/congresswoman-special-counsel-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/congresswoman-special-counsel-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congresswoman-special-counsel-hunter-biden.amp"
+  - title: "Trump impeachment conviction urged in letter circulated by House aides"
+    excerpt: "A group of aides to members of the U.S. House of Representatives plans to call on members of the U.S. Senate to convict former President Trump on an impeachment charge of \"inciting an insurrection.\""
+    publishedDateTime: 2021-01-28T04:28:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D-jehCQLPjg/trump-impeachment-conviction-urged-in-letter-circulated-by-house-aides"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-conviction-urged-in-letter-circulated-by-house-aides.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-conviction-urged-in-letter-circulated-by-house-aides.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f1ca1b6-a9e5-400b-aa09-7baf7124297c/05de37e4-1964-41ef-8cc1-be2d61cf6203/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "House lawmakers override Trump’s defense bill veto"
-    excerpt: "More than two-thirds of the chamber voted against Trump."
-    publishedDateTime: 2020-12-29T02:16:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FqAlg__bfy4/house-override-trump-defense-bill-veto"
-    ampWebUrl: "https://www.foxnews.com/politics/house-override-trump-defense-bill-veto.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-override-trump-defense-bill-veto.amp"
+  - title: "Rand Paul to trigger Senate vote on whether Trump impeachment trial is constitutional"
+    excerpt: "Sen. Rand Paul on Tuesday afternoon is expected to force a vote on whether or not the Senate impeachment trial of former President Trump is unconstitutional now that he is out of office. "
+    publishedDateTime: 2021-01-26T17:01:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6wAhFfvIQA/rand-paul-senate-impeachment-trial-unconstitutional-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9e66164-478a-4e5f-9843-bc51b5bad88a/642df305-5164-4cc9-9c6f-8fd33be24851/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "President Trump vetoes National Defense Authorization Act for Fiscal Year 2021"
-    excerpt: "President Trump vetoed the National Defense Authorization Act for Fiscal Year 2021 Wednesday, calling it a “gift” to U.S. adversaries China and Russia, making good on a promise to veto it if it did not repeal a law that shields certain Big Tech companies from liabilities."
-    publishedDateTime: 2020-12-23T20:42:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DlsSY3OwP2Y/trump-veto-national-defense-authorization-act"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
+  - title: "LIVE UPDATES: All but 5 Republican senators vote to dismiss Trump' impeachment trial"
+    excerpt: "Follow for the latest updates on Trump's impeachment trial"
+    publishedDateTime: 2021-01-27T09:14:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IH4LuB76Cgw/live-updates-trump-impeachment-trial-1-27-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-27-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-27-21.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 168
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20357806053798-1.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Omar blasts Biden team 'bait and switch' after officials say undoing Trump immigration policy will 'take time'"
-    excerpt: "Rep. Ilhan Omar accused the Biden team of already breaking a “core campaign promise” after officials picked to serve in the president-elect’s administration admitted that they would not roll back Trump’s immigration policies all at once. "
-    publishedDateTime: 2020-12-22T19:20:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1AxJxVii8FU/omar-biden-team-bait-switch-undoing-trump-immigration-policy-take-time"
-    ampWebUrl: "https://www.foxnews.com/politics/omar-biden-team-bait-switch-undoing-trump-immigration-policy-take-time.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-team-bait-switch-undoing-trump-immigration-policy-take-time.amp"
+  - title: "Republicans in key battlegrounds push to tighten voting rules in wake of Trump's defeat"
+    excerpt: "Republican state lawmakers in three battleground states where President Biden narrowly edged Donald Trump in November’s presidential election are pushing to tighten voting restrictions on mail-in balloting in future contests."
+    publishedDateTime: 2021-01-30T20:46:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBxlJQwA32M/republicans-key-battlegrounds-push-voting-restrictions-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 167
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Ilhan-Omar-REUTERS.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Live Updates: Gaetz slams Cheney after the high-profile House Republican voted to impeach Trump"
+    excerpt: "She was one of only 10 Republicans who joined all 222 House Democrats in voting to impeach the president for inciting the Jan. 6 insurrection at the U.S. Capitol. "
+    publishedDateTime: 2021-01-29T05:16:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/orYIuLG6IJk/live-updates-trump-impeachment-1-29-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-29-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-29-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32cb91af-d1ac-4bad-991f-9bd146d20dce/ebd3a650-da0d-4fe8-8a9c-923fec42f48b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
-    excerpt: "The president"
-    publishedDateTime: 2020-12-25T13:16:00Z
-    webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=hp_listb_pos1"
-    ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+  - title: "Republicans Challenge Trump Impeachment Trial"
+    excerpt: "Sen. Rand Paul said he would attempt to force a vote Tuesday afternoon on whether the Senate can try a private citizen, although Senate Democrats could counter by making a motion to table the measure."
+    publishedDateTime: 2021-01-26T16:46:00Z
+    webUrl: "https://www.wsj.com/articles/republicans-challenge-trump-impeachment-trial-11611683182"
+    ampWebUrl: "https://www.wsj.com/amp/articles/republicans-challenge-trump-impeachment-trial-11611683182"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republicans-challenge-trump-impeachment-trial-11611683182"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 159
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-278203/social"
+      - url: "https://images.wsj.net/im-290562/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Graham vows to hold Dems, media accountable over Hunter Biden: 'We're not going to sweep this under the rug'"
-    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham doubled down Thursday on his calls for President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
-    publishedDateTime: 2020-12-18T01:19:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O8Wz6FfRgYk/lindsey-graham-hunter-biden-not-sweep-under-rug"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-hunter-biden-not-sweep-under-rug.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-hunter-biden-not-sweep-under-rug.amp"
+  - title: "Defense Chief Holds Up Trump Nominees to Pentagon Boards"
+    excerpt: "Among those affected by Defense Secretary Lloyd Austin’s move are Corey Lewandowski, former President Donald Trump’s 2016 presidential campaign manager, and David Bossie, a former Trump deputy campaign manager."
+    publishedDateTime: 2021-01-29T06:36:00Z
+    webUrl: "https://www.wsj.com/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214"
+    ampWebUrl: "https://www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-chief-holds-up-trump-nominees-to-pentagon-boards-11611884214"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b55e6af3-1933-400f-abde-4a5da8f2f4db/ea9eafcd-3cfb-4178-8bb1-6994cc6cf278/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "KT McFarland: Trump's Abraham Accords are so significant, even 'a Biden admin can't screw it up'"
-    excerpt: "The U.S. brokered Abraham Accords which have made great strides in normalizing relations in the Middle East and promoting a mentality of peace that will extend far beyond his presidency, KT McFarland said Sunday."
-    publishedDateTime: 2020-12-28T02:38:00Z
-    webUrl: "https://www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran"
-    ampWebUrl: "https://www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 137
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e200f42d-47e5-4e6b-8adc-02df3f0b10a8/66390a62-dbae-443b-b83b-a66c4beeb143/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "House Republicans urge Trump to veto omnibus spending bill"
-    excerpt: "A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of \"swamp politics\" in Washington D."
-    publishedDateTime: 2020-12-17T10:43:00Z
-    webUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill"
-    ampWebUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://images.wsj.net/im-292183/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "President Trump is most admired man in 2020, Gallup poll reveals"
-    excerpt: "President Trump and former first lady Michelle Obama have topped the list of the most admired man and woman for 2020, according to a Gallup poll released Tuesday. The annual survey asked"
-    publishedDateTime: 2020-12-29T14:21:00Z
-    webUrl: "https://nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/"
-    ampWebUrl: "https://nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/amp/"
+  - title: "Trump Appointees Poised to Influence Legal Outcomes for Decades to Come"
+    excerpt: "GOP’s focus on judicial nominees under Trump leaves Biden few appellate-court vacancies to fill."
+    publishedDateTime: 2021-01-31T17:03:00Z
+    webUrl: "https://www.wsj.com/articles/trump-appointees-poised-to-influence-legal-outcomes-for-decades-to-come-11612112401"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-appointees-poised-to-influence-legal-outcomes-for-decades-to-come-11612112401"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-appointees-poised-to-influence-legal-outcomes-for-decades-to-come-11612112401"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-292044/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Ohio Republicans propose state holiday honoring ex-President Donald Trump"
+    excerpt: "A pair of lawmakers from Ohio want to set aside a day to honor former President Trump. The proposal from two Republican state legislators would make June 14 every year President Donald Trump Day"
+    publishedDateTime: 2021-01-29T21:42:00Z
+    webUrl: "https://nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/"
+    ampWebUrl: "https://nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 135
+    quality: 134
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-admired-2020.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Donald-Trump-16.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Left Seeks Leverage to Move Biden"
-    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
-    publishedDateTime: 2020-12-28T12:34:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/28/left_seeks_leverage_to_move_biden_532247.html"
+  - title: "Trump, Republicans took in $86M in last five weeks of 2020, FEC filing shows"
+    excerpt: "Kicking up a fuss over election results may not result in victory — but it pays very, very well. Former President Trump and the Republican Party raked in $86 million over the last five weeks"
+    publishedDateTime: 2021-01-30T20:37:00Z
+    webUrl: "https://nypost.com/2021/01/30/trump-gop-took-in-86m-in-last-five-weeks-of-2020-fec-filing/"
+    ampWebUrl: "https://nypost.com/2021/01/30/trump-gop-took-in-86m-in-last-five-weeks-of-2020-fec-filing/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/30/trump-gop-took-in-86m-in-last-five-weeks-of-2020-fec-filing/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Donald-Trump-17.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Rand Paul to trigger Senate vote on whether Trump impeachment trial is constitutional"
+    excerpt: "Sen. Rand Paul on Tuesday afternoon is expected to force a vote on whether or not the Senate impeachment trial of former President Trump is unconstitutional now that he is out of office."
+    publishedDateTime: 2021-01-26T17:22:00Z
+    webUrl: "https://www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-senate-impeachment-trial-unconstitutional-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Republicans in key battlegrounds push to tighten voting rules in wake of Trump's defeat"
+    excerpt: "Republican state lawmakers in three battleground states where President Biden narrowly edged Donald Trump in November’s presidential election are pushing to tighten voting restrictions on mail-in balloting in future contests."
+    publishedDateTime: 2021-01-30T20:50:00Z
+    webUrl: "https://www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Georgia-counting.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Ohio Republicans pitch ‘President Donald J Trump Day’ to ‘celebrate one of the greatest’"
+    excerpt: "Two Republicans in Ohio have reportedly suggested that June 14 become \" Donald J. Trump Day\" in the state. State Reps. Jon Cross and Reggie Stoltzfus emailed their fellow lawmakers Friday in an appeal for co-sponsors of the bill,"
+    publishedDateTime: 2021-01-30T10:22:00Z
+    webUrl: "https://www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-republicans-pitch-president-donald-j-trump-day-to-celebrate-one-of-the-greatest.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why the Trump impeachment fizzled and acquittal is now a foregone conclusion"
+    excerpt: "Any flickering hope among Democrats to convict private citizen Donald Trump died when 45 of the 50 Senate Republicans voted that the entire proceeding is unconstitutional."
+    publishedDateTime: 2021-01-28T08:07:00Z
+    webUrl: "https://www.foxnews.com/media/why-the-trump-impeachment-fizzled-and-acquittal-is-now-a-foregone-conclusion"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 112
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/schumer.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Democrat Prospects of Convicting Trump in Senate Fade Away"
+    excerpt: "As the House prepares to bring the impeachment charge against Donald Trump to the Senate for trial, a growing number of Republican"
+    publishedDateTime: 2021-01-25T13:45:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533287_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Donald Trump Fought For Us. Now It's Our Turn"
+    excerpt: "Trump invited the American people to fight back. We can argue over whether he was a carnival clown, but it was wildly successful."
+    publishedDateTime: 2021-01-28T22:54:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/27/donald_trump_fought_for_us_now_its_our_turn_534525.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/53/530848_5_.jpg"
+      - url: "https://assets.realclear.com/images/53/532922_5_.jpg"
         width: 750
         height: 500
         isCached: true

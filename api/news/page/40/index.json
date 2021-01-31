@@ -2,62 +2,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_news/2020-12-03-trump-awards-football-coach-lou-holtz-the-medal-of-freedom.md",
-      "title": "Trump awards football coach Lou Holtz the Medal of Freedom",
-      "excerpt": "President Donald Trump awarded the Medal of Freedom to former football coach Lou Holtz on Thursday in an Oval Office ceremony.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTVejM6MY1o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTVejM6MY1o/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160502185550-lou-holtz-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/donald-trump-lou-holtz-medal-of-freedom/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/donald-trump-lou-holtz-medal-of-freedom/index.html",
-      "publishedDateTime": "2020-12-03T09:59:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-04-iran-says-it-will-comply-with-nuclear-deal-if-biden-lifts-all-sanctions.md",
       "title": "Iran says it will comply with nuclear deal if Biden lifts all sanctions",
       "excerpt": "Foreign minister calls on US to ‘show its good faith’ but appears to rule out renegotiating deal",
@@ -1370,6 +1314,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-trump-threatens-to-veto-defense-policy-bill-unless-congress-repeals-section-230-a-safeguard-for-social-media-companies.md",
+      "title": "Trump threatens to veto defense policy bill unless Congress repeals Section 230, a safeguard for social media companies",
+      "excerpt": "President Trump is threatening to veto a defense policy bill unless it ends protections for internet companies that shield them from being held liable for material posted by their users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-defense-bill-section-230-veto-20201202-w27r6au4ybbv7pl6iaw27qqlcm-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-defense-bill-section-230-veto-20201202-w27r6au4ybbv7pl6iaw27qqlcm-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/jpb7yUyEnSZw9GiaZNZjTGH2ujg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QEGKLYVSHAPI2YREJM6WIDPREA.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-02T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

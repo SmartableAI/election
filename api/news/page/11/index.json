@@ -2,62 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2021-01-18-biden-to-nominate-gary-gensler-for-sec-commissioner-rohit-chopra-to-lead-consumer-financial-protection-bureau.md",
-      "title": "Biden to nominate Gary Gensler for SEC commissioner, Rohit Chopra to lead Consumer Financial Protection Bureau",
-      "excerpt": "President-elect Joe Biden is expected to nominate Gary Gensler to serve as the commissioner of the Securities and Exchange Commission and Rohit Chopra to lead the Consumer Financial Protection Bureau, a source familiar with the decision tells CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pt-KrcLRfK0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pt-KrcLRfK0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210117203700-rohit-chopra-gary-gensler-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/17/politics/gary-gensler-rohit-chopra-sec-cfpb-nominations/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/gary-gensler-rohit-chopra-sec-cfpb-nominations/index.html",
-      "publishedDateTime": "2021-01-17T18:40:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-18-pence-has-tried-to-reach-capitol-police-officer-who-led-rioters-away-from-senate-chambers-to-offer-thanks.md",
       "title": "Pence has tried to reach Capitol Police officer who led rioters away from Senate chambers to offer thanks",
       "excerpt": "Vice President Mike Pence reached out to Capitol Police officer Eugene Goodman late last week to thank him for his efforts during the attack on the US Capitol, a person close to Pence told CNN, but they haven't connected yet.\n    \n",
@@ -1317,6 +1261,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-trump-finishes-with-worst-first-term-approval-rating-ever.md",
+      "title": "Trump finishes with worst first term approval rating ever",
+      "excerpt": "Poll of the week: A new Quinnipiac University poll finds that President Donald Trump's approval rating stands at 33%, while his disapproval is at 60%.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fhh5Db9b8u8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fhh5Db9b8u8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 435,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210114184452-05-week-in-photos-0114-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/16/politics/trump-approval-analysis/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/trump-approval-analysis/index.html",
+      "publishedDateTime": "2021-01-16T06:05:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     }

@@ -441,6 +441,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump parts with impeachment lawyers a week before trial"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his Senate trial is set to begin, two people familiar with the situation said Saturday. Butch Bowers and Deborah Barbier,"
+    publishedDateTime: 2021-01-31T16:48:00Z
+    webUrl: "https://www.chron.com/politics/article/Trump-loses-lead-impeachment-lawyers-15912221.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/Trump-loses-lead-impeachment-lawyers-15912221.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Trump-loses-lead-impeachment-lawyers-15912221.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "House To Send Trump Impeachment Article To Senate, Triggering Trial"
     excerpt: "The US House of Representatives is to deliver a single article of impeachment to the Senate on Monday accusing Donald Trump of inciting the storming of the Capitol, triggering the first-ever impeachment trial of a former president."
     publishedDateTime: 2021-01-25T17:30:00Z
