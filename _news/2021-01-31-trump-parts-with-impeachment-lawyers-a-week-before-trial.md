@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Democrats weigh expanding lower courts after Trump blitz"
-excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
-publishedDateTime: 2021-01-30T22:00:00Z
-originalUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
-webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
-ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+title: "Trump parts with impeachment lawyers a week before trial"
+excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his trial"
+publishedDateTime: 2021-01-31T03:05:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
-    width: 980
-    height: 551
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -127,21 +127,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump parts with impeachment lawyers a week before trial"
-    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his trial"
-    publishedDateTime: 2021-01-31T03:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
+  - title: "Democrats weigh expanding lower courts after Trump blitz"
+    excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
+    publishedDateTime: 2021-01-30T22:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
+    ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
     excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
@@ -244,6 +244,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "W+CeSrCP44TAE4O01aDvm+eJHQoGRvUZOCpPyibx8BdOluypoyPI38ILTBQv/Qfl92ACIRSuhzSBaOznd1t+x8t9C3egs4UmYdXhny3jIcSNKAe5h4bZqgvya7Px0+mB3/m+GA9SuSdLkQ5nbpfUZohq1gIC4Br/7UvYNi+JpEpV8AUBPWJMTivscUpEXnb0i9cB8R09DWB/bzykv3Ikv+arDGzPDm8PS4m13Eqx0Hh8Z3EH6aLx8MNjBaJk4GqRHUWE6bHi7+oBChO4Z5i8SKyzaDH3j5deQCwQj5Mpm2caWu5gz4Q8Hp7Io2u2tQsXxpePWO+btdNHlOms+LUE/7R8O7eiFbKdQ6bqDyH4Uar1rzVma9UZblbdb2rW2AX+EtDOxfT3qjGnVjEC5dEnXF159dQvqhJ+Shv0IAysZG+N8sCrecMXC8YpAedBKNMk6reiZtmb6jT/htJfDGtdap/WT2KqCCw5bJYM54O5jihLWIy6qixo6Ybp57aR53CUcIBaFz8P5WOIXMeaK63elw==;h4A9GDOtwAcguG15r+zgPg=="
+secured: "GjQHomoVnfNSolHVbqaG5eCl7QrL2+ahgW5eNsfDHqHAvASGCyGaHaYe/OYN558uU3gISM2y6SwfGcvc23Vh8JNOJEoGqh8V+iCSan4r0M+/fV0muym5mJJ3FDHO1Rgfut1Yh9s1NAFgvNkM/GjxMWbuM85KJfK8TYnYMFLmpnYoQJvfAyMeWRpPZTXk+sjFwsPQWl5HTM2lMr9SDzsrwLhCx9hyfUlkY99vLIx96Op9sb0md+UnoBMsrkLMxSnNSw/qyzzHP9fQChTlbk8m+i7WaCZ1DYKwiXNwlUFCed8g5ouVeMrpqL2U9IOW4UbhIiUYl4LpW+Rf5wW/4CvwQdT/mguA7UH3LcFEhqpPzKw=;0I0Gx0MoNCSj8AZ8Bdr5jA=="
 ---
 

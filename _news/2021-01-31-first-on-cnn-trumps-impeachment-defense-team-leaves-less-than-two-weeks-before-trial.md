@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden has signed 42 executive actions since taking office. Here's what each does"
-excerpt: "President Joe Biden hasn't wasted any time setting his agenda into motion through a flurry of executive actions that address everything from Covid-19 to the climate crisis.\n    \n"
-publishedDateTime: 2021-01-29T16:00:56Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zzpwF-pnNVk/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zzpwF-pnNVk/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/biden-executive-orders-climate-health-care-coronavirus-immigration/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/biden-executive-orders-climate-health-care-coronavirus-immigration/index.html"
+title: "First on CNN: Trump's impeachment defense team leaves less than two weeks before trial"
+excerpt: "Former President Donald Trump's five impeachment defense attorneys have left a little more than a week before his trial is set to begin, according to people familiar with the case, amid a disagreement over his legal strategy.\n    \n"
+publishedDateTime: 2021-01-31T04:04:10Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fS6OiRMfJE8/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fS6OiRMfJE8/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/butch-bowers-deborah-barbier-trump-impeachment-team/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/butch-bowers-deborah-barbier-trump-impeachment-team/index.html"
 type: article
-quality: 170
+quality: 167
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127144815-01-biden-climate-eo-0127-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden has signed 42 executive actions since taking office. Here's what each does"
+    excerpt: "President Joe Biden hasn't wasted any time setting his agenda into motion through a flurry of executive actions that address everything from Covid-19 to the climate crisis.\n    \n"
+    publishedDateTime: 2021-01-29T16:00:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zzpwF-pnNVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/biden-executive-orders-climate-health-care-coronavirus-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/biden-executive-orders-climate-health-care-coronavirus-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127144815-01-biden-climate-eo-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Rand Paul to force test vote to gauge Republican support for Trump impeachment trial"
     excerpt: "Sen. Rand Paul plans to force a test vote on Tuesday that will show how many Republicans support holding an impeachment trial for former President Donald Trump and how many believe a trial should not take place.\n    \n"
     publishedDateTime: 2021-01-26T18:31:11Z
@@ -236,22 +252,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "First on CNN: Trump's impeachment defense team leaves less than two weeks before trial"
-    excerpt: "Former President Donald Trump's five impeachment defense attorneys have left a little more than a week before his trial is set to begin, according to people familiar with the case, amid a disagreement over his legal strategy.\n    \n"
-    publishedDateTime: 2021-01-31T04:04:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fS6OiRMfJE8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/butch-bowers-deborah-barbier-trump-impeachment-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/butch-bowers-deborah-barbier-trump-impeachment-team/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -634,6 +634,6 @@ related:
         height: 630
         isCached: true
 
-secured: "N1O+iUjYP0FLVvuwwsx0RGjKmOnxWo9Qy6WTPsqZNF26F8VJXCW4VHb0a8a3LIKoygzYlLDtk9dgJxn+1qEJzY/qGA04pd0MQAdISAL1g/Lt39xu3Jh0+Hkz8rOWsPAZsVMLyQUeNi6G2e5VXj/jrd/3LdeLr4JLtQaUBrPFj8Xw3vj9U0zmF9+QYc94r8T1G+Epa0v7VPmTEj7350OvE9sBi28eSQQwjeCIQbH8S+RfBvKJUbta67b/69Exa+l96lXO46McqleNDZUlEafK+M5odw/EqL0mH70WX8icUifpa3ADg8ER7ZhjM6PmxGlJ5BmAjFyAdHh6pIIV7BmHDFTy7xh3iWKcSdj75NWOwEc=;O5gTXmi4t7d3MxLyamJ3Kw=="
+secured: "P4g0Ae6Miw2BcCfr/TIXmgTm28PKuKXMVJOLCTqJ5rKsaFJIInYYX9LumqX5RYOEfoeqqNbNrv24y31kxGjHTpyB7Sed06R4C9pTTSZdTqVfKB9wmwiqEEUMlJiNittirxi3GH8r5tTt5sF/hoGqfOl2jUR1a6coZYFm83fg7aQC8uZspqSutGMEvFFqf58rJthEw3S32QFzaW8V3P9xLBpYx9paIB7g6tyQ60G77og8U+QOkX0e6lAc1rocgQIhpuUNl3rD2CzLKXt30NdUPpBAj4P1tTfjtfIrEGHSsoKAQpL8Wy9jt43GToX6HqydThP5kUZbqXsB7ZcrjrwinXTwm/dkNBlIX8Z3/qDGgKw=;MYunI5EB2P5KaOe1l+kXmA=="
 ---
 

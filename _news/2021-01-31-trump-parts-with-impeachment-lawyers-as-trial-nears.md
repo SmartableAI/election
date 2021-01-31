@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Democrats weigh expanding lower courts after Trump blitz"
-excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
-publishedDateTime: 2021-01-30T22:00:00Z
-originalUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
-webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
-ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+title: "Trump parts with impeachment lawyers as trial nears"
+excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his Senate trial is set to begin, two people familiar with the situation said Saturday. Butch Bowers and Deborah Barbier,"
+publishedDateTime: 2021-01-31T03:54:00Z
+originalUrl: "https://www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html"
+webUrl: "https://www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html"
+ampWebUrl: "https://www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html?outputType=amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: al.com
+  domain: al.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
-    width: 980
-    height: 551
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CFCWJBCEGNBDZJCBFMKGIX5HIM.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -127,6 +123,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Democrats weigh expanding lower courts after Trump blitz"
+    excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
+    publishedDateTime: 2021-01-30T22:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
+    ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump parts with impeachment lawyers a week before trial"
     excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his trial"
     publishedDateTime: 2021-01-31T03:05:00Z
@@ -200,22 +212,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump parts with impeachment lawyers as trial nears"
-    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his Senate trial is set to begin, two people familiar with the situation said Saturday. Butch Bowers and Deborah Barbier,"
-    publishedDateTime: 2021-01-31T03:54:00Z
-    webUrl: "https://www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CFCWJBCEGNBDZJCBFMKGIX5HIM.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Twitter Reacts To Melania Trump Leaving Donald Trump Alone In Front Of Cameras"
     excerpt: "Melania Trump left her husband, Donald Trump, alone in front of the cameras after their departure from the White House Wednesday. But some Twitter users said her husband pushed her to walk ahead."
     publishedDateTime: 2021-01-24T10:06:00Z
@@ -244,6 +240,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "W+CeSrCP44TAE4O01aDvm+eJHQoGRvUZOCpPyibx8BdOluypoyPI38ILTBQv/Qfl92ACIRSuhzSBaOznd1t+x8t9C3egs4UmYdXhny3jIcSNKAe5h4bZqgvya7Px0+mB3/m+GA9SuSdLkQ5nbpfUZohq1gIC4Br/7UvYNi+JpEpV8AUBPWJMTivscUpEXnb0i9cB8R09DWB/bzykv3Ikv+arDGzPDm8PS4m13Eqx0Hh8Z3EH6aLx8MNjBaJk4GqRHUWE6bHi7+oBChO4Z5i8SKyzaDH3j5deQCwQj5Mpm2caWu5gz4Q8Hp7Io2u2tQsXxpePWO+btdNHlOms+LUE/7R8O7eiFbKdQ6bqDyH4Uar1rzVma9UZblbdb2rW2AX+EtDOxfT3qjGnVjEC5dEnXF159dQvqhJ+Shv0IAysZG+N8sCrecMXC8YpAedBKNMk6reiZtmb6jT/htJfDGtdap/WT2KqCCw5bJYM54O5jihLWIy6qixo6Ybp57aR53CUcIBaFz8P5WOIXMeaK63elw==;h4A9GDOtwAcguG15r+zgPg=="
+secured: "lDce8iU4iWNtQE656LsehopumjlYmi6FRAdjGle/QQt9YZhpqdfMD1OeXK/czj+3bfMDKkzSF9zokwBOFsLbG2RuLN9aSox+auLM2XP/zH90YcZrceZSRZWVXVIFiZcuvstbDEqIaGqBjBfpA0simoG/7uEjYDUD19+un0neTNVJMnrU5sMlywbFBsN5g92YE0T2y2BjLIpoAd7GiypS/vjhif45LHh+NXb2wgzFVRuC309SW9qSFvmSFNDxfwV/QSpejfKoje7X0/fVS/SQ764YPjDGTv+DMR+Im3qFYT5+IqgRx2D/16QQIa478EcICsLIfoYDV3iQHvXMRrFMCgQ33R4muQD1DNHaAgR+D6E=;R5IN4ajjW8/Z2jlw0qQ2Tg=="
 ---
 

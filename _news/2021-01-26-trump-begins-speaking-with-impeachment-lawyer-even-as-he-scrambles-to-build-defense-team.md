@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "First on CNN: Trump's impeachment defense team leaves less than two weeks before trial"
+    excerpt: "Former President Donald Trump's five impeachment defense attorneys have left a little more than a week before his trial is set to begin, according to people familiar with the case, amid a disagreement over his legal strategy.\n    \n"
+    publishedDateTime: 2021-01-31T04:04:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fS6OiRMfJE8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/butch-bowers-deborah-barbier-trump-impeachment-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/butch-bowers-deborah-barbier-trump-impeachment-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats weigh whether they need witnesses to make a visceral case against Trump at impeachment trial"
     excerpt: "Facing highly skeptical Republican senators, House impeachment managers are preparing a case to show the visceral evidence of the Capitol insurrection and how former President Donald Trump's words and actions motivated the rioters to breach the Capitol, according to sources familiar with the deliberations.\n"
     publishedDateTime: 2021-01-26T23:40:50Z

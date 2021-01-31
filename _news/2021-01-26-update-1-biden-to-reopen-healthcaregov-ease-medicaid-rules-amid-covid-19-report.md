@@ -92,7 +92,7 @@ related:
   - title: "Congresswoman urges Biden team to involve more distributors in COVID vaccine shipments"
     excerpt: "A Democratic U.S. lawmaker urged the Biden administration to involve additional major healthcare distributors in the shipment of COVID-19 vaccines to speed vaccinations, according to a letter seen by Reuters."
     publishedDateTime: 2021-01-30T07:31:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-vaccine-distributi-idUSKBN29Z05E"
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29Z05E?edition-redirect=in"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Z05E"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Z05E"
     type: article

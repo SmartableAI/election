@@ -141,6 +141,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump parts with impeachment lawyers a week before trial"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his trial"
+    publishedDateTime: 2021-01-31T03:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
+    excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
+    publishedDateTime: 2021-01-31T04:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4328811001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4328811001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/06243285-137b-4acb-bb77-6faa007a0a53-AP_Trump_5.jpg?auto=webp&crop=3874,2180,x0,y196&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Facing a post-Trump world, abortion opponents at March for Life strike a less partisan tone"
     excerpt: "Abortion opponents began facing the post-Trump world Friday at the annual March for Life, divided over whether the past president helped or harmed their cause and shifting towards less partisan language than in the recent past."
     publishedDateTime: 2021-01-29T23:24:00Z
@@ -168,6 +200,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump parts with impeachment lawyers as trial nears"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his Senate trial is set to begin, two people familiar with the situation said Saturday. Butch Bowers and Deborah Barbier,"
+    publishedDateTime: 2021-01-31T03:54:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CFCWJBCEGNBDZJCBFMKGIX5HIM.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Twitter Reacts To Melania Trump Leaving Donald Trump Alone In Front Of Cameras"
     excerpt: "Melania Trump left her husband, Donald Trump, alone in front of the cameras after their departure from the White House Wednesday. But some Twitter users said her husband pushed her to walk ahead."
     publishedDateTime: 2021-01-24T10:06:00Z

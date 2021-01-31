@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
 type: article
 quality: 190
-heat: 950
+heat: 970
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "First on CNN: Trump's impeachment defense team leaves less than two weeks before trial"
+    excerpt: "Former President Donald Trump's five impeachment defense attorneys have left a little more than a week before his trial is set to begin, according to people familiar with the case, amid a disagreement over his legal strategy.\n    \n"
+    publishedDateTime: 2021-01-31T04:04:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fS6OiRMfJE8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/butch-bowers-deborah-barbier-trump-impeachment-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/butch-bowers-deborah-barbier-trump-impeachment-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

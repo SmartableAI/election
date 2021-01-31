@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Democrats weigh expanding lower courts after Trump blitz"
-excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
-publishedDateTime: 2021-01-30T22:00:00Z
-originalUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
-webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
-ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
+excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
+publishedDateTime: 2021-01-31T04:41:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4328811001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4328811001"
 type: article
-quality: 125
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
-    width: 980
-    height: 551
+  - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/06243285-137b-4acb-bb77-6faa007a0a53-AP_Trump_5.jpg?auto=webp&crop=3874,2180,x0,y196&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Democrats weigh expanding lower courts after Trump blitz"
+    excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
+    publishedDateTime: 2021-01-30T22:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
+    ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump parts with impeachment lawyers a week before trial"
     excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his trial"
     publishedDateTime: 2021-01-31T03:05:00Z
@@ -142,22 +158,6 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
-        isCached: true
-  - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
-    excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
-    publishedDateTime: 2021-01-31T04:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4328811001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4328811001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/06243285-137b-4acb-bb77-6faa007a0a53-AP_Trump_5.jpg?auto=webp&crop=3874,2180,x0,y196&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Facing a post-Trump world, abortion opponents at March for Life strike a less partisan tone"
     excerpt: "Abortion opponents began facing the post-Trump world Friday at the annual March for Life, divided over whether the past president helped or harmed their cause and shifting towards less partisan language than in the recent past."
@@ -244,6 +244,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "W+CeSrCP44TAE4O01aDvm+eJHQoGRvUZOCpPyibx8BdOluypoyPI38ILTBQv/Qfl92ACIRSuhzSBaOznd1t+x8t9C3egs4UmYdXhny3jIcSNKAe5h4bZqgvya7Px0+mB3/m+GA9SuSdLkQ5nbpfUZohq1gIC4Br/7UvYNi+JpEpV8AUBPWJMTivscUpEXnb0i9cB8R09DWB/bzykv3Ikv+arDGzPDm8PS4m13Eqx0Hh8Z3EH6aLx8MNjBaJk4GqRHUWE6bHi7+oBChO4Z5i8SKyzaDH3j5deQCwQj5Mpm2caWu5gz4Q8Hp7Io2u2tQsXxpePWO+btdNHlOms+LUE/7R8O7eiFbKdQ6bqDyH4Uar1rzVma9UZblbdb2rW2AX+EtDOxfT3qjGnVjEC5dEnXF159dQvqhJ+Shv0IAysZG+N8sCrecMXC8YpAedBKNMk6reiZtmb6jT/htJfDGtdap/WT2KqCCw5bJYM54O5jihLWIy6qixo6Ybp57aR53CUcIBaFz8P5WOIXMeaK63elw==;h4A9GDOtwAcguG15r+zgPg=="
+secured: "FuI38ZimTfd1nJtT1RWbzBnGO0encNEgJD7CZI08mCvogc/L4gKBavnJH5Yopk9BGPmqD8XdxZnHof+MjVN9I4qBpe+MMAyuJWlqdSBEt/aw3czn+63/ajxYiT5c03DwmjEcX4oO+2EdcycRWct3C8rpynNd5mO+TZH9dq6elR8zbmWaoGpx6SE6zlMbe4Z4TjxbpWi9lzjhI4xQwCwzpWd6jvb39XE1vtxKPbYeft4HE51KCu1lSZBo20EBUu3mu2JpFz8L1Q/GTLFRUcmntcV+2PyM/RJRn09CQMK2xxNsOp1j/7ZApEXbzWjA8I+Oileswr05IXgihT2VojwHzU5s5sbI8mBfbQ3Iga/Zr9U=;IjYQmiY8SDBOo+ZvlhuWIw=="
 ---
 
