@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/national-security-counci
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/national-security-council-remote-work-covid-security-leaks/index.html"
 type: article
 quality: 166
-heat: 186
+heat: 206
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "10 GOP senators offer counterproposal for Covid-19 relief plan and request meeting with Biden"
+    excerpt: "A group of 10 Republican senators on Sunday called on President Joe Biden to throw his support behind their own Covid-19 relief package framework, asking the President to work with them on drafting the legislation.\n    \n"
+    publishedDateTime: 2021-01-31T16:39:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JyX-RViif0c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/covid-relief-republican-senators-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/covid-relief-republican-senators-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131111649-restricted-split-covid-relief-republican-senators-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Covid live updates: Biden raises Covid vaccine goal, UK passes 100,000 deaths"
     excerpt: "President Biden increased his Covid vaccine goal to 1.5 million shots administered a day, deemed more likely due to states ramping up vaccine distribution."
     publishedDateTime: 2021-01-26T20:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0FS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0FS"
 type: article
 quality: 133
-heat: 873
+heat: 893
 published: true
 
 provider:
@@ -514,6 +514,20 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/01/14/USATODAY/usatsports/twitter-white-house-trump.jpg?width=1600&height=800&fit=crop"
         width: 1600
         height: 800
+        isCached: true
+  - title: "The Republican Party is in disarray post-Trump and faces a crisis bigger than after Watergate, says veteran GOP Congressman"
+    excerpt: "A rift has opened between GOP lawmakers who want Trump's legacy purged and lawmakers and grassroots supporters who remain steadfastly loyal."
+    publishedDateTime: 2021-01-31T11:43:00Z
+    webUrl: "https://www.businessinsider.com/post-trump-republican-crisis-bigger-than-watergate-says-gop-veteran-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/60168014d6c5e60019c6e1dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "GOP to stay neutral should Donald Trump run again"
     excerpt: "The head of the Republican National Committee on Wednesday declined to encourage former President Donald Trump to run for the White House in 2024, saying the GOP would stay “neutral” in its next presidential primary."

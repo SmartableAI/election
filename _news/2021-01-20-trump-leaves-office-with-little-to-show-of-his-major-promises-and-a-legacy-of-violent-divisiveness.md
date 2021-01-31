@@ -240,6 +240,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Pence plans to form fundraising group as he moves beyond Trump, Capitol riot"
+    excerpt: "Former Vice Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused fundraising committe"
+    publishedDateTime: 2021-01-31T15:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/pence-plans-form-political-group-he-moves-beyond-time-trump-n1256259"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 137
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2021_04/3446320/210130-mike-pence-al-0952_d8fde8b4cfb33915b8485697ccbc1005.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Wall Street Journal: Trump pressured DOJ to file case with Supreme Court to overturn election results"
     excerpt: "Former President Donald Trump pushed the Department of Justice to directly ask the Supreme Court to invalidate President Joe Biden's election win, people familiar with the matter told the Wall Street Journal."
     publishedDateTime: 2021-01-25T08:05:00Z
@@ -473,6 +487,20 @@ related:
       - url: "https://static.politico.com/da/32/751e863c4a1db7364b990ef28e44/lede.Rufus.Rochelle.Wallace.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Bill Cassidy says Trump defense should focus on impeachment charge"
+    excerpt: "Cassidy’s suggestion follows reports that members of Trump’s legal team resigned just days before the trial following a disagreement over how the defense should be constructed."
+    publishedDateTime: 2021-01-31T16:16:00Z
+    webUrl: "https://www.politico.com/news/2021/01/31/bill-cassidy-trump-impeachment-defense-464087"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/05/11/ee3f6c994061be3406b5bd86afb4/210131-cassidy-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "P7Rm0A1sfF31epCvXU1n3JoBxzH5P4MIEFQLg9sb3mGOwieF1R+758vvq8z9g7kfyc/YMyNWh1Q6Wzs5mepqk1XhcBWJNKm2W89Md+9t2ZN10Fo1eqym6RumCOz2oKovKcFNa8rcHo11/bZFrSZ8tARyzUdwEoxDW+dv08ZOV6cYDR4wWmUaT8RP5HUm6CULzwaL5CFT6w/O1DKYbK/rNcDepbo92M6xSOdnIRF8bDJlaLkdqfuzE1I02qoUmh/T2SSew/BlD30wV0poGycgXcJI9l0mSee5BeJdlLTOXKdSddEWFrYYGVoIEqQbUZT3nhoM8ZR/pegUv2gjFAFpXOb6gRMQeTn6fohpq8IYQa0woYB0tkaK2vCafjTZ9Hv6/p6mTdcUye25P7opYhaK535Ihc34UKNJFenDZEKb118quLAx3vvPLuH7OxYUqHJCsl0+CbAskWP9OZFJm+GUJWYdc/0jrtvn9MP6EJtLZ1MYXU7k9PLSDoOcNb69DVNYcggvPBlbOBm4w7vF6T2AQQ==;2IiKV4BPhKlzUB+nAI99rw=="

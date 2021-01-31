@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why Biden has a rare opportunity for early success   "
+    excerpt: "Over five decades in Washington, President Joe Biden has watched seven newly-elected presidents get started. Improbably, he has the chance for a stronger opening act than any of them.\n    \n"
+    publishedDateTime: 2021-01-31T12:01:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NwKcFQyfvhM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/joe-biden-opening-act-covid-19-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/joe-biden-opening-act-covid-19-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127192327-biden-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "They say Biden's plan would change their lives. Here's how"
     excerpt: "Undocumented immigrants across the country told CNN they're hoping the President will make good on his promise to protect them, before it's too late.\n    \n"
     publishedDateTime: 2021-01-31T12:54:33Z
@@ -124,6 +140,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden plans first major foreign policy speech on restoring 'America's place'"
+    excerpt: "President Joe Biden plans to deliver his most substantive foreign policy remarks since becoming president on Monday, according to a senior administration official, marking his opening attempt at pivoting away from his predecessor's \"America First\" approach to the world.\n    \n"
+    publishedDateTime: 2021-01-31T15:00:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZHObighAiLM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/joe-biden-foreign-policy-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/joe-biden-foreign-policy-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127192327-biden-0127-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -206,6 +238,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3446319/210130-mark-frerichs-al-0945_eaf4b1268340e609cb11542817c0d8bc.jpg"
         width: 2500
         height: 1459
+        isCached: true
+  - title: "Why you haven’t seen a sit-down Biden interview yet"
+    excerpt: "Joe Biden waited nearly four decades to become the most powerful man in the free world. Now that he is, he’s making himself scarce. Biden is leaning on doctors and health experts to publicly detail his Covid policy."
+    publishedDateTime: 2021-01-31T14:04:00Z
+    webUrl: "https://www.politico.com/news/2021/01/31/joe-biden-spotlight-464003"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/31/joe-biden-spotlight-464003"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/31/joe-biden-spotlight-464003"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/8e/7a/ccb62882443a83f09269679561fe/210130-biden-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "jRDCmc9aAlclpJA14tsj3D+8cZC61iZmnIJNtJlmXIepcqSmomWN8WKOsA2pK6DYe5pR0BebsInphkYy5i+MsfP2shuA3/PTTWEjRO68N1fUK+D/+cuKzc2gWdBn7Nh98rNDydt3KAcrjFVMsUcfjPzEtOujV+lF0mwSYUkZcljNSLlpQTiYH1wXg4ppqemp1W4GCm5tKP3DNRdupeVa8NOubfl6CG9awwkt8MJq7qRgAgb07ZHD7zHtI82PmmbhHcpmm8/8YhLX38ca/fRqT/Q+LUKKGu5r/H9YU2eel5YmctAPvtKtx31qH/PsYJE6tuDuFb1qk7syixwQ1BRnBohLTsHQBD9d5R+6w8qcbl4=;79hNk9sYuAWb7ig4GH1A0g=="

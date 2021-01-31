@@ -2,6 +2,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-12-16-kamala-harris-i-dont-understand-the-hesitation-on-covid-19-relief.md",
+      "title": "Kamala Harris: 'I don't understand the hesitation' on COVID-19 relief",
+      "excerpt": "Vice President-elect Sen. Kamala D. Harris said in an interview that aired Wednesday that she doesn’t understand what’s taking so long to pass another round of COVID-19 relief.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2020/dec/16/kamala-harris-i-dont-understand-hesitation-covid-1/",
+      "originalUrl": "https://www.washingtontimes.com/news/2020/dec/16/kamala-harris-i-dont-understand-hesitation-covid-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/12/09/Biden_51030.jpg-5e86b_c0-394-4720-3147_s1200x700.jpg?0913c4d267a13cec05b8f8c0c5e71cc93ccb013d",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2020/dec/16/kamala-harris-i-dont-understand-hesitation-covid-1/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/16/kamala-harris-i-dont-understand-hesitation-covid-1/",
+      "publishedDateTime": "2020-12-16T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-politics-live-updates-biden-to-introduce-buttigieg-as-incoming-transportation-chief-wednesday.md",
       "title": "Politics live updates: Biden to introduce Buttigieg as incoming Transportation chief Wednesday",
       "excerpt": "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\"",
@@ -1292,63 +1335,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-gingrich-among-trump-loyalists-named-to-pentagon-advisory-board.md",
-      "title": "Gingrich among Trump loyalists named to Pentagon advisory board",
-      "excerpt": "Chief among the new board appointees is former House Speaker Newt Gingrich, an ally of President Donald Trump. | Paul Morigi/ for Dentons The Pentagon named eight new members to the Defense Policy Board on Monday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185",
-      "originalUrl": "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/85/3f/ee01a5bd4597a648457f363a970e/201214-newt-gingrich-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T10:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

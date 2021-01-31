@@ -7,7 +7,7 @@ originalUrl: "https://www.djournal.com/news/national/what-happens-to-mike-pence-
 webUrl: "https://www.djournal.com/news/national/what-happens-to-mike-pence-now/video_ca2d2ae0-9b22-58fc-9e2c-e14e6c340339.html"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 576
     height: 324
     isCached: true
+
+related:
+  - title: "Here's what to exect from Pence's post-VP life"
+    excerpt: "Pence's relationship with former President Donald Trump, which, to put it mildly, faltered after the deadly Jan. 6 Capitol riot, does not appear to have improved over the last few weeks, NBC reports."
+    publishedDateTime: 2021-01-31T16:21:00Z
+    webUrl: "https://theweek.com/speedreads/964190/heres-what-exect-from-pences-postvp-life"
+    ampWebUrl: "https://theweek.com/speedreads-amp/964190/heres-what-expect-from-pences-postvp-life"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/964190/heres-what-expect-from-pences-postvp-life"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 75
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230702122.jpg?itok=9TsIXNEV&resize=450x300"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "+W7k9AVNji8da1pIVO67tjq9WLK9Q5dpPb2VY/B98I5V+0NXPCRs0uJZsurMoz9if9Pk34CpQgOVAKPm8q43eQBLUNHGojMwRINElKBDwAWMTxoA7Z7yFPBAUsoJ7+wz7o0pYPvwWZ26CWVyBayJcXpNV6Xio8SVmJaGlSwlrM/20m36e2B+VHFtjioBPPt/pxRlhdM2lYXrZFVaXMKOQ/Ljw9KlrgtAFRo7WDIIl4D2Bq782vaJEKZXvaOqRpBikEmeCtrNLugATPUGymeh0wXn4aIAmtW54fBa4jA0nFyl3zlhM2WFlDmK4LEPTdhdxTAXbEPD0cynl8caDGFHh0HqEs/KfoM5gyuCKIyhqwM=;mhBnnY8bw9wwL97Qb/HSlQ=="
 ---

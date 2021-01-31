@@ -143,6 +143,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump Impeachment Lawyers Quit, Who Will Be Part Of His New Legal Team?"
+    excerpt: "Former President Donald Trump’s second impeachment trial is set to begin on Feb. 9 and he will need a new legal team after five attorneys on Saturday left over a disagreement in his legal strategy. The legal team included attorneys Butch Bowers,"
+    publishedDateTime: 2021-01-31T14:53:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-quit-who-will-be-part-his-new-legal-team-3134264"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/27/social-media-platforms-have-banned-donald-trumps-accounts.jpg"
+        width: 1024
+        height: 696
+        isCached: true
 
 secured: "k1BYUA3vlXIOg3X7SLCwBc1HIEPs5fnjv8ypal2dj+RkfnNAdLBzSNsI6DXgGh+3TXRfDAC5NjfieLm/eH/nMG9jElGdigRVTWyZzefmymu0j8CrwSuzyYzIEEYafPasMdUUVgH+AK0VOVouOxuOz1Z6/jsACcEM4mzl/Co7k+45e5thQQqa4lurpYc8EyjYS3wYjm3YLxEPH16MAXbUaqlYQ5pTonKujjOcnPcCW0UJVfvft3IKddvE6l4kO3Jcov4OjmpURvQin1v/6Chw/XzAO2xFmM1D1mCWA0v4NEPDyTeYRmCK6k+d3LoHz3ZswhJKekwrFkI7E7SmL1lpQdHkzt3zLlyYgRpNMm2PNW0=;cNsEJUuvc3TpoPaZo7TP5w=="
 ---

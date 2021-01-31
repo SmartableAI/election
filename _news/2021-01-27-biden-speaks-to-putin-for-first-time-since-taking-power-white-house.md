@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V2AJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2AJ"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Meet the corporate lobbying powerhouses that bankrolled Joe Biden's star-studded, fireworks-filled inauguration bash"
+    excerpt: "Online disclosures of certain corporate and union contributions disappeared from Biden's inaugural website after January 27."
+    publishedDateTime: 2021-01-31T16:15:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-inauguration-corporations-lobbying-contributions-money-inaugural-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/6009014adb847c001918bfe0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "TJ5czJAH9uTzXfQ1ZhMetTtExk95lcUAA1apLtZLSrChbYcn9lRcAyZ0XtgexwixJrU+xgWYCgIlj8Qtad5R+DUcDmJ5JXlqGIxH9MbUtipQysfVpOs6Xj3ILCW6MYhk38WIjTVjkNNje3BG/AClgOGPp52ASeM3okluXUlDnKpmoI7+2iHFCoV7ia9pRRpbwe/NmYS7c+q5/8kvPdrd2wX39ewhY9K/fToXorKNjyIUQxKW/xHZck67tl3phrU1zO9kyZyWllbQrpYiPN2l+3zQyyNUBbZflnNyApwlQkr6DGnQhNX5hhP1BgMJNX4TVYn7gCQvIuijPez9fzVpqQSgRK0JX27u9l/53eWf1ZU=;sFS5IvwS3t1hhrvKfBTPbA=="

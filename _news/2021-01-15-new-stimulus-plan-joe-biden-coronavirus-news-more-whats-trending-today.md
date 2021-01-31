@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 965
         isCached: true
+  - title: "GOP lawmakers urge Biden to meet with them on virus relief"
+    excerpt: "A group of Senate Republicans has called on President Joe Biden to meet them at the negotiating table as the newly elected president signals he could move to pass a new $1.9 trillion coronavirus aid p"
+    publishedDateTime: 2021-01-31T15:34:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596660"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596660"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596660"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_75e52f490f3a44eb9ec4cecff9b25a5b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Coronavirus live news: Biden receives vaccine as House passes US aid bill"
     excerpt: "UK warned to expect further restrictions; intensive care beds full in southern California; Denmark bans mink farms for a year"
     publishedDateTime: 2020-12-22T04:00:00Z

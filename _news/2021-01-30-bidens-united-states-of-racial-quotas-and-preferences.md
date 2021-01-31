@@ -172,6 +172,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden adviser shrugs off filibuster, reconciliation concerns about stimulus: Americans 'couldn't care less'"
+    excerpt: "Jared Bernstein, a member of President Biden's Council of Economic Advisers, claimed that passing the next round of coronavirus relief legislation is so important that Americans are not concerned with how it happens."
+    publishedDateTime: 2021-01-31T15:37:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c778FXcgaYI/biden-adviser-bernstein-stimulus-filibuster-reconciliation-concerns"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-adviser-bernstein-stimulus-filibuster-reconciliation-concerns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-adviser-bernstein-stimulus-filibuster-reconciliation-concerns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/jared-bernstein.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Crenshaw blasts Biden admin, claims they don't like 'anything the American working class might actually want'"
     excerpt: "President Biden's executive orders about the economy prove that his administration is \"going to keep talking about unity but they don't want to unify behind anything the American working class might actually want,\" Rep. Dan Crenshaw, R-Texas, told \"Fox News Primetime\" Friday."
     publishedDateTime: 2021-01-23T01:21:02Z

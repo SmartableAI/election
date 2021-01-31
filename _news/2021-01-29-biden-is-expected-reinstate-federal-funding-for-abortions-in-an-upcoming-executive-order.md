@@ -335,6 +335,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "UPDATE 1-Moderate U.S. Republican senators urge Biden to compromise on COVID-19 plan"
+    excerpt: "A group of 10 moderate Republican U.S. senators urged Democratic President Joe Biden on Sunday to reconsider his $1.9 trillion COVID-19 relief package, saying they wanted a meeting to discuss a compromise that they said could win swift bipartisan support."
+    publishedDateTime: 2021-01-31T16:30:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idUKL1N2K609H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL1N2K609H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2K609H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549731076&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U0C7"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden order seeks stronger workplace safety rules, signaling a more worker friendly approach"
     excerpt: "The Executive Order could lead to an emergency standard for businesses — a set of a regulations they would have to comply with, like mask-wearing, that advocates say is necessary to combat the pandemic."
     publishedDateTime: 2021-01-21T22:56:00Z

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "10 GOP senators offer counterproposal for Covid-19 relief plan and request meeting with Biden"
+    excerpt: "A group of 10 Republican senators on Sunday called on President Joe Biden to throw his support behind their own Covid-19 relief package framework, asking the President to work with them on drafting the legislation.\n    \n"
+    publishedDateTime: 2021-01-31T16:39:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JyX-RViif0c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/covid-relief-republican-senators-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/covid-relief-republican-senators-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131111649-restricted-split-covid-relief-republican-senators-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "xCh3dBmvlmlgpzkGmFXqptOCtThg6ZmpZUqZvnMH1HAC4cp/WcjUeohBVxpsTudk+UaaitYi5OQToF85S4wERWheJca6dQagZvjduiXLjVzZcRhJO2QT9mJ/mJwp/XkFPyUHE6+XY2M/psVdQ/kLtsAJVP52+i1b5C/KKyjc1/3PYxcujZFmr2g+0w9vRFXo5qHX/HmCKgWDL2QIXy3KGbDmsm590FtU9zs0bxKJk2ugODFm0qiL8rFyDiOwuJLFM9QAlzdD1PHv42jSVB2WDqQBOJYW14PmYz+rbv4uQ+9avBVLSXc2NsUOQk0fgbOlj3nkOIGiT4ljfbh+bgReWPqJwlCDQcD878eP0072lxs=;P6SFYNCTaNdN0Z5uF1pIUA=="
 ---

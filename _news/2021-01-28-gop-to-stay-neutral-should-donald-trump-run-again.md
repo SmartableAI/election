@@ -527,6 +527,20 @@ related:
         width: 1600
         height: 800
         isCached: true
+  - title: "The Republican Party is in disarray post-Trump and faces a crisis bigger than after Watergate, says veteran GOP Congressman"
+    excerpt: "A rift has opened between GOP lawmakers who want Trump's legacy purged and lawmakers and grassroots supporters who remain steadfastly loyal."
+    publishedDateTime: 2021-01-31T11:43:00Z
+    webUrl: "https://www.businessinsider.com/post-trump-republican-crisis-bigger-than-watergate-says-gop-veteran-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/60168014d6c5e60019c6e1dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Mulled Replacing Attorney General Over Election Results: US Media"
     excerpt: "Donald Trump considered replacing then-acting US attorney general Jeffrey A. Rosen with a Justice Department lawyer who would help him force Georgia officials to overturn the state's election result,"
     publishedDateTime: 2021-01-23T07:44:00Z

@@ -2,6 +2,62 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-08-trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.md",
+      "title": "Trump says his supporters will still have a 'giant voice,' won't be 'disrespected' ",
+      "excerpt": "President Trump on Friday said his supporters will still have a “giant voice” and would not be “disrespected” after he leaves the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ev1L67eFJU/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ev1L67eFJU/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp",
+      "publishedDateTime": "2021-01-08T07:50:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-trumps-billionaire-backers-are-horrified-by-the-insurrection-at-the-capitol-but-only-one-has-broken-with-him.md",
       "title": "Trump's billionaire backers are 'horrified' by the insurrection at the Capitol but only one has broken with him",
       "excerpt": "More than 100 billionaires have donated to Donald Trump's political campaigns. Few of them are willing to speak out regarding the US Capitol attack.",
@@ -1311,62 +1367,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-republicans-blame-trump-after-his-supporters-storm-capitol-enough-is-enough.md",
-      "title": "Republicans blame Trump after his supporters storm Capitol: 'Enough is enough'",
-      "excerpt": "Some Republicans placed the blame on President Trump after a group of his supporters besieged the U.S. Capitol building on Wednesday",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AkB0z7DI85c/republicans-blame-trump-after-his-supporters-storm-capitol",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AkB0z7DI85c/republicans-blame-trump-after-his-supporters-storm-capitol",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9ebc064-503d-4207-bc1d-8e5b2960e353/a78ecef5-c9c7-4b9c-8397-2875ff384dbf/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-blame-trump-after-his-supporters-storm-capitol.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-blame-trump-after-his-supporters-storm-capitol.amp",
-      "publishedDateTime": "2021-01-07T10:02:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

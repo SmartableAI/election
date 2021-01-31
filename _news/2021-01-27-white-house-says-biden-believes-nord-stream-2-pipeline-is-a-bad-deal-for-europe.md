@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meet the corporate lobbying powerhouses that bankrolled Joe Biden's star-studded, fireworks-filled inauguration bash"
+    excerpt: "Online disclosures of certain corporate and union contributions disappeared from Biden's inaugural website after January 27."
+    publishedDateTime: 2021-01-31T16:15:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-inauguration-corporations-lobbying-contributions-money-inaugural-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/6009014adb847c001918bfe0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "aZtoZwHRM1E5FyzyfhywVf9C+Bavg8w19YPFIGKgYOPiXZoDDuqYo0BZQy2Q1CxXyDDx6iEPdEmsrrsG3l24AEmGtVLXIuC4Y3MN22zMkG0o2iLv+1k8GqA0Ba6Bg7qQ5nrswPWMo20LYsAWuRGsp6hiDN1DtGHb3IRFNS42ij5qfnf0iVF/oxkQ2ZxB6cQOFplOaAzTpDt9aIdgTJRnd/jyg3eVw3KBpayzCoeZ2do+No868OrzAhM8ypt2MhWLpyQZ6Gkx17psMwysHzJPr8Nvyaux2SQqJ/K+LHoapcdnw1hYiGEGFoF2A6CZrR9iyqnZTFvitqW/Jgzg1ubBiniidK6tj/0EUSbF5EgI3n8=;ikjkMkf3/aJR8GsPJxRqdQ=="
 ---

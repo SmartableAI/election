@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
 type: article
 quality: 123
-heat: 263
+heat: 283
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/us-prosecutors-believe-supporters-of-president-donald-trump.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump Impeachment Lawyers Quit, Who Will Be Part Of His New Legal Team?"
+    excerpt: "Former President Donald Trump’s second impeachment trial is set to begin on Feb. 9 and he will need a new legal team after five attorneys on Saturday left over a disagreement in his legal strategy. The legal team included attorneys Butch Bowers,"
+    publishedDateTime: 2021-01-31T14:53:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-quit-who-will-be-part-his-new-legal-team-3134264"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/27/social-media-platforms-have-banned-donald-trumps-accounts.jpg"
+        width: 1024
+        height: 696
         isCached: true
 
 secured: "t9Q7gRnoPKCynlun3Mrx/ZUdZs1AGQTqM/i36dAX/d49r1POvXWNJLUwi0bFBsm7JH17mlxZ3dsGmiKlDi0Q7s9vx8v9ZimMaqQtAZ3q3NZqBDXxAuZOQ9WZeXJ/8XZYYBKANcX+tLSBwhpPFq1lQGeUUd45ts1TWwRxBt8N9KEG+QSNbErUMnfk1JMoQp+JsNCFQwXaWuOro0cvSygZqVY6uPx+ikyZ9sGo25Os6gghkWpzumLYfoJi8Ok7T0rD6IoBDyFwECIusqNHkce1z7fuIObpTF4ZdEvZW1hNXAfjrW6TSwGLZoxxAK6eyiq1C4+Tc+4o4qC/1J2h8plmILD3I7tLKKmmDRqea7pM6W4=;tYKWY/M0FQhaLHOnWWU/Tw=="
