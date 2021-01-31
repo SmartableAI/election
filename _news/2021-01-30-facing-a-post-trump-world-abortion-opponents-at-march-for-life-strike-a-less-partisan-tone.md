@@ -31,125 +31,92 @@ images:
     isCached: true
 
 related:
-  - title: "Top Iran leader posts Trump-like image with drone, vows revenge"
-    excerpt: "The website of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone alongside a threat of revenge over last year's killing of a top Iranian general in a U."
-    publishedDateTime: 2021-01-23T13:13:00Z
-    webUrl: "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R1YU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R1YU"
+  - title: "Dr. Anthony Fauci on what working for Donald Trump was really like"
+    excerpt: "As the coronavirus ravaged the country, Dr. Anthony Fauci’s calm counsel and commitment to hard facts endeared him to millions of Americans. But he also became a villain to millions of others."
+    publishedDateTime: 2021-01-24T21:35:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548797338&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1C2"
-        width: 817
-        height: 545
+      - url: "https://www.chicagotribune.com/resizer/uczaXLLkERAWDUmrCOo2M4q-54c=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/3LYGYJEE7PY4UWVJH55TXZUU2M.aspx"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Judge blocks Trump rule to limit health studies in EPA regs"
-    excerpt: "A federal judge has blocked a last-minute rule issued by the Trump administration to limit what evidence the Environmental Protection Agency may consider as it regulates pollutants to protect public h"
-    publishedDateTime: 2021-01-29T19:41:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_b1408a184fa440d7bfebd39cf4f8f16a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Democrats weigh expanding lower courts after Trump blitz"
-    excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
-    publishedDateTime: 2021-01-30T22:00:00Z
-    webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
-    ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+  - title: "Fauci says Trump pressured him to be 'more positive' on pandemic"
+    excerpt: "Anthony Fauci told The New York Times that former President Trump pressured him to offer more sunny projections about the trajectory of the coronavirus pandemic. “There were a couple of times where I would make a statement that was a pessimistic viewpoint about what direction we were going,"
+    publishedDateTime: 2021-01-25T14:27:00Z
+    webUrl: "https://thehill.com/policy/healthcare/535650-fauci-says-trump-pressured-him-to-be-more-positive-on-pandemic"
+    ampWebUrl: "https://thehill.com/policy/healthcare/535650-fauci-says-trump-pressured-him-to-be-more-positive-on-pandemic?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/535650-fauci-says-trump-pressured-him-to-be-more-positive-on-pandemic?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
+      - url: "https://thehill.com/sites/default/files/faucianthony_trumpdonald_101220gn-getty_split_fauci.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
-    excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
-    publishedDateTime: 2021-01-31T04:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4328811001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4328811001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/06243285-137b-4acb-bb77-6faa007a0a53-AP_Trump_5.jpg?auto=webp&crop=3874,2180,x0,y196&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Morgan Lewis, Trump's longtime tax counsel, prepares for split"
-    excerpt: "Morgan, Lewis & Bockius said Wednesday it was stepping away from advising Donald Trump on tax matters, leaving the former president and his businesses further isolated from the country's largest law firms."
-    publishedDateTime: 2021-01-21T04:07:00Z
-    webUrl: "https://www.reuters.com/article/mlb-trump-idUSL1N2JW050"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JW050"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JW050"
+  - title: "New Pentagon chief praises Germany for hosting U.S. troops, reversing Trump's tack"
+    excerpt: "New U.S. Defense Secretary Lloyd Austin praised Germany for hosting U.S. troops in a call with his German counterpart on Wednesday, fueling speculation that President Joe Biden could overturn a drawdown ordered by his predecessor Donald Trump."
+    publishedDateTime: 2021-01-28T02:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-germany-troops/new-pentagon-chief-praises-germany-for-hosting-u-s-troops-reversing-trumps-tack-idUSKBN29W2VN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2VN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2VN"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
-  - title: "Melania Trump leaves Donald Trump alone in front of the cameras – video"
-    excerpt: "Former first lady left Donald Trump alone in front of the cameras at Palm Beach airport after the couple left the White House ahead of Joe Biden's inauguration"
-    publishedDateTime: 2021-01-23T10:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video"
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549297914&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1OW"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Dr. Anthony Fauci is the federal government's top-paid employee, and was paid $18,000 more than Trump in 2019"
+    excerpt: "Fauci, who leads the National Institute of Allergy and Infectious Diseases, earns more than $430,000 — US presidents have a salary of $400,000."
+    publishedDateTime: 2021-01-26T16:47:00Z
+    webUrl: "https://www.businessinsider.com/anthony-fauci-salary-government-top-paid-employee-president-salary-money-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-salary-government-top-paid-employee-president-salary-money-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-salary-government-top-paid-employee-president-salary-money-2021-1?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
     images:
-      - url: "https://i.guim.co.uk/img/media/13ed5203f77124a21f8ff6fb41659c1b30762c44/30_76_1673_1004/master/1673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a04315508afc531e643ca3e642bb5c0"
+      - url: "https://i.insider.com/600ffb2967a6bc0019d9af8c?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Twitter Reacts To Melania Trump Leaving Donald Trump Alone In Front Of Cameras"
-    excerpt: "Melania Trump left her husband, Donald Trump, alone in front of the cameras after their departure from the White House Wednesday. But some Twitter users said her husband pushed her to walk ahead."
-    publishedDateTime: 2021-01-24T10:06:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
+  - title: "Ex-Trump spokeswoman Sanders running for Arkansas governor"
+    excerpt: "LITTLE ROCK, Ark. (AP) — Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, announced Monday she’s running for Arkansas governor, vying for political office even as the former president’s legacy is clouded by an impeachment charge that he incited the deadly siege at the U."
+    publishedDateTime: 2021-01-25T18:42:00Z
+    webUrl: "https://www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1?amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Trump Impeachment Lawyers Leave Team: US Media"
-    excerpt: "Several of former US president Donald Trump's impeachment lawyers have left his team a little over a week before his trial, US media reported Saturday. CNN cited unnamed sources as saying that five lawyers -- including two who were thought to be leading the team -- had parted ways with the Republican billionaire after disagreeing over his legal strategy."
-    publishedDateTime: 2021-01-31T04:03:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-leave-team-us-media-3134168"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Ex-Trump Spokeswoman Sanders Running for Arkansas Governor"
+    excerpt: "(AP) — Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, is running for Arkansas governor, a senior campaign official told The Associated Press. Sanders, who left the White House in 2019 to return to her home state,"
+    publishedDateTime: 2021-01-25T12:21:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-24/ap-source-sarah-sanders-running-for-arkansas-governor"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-24/ap-source-sarah-sanders-running-for-arkansas-governor?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-24/ap-source-sarah-sanders-running-for-arkansas-governor?context=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
-        width: 1024
-        height: 716
-        isCached: true
 
 secured: "18098jVmIHVsZxiA7LpS6wG3GSX3d7X05tj6eHpCxOJhWi9qbysMcsvOD3Dkn3QER4OusXKIIXh+C7CftSpWJpFoyOFD5yKyxaSG47ICPyjCdjHWeT0YYPa+30J4wAyh/ySLJ6dU7Q0gSxNfIoIxAwV+/O7jf5F9lqiKGmA4jE6jMT9f3WHlxBT9jJvHsZKZE15oyGxTy0ZBXIcr3TqckcEixnx4lveNQv4ByCfHxBT0cku18VKC2vIpNvnp1PSElzmgvX0iRSZS29vmnRFgPReiziKRn4HGY4ShvyhYMTkX984+sYHSSTuLYuuwdAwghMfsy1XWGNGzzm9J8lMOcf6wcsa2A6OlstwvcxFCT9zNQuRL+fgSfJCOyc0V/1aj0eV+B1p+3IekjU+6bLWv7Xg1BTUgmW2s+a3UtYxBN7XTcJU+jcHK0UxBOW78vLjmzMxsPPClU5bJCE5CRNafdCSkGRqQExMHhaQVDjK3TbaIWT/LxpQNDhqramsHHyYwfPFKezAqcKbMW3zfzHNc/g==;5IwCL2E4RMo+FF28I+pb+A=="
 ---

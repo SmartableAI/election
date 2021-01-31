@@ -31,124 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Top Iran leader posts Trump-like image with drone, vows revenge"
-    excerpt: "The website of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone alongside a threat of revenge over last year's killing of a top Iranian general in a U."
-    publishedDateTime: 2021-01-23T13:13:00Z
-    webUrl: "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R1YU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R1YU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548797338&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1C2"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Judge blocks Trump rule to limit health studies in EPA regs"
-    excerpt: "A federal judge has blocked a last-minute rule issued by the Trump administration to limit what evidence the Environmental Protection Agency may consider as it regulates pollutants to protect public h"
-    publishedDateTime: 2021-01-29T19:41:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_b1408a184fa440d7bfebd39cf4f8f16a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
-    excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
-    publishedDateTime: 2021-01-31T04:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4328811001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4328811001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/06243285-137b-4acb-bb77-6faa007a0a53-AP_Trump_5.jpg?auto=webp&crop=3874,2180,x0,y196&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facing a post-Trump world, abortion opponents at March for Life strike a less partisan tone"
-    excerpt: "Abortion opponents began facing the post-Trump world Friday at the annual March for Life, divided over whether the past president helped or harmed their cause and shifting towards less partisan language than in the recent past."
-    publishedDateTime: 2021-01-29T23:24:00Z
-    webUrl: "https://www.washingtonpost.com/religion/2021/01/29/march-for-life-roe-wade-abortion-trump-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/religion/2021/01/29/march-for-life-roe-wade-abortion-trump-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/01/29/march-for-life-roe-wade-abortion-trump-biden/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SMDCU3DCMII6XILXO5S7FGUVEQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Morgan Lewis, Trump's longtime tax counsel, prepares for split"
-    excerpt: "Morgan, Lewis & Bockius said Wednesday it was stepping away from advising Donald Trump on tax matters, leaving the former president and his businesses further isolated from the country's largest law firms."
-    publishedDateTime: 2021-01-21T04:07:00Z
-    webUrl: "https://www.reuters.com/article/mlb-trump-idUSL1N2JW050"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JW050"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JW050"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Melania Trump leaves Donald Trump alone in front of the cameras – video"
-    excerpt: "Former first lady left Donald Trump alone in front of the cameras at Palm Beach airport after the couple left the White House ahead of Joe Biden's inauguration"
-    publishedDateTime: 2021-01-23T10:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video"
+  - title: "Arizona Republicans censure McCain, Flake and Ducey over Trump split"
+    excerpt: "Pro-Trump party chair Kelli Ward wins another term but Cindy McCain, widow of John, sees censure as ‘a badge of honor’"
+    publishedDateTime: 2021-01-24T10:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/24/arizona-republicans-censure-mccain-flake-ducey-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/24/arizona-republicans-censure-mccain-flake-ducey-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/arizona-republicans-censure-mccain-flake-ducey-trump"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/13ed5203f77124a21f8ff6fb41659c1b30762c44/30_76_1673_1004/master/1673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a04315508afc531e643ca3e642bb5c0"
+      - url: "https://i.guim.co.uk/img/media/4b7b22f2fc853c467f9293ec182748880c7de89b/0_81_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ce49c0dced099ed33df0907f613e692f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "'Inexcusable' Trump Impeachment Vote Earns Republican Rep. Tom Rice Censure by S.C. GOP"
+    excerpt: "The South Carolina Republican Party said Rice's vote to impeach former President Donald Trump \"betrayed\" his party's constituents and fell in line with \"unprincipled Leftists.\""
+    publishedDateTime: 2021-01-30T22:12:00Z
+    webUrl: "https://www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610"
+    ampWebUrl: "https://www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1720904/tom-rice.jpg"
+        width: 2500
+        height: 1669
+        isCached: true
+  - title: "Arizona GOP Censures Cindy McCain, Jeff Flake and Governor Ducey for Breaking With Trump"
+    excerpt: "The Arizona Republican Party on Saturday approved resolutions to censure Cindy McCain, widow of the late Senator John McCain, and former Senator Jeff Flake for endorsing President Joe Biden, and Governor Doug Ducey for enforcing the state's coronavirus restrictions."
+    publishedDateTime: 2021-01-24T04:12:00Z
+    webUrl: "https://www.newsweek.com/arizona-gop-censures-cindy-mccain-jeff-flake-governor-ducey-breaking-trump-1563951"
+    ampWebUrl: "https://www.newsweek.com/arizona-gop-censures-cindy-mccain-jeff-flake-governor-ducey-breaking-trump-1563951?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arizona-gop-censures-cindy-mccain-jeff-flake-governor-ducey-breaking-trump-1563951?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1714818/cindy-mccain-doug-ducey-funeral.jpg"
+        width: 3065
+        height: 2152
+        isCached: true
+  - title: "Trump and Rep. Kevin McCarthy discussed 2022 election during Florida meeting as Trump allies target pro-impeachment Republicans"
+    excerpt: "McCarthy meeting takes place less than two weeks before the Senate impeachment trial, and a year before potentially divisive GOP primaries."
+    publishedDateTime: 2021-01-29T07:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/28/donald-trump-meets-kevin-mccarthy-trump-allies-hit-other-republicans/4290454001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4290454001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4290454001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/28/USAT/94b27749-b9aa-4a64-89a0-1e51787f2653-AFP_AFP_1R63QE.JPG?auto=webp&crop=5477,3081,x0,y378&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Twitter Reacts To Melania Trump Leaving Donald Trump Alone In Front Of Cameras"
-    excerpt: "Melania Trump left her husband, Donald Trump, alone in front of the cameras after their departure from the White House Wednesday. But some Twitter users said her husband pushed her to walk ahead."
-    publishedDateTime: 2021-01-24T10:06:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
+  - title: "Arizona GOP narrowly reelects Trump loyalist Kelli Ward; censures Cindy McCain, Gov. Doug Ducey, ex-Sen. Jeff Flake"
+    excerpt: "The closely watched result offers an early, state-level indication that Trump retains sway over the activist GOP base, though it is more tenuous."
+    publishedDateTime: 2021-01-24T18:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/arizona-gop-reelects-kelli-ward-censures-cindy-mccain-jeff-flake-doug-ducey/6692657002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6692657002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6692657002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/PPHX/f063a3d8-bbc8-4d8b-9728-245e41c58cf1-cent02-7dyzmbiscdh80zdihle_original.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Publix Supermarkets Under Fire After Heiress Reportedly Donates $300,000 To Trump Rally"
+    excerpt: "The Publix supermarket chain is facing backlash after a bombshell report revealed the chain's heiress donated money to the infamous Trump rally that preceded the Capitol riots."
+    publishedDateTime: 2021-01-30T17:38:00Z
+    webUrl: "https://www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985"
+    ampWebUrl: "https://www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 71
+    quality: 67
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Trump Impeachment Lawyers Leave Team: US Media"
-    excerpt: "Several of former US president Donald Trump's impeachment lawyers have left his team a little over a week before his trial, US media reported Saturday. CNN cited unnamed sources as saying that five lawyers -- including two who were thought to be leading the team -- had parted ways with the Republican billionaire after disagreeing over his legal strategy."
-    publishedDateTime: 2021-01-31T04:03:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-leave-team-us-media-3134168"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
-        width: 1024
-        height: 716
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/publix.jpg"
+        width: 1200
+        height: 847
         isCached: true
 
 secured: "W+CeSrCP44TAE4O01aDvm+eJHQoGRvUZOCpPyibx8BdOluypoyPI38ILTBQv/Qfl92ACIRSuhzSBaOznd1t+x8t9C3egs4UmYdXhny3jIcSNKAe5h4bZqgvya7Px0+mB3/m+GA9SuSdLkQ5nbpfUZohq1gIC4Br/7UvYNi+JpEpV8AUBPWJMTivscUpEXnb0i9cB8R09DWB/bzykv3Ikv+arDGzPDm8PS4m13Eqx0Hh8Z3EH6aLx8MNjBaJk4GqRHUWE6bHi7+oBChO4Z5i8SKyzaDH3j5deQCwQj5Mpm2caWu5gz4Q8Hp7Io2u2tQsXxpePWO+btdNHlOms+LUE/7R8O7eiFbKdQ6bqDyH4Uar1rzVma9UZblbdb2rW2AX+EtDOxfT3qjGnVjEC5dEnXF159dQvqhJ+Shv0IAysZG+N8sCrecMXC8YpAedBKNMk6reiZtmb6jT/htJfDGtdap/WT2KqCCw5bJYM54O5jihLWIy6qixo6Ybp57aR53CUcIBaFz8P5WOIXMeaK63elw==;h4A9GDOtwAcguG15r+zgPg=="

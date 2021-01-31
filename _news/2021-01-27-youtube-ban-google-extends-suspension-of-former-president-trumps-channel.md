@@ -63,22 +63,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Cheney tests Trump grip on GOP post-presidency"
-    excerpt: "Rep. Liz Cheney's (R-Wyo.) leadership position in the House GOP is turning into a test for former President Trump's grip on the conference and the Republican Party."
-    publishedDateTime: 2021-01-22T18:25:00Z
-    webUrl: "https://thehill.com/homenews/house/535385-cheney-tests-trump-grip-on-gop-post-presidency"
-    ampWebUrl: "https://thehill.com/homenews/house/535385-cheney-tests-trump-grip-on-gop-post-presidency?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/535385-cheney-tests-trump-grip-on-gop-post-presidency?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Trump opens \"Office of the Former President\" in Florida"
     excerpt: "Former President Donald Trump announced Monday the official opening of the Palm Beach County, Florida, which is tasked with overseeing the 45th president's official activities in his post-presidency life."
     publishedDateTime: 2021-01-27T11:41:00Z
@@ -110,6 +94,38 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548466641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J18I"
         width: 818
         height: 545
+        isCached: true
+  - title: "Chaos of Trump's last days in office reverberates with fresh 'plot' report"
+    excerpt: "Ex-president, whose Senate impeachment trial will start in two weeks, reportedly planned to oust acting attorney general in bid to overturn election"
+    publishedDateTime: 2021-01-23T13:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/6cc7a11350a4b08cff15732085b6cd0c07a383e8/0_188_2837_1703/master/2837.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dc5bd61e9b0dc76199d6d0771b4bd07"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Bipartisan Senate duo crafts censure resolution that might bar Trump from office"
+    excerpt: "With the outcome of former President Donald Trump’s second impeachment trial all but certain to end without a conviction, a bipartisan pair of senators is working on a resolution that for just the second time in history would censure a U."
+    publishedDateTime: 2021-01-27T22:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/susan-collins-ap-jef-210127_1611784510838_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency"
     excerpt: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"

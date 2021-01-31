@@ -29,44 +29,60 @@ images:
     isCached: true
 
 related:
-  - title: "Republican congressman played a role in Trump's campaign to fight election loss: NYT"
-    excerpt: "A Republican U.S. congressman played a role in ex-President Donald Trump's efforts to oust the top Justice Department official and replace him with a loyalist willing to support efforts to overturn his election defeat,"
-    publishedDateTime: 2021-01-24T19:46:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0FS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0FS"
+  - title: "Pence plans to form political group as he moves beyond time with Trump and Capitol riot"
+    excerpt: "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused political committee that would help him maintain a relationship with donors,"
+    publishedDateTime: 2021-01-31T13:59:00Z
+    webUrl: "https://www.cnbc.com/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 133
+      name: CNBC
+      domain: cnbc.com
+    quality: 132
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548877639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N093"
-        width: 817
-        height: 545
+      - url: "https://image.cnbcfm.com/api/v1/image/106820378-1609982678273-AP21007045774819.jpg?v=1612099871"
+        width: 1997
+        height: 1331
         isCached: true
-  - title: "GOP Congresswoman on voting to impeach Trump: \"I felt like I had to\""
-    excerpt: "In an unprecedented vote Donald Trump become the first president to be impeached twice; Jaime Herrera Beutler explains why she joined other Republicans in voting \"yes.\""
-    publishedDateTime: 2021-01-17T14:55:00Z
-    webUrl: "https://www.cbsnews.com/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
+  - title: "Lawyer group: Trump adds ex-prosecutor to impeachment team"
+    excerpt: "Donald Trump is adding another attorney from South Carolina to his impeachment legal team: a former federal prosecutor-turned-defense attorney who specializes in white-collar crime"
+    publishedDateTime: 2021-01-26T08:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d5306b2cfcd64cb696a6ddf36ddcb3b2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Senate receives article of impeachment against Trump"
+    excerpt: "The article of impeachment against President Trump has been delivered to the Senate, and House impeachment managers presented, exhibited and read it aloud. The trial is set to begin the week of February 8."
+    publishedDateTime: 2021-01-26T12:23:00Z
+    webUrl: "https://www.cbsnews.com/news/senate-articles-of-impeachment-donald-trump/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/senate-articles-of-impeachment-donald-trump/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/senate-articles-of-impeachment-donald-trump/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/17/94c6d7ab-08fb-498a-9a67-01de81e8a1bd/thumbnail/1200x630/4283d5e6e42882d4eef834bf4274df93/jaime-herrera-beutler-a-1280.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/0fdec909-ae2b-411c-8627-853e30a4ec11/thumbnail/1200x630/71356b076f82a4707fdd684483bfcce5/gettyimages-1298447143.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump pardons in California extend to former congressman"
-    excerpt: "Rep. Randy “Duke” Cunningham admitted in 2005 to accepting $2.4 million in illegal gifts from defense contractors in exchange for government contracts and other favors, it was considered the largest b"
-    publishedDateTime: 2021-01-21T04:34:00Z
-    webUrl: "https://www.washingtonpost.com/national/trump-pardons-in-california-extend-to-former-congressman/2021/01/20/0a82176e-5b78-11eb-a849-6f9423a75ffd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/trump-pardons-in-california-extend-to-former-congressman/2021/01/20/0a82176e-5b78-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-pardons-in-california-extend-to-former-congressman/2021/01/20/0a82176e-5b78-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+  - title: "City council approves bill condemning Trump for Capitol riot"
+    excerpt: "A city council in Maryland unanimously approved a resolution condemning former President Donald Trump for the violent siege of the U.S. Capitol"
+    publishedDateTime: 2021-01-26T20:55:00Z
+    webUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -77,69 +93,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Facebook's oversight board to rule on Trump ban"
-    excerpt: "Facebook is passing the buck for its indefinite suspension of former president Donald Trump to a quasi-independent oversight board, setting up a major test of the recently established panel"
-    publishedDateTime: 2021-01-21T18:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_1ad850f0ef8142389a126a58050fcfca_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Arizona Republicans reelect fervent Trump ally as chair"
-    excerpt: "Arizona Republicans on Saturday reelected Kelli Ward as party chair, giving a second term to one of Donald Trump’s most unflinching supporters even after the GOP lost ground in the state last year"
-    publishedDateTime: 2021-01-23T23:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Nightline/210123_ntl_politics_1239_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Power Up: Republican rift widens over Trump impeachment"
-    excerpt: "House lawmakers will tonight deliver to the Senate a single article of impeachment against former president Donald Trump, alleging “incitement of insurrection” in a trial set to start Feb. 9. The delay may help President Biden confirm some of his Cabinet nominees."
-    publishedDateTime: 2021-01-25T16:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/?outputType=amp"
+  - title: "Florida’s Trump Plaza residents move to change name"
+    excerpt: "The residents of a South Florida condo complex want former President Donald Trump’s name officially removed from their home following the siege at the U.S. Capitol earlier this month"
+    publishedDateTime: 2021-01-27T00:46:00Z
+    webUrl: "https://www.washingtonpost.com/national/floridas-trump-plaza-residents-move-to-change-name/2021/01/26/ca15ff5e-6038-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/floridas-trump-plaza-residents-move-to-change-name/2021/01/26/ca15ff5e-6038-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/floridas-trump-plaza-residents-move-to-change-name/2021/01/26/ca15ff5e-6038-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4PXJQ4C6ZYI6XILXO5S7FGUVEQ.jpg&w=1440"
-        width: 1440
-        height: 981
-        isCached: true
-  - title: "U.S. Senate blocks constitutional challenge to Trump impeachment trial"
-    excerpt: "The U.S. Senate voted 55-45 on Tuesday to block a Republican effort to upend plans for former President Donald Trump's impeachment trial on a charge that he incited the deadly Jan. 6 assault on the U."
-    publishedDateTime: 2021-01-27T02:25:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUKKBN29V2JI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29V2JI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29V2JI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1FA"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "U.S. Senate kills Republican move to upend Trump impeachment trial"
     excerpt: "The U.S. Senate on Tuesday rejected a Republican effort to stop former President Donald Trump's upcoming impeachment trial on a charge that he incited the deadly Jan. 6 assault on the U.S. Capitol."
@@ -157,117 +125,165 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump censure faces tough odds in Senate"
-    excerpt: "Senators are discussing a long-shot, bipartisan effort to censure former President Trump over the Jan. 6 Capitol attack."
-    publishedDateTime: 2021-01-27T23:47:00Z
-    webUrl: "https://thehill.com/homenews/senate/536210-trump-censure-faces-tough-odds-in-senate"
-    ampWebUrl: "https://thehill.com/homenews/senate/536210-trump-censure-faces-tough-odds-in-senate?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536210-trump-censure-faces-tough-odds-in-senate?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_01202021_getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "In fight over GOP, state parties stand as firewall for Trump"
-    excerpt: "As former President Donald Trump faces an impeachment trial on a charge of inciting insurrection, state and county Republican Party committees have rushed to Trump’s defense"
-    publishedDateTime: 2021-01-29T10:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/in-fight-over-gop-state-parties-stand-as-firewall-for-trump/2021/01/29/f137710a-61f3-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/in-fight-over-gop-state-parties-stand-as-firewall-for-trump/2021/01/29/f137710a-61f3-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-fight-over-gop-state-parties-stand-as-firewall-for-trump/2021/01/29/f137710a-61f3-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Republicans condemned Trump. Now they’re seeking his help."
-    excerpt: "President Donald Trump culpable in the attack on the nation’s Capitol as Washington leaders recoiled from the violence"
-    publishedDateTime: 2021-01-29T05:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/republicans-condemned-trump-now-theyre-seeking-his-help/2021/01/29/d0c3d1f4-61f1-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/republicans-condemned-trump-now-theyre-seeking-his-help/2021/01/29/d0c3d1f4-61f1-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/republicans-condemned-trump-now-theyre-seeking-his-help/2021/01/29/d0c3d1f4-61f1-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "RNC planning to invite Trump to donor retreat"
-    excerpt: "The Republican National Committee is planning to invite former President Trump to their spring donor meeting in April, two sources confirmed to CBS News. The news comes as the RNC tries to figure out its post-Trump future and amid his polarizing impeachment and the loss of two high-profile Senate seats in Georgia,"
-    publishedDateTime: 2021-01-30T12:21:00Z
-    webUrl: "https://www.cbsnews.com/news/rnc-trump-donor-retreat/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/rnc-trump-donor-retreat/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rnc-trump-donor-retreat/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/08/25eff11d-537e-4b99-9152-d0d2ce6c02cf/thumbnail/1200x630/100749457213874796757902361b5d4b/gettyimages-884449684.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Chaos of Trump's last days in office reverberates with fresh 'plot' report"
-    excerpt: "Ex-president, whose Senate impeachment trial will start in two weeks, reportedly planned to oust acting attorney general in bid to overturn election"
-    publishedDateTime: 2021-01-23T13:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/6cc7a11350a4b08cff15732085b6cd0c07a383e8/0_188_2837_1703/master/2837.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dc5bd61e9b0dc76199d6d0771b4bd07"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Members of Trump campaign behind rally that ignited US Capitol riot, records show"
-    excerpt: "Members of President Donald Trump’s failed presidential campaign played key roles in orchestrating the Washington rally that spawned a deadly assault on the U.S. Capitol."
-    publishedDateTime: 2021-01-17T19:44:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html?outputType=amp"
+  - title: "Analysis: McConnell was done with Trump. His party said not so fast."
+    excerpt: "Mitch McConnell had finally had enough. But with most Republicans rallying around Trump, he sided with his colleagues trying to throw out the impeachment case."
+    publishedDateTime: 2021-01-28T02:51:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/t7VpUy5QxEECbcVgOLtJwrLwgqc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IT6YI775GRH4NHVWSC4CLPP6KQ.aspx"
+      - url: "https://www.chicagotribune.com/resizer/ep6Q1vD4mePB-iDVbF8MWftnQD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MOWKPUEBW73M7CU3NULPPZFH7A.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Bipartisan Senate duo crafts censure resolution that might bar Trump from office"
-    excerpt: "With the outcome of former President Donald Trump’s second impeachment trial all but certain to end without a conviction, a bipartisan pair of senators is working on a resolution that for just the second time in history would censure a U."
-    publishedDateTime: 2021-01-27T22:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+  - title: "Trump's influence grows in party with uncertain future: The Note"
+    excerpt: "Things are breaking Trump's way -- despite or even because of the turmoil inside the Republican Party. State parties and activists are lining up behind him, prospects for impeachment conviction are fading fast and President Joe Biden's executive orders and progressive priorities are making it easier for the GOP to find unified messaging."
+    publishedDateTime: 2021-01-28T11:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/susan-collins-ap-jef-210127_1611784510838_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/trump-13-gty-ml-210120_1611152722603_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Donald Trump and the verdict of history: ANALYSIS"
+    excerpt: "Not yet out of office for a week and still a political force, Donald Trump’s place in history, let alone his sentence, is bound to be debated for years to come."
+    publishedDateTime: 2021-01-28T16:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-fla-20-rt-ml-210120_1611159652714_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump team hires 2 ex-prosecutors with ethics experience"
+    excerpt: "Donald Trump has added two more former federal prosecutors from South Carolina to his impeachment legal team, according to one of the lawyers. “It is confirmed,” Greg Harris, an attorney in the capital city of Columbia,"
+    publishedDateTime: 2021-01-29T02:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_99dde2878a054f718926d2e0a62bcdf9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump parts with lawyers before impeachment trial"
+    excerpt: "Former US President Donald Trump has parted ways with lawyers representing him in his impeachment trial in the Senate, US media report. The departure of Butch Bowers and Deborah Barberi was reportedly a mutual decision."
+    publishedDateTime: 2021-01-31T06:01:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55876035"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55876035"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55876035"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/16642/production/_116741719_29b1dce7-7a82-46fc-85c8-1bfb55980fa9.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Top Trump donor funded rally that preceded U.S. Capitol riot - WSJ"
+    excerpt: "An heiress to the Publix Super Markets chain donated about $300,000 to fund a rally that preceded the deadly storming of the U.S. Capitol this month by supporters of former President Donald Trump, the Wall Street Journal reported on Saturday."
+    publishedDateTime: 2021-01-31T04:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-riots-idUSKBN29Z0QP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Z0QP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Z0QP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210130&t=2&i=1549678697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0T0HT"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump appears to be without a legal team as impeachment trial nears"
+    excerpt: "Former President Donald Trump’s legal team is unclear and undefined with just over a week to go before his second impeachment trial begins in the Senate, according to Trump adviser Jason Miller."
+    publishedDateTime: 2021-01-31T14:05:00Z
+    webUrl: "https://www.cnbc.com/2021/01/31/trump-appears-to-be-without-a-legal-team-as-impeachment-trial-nears.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/31/trump-appears-to-be-without-a-legal-team-as-impeachment-trial-nears.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/31/trump-appears-to-be-without-a-legal-team-as-impeachment-trial-nears.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106824226-16105867462021-01-13t233516z_1810006452_rc2b7l9elbhw_rtrmadp_0_usa-trump-remarks.jpeg?v=1610586791"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump parts with impeachment lawyers a week before trial"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his trial"
+    publishedDateTime: 2021-01-31T03:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "House Democrats building elaborate, emotionally charged case against Trump"
+    excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
+    publishedDateTime: 2021-01-30T06:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/house-democrats-building-elaborate-emotionally-charged-case-against-trump/2021/01/29/d35170fe-626c-11eb-9061-07abcc1f9229_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/house-democrats-building-elaborate-emotionally-charged-case-against-trump/2021/01/29/d35170fe-626c-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/house-democrats-building-elaborate-emotionally-charged-case-against-trump/2021/01/29/d35170fe-626c-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FMH3OOCV64I6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 1119
+        isCached: true
+  - title: "Diverse team of U.S. House Democrats to lead Trump's second impeachment trial"
+    excerpt: "The nine Democratic lawmakers who will prosecute ex-President Donald Trump in his impeachment trial reflect America's racial, ethnic and sexual diversity, in stark contrast to the white nationalist imagery that marked the mob of Trump supporters who stormed the Capitol."
+    publishedDateTime: 2021-01-25T11:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-managers-idUSKBN29U13O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U13O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U13O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548960735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O0OP"
+        width: 817
+        height: 545
         isCached: true
   - title: "Senate Republicans unite behind failed effort to challenge Trump impeachment trial"
     excerpt: "Forty-five Senate Republicans backed a failed effort on Tuesday to halt former President Donald Trump's impeachment trial, in a show of party unity that some cited as a clear sign he will not be convicted of inciting insurrection at the Capitol."
@@ -285,139 +301,101 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "'Trumpocalypse' is over. Why the anti-Trump billboard in downtown Phoenix is coming down"
-    excerpt: "Trumpocalypse,' the anti-Donald Trump billboard in downtown Phoenix is being replaced. The controversial Grand Ave. billboard will feature new images"
-    publishedDateTime: 2021-01-24T15:07:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/arts/2021/01/24/donald-trump-billboard-downtown-phoenix/6665056002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6665056002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6665056002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/8748c6c4833f4d286dc7aab150adee2b64263865/c=0-173-4890-2936/local/-/media/2017/05/12/Phoenix/Phoenix/636302166299134058--20170319-Trump-billboard-0065.JPG?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "Trump jumps into a divisive battle over the Republican Party — with a threat to start a ‘MAGA Party’"
-    excerpt: "The former president, in his first political activity since leaving office, endorses an ally for Arizona party chair who backed his false claims of election fraud."
-    publishedDateTime: 2021-01-24T04:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R4WSECC3KMI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Consumer Financial Protection Bureau, muzzled under Trump, prepares to renew tough industry oversight"
-    excerpt: "After taking a largely hands-off approach in the Trump era, the consumer watchdog hatched by Elizabeth Warren is expected to resume issuing tough penalties and rules."
-    publishedDateTime: 2021-01-27T18:10:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/01/27/cfpb-rohit-chopra-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/27/cfpb-rohit-chopra-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/27/cfpb-rohit-chopra-biden/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JUAYV5KBDJEV7EUUGUMF2FCIFQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Manhattan DA unlikely to run for reelection, as office investigates former President Donald Trump"
-    excerpt: "It looks as though Manhattan's District Attorney Cy Vance Jr. is not making plans to run for reelection. State financial records reveal he has only raised just over $4,000 ahead of the Democratic primary in June."
-    publishedDateTime: 2021-01-27T20:26:00Z
-    webUrl: "https://www.cbsnews.com/video/manhattan-district-attorney-cyrus-vance-reelection-investigation-donald-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 107
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/27/e8ca6456-7cbb-4b3d-a779-ca29fba02469/thumbnail/1200x630/ea1b5fda3766cc9c687f4bc9a56f1f3e/cbsn-fusion-manhattan-district-attorney-cyrus-vance-reelection-investigation-donald-trump-thumbnail-634350-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Hundreds of publishing industry figures have signed an open letter in opposition to a potential Trump memoir"
-    excerpt: "Hundreds of authors, editors, and agents signed an open letter asking the world's publishers to skip a post-presidency memoir from Donald Trump."
-    publishedDateTime: 2021-01-22T10:27:00Z
-    webUrl: "https://www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/60044f8de3d62500185fcf8e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Arizona Republicans Censure Party Leaders At Odds With Trump"
-    excerpt: "State GOP members passed resolutions at a meeting on Saturday to condemn three party leaders who they said failed to support President Trump: Gov. Doug Ducey, former Sen. Jeff Flake and Cindy McCain."
-    publishedDateTime: 2021-01-24T03:10:00Z
-    webUrl: "https://www.npr.org/2021/01/23/959974795/arizona-republicans-censure-party-leaders-at-odds-with-trump"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
-        width: 800
-        height: 800
-        isCached: true
-  - title: "GOP lawmaker part of Trump's plan to oust AG -NYT"
-    excerpt: "NYT. Posted . A Republican U.S. congressman played a key role in former President Donald Trump's efforts to remove the to"
-    publishedDateTime: 2021-01-25T00:01:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVDWKJPM3"
+  - title: "Former Trump White House press secretary plans to run for governor of Arkansas: source"
+    excerpt: "Donald Trump's former White House press secretary Sarah Sanders will announce plans on Monday to run for governor of Arkansas, a source familiar with the situation said on Sunday."
+    publishedDateTime: 2021-01-25T06:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-press-secretary-idUSKBN29U04U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U04U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U04U"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
+    quality: 117
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210124&i=OVDWKJPM3&r=OVDWKJPM3&t=2"
-        width: 960
-        height: 540
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548913963&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O02I"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Republicans face uncertain future in post-Trump era"
-    excerpt: "The third highest-ranking Republican in the House, Congresswoman Liz Cheney of Wyoming, is facing backlash following her support for impeaching former President Donald Trump. CBS News Capitol Hill producer Rebecca Kaplan joins \"CBSN AM\" to discuss the divisions within the GOP."
-    publishedDateTime: 2021-01-25T14:23:00Z
-    webUrl: "https://www.cbsnews.com/video/republican-party-post-trump-divisions/"
+  - title: "Parents loved Taking Cara Babies' sleep tips. Then they found out she donated to Trump"
+    excerpt: "Cara Dumaplin's sleep tips for babies were \"life-changing.\" Then her followers learned she donated to Donald Trump. Here's how the drama unfolded."
+    publishedDateTime: 2021-01-29T21:01:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/media/2021/01/29/taking-cara-babies-trump-donations/4276997001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4276997001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4276997001"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/25/c97f4332-6590-4643-8683-d132f8c2bfa2/thumbnail/1200x630/5c699f42fa172802dca2b8e49dd7e31d/cbsn-fusion-republicans-face-uncertain-future-in-post-trump-era-thumbnail-632647-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/28/PPHX/987a56a3-98e0-4333-95ee-1099d7e324b3-Cara_Dumaplin_video_screenshot.png?auto=webp&crop=1142,642,x165,y13&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Trump Impeachment Trial Rules Remain a Work in Progress"
-    excerpt: "The same Senate chamber that was overrun by insurrectionists will become a somber court for Donald Trump’s impeachment trial, as senators weigh whether to make him the first president permanently disqualified from federal office."
-    publishedDateTime: 2021-01-25T22:17:00Z
-    webUrl: "https://www.washingtonpost.com/business/trump-impeachment-trial-rules-remain-a-work-in-progress/2021/01/25/44c2505e-5f4e-11eb-a177-7765f29a9524_story.html"
+  - title: "Pentagon halted political appointments for Trump allies to join defense advisory boards"
+    excerpt: "Among those affected are Corey Lewandowski, Trump's 2016 presidential campaign manager, and David Bossie, a deputy campaign manager for Trump."
+    publishedDateTime: 2021-01-30T16:57:00Z
+    webUrl: "https://www.businessinsider.com/pentagon-advisory-military-boards-lloyd-austin-review-trump-loyalists-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pentagon-advisory-military-boards-lloyd-austin-review-trump-loyalists-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-advisory-military-boards-lloyd-austin-review-trump-loyalists-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/60158b376dfbe10018e00ee9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "As the numbers suggest a Trump acquittal, Senators explore censure and brace for impeachment trial"
+    excerpt: "Senate Democrats explored how to make their impeachment case against former President Donald Trump a day after a vote suggested he will be acquitted."
+    publishedDateTime: 2021-01-27T22:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/27/trump-impeachment-senators-floating-censure-after-rand-paul-motion/4280256001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4280256001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4280256001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/27/USAT/062d1fae-0a45-404c-8dda-c62f7a87ee96-durbin.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Power Up: And then there were five. Republicans, that is, willing to hold a Trump impeachment trial"
+    excerpt: "Mitch McConnell isn't breaking with Trump, after all, as he voted to dismiss the impeachment trial because, 45 Republicans say, it's unconstitutional to convict a former president."
+    publishedDateTime: 2021-01-27T16:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 105
+    quality: 111
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQMOHQC7JYI6XILXO5S7FGUVEQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GO2IDXDAIQI6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 810
+        isCached: true
+  - title: "Speaker at Jan. 5 pro-Trump rally charged with encouraging mob, impeding police during Capitol breach"
+    excerpt: "Conservative media darling Brandon Straka was taken into custody. Meanwhile, proceedings continued for other defendants."
+    publishedDateTime: 2021-01-26T06:01:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/brandon-straka-arrested-capitol-riot/2021/01/25/e359ec3a-5f45-11eb-9430-e7c77b5b0297_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/brandon-straka-arrested-capitol-riot/2021/01/25/e359ec3a-5f45-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/brandon-straka-arrested-capitol-riot/2021/01/25/e359ec3a-5f45-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FFPPEFCQMYI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 954
         isCached: true
   - title: "GOP signals unwillingness to part with Trump after riot"
     excerpt: "Donald Trump has lost his social media megaphone, the power of government and the unequivocal support of his party's elected leaders. But a week after leaving the White House in disgrace, a large-scale Republican defection that would ultimately purge him from the party appears unlikely."
@@ -430,61 +408,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Republicans face uncertain future in post-Trump era"
-    excerpt: "The third highest-ranking Republican in the House, Congresswoman Liz Cheney of Wyoming, is facing backlash following her support for impeaching former President Donald Trump. CBS News Capitol Hill producer Rebecca Kaplan joins \"CBSN AM\" to discuss the divisions within the GOP."
-    publishedDateTime: 2021-01-27T02:28:00Z
-    webUrl: "https://www.cbsnews.com/video/republican-party-post-trump-divisions-rebecca-kaplan-analysis-2021-01-25/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/25/c97f4332-6590-4643-8683-d132f8c2bfa2/thumbnail/1200x630/5c699f42fa172802dca2b8e49dd7e31d/cbsn-fusion-republicans-face-uncertain-future-in-post-trump-era-thumbnail-632647-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Morgan Lewis can't withhold Trump organization docs in NY AG probe"
-    excerpt: "A Manhattan state judge on Friday ordered Morgan, Lewis & Bockius to turn over documents related to its representation of the Trump Organization, ruling the law firm had marked some of its communications with former U."
-    publishedDateTime: 2021-01-30T01:14:00Z
-    webUrl: "https://www.reuters.com/article/lawyer-trump-morgan-lewis-idUSL1N2K501M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K501M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K501M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "45 Republican senators vote to dismiss impeachment of Donald Trump – video"
-    excerpt: "Procedural objection fails but indicates stiff challenge of persuading 17 Republicans to vote for conviction"
-    publishedDateTime: 2021-01-27T07:16:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/27/45-republican-senators-vote-to-dismiss-impeachment-of-donald-trump-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 103
-    images:
-      - url: "https://i.guim.co.uk/img/media/0844704df82f4796af80e7f1e6f95cf827963e81/97_0_2806_1684/master/2806.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c41ec6354e9a140528caf6e8d6d93171"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "45 Republicans voted to declare Trump's Senate impeachment trial unconstitutional, all but guaranteeing his acquittal"
-    excerpt: "Kentucky Sen. Rand Paul forced the upper chamber to vote on the constitutionality of even holding a trial."
-    publishedDateTime: 2021-01-26T22:30:00Z
-    webUrl: "https://www.businessinsider.com/republicans-democrats-clash-over-trump-impeachment-constitutional-senate-trial-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/republicans-democrats-clash-over-trump-impeachment-constitutional-senate-trial-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-democrats-clash-over-trump-impeachment-constitutional-senate-trial-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5fc98aa8b6a3a800199b682b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Republicans back away from confronting Trump and his loyalists after the Capitol insurrection, embracing them instead"
     excerpt: "Powerful party leaders are trying to avoid a divisive battle to improve their odds of reclaiming power in 2022."
     publishedDateTime: 2021-01-28T06:59:00Z
@@ -501,121 +424,95 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump allies and Republican lawmakers lost thousands of followers in Twitter purge after Capitol riots"
-    excerpt: "Republican lawmakers lost thousands of followers when Twitter purged QAnon accounts following the violent mob attack on the Capitol stoked by Trump."
-    publishedDateTime: 2021-01-17T21:55:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2021/01/15/trump-republican-lawmakers-follower-counts-slashed-twitter-purge/4168064001/"
+  - title: "Joe Scarborough: 'Mike Pence is in fear for his life because of Donald J. Trump'"
+    excerpt: "MSNBC co-host Joe Scarborough said Wednesday morning that former Vice President Mike Pence is “in fear for his life” because of former President Donald Trump’s actions leading up to the U.S. Capitol riot."
+    publishedDateTime: 2021-01-27T17:02:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 89
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 85
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/01/14/USATODAY/usatsports/twitter-white-house-trump.jpg?width=1600&height=800&fit=crop"
-        width: 1600
-        height: 800
-        isCached: true
-  - title: "As Trump's impeachment trial nears, Republicans mull questions on party's future"
-    excerpt: "As former president Donald Trump’s second impeachment nears, lawmakers discussed on Jan. 31 whether he should be held accountable for the Capitol breach."
-    publishedDateTime: 2021-01-31T18:35:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/as-trumps-impeachment-trial-nears-republicans-mull-questions-on-partys-future/2021/01/31/622e876b-2a4a-4ca4-8c1d-8061eb17c6ba_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 80
-  - title: "The Republican Party is in disarray post-Trump and faces a crisis bigger than after Watergate, says veteran GOP Congressman"
-    excerpt: "A rift has opened between GOP lawmakers who want Trump's legacy purged and lawmakers and grassroots supporters who remain steadfastly loyal."
-    publishedDateTime: 2021-01-31T11:43:00Z
-    webUrl: "https://www.businessinsider.com/post-trump-republican-crisis-bigger-than-watergate-says-gop-veteran-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/60168014d6c5e60019c6e1dd?width=1200&format=jpeg"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/27/scarborough_c35-0-900-505_s1200x700.jpg?3b9cfe2c93ef070d968f1facefb8412d0ec504ee"
         width: 1200
-        height: 600
+        height: 700
         isCached: true
-  - title: "GOP to stay neutral should Donald Trump run again"
-    excerpt: "The head of the Republican National Committee on Wednesday declined to encourage former President Donald Trump to run for the White House in 2024, saying the GOP would stay “neutral” in its next presidential primary."
-    publishedDateTime: 2021-01-27T22:33:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/01/gop-to-stay-neutral-should-donald-trump-run-again.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/01/gop-to-stay-neutral-should-donald-trump-run-again.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/gop-to-stay-neutral-should-donald-trump-run-again.html?outputType=amp"
+  - title: "What’s Next For Trump? His Plans As Impeachment Article Hits Senate"
+    excerpt: "Former President Donald Trump is opening a new office in Florida on Monday that will carry on his admininstration's administration, an announcement he made as the House delivered a single article of impeachment to the Senate."
+    publishedDateTime: 2021-01-26T12:26:00Z
+    webUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886"
+    ampWebUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hits-senate-3130886?amp=1"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AT5FBR475NGFHB2ZYFQMPUZA7I.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
+        width: 1024
+        height: 696
+        isCached: true
+  - title: "Trump parts with impeachment lawyers as trial nears"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his Senate trial is set to begin, two people familiar with the situation said Saturday. Butch Bowers and Deborah Barbier,"
+    publishedDateTime: 2021-01-31T03:54:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CFCWJBCEGNBDZJCBFMKGIX5HIM.jpg"
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump Mulled Replacing Attorney General Over Election Results: US Media"
-    excerpt: "Donald Trump considered replacing then-acting US attorney general Jeffrey A. Rosen with a Justice Department lawyer who would help him force Georgia officials to overturn the state's election result,"
-    publishedDateTime: 2021-01-23T07:44:00Z
-    webUrl: "https://www.ibtimes.com/trump-mulled-replacing-attorney-general-over-election-results-us-media-3128886"
+  - title: "Trump parts with impeachment lawyers a week before trial"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his Senate trial is set to begin, two people familiar with the situation said Saturday. Butch Bowers and Deborah Barbier,"
+    publishedDateTime: 2021-01-31T16:48:00Z
+    webUrl: "https://www.chron.com/politics/article/Trump-loses-lead-impeachment-lawyers-15912221.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/Trump-loses-lead-impeachment-lawyers-15912221.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Trump-loses-lead-impeachment-lawyers-15912221.php"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/23/donald-trump-mulled-replacing-the-acting-us-attorney.jpg"
-        width: 1024
-        height: 760
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Donald Trump: From The American Dream To American Nightmare"
-    excerpt: "When Donald Trump looks down for the last time from his helicopter over the White House lawn Wednesday, the wreckage of his presidency will be inescapable. The showman with the dyed blond hair, fake tan and a knack for connecting with crowds took office four years ago,"
-    publishedDateTime: 2021-01-18T00:33:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-american-dream-american-nightmare-3124343"
+  - title: "House To Send Trump Impeachment Article To Senate, Triggering Trial"
+    excerpt: "The US House of Representatives is to deliver a single article of impeachment to the Senate on Monday accusing Donald Trump of inciting the storming of the Capitol, triggering the first-ever impeachment trial of a former president."
+    publishedDateTime: 2021-01-25T17:30:00Z
+    webUrl: "https://www.ibtimes.com/house-send-trump-impeachment-article-senate-triggering-trial-3130178"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/us-president-donald-trump-kisses-german-chancellor-angela.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
         width: 1024
-        height: 682
+        height: 714
         isCached: true
-  - title: "Republicans condemned Donald Trump. Now they’re seeking his help"
-    excerpt: "House Republican leader Kevin McCarthy declared Donald Trump culpable in the deadly attack on the U.S. Capitol. By Thursday, he was seeking his political support."
-    publishedDateTime: 2021-01-29T15:04:00Z
-    webUrl: "https://www.ajc.com/news/nation-world/republicans-condemned-donald-trump-now-theyre-seeking-his-help/KWYJ7M5QOFFTHDR4QMTQL72XQI/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 55
-    images:
-      - url: "https://www.ajc.com/resizer/WS-SVnSWaN5aLUubCQaDwdiRJXk=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/DOMQFJO3C5H5EDNKDUMTEHRHFU.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "U.S. Republicans Grapple With Internal Divisions as Trump Trial Looms"
-    excerpt: "U.S. congressional Republicans face a week of reckoning ahead of Donald Trump's second impeachment trial as the former president contends with a Tuesday deadline to respond to the charges and his party mulls whether to depose Liz Cheney as one of its House of Representatives leaders for backing impeachment."
-    publishedDateTime: 2021-01-31T20:21:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-31/us-republicans-grapple-with-internal-divisions-as-trump-trial-looms"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-31/us-republicans-grapple-with-internal-divisions-as-trump-trial-looms?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-31/us-republicans-grapple-with-internal-divisions-as-trump-trial-looms?context=amp"
+  - title: "Cowboys for Trump Leader Refuses Virus Test in Jail"
+    excerpt: "The jailed leader of Cowboys for Trump has been held in solitary isolation for two weeks as he refused to take a coronavirus test."
+    publishedDateTime: 2021-01-30T03:21:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail"
+    ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Most Pennsylvania GOP Backed Trump to the End, and Still Do"
-    excerpt: "With Donald Trump out of the White House, Pennsylvania’s Republican Party shows no sign of walking away from a president who lost control of Congress, carried out an unprecedented campaign to overturn an election and is blamed by some in his party for inciting a violent assault on the country’s democracy."
-    publishedDateTime: 2021-01-21T12:14:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-01-21/most-pennsylvania-gop-backed-trump-to-the-end-and-still-do"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "V+jSHz06Z7e+YlMsWZ2MzR7BaUgXp9iDLMptDnuixRysWm0fxaq6VdLgpB1re8iEnLIEXXSuWNoaB3SoinBZygsVEPkBe4XbMHHbF6iW/4CjTFhc3MnHSBwH3wfVr4W76l3jfAezBl9s+g8J4+ioObDq8lF0hrGuSRSl1rdIdrFxUuyEK8HGRMRmCQ+cmrJsRM30182ggoZRD4uvbnSS1ffdiAl0Eo6BXBZXVpbS/MZOvHu2vOAkjYrirW1k8E5FF6s8Vbrh9wc1rPjaZUg6bTZyNVCnrRdXm4C4ewLs+jBEmQK0yNFE0y54/wawNwkUkUwcCID7YhrMbXsQKKExsBk+zVRJmYtTlzr5WjYC62m0gHWBgy6K+xWC66CM72elqTDg9JHWNTFmtccstHMmZXjR8roOUb6kPaOrEHoXiOYvsS73XoBAibz7YR+alsk3EL/KyWuEQ84ZobxEndaatTw94EoQYRfG6ldw0UBGLhChglytASZpeTAMNfHNJSAUgu7493yp6aJAHYVNI4BAKg==;YQ47d3OEmDr4KvzyrHwYAg=="
 ---

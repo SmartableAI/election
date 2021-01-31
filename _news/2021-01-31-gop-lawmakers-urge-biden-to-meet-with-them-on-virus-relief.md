@@ -3,10 +3,10 @@ category: news
 title: "GOP lawmakers urge Biden to meet with them on virus relief"
 excerpt: "A group of Senate Republicans has called on President Joe Biden to meet them at the negotiating table as the newly elected president signals he could move to pass a new $1.9 trillion coronavirus aid p"
 publishedDateTime: 2021-01-31T15:34:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596660"
-webUrl: "https://abcnews.go.com/Health/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596660"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596660"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596660"
+originalUrl: "https://abcnews.go.com/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
+webUrl: "https://abcnews.go.com/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
 type: article
 quality: 125
 heat: -1
@@ -240,6 +240,6 @@ related:
         height: 683
         isCached: true
 
-secured: "q2z2weJKgj7vOOvL37X/M/EPcPtAeTwzXqkTMC5zvdPrqGszCWheLXuM84uQ3fBr1Mch2x2Cs8iSkBpBh7v56dCpMX7zKvXGgp/N+r5x3qrwIewNIIoPxahnLSKsDx7JIaywA7VUpJgNvfUfgP8K0lmXMa5s5R5JzBFFiuSPllyQpNVJeSyhbg333nhrvXEvfA5AinZ4Gu8di0vVvcXx2mVbrwxGP5k7b17PCi1GdPqAAVgk2W7JOiZAsJI45VpEzfLSMjK3l3/XqYLCVkRmGvd3YbZiWZPy3/AjsGf0d/HYn1bEJrmXfk/KHLEQ73yJBI1P/8KF1jDvMtUQDl11HDi1cGomYkzjDQ52AsMtc6g=;qQpV8S3x0dzxFvIvvQuH8g=="
+secured: "suieaBR86iMOOMB3lGFvbHizK7FbTIdxVN2WphgZM0xpwHJDMR6Wsw32MZ70axdsJidl91NtU3Fs5+qw7cYZgsYlZGxlRcljS+FxxGNMNKzZ7c8Un9vg6O1b54XuUNsRUYMMkK5aMFRGvX/7tPcb9qdh4W3P2pjmKtjiCQH0hPe1I0b6/UE3/2Gl08Va1TMmB89shUnGLzTIIWKAjNSCgbG+tD1xlr0AsdeYwqZ7sl0iTzSrY6sYNYl3+0w9P0ymUvPm21/um5Sr7/2/Bi1RH42y2/E8EcQY/d6cG/uPLACOjUOHZHS9ZblBF7fY4PLUsmw3t9xc77gqgmDkGzsVOdLWa5O1zzUt7mzmjYKTD50=;89lUdQ4PbaZNtSrCrluwjg=="
 ---
 

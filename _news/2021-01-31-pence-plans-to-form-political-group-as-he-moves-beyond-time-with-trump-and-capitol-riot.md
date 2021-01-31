@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-gr
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
 type: article
 quality: 132
-heat: 712
+heat: 752
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "City council seeks input on bill condemning Trump for riot"
-    excerpt: "A city council in Maryland is seeking public input on a resolution that condemns former President Donald Trump for the violent siege of the U.S. Capitol"
-    publishedDateTime: 2021-01-25T14:53:00Z
-    webUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Lawyer group: Trump adds ex-prosecutor to impeachment team"
     excerpt: "Donald Trump is adding another attorney from South Carolina to his impeachment legal team: a former federal prosecutor-turned-defense attorney who specializes in white-collar crime"
     publishedDateTime: 2021-01-26T08:07:00Z
@@ -111,6 +95,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "U.S. Senate kills Republican move to upend Trump impeachment trial"
+    excerpt: "The U.S. Senate on Tuesday rejected a Republican effort to stop former President Donald Trump's upcoming impeachment trial on a charge that he incited the deadly Jan. 6 assault on the U.S. Capitol."
+    publishedDateTime: 2021-01-26T20:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-republican-idUSKBN29V2FL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V2FL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2FL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1F9"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Analysis: McConnell was done with Trump. His party said not so fast."
     excerpt: "Mitch McConnell had finally had enough. But with most Republicans rallying around Trump, he sided with his colleagues trying to throw out the impeachment case."
     publishedDateTime: 2021-01-28T02:51:00Z
@@ -174,22 +174,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_99dde2878a054f718926d2e0a62bcdf9_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "US senators have been sworn in as jurors in Trump's impeachment trial"
-    excerpt: "Senators were sworn in on Tuesday as jurors in former President Donald Trump 's second impeachment trial. A formal summons will now be sent to Trump laying out the charge against him and inviting him to respond in writing."
-    publishedDateTime: 2021-01-29T19:52:00Z
-    webUrl: "https://www.businessinsider.com/senators-sworn-in-jurors-trump-second-impeachment-trial-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/senators-sworn-in-jurors-trump-second-impeachment-trial-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senators-sworn-in-jurors-trump-second-impeachment-trial-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/600ff19567a6bc0019d9af6e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Donald Trump parts with lawyers before impeachment trial"
     excerpt: "Former US President Donald Trump has parted ways with lawyers representing him in his impeachment trial in the Senate, US media report. The departure of Butch Bowers and Deborah Barberi was reportedly a mutual decision."
@@ -284,6 +268,22 @@ related:
     quality: 122
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548960735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O0OP"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Senate Republicans unite behind failed effort to challenge Trump impeachment trial"
+    excerpt: "Forty-five Senate Republicans backed a failed effort on Tuesday to halt former President Donald Trump's impeachment trial, in a show of party unity that some cited as a clear sign he will not be convicted of inciting insurrection at the Capitol."
+    publishedDateTime: 2021-01-27T06:53:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idAFKBN29V2JI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN29V2JI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN29V2JI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1FA"
         width: 817
         height: 545
         isCached: true
@@ -383,19 +383,46 @@ related:
         width: 1440
         height: 954
         isCached: true
-  - title: "Legal analysis of Trump impeachment trial"
-    excerpt: "The House delivered its article of impeachment against former President Trump on Monday. He's charged with inciting the deadly insurrection at the Capitol earlier this month. Jessica Levinson, Loyola Law School professor,"
-    publishedDateTime: 2021-01-26T04:38:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-impeachment-trial-jessica-levinson-analysis-2021-01-25/"
+  - title: "GOP signals unwillingness to part with Trump after riot"
+    excerpt: "Donald Trump has lost his social media megaphone, the power of government and the unequivocal support of his party's elected leaders. But a week after leaving the White House in disgrace, a large-scale Republican defection that would ultimately purge him from the party appears unlikely."
+    publishedDateTime: 2021-01-27T11:26:00Z
+    webUrl: "https://www.businessinsider.com/gop-signals-unwillingness-to-part-with-trump-after-riot-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/gop-signals-unwillingness-to-part-with-trump-after-riot-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-signals-unwillingness-to-part-with-trump-after-riot-2021-1?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
+  - title: "How Trump could mount a presidential campaign even if he's banned from office"
+    excerpt: "A Senate vote to bar former President Trump from public office may not be enough to stop him from running another White House campaign in 2024 — at least for awhile."
+    publishedDateTime: 2021-01-27T15:08:00Z
+    webUrl: "https://www.businessinsider.com/trump-2024-presidential-campaign-despite-impeachment-trial-conviction-banned-office-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/870ea0d8-9185-41f6-bbf5-fc75ad2736d2/thumbnail/1200x630/ead47aa2d8d46155a20fe2c8ae8548f4/cbsn-fusion-trump-impeachment-trial-jessica-levinson-analysis-2021-01-25-thumbnail-633279-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.insider.com/60109b811d2df20018b7106e?width=700"
+        width: 700
+        height: 525
+        isCached: true
+  - title: "Republicans back away from confronting Trump and his loyalists after the Capitol insurrection, embracing them instead"
+    excerpt: "Powerful party leaders are trying to avoid a divisive battle to improve their odds of reclaiming power in 2022."
+    publishedDateTime: 2021-01-28T06:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/riot-republicans-trump-impeachment/2021/01/27/b13633fe-60b6-11eb-9061-07abcc1f9229_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/riot-republicans-trump-impeachment/2021/01/27/b13633fe-60b6-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/riot-republicans-trump-impeachment/2021/01/27/b13633fe-60b6-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QRNMS5Q7VQI6XORB6LYAD4CVJM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Joe Scarborough: 'Mike Pence is in fear for his life because of Donald J. Trump'"
     excerpt: "MSNBC co-host Joe Scarborough said Wednesday morning that former Vice President Mike Pence is “in fear for his life” because of former President Donald Trump’s actions leading up to the U.S. Capitol riot."

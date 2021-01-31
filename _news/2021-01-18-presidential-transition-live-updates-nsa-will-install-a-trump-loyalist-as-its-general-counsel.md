@@ -2568,6 +2568,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump left Biden a $30 billion fund used for trade wars. Biden has other plans for it."
+    excerpt: "A Depression-era financial institution was used by the Trump administration to dole out billions to farmers. Now the Biden team has their own ideas about how the money should be spent."
+    publishedDateTime: 2021-01-31T16:26:00Z
+    webUrl: "https://www.politico.com/news/2021/01/31/usda-agriculture-tug-of-war-463843"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 122
+    images:
+      - url: "https://static.politico.com/72/4e/41eac7394847ac4de7421290a136/210129-vilsack-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump denounces insurrection, after getting impeached over it"
     excerpt: "The president, in a new video, called on his supporters not to engage in violent demonstrations that federal law enforcement warns might be brewing."
     publishedDateTime: 2021-01-14T00:20:00Z

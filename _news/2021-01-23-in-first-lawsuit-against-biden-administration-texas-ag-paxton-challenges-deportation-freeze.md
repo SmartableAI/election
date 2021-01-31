@@ -47,6 +47,17 @@ related:
         width: 825
         height: 545
         isCached: true
+  - title: "NLRB faces paralysis, legal challenges over Biden's firing of general counsel"
+    excerpt: "The impending legal battle over President Joe Biden's firing of National Labor Relations Board General Counsel Peter Robb could hobble the agency, or at least create a major distraction, as the new administration pursues an ambitious pro-worker agenda,"
+    publishedDateTime: 2021-01-31T22:16:00Z
+    webUrl: "https://www.reuters.com/article/employment-nlrb/nlrb-faces-paralysis-legal-challenges-over-bidens-firing-of-general-counsel-idUSL1N2K60JN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K60JN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K60JN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
   - title: "DON'T MISS THURSDAY: A conversation with Insider's Washington correspondents on what to expect during Joe Biden's first 100 days"
     excerpt: "Biden's promises include plans to deliver 100m vaccines to the US, a new economic stimulus, and to safely reopen most schools."
     publishedDateTime: 2021-01-31T01:59:00Z

@@ -50,6 +50,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "The Republican Party is in disarray post-Trump and faces a crisis bigger than after Watergate, says veteran GOP Congressman"
+    excerpt: "A rift has opened between GOP lawmakers who want Trump's legacy purged and lawmakers and grassroots supporters who remain steadfastly loyal."
+    publishedDateTime: 2021-01-31T11:43:00Z
+    webUrl: "https://www.businessinsider.com/post-trump-republican-crisis-bigger-than-watergate-says-gop-veteran-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/60168014d6c5e60019c6e1dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "sUtegarnIR46QHR19Q5qQR5beLnNiMQTC4IJe5Jo3BlqttNvr7zhWYNtnKCOycknRac12ID40PHtRq3nkK9TlAiucYBap/RV83Y3Brz16CfkzeEW5fzUTtkFs9fJQR2rvaqSvxWWkU5PaQu75IW3ou0zVYSoVO2b2tgdwstZAMHeEk7Sf8kcrvE+r1UK5xlERKk2yVpCQTPON9FFhRVj9NtDWZqA2JpsXyn1TJK04oQkmlA1MFxssoqd5CFLdqBrpeDKa7WFpug6ZnTsDMqDUbzhgjz9U2RoJHwWOq52dM91GwbCbLcC1GXWp2YDeFmupe+3p568ltRf8dJgS8C57YbrCj6jZkilegJDz3Q/TDQIm3NXpDLNSqDD1BIOey8BIJUQ8KKMaBL6H5xlgpjoAqWBGgtLXXs42FtcLIeRl0ikXmPzr69cyE21ijcSH2lql0Jd0Qcpx370fESZEdmqNwQ6aCDS6UXFH26Hl9BjjcredapeBflUjSsC6MNO+MtaWnRed0O2g7v9kC2YFXq0XQ==;fkzqPQUrmf08M79MkvtamQ=="
 ---

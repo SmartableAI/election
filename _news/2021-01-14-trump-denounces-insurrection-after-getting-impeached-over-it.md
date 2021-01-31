@@ -2582,6 +2582,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump left Biden a $30 billion fund used for trade wars. Biden has other plans for it."
+    excerpt: "A Depression-era financial institution was used by the Trump administration to dole out billions to farmers. Now the Biden team has their own ideas about how the money should be spent."
+    publishedDateTime: 2021-01-31T16:26:00Z
+    webUrl: "https://www.politico.com/news/2021/01/31/usda-agriculture-tug-of-war-463843"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 122
+    images:
+      - url: "https://static.politico.com/72/4e/41eac7394847ac4de7421290a136/210129-vilsack-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Will There Be a Trump Presidential Library? Don’t Count On It."
     excerpt: "For months, as the end of Donald Trump’s term approached, historians and journalists have been playing a speculation game: What will Donald Trump’s presidential library be like? “A shrine to his ego,” predicted a historian in the Washington Post."
     publishedDateTime: 2021-01-23T00:19:00Z

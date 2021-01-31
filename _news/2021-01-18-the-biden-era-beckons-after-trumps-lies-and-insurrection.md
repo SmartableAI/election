@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3430
+heat: 3450
 published: true
 
 provider:
@@ -2566,6 +2566,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/17/us/politics/17transition-briefing-promo1/17transition-briefing-promo1-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump left Biden a $30 billion fund used for trade wars. Biden has other plans for it."
+    excerpt: "A Depression-era financial institution was used by the Trump administration to dole out billions to farmers. Now the Biden team has their own ideas about how the money should be spent."
+    publishedDateTime: 2021-01-31T16:26:00Z
+    webUrl: "https://www.politico.com/news/2021/01/31/usda-agriculture-tug-of-war-463843"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 122
+    images:
+      - url: "https://static.politico.com/72/4e/41eac7394847ac4de7421290a136/210129-vilsack-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump denounces insurrection, after getting impeached over it"
     excerpt: "The president, in a new video, called on his supporters not to engage in violent demonstrations that federal law enforcement warns might be brewing."

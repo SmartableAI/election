@@ -45,22 +45,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump asked Justice Department to go to Supreme Court to overturn election: Journal"
-    excerpt: "Former President Donald Trump considered replacing the acting attorney general with an official willing to pursue unsubstantiated claims of election fraud, and he pushed the Justice Department to ask the Supreme Court to invalidate President Joe Biden’s victory,"
-    publishedDateTime: 2021-01-24T08:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-justice/trump-asked-justice-department-to-go-to-supreme-court-to-overturn-election-journal-idUSKBN29T01R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T01R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T01R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 134
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548848598&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N00Q"
-        width: 803
-        height: 545
-        isCached: true
   - title: "Trump lawyer Giuliani faces $1.3 billion lawsuit over 'big lie' election fraud claims"
     excerpt: "A U.S. voting machine company filed a $1.3 billion lawsuit against former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation in what it called his \"big lie\" campaign about widespread fraud in the presidential election,"
     publishedDateTime: 2021-01-26T00:42:00Z
@@ -399,17 +383,6 @@ related:
         width: 1024
         height: 696
         isCached: true
-  - title: "Dominion Voting Systems Sues Trump Lawyer Giuliani Over Election Claims"
-    excerpt: "WASHINGTON (Reuters) - Dominion Voting Systems Inc has filed a lawsuit against former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation for making false claims of fraud about the November 2020 U."
-    publishedDateTime: 2021-01-25T12:59:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-01-25/dominion-voting-systems-sues-trump-lawyer-giuliani-over-election-claims"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-25/dominion-voting-systems-sues-trump-lawyer-giuliani-over-election-claims?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-25/dominion-voting-systems-sues-trump-lawyer-giuliani-over-election-claims?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "With Trump Gone, U.S. Supreme Court Pulls Plug on Anti-Corruption Cases"
     excerpt: "Five days after the end of Donald Trump's presidency, the U.S. Supreme Court on Monday halted lawsuits accusing him of violating the U.S. Constitution's anti-corruption provisions by maintaining ownership of his business empire including a hotel near the White House while in office."
     publishedDateTime: 2021-01-26T00:36:00Z
