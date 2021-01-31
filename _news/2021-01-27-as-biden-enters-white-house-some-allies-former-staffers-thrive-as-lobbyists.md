@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Republican lawmakers press Biden Commerce nominee on Huawei stance"
+    excerpt: "Three China hardliners in the Senate are calling on President Joe Biden's Commerce Department nominee to clarify if she would remove China's telecoms equipment giant Huawei Technologies Ltd from a trade blacklist under any circumstances."
+    publishedDateTime: 2021-01-30T03:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-huawei-congress/republican-lawmakers-press-biden-commerce-nominee-on-huawei-stance-idUSKBN29Y31T?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y31T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y31T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549618256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1PW"
+        width: 794
+        height: 545
+        isCached: true
   - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
     excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."
     publishedDateTime: 2021-01-21T12:38:00Z
@@ -205,17 +221,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Republican lawmakers press Biden Commerce nominee on Huawei stance"
-    excerpt: "Three China hardliners in the Senate are calling on President Joe Biden's nominee to head the Commerce Department to clarify if she would remove China's telecoms equipment giant Huawei Technologies Ltd."
-    publishedDateTime: 2021-01-30T03:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-huawei-congress/republican-lawmakers-press-biden-commerce-nominee-on-huawei-stance-idUSL1N2K42X8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K42X8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K42X8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
 
 secured: "RuCvFJsUH1BIQtIkWlCWrp3BMo0D17RRzua9K8v8dqNlRAb3clkdDqCsj1aYgQ2icke3S7WbIei6DgMfsmKkYfddvSgnTKaneHMxv6+Nfo/aDjQ/XbdGfcRG/sucnqNN4yK7d83nz6Gd/6qJtzBmbrP/M6ihseml5OqOGS+fbKTBqHpAXuYGI2JJAmpSQKt0PSMz2NRJXW4W7tZT+ZKNhGKljnVUZpMECXQ2b6VVw/uhZu/vqlzQb05g2NaoMStxDLarj3RSZcNFaz9IODro/Ku5skNYrJ8p078PvDrs92OEXuOuFuYi9Xu/viNoGxj7LCuUiv1iNhfM8eII7gwoeTh7NtlXkAwUGQThV98dBB4=;8dpWCl4ydugBR/8S1qIBRg=="
 ---

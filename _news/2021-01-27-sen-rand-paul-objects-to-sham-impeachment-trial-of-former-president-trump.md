@@ -416,6 +416,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump Parts Ways With Lead Impeachment Lawyer"
+    excerpt: "The move comes a little over a week before the former president’s Senate trial is set to begin and after a frantic search to secure a lead lawyer for his defense team."
+    publishedDateTime: 2021-01-31T02:46:00Z
+    webUrl: "https://www.nytimes.com/2021/01/30/us/politics/trump-butch-bowers-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/30/us/politics/trump-butch-bowers-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/30/us/politics/trump-butch-bowers-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/30/lens/30dc-trump/30dc-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Republicans Rally Against Impeachment Trial, Signaling Likely Acquittal for Trump"
     excerpt: "All but five Republican senators voted to challenge the constitutionality of the trial, suggesting that Democrats were unlikely to find the 17 they would need to join them in convicting the former president."
     publishedDateTime: 2021-01-27T00:49:00Z

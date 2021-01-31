@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Jan. 6 Rally Funded by Top Trump Donor, Helped by Alex Jones, Organizers Say"
+    excerpt: "The rally in Washington’s Ellipse that preceded the Jan. 6 riot at the U.S. Capitol was arranged and funded by a small group including a top Trump campaign fundraiser facilitated by far-right show host Alex Jones,"
+    publishedDateTime: 2021-01-30T23:28:00Z
+    webUrl: "https://www.wsj.com/articles/jan-6-rally-funded-by-top-trump-donor-helped-by-alex-jones-organizers-say-11612012063?mod=tech_trending_now_article_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/jan-6-rally-funded-by-top-trump-donor-helped-by-alex-jones-organizers-say-11612012063"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/jan-6-rally-funded-by-top-trump-donor-helped-by-alex-jones-organizers-say-11612012063"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-289403/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "p3WzHjqgmkczP+uwtuTwo1fpgpGJA9ceE0qXRbqZM6oqYUg7zlL/qN9F+mrItbi7nmAjg4ysBoL8N9m2x5slXEKSP3bhIm4ZlnnnRTpNcE1RH71AWN+BUC8W5fPAHTYEMUZFSSmhiPR78O4GKjvfYMrcmR7hAENB+PDl1/Z/h1N2gUc1lQ4k7jBd5YbbWRBtND/NOcx+0z+1XzKI5cGelit9xNzJ7pFP9MSgQHS9FahwFZ1PU6x4zc5OptwPtcn0KMnOXN3pBVfWwq1BYeFcahNXFnZVKx3HPuFt+3zo0JTb0SVJrg3ApbJTynd5MUUo67ajauAlsZ7sdL8kgzbT+cEUzkGTK1UVT2xOpVUvt3Tc2fSIRfgCgrkHXl+UroqTq85vJDKANhok0Op7NusnU0HxyKuTcRllClqgMrfWs87HRgkRfQhdoheJ9LFrfKgg/LLZJL+Va7X9ETYWgWaD/o1fKNm3VrufhjBWVA9CXNut0fAmFv7mq8au6VA/o1HdEFMI9Uiy00VhI4hvMMEAUw==;8xvqf7G69SmegpKiDSjWAQ=="
 ---

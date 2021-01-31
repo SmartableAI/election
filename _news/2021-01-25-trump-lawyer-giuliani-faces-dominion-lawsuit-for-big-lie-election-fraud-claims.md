@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1CD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1CD"
 type: article
 quality: 135
-heat: 655
+heat: 675
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548987616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O11R"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump loses lead impeachment lawyers a week before trial"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers little more than a week before his trial"
+    publishedDateTime: 2021-01-31T02:03:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "U.S. House to deliver Trump charge to Senate, triggering impeachment trial"
     excerpt: "The U.S. House of Representatives on Monday is set to formally deliver to the Senate a charge accusing former President Donald Trump with inciting insurrection in a speech to his supporters before the deadly attack on the Capitol,"

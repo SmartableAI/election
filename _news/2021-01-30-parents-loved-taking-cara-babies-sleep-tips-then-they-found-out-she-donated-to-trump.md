@@ -109,6 +109,22 @@ related:
         width: 4270
         height: 2847
         isCached: true
+  - title: "South Carolina GOP censures Rep. Tom Rice for Trump impeachment vote"
+    excerpt: "South Carolina Republicans on Saturday issued a formal censure to U.S. Rep. Tom Rice to show disapproval over his vote in support of the second impeachment of former President Donald Trump. Rice was among 10 GOP representatives who joined Democrats on Jan."
+    publishedDateTime: 2021-01-31T01:58:00Z
+    webUrl: "https://www.al.com/news/2021/01/south-carolina-gop-censures-rep-tom-rice-for-trump-impeachment-vote.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/south-carolina-gop-censures-rep-tom-rice-for-trump-impeachment-vote.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/south-carolina-gop-censures-rep-tom-rice-for-trump-impeachment-vote.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UG3YVSYHJJH3FNDN7UTHETCU6U.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "Aw9XkqW44qySCz3yhc0tlCO2LMINCjDJwM+y7F2H7YSmpRoa8H9g8+fRqDNxJlzXwiUu8BwsNvkc+T++/GLytb/76+OpA94CBkQnVY1iimkPZQ0/Z9OjGg1CK20aKfLX3sdEAhs1nTphk/n6eFyxo59UNC4Eo7biXYeDeFS2B3FLl+2yexIq64AUEqrY9P60Kg+FzeUk+bUJ+UdSsO+BGUXs+hRfba357uo18sYS1t6xtPNly4ExUqlQhcAQuzlP6vZGrXx9kYlCd5pca7BAj0mh3Qj4+EoWFIbabSv1gPWPZfh/D0LKTS6tJ6k9nDJjh34z5cW7g2wGoEwK4Ur5qK06k3ksy5ceAWrK4tAsfhxSyf4mEvaRzWiW/ZO8fRxbpfpPCeQCB4o69dAHaFLydcad7WME/jjFEsbU2v039W298/fEWPcHIRXIDpORpL+lWL6FhMZP78LBMVN2j62ozH4tg0FKPpwY/eOy9rhjb1F08TXJJNkKd6xZBL59TIr1ywFpw1sfY82PwkXCHpRVvw==;RHqjXh0+CDpEelCtM/mRyw=="
 ---

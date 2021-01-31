@@ -143,6 +143,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump loses lead impeachment lawyers a week before trial"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers little more than a week before his trial"
+    publishedDateTime: 2021-01-31T02:03:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "U.S. House to deliver Trump charge to Senate, triggering impeachment trial"
     excerpt: "The U.S. House of Representatives on Monday is set to formally deliver to the Senate a charge accusing former President Donald Trump with inciting insurrection in a speech to his supporters before the deadly attack on the Capitol,"
     publishedDateTime: 2021-01-26T02:36:00Z

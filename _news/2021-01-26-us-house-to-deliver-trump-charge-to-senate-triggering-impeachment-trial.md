@@ -159,6 +159,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump loses lead impeachment lawyers a week before trial"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers little more than a week before his trial"
+    publishedDateTime: 2021-01-31T02:03:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Rudy Giuliani: lawyers call for Trump's personal attorney to lose law licence"
     excerpt: "Trump’s personal attorney, who led efforts to overturn election result, criticised for calling for ‘trial by combat’ before Capitol attack"
     publishedDateTime: 2021-01-22T02:12:00Z

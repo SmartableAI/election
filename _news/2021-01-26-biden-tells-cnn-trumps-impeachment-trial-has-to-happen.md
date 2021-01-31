@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
 type: article
 quality: 190
-heat: 930
+heat: 950
 published: true
 
 provider:
@@ -398,6 +398,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3445494/210127-donald-trump-al-1500_6fa7abd3a3efa96c46bff00840a3c333.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump Parts Ways With Lead Impeachment Lawyer"
+    excerpt: "The move comes a little over a week before the former president’s Senate trial is set to begin and after a frantic search to secure a lead lawyer for his defense team."
+    publishedDateTime: 2021-01-31T02:46:00Z
+    webUrl: "https://www.nytimes.com/2021/01/30/us/politics/trump-butch-bowers-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/30/us/politics/trump-butch-bowers-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/30/us/politics/trump-butch-bowers-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/30/lens/30dc-trump/30dc-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Sen. Rand Paul objects to 'sham' impeachment trial of former President Trump"
     excerpt: "Ky., spoke on the Senate floor to voice his objection to the impeachment trial of former President Donald Trump, calling it a \"sham\" and \"dark blot on the history of our country.\""

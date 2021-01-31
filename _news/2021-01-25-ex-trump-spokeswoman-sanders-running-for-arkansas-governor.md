@@ -60,7 +60,7 @@ related:
   - title: "Top Trump donor funded rally that preceded U.S. Capitol riot - WSJ"
     excerpt: "An heiress to the Publix Super Markets chain donated about $300,000 to fund a rally that preceded the deadly storming of the U.S. Capitol this month by supporters of former President Donald Trump, the Wall Street Journal reported on Saturday."
     publishedDateTime: 2021-01-30T22:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-riots-idUSKBN29Z0QP"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-riots/top-trump-donor-funded-rally-that-preceded-u-s-capitol-riot-wsj-idUSKBN29Z0QP"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Z0QP"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Z0QP"
     type: article
