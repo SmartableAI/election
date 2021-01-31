@@ -263,6 +263,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "What do Black women in rural NC think of Kamala Harris?"
+    excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
+    publishedDateTime: 2021-01-31T07:11:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/31/what-do-black-women-in-rural-nc-think-of-kamala-ha/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/31/what-do-black-women-in-rural-nc-think-of-kamala-ha/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/31/what-do-black-women-in-rural-nc-think-of-kamala-ha/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 55
   - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
     excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."
     publishedDateTime: 2021-01-20T17:04:00Z
@@ -277,15 +288,6 @@ related:
         width: 2048
         height: 1387
         isCached: true
-  - title: "What Do Black Women in Rural NC Think of Kamala Harris?"
-    excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
-    publishedDateTime: 2021-01-31T05:09:00Z
-    webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2021-01-31/what-do-black-women-in-rural-nc-think-of-kamala-harris"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "EkHmhwF74zyh/vo07ZnaljlEQ1sZjtswOwbZs44BZKnywY8ai6mjoqrrW44mv07YhyyGG+fk5qBs8nvHKqvh7F5QWIT1F0Ocd7oAVE74baqcxAPBuqAmsq7oIGuimSssPRpfmCsABPtVGeL53A+Dda2mrqOFnoFlp0Os3z1TA+SWDx6hBSdH9YHW7ndsbbL/g12IVEjWjAthUo03hVSZKlMrHA7hD7PTnC9mNMLcx+zkVRiL25TJ9DnlzmjybbqFELV7hB6Ci0nu7uK5+qf4+UFuDkjIU9/0teZjcNKkvUFybuWqL7v72nJTsFkCwfvQGavA2niDvRr8UcrIz0qqUvjcbkx2Z1TV/CFEXTqEEkA=;ae3RPRQqP+8FLZ0V0cvWPQ=="
 ---

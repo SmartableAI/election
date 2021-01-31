@@ -185,6 +185,22 @@ related:
         width: 876
         height: 545
         isCached: true
+  - title: "Trump parts ways with impeachment lawyers: sources"
+    excerpt: "Former U.S. President Donald Trump abruptly parted ways on Saturday with the two lead lawyers working on his defense for his Senate impeachment trial, a source familiar with the situation said, leaving Trump's legal strategy in disarray."
+    publishedDateTime: 2021-01-31T09:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A001T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A001T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A001T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549697780&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U015"
+        width: 876
+        height: 545
+        isCached: true
   - title: "U.S. House to deliver Trump charge to Senate, triggering impeachment trial"
     excerpt: "The U.S. House of Representatives on Monday is set to formally deliver to the Senate a charge accusing former President Donald Trump with inciting insurrection in a speech to his supporters before the deadly attack on the Capitol,"
     publishedDateTime: 2021-01-26T02:36:00Z
@@ -429,17 +445,6 @@ related:
         width: 1024
         height: 696
         isCached: true
-  - title: "Trump Parts Ways With Impeachment Lawyers: Sources"
-    excerpt: "Former U.S. President Donald Trump abruptly parted ways on Saturday with the two lead lawyers working on his defense for his Senate impeachment trial, a source familiar with the situation said, leaving Trump's legal strategy in disarray."
-    publishedDateTime: 2021-01-31T06:48:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-30/trump-parts-ways-with-impeachment-lawyers-source"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-30/trump-parts-ways-with-impeachment-lawyers-source?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-30/trump-parts-ways-with-impeachment-lawyers-source?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Pro-Trump Lawyer Lin Wood Puts License in Jeopardy by Refusing Mental Health Evaluation"
     excerpt: "L. Lin Wood, a lawyer who played a role in former President Donald Trump's attempts to overturn his election defeat, put his law license in jeopardy on Friday by saying on social media that he would not undergo a mental health evaluation requested by an attorney licensing body."
     publishedDateTime: 2021-01-30T01:40:00Z

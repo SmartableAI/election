@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-m
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549573106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1AD"
         width: 818
         height: 545
+        isCached: true
+  - title: "Biden could change course in high court health care case"
+    excerpt: "The pending Supreme Court case on the fate of the Affordable Care Act could give the Biden administration its first opportunity to chart a new course in front of the justices"
+    publishedDateTime: 2021-01-31T12:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-change-high-court-health-care-case-75594477"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-change-high-court-health-care-case-75594477"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-change-high-court-health-care-case-75594477"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_501cf3f97da64e10973b11ac01e16c94_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden to reopen healthcare.gov as people lose coverage amid COVID-19: report"
     excerpt: "U.S. President Joe Biden plans to order the nation's online insurance marketplace, healthcare.gov, to reopen for at least a few months to offer Americans a way to buy health insurance amid the COVID-19 pandemic,"

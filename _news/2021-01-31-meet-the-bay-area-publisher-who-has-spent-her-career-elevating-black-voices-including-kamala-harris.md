@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Love Kamala Harris? Buy Converse Sneakers And Pearls Like Hers Online"
-excerpt: "Vice President Kamala Harris' signature #chucksandpearls look has endeared her to so many women across the nation. Here's how you can pull it off without breaking the bank"
-publishedDateTime: 2021-01-22T22:40:00Z
-originalUrl: "https://www.newsweek.com/amplify/love-kamala-harris-buy-converse-sneakers-pearls-like-hers-online"
-webUrl: "https://www.newsweek.com/amplify/love-kamala-harris-buy-converse-sneakers-pearls-like-hers-online"
+title: "Meet the Bay Area publisher who has spent her career elevating Black voices - including Kamala Harris'"
+excerpt: "I was just shocked, because she must have been with her family, her husband and (President-elect Biden), but she hit me right back and thanked me and told me she loved me,” said Ashley-Ward, the 63-year-old publisher of San Francisco’s oldest Black newspaper,"
+publishedDateTime: 2021-01-31T12:00:00Z
+originalUrl: "https://www.sfchronicle.com/culture/article/Meet-the-Bay-Area-publisher-who-has-spent-her-15909332.php"
+webUrl: "https://www.sfchronicle.com/culture/article/Meet-the-Bay-Area-publisher-who-has-spent-her-15909332.php"
+ampWebUrl: "https://www.sfchronicle.com/culture/amp/Meet-the-Bay-Area-publisher-who-has-spent-her-15909332.php"
+cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/culture/amp/Meet-the-Bay-Area-publisher-who-has-spent-her-15909332.php"
 type: article
-quality: 105
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://d.newsweek.com/en/full/1686820/kamala-harris-queen-theater-12-11-2020.jpg"
-    width: 2500
-    height: 1712
+  - url: "https://s.hdnux.com/photos/01/16/31/41/20551801/5/rawImage.jpg"
+    width: 1365
+    height: 2048
     isCached: true
 
 related:
@@ -60,6 +58,20 @@ related:
       - url: "https://s.abcnews.com/images/GMA/ella-emhoff-crop-gty-rc-210129_1611936263218_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Love Kamala Harris? Buy Converse Sneakers And Pearls Like Hers Online"
+    excerpt: "Vice President Kamala Harris' signature #chucksandpearls look has endeared her to so many women across the nation. Here's how you can pull it off without breaking the bank"
+    publishedDateTime: 2021-01-22T22:40:00Z
+    webUrl: "https://www.newsweek.com/amplify/love-kamala-harris-buy-converse-sneakers-pearls-like-hers-online"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 105
+    images:
+      - url: "https://d.newsweek.com/en/full/1686820/kamala-harris-queen-theater-12-11-2020.jpg"
+        width: 2500
+        height: 1712
         isCached: true
   - title: "Joe Biden basing Kamala Harris relationship on Obama model | Charlotte Observer"
     excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
@@ -189,22 +201,6 @@ related:
         width: 1024
         height: 573
         isCached: true
-  - title: "Meet the Bay Area publisher who has spent her career elevating Black voices - including Kamala Harris'"
-    excerpt: "I was just shocked, because she must have been with her family, her husband and (President-elect Biden), but she hit me right back and thanked me and told me she loved me,” said Ashley-Ward, the 63-year-old publisher of San Francisco’s oldest Black newspaper,"
-    publishedDateTime: 2021-01-31T12:00:00Z
-    webUrl: "https://www.sfchronicle.com/culture/article/Meet-the-Bay-Area-publisher-who-has-spent-her-15909332.php"
-    ampWebUrl: "https://www.sfchronicle.com/culture/amp/Meet-the-Bay-Area-publisher-who-has-spent-her-15909332.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/culture/amp/Meet-the-Bay-Area-publisher-who-has-spent-her-15909332.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 59
-    images:
-      - url: "https://s.hdnux.com/photos/01/16/31/41/20551801/5/rawImage.jpg"
-        width: 1365
-        height: 2048
-        isCached: true
   - title: "Inside Kamala Harris' New Home-and Why It's Not Where You Think"
     excerpt: "Vice presidents usually settle into the Naval Observatory, but for now Kamala Harris is dropping her bags elsewhere. Here's why. While everyone knows that President Joe Biden resides at the White House,"
     publishedDateTime: 2021-01-25T21:30:00Z
@@ -220,6 +216,6 @@ related:
         height: 360
         isCached: true
 
-secured: "lHh9cS+bxbRbVCs01vtys34C89HRikG4FIx9+rnnBTevq/7lIR2t0Rnp5KbSx11XG99lpjKy+BktdOQSSeAqk+oib94VICat3vHIKMnWbpnMwuyUnVePGZCH1PML23IPTZbnYCLSjWE0A9Z//zSiw6Qga//GfRVfrfy0Rmt/ehsB/ioX0E1Bmv06h8n1JlDAS/H9DYj1AmgEhCk7kv+Zh0SOwRiIHKcWOxBmacEnyDQNwLIXLO9A8T6ZISjO9VWXh47ilrBt8GXaU3yaISukugOHREYAXJboHeFcvX5lK2TNJKhHEYVytSZkZk7LL61lFFLxvgSGJgAxKPyW4vxUtvsygar7nrZk5dMPi+Ud7uUsP2NuAXwJn7NZhkbXAX1DNnnAtkzJif3xJCtlJ6Gau2mmLIyTNNup4Xr9+3LPZMWD8lgaCCorkfhj36Oc5OK9ruravKwK+rR3RvTuFKYGDIqxciI6zVUoppkfG6zmUOaOldgY5gOI2nfH66vsRSl96EpmOzybowNoUyQXEAIWZQ==;uK90H2bf/wbDaY/vj5d6Fg=="
+secured: "ItX7j/BHDZ4oSNGe8c86H+e2ols8ef9AAJ+rn9GxrlAfSmxqYP9/G8467uO24Y8FSlcQo5rZMB3TFoAq3moxPi12ChcIyklgutMWN32hFDy+k6Q5KwE6orI+rmTXJb0kJrPYbDrCJ/SCxKbtqMUctsS/8oNs4hd8bO31R4E9d/9oB55jybe1nwk1+lpAWuaCkc8DBIOwAr7bEGstuWiZOyRy/0szPtvTAcHQEd108bLcfzH4iJMdHn12bE5RYwOUOnIGLjLSkkmG4kv1kJO9rZrCKxFOVJ6hTcOAWTbfc7d6v+d6E/hEVr+O5duZOw5GoUdHdtTNlWBM3DQZIJT0HBVmcPTeLB6YYnY91R2ZoKA=;fj5BHMS+RevoapIedwZ6bw=="
 ---
 

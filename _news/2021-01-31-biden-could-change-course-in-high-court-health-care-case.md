@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts"
-excerpt: "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said."
-publishedDateTime: 2021-01-23T18:57:00Z
-originalUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912"
-webUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912"
-ampWebUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
+title: "Biden could change course in high court health care case"
+excerpt: "The pending Supreme Court case on the fate of the Affordable Care Act could give the Biden administration its first opportunity to chart a new course in front of the justices"
+publishedDateTime: 2021-01-31T12:47:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-change-high-court-health-care-case-75594477"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-change-high-court-health-care-case-75594477"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-change-high-court-health-care-case-75594477"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-change-high-court-health-care-case-75594477"
 type: article
-quality: 113
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://d.newsweek.com/en/full/1714793/anthony-fauci.jpg"
-    width: 2500
-    height: 1668
+  - url: "https://s.abcnews.com/images/Health/WireAP_501cf3f97da64e10973b11ac01e16c94_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -79,22 +79,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Biden could change course in high court health care case"
-    excerpt: "The pending Supreme Court case on the fate of the Affordable Care Act could give the Biden administration its first opportunity to chart a new course in front of the justices"
-    publishedDateTime: 2021-01-31T12:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-change-high-court-health-care-case-75594477"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-change-high-court-health-care-case-75594477"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-change-high-court-health-care-case-75594477"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_501cf3f97da64e10973b11ac01e16c94_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden to reopen healthcare.gov as people lose coverage amid COVID-19: report"
     excerpt: "U.S. President Joe Biden plans to order the nation's online insurance marketplace, healthcare.gov, to reopen for at least a few months to offer Americans a way to buy health insurance amid the COVID-19 pandemic,"
     publishedDateTime: 2021-01-26T14:07:00Z
@@ -127,6 +111,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts"
+    excerpt: "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said."
+    publishedDateTime: 2021-01-23T18:57:00Z
+    webUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912"
+    ampWebUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1714793/anthony-fauci.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z
@@ -148,6 +148,6 @@ related:
       domain: washingtonpost.com
     quality: 82
 
-secured: "kysPjqg0u4CCTN49uTUEo5KvWiBqWFEPcG3iy6eap1gH4tU47IWMne7Bj3nFRTSop/rCptJ3pB2o8SaC7vVO/8bcCKM1Pn+MXThRooxnN+avLPK7FSX6RWpXiV76NZOBAW7C+zA2f5yVpDjGu0tnggE20vrlQ12VRmB/iMrkrOCfGEscr9elP7tQW8ohuBw6TsAQQDXjbuvfowUZ88QhThwYn+bX7PujRkGPqEb8CG+OEru6C4uJMuqyzQqC983ywRWJu22NKf9tdMOj2AhYIDB1kK6eJ0aKF3rAFRw0NNOCVCjawPq2Vs1xUgKXFxvsazzkYm9Q5UajoGtnt23nBIpr7XSHJrylLNaYYLEiPgA=;LdfkOJo9zZhKAAxHbp7d4w=="
+secured: "vk1zwOXRHRQgfoGJNCo6TwQE2RgFqvG7HqguE/PzswQpoGVHjpG7/0dkUlYheDvcbilAp/ZQkedrH/DHG1Ig5S9gXU5PMk9ZjNDx/18yab4TxnTkL53+EVQddBSxdpi19FAxA3NKmK7zkG6oHwhidc365wC7RTEtbPId9yLC9Vxnkk/GgxPFXGYCROkFeerw37VHVu7DvwxgDPV1c54Oil6MDau3+kK1G95sdd4PP+crhRvvE0uXKn3vSq5v/k+qumyQ4Hb1BVNNhti89iAiKOOn+kV9clbTa35vwKquW8jrPoEHZgHIQl3obceZNGHJGVx2Rb1cbfQj0GkiZ8DJ/EkS4OQOkY1l5GxySjmySbs=;0miHfQKMBSHhUXpBgtmVrg=="
 ---
 

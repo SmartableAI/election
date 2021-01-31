@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump Parts Ways With Impeachment Lawyers: Sources"
+title: "Trump parts ways with impeachment lawyers: sources"
 excerpt: "Former U.S. President Donald Trump abruptly parted ways on Saturday with the two lead lawyers working on his defense for his Senate impeachment trial, a source familiar with the situation said, leaving Trump's legal strategy in disarray."
-publishedDateTime: 2021-01-31T06:48:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-01-30/trump-parts-ways-with-impeachment-lawyers-source"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-30/trump-parts-ways-with-impeachment-lawyers-source"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-30/trump-parts-ways-with-impeachment-lawyers-source?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-30/trump-parts-ways-with-impeachment-lawyers-source?context=amp"
+publishedDateTime: 2021-01-31T09:54:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A001T"
+webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A001T"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A001T"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A001T"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549697780&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U015"
+    width: 876
+    height: 545
+    isCached: true
 
 related:
   - title: "Trump lawyer Giuliani faces Dominion lawsuit for 'big lie' election fraud claims"
@@ -452,6 +458,6 @@ related:
       domain: usnews.com
     quality: 47
 
-secured: "KbF+wXPC6vc3/U2Ozy7rcDc8aCWq2sPrOiYYwCh4ZNNjrdzxvlquRNLpKsTdArNSeQJGr8vUdVsQzn7fo+aKP2hTPpofXa4R8F29vHbIxf8GX0+iXSuYEHN7v7DcZNWg/taLXsPEgbm6cZ2GTBjkWnEfnTiC/16039i+QVRYsV+0nkl4RpuwjQHVvlcBMS04R+C9mcI/jX/NcszZwPPI/6JsOW3X0yOY+gLiIledPf8Na6qfQWSc8qg8qc0qchCy5dtZclgTpwa57N/ZNybbZ/lfJKqcn1MzBM2zeidL2iwru4tFwanl+Y1rkEXPaHyg0Hvmwrj5yYEN0/CuUnmEkwLSDlpj4IrrmRkmWKQCm//wTbh/S3wDM0G9MoK9pTZWld5qnGisraZHsk2hrTI0jJflgvp3l3ptFeCop5LFrVXfnNfnQ/4ySPSvcTERkAw/nMt7MhahfEEv+1jot6+yutk/whBTGGERGXTpU/jaz5E0uTgAPHAJF62s/SseyQLO5iOIczLkmIEhKegL/ZocBg==;e0o+FzERhCQCDfZ7Y8GGkQ=="
+secured: "dGSR+Tb199IzSXAVF74ydTzUHHXmfX2VkHRnPuC55cid8DOhY8I9LII0F2AddKMoC+e1BLBIXKXtwhRxR384mKeQo7ZRxmt5wa1JMh1JNrQ6AKmk+WIVL0aRkZXFn7rLpy4y0AESSBsKw1AjTfVtla4BMqhlwpITqUph5kYeUeybH1WxC2u8jg+VtY85LbPIM8ENGBppXvfVXKd/kRskzQ1qt/UCPITqzvym91Sfq81wYiB5mikPjOVwm7uQ+xSPpd+sCNH2/izhtRAjMBNEMKIH+mFujne8u+PH8jkmkgHsAtyEVPA9EL7f2mqVCBelVG2Zld7kRxlQe6XDmCE44QyipcCPsCxKlfafWXqNxGo=;BlsBrPaFjVZ37FIUTvHsKA=="
 ---
 

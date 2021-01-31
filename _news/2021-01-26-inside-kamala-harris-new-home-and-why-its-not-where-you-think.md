@@ -199,6 +199,22 @@ related:
         width: 1024
         height: 573
         isCached: true
+  - title: "Meet the Bay Area publisher who has spent her career elevating Black voices - including Kamala Harris'"
+    excerpt: "I was just shocked, because she must have been with her family, her husband and (President-elect Biden), but she hit me right back and thanked me and told me she loved me,” said Ashley-Ward, the 63-year-old publisher of San Francisco’s oldest Black newspaper,"
+    publishedDateTime: 2021-01-31T12:00:00Z
+    webUrl: "https://www.sfchronicle.com/culture/article/Meet-the-Bay-Area-publisher-who-has-spent-her-15909332.php"
+    ampWebUrl: "https://www.sfchronicle.com/culture/amp/Meet-the-Bay-Area-publisher-who-has-spent-her-15909332.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/culture/amp/Meet-the-Bay-Area-publisher-who-has-spent-her-15909332.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 59
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/31/41/20551801/5/rawImage.jpg"
+        width: 1365
+        height: 2048
+        isCached: true
 
 secured: "zeDDhWATNNFBcg1ptf3tuPTsuQSkJDEIT6rsRMvcvrUxNQcbRh6DIaDPWmYYspOggswMPoJLhmVi+8OwtD7VWe5f+KMIsbRjXBRwIsLv3sWB61mgP7RRUSs6RGiUak9+dDv/IzIhFmYo3plLsQBAyUB8QVdhUtY7E5oHDKQhMMfjldLN6KIN9p40+0SKcBkxB34qza6OabRgSIY+5KqhA2qqtg1jNU//YN+2Zz8j2Jvjx+7CXLupoV3lPVybM3Uz0KOerYussExFz++tdFf4jIBjNmbVLkjZcIwskwKrgMqWJIceqNlv5ADSwsKcKsIC5aQorNXvVlT01bPVSTiL9RuUOpQgcIfEiMlHrcacGYapiGbTxkv8qyYE1Qcu1jEMHcIqE6XXlw1kG/O9kVH7DSdP45edAK+J2Qth0yBHYYa/+Usv4y2HyZRQUPdjusPwVVdeNP4vg9Rho62qASsv3dpCoe2c6CboEhWYmDYGkL4utbtFl9VOmRyaw4YYLy0cXuA8SGHDC4iJnFShQCeWdw==;yzcOdoowAfLmpqA7DVhVFw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/1-in-5-americans-have-confidence-bi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1-in-5-americans-have-confidence-biden-can-unite-the-country-poll.amp"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -263,6 +263,15 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Biden's Most Important Stimulus Measure of All"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-01-31T12:33:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/30/bidens_most_important_stimulus_measure_of_all_534767.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "7Ifp/bLGncFKeSEJnOJUVw9oq6aslv1Dt1Qec9T6kwh+hxSbyz5NQSbEGPqAS8eS+18kGGmWf/4u6h6ovjYe2D/+x8hpfNsBWBj526I4UjXdiPjM+SpLzmk8FVYxOb8AkwIliDquKT8XYBZBNz7cqU6Wmk3DaxDgY4mMg5/tRQXBnTjqvKsv06AXA7q3dm+T9wjvxxkvegq8XlHsAddW3rz7gsntaoaVrZ3j95J8OqxEwnNwOxdLIhpFAQrijGLNolYfMU7I0ep+FlZ7eAW/lmyp8RyHwn+qXs6MAD/89AT47RiY2l7GlKfgvF7rDUO22kuWWgFE1EN4E98uEhpYlgfh9Jc2btXvlCap5vzEjS0=;rXKo91gf8mzn1nP9lgfEhQ=="
 ---

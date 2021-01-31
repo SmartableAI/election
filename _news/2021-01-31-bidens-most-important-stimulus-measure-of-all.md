@@ -1,34 +1,23 @@
 ---
 category: news
-title: "Republicans recoil over Biden’s plan to study Supreme Court reforms amid left-wing court packing push"
-excerpt: "Republicans in and out of the Senate are raising concerns about the Biden administration's commission to \"study\" the Supreme Court and propose potential \"reform,\" worrying that the result might eventually be a proposal to pack the tribunal with more justices."
-publishedDateTime: 2021-01-28T17:28:02Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcPrdXLiipE/republicans-recoil-over-bidens-plan-to-study-supreme-court-reforms-amid-left-wing-court-packing-push"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcPrdXLiipE/republicans-recoil-over-bidens-plan-to-study-supreme-court-reforms-amid-left-wing-court-packing-push"
-ampWebUrl: "https://www.foxnews.com/politics/republicans-recoil-over-bidens-plan-to-study-supreme-court-reforms-amid-left-wing-court-packing-push.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-recoil-over-bidens-plan-to-study-supreme-court-reforms-amid-left-wing-court-packing-push.amp"
+title: "Biden's Most Important Stimulus Measure of All"
+excerpt: "RealClearPolitics"
+publishedDateTime: 2021-01-31T12:33:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/01/30/bidens_most_important_stimulus_measure_of_all_534767.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/01/30/bidens_most_important_stimulus_measure_of_all_534767.html#!"
 type: article
-quality: 160
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
-
-images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
-    isCached: true
 
 related:
   - title: "1 in 5 Americans have confidence Biden can unite the country: poll"
@@ -159,6 +148,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Republicans recoil over Biden’s plan to study Supreme Court reforms amid left-wing court packing push"
+    excerpt: "Republicans in and out of the Senate are raising concerns about the Biden administration's commission to \"study\" the Supreme Court and propose potential \"reform,\" worrying that the result might eventually be a proposal to pack the tribunal with more justices."
+    publishedDateTime: 2021-01-28T17:28:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcPrdXLiipE/republicans-recoil-over-bidens-plan-to-study-supreme-court-reforms-amid-left-wing-court-packing-push"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-recoil-over-bidens-plan-to-study-supreme-court-reforms-amid-left-wing-court-packing-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-recoil-over-bidens-plan-to-study-supreme-court-reforms-amid-left-wing-court-packing-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Crenshaw blasts Biden admin, claims they don't like 'anything the American working class might actually want'"
     excerpt: "President Biden's executive orders about the economy prove that his administration is \"going to keep talking about unity but they don't want to unify behind anything the American working class might actually want,\" Rep. Dan Crenshaw, R-Texas, told \"Fox News Primetime\" Friday."
     publishedDateTime: 2021-01-23T01:21:02Z
@@ -263,16 +268,7 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "Biden's Most Important Stimulus Measure of All"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-01-31T12:33:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/30/bidens_most_important_stimulus_measure_of_all_534767.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
-secured: "g+wWY6p+mF+haaH/La7pjxC0Om9bgWlqoGn3NUato46O1dmgGdZ5tWELHuRZKgVbz/luPNDejqP8jiqWVUVmiY2IfbztwoSaYuJCdouh2DEaxdYDXDbNCZhmzrFyv+gyMkfRiMO9tj60gersfWeUtG8G6XU+Y5OLOT55GkKr6PVQh20UccTaNguEghSc2y7eejc4Af1oxbh9heal0MzTFDIM75Pr85a3nIFloXFzMxLSIS1B85t/zU5IKHRZem1l43+vY/vXv587QiRyujf5/TTskwTbsbBQNtoc0wLhtkkmeVfauHWAufPBUYT3ffrLGVaEN4VF/PQpD7L4ZDQCDSH4iwPIR9jT+FgQSQb+16c=;8/Ml5zf9R1w8atF2wAbj3A=="
+secured: "l+fvqFvievQqrpC6pWi74QwrZJsd40a+K7g+LVhMCSB/MHqwKuHWnlvREmf4PqCuZtlyHzHiCKy0GK1LmLHgqtpZZEx8Ke2QwiUzFNdrE/lsVSkvNWrYoIbyn+jbI1MhDSJY/1rJd2Um4v2Y0qtp3/SrNP1zaGx8yqpWJaUDyvd3SJzRlqniGvXkJtfvW9C4eXWzgqcYDnq52PYm+HEbTtPGH3HqXWC2a947NaV9CRAwVGHhOal7ztXFlThpTIKZoOrlP3SPahgR+jCSO6638hLolamHO7LhWDOweQB/8C+6eDOkNjYKRk88AZF47S/cbrqErtzL5WoqeqIH226vMNM7qpAEdRdjWny2eR1Hz5M=;600pnJk3bAhKhvJykatbDQ=="
 ---
 
