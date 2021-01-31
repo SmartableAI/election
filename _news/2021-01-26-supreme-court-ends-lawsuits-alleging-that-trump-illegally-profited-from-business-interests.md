@@ -47,22 +47,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Speaker at Jan. 5 pro-Trump rally charged with encouraging mob, impeding police during Capitol breach"
-    excerpt: "Conservative media darling Brandon Straka was taken into custody. Meanwhile, proceedings continued for other defendants."
-    publishedDateTime: 2021-01-26T06:01:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/brandon-straka-arrested-capitol-riot/2021/01/25/e359ec3a-5f45-11eb-9430-e7c77b5b0297_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/brandon-straka-arrested-capitol-riot/2021/01/25/e359ec3a-5f45-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/brandon-straka-arrested-capitol-riot/2021/01/25/e359ec3a-5f45-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FFPPEFCQMYI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 954
-        isCached: true
 
 secured: "03LFNe2DlbOZghLWPR/8WpiMsnYIxiKBIp+L7Ct8PM3DOvvwM7oEkNHmyYdH4cni1Bqs+Ais12UocG8MTeFvLeHqZS2X/gePmtK86ywEXd1m91VeIdxkV4k/R89fT8fzE/wps3bOTdwUvTxPPsJ1fRu0LtBwza8iVHjqAKc+zUUiFsrlqyAgJUuvapyEaoyAlw5/aPz3yEoiCjUuVxHLM1EZ5Ewk0gn1MiP7hpdHR/J371r3wrKkOXwWQKRu5bn2761VQIUwImfdDqFYz4BomBEoTRSQIqa4uatC4vqvFn998eMoJK7yPodfuFEJB5R5M/MKOKQYDEjuYN0kUsxwwfOGywv0tWX0fDXPBgN9YKk=;XVzf6iGxHwKKXB+T/wTRLw=="
 ---

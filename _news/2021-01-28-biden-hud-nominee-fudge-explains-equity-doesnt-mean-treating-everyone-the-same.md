@@ -47,21 +47,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden hopes for 1.5 million COVID vaccinations per day, after 'nothing we can do' comments"
-    excerpt: "President Biden says he’s “quite confident” that in roughly three weeks the nation will “be vaccinating people at the range of a 1 million a day or in excess of that.”"
-    publishedDateTime: 2021-01-25T22:47:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s2jeEaVhlMY/biden-hopes-for-1-5-million-covid-vaccinations-per-day"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hopes-for-1-5-million-covid-vaccinations-per-day.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hopes-for-1-5-million-covid-vaccinations-per-day.amp"
+  - title: "Biden launching Public Health Jobs Corps, host of executive orders to address COVID-19"
+    excerpt: "President Biden laid out on Thursday a strategy for addressing the coronavirus that included increasing funding and the number of federal employees deployed to meet an ambitious set of goals for countering the pandemic."
+    publishedDateTime: 2021-01-21T10:07:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MszcJ-LSwMc/biden-coronavirus-strategy-executive-orders"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-strategy-executive-orders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-strategy-executive-orders.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21025793966837.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbbb4448-7269-4978-8efc-90bb155801cf/b7d0f268-1824-4f6f-9047-a126c13f1ea6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "pZ/k+mBOkng/lc9FC2t6dJQ2Lc1fc0cC7TtW3Eq9XfpBcoHiq7yMiOB2gg/Ga350oOfGsaCMVpLM6NHIV9uDF6NGAPLqCG0H/9pYj/CmW1/U3+ySQQAJh5hFU+xkY8IUElaQn3WhT7uQ4dG0PegD3zgKFcUqB5FltAphSnNecKAHu//Varru1qvWz9cKiPl24jeNfo00qSOP1zvUsp59T6ocz6ik1tw7suksk6Cf6+Lr49BOeZDr4TUD8tgbOU53hbWYLWCFVtIt2CmsX21OYyyLWiMNtIMPobXxRotjmqFGvGJbMq17Sad3FkQnE6GINI3IFFWUB+2S7WUfd0cFaSOtthwBGTcs9toVIpRz0IQ=;Vu1EtkdwsojpoOyIXhuoZQ=="

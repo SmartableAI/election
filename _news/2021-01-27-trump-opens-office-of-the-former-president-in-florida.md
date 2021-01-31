@@ -79,22 +79,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Senate receives article of impeachment against Trump"
-    excerpt: "The article of impeachment against President Trump has been delivered to the Senate, and House impeachment managers presented, exhibited and read it aloud. The trial is set to begin the week of February 8."
-    publishedDateTime: 2021-01-26T12:23:00Z
-    webUrl: "https://www.cbsnews.com/news/senate-articles-of-impeachment-donald-trump/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/senate-articles-of-impeachment-donald-trump/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/senate-articles-of-impeachment-donald-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/0fdec909-ae2b-411c-8627-853e30a4ec11/thumbnail/1200x630/71356b076f82a4707fdd684483bfcce5/gettyimages-1298447143.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "'We will be back in some form,' Trump vows at end of tumultuous presidency"
     excerpt: "President Donald Trump disappeared on Wednesday behind the walls of his club in Palm Beach, Florida, ending a tumultuous presidency stained by two impeachments, deep political divisions and a pandemic that has caused 400,"
     publishedDateTime: 2021-01-21T04:22:00Z

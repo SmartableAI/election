@@ -95,6 +95,22 @@ related:
         width: 3308
         height: 1932
         isCached: true
+  - title: "Trump changes defense team just over a week before impeachment trial is set to begin"
+    excerpt: "A Trump spokesman confirmed that the previously designated lead attorney and another attorney who had been announced will not be part of the team."
+    publishedDateTime: 2021-01-31T09:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-changes-defense-team-just-over-a-week-before-impeachment-trial-is-set-to-begin/2021/01/30/4259c8a2-6371-11eb-9430-e7c77b5b0297_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-changes-defense-team-just-over-a-week-before-impeachment-trial-is-set-to-begin/2021/01/30/4259c8a2-6371-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-changes-defense-team-just-over-a-week-before-impeachment-trial-is-set-to-begin/2021/01/30/4259c8a2-6371-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ATKAQPDDPEI6XFBQ47DXWWYCS4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "California man made pipe bombs, plotted attacks on Democrats to keep Trump in power, prosecutors allege"
     excerpt: "Federal prosecutors alleged in charges made public Wednesday that a California man who wrongly believed Donald Trump had won the election built pipe bombs and planned to go to “war” against Democrats and others to keep him in power."
     publishedDateTime: 2021-01-28T04:15:00Z

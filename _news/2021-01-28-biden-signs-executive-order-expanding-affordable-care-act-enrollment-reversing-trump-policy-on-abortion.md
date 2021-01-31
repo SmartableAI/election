@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expandi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
 type: article
 quality: 173
-heat: 373
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Hiding Hunter Biden laying low in LA, starting art career with shady dealer"
-    excerpt: "As federal prosecutors continue their criminal probes into Hunter Biden’s taxes and international business dealings, the President’s son — shuttling between Washington DC and a sprawling Hollywood Hills home — is lying low, consulting with lawyers and focusing on his new career in art."
-    publishedDateTime: 2021-01-31T02:06:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTTaRLiLXjk/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer"
-    ampWebUrl: "https://www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp"
+  - title: "Twitter employees heavily favored Biden over Trump ahead of 'priceless' ban"
+    excerpt: "President Biden was the clear favorite of Twitter employees when it came to campaign donations during the 2020 election cycle."
+    publishedDateTime: 2021-01-31T13:45:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9wq-8x5938/twitter-biden-trump-ban-2020-election-donations"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 188
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f4d2ba-b1e3-4f9c-bc4e-3b3d3f3de519/2b711708-9a6f-4b8b-949a-d7a0eb709359/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20322568207291-e1605632911601.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Rep. Murphy urges Biden administration to continue Trump approach to Iran: 'These folks are not our friends'"
     excerpt: "North Carolina Republican Rep. Greg Murphy is spearheading an effort to urge President Biden not to reenter the Iran nuclear deal or ease sanctions without verifiable assurances about the country’s nuclear activities."
@@ -62,54 +62,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Greg-Murphy-GETTY.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Biden launching Public Health Jobs Corps, host of executive orders to address COVID-19"
-    excerpt: "President Biden laid out on Thursday a strategy for addressing the coronavirus that included increasing funding and the number of federal employees deployed to meet an ambitious set of goals for countering the pandemic."
-    publishedDateTime: 2021-01-21T10:07:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MszcJ-LSwMc/biden-coronavirus-strategy-executive-orders"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-strategy-executive-orders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-strategy-executive-orders.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbbb4448-7269-4978-8efc-90bb155801cf/b7d0f268-1824-4f6f-9047-a126c13f1ea6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Facebook's Sandberg praises Biden abortion policy, criticizes South Carolina partial ban"
-    excerpt: "Facebook Chief Operating Officer Sheryl Sandberg is praising President Bident's recent executive order on overseas abortion providers and criticizing South Carolina's legislation banning most abortions."
-    publishedDateTime: 2021-01-30T00:13:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkhXXSz3npI/facebook-sandberg-biden-abortion"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/11/30/694940094001_5973634959001_5973636138001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hannity pans Biden administration over rule-by-executive-order, 'propagandist' promise of unity"
-    excerpt: "In his \"Opening Monologue\" on Friday, \"Hannity\" host Sean Hannity labeled White House Press Secretary Jennifer Psaki a \"propagandist,\" and pointed to the fact President Biden made adamant remarks last year that to rule by executive order would be governing like a \"dictator.\""
-    publishedDateTime: 2021-01-30T03:31:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/68tuQT6OR5c/hannity-blasts-biden-propagandist-jen-psaki-president-executive-actions-unity"
-    ampWebUrl: "https://www.foxnews.com/politics/hannity-blasts-biden-propagandist-jen-psaki-president-executive-actions-unity.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hannity-blasts-biden-propagandist-jen-psaki-president-executive-actions-unity.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83c050bc-bde6-4d92-87bb-0612a75fa2ee/46414336-5c41-4d88-be91-b57a22927be3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Biden will keep Trump letter private, White House says"
     excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"
@@ -159,22 +111,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Ohio Republicans propose state holiday honoring ex-President Donald Trump"
-    excerpt: "A pair of lawmakers from Ohio want to set aside a day to honor former President Trump. The proposal from two Republican state legislators would make June 14 every year President Donald Trump Day"
-    publishedDateTime: 2021-01-29T21:42:00Z
-    webUrl: "https://nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/"
-    ampWebUrl: "https://nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/29/ohio-republicans-propose-state-holiday-honoring-trump/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Donald-Trump-16.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Biden signs executive orders expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
     excerpt: "President Biden on Thursday signed a pair of executive orders expanding access to the Affordable Care Act during the coronavirus pandemic and rolling back some of the anti-abortion measures implemented by the Trump administration."
     publishedDateTime: 2021-01-29T04:25:00Z
@@ -190,6 +126,38 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21025646646363.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Proud of My Vote for Biden"
+    excerpt: "I've been getting a lot of mail from critics lately asking if I'm happy with the Biden administration. They point to some of the new president's"
+    publishedDateTime: 2021-01-28T10:52:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533405_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "The Flawed Thinking Behind Biden's Gun Control Bill"
+    excerpt: "The coming years will decide the survival of our Second Amendment, President Trump warned before the election. Trump was right. During the"
+    publishedDateTime: 2021-01-29T11:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533650_5_.jpg"
+        width: 750
+        height: 494
         isCached: true
 
 secured: "cEJcrJldbjNliqvtIxIzRPbxFOJoIUbzZAC3ApYbigvx+EmWFBo8IGsMX15GwWAd1vbFRWsOYaaxmzG6svya1TiQLviqbjJnlIjcosUaK6aAmvF9JbQAnInOG/PKVfHrUVlM4gmZv7iZYPcm1+c89EmIzSzyA+n4Xwrpx7zdTLP7seijvmTpgVwu8PCBCByQoI/yPpeIrid76b7fEPY04Zz0bhYLdEkIQ2ra9k9ku0yZrUIm9EnFudscc35uBBf+/L7R8wv/CvzIFpuPP6vue5fVic8c1qrSTHFGwuYZ5tbd7dvnalRRgauidrogjx/01lN3NtVifvXJPuV/99lkFrs2uK4RNNMC6t30KPrFDq4=;AdapDR1eVjDQ/pYkJsxPow=="

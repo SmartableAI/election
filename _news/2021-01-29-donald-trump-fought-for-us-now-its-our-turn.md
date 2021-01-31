@@ -74,6 +74,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump, legal defense team part ways as Senate impeachment trial looms"
+    excerpt: "Former President Donald Trump and his legal team parted ways a little more than a week before his impeachment trial was scheduled to begin in the Senate on a charge that he incited the riot at the"
+    publishedDateTime: 2021-01-31T13:46:00Z
+    webUrl: "https://nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/"
+    ampWebUrl: "https://nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-18.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Mn6nu6b0ZbJRUFpwmn07oBaaILxHb5WYaPb7ozwLSGZX3nz75BpevR4ckWaa8pTS6Viq2hU+BjCHfQUHnVDR0s7ioVriIvQ4AWZBydbRQBM8JNAaWz7Q9qMnBAzp3fybKL/6giimCXCgAq81fS3ZpG+R/8zfdBI98Yw4qtjghuc7XqcJ8H7IxgkG5Bx8XZ71n57ppWOTIIklYdWQge+AXHPigx4Nw/Siije3+6wkaUJlhhTFVV6+KBmriSTQEbwfksO0CsD0+8BvHKNBOgbkfT4ensHOxsKO1muXw5e4dWffExZxde5uGXhczxvuQHNiY8oKrQvrOU4L3D8WXhnR5iuYfkGRDGi03ZukxLNuaVmY1eYpbnsgEx5TEzRU3dWNhTsrGiuCbKANn3B7LREDm8k+Fjpmgsv3pLNb4xWWOSobpJjJvEtBPsd8wzStK5aVXHoAQmWxnL3KXLL2HLjIzQpDaTEltix/nuMZSso6rLuN9BSCN3TQCVMNldPAnTlFfG354BhkjulktN+GxCcgaw==;4zA8wk1Klb+1UYdzQih61A=="
 ---

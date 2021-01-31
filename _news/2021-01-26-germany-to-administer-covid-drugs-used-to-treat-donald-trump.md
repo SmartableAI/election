@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "City council seeks input on bill condemning Trump for riot"
-    excerpt: "A city council in Maryland is seeking public input on a resolution that condemns former President Donald Trump for the violent siege of the U.S. Capitol"
-    publishedDateTime: 2021-01-25T14:53:00Z
-    webUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "House Democrats deliver Trump impeachment charge to Senate"
     excerpt: "The U.S. House of Representatives delivered to the Senate on Monday a charge that former President Donald Trump incited insurrection in a speech to supporters before the deadly attack on the Capitol,"
     publishedDateTime: 2021-01-26T06:51:00Z
@@ -157,20 +141,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Legal analysis of Trump impeachment trial"
-    excerpt: "The House delivered its article of impeachment against former President Trump on Monday. He's charged with inciting the deadly insurrection at the Capitol earlier this month. Jessica Levinson, Loyola Law School professor,"
-    publishedDateTime: 2021-01-26T04:38:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-impeachment-trial-jessica-levinson-analysis-2021-01-25/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/870ea0d8-9185-41f6-bbf5-fc75ad2736d2/thumbnail/1200x630/ead47aa2d8d46155a20fe2c8ae8548f4/cbsn-fusion-trump-impeachment-trial-jessica-levinson-analysis-2021-01-25-thumbnail-633279-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Analysis: Chronicling Donald Trump’s 10 worst abuses of power"
     excerpt: "Former President Donald Trump flouted the limits of presidential power unlike any of his recent predecessors, leaving behind a legacy of unmatched abuses that range from violations of longstanding"
     publishedDateTime: 2021-01-24T14:50:00Z
@@ -186,20 +156,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/210114155358-20210114-trump-most-egregious-abuses-of-power-super-169.jpg?w=1024&h=576"
         width: 1024
         height: 576
-        isCached: true
-  - title: "House To Send Trump Impeachment Article To Senate, Triggering Trial"
-    excerpt: "The US House of Representatives is to deliver a single article of impeachment to the Senate on Monday accusing Donald Trump of inciting the storming of the Capitol, triggering the first-ever impeachment trial of a former president."
-    publishedDateTime: 2021-01-25T17:30:00Z
-    webUrl: "https://www.ibtimes.com/house-send-trump-impeachment-article-senate-triggering-trial-3130178"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
-        width: 1024
-        height: 714
         isCached: true
 
 secured: "Ym4Go9eKBUH2XI2KiyMra7k3nVW1OAnEZ8YF/uqPrF3d3U6/qL5FdAfGj8Dau0Mo+R54Y8k+u96t2JGnEtwRwIRFFNOjLNhKhlBBn83DPYPVbJ1su7mS4UJeJOpaGneSXJMe6/wSrFj+CQxAxAvA9JwE/hZ4gY90ZyeZHVW3unC6jCEgPdH/tfNJtR2uiSwLZphhOa/NPgHJo/2+SSE0H2As8vsVlrmimIv35zY+ZsNS53PeaoH6PfufWjo5zIdhsbeR/jUTTDNdMxa1oFs1HmgG5a21H+2XDctQlWdK+yshfyArPO3YlZfkXHkwYsjNgQtB9+joYIO4r6qL0uZCLLAncTqRJsUQLtCPMRano54X4FXUNmWttDdmlbzzemQvnJWIjuRHynreQSRmUF210IsU/9HvUco9iQIBBnmz1DtYsVhY9+XMbCklReg5Qpa+AL99UQ6UAeujQfFvLw1EKMXD31J4Xi5/leDS6jX0kYth1HNtpsKTNEta7w9OgnKKWNYybHE+ODDGm0dvZ+jl6Q==;m1FJJ/u+mmyd7351hqZMFA=="

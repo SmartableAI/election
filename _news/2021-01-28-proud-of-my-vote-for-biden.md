@@ -28,69 +28,133 @@ images:
     isCached: true
 
 related:
-  - title: "Alejandro Mayorkas: What to know about Biden's DHS pick"
-    excerpt: "President Biden has nominated Alejandro Mayorkas to be the next secretary of the Department of Homeland Security (DHS), who will take a key role in the closely watched area of immigration policy."
-    publishedDateTime: 2021-01-22T17:53:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TOGt64wuNMc/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp"
+  - title: "Twitter employees heavily favored Biden over Trump ahead of 'priceless' ban"
+    excerpt: "President Biden was the clear favorite of Twitter employees when it came to campaign donations during the 2020 election cycle."
+    publishedDateTime: 2021-01-31T13:45:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9wq-8x5938/twitter-biden-trump-ban-2020-election-donations"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 188
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21019608674449.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20322568207291-e1605632911601.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Xavier Becerra: What to know about Biden's HHS secretary pick"
-    excerpt: "President Joe Biden surprised the medical community when he nominated California Attorney General Xavier Becerra to serve on his cabinet as Secretary of Health and Human Services."
-    publishedDateTime: 2021-01-23T01:33:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X4GiwYj_lR4/xavier-becerra-what-to-know-about-bidens-hhs-secretary-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/xavier-becerra-what-to-know-about-bidens-hhs-secretary-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xavier-becerra-what-to-know-about-bidens-hhs-secretary-pick.amp"
+  - title: "Biden signs executive order expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
+    excerpt: "Biden signed two executive orders expanding ObamaCare enrollment and rolling back anti-abortion policies"
+    publishedDateTime: 2021-01-28T18:49:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl1dyUUj0vo/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab599ecb-1668-4f63-9264-9b290dbb6361/4efce791-81f2-4162-a2cd-be2e93315781/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21025646646363.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls"
-    excerpt: "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled."
-    publishedDateTime: 2021-01-19T18:47:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d8CARCqXwKI/biden-dhs-nominee-mayorkas-ice-border-wall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
+  - title: "Rep. Murphy urges Biden administration to continue Trump approach to Iran: 'These folks are not our friends'"
+    excerpt: "North Carolina Republican Rep. Greg Murphy is spearheading an effort to urge President Biden not to reenter the Iran nuclear deal or ease sanctions without verifiable assurances about the country’s nuclear activities."
+    publishedDateTime: 2021-01-29T23:10:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZcJIyiroQuM/rep-murphy-biden-administration-trump-iran"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-murphy-biden-administration-trump-iran.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-murphy-biden-administration-trump-iran.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Greg-Murphy-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden will keep Trump letter private, White House says"
+    excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"
+    publishedDateTime: 2021-01-29T20:13:00Z
+    webUrl: "https://nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/"
+    ampWebUrl: "https://nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/biden-trump-letter-e1611950822303.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden Orders Review of Trump Health-Care Policies, but Move Likely Faces Bumps"
+    excerpt: "President Biden signed executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
+    publishedDateTime: 2021-01-29T02:27:00Z
+    webUrl: "https://www.wsj.com/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-291886/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden Plan to Order Review of Trump Health-Care Policies Likely to Face Speed Bumps"
+    excerpt: "President Biden is set to sign executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
+    publishedDateTime: 2021-01-28T15:30:00Z
+    webUrl: "https://www.wsj.com/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809?mod=hp_lead_pos6"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 144
+    images:
+      - url: "https://images.wsj.net/im-291590/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden signs executive orders expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
+    excerpt: "President Biden on Thursday signed a pair of executive orders expanding access to the Affordable Care Act during the coronavirus pandemic and rolling back some of the anti-abortion measures implemented by the Trump administration."
+    publishedDateTime: 2021-01-29T04:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21025646646363.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls"
-    excerpt: "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled."
-    publishedDateTime: 2021-01-19T18:53:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
+  - title: "The Flawed Thinking Behind Biden's Gun Control Bill"
+    excerpt: "The coming years will decide the survival of our Second Amendment, President Trump warned before the election. Trump was right. During the"
+    publishedDateTime: 2021-01-29T11:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/53/533650_5_.jpg"
+        width: 750
+        height: 494
         isCached: true
 
 secured: "M1Ty0o+GOHgu0Du3TGfUN0xVTZt6NElam6n0RDJglXpZtfWV6AoO2hto4OyfhQ8121OFuFQlkK9G2XaTKXq79exyagT9WbvRoQAh4++SWT5WVy6aB6lTz6GgWorNALtTlXYarNUJ7YuHzCY/H8E6iBaOr75NN6J9u1g3oukfRRdCNYwdTIAx6AZCfbmZF8zxbeeKNgh1Eb6yeCfGk54u5uObzuLHJflaZcOLaZnBUUQjvBdEInWtjtJyj1pGNQoKOSDGkf7NcOouv/Mx3cX5TsYKEE/HlDAskCm6KjqN38QFSEmJ5hHsP9B24+xGN7sleTv5K1CV0dz96vAPVof9+7ZgxMY6NEw7y70Fvu3k+e4GUbZSFhXHQb+pf6U+8eDdK8hsKY1LTHBm2XDJu3aEh+l74I2zjk/8/GpgV2zpt2dbL4cXZCNtAGYkDTRLnuDhNBQxegdG6bYi+G7/hExTYd8e4g9NtRwC95xCgkeSE8a62vNfsbnhJdT1ySz+Im53sazEKbhhdFIZ7FkEq7KUGg==;0C1e5tGw2I7GrJumLMOi+Q=="

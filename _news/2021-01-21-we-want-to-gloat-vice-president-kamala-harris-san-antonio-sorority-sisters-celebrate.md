@@ -265,21 +265,19 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
-  - title: "What do Black women in rural NC think of Kamala Harris?"
-    excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
-    publishedDateTime: 2021-01-31T07:11:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jan/31/what-do-black-women-in-rural-nc-think-of-kamala-ha/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/31/what-do-black-women-in-rural-nc-think-of-kamala-ha/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/31/what-do-black-women-in-rural-nc-think-of-kamala-ha/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 55
   - title: "Kamala Harris' Alpha Kappa Alpha Sorority Sisters Celebrate"
     excerpt: "JACKSON, Miss. (AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment."
     publishedDateTime: 2021-01-23T20:46:00Z
     webUrl: "https://www.usnews.com/news/best-states/mississippi/articles/2021-01-23/kamala-harris-alpha-kappa-alpha-sorority-sisters-celebrate"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "What Do Black Women in Rural NC Think of Kamala Harris?"
+    excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
+    publishedDateTime: 2021-01-31T05:09:00Z
+    webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2021-01-31/what-do-black-women-in-rural-nc-think-of-kamala-harris"
     type: article
     provider:
       name: U.S. News & World Report

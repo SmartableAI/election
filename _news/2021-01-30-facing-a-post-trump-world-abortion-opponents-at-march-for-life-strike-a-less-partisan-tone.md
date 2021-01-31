@@ -47,54 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Analysis: McConnell was done with Trump. His party said not so fast."
-    excerpt: "Mitch McConnell had finally had enough. But with most Republicans rallying around Trump, he sided with his colleagues trying to throw out the impeachment case."
-    publishedDateTime: 2021-01-28T02:51:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/ep6Q1vD4mePB-iDVbF8MWftnQD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MOWKPUEBW73M7CU3NULPPZFH7A.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump's influence grows in party with uncertain future: The Note"
-    excerpt: "Things are breaking Trump's way -- despite or even because of the turmoil inside the Republican Party. State parties and activists are lining up behind him, prospects for impeachment conviction are fading fast and President Joe Biden's executive orders and progressive priorities are making it easier for the GOP to find unified messaging."
-    publishedDateTime: 2021-01-28T11:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-13-gty-ml-210120_1611152722603_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump team hires 2 ex-prosecutors with ethics experience"
-    excerpt: "Donald Trump has added two more former federal prosecutors from South Carolina to his impeachment legal team, according to one of the lawyers. “It is confirmed,” Greg Harris, an attorney in the capital city of Columbia,"
-    publishedDateTime: 2021-01-29T02:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_99dde2878a054f718926d2e0a62bcdf9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Judge blocks Trump rule to limit health studies in EPA regs"
     excerpt: "A federal judge has blocked a last-minute rule issued by the Trump administration to limit what evidence the Environmental Protection Agency may consider as it regulates pollutants to protect public h"
     publishedDateTime: 2021-01-29T19:41:00Z
@@ -111,22 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "US senators have been sworn in as jurors in Trump's impeachment trial"
-    excerpt: "Senators were sworn in on Tuesday as jurors in former President Donald Trump 's second impeachment trial. A formal summons will now be sent to Trump laying out the charge against him and inviting him to respond in writing."
-    publishedDateTime: 2021-01-29T19:52:00Z
-    webUrl: "https://www.businessinsider.com/senators-sworn-in-jurors-trump-second-impeachment-trial-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/senators-sworn-in-jurors-trump-second-impeachment-trial-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senators-sworn-in-jurors-trump-second-impeachment-trial-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/600ff19567a6bc0019d9af6e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Democrats weigh expanding lower courts after Trump blitz"
     excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
     publishedDateTime: 2021-01-30T22:00:00Z
@@ -142,38 +78,6 @@ related:
       - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Donald Trump parts with lawyers before impeachment trial"
-    excerpt: "Former US President Donald Trump has parted ways with lawyers representing him in his impeachment trial in the Senate, US media report. The departure of Butch Bowers and Deborah Barberi was reportedly a mutual decision."
-    publishedDateTime: 2021-01-31T06:01:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55876035"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55876035"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55876035"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/16642/production/_116741719_29b1dce7-7a82-46fc-85c8-1bfb55980fa9.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Trump parts with impeachment lawyers a week before trial"
-    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his trial"
-    publishedDateTime: 2021-01-31T03:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
         isCached: true
   - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
     excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
@@ -216,22 +120,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump parts with impeachment lawyers as trial nears"
-    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his Senate trial is set to begin, two people familiar with the situation said Saturday. Butch Bowers and Deborah Barbier,"
-    publishedDateTime: 2021-01-31T03:54:00Z
-    webUrl: "https://www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CFCWJBCEGNBDZJCBFMKGIX5HIM.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Twitter Reacts To Melania Trump Leaving Donald Trump Alone In Front Of Cameras"
     excerpt: "Melania Trump left her husband, Donald Trump, alone in front of the cameras after their departure from the White House Wednesday. But some Twitter users said her husband pushed her to walk ahead."
     publishedDateTime: 2021-01-24T10:06:00Z
@@ -248,17 +136,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Cowboys for Trump Leader Refuses Virus Test in Jail"
-    excerpt: "The jailed leader of Cowboys for Trump has been held in solitary isolation for two weeks as he refused to take a coronavirus test."
-    publishedDateTime: 2021-01-30T03:21:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail"
-    ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Trump Impeachment Lawyers Leave Team: US Media"
     excerpt: "Several of former US president Donald Trump's impeachment lawyers have left his team a little over a week before his trial, US media reported Saturday. CNN cited unnamed sources as saying that five lawyers -- including two who were thought to be leading the team -- had parted ways with the Republican billionaire after disagreeing over his legal strategy."
     publishedDateTime: 2021-01-31T04:03:00Z

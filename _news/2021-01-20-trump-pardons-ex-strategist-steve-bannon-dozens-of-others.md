@@ -77,22 +77,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Senate receives article of impeachment against Trump"
-    excerpt: "The article of impeachment against President Trump has been delivered to the Senate, and House impeachment managers presented, exhibited and read it aloud. The trial is set to begin the week of February 8."
-    publishedDateTime: 2021-01-26T12:23:00Z
-    webUrl: "https://www.cbsnews.com/news/senate-articles-of-impeachment-donald-trump/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/senate-articles-of-impeachment-donald-trump/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/senate-articles-of-impeachment-donald-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/0fdec909-ae2b-411c-8627-853e30a4ec11/thumbnail/1200x630/71356b076f82a4707fdd684483bfcce5/gettyimages-1298447143.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump opens \"Office of the Former President\" in Florida"
     excerpt: "Former President Donald Trump announced Monday the official opening of the Palm Beach County, Florida, which is tasked with overseeing the 45th president's official activities in his post-presidency life."
     publishedDateTime: 2021-01-27T11:41:00Z

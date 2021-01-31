@@ -28,79 +28,134 @@ images:
     isCached: true
 
 related:
-  - title: "Biden suggests delayed impeachment timeline may be 'better'"
-    excerpt: "Biden suggested having more time to get his Cabinet nominees confirmed may help jumpstart his policy agenda."
-    publishedDateTime: 2021-01-22T21:38:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBRsQcHzBk/biden-delayed-impeachment-timeline-standoff-congress"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp"
+  - title: "Twitter employees heavily favored Biden over Trump ahead of 'priceless' ban"
+    excerpt: "President Biden was the clear favorite of Twitter employees when it came to campaign donations during the 2020 election cycle."
+    publishedDateTime: 2021-01-31T13:45:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9wq-8x5938/twitter-biden-trump-ban-2020-election-donations"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 188
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6f7deab-50b8-4854-a772-08d24f875fa1/65962725-c64c-4736-8a52-88203251a4ed/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20322568207291-e1605632911601.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden signs executive order expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
+    excerpt: "Biden signed two executive orders expanding ObamaCare enrollment and rolling back anti-abortion policies"
+    publishedDateTime: 2021-01-28T18:49:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl1dyUUj0vo/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21025646646363.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden visits wounded warriors at Walter Reed hospital"
-    excerpt: "In his first visit since entering the White House as Commander in Chief, President Biden spent Friday afternoon with wounded servicemen at the Walter Reed National Military Medical Center."
-    publishedDateTime: 2021-01-29T23:58:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dWro2SnUzXM/biden-visits-wounded-service-members-at-walter-reed-where-his-son-died"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-visits-wounded-service-members-at-walter-reed-where-his-son-died.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-visits-wounded-service-members-at-walter-reed-where-his-son-died.amp"
+  - title: "Rep. Murphy urges Biden administration to continue Trump approach to Iran: 'These folks are not our friends'"
+    excerpt: "North Carolina Republican Rep. Greg Murphy is spearheading an effort to urge President Biden not to reenter the Iran nuclear deal or ease sanctions without verifiable assurances about the country’s nuclear activities."
+    publishedDateTime: 2021-01-29T23:10:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZcJIyiroQuM/rep-murphy-biden-administration-trump-iran"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-murphy-biden-administration-trump-iran.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-murphy-biden-administration-trump-iran.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Greg-Murphy-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden will keep Trump letter private, White House says"
+    excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"
+    publishedDateTime: 2021-01-29T20:13:00Z
+    webUrl: "https://nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/"
+    ampWebUrl: "https://nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/biden-trump-letter-e1611950822303.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden Orders Review of Trump Health-Care Policies, but Move Likely Faces Bumps"
+    excerpt: "President Biden signed executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
+    publishedDateTime: 2021-01-29T02:27:00Z
+    webUrl: "https://www.wsj.com/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-291886/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden Plan to Order Review of Trump Health-Care Policies Likely to Face Speed Bumps"
+    excerpt: "President Biden is set to sign executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
+    publishedDateTime: 2021-01-28T15:30:00Z
+    webUrl: "https://www.wsj.com/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809?mod=hp_lead_pos6"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 144
+    images:
+      - url: "https://images.wsj.net/im-291590/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden signs executive orders expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
+    excerpt: "President Biden on Thursday signed a pair of executive orders expanding access to the Affordable Care Act during the coronavirus pandemic and rolling back some of the anti-abortion measures implemented by the Trump administration."
+    publishedDateTime: 2021-01-29T04:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21025646646363.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "'Impeachment is totally wrong,' flies against Biden's unity message: McCarthy"
-    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., encouraged President Biden to call Democrats off holding an impeachment trial for former President Donald Trump Thursday, whom he said could still lead the party going forward."
-    publishedDateTime: 2021-01-21T18:06:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mgN5jl5hpZo/impeachment-wrong-flies-against-bidens-unity-message-mccarthy"
-    ampWebUrl: "https://www.foxnews.com/politics/impeachment-wrong-flies-against-bidens-unity-message-mccarthy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/impeachment-wrong-flies-against-bidens-unity-message-mccarthy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c44be81c-5c8c-4e58-8ba9-ae49fc727bdc/0b142eae-7ee5-4a39-8206-ec49c98fc86b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden immigration executive orders delayed, as bipartisan bill begins to take shape on Hill"
-    excerpt: "The White House is delaying the signing of a number of immigration-related executive orders that would rescind a number of Trump-era policies, Fox News has learned -- just as a potential bipartisan immigration bill is beginning to take shape on the Hill."
-    publishedDateTime: 2021-01-28T19:48:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uWAVk2slz-8/biden-immigration-executive-orders-bipartisan-bill-hill"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-executive-orders-bipartisan-bill-hill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-executive-orders-bipartisan-bill-hill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden's Presidency: More Interesting Than Expected"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-01-29T19:45:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/29/bidens_presidency_more_interesting_than_expected_534710.html"
+  - title: "Proud of My Vote for Biden"
+    excerpt: "I've been getting a lot of mail from critics lately asking if I'm happy with the Biden administration. They point to some of the new president's"
+    publishedDateTime: 2021-01-28T10:52:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533405_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "CqGURiYUbMLNtT/k/KK6CJ44xzSeZkJquyVowdao5lbM+uwfZxcBeDP2UJqXYrcVZVIt/ZunmnG5Rqn7gS2M7IBDtZ1f9UDiIxNE5NQqpzI32cnItIhWuK9EYtCUy6L28HaRzsI7MydUOdr72Myck7Yh65PM+iJssFLyjvhf3yhQzEoRS/harOJTAg5cdEX5Q/+CiLUcb/3xYTjrOotUrzjDUcI6QcdlPScFR3/ookaEAL4lfK090jOPv/uoqUBkOvQcAmL/SE5dTqOFd3j5O+juvFfPDZIIStscGooU3h/r0RjmFJ7IjNSmQTK8KnXlOyGJM5tFVADCBNQ2+y/ME9EA6WrFAdmYCD24x9g+ajE6e6V7UvWVFMbu6Zf/w2OfNf+AFFTLRojEgD6rsNMg9+a3xI4/h19RTYbP6zDsAfJaiHVlNudLMIdaQ0peDC4rcXTrqzDJyiuX/Wh6x6L2u6C4VxkneH0+6N/G1GtIcHyHk/UmZKzGwBnBNvYd6Bxdx6NSlPNqELVj7kWuAVJXqQ==;itL7UjQCqGZNFwGYQpDxHQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy"
 type: article
 quality: 120
-heat: 160
+heat: 140
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZMRXHQP2EI6XCRVEN7PD2ZO64.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Speaker at Jan. 5 pro-Trump rally charged with encouraging mob, impeding police during Capitol breach"
-    excerpt: "Conservative media darling Brandon Straka was taken into custody. Meanwhile, proceedings continued for other defendants."
-    publishedDateTime: 2021-01-26T06:01:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/brandon-straka-arrested-capitol-riot/2021/01/25/e359ec3a-5f45-11eb-9430-e7c77b5b0297_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/brandon-straka-arrested-capitol-riot/2021/01/25/e359ec3a-5f45-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/brandon-straka-arrested-capitol-riot/2021/01/25/e359ec3a-5f45-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FFPPEFCQMYI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 954
         isCached: true
 
 secured: "BrXt1T0AizgsDXsy4gpu6+lnnljxq5IRCjD4gf5OKAshV/xVU/gn+spkBVgaG20cc0fAuXsXwFfR6Z8ZoPrgZnDE/npH4zLmxt7zzU7qItdoEzL9P5ahjZ36KfEoNDcELmGyXMkonCSc9lnpAt0HSkMKTsvGZf8Bg+AanMYoacGrWMg07lz0aoQwJ6FBbozcK76a4epfU7Y3wnuOh7OIt6ISIBsWiOrD4x77SEGI6BnlmtuTxdIQzDm/1c5FYn65a+OIf57KELU9ir9jd9QsyiU+0OZhBw3Y5z4khhjT5zGYQo0NpK8auTQno7z8M9QIeqjL/yFEe6uZENLjfTkeD3Kz47f5YQsX8G8YhHQsDedhj5QUixU5LU+wBKsUOzNEW7+2Jy/gJGqfLT1AOmGvIHRgaU7h0kaRDYhskYpT1Xeeoxwqr9i8swNWTj1oSvm5SVMcrkJfpPwSw0RHDVwEof++5Ad51gcyEsE++lKmoAe2BuZ3www+oLOrEgjxazqWFQbUjZNe9sluTW76iLKqUA==;lQoThQtiAjr6f0yYNZgwZg=="

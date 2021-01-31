@@ -28,165 +28,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden signs executive order expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
-    excerpt: "Biden signed two executive orders expanding ObamaCare enrollment and rolling back anti-abortion policies"
-    publishedDateTime: 2021-01-28T18:49:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl1dyUUj0vo/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21025646646363.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hiding Hunter Biden laying low in LA, starting art career with shady dealer"
-    excerpt: "As federal prosecutors continue their criminal probes into Hunter Biden’s taxes and international business dealings, the President’s son — shuttling between Washington DC and a sprawling Hollywood Hills home — is lying low, consulting with lawyers and focusing on his new career in art."
-    publishedDateTime: 2021-01-31T02:06:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTTaRLiLXjk/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer"
-    ampWebUrl: "https://www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f4d2ba-b1e3-4f9c-bc4e-3b3d3f3de519/2b711708-9a6f-4b8b-949a-d7a0eb709359/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Rep. Murphy urges Biden administration to continue Trump approach to Iran: 'These folks are not our friends'"
-    excerpt: "North Carolina Republican Rep. Greg Murphy is spearheading an effort to urge President Biden not to reenter the Iran nuclear deal or ease sanctions without verifiable assurances about the country’s nuclear activities."
-    publishedDateTime: 2021-01-29T23:10:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZcJIyiroQuM/rep-murphy-biden-administration-trump-iran"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-murphy-biden-administration-trump-iran.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-murphy-biden-administration-trump-iran.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Greg-Murphy-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden launching Public Health Jobs Corps, host of executive orders to address COVID-19"
-    excerpt: "President Biden laid out on Thursday a strategy for addressing the coronavirus that included increasing funding and the number of federal employees deployed to meet an ambitious set of goals for countering the pandemic."
-    publishedDateTime: 2021-01-21T10:07:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MszcJ-LSwMc/biden-coronavirus-strategy-executive-orders"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-strategy-executive-orders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-strategy-executive-orders.amp"
+  - title: "Republicans in key battlegrounds push to tighten voting rules in wake of Trump's defeat"
+    excerpt: "Republican state lawmakers in three battleground states where President Biden narrowly edged Donald Trump in November’s presidential election are pushing to tighten voting restrictions on mail-in balloting in future contests."
+    publishedDateTime: 2021-01-30T20:46:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBxlJQwA32M/republicans-key-battlegrounds-push-voting-restrictions-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbbb4448-7269-4978-8efc-90bb155801cf/b7d0f268-1824-4f6f-9047-a126c13f1ea6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Facebook's Sandberg praises Biden abortion policy, criticizes South Carolina partial ban"
-    excerpt: "Facebook Chief Operating Officer Sheryl Sandberg is praising President Bident's recent executive order on overseas abortion providers and criticizing South Carolina's legislation banning most abortions."
-    publishedDateTime: 2021-01-30T00:13:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkhXXSz3npI/facebook-sandberg-biden-abortion"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/11/30/694940094001_5973634959001_5973636138001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hannity pans Biden administration over rule-by-executive-order, 'propagandist' promise of unity"
-    excerpt: "In his \"Opening Monologue\" on Friday, \"Hannity\" host Sean Hannity labeled White House Press Secretary Jennifer Psaki a \"propagandist,\" and pointed to the fact President Biden made adamant remarks last year that to rule by executive order would be governing like a \"dictator.\""
-    publishedDateTime: 2021-01-30T03:31:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/68tuQT6OR5c/hannity-blasts-biden-propagandist-jen-psaki-president-executive-actions-unity"
-    ampWebUrl: "https://www.foxnews.com/politics/hannity-blasts-biden-propagandist-jen-psaki-president-executive-actions-unity.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hannity-blasts-biden-propagandist-jen-psaki-president-executive-actions-unity.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83c050bc-bde6-4d92-87bb-0612a75fa2ee/46414336-5c41-4d88-be91-b57a22927be3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden will keep Trump letter private, White House says"
-    excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"
-    publishedDateTime: 2021-01-29T20:13:00Z
-    webUrl: "https://nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/"
-    ampWebUrl: "https://nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/29/biden-will-keep-trump-letter-private-white-house-says/amp/"
+  - title: "Trump, Republicans took in $86M in last five weeks of 2020, FEC filing shows"
+    excerpt: "Kicking up a fuss over election results may not result in victory — but it pays very, very well. Former President Trump and the Republican Party raked in $86 million over the last five weeks"
+    publishedDateTime: 2021-01-30T20:37:00Z
+    webUrl: "https://nypost.com/2021/01/30/trump-gop-took-in-86m-in-last-five-weeks-of-2020-fec-filing/"
+    ampWebUrl: "https://nypost.com/2021/01/30/trump-gop-took-in-86m-in-last-five-weeks-of-2020-fec-filing/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/30/trump-gop-took-in-86m-in-last-five-weeks-of-2020-fec-filing/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 150
+    quality: 132
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/biden-trump-letter-e1611950822303.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Donald-Trump-17.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden Orders Review of Trump Health-Care Policies, but Move Likely Faces Bumps"
-    excerpt: "President Biden signed executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
-    publishedDateTime: 2021-01-29T02:27:00Z
-    webUrl: "https://www.wsj.com/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 146
-    images:
-      - url: "https://images.wsj.net/im-291886/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biden Plan to Order Review of Trump Health-Care Policies Likely to Face Speed Bumps"
-    excerpt: "President Biden is set to sign executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
-    publishedDateTime: 2021-01-28T15:30:00Z
-    webUrl: "https://www.wsj.com/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809?mod=hp_lead_pos6"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-plan-to-order-review-of-trump-health-care-policies-likely-to-face-speed-bumps-11611829809"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 144
-    images:
-      - url: "https://images.wsj.net/im-291590/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biden signs executive orders expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
-    excerpt: "President Biden on Thursday signed a pair of executive orders expanding access to the Affordable Care Act during the coronavirus pandemic and rolling back some of the anti-abortion measures implemented by the Trump administration."
-    publishedDateTime: 2021-01-29T04:25:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-executive-order-expanding-affordable-care-act-enrollment-reversing-trump-policy-on-abortion.amp"
+  - title: "Republicans in key battlegrounds push to tighten voting rules in wake of Trump's defeat"
+    excerpt: "Republican state lawmakers in three battleground states where President Biden narrowly edged Donald Trump in November’s presidential election are pushing to tighten voting restrictions on mail-in balloting in future contests."
+    publishedDateTime: 2021-01-30T20:50:00Z
+    webUrl: "https://www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-key-battlegrounds-push-voting-restrictions-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 133
+    quality: 127
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21025646646363.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Georgia-counting.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "hGSpwF4f4zaBSbZ/PIJrQ1KCykD4O7PdqyeG3xnBdK5ckrknzM60spGUAT9NpzyURNMnBPWo7+3OBIGPM1PV+HZd18VeQeIj4ctMyTIlKCRspgv5kE00M0xSGVzYktMXOCyeNBq0EuGUPRDDqI4+7kwo1wjKqBxtstltPxzPwQ82b9pNXpsW16X4tgU6mGvbHIjuG0a+OkH+L2/6HKxGLptGfC+xBoHIX09ZLDCav/o9eocyDiRNpLEJR32umTU+nhug7dspS7gcQjraVkAcFcMy9fqgXUG12O+evSnquitZ64ITrDfcqmd4KUzvOyYd8IKGXbtbr7HSnPDtNZHfyaZ4Z/El/rrI5sBM9SN51HeD51w47GwWhwDWvExNv8UsQmYHK9UfjrhBt0dBPRa4Cd1PvC4ghHl9T497SaksaBhmHheVidcskln1Lt0EdDjnsocR++ph7xojchH2XLa36ERL87PJirry1JMqP+ibavOJyl1a/wk/0/qIcY+t6FVVjSqeWdatP68ek3IYhDjlUw==;g4hWKYBS6AEVcVvK0E6PqA=="

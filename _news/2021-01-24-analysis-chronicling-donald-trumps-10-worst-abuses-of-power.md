@@ -75,22 +75,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "City council seeks input on bill condemning Trump for riot"
-    excerpt: "A city council in Maryland is seeking public input on a resolution that condemns former President Donald Trump for the violent siege of the U.S. Capitol"
-    publishedDateTime: 2021-01-25T14:53:00Z
-    webUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Germany to administer Covid drugs used to treat Donald Trump"
     excerpt: "Country will be first in EU to use antibody cocktails after government buys 200,000 doses"
     publishedDateTime: 2021-01-25T17:01:00Z
@@ -168,34 +152,6 @@ related:
       - url: "https://media.npr.org/assets/img/2021/01/22/ap_21022693843011_wide-0e5bb741df25be58f1a1f4f42485b4ee36c379b3.jpg?s=1400"
         width: 1400
         height: 787
-        isCached: true
-  - title: "Legal analysis of Trump impeachment trial"
-    excerpt: "The House delivered its article of impeachment against former President Trump on Monday. He's charged with inciting the deadly insurrection at the Capitol earlier this month. Jessica Levinson, Loyola Law School professor,"
-    publishedDateTime: 2021-01-26T04:38:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-impeachment-trial-jessica-levinson-analysis-2021-01-25/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/870ea0d8-9185-41f6-bbf5-fc75ad2736d2/thumbnail/1200x630/ead47aa2d8d46155a20fe2c8ae8548f4/cbsn-fusion-trump-impeachment-trial-jessica-levinson-analysis-2021-01-25-thumbnail-633279-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "House To Send Trump Impeachment Article To Senate, Triggering Trial"
-    excerpt: "The US House of Representatives is to deliver a single article of impeachment to the Senate on Monday accusing Donald Trump of inciting the storming of the Capitol, triggering the first-ever impeachment trial of a former president."
-    publishedDateTime: 2021-01-25T17:30:00Z
-    webUrl: "https://www.ibtimes.com/house-send-trump-impeachment-article-senate-triggering-trial-3130178"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
-        width: 1024
-        height: 714
         isCached: true
 
 secured: "x6BtZWpFoyhHvIOJ/0STXA4c4R21875/IGV4Z06+XadNkwobzL2NWHd9UaU+D1KiLuCViKDCzIYfdR9l+puSDCRR/1S7YHvvCMvOeA0bZ6H/ZZ63F4VW3Z5doNRoxkAot3TY4co2ILUE6CBP/CZnL82PP6dG+CeB5GXnBnIPsGC5YXWo7Knh3TxXXVRFkSDRWheNZoJAlwEuVoZw6BymeiXFpX50kc+OEUsJSxkCrRvW2C0u/ZYcBguc5ZBfa5rv14N6O0Gszey/Euh3X1GT7riWShQNrY3cZPLN14lZJ8LpFCZCOhdm2rGvoefuDQwsK67Hi/xNYYdiJbiSiggYSK6JossqDZdFWj7nRSjBTbs=;6i2mcEOf/reYPNSzVg3/GQ=="

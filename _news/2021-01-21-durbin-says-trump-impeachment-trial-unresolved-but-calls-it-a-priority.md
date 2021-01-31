@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump, legal defense team part ways as Senate impeachment trial looms"
+    excerpt: "Former President Donald Trump and his legal team parted ways a little more than a week before his impeachment trial was scheduled to begin in the Senate on a charge that he incited the riot at the"
+    publishedDateTime: 2021-01-31T13:46:00Z
+    webUrl: "https://nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/"
+    ampWebUrl: "https://nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-18.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald Trump Fought For Us. Now It's Our Turn"
     excerpt: "Trump invited the American people to fight back. We can argue over whether he was a carnival clown, but it was wildly successful."
     publishedDateTime: 2021-01-28T22:54:00Z
