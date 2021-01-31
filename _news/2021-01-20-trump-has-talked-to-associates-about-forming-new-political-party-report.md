@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP Rep Kinzinger starts PAC to resist party’s Trump embrace"
+    excerpt: "Adam Kinzinger, one of 10 Republicans who voted to impeach Donald Trump, is launching a political action committee to push back against a House GOP leadership team and party that he says have become too closely aligned to the former president."
+    publishedDateTime: 2021-01-31T18:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace/2021/01/31/7b797e02-63f3-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace/2021/01/31/7b797e02-63f3-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace/2021/01/31/7b797e02-63f3-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Democrats have these 7 last-minute Trump administration regulations in their sights to overturn now that they control the Senate"
     excerpt: "Senate Democrats are eyeing the Congressional Review Act as a way to obliterate federal regulations from the Trump administration."
     publishedDateTime: 2021-01-21T13:41:00Z
@@ -109,17 +125,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "GOP Rep Kinzinger Starts PAC to Resist Party’s Trump Embrace"
-    excerpt: "Rep. Adam Kinzinger, one of 10 Republicans who voted to impeach Donald Trump, is launching a political action committee to push back against a House GOP leadership team and party that he says have become too closely aligned to the former president."
-    publishedDateTime: 2021-01-31T18:39:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-31/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-31/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-31/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "tQppooTI90n8eiUXd90/Wi8ESSikF9hpXyTWstdC5i2ZacBKBarIO/CbBqR0aogtsXg3HiNxMZ1WPsBSHsG0RKKUuX0SbJWIGTY/CDqsqZmCF662LWqlRlZRrlQ+j+AJEWzvobd/ds6zbOlkwPgDNkTexF9fn/AAcH58BR1np5JV3b4o1JYWylV2wJpZgh5Cm5UvHDAjyuaYXYX0Nx1GbHcCjam9GhpbT1VnOmqcxYs97VA6JqXy++O0sl+oO2QrIQ8CMtFca3Hgg7F55RKu8popyiOG0GHf74bKDizD1h9St46mht0d+UqGqGfuIhkMtlHhebn0s4saL+Vwej1nyCjuZ8SerodMzfACvbt4hHY=;GfsPQp1dod3+ljiZnUBtYg=="
 ---

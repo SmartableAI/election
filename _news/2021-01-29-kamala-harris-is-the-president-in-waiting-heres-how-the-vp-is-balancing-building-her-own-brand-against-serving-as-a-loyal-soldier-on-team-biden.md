@@ -45,6 +45,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Ten Senate Republicans propose compromise covid relief package, posing challenge for Biden"
+    excerpt: "The GOP proposal would significantly narrow eligibility for a new round of $1,400 stimulus checks Biden wants to send to individual Americans."
+    publishedDateTime: 2021-01-31T19:22:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5QSCURTBVAI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "4xYHPoemqOq4H2hSzsO/VBgPS+rrCLGZtg8dPs2/t7wKrQKKA0FOHCRY3dFCiabbIlpV8L7Mk/RjeCW+zDtY/io36pDi3CfeUpybCMpGIcB6H7ZiuClPw+nE4+Ap+fYI2jfX6MMAF3XVzO/LmmvlmiXzg41u52oIMSwFofWuItWVmZ6mAaRWfJwr7UyxdHRb1LkbVcQ4QvfH4gylQ7ltewaSstBZqPt7w6xcxchqCmPrfeaGAyu9yTY6gVjaGpNxi4ACST1FbyUTwkzpdD7wmChCmJeA8PdF4vzzBrYEyAKh7lMitVXd4C31KTikEXIEz9HQznB3sBvpXdatl6B3uFQA5lD+KLV8AomEMsyprYeXvIUjr5v7j1MqtpMKYf38WwoZ7qok/13JLgn9Gk71WZ40yNMZLmmVjrMFnsZcu9A+WLvF1i2g57MAS+i6px+EjSf7bKfbeuvQvueyniSwWiKPJz5RO6Fv9CS9MXNzbz4/83QxQg9UdV+l3EcRM1jDG8mcHXPjoZKbLqLUbb9Dbw==;9e8/6g2zw49TwOkUl2MTSg=="
 ---

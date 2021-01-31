@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Two Republican senators vow to keep open mind in Trump's second impeachment trial "
+    excerpt: "Two Republican senators said Sunday they'll remain fair jurors and listen to the evidence presented during former President Donald Trump's second impeachment trial set to begin February 9.\n    \n"
+    publishedDateTime: 2021-01-31T20:25:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4-SAYWe7pwo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/senate-republicans-trump-second-impeachment-trial-rob-portman-bill-cassidy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/senate-republicans-trump-second-impeachment-trial-rob-portman-bill-cassidy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131150200-portman-cassidy-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Rand Paul to force test vote to gauge Republican support for Trump impeachment trial"
     excerpt: "Sen. Rand Paul plans to force a test vote on Tuesday that will show how many Republicans support holding an impeachment trial for former President Donald Trump and how many believe a trial should not take place.\n    \n"
     publishedDateTime: 2021-01-26T18:31:11Z

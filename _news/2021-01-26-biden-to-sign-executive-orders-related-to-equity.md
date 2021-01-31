@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128123907-aca-supporter-signs-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Homeland Security gives TSA workers authority to enforce Biden's mask mandate"
+    excerpt: "The Department of Homeland Security said Sunday that Transportation Security Administration workers now have the authority to enforce President Joe Biden's transportation mask mandate \"at TSA screening checkpoints and throughout the commercial and public transportation system.\"\n    \n"
+    publishedDateTime: 2021-01-31T19:44:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NjBVwL6lKtw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/biden-mask-mandate-enforcement-tsa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/biden-mask-mandate-enforcement-tsa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210124230345-tsa-chicago-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

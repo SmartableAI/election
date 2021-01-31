@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
 type: article
 quality: 190
-heat: 990
+heat: 1010
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127144815-01-biden-climate-eo-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Two Republican senators vow to keep open mind in Trump's second impeachment trial "
+    excerpt: "Two Republican senators said Sunday they'll remain fair jurors and listen to the evidence presented during former President Donald Trump's second impeachment trial set to begin February 9.\n    \n"
+    publishedDateTime: 2021-01-31T20:25:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4-SAYWe7pwo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/senate-republicans-trump-second-impeachment-trial-rob-portman-bill-cassidy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/senate-republicans-trump-second-impeachment-trial-rob-portman-bill-cassidy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131150200-portman-cassidy-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

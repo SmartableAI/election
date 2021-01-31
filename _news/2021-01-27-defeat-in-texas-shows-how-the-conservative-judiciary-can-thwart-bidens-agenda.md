@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Homeland Security gives TSA workers authority to enforce Biden's mask mandate"
+    excerpt: "The Department of Homeland Security said Sunday that Transportation Security Administration workers now have the authority to enforce President Joe Biden's transportation mask mandate \"at TSA screening checkpoints and throughout the commercial and public transportation system.\"\n    \n"
+    publishedDateTime: 2021-01-31T19:44:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NjBVwL6lKtw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/biden-mask-mandate-enforcement-tsa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/biden-mask-mandate-enforcement-tsa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210124230345-tsa-chicago-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden seeks to intensify public lobbying for Covid-19 relief bill amid the pandemic"
     excerpt: "When President Joe Biden intensifies his attention next week to selling Republicans and Democrats on his coronavirus relief bill, he won't be relying on some of the presidency's most symbolic powers.\n    \n"
     publishedDateTime: 2021-01-30T00:20:53Z

@@ -3,10 +3,10 @@ category: news
 title: "Biden's Most Important Stimulus Measure of All"
 excerpt: "RealClearPolitics"
 publishedDateTime: 2021-01-31T12:33:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/01/30/bidens_most_important_stimulus_measure_of_all_534767.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/01/30/bidens_most_important_stimulus_measure_of_all_534767.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/01/31/bidens_most_important_stimulus_measure_of_all_534767.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/01/31/bidens_most_important_stimulus_measure_of_all_534767.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/53/532652_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "1 in 5 Americans have confidence Biden can unite the country: poll"
@@ -285,6 +291,6 @@ related:
         height: 562
         isCached: true
 
-secured: "l+fvqFvievQqrpC6pWi74QwrZJsd40a+K7g+LVhMCSB/MHqwKuHWnlvREmf4PqCuZtlyHzHiCKy0GK1LmLHgqtpZZEx8Ke2QwiUzFNdrE/lsVSkvNWrYoIbyn+jbI1MhDSJY/1rJd2Um4v2Y0qtp3/SrNP1zaGx8yqpWJaUDyvd3SJzRlqniGvXkJtfvW9C4eXWzgqcYDnq52PYm+HEbTtPGH3HqXWC2a947NaV9CRAwVGHhOal7ztXFlThpTIKZoOrlP3SPahgR+jCSO6638hLolamHO7LhWDOweQB/8C+6eDOkNjYKRk88AZF47S/cbrqErtzL5WoqeqIH226vMNM7qpAEdRdjWny2eR1Hz5M=;600pnJk3bAhKhvJykatbDQ=="
+secured: "J01xld2hsBoYohG7aQ1Hr6G75IaKPlYiOdXCt3sx3G3P61DTB4Blszhq+va5E2ZgagtFGpJdmXoC8yYgy0ltZcYPmwDp6p3WTx448oD4z45lCucLjvz9DbJttJitI1KT31Vl+GoOiJxW/MP0jl084aLKIcXbIb6VPrcl+o0OxalDG1p3joHsi7cFaPZVcKGtz6ugDv1Ad4RrVqp9hmJHnkF7jpBVxTsBeSSm3s9M2vqclRn9VLki6OeHbHZLgiV6widPskpkEijwRvEvweR9qvH6aIPn93ctPRfxBps1nbjdApd/Krp2Axg7IlznwnZHLpai9OC+6mEvg9UODF3n46dPjMs5y0kAloDrrgKlrHs=;vKF7TcUEf9xAE4oZr3wvJQ=="
 ---
 

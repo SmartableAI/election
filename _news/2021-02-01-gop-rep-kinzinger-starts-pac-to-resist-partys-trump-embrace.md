@@ -1,28 +1,34 @@
 ---
 category: news
-title: "GOP Rep Kinzinger Starts PAC to Resist Party’s Trump Embrace"
-excerpt: "Rep. Adam Kinzinger, one of 10 Republicans who voted to impeach Donald Trump, is launching a political action committee to push back against a House GOP leadership team and party that he says have become too closely aligned to the former president."
-publishedDateTime: 2021-01-31T18:39:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-01-31/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-01-31/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-31/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-31/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace?context=amp"
+title: "GOP Rep Kinzinger starts PAC to resist party’s Trump embrace"
+excerpt: "Adam Kinzinger, one of 10 Republicans who voted to impeach Donald Trump, is launching a political action committee to push back against a House GOP leadership team and party that he says have become too closely aligned to the former president."
+publishedDateTime: 2021-01-31T18:40:00Z
+originalUrl: "https://www.washingtonpost.com/politics/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace/2021/01/31/7b797e02-63f3-11eb-bab8-707f8769d785_story.html"
+webUrl: "https://www.washingtonpost.com/politics/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace/2021/01/31/7b797e02-63f3-11eb-bab8-707f8769d785_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace/2021/01/31/7b797e02-63f3-11eb-bab8-707f8769d785_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-rep-kinzinger-starts-pac-to-resist-partys-trump-embrace/2021/01/31/7b797e02-63f3-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Amid absence, Trump sets up new intra-party battles for GOP: The Note"
@@ -120,6 +126,6 @@ related:
         height: 683
         isCached: true
 
-secured: "6dXsnK1HdDX7AMR73/mTId7QcZY60iftbbOkr2NUKm7zk2Jo1w3yAfAhWIbdpZvW14bRuNm6dACCv9CPcYseAINNgRRdL+13YZqYGQKYOD6nhfKXexBpBiFLBadaq4FWI4XnhCq97Fm53JmOmi+2Wdin3wxbh+/MdkkcHFRzKRzoawNVGIho0wOw6yVWQ0mkiurTPIvgnywGTODstbsT6VsBtjhG0cCT5/UqzVeKxr9DUEnnOXGqBV+31E00M6KsvLKAEnD+/rIx5b7L3RaeM6iLc6kUxBd81zJVQUBd3N/etvkO44oBakE4q6l/g+Zphuv+VObv+GcDRtx9L4hnNvfFgTTNgKasz6/hrOZm5bkhfCuTqKUNq9DyOheVocL1B/3QlD7LNHhUeH7mlAhJ+tUmhOVo3M65iXPZ5qURkLJVFGPK0ze2Anp5Id3K3w8098e8PEPqGW2EHa12vkUha56ByjB7108FIr1fr9bdjUQg8QO0AfmFAYYNxNV16kqVNLo+su3kVPi2Mjxuni1R8w==;RlEh6dzqPXakozgcPymhfg=="
+secured: "F0dwSolW0WSeBCufp8stMPYfH9faGFwV7vwtokI9fwo03Jo9c5+wcoitZBV0dHtTJZyJeRkiM9JKLEkFSxFZKRXAVMwxau+z3IswTRP5H9pzTdyEhcEsc3iPrAXfREG4NYFEu34M6P05n6xmx+htNqOv2yBVL3fZD0/3egL6KLyCgYAmP+ByjNrrTwGVS/ostxJVRNIDRxWLVEWBl7aMbEEK2cXzF6IEjMwxodYKm2VoGR54ZSwXM9aXZokLIs6m6u/ip+imISW9kzG+SkjplvCh3ot7qAUGI46Gs8URr0XSKIjzWUIpy5ZHgMp/A3sF8S7efRTOvvhJpnxy/h1edEnVJDWV2iclVGo9euFvndM=;AodETJ4aWINVJ8izDo6ewg=="
 ---
 

@@ -515,6 +515,15 @@ related:
         width: 1600
         height: 800
         isCached: true
+  - title: "As Trump's impeachment trial nears, Republicans mull questions on party's future"
+    excerpt: "As former president Donald Trump’s second impeachment nears, lawmakers discussed on Jan. 31 whether he should be held accountable for the Capitol breach."
+    publishedDateTime: 2021-01-31T18:35:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/as-trumps-impeachment-trial-nears-republicans-mull-questions-on-partys-future/2021/01/31/622e876b-2a4a-4ca4-8c1d-8061eb17c6ba_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 80
   - title: "The Republican Party is in disarray post-Trump and faces a crisis bigger than after Watergate, says veteran GOP Congressman"
     excerpt: "A rift has opened between GOP lawmakers who want Trump's legacy purged and lawmakers and grassroots supporters who remain steadfastly loyal."
     publishedDateTime: 2021-01-31T11:43:00Z
@@ -587,6 +596,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. Republicans Grapple With Internal Divisions as Trump Trial Looms"
+    excerpt: "U.S. congressional Republicans face a week of reckoning ahead of Donald Trump's second impeachment trial as the former president contends with a Tuesday deadline to respond to the charges and his party mulls whether to depose Liz Cheney as one of its House of Representatives leaders for backing impeachment."
+    publishedDateTime: 2021-01-31T20:21:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-31/us-republicans-grapple-with-internal-divisions-as-trump-trial-looms"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-31/us-republicans-grapple-with-internal-divisions-as-trump-trial-looms?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-31/us-republicans-grapple-with-internal-divisions-as-trump-trial-looms?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Most Pennsylvania GOP Backed Trump to the End, and Still Do"
     excerpt: "With Donald Trump out of the White House, Pennsylvania’s Republican Party shows no sign of walking away from a president who lost control of Congress, carried out an unprecedented campaign to overturn an election and is blamed by some in his party for inciting a violent assault on the country’s democracy."
     publishedDateTime: 2021-01-21T12:14:00Z
