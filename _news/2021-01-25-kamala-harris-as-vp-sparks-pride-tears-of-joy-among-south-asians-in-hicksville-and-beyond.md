@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What do Black women in rural NC think of Kamala Harris? | Raleigh News & Observer"
+    excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
+    publishedDateTime: 2021-01-31T04:01:00Z
+    webUrl: "https://www.newsobserver.com/news/article248902064.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article248902064.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article248902064.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 50
   - title: "'Overjoyed with tears': South Texan helped create Kamala Harris' Inauguration outfit"
     excerpt: "The purple outfit Vice President Kamala Harris wore on Inauguration Day had a South Texas connection. Arturo Castaneda Contreras, a Rio Grande Valley native, helped make the pattern and sewed the top coat Harris wore Wednesday for the historic day."
     publishedDateTime: 2021-01-22T16:02:00Z

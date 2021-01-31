@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Blair House guest quarters a temporary home for VP Harris"
-excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue"
-publishedDateTime: 2021-01-28T16:28:00Z
-originalUrl: "https://apnews.com/article/biden-inauguration-politics-walter-mondale-symone-sanders-michael-pence-dda8bd956bf65cddc29f6cbed523c10b"
-webUrl: "https://apnews.com/article/biden-inauguration-politics-walter-mondale-symone-sanders-michael-pence-dda8bd956bf65cddc29f6cbed523c10b"
+excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the"
+publishedDateTime: 2021-01-28T19:55:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/"
+webUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/?amp=1"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://storage.googleapis.com/afs-prod/media/bb45da96c98249f0813b42c0e82e8031/3000.jpeg"
-    width: 3000
-    height: 2000
-    isCached: true
 
 related:
   - title: "'Immense sense of pride': Caribbean diaspora celebrates Kamala Harris"
@@ -277,7 +273,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "What Do Black Women in Rural NC Think of Kamala Harris?"
+    excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
+    publishedDateTime: 2021-01-31T05:09:00Z
+    webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2021-01-31/what-do-black-women-in-rural-nc-think-of-kamala-harris"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "1IXJduzV+j/vECooka6dOajYsl6+wawaUA+A+V+mbLhzSmdUQ/1yASJD+112fl6XCOnfZDm/NagS8W4V2LrfDm4FoZkNNZ8lMBAd7zHdjtI2/LEn71EVgZFr0kQXbRK87mFdjbh76sPdzo9tBU6FQA/+fvTrPmamrch6zeC1HA1AA9Xjdclw7vO3lAICDU3do9/GAzkkADv5M+v3RBBdaku7kAfLdvI182D9Fw6+Dx7oPqbExYzg+JEDHNgiPaUjVj1ltvBAU1T1UlEWf9LD32D8Ti5L8vHXPIzLVCjoUwip4YZs59kMv5wohM5AHwJA5C3R+IaoV13z78SgS740Nfxr+6iRmAdSw7zxA2dg+S4=;Gj+a0CbqXULwccGbY+BHZg=="
+secured: "ZjulPhLAUKQXydwNMRCdgCi8VR37/RS/q1Bv+UPoQ/JUDLErnF7W9gckVDQ3BY7fYmUKJCrN4/ewqKa5Juo31DkXpZmo17mLnkSmKjhTACrgr+UzOO2DthA6HZOvErdmowUOjQxUttslaLaKp0fCQD6BR6LMVRMb+yiVqmgfFD8y+V/nOY6uk7eRwxXvD9GAwmf4coT0QuxR26ogMsFpVHyINEhKebnk+XO+GyFnToCxTdj2Q2bkS4k4UDVdlg5tyUzcdo7hwotiQCZs9y9yKdxL6iRCivarXsCWap1RkcWaYm264t9K7fFIexiXzi5Xu1AYOssn4RLFaup2/dMUltL9Baie77n2CcL5rYfXLa/x1+FlN08399WvyClbABnYpb4hDwyabpg3RrswA9bGGBVTVFaFzC7M/oviQl9M/RNlBJkXFZmThfrbzu6TYZqj+czSa2lbU5z9mu6GIDSiGT3CkZ8JRYLt14FXb0PbUSnjA2iYizYDGqVEbHPkJQ72cMM+QxmdMQ+b2t1eqVRLww==;zxtZZUTfyJ17jSrjyjaXLA=="
 ---
 

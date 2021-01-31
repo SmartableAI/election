@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump's impeachment defence in disarray as lead lawyers quit – reports"
+    excerpt: "Butch Bowers clashed with Trump over strategy, according to reports, and leaves along with Deborah Barberi and three others"
+    publishedDateTime: 2021-01-31T05:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/525663cdbd8a103e342d0670c36da19c31b3c287/0_0_1805_1083/master/1805.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ca181bc5a53e969f0eeb51ddd579b5c6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Democrats Hail Jamie Raskin for Leading Donald Trump Impeachment After Loss of Son Tommy"
     excerpt: "Rep. Jamie Raskin (D-MD) has been praised by his Democratic colleagues for his role leading the impeachment push against President Donald Trump following the death of his son in December. Raskin, whose son Thomas died aged 25 in December, took up the role ..."
     publishedDateTime: 2021-01-18T12:53:00Z

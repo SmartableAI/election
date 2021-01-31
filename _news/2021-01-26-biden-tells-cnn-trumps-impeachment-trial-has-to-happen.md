@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
 type: article
 quality: 190
-heat: 970
+heat: 990
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116020618-03-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump loses his impeachment team amid unfaltering loyalty from the GOP"
+    excerpt: "Former President Donald Trump's lies and his insistence that the November election was rigged against him may have turned out to be a bridge too far for the attorneys who were slated to defend him in his upcoming Senate impeachment trial in a little more than a week.\n    \n"
+    publishedDateTime: 2021-01-31T05:53:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IDB4mQAlCqI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/donald-trump-impeachment-marjorie-taylor-greene-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/donald-trump-impeachment-marjorie-taylor-greene-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102113042-101b-donald-trump-serious-centered-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

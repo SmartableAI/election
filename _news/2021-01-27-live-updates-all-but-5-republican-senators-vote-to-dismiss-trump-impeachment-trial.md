@@ -127,6 +127,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "LIVE UPDATES: Trump parts with lead impeachment lawyers a week before trial"
+    excerpt: "Follow for the latest updates on Trump's impeachment trial."
+    publishedDateTime: 2021-01-31T06:42:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z5LhvczW83M/live-updates-trump-impeachment-trial-1-31-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1280db39-0cc4-4fce-8c70-ebbdd510a556/5b88d5ef-ffb2-4dd2-a4ca-441f12e0a412/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump and McCarthy set up face-to-face meeting as Dems weigh impeachment trial options."
     excerpt: "Former President Donald trump is expected to meet with House Minority Leader Kevin McCarthy in Florida Thursday, Fox News has learned."
     publishedDateTime: 2021-01-27T21:18:24Z

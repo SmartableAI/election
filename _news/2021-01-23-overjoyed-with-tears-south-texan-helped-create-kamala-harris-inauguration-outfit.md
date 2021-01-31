@@ -73,6 +73,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What do Black women in rural NC think of Kamala Harris? | Raleigh News & Observer"
+    excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
+    publishedDateTime: 2021-01-31T04:01:00Z
+    webUrl: "https://www.newsobserver.com/news/article248902064.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article248902064.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article248902064.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 50
 
 secured: "eiuKoGkk8FmIIGZn76g8sEVwTSY0VzufeY3PixVEIqxsxMP0BN01GcP9oRSIMzMu6FzBOxUcb5jWvhQ4e8Qcb4GZ7mj7UXha8j5abJygq9XI3spTTnu+QkbbtS/DH5egGfK2bwXXL/u6hnKqrlhNsgQClzLtdZsF9s/9JVri1kz0hLwbyereC8cJrdbYMRe6hOlqKq4Ug8UtFYqJRK11FN6jVRFHFzKxFaBA32tvET4Ggcmqnv8irtK+hgrfa5qzfSo8owh/uiH6W46XRFWF1nTozZwI1WF4Hma5/sPyXxexNvMnpeSj1uZKzdfUJp72RX/PJH0zdzIuDMNOHvOnRm2pngU4TP/Y238ESdxcscRDsJCRUCpik0nxM4byGJafJjuB2WfpEJ6Y5OV+WfkzL+Z+d1MaC7igv3G5AGOA4pENXTuIa+rgRwCqvV1IrXaXQnsrVzZYluydfewlZQiIq6yBxibHH9+H076hMD0zWer5lnWiOBACZh8LdAjeOViILiXa9ryvqntQExd+M0gcqw==;Lm6f/SQZEDvUXICkliTAQA=="
 ---

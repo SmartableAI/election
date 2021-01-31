@@ -143,6 +143,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Donald Trump parts with lawyers before impeachment trial"
+    excerpt: "Former US President Donald Trump has parted ways with lawyers representing him in his impeachment trial in the Senate, US media report. The departure of Butch Bowers and Deborah Barberi was reportedly a mutual decision."
+    publishedDateTime: 2021-01-31T06:01:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55876035"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55876035"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55876035"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/16642/production/_116741719_29b1dce7-7a82-46fc-85c8-1bfb55980fa9.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
     excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
     publishedDateTime: 2021-01-31T04:41:00Z
@@ -243,6 +259,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Impeachment Lawyers Leave Team: US Media"
+    excerpt: "Several of former US president Donald Trump's impeachment lawyers have left his team a little over a week before his trial, US media reported Saturday. CNN cited unnamed sources as saying that five lawyers -- including two who were thought to be leading the team -- had parted ways with the Republican billionaire after disagreeing over his legal strategy."
+    publishedDateTime: 2021-01-31T04:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-leave-team-us-media-3134168"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
+        width: 1024
+        height: 716
+        isCached: true
 
 secured: "GjQHomoVnfNSolHVbqaG5eCl7QrL2+ahgW5eNsfDHqHAvASGCyGaHaYe/OYN558uU3gISM2y6SwfGcvc23Vh8JNOJEoGqh8V+iCSan4r0M+/fV0muym5mJJ3FDHO1Rgfut1Yh9s1NAFgvNkM/GjxMWbuM85KJfK8TYnYMFLmpnYoQJvfAyMeWRpPZTXk+sjFwsPQWl5HTM2lMr9SDzsrwLhCx9hyfUlkY99vLIx96Op9sb0md+UnoBMsrkLMxSnNSw/qyzzHP9fQChTlbk8m+i7WaCZ1DYKwiXNwlUFCed8g5ouVeMrpqL2U9IOW4UbhIiUYl4LpW+Rf5wW/4CvwQdT/mguA7UH3LcFEhqpPzKw=;0I0Gx0MoNCSj8AZ8Bdr5jA=="
 ---

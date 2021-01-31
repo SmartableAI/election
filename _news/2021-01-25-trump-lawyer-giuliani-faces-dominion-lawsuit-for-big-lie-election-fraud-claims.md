@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1CD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1CD"
 type: article
 quality: 135
-heat: 675
+heat: 715
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "Trump parts ways with impeachment lawyers: source"
+    excerpt: "Former U.S. President Donald Trump abruptly parted ways on Saturday with two lawyers who had been working on his defense for his Senate impeachment trial in what a source familiar with the situation described as a mutual decision."
+    publishedDateTime: 2021-01-31T06:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/trump-parts-ways-with-impeachment-lawyers-source-idUSKBN2A001T?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A001T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A001T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549697780&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U015"
+        width: 876
+        height: 545
         isCached: true
   - title: "U.S. House to deliver Trump charge to Senate, triggering impeachment trial"
     excerpt: "The U.S. House of Representatives on Monday is set to formally deliver to the Senate a charge accusing former President Donald Trump with inciting insurrection in a speech to his supporters before the deadly attack on the Capitol,"
@@ -403,6 +419,17 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Trump Parts Ways With Impeachment Lawyers: Sources"
+    excerpt: "Former U.S. President Donald Trump abruptly parted ways on Saturday with the two lead lawyers working on his defense for his Senate impeachment trial, a source familiar with the situation said, leaving Trump's legal strategy in disarray."
+    publishedDateTime: 2021-01-31T06:48:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-30/trump-parts-ways-with-impeachment-lawyers-source"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-30/trump-parts-ways-with-impeachment-lawyers-source?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-30/trump-parts-ways-with-impeachment-lawyers-source?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Special Counsel Appointed Under Trump Seeks Prison for Former FBI Lawyer"
     excerpt: "A former FBI lawyer who pleaded guilty to falsifying a document during the agency's investigation of contacts between former President Donald Trump's 2016 campaign and Russia is due to be sentenced on Friday,"
     publishedDateTime: 2021-01-29T11:37:00Z

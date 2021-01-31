@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump loses his impeachment team amid unfaltering loyalty from the GOP"
+    excerpt: "Former President Donald Trump's lies and his insistence that the November election was rigged against him may have turned out to be a bridge too far for the attorneys who were slated to defend him in his upcoming Senate impeachment trial in a little more than a week.\n    \n"
+    publishedDateTime: 2021-01-31T05:53:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IDB4mQAlCqI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/donald-trump-impeachment-marjorie-taylor-greene-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/donald-trump-impeachment-marjorie-taylor-greene-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102113042-101b-donald-trump-serious-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Hawley now says objection to Biden's win wasn't intended to keep Trump in office despite past comments"
     excerpt: "A defiant Sen. Josh Hawley insisted on Thursday that he never intended to overturn the presidential election by objecting to President Joe Biden's victory in Pennsylvania -- despite previously suggesting that Donald Trump could stay in power if Congress acted.\n    \n"
     publishedDateTime: 2021-01-29T00:35:36Z

@@ -123,20 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Blair House guest quarters a temporary home for VP Harris"
-    excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue"
-    publishedDateTime: 2021-01-28T16:28:00Z
-    webUrl: "https://apnews.com/article/biden-inauguration-politics-walter-mondale-symone-sanders-michael-pence-dda8bd956bf65cddc29f6cbed523c10b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/bb45da96c98249f0813b42c0e82e8031/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Kamala Harris' Alpha Kappa Alpha sorority sisters celebrate"
     excerpt: "(AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment. AKA South Eastern Director Mitzi Dease Paige said that many members were “tickled pink and green” to see the first woman of color become vice president."
     publishedDateTime: 2021-01-23T14:23:00Z
@@ -258,6 +244,17 @@ related:
       name: Tulsa World
       domain: tulsaworld.com
     quality: 55
+  - title: "Blair House guest quarters a temporary home for VP Harris"
+    excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the"
+    publishedDateTime: 2021-01-28T19:55:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
     excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."
     publishedDateTime: 2021-01-20T17:04:00Z
@@ -276,6 +273,15 @@ related:
     excerpt: "JACKSON, Miss. (AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment."
     publishedDateTime: 2021-01-23T20:46:00Z
     webUrl: "https://www.usnews.com/news/best-states/mississippi/articles/2021-01-23/kamala-harris-alpha-kappa-alpha-sorority-sisters-celebrate"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "What Do Black Women in Rural NC Think of Kamala Harris?"
+    excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
+    publishedDateTime: 2021-01-31T05:09:00Z
+    webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2021-01-31/what-do-black-women-in-rural-nc-think-of-kamala-harris"
     type: article
     provider:
       name: U.S. News & World Report

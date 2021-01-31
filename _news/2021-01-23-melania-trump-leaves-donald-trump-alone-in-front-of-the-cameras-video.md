@@ -141,6 +141,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Donald Trump parts with lawyers before impeachment trial"
+    excerpt: "Former US President Donald Trump has parted ways with lawyers representing him in his impeachment trial in the Senate, US media report. The departure of Butch Bowers and Deborah Barberi was reportedly a mutual decision."
+    publishedDateTime: 2021-01-31T06:01:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55876035"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55876035"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55876035"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/16642/production/_116741719_29b1dce7-7a82-46fc-85c8-1bfb55980fa9.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Trump parts with impeachment lawyers a week before trial"
     excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his trial"
     publishedDateTime: 2021-01-31T03:05:00Z
@@ -243,6 +259,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Impeachment Lawyers Leave Team: US Media"
+    excerpt: "Several of former US president Donald Trump's impeachment lawyers have left his team a little over a week before his trial, US media reported Saturday. CNN cited unnamed sources as saying that five lawyers -- including two who were thought to be leading the team -- had parted ways with the Republican billionaire after disagreeing over his legal strategy."
+    publishedDateTime: 2021-01-31T04:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-leave-team-us-media-3134168"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
+        width: 1024
+        height: 716
+        isCached: true
 
 secured: "xdsEMA24EmjisLHesAbT5HSQSttiwNKvLWTryUNMscOUy+urfg8wsZLIt6/pwpdnY5BM2yVH9H2thK4BrINrKbbpvLEM19SZnM9T+wlY3ITlhBEPd4xVniBrOJXXfy14jrpK8bqsOmgc+aLEAXNg/d5Yi880Ha6yjAQfB2IY/OQ7iX8Sx41fjBZrBDO3RY/Zx4ed8Ane2hcA+4VlE2X0YvTRBIwEwj1Xc2ajlZQijAUutFrdUl/07qZWzMvHfXjIZaRRZ6SI7qx/SLVtkOqw3a0T8knAEQY7LB4MS1l41pyDyKHU8uwcuZL7yjxFIWfSJ4B5hKa0neutIAhrhF5ByrgwoxsNmKwg3O4vo2wDVqKujZJ1xQg4pURlD0MeX05ra6hTr09L4N6xJIRp0Ybg4qApKw8fKLyscu4dK/2AIMGEefIsVlx9mPc/mCJHePDchCdZTIwjiGnlsVGnHsfvElx/ksD9Y14PH6s4JxoWZsrVWakYMo8UKrKKL4O9AQryH2k5VtjN2O1XxmIq0I6uvw==;LLnl2KOY1ljFVzZ3sAWG0A=="
 ---
