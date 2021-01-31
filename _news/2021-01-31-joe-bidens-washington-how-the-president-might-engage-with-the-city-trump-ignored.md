@@ -8,7 +8,7 @@ webUrl: "https://www.washingtonpost.com/lifestyle/style/dc-biden-washington-pres
 ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/dc-biden-washington-president-church-bagel/2021/01/29/a7789830-6245-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/dc-biden-washington-president-church-bagel/2021/01/29/a7789830-6245-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
 type: article
-quality: 134
+quality: 144
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IGKAF2TCHYI6XEDBA6V4YH4SFE.jpg&w=1440"

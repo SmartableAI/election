@@ -437,6 +437,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Legal Lookahead: Biden readies new orders on immigration"
+    excerpt: "Biden readies new orders on immigration. Posted . President Joe Biden plans to take further steps moving away from his predecessor's policies on immigr"
+    publishedDateTime: 2021-01-30T21:11:00Z
+    webUrl: "https://www.reuters.com/video/watch/idRCV009B3W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210130&i=RCV009B3W&r=RCV009B3W&t=2"
+        width: 5957
+        height: 3848
+        isCached: true
   - title: "Biden plans to sign executive orders boosting workers' rights and pushing for a $15 minimum wage for federal staff"
     excerpt: "Biden is set to sign an order on Friday ensuring that people can still claim unemployment benefits if they turn down a job because of COVID-19 risks."
     publishedDateTime: 2021-01-22T23:27:00Z
