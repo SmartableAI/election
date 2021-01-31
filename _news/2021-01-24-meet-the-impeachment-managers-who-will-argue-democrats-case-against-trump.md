@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
 type: article
 quality: 123
-heat: 223
+heat: 243
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump's entire legal team quits week before impeachment trial: Sources"
+    excerpt: "All five of the impeachment lawyers who were expected to represent former President Donald Trump have called it quits, sources told ABC News. The team, led by South Carolina lawyer Butch Bowers, resigned in part because of disagreements over how to mount Trump’s defense,"
+    publishedDateTime: 2021-01-31T09:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump_hpMain_20210130-230648_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump's impeachment defence in disarray as lead lawyers quit – reports"
     excerpt: "Butch Bowers clashed with Trump over strategy, according to reports, and leaves along with Deborah Barberi and three others"
     publishedDateTime: 2021-01-31T05:22:00Z
