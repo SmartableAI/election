@@ -2,9 +2,9 @@
 category: news
 title: "Top Trump donor funded rally that preceded U.S. Capitol riot - WSJ"
 excerpt: "An heiress to the Publix Super Markets chain donated about $300,000 to fund a rally that preceded the deadly storming of the U.S. Capitol this month by supporters of former President Donald Trump, the Wall Street Journal reported on Saturday."
-publishedDateTime: 2021-01-30T17:57:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-capitol-riots/top-trump-donor-funded-rally-that-preceded-u-s-capitol-riot-wsj-idUSKBN29Z0QP"
-webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-riots/top-trump-donor-funded-rally-that-preceded-u-s-capitol-riot-wsj-idUSKBN29Z0QP"
+publishedDateTime: 2021-01-30T22:37:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-capitol-riots-idUSKBN29Z0QP"
+webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-riots-idUSKBN29Z0QP"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Z0QP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Z0QP"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210130&t=2&i=1549674179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0T0GO"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210130&t=2&i=1549678697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0T0HT"
     width: 817
     height: 545
     isCached: true
@@ -118,6 +118,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "0yP2iuCSnZ4bC6sa1MAf1XQW9noOrxCCVb64wJf4tOLgA0EmXZSJfdkk+rZ00Xht0ZFMWO11rDcMBrQ5G77obZj2D19w5bR+jXVCmqLWVnAS1QBnN4Pz0GGpj6s0y/rTzNFYy0fuIgxm7P9FhRhsi614EzE/GyX68Rs4N72tr8UVqP9Mw12Aedl62BxLaop5WHiM6BnPnT77dgs5j352bEyiVg9o04AJ2g9UCnAIwt2r+JAZLp8uVRyG+EQLmeTQOm92rTRDTVe5cjKHa4e2aujJaZ23BxivfrptExuoqZACGGw//BI+ODBXq6Rs3ng6xrK9aETJ5ZEEWKiDel7IniwenIrO3rpxIq0F6JODSEzSvILQ5U3ZZ3f7VEypIRgAkgAWwQWpoj3INUOCK7+tp0HFm85mdh0GhpnL90laNFH6FQYYFtojrrBdSpJ6lrJJoKaOUdWNNRb1OmKimK2/9xpIL25vqgrQwmWJ6Okx48Dn+tzaY7o/Q5ib3GYVno2EoJKW8XR6S0dt23zulhAnjQ==;mnMKrSOuNNEpanyr1A4zMA=="
+secured: "RTE7ex78sz7i3PeGXCCNDHPhCC37//KNPZ3FluDbDM/Xf38xHCcOzKLR5OCYTkXPuyIvBmqO78X/DeX1oGHo7mTadKLvOqf9FhiecxG2KlOp1mQ7RS1kyQhfFvHx1xpmnusULJ2GpX/4qXSe9NN6XSMSvh/smUbcO17X2vNJ/UmsIhOwbF92vEX8ZlYjJDZnmojhbD/fZWULpiXQa+jXh4g4oBKEJCQAa7TQZu2KdlVmARBlFx3Ysmr2Wg9SchsEaEm3idDmXkip1PCTBLV3+EmSLItcKWd6p4RanAsvg+rqMRdbeIR21TEx58glstHk5OmgunYQ6M5SQgApv0tlgF18NLPfc8c+D2sgH7rbp00=;jw6gBZxsFCKIc9uDfjTGJw=="
 ---
 
