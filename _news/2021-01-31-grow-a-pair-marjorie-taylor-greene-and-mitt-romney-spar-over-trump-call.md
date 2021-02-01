@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romne
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614?amp=1"
 type: article
 quality: 123
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 2500
     height: 1822
     isCached: true
+
+related:
+  - title: "Ex-Trump Aide Invites Marjorie Taylor Greene to Meet Pentagon Staff Who Experienced 9/11"
+    excerpt: "The far-right congresswoman has backed debunked conspiracy theories around the 2001 attacks among a host of other fringe beliefs."
+    publishedDateTime: 2021-02-01T10:43:00Z
+    webUrl: "https://www.newsweek.com/ex-trump-aide-marjorie-taylor-greene-pentagon-911-1565724"
+    ampWebUrl: "https://www.newsweek.com/ex-trump-aide-marjorie-taylor-greene-pentagon-911-1565724?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-trump-aide-marjorie-taylor-greene-pentagon-911-1565724?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1721247/marjorie-taylor-green-pictured-dc-november.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "OobuZ2jvPpRaRmJzOtoPkddw3bD+6Qf7EUlOvV7SolWAcK2oAKu1MajVar9RHSk8g+HPnzmunW6KTegC8enThzxBumwpdVfzTerqMq2s5raIiSW0Ig0/KglXYbJ49z26xU69ploypxBBMUgmUoJPGRTqCsXmKLoJIchD4/D1pMJIBmCaRWYtR9QKLdeTfTZqzSnECeSjI3xam3zEnchzKHebh6hc/wit/A8sWqoTUqFVhO2aIdvq5QbEsdMAEyxWeT0T+aZxLs2BUK4nyh0yVcl7vvBkd4dJvAMnkr5RN9y2+rBY2DZDqBxr4q/IQq13U//8D/rwsnyXaYCc0UCsWE3qngCq53Mu4haOj8u9lpw=;gLt/zTip6jbxIF7e2GqQlA=="
 ---

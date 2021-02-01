@@ -3,10 +3,10 @@ category: news
 title: "GOP lawmakers urge Biden to meet with them on virus relief"
 excerpt: "A group of Senate Republicans has called on President Joe Biden to meet them at the negotiating table as the newly elected president signals he could move to pass a new $1.9 trillion coronavirus aid p"
 publishedDateTime: 2021-01-31T15:34:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
-webUrl: "https://abcnews.go.com/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
+originalUrl: "https://abcnews.go.com/Health/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596660"
+webUrl: "https://abcnews.go.com/Health/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596660"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596660"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596660"
 type: article
 quality: 125
 heat: -1
@@ -240,6 +240,6 @@ related:
         height: 683
         isCached: true
 
-secured: "ILXhmQQvKXwLKGuZ7ReZ/7FAsMWzvg8QLRPJ3F5CZLYYYhPVa0JzV86Evh8LFe19tTM4AUTX3dyVT9m8zdSy7JPmzIlrU/UCbkCsw27WRTNdKyWWGpuF68fa2rIjCKiv+fxyGPzOKEOnYDroVmM1QK5JkCt2PhFMPN9difsAZmleWjODTNuDnzRU7dvgPG3/ndlGjQXQDQh+l+pKyUl2Fcv3kArM5pmzabCsUnG1VsmGNe1GwuhbGPKdpzhBLARspnH+HVf0BHJuKbC2br03O1k/Vouu0irqRYpE6PqttyKnY2Znqw/AR1TPvBkfWk5f7zX6ObolAe4yB8RuEprIJ4D6YrwVjCr7TBUnY6w7PN02h4FNEsTsVqLqCATenRY0hXlNfZM8fPxHZ2e8IZ+7SCWT0p/wygrGP0X7wITJuIJBOjwhzQ12KzhiaKYC5ulA43j6ZTBfsAe2s6MaSVKH2oZShrnrjepZpoDbf76Q3ysD3RvoKxKUL8Wzqwzn4TNiWW/ZTIPfqSbT9u+5CJ5NeQ==;rdxBYbQLZBiJACV7Bmh0hg=="
+secured: "WYw2I6I2yvohK9JiRzkJbFSgB0pI5xefssUYOyRnu31GLD56U5zcrcvptqhn2fecjcjbl93M92i4TJlmOnAfDsiVl+8UKam2GUH/XtoApCxLQz+m6Y/mTGPnRXtj2HjKpWJjHq1rPMUlRfFwa9vzJctCN7ztzx4l30A6Ud1mCXQgDvP9uZEoPAkD7J3QoiAyiOUGrOOHCDFqxnZtpHMb1L6qnsvQKF8JHALCRCjlEsyxcMmttuWMudXfZEvlhKyC2280AmJa7UETzygFkr29aUh9KPlE2KJnlfcYuXrDG/Tc4EkhjaSoJ2mm+98w8zt81lXqcGtIPfflaXXTkri7zsuGEilEECLAMq+GEbldlM8=;tf49K0LJjo8w5t94eISA+Q=="
 ---
 

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch live: Biden nominee for DHS Director testifies at confirmation hearing"
+    excerpt: "President-elect Joe Biden's nominee for Director of the Department of Homeland Security Alejandro Mayorkas on Tuesday morning is slated to testify at his Senate confirmation hearing.The hearing is scheduled to begin at 10 a."
+    publishedDateTime: 2021-01-19T14:23:00Z
+    webUrl: "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing"
+    ampWebUrl: "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/mayorkasalejandro_11242020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "EXPLAINER: Election claims, and why it's clear Biden won"
     excerpt: "As Democrat Joe Biden is sworn in Wednesday as the nation’s 46th president, Donald Trump’s most ardent supporters still believe Biden was not legitimately elected after Trump continues to argue the election was stolen."
     publishedDateTime: 2021-01-20T06:17:00Z
@@ -42,17 +58,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
-  - title: "EXPLAINER: Biden's Iran problem is getting worse by the day"
-    excerpt: "Joe Biden has an Iran problem. And, it’s getting more complicated by the day."
-    publishedDateTime: 2021-01-05T15:45:00Z
-    webUrl: "https://www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1?amp"
+  - title: "Senate hearing to consider Alejandro Mayorkas as Biden's head of DHS"
+    excerpt: "The Senate Homeland Security Committee meets to consider Alejandro Mayorkas' nomination as Secretary of Department of Homeland Security for President-elect Joe Biden's administration."
+    publishedDateTime: 2021-01-19T19:45:00Z
+    webUrl: "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 85
 
 secured: "7ryAjAJwFETpZA21rCjx4eDpxB8MiarMbwpajYRL230RMhZSfEcvvqLnF7cxHRKTg+dplopbf5hkoQaxTyy7zjka70WehooqA2KTLNX6brPz0fGSrAx4NotXA29TC0A5iQ6jj/JKdBUHcbGYASq7puQqoBLE01k6QpoBeqqzDCGqVH4UDfhQP6vdsq4LYyEupO2ykavO8CkxCEaeFCgzvLLn3f5E5d+VufQ/n5MzIn6x38N9DJ1MWY045HmPIy1914l6oKP5/1lrtNMGylPyyOzRyy8qd5fgPA7llXtRT8w1lk2vxgpvLp//wajSANvSVTRAQtUmmSEMXWMnN2tuiXUYA5OoC+19us4F0xi9ViHeSq1QzwJ9C23TFXIHMBTZUxeRcX5lAzWEQXxYnqUuTxZt7pLpDWzjpJntbw2emSJ+BZ0Sfu/9qx1VzkDaucEyywolPFAD1RM7jN1adsMPIGYdn8FhLpJrle+Zwz+PSpCuNphTwUg6hDcph3Ob2i46ciAvL7Q/PWubjPpIYXupAA==;yS1/M+WzB1ghSQ8bivF5ZA=="
 ---

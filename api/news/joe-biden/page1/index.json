@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-01-biden-and-harris-to-meet-republican-senators-to-push-for-covid-aid-package-live-updates.md",
+      "title": "Biden and Harris to meet Republican senators to push for Covid aid package – live updates",
+      "excerpt": "President and Kamala Harris will meet Republican senators today to push for bipartisan Covid aid package",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c2e3f59479f0dbf70618b2575a37d3ed18390aad/34_0_5966_3580/master/5966.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=649cab330f0fd870c64587edf12cfc46",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates",
+      "publishedDateTime": "2021-02-01T02:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-biden-presidency-may-herald-new-start-for-saudi-iranian-relations.md",
       "title": "Biden presidency 'may herald new start for Saudi-Iranian relations'",
       "excerpt": "Existing quiet cooperation has been under way for months, say authors of Guardian comment article",
@@ -34,6 +87,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-meet-the-corporate-lobbying-powerhouses-that-bankrolled-joe-bidens-star-studded-fireworks-filled-inauguration-bash.md",
+      "title": "Meet the corporate lobbying powerhouses that bankrolled Joe Biden's star-studded, fireworks-filled inauguration bash",
+      "excerpt": "Online disclosures of certain corporate and union contributions disappeared from Biden's inaugural website after January 27.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/joe-biden-inauguration-corporations-lobbying-contributions-money-inaugural-2021-1",
+      "originalUrl": "https://www.businessinsider.com/joe-biden-inauguration-corporations-lobbying-contributions-money-inaugural-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6009014adb847c001918bfe0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-31T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -114,7 +219,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-administration-goals-20210131-hixvijvamfbjlfeszmsqnpzuzm-story.html?outputType=amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -138,110 +243,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-biden-faces-calls-to-secure-release-of-us-man-in-afghanistan.md",
-      "title": "Biden faces calls to secure release of US man in Afghanistan",
-      "excerpt": "Relatives and supporters of an American contractor who was abducted a year ago in Afghanistan and is believed to be in the custody of a Taliban-linked militant group are pressing the new Biden adminis",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/General/afghanistan-abuducted-american-mark-frerichs-01-ap-llr-210130_1612035203754_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502",
-      "publishedDateTime": "2021-01-30T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-biden-visits-wounded-soldiers-at-walter-reed-where-son-died.md",
-      "title": "Biden visits wounded soldiers at Walter Reed, where son died",
-      "excerpt": "President Joe Biden has made his first major foray outside the White House with a visit to Walter Reed National Military Medical Center to meet with wounded soldiers",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_1fb006fe7b104c96a50132cb5ffdcdcf_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "publishedDateTime": "2021-01-29T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -314,21 +315,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-29-the-fired-fox-news-editor-behind-the-networks-arizona-election-call-for-biden-says-he-became-the-target-of-murderous-rage-from-viewers.md",
-      "title": "The fired Fox News editor behind the network's Arizona election call for Biden says he became the target of 'murderous rage' from viewers",
-      "excerpt": "Chris Stirewalt, who oversaw the Fox News Decision Desk during 2020 election coverage, was fired last week after being exiled from air.",
+      "path": "_news/2021-01-29-biden-to-visit-wounded-soldiers-at-walter-reed-hospital.md",
+      "title": "Biden to visit wounded soldiers at Walter Reed Hospital",
+      "excerpt": "President Joe Biden is making his first major foray outside the White House, to visit wounded soldiers at Walter Reed Hospital, just outside Washington",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fired-fox-editor-chris-stirewalt-targeted-after-biden-arizona-call-2021-1",
-      "originalUrl": "https://www.businessinsider.com/fired-fox-editor-chris-stirewalt-targeted-after-biden-arizona-call-2021-1",
+      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 245,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/6013fdee1d2df20018b71845?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://s.abcnews.com/images/Health/WireAP_c332139ef1dc440aaaa9f6ee89d4095f_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -336,16 +337,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fired-fox-editor-chris-stirewalt-targeted-after-biden-arizona-call-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fired-fox-editor-chris-stirewalt-targeted-after-biden-arizona-call-2021-1?amp",
-      "publishedDateTime": "2021-01-29T05:38:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
+      "publishedDateTime": "2021-01-29T07:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -431,7 +432,7 @@
       "originalUrl": "https://www.theguardian.com/politics/audio/2021/jan/29/biden-pandemic-problem-politics-weekly-extra-podcast",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -747,110 +748,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-28-as-biden-vows-monumental-action-on-climate-change-a-fight-with-the-fossil-fuel-industry-has-only-begun.md",
-      "title": "As Biden vows monumental action on climate change, a fight with the fossil fuel industry has only begun",
-      "excerpt": "President Biden is determined to curb America's carbon output, including oil and gas production. It's not going to come without a fight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/",
-      "originalUrl": "https://www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5CCJ6GSAVMI6XNMLCYR7MJTZMA.jpg&w=1440",
-          "width": 1440,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/?outputType=amp",
-      "publishedDateTime": "2021-01-27T21:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-bidens-1st-100-days-live-updates-fema-seeks-us-troops-to-help-with-vaccinations.md",
-      "title": "Biden's 1st 100 days live updates: FEMA seeks US troops to help with vaccinations",
-      "excerpt": "A draft request for assistance between FEMA and the Department of Defense is under discussion that would seek as many as 10,000 service members to support administering COVID-19 vaccine shots up to 100 sites nationwide,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
-      "originalUrl": "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/national-guard-vaccine-reut_hpMain_20210127-205858_16x9_1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
-      "publishedDateTime": "2021-01-27T18:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-28-fact-check-biden-family-bible-used-during-his-oath-is-historically-roman-catholic-not-connected-to-illuminati-or-freemasons-as-posts-claim.md",
       "title": "Fact check: Biden Family Bible used during his oath is historically Roman Catholic, not connected to Illuminati or freemasons as posts claim",
       "excerpt": "In the days following U.S. President Joe Biden’s inauguration on Jan. 20, posts on social media claimed that the Bible he used during his swearing-in ceremony is connected to the Masonic Order or the Illuminati.",
@@ -903,21 +800,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-28-joe-biden-launches-major-lobbying-campaign-to-build-support-for-19t-stimulus-package.md",
-      "title": "Joe Biden Launches Major Lobbying Campaign to Build Support for $1.9T Stimulus Package",
-      "excerpt": "Biden and Democratic leaders in Congress want more money and programs, but GOP lawmakers have balked at the legislation's massive price tag.",
+      "path": "_news/2021-01-27-biden-aims-for-most-ambitious-us-effort-on-climate-change.md",
+      "title": "Biden aims for most ambitious US effort on climate change",
+      "excerpt": "President Joe Biden is undertaking undertaking the most ambitious effort ever to cut America’s oil, gas and coal emissions and stave off the worst effects of climate change",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976",
-      "originalUrl": "https://www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976",
+      "webUrl": "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 765,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1718429/biden-harris.jpg",
-          "width": 2500,
-          "height": 1667,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -925,16 +822,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976?amp=1",
-      "publishedDateTime": "2021-01-27T14:46:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-27T06:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1011,7 +908,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-says-hes-bringing-back-the-pros-for-virus-briefings/2021/01/27/2321ce2c-605f-11eb-a177-7765f29a9524_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1055,21 +952,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-27-biden-to-reopen-obamacare-markets-for-covid-19-relief.md",
-      "title": "Biden to reopen 'Obamacare' markets for COVID-19 relief",
-      "excerpt": "Fulfilling a campaign promise, President Joe Biden plans to reopen the HealthCare.gov insurance markets for a special sign-up opportunity geared to people needing coverage in the coronavirus pandemic.",
+      "path": "_news/2021-01-27-biden-addresses-racial-bias-in-housing-directs-doj-to-phase-out-use-of-private-prisons-in-new-executive-orders.md",
+      "title": "Biden addresses racial bias in housing, directs DOJ to phase out use of private prisons in new executive orders",
+      "excerpt": "\"These aren't feel good policies. The evidence is clear. Investing in equity is good for economic growth,\" said Susan Rice, head of the Domestic Policy Council.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946",
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/26/joe-biden-sign-new-executive-orders-laying-out-racial-equity-agenda/4259711001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/26/joe-biden-sign-new-executive-orders-laying-out-racial-equity-agenda/4259711001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Health/WireAP_4ce7a743968f4008a13d04865fd4058c_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://www.gannett-cdn.com/presto/2021/01/26/USAT/a1e186e4-016a-436e-a20a-3567c57bfca6-Biden_pen.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1077,16 +974,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946",
-      "publishedDateTime": "2021-01-26T20:25:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4259711001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4259711001",
+      "publishedDateTime": "2021-01-26T18:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1159,21 +1056,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-27-biden-speaks-to-putin-for-first-time-since-taking-power-white-house.md",
-      "title": "Biden speaks to Putin for first time since taking power: White House",
-      "excerpt": "U.S. President Joe Biden spoke to Russian President Vladimir Putin on Tuesday for the first time since taking office and raised concerns about Russian activities including the treatment of jailed Kremlin critic Alexei Navalny,",
+      "path": "_news/2021-01-27-biden-presses-putin-on-navalny-arrest-and-pushes-arms-treaty-in-first-phone-call.md",
+      "title": "Biden presses Putin on Navalny arrest and pushes arms treaty in first phone call",
+      "excerpt": "The White House said the president raised concerns about Navalny's arrest and Russia's treatment of protesters.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-russia-usa-biden-putin-idUSKBN29V2AJ",
-      "originalUrl": "https://www.reuters.com/article/us-russia-usa-biden-putin-idUSKBN29V2AJ",
+      "webUrl": "https://www.cbsnews.com/news/biden-putin-call-navalny-poisoning-treaty/",
+      "originalUrl": "https://www.cbsnews.com/news/biden-putin-call-navalny-poisoning-treaty/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 120,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549143451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1CN",
-          "width": 844,
-          "height": 545,
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/7540ab50-d556-4559-96ef-35e99a45306a/thumbnail/1200x630/ff5ee79b684be54c9e9014643354f4a0/ap20314484333168.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1181,16 +1078,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V2AJ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2AJ",
-      "publishedDateTime": "2021-01-26T16:13:00-08:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-putin-call-navalny-poisoning-treaty/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-putin-call-navalny-poisoning-treaty/",
+      "publishedDateTime": "2021-01-26T11:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1211,21 +1108,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-26-biden-to-sign-new-executive-orders-on-his-racial-equity-agenda-live.md",
-      "title": "Biden to sign new executive orders on his racial equity agenda – live",
-      "excerpt": "President will give address on racial equality on Tuesday afternoon after senators are sworn in for Trump impeachment",
+      "path": "_news/2021-01-25-biden-officials-discuss-19-tn-stimulus-plan-in-call-with-group-of-bipartisan-lawmakers.md",
+      "title": "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers",
+      "excerpt": "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates?page=with:block-6010258c8f0869215d930d1d",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates?page=with:block-6010258c8f0869215d930d1d",
+      "webUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026",
+      "originalUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026",
       "featuredContent": null,
       "highlight": null,
-      "heat": 865,
+      "heat": 176,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/2cf58929b1222f15c3f8573f1f34e86f29f147c3/0_209_5550_3333/master/5550.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8d61721628dd9df049b57a80b2e99eae",
-          "width": 600,
-          "height": 360,
+          "url": "https://d.newsweek.com/en/full/1714910/biden-harris-white-house.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1233,16 +1130,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates",
-      "publishedDateTime": "2021-01-26T06:00:00-08:00",
+      "ampWebUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1",
+      "publishedDateTime": "2021-01-24T20:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1288,58 +1185,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/media/2021/01/24/lauren-wolfe-new-york-times-biden-tweet/?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2021/01/24/lauren-wolfe-new-york-times-biden-tweet/?outputType=amp",
       "publishedDateTime": "2021-01-24T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-return-of-the-technocrats-biden-aims-for-normal-after-four-years-of-tumult.md",
-      "title": "Return of the technocrats: Biden aims for ‘normal’ after four years of tumult",
-      "excerpt": "The first few days of Biden’s administration have produced a blizzard of fact sheets and memorandums — a veritable redwood worth of paperwork — with aspirations of a return to regular order.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJVT6RC47EI6XKCJN6KCHJ277U.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-23T18:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -1432,7 +1277,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1476,6 +1321,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-24-fauci-says-bidens-strikingly-different-tone-on-covid-crisis-will-rev-up-vaccination-efforts.md",
+      "title": "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts",
+      "excerpt": "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912",
+      "originalUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1714793/anthony-fauci.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1",
+      "publishedDateTime": "2021-01-23T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-biden-says-we-need-to-act-decisively-and-boldly.md",
       "title": "Biden says we need to act 'decisively and boldly'",
       "excerpt": "President Joe Biden said on Friday the U.S. economic crisis was deepening and that the government needs to take major action now to help struggling Americans.",
@@ -1484,7 +1381,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUKKBN29R2JV",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1536,7 +1433,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
       "featuredContent": null,
       "highlight": null,
-      "heat": 356,
+      "heat": 316,
       "tags": null,
       "images": [
         {
@@ -1578,6 +1475,110 @@
         "Election",
         "Joe Biden",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-biden-order-seeks-stronger-workplace-safety-rules-signaling-a-more-worker-friendly-approach.md",
+      "title": "Biden order seeks stronger workplace safety rules, signaling a more worker friendly approach",
+      "excerpt": "The Executive Order could lead to an emergency standard for businesses — a set of a regulations they would have to comply with, like mask-wearing, that advocates say is necessary to combat the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/",
+      "originalUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KLXVVQCAZ4I6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp",
+      "publishedDateTime": "2021-01-21T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-biden-to-seek-five-year-extension-of-nuclear-arms-treaty-with-russia-washington-post.md",
+      "title": "Biden to seek five-year extension of nuclear arms treaty with Russia: Washington Post",
+      "excerpt": "President Joe Biden will seek to extend the New START arms control treaty with Russia for five years, The Washington Post reported on Thursday, citing unidentified senior U.S. officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-russia-nuclear/biden-to-seek-five-year-extension-of-nuclear-arms-treaty-with-russia-washington-post-idUSKBN29Q2I4",
+      "originalUrl": "https://www.reuters.com/article/us-usa-russia-nuclear/biden-to-seek-five-year-extension-of-nuclear-arms-treaty-with-russia-washington-post-idUSKBN29Q2I4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548635762&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1OZ",
+          "width": 800,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29Q2I4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q2I4",
+      "publishedDateTime": "2021-01-21T14:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

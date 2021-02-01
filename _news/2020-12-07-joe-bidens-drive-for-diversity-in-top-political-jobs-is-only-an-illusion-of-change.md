@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Top secret: Biden gets access to President’s Daily Brief"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris began receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan. 20"
+    publishedDateTime: 2020-12-01T01:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/top-secret-biden-gets-access-to-presidents-daily-brief/2020/11/30/d759037e-3378-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/top-secret-biden-gets-access-to-presidents-daily-brief/2020/11/30/d759037e-3378-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/top-secret-biden-gets-access-to-presidents-daily-brief/2020/11/30/d759037e-3378-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Wisconsin certifies Joe Biden as winner following recount"
     excerpt: "Joe Biden’s victory in Wisconsin has been certified following a partial recount that added slightly to his 20,600-vote margin over President Trump."
     publishedDateTime: 2020-12-01T00:18:00Z
@@ -95,6 +111,22 @@ related:
         width: 758
         height: 545
         isCached: true
+  - title: "Unveiling economic team, Biden pledges, ‘Help is on the way’"
+    excerpt: "President-elect Joe Biden has introduced top advisors he says will help his administration rebuild an economy hammered by the COVID-19 pandemic."
+    publishedDateTime: 2020-12-01T21:43:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-01/unveiling-economic-team-biden-pledges-help-is-on-the-way"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-01/unveiling-economic-team-biden-pledges-help-is-on-the-way?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-01/unveiling-economic-team-biden-pledges-help-is-on-the-way?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9c1be0d/2147483647/strip/true/crop/4207x2748+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2F37%2F6b45480b46af967b7e3d5412685d%2Fbiden-37838.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden faces growing pressure over defense secretary pick"
     excerpt: "President-elect Joe Biden is facing increasing pressure from competing Democratic factions as he finalizes his choice for secretary of defense."
     publishedDateTime: 2020-12-03T11:23:00Z
@@ -142,6 +174,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELBI7NRUCMI6XFUZADJRD4J5FU.jpg&w=1440"
         width: 1440
         height: 974
+        isCached: true
+  - title: "Unveiling economic team, Biden pledges, 'Help is on the way'"
+    excerpt: "President-elect Joe Biden has introduced top advisers he says will help his administration rebuild an economy hammered by the coronavirus pandemic"
+    publishedDateTime: 2020-12-03T03:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-unveils-economic-team-critical-moment-recovery-74481765"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-unveils-economic-team-critical-moment-recovery-74481765"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-unveils-economic-team-critical-moment-recovery-74481765"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dde971aafe2f40269ccc2ead36f4bca8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Unveiling economic team, Biden pledges, 'Help is on the way'"
+    excerpt: "President-elect Joe Biden has introduced top advisers he says will help his administration rebuild an economy hammered by the coronavirus pandemic"
+    publishedDateTime: 2020-12-04T07:11:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dde971aafe2f40269ccc2ead36f4bca8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "U.S. green groups say honeymoon is over, turn up heat on Biden"
     excerpt: "U.S. environmental groups that poured money and effort behind Democrat Joe Biden's successful run for president are shifting to a new more adversarial role now that he has been elected, launching a pressure campaign to make sure he delivers on his promises to fight"
@@ -504,6 +568,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Safe harbor law locks Congress into accepting Biden's win"
+    excerpt: "Happy Safe Harbor Day, America."
+    publishedDateTime: 2020-12-08T14:37:00Z
+    webUrl: "https://www.businessinsider.com/safe-harbor-law-locks-congress-into-accepting-bidens-win-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/safe-harbor-law-locks-congress-into-accepting-bidens-win-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/safe-harbor-law-locks-congress-into-accepting-bidens-win-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "High court rejects GOP bid to halt Biden's Pennsylvania win"
     excerpt: "The Supreme Court has rejected Republicans' last-gasp bid to reverse Pennsylvania's certification of President-elect Joe Biden's victory in the electoral battleground."
     publishedDateTime: 2020-12-09T03:23:00Z

@@ -43,22 +43,6 @@ related:
         width: 992
         height: 559
         isCached: true
-  - title: "VP Kamala Harris' niece Meena Harris on learning 'female ambition is a good thing'"
-    excerpt: "Meena Harris spoke with \"The View\" co-host Sunny Hostin on her children's book \"Ambitious Girl\" and how her family serves as a constant inspiration to her work."
-    publishedDateTime: 2021-01-28T00:39:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/vp-kamala-harris-niece-meena-harris-learning-female/story?id=75514535"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/vp-kamala-harris-niece-meena-harris-learning-female/story?id=75514535"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/vp-kamala-harris-niece-meena-harris-learning-female/story?id=75514535"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/US/MeenaHarris-TheView_1611758373667_hpMain_16x9_992.jpg"
-        width: 992
-        height: 559
-        isCached: true
   - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
     excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
     publishedDateTime: 2020-12-30T13:58:00Z
@@ -74,6 +58,20 @@ related:
       - url: "https://media.khou.com/assets/WXIA/images/538ffc43-e730-4b70-933e-ec6bde3a4846/538ffc43-e730-4b70-933e-ec6bde3a4846_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "CompTIA Congratulates President Joe Biden and Vice President Kamala Harris, Supports Administration’s Tech Workforce Goals"
+    excerpt: "CompTIA, the nonprofit association for the information technology (IT) industry, today released this statement by its President and CEO, Todd Thibodeaux, on the inauguration of President Joe Biden and Vice President Kamala Harris."
+    publishedDateTime: 2021-01-22T16:35:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/joe-biden-technology-business-labor-economy-technology-issues-a4c973a859cc44952470114a77939c71"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 94
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
     excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
@@ -107,19 +105,19 @@ related:
         width: 2048
         height: 1367
         isCached: true
-  - title: "NJ boutique owners hope for a boost from Jill Biden's blues and Kamala Harris' pearls"
-    excerpt: "It's been a long 10 months for fashionistas during the pandemic. So the bold colors and styles at last week's inauguration were cause for celebration."
-    publishedDateTime: 2021-01-26T15:26:00Z
-    webUrl: "https://www.northjersey.com/story/news/2021/01/25/nj-boutiques-hope-boost-biden-harris-inauguration-fashions/6673515002/"
-    ampWebUrl: "https://amp.northjersey.com/amp/6673515002"
-    cdnAmpWebUrl: "https://amp-northjersey-com.cdn.ampproject.org/c/s/amp.northjersey.com/amp/6673515002"
+  - title: "'Tears in our eyes.' Local leaders react as Joe Biden and Kamala Harris take the oath."
+    excerpt: "At least on Wednesday, many Republicans and Democrats in the Cincinnati region ceased bickering and congratulated Biden."
+    publishedDateTime: 2021-01-20T20:36:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/01/20/biden-inauguration-heres-how-local-leaders-viewed-inaugural-speech/4218249001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4218249001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4218249001"
     type: article
     provider:
-      name: NorthJersey.com
-      domain: northjersey.com
-    quality: 83
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 82
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/22/PNJM/353a055b-28ab-4770-a323-fcc01cda77f6-tiffany.jpg?auto=webp&crop=827,466,x0,y141&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/NWKL/165ec70c-805f-4fae-9c56-6d70c4d425e7-biden.png?auto=webp&crop=1019,574,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
         isCached: true
@@ -170,34 +168,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/ceddbdfa-77f9-4462-a868-179faa78cbcf-AP_Election_2020.jpg?auto=webp&crop=4500,2531,x0,y228&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The Debate on Vice President Kamala Harris’s Vogue Cover"
-    excerpt: "Vogue announced Vice President Kamala Harris as its February 2021 Cover Star, leading to intense backlash on social media over how the Vice President was styled."
-    publishedDateTime: 2021-01-26T03:00:00Z
-    webUrl: "https://www.thecrimson.com/article/2021/1/26/vice-president-kamala-harris-vogue/"
-    type: article
-    provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 55
-    images:
-      - url: "https://s3.amazonaws.com/media.thecrimson.com/photos/2021/01/25/212618_1347909.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Vice President Kamala Harris will stay here until official home is ready"
-    excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
-    publishedDateTime: 2021-01-28T17:35:00Z
-    webUrl: "https://www.ajc.com/news/nation-world/vice-president-kamala-harris-will-stay-here-until-official-home-is-ready/MEWG6GQJRJHNXB7GDOLOTZCKCQ/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 54
-    images:
-      - url: "https://www.ajc.com/resizer/SRQzj6K4MUguN56Z2N9ZLF-9bXs=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-21-2021/t_7e4f7c2f3e414295abc26151b2ec2751_name_db4cec39bce7441c8283051b99b794d7"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "NsDYwZpCj8gJX2vA+cuQSdtZboEIgUOiDyhgHX1NJz0vWu3akECJGsOma2JBL9ELZ9npHGGzTpzDtYteXPedg8kvLmI6yiENpFu9irekxtVFqcPliqBF5kVAaVcZSMOkpfY72kxuCAG6/xPHHXR72mQUmOhFaKdHwzGtD3xJOtS4xG7Chbe7leD6Y2PdxfSP6vXBFwyhRMhtpZa8N4cXDY/Wzrt3Yv71LpFBqW3koJT/r3IQSARjHxb1b+6zKJAugJAgCiHYSFR63HSQY9iW9/Bm6T2XZqfyE+sQ2fn+Ryv/O/rwZoiKv/Ev25SUDR3gPjQjQlsK0FQLGeFDt//+Qg+D/6sMCfE4XpHEdS4j47E=;7WTXv1o4YulJxtLPQPXPNA=="

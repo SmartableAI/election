@@ -59,22 +59,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Shyamala Gopalan: The woman who inspired Kamala Harris"
-    excerpt: "Shyamala Gopalan was a pioneering woman of colour in America, a scientist and an activist. She was also Vice-President Kamala Harris's mother and her \"greatest influence\". Geeta Pandey in Delhi and Vineet Khare in Washington DC look at her life."
-    publishedDateTime: 2021-01-26T01:17:00Z
-    webUrl: "https://www.bbc.com/news/world-asia-india-55786214"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-asia-india-55786214"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-asia-india-55786214"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11CC9/production/_116650927_shyamala-with-toddler.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Kamala Harris becomes first female, first black and first Asian-American VP"
     excerpt: "Kamala Harris has made history as the first female, first black and first Asian-American US vice-president. She was sworn i. Ms Harris, who is of Indian-Jamaican heritage, initially ran for the Democratic nomination."
     publishedDateTime: 2021-01-20T16:50:00Z
@@ -121,20 +105,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "VP Kamala Harris receives 2nd Moderna dose"
-    excerpt: "Watch \"VP Kamala Harris receives 2nd Moderna dose\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-01-26T21:03:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210126204951-vp-kamala-harris-receives-2nd-moderna-dose/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/26/story_08722873_1611694564.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Latest line: A good week for Kamala Harris, bad one for oil industry"
     excerpt: "Oil industry Biden vows to block new drilling on public lands across the West, crack down on pollution and greenhouse emissions, and push former industry lobbyists out of government jobs. Alex Padilla Former California secretary of state is sworn in as the state’s first Latino U."
     publishedDateTime: 2021-01-24T14:11:00Z
@@ -150,70 +120,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/BNG-SWEARIN-0121-010.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "VP Kamala Harris receives second dose of Moderna vaccine"
-    excerpt: "Vice President Kamala Harris on Tuesday received her second shot of the COVID-19 vaccine from Moderna, meaning she is fully immunized against the disease."
-    publishedDateTime: 2021-01-26T21:38:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jan/26/kamala-harris-receives-second-dose-moderna-vaccine/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/26/kamala-harris-receives-second-dose-moderna-vaccine/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/26/kamala-harris-receives-second-dose-moderna-vaccine/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/26/biden_55145_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Blair House guest quarters a temporary home for VP Harris"
-    excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
-    publishedDateTime: 2021-01-28T11:30:00Z
-    webUrl: "https://www.chron.com/news/article/Blair-House-guest-quarters-a-temporary-home-for-15905348.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Blair-House-guest-quarters-a-temporary-home-for-15905348.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Blair-House-guest-quarters-a-temporary-home-for-15905348.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Blair House guest quarters a temporary home for Kamala Harris"
-    excerpt: "Harris is living temporarily at Blair House, the president’s official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
-    publishedDateTime: 2021-01-28T19:14:00Z
-    webUrl: "https://chicago.suntimes.com/2021/1/28/22254762/blair-house-guest-quarters-a-temporary-home-for-kamala-harris"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/1/28/22254762/blair-house-guest-quarters-a-temporary-home-for-kamala-harris"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/1/28/22254762/blair-house-guest-quarters-a-temporary-home-for-kamala-harris"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 75
-    images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "What do Black women in rural NC think of Kamala Harris?"
-    excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
-    publishedDateTime: 2021-02-01T01:56:00Z
-    webUrl: "https://www.sacbee.com/news/article248902064.html"
-    ampWebUrl: "https://amp.sacbee.com/news/article248902064.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article248902064.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/b519aa9c-2e56-419d-b46c-228a6887a74d/dd47c3d3-0d54-48fc-a407-5613900967df/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Kamala Harris’ historic rise as U.S.’s first Black, Caribbean-American VP celebrated"
     excerpt: "Vice President-elect Kamala Harris, left, and Felicia Persaud, a long-time Caribbean activist during a virtual celebration of Harris’ historic rise ahead of Jan. 20, 2021 inauguration of U.S. President-elect Joe Biden. Courtesy of Invest Caribbean ..."
@@ -231,42 +137,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Faith and Kamala Harris; China's Uighar Minority; How to be a Refugee"
-    excerpt: "When Kamala Harris was sworn in as the US vice-president this week, Hindus gathered in her family's ancestral home town in India to pray for her success. Much is said about her st"
-    publishedDateTime: 2021-01-27T00:12:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/m000rm8h"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p094vgf9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris administers oath to top US diplomat"
-    excerpt: "America’s new top diplomat took the helm of the State Department on Wednesday with a vow to rebuild the ranks of the foreign service and rely on its expertise as"
-    publishedDateTime: 2021-01-27T18:56:00Z
-    webUrl: "https://tulsaworld.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_e3ada776-f487-5495-bb9a-4ffe39ea2dcc.html"
-    ampWebUrl: "https://tulsaworld.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_e3ada776-f487-5495-bb9a-4ffe39ea2dcc.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/kamala-harris-administers-oath-to-top-us-diplomat/video_e3ada776-f487-5495-bb9a-4ffe39ea2dcc.amp.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 55
-  - title: "Blair House guest quarters a temporary home for VP Harris"
-    excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the"
-    publishedDateTime: 2021-01-28T19:55:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/blair-house-guest-quarters-a-temporary-home-for-vp-harris/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
   - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
     excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."
     publishedDateTime: 2021-01-20T17:04:00Z
@@ -285,15 +155,6 @@ related:
     excerpt: "JACKSON, Miss. (AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment."
     publishedDateTime: 2021-01-23T20:46:00Z
     webUrl: "https://www.usnews.com/news/best-states/mississippi/articles/2021-01-23/kamala-harris-alpha-kappa-alpha-sorority-sisters-celebrate"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "What Do Black Women in Rural NC Think of Kamala Harris?"
-    excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
-    publishedDateTime: 2021-01-31T05:09:00Z
-    webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2021-01-31/what-do-black-women-in-rural-nc-think-of-kamala-harris"
     type: article
     provider:
       name: U.S. News & World Report

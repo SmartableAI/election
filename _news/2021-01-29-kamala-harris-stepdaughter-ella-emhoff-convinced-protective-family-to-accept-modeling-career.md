@@ -77,38 +77,6 @@ related:
         width: 2500
         height: 1712
         isCached: true
-  - title: "Joe Biden basing Kamala Harris relationship on Obama model | Charlotte Observer"
-    excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
-    publishedDateTime: 2021-01-29T16:52:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article248840399.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article248840399.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article248840399.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 86
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden basing Kamala Harris relationship on Obama model | Raleigh News & Observer"
-    excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
-    publishedDateTime: 2021-01-29T15:18:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/article248840399.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article248840399.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article248840399.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 83
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Kamala Harris' inauguration dress made by Louisiana designer"
     excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
     publishedDateTime: 2021-01-23T14:42:00Z
@@ -173,22 +141,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Here's what Vice President Kamala Harris told The Republic about COVID-19 relief plans"
-    excerpt: "Vice President Kamala Harris advocated for the Biden administration's American Rescue Plan legislation in a virtual meeting with The Arizona Republic."
-    publishedDateTime: 2021-01-28T23:36:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2021/01/28/kamala-harris-told-the-arizona-republic-covid-19-relief-american-rescue-plan/4296845001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4296845001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4296845001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/09/PPHX/cb204f9d-b642-4c95-a432-fcaf637c5559-What_Change_America_07A.JPG?auto=webp&crop=4606,2591,x0,y285&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meet the Bay Area publisher who has spent her career elevating Black voices - including Kamala Harris'"
     excerpt: "I was just shocked, because she must have been with her family, her husband and (President-elect Biden), but she hit me right back and thanked me and told me she loved me,” said Ashley-Ward, the 63-year-old publisher of San Francisco’s oldest Black newspaper,"
     publishedDateTime: 2021-01-31T12:00:00Z
@@ -204,20 +156,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/16/31/41/20551801/5/rawImage.jpg"
         width: 1365
         height: 2048
-        isCached: true
-  - title: "Inside Kamala Harris' New Home-and Why It's Not Where You Think"
-    excerpt: "Vice presidents usually settle into the Naval Observatory, but for now Kamala Harris is dropping her bags elsewhere. Here's why. While everyone knows that President Joe Biden resides at the White House,"
-    publishedDateTime: 2021-01-25T21:30:00Z
-    webUrl: "https://www.chron.com/realestate/article/Inside-Kamala-Harris-New-Home-and-Why-It-s-Not-15896968.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/16/24/75/20533103/3/rawImage.jpg"
-        width: 640
-        height: 360
         isCached: true
 
 secured: "u8zdHsIII9+ATWRX188kXNMWrxhNmRB+dmxa6gy/vkJF9O5tPNhIex2t/lTQKKyYX+36Q7yUH4Acg9WAg4z9AOi1BaFzrEsDM6L/kCg4dotybQOj3wRPy1DQuZR6cVhxNOCzC6ZiX+k1r93kr5YBidJ7RuIbPkQAlAC81FWgZWIgB0rBCzlsenxgUcMyCVjhoyanSBBgD25sDfOhPI2svMbg7qQWbEZmcuzWsd4kGOX/GYuywtaBtgSHY7jse4vFTLUxS41fNonz0culDcIpXoFVHilkh8/kjC+GivOVaebx27xpfwb33pawS2PpqTLifYxd6Z4ZvKKtLOmc0EtP97m+160cyArEpdFw0GowlwDilUahChL4JJO4luODoEgHW41K+EjnSUwhz93geYpcQvtEzpmeYEMFT59UMJLN5i/TVMbPbjJE1W99lYOyu0SCt3oGTFIAYeAkGBSB2PPn8UoGY2b0nWMtUKZh54ZigTe7zQaHxp96zzqJpx3wD7zgKeGIkJWSpbW3gbbLgkDKpA==;TJAEmAxMLN6TsX2mobfv4g=="

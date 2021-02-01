@@ -123,34 +123,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Dianne Feinstein backs Alex Padilla for Kamala Harris’ Senate seat"
-    excerpt: "Sen. Dianne Feinstein endorsed Alex Padilla to join her in the Senate, saying she has shared her support of the California secretary of state with Gov. Gavin Newsom. The governor must pick someone to fill out the remaining two years of Vice President-elect Kamala Harris’ term."
-    publishedDateTime: 2020-12-03T19:41:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Dianne-Feinstein-backs-Alex-Padilla-for-Kamala-15772613.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/45/35/20338528/5/rawImage.jpg"
-        width: 2048
-        height: 1377
-        isCached: true
-  - title: "Kamala Harris receives COVID-19 vaccine"
-    excerpt: "Vice President-elect Kamala Harris received her first dose of the COVID-19 vaccine Tuesday in Washington, D.C. She got the shot on camera in hopes of encouraging Americans to get vaccinated when it's their turn."
-    publishedDateTime: 2020-12-29T17:09:00Z
-    webUrl: "https://www.cbsnews.com/video/kamala-harris-receives-covid-19-vaccine/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/29/229b2034-c8f3-46bf-aae1-ce6af52f38dc/thumbnail/1200x630/46f208de17f32695d3cbcebe5deb5628/cbsn-fusion-kamala-harris-receives-covid-19-vaccine-thumbnail-617698-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Kamala Harris Receives First Dose of Covid-19 Vaccine"
     excerpt: "Vice President-elect Kamala Harris receives her first dose of Moderna's Covid-19 vaccine at United Medical Center in Southeast Washington, D.C. (Source: Bloomberg)"
     publishedDateTime: 2020-12-29T16:39:00Z
@@ -271,54 +243,6 @@ related:
         width: 1024
         height: 689
         isCached: true
-  - title: "Vice President-elect Kamala Harris, husband receive COVID-19 vaccine"
-    excerpt: "Vice President-elect Kamala Harris and husband Doug Emhoff each received their first dose of COVID-19 vaccine at a Washington, D.C., hospital on Tuesday."
-    publishedDateTime: 2020-12-29T13:21:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/12/29/Vice-President-elect-Kamala-Harris-husband-receive-COVID-19-vaccine/2881609243978/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/29/Vice-President-elect-Kamala-Harris-husband-receive-COVID-19-vaccine/2881609243978/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/29/Vice-President-elect-Kamala-Harris-husband-receive-COVID-19-vaccine/2881609243978/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/2881609243978/2020/1/9ea9e7ae3bd6f888b482fd7a18aea13a/v1.5/Vice-President-elect-Kamala-Harris-husband-receive-COVID-19-vaccine.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Kamala Harris receives 1st dose of COVID-19 vaccine"
-    excerpt: "Vice President-elect Kamala Harris on Tuesday received her first dose of Moderna's COVID-19 vaccine. Harris joins President-elect Joe Biden, Dr. Anthony Fauci, Vice President Mike Pence, several White House officials,"
-    publishedDateTime: 2020-12-29T16:29:00Z
-    webUrl: "https://theweek.com/speedreads/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/957681/kamala-harris-receives-1st-dose-covid19-vaccine"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 75
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230345925.jpg?itok=9kpTgTT4"
-        width: 840
-        height: 560
-        isCached: true
-  - title: "Kamala Harris receives COVID-19 vaccine shot"
-    excerpt: "Vice President-elect Kamala D. Harris received the first dose of Moderna’s COVID-19 vaccine Tuesday in Washington."
-    publishedDateTime: 2020-12-29T16:57:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/29/kamala-harris-receives-covid-19-vaccine-shot/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/29/kamala-harris-receives-covid-19-vaccine-shot/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/29/kamala-harris-receives-covid-19-vaccine-shot/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/29/Virus_Outbreak_Harris_11714.jpg-7528b_c0-192-4014-2533_s1200x700.jpg?2599c9a0d34520e2d6e2d09a62f00f5522b82bbe"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "California Governor Gavin Newsom Appoints Secretary of State Alex Padilla to Replace Vice President-elect Kamala Harris in US Senate"
     excerpt: "Voto Latino celebrates California Secretary of State Alex Padilla becoming the first Latinx person to represent California in the United States Senate after Governor Gavin Newsom announced his appointment to the seat being vacated by Vice President-elect Kamala Harris."
     publishedDateTime: 2020-12-23T16:11:00Z
@@ -332,6 +256,22 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Watch live: Vice President-elect Kamala Harris receives COVID-19 vaccine"
+    excerpt: "Vice President-elect Kamala Harris will receive a COVID-19 vaccine on Tuesday, becoming the latest high-profile figure to be inoculated."
+    publishedDateTime: 2020-12-29T13:21:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/12/29/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine/2881609243978/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/29/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine/2881609243978/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/29/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine/2881609243978/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2881609243978/2020/1/1bfe3c5e9bb35e252fec55997937551d/v1.5/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "California Secretary of State Alex Padilla will replace Kamala Harris as senator"
     excerpt: "California Gov. Gavin Newsom selected Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator, a historic pick that sends a Latino to the Senate for the first time in the state’s history."
@@ -467,20 +407,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "LIVE: Kamala Harris to receive COVID-19 vaccine"
-    excerpt: "Vice President-elect Kamala Harris and her husband Doug Emhoff will host an event Tuesday in Washington, D.C., where they are expected to receive their first dose of the COVID-19 vaccine."
-    publishedDateTime: 2020-12-29T14:47:00Z
-    webUrl: "https://www.hawaiinewsnow.com/video/2020/12/29/live-kamala-harris-receive-covid-vaccine/"
-    type: article
-    provider:
-      name: KHNL
-      domain: hawaiinewsnow.com
-    quality: 55
-    images:
-      - url: "https://www.hawaiinewsnow.com/resizer/WdiSq0jzp3nb2DTzmjp_lgHp9Sc=/1200x0/d1acid63ghtydj.cloudfront.net/12-29-2020/t_9795ac8777dd46e4812a563edc310437_name_1229_Harris.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Kamala Harris gets Moderna COVID-19 vaccine"
     excerpt: "U.S. Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID -19 vaccine before live television cameras as part of a growing effort to convince the"
     publishedDateTime: 2020-12-29T19:59:00Z

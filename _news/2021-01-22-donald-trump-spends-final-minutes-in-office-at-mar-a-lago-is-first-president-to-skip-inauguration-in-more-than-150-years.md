@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Donald Trump hires new impeachment defense team after lead lawyers quit"
+    excerpt: "Lawyers David Schoen and Bruce L Castor will head up new legal team after Butch Bowers clashed with Trump over strategy, according to reports"
+    publishedDateTime: 2021-02-01T03:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports?fbclid=IwAR1CehP2UcP54onJss7YTtIsVkHv0UmcdVwKQoQOxsxIjrJaiX4QqNDK8Tw"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/90d54c23d0e29b77c4957032c2727c8e0c47e140/0_19_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8a54660af1548fed3d269172a76c08c9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Donald Trump's impeachment defence in disarray as lead lawyers quit"
     excerpt: "Butch Bowers clashed with Trump over strategy, according to reports, and leaves along with Deborah Barberi and three others"
     publishedDateTime: 2021-01-31T21:24:00Z

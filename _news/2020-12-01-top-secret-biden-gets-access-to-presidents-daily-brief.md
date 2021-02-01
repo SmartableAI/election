@@ -31,52 +31,68 @@ images:
     isCached: true
 
 related:
-  - title: "Watch live: Biden and Harris introduce key economic team members"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are set to introduce key economic team members Tuesday afternoon in Wilmington, Delaware."
-    publishedDateTime: 2020-12-01T22:27:00Z
-    webUrl: "https://www.cnbc.com/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 140
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106797646-16055585112020-11-16t202540z_641690806_rc2k4k9gobvu_rtrmadp_0_usa-biden.jpeg?v=1605558548"
-        width: 3500
-        height: 2365
-        isCached: true
-  - title: "Teacher and her kindergartners stunned to receive response letters from Joe Biden, Kamala Harris"
-    excerpt: "Kindergarten teacher Martha Tavarez of Barron Elementary School in El Paso, Texas, said she and her students were thrilled to receive letters from President Joe Biden and Vice President Kamala Harris."
-    publishedDateTime: 2021-01-27T13:21:00Z
-    webUrl: "https://abcnews.go.com/GMA/Living/teacher-kindergartners-stunned-receive-response-letters-joe-biden/story?id=75496442"
-    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/teacher-kindergartners-stunned-receive-response-letters-joe-biden-75496442"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/teacher-kindergartners-stunned-receive-response-letters-joe-biden-75496442"
+  - title: "Despite mounting legal losses, Braun refuses to acknowledge Biden's election win"
+    excerpt: "The majority of the nearly 50 court cases brought by the Trump campaign have been tossed out by judges across the country."
+    publishedDateTime: 2020-12-07T02:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/braun-legal-process-play-doubts-election-linger/story?id=74558937"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 127
+    quality: 135
     images:
-      - url: "https://s.abcnews.com/images/GMA/teacher-kindergartners-biden-harris-ht-MAIN-np-210126_1611709736925_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/this-week-dick-durbin-mike-braun-01-gty-201205.jph_1607200841208_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to present top economy advisers as pandemic threat worsens"
-    excerpt: "U.S. President-elect Joe Biden will formally introduce his top economic policy advisers on Tuesday as his administration prepares to take power amid a slowing economic recovery hampered by the resurgent coronavirus pandemic."
-    publishedDateTime: 2020-12-01T17:35:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idUSKBN28B5UK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5UK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5UK"
+  - title: "Wisconsin certifies Joe Biden as winner following recount"
+    excerpt: "Joe Biden’s victory in Wisconsin has been certified following a partial recount that added slightly to his 20,600-vote margin over President Trump."
+    publishedDateTime: 2020-12-01T00:18:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-30/wisconsin-certifies-joe-biden-as-winner-following-recount"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-30/wisconsin-certifies-joe-biden-as-winner-following-recount?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-30/wisconsin-certifies-joe-biden-as-winner-following-recount?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/4f37cdd/2147483647/strip/true/crop/4258x2781+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff9%2Fde%2F27e8a8844982a6aa5f1387360bc1%2Fap20334644546013.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Biden, top Democrats swing behind bipartisan virus aid bill"
+    excerpt: "Biden said the developing aid package “wouldn’t be the answer, but it would be the immediate help for a lot of things.” He wants a relief bill to pass Congress now, with more aid to come next year. Biden’s remarks followed an announcement by House Speaker Nancy Pelosi,"
+    publishedDateTime: 2020-12-02T05:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-gop-leader-sticking-with-partisan-covid-relief-plan/2020/12/02/1674ef56-345e-11eb-9699-00d311f13d2d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden urges Congress to pass coronavirus package, promises more action"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+    publishedDateTime: 2020-12-01T20:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/update-1-biden-urges-congress-to-pass-coronavirus-package-promises-more-action-idUSL1N2IH242"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543087688&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB039D"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543101682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03ID"
+        width: 758
         height: 545
         isCached: true
   - title: "Unveiling economic team, Biden pledges, ‘Help is on the way’"
@@ -95,6 +111,54 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden faces growing pressure over defense secretary pick"
+    excerpt: "President-elect Joe Biden is facing increasing pressure from competing Democratic factions as he finalizes his choice for secretary of defense."
+    publishedDateTime: 2020-12-03T11:23:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-03/biden-growing-pressure-defense-secretary-pick"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-03/biden-growing-pressure-defense-secretary-pick?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-03/biden-growing-pressure-defense-secretary-pick?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9c1be0d/2147483647/strip/true/crop/4207x2748+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2F37%2F6b45480b46af967b7e3d5412685d%2Fbiden-37838.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Biden, top Democrats swing behind bipartisan virus aid bill"
+    excerpt: "WASHINGTON -- President-elect Joe Biden swung behind a bipartisan COVID-19 relief effort Wednesday and his top Capitol Hill allies cut their demands for a $2 trillion-plus measure by more than half in hopes of breaking a monthslong logjam and delivering much-sought aid as the tempestuous congressional session speeds to a close."
+    publishedDateTime: 2020-12-03T06:32:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/top-democrats-swing-bipartisan-coronavirus-aid-bill-74509741"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/top-democrats-swing-bipartisan-coronavirus-aid-bill-74509741"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/top-democrats-swing-bipartisan-coronavirus-aid-bill-74509741"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4915031dcafe45a7876e927842927883_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "GOP senators dismiss possible congressional challenge to Biden victory"
+    excerpt: "Amid President Trump’s unfounded claims of fraud, several of his supporters in the House have said they are exploring a challenge to electoral college results."
+    publishedDateTime: 2020-12-03T01:19:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/congress-election-biden-trump/2020/12/02/d7ec77ec-34c9-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ELBI7NRUCMI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 974
+        isCached: true
   - title: "Unveiling economic team, Biden pledges, 'Help is on the way'"
     excerpt: "President-elect Joe Biden has introduced top advisers he says will help his administration rebuild an economy hammered by the coronavirus pandemic"
     publishedDateTime: 2020-12-03T03:00:00Z
@@ -110,38 +174,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_dde971aafe2f40269ccc2ead36f4bca8_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Kamala Harris Makes More History With All-Female Senior Staff Picks"
-    excerpt: "For the first time, the top three positions in the office of the vice president will be held by women -- and all serving under the first woman to hold the office."
-    publishedDateTime: 2020-12-03T23:22:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 125
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDqnSWHoECyc/v0/360x-1.jpg"
-        width: 360
-        height: 272
-        isCached: true
-  - title: "Kamala Harris names chief of staff, other key positions"
-    excerpt: "Elect Kamala D. Harris will name Tina Flournoy Chief of Staff, the transition team announced Thursday, tapping a trailblazer with decades of Washington experience to help run the vice presidential operation."
-    publishedDateTime: 2020-12-03T19:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-chief-of-staff/2020/12/03/4a53c3ee-341b-11eb-a997-1f4c53d2a747_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-chief-of-staff/2020/12/03/4a53c3ee-341b-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-chief-of-staff/2020/12/03/4a53c3ee-341b-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2X7MTPBEMEI6XFJOBRDVS4WPYA.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Unveiling economic team, Biden pledges, 'Help is on the way'"
     excerpt: "President-elect Joe Biden has introduced top advisers he says will help his administration rebuild an economy hammered by the coronavirus pandemic"
@@ -159,83 +191,382 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Kamala Harris is on the cusp of power, but has to tread carefully"
-    excerpt: "As veep, Kamala Harris will have every opportunity for clout. Biden, the oldest man to become president, has promised her a prime role. But she faces minefields too."
-    publishedDateTime: 2020-12-06T11:14:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully?_amp=true"
+  - title: "U.S. green groups say honeymoon is over, turn up heat on Biden"
+    excerpt: "U.S. environmental groups that poured money and effort behind Democrat Joe Biden's successful run for president are shifting to a new more adversarial role now that he has been elected, launching a pressure campaign to make sure he delivers on his promises to fight"
+    publishedDateTime: 2020-12-07T14:07:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-green-idUSKBN28H1CC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H1CC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H1CC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543683664&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB60PX"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "U.S. green groups say honeymoon is over, turn up heat on Biden"
+    excerpt: "U.S. environmental groups that poured money and effort behind Democrat Joe Biden's successful run for president are shifting to a new more adversarial role now that he has been elected, launching a pressure campaign to make sure he delivers on his promises to fight"
+    publishedDateTime: 2020-12-07T21:39:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-green-idUKKBN28H1CE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28H1CE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28H1CE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543721308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB60PV"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "U.S. judge rejects attempt to overturn Biden's Michigan victory"
+    excerpt: "A U.S. judge on Monday rejected a bid to decertify President-elect Joe Biden's election victory in Michigan because of alleged irregularities and to have President Donald Trump declared the winner, the latest failed legal attack on the vote."
+    publishedDateTime: 2020-12-07T16:49:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28H20U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H20U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H20U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543710642&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB616Z"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Hunter Biden confirms he is under federal investigation"
+    excerpt: "The president-elect’s son said in a statement that the U.S. attorney’s office in Delaware was investigating his tax affairs."
+    publishedDateTime: 2020-12-10T04:58:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/hunter-biden-under-federal-investigation/2020/12/09/3b7361be-3a64-11eb-9276-ae0ca72729be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/hunter-biden-under-federal-investigation/2020/12/09/3b7361be-3a64-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/hunter-biden-under-federal-investigation/2020/12/09/3b7361be-3a64-11eb-9276-ae0ca72729be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RZ5Y6R2NEI6XETWVYGKOJZJXY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Hunter Biden says federal prosecutors are investigating his taxes"
+    excerpt: "CNN reported that the investigation dates as far back as 2018 and was put on pause during the election because of its politically sensitive nature."
+    publishedDateTime: 2020-12-09T21:55:00Z
+    webUrl: "https://www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hunter-biden-delaware-federal-prosecutors-investigating-taxes-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fd140d1240ebd00126be0fc?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Hunter Biden says U.S. prosecutor investigating his taxes"
+    excerpt: "President-elect Joe Biden's son Hunter Biden said on Wednesday the U.S. Attorney's Office in Delaware is investigating his tax affairs."
+    publishedDateTime: 2020-12-10T00:10:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN28J2Z8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J2Z8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J2Z8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1544021936&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB81SU"
+        width: 968
+        height: 545
+        isCached: true
+  - title: "Probe of Biden's son places new scrutiny on U.S. attorney general pick"
+    excerpt: "A newly revealed federal criminal probe into the business dealings of Joe Biden's son Hunter will complicate the president-elect's selection of a new U.S. attorney general, former Justice Department officials and legal experts said."
+    publishedDateTime: 2020-12-11T02:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-hunter-idUSKBN28K37Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28K37Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28K37Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201210&t=2&i=1544160434&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB91RK"
+        width: 802
+        height: 545
+        isCached: true
+  - title: "Hunter Biden subpoena seeks information on Burisma, other entities"
+    excerpt: "The Justice Department’s subpoena to Hunter Biden sought information involving more than two dozen entities to examine some of his foreign business ties, including with Ukrainian gas company Burisma."
+    publishedDateTime: 2020-12-13T05:54:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-12-12/hunter-biden-subpoena-seeks-info-on-burisma-other-entities"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-12/hunter-biden-subpoena-seeks-info-on-burisma-other-entities?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-12/hunter-biden-subpoena-seeks-info-on-burisma-other-entities?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/1da91ae/2147483647/strip/true/crop/3749x2449+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2F22%2F9c0dee354cbba4f0c7e05e08af94%2Fap20185052720753.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/917e0d2/2147483647/strip/true/crop/5591x3652+0+38/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7f%2Fd3%2F7a50b7183b1f03b43442ff45987a%2F356ca0eaf41c446db3ea424d5c48b946"
         width: 320
         height: 209
         isCached: true
-  - title: "Kamala Harris Celebrates 50 Days Until Biden Is President; Sarah Cooper, Rosanna Arquette and Others Respond"
-    excerpt: "Vice President-elect Kamala Harris took to Twitter this morning to happily remind people they are only 50 days away from Joe Biden 's January 20th Presidential Inauguration. As she put it, \"Only 50 days until we get to call @JoeBiden President of the United States."
-    publishedDateTime: 2020-12-01T15:43:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522?amp=1"
+  - title: "Biden transition advisers emerge as top contenders to run covid-19 response"
+    excerpt: "As President-elect Joe Biden makes fighting the raging coronavirus his most urgent mission when he takes office next month, two figures already playing central roles in his transition are emerging as the most likely officials to preside over the new White House’s pandemic response."
+    publishedDateTime: 2020-12-03T01:10:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-covid-response-team/2020/12/02/292c9752-34c7-11eb-a997-1f4c53d2a747_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-covid-response-team/2020/12/02/292c9752-34c7-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-covid-response-team/2020/12/02/292c9752-34c7-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BE3GLGRVAMI6XDJYNLVBVWZYHE.jpg&w=1440"
+        width: 1440
+        height: 1011
+        isCached: true
+  - title: "Iran pressures Biden with plan to increase underground enrichment machines"
+    excerpt: "Iran is raising pressure on U.S. President-elect Joe Biden with plans to install more advanced uranium-enriching centrifuges at an underground plant in breach of its deal with major powers, a U.N. nuclear watchdog report showed on Friday."
+    publishedDateTime: 2020-12-04T15:42:00Z
+    webUrl: "https://www.reuters.com/article/us-iran-nuclear-iaea/iran-pressures-biden-with-plan-to-increase-underground-enrichment-machines-idUSKBN28E1XM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28E1VR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28E1VR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543482313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB31BL"
+        width: 808
+        height: 545
+        isCached: true
+  - title: "Biden picks leave Democrats with slimmest House majority in modern history"
+    excerpt: "President-elect Joe Biden 's decision to tap Reps. Cedric Richmond (D-La.) and Marcia Fudge (D-Ohio) for his new administration will mean Speaker Nancy Pelosi 's fragile House majority — already decimated in the November election — will temporarily shrink by a couple more seats next month."
+    publishedDateTime: 2020-12-09T20:38:00Z
+    webUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history"
+    ampWebUrl: "https://thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/529487-biden-picks-leave-democrats-with-slimmest-house-majority-in-modern-history?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/fudgemarcia_052219gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Black Lives Matter movement at a crossroads as Biden prepares to take office"
+    excerpt: "Sloan’s hesitant support for Biden reflects a divide among racial justice activists about the movement’s strategy under the soon-to-be presidency. Some factions of the Black L"
+    publishedDateTime: 2020-12-02T05:54:00Z
+    webUrl: "https://www.washingtonpost.com/national/black-lives-matter-movement-at-a-crossroads-as-biden-prepares-to-take-office/2020/12/01/8ebb95ce-2f26-11eb-860d-f7999599cbc2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/black-lives-matter-movement-at-a-crossroads-as-biden-prepares-to-take-office/2020/12/01/8ebb95ce-2f26-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/black-lives-matter-movement-at-a-crossroads-as-biden-prepares-to-take-office/2020/12/01/8ebb95ce-2f26-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TDVL6BUGQI6XIRJ2FTO3EHWCY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "UPDATE 1-Biden urges Congress to pass coronavirus package, promises more action"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday urged lawmakers to pass a coronavirus aid package that has been stalled in Congress for months, and promised more action to reactivate the economy after he takes office next month."
+    publishedDateTime: 2020-12-02T00:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idUSL1N2IH242"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5TA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543130962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03A9"
+        width: 1022
+        height: 545
+        isCached: true
+  - title: "Van Jones: 'Joe Biden is a romantic idealist in the age of cynicism and snark'"
+    excerpt: "The CNN commentator tells how, too tearful to read his notes, he spoke from the heart – and for millions of Americans – after Biden’s win"
+    publishedDateTime: 2020-12-06T17:45:00Z
+    webUrl: "https://www.theguardian.com/world/2020/dec/06/van-jones-cnn-faces-of-2020-joe-biden-romantic-idealist"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/dec/06/van-jones-cnn-faces-of-2020-joe-biden-romantic-idealist"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/06/van-jones-cnn-faces-of-2020-joe-biden-romantic-idealist"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/26fa0f6e6ff1c00a63a35dcc8adb68c8319b348e/79_0_2396_1438/master/2396.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=89378b8e97e1cf624a836a912385a642"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden said he’ll work to advance transgender rights. Here are 4 things to know."
+    excerpt: "Transgender Day of Remembrance, President-elect Joe Biden said that “ transgender rights are human rights” and committed to advancing transgender rights as part of his administration’s platform. According to the UCLA Williams Institute,"
+    publishedDateTime: 2020-12-10T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/12/10/biden-said-hell-work-advance-transgender-rights-here-are-4-things-know/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/10/biden-said-hell-work-advance-transgender-rights-here-are-4-things-know/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/10/biden-said-hell-work-advance-transgender-rights-here-are-4-things-know/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ZLNZJXJ5YI6TIZJON4PX6Q3MM.jpg&w=1440"
+        width: 1440
+        height: 897
+        isCached: true
+  - title: "Georgia recertifies election results, confirming Biden's victory"
+    excerpt: "The results remain unchanged’ after third count of votes refutes Trump’s false claim to have won"
+    publishedDateTime: 2020-12-07T23:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/07/georgia-recertifies-election-results-confirming-bidens-victory"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/07/georgia-recertifies-election-results-confirming-bidens-victory"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/07/georgia-recertifies-election-results-confirming-bidens-victory"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+  - title: "Joe Biden’s drive for diversity in top political jobs is only an illusion of change"
+    excerpt: "He may have selected a cabinet that looks like America, but the president-elect’s picks are just business as usual, says Guardian columnist Nesrine Malik"
+    publishedDateTime: 2020-12-07T06:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2020/dec/07/biden-diversity-top-political-jobs-illusion-change-america"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/dec/07/biden-diversity-top-political-jobs-illusion-change-america"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/dec/07/biden-diversity-top-political-jobs-illusion-change-america"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/2d84c7be3188f5520d3dd4947c7876a17e0b13ae/0_546_6400_3841/master/6400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6a8f5735fb343bd060268ab89ee2f5c"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden is now seriously considering a Black US Army general to lead the US military"
+    excerpt: "If nominated by Biden and confirmed by the Senate, the retired US Army general would be America's first Black defense secretary."
+    publishedDateTime: 2020-12-07T22:51:00Z
+    webUrl: "https://www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-lloyd-austin-defense-secretary-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5fcea2d6037cbd001861460f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden, leading Democrats on board with the new $908 billion bipartisan stimulus proposal"
+    excerpt: "The proposal includes enhanced federal unemployment benefits of $300 per week and $25 billion in rental assistance."
+    publishedDateTime: 2020-12-04T11:07:00Z
+    webUrl: "https://www.usatoday.com/story/money/economy/2020/12/04/biden-democrats-back-908-billion-stimulus-bill-with-no-second-check/115094770/"
+    ampWebUrl: "https://amp.usatoday.com/amp/115094770"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/115094770"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/fba88f6b-d2ac-4acf-8bcc-232bf11bcdc2-biden_pelosi.jpg?auto=webp&crop=5507,3098,x0,y300&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden pledges to distribute 100m vaccine shots in first 100 days of presidency – live"
+    excerpt: "President-elect vowed to implement an effective vaccine distribution plan during the first 100 days of his administration"
+    publishedDateTime: 2020-12-08T20:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fcfe5e58f08a20e617dac21"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/dec/08/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/222afd159c5091a7b8811b469ad1b9c386648401/0_0_5522_3681/master/5522.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=88cd54e9803f1d2760468ee061ec5748"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Disability Rights Groups Send Letter Opposing Biden's Potential Education Secretary Pick"
+    excerpt: "\"As the leader of the NEA, Eskelsen García had the opportunity to steer the organization toward equity and access for students with disabilities but failed to do so,\" the letter read."
+    publishedDateTime: 2020-12-11T20:27:00Z
+    webUrl: "https://www.newsweek.com/disability-rights-groups-send-letter-opposing-bidens-potential-education-secretary-pick-1554189"
+    ampWebUrl: "https://www.newsweek.com/disability-rights-groups-send-letter-opposing-bidens-potential-education-secretary-pick-1554189?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/disability-rights-groups-send-letter-opposing-bidens-potential-education-secretary-pick-1554189?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 121
+    quality: 116
     images:
-      - url: "https://d.newsweek.com/en/full/1669370/kamala-harris-joe-biden.jpg"
-        width: 2500
-        height: 1668
+      - url: "https://d.newsweek.com/en/full/1684808/lily-eskelsen-garcia-nea-conference-2018.jpg"
+        width: 3500
+        height: 2333
         isCached: true
-  - title: "Vice President-elect Kamala Harris is poised to break barriers on multiple fronts"
-    excerpt: "It was exactly one year ago Thursday that California Sen. Kamala Harris dropped out of the presidential race, citing a lack of funds. Now she is poised to break barriers as the first woman, first Black American and first South-Asian American vice president-elect."
-    publishedDateTime: 2020-12-03T22:35:00Z
-    webUrl: "https://www.pbs.org/newshour/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
+  - title: "President-elect Joe Biden selects Susan Rice as director of White House Domestic Policy Council"
+    excerpt: "Rice, 55, served as national security adviser to former President Barack Obama and is a former U.S. ambassador to the United Nations."
+    publishedDateTime: 2020-12-10T16:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/12/10/joe-biden-picks-susan-rice-as-head-of-domestic-policy-council/3216544001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3216544001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3216544001"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 120
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/VP_tape-1024x699.jpg"
-        width: 1024
-        height: 699
+      - url: "https://www.gannett-cdn.com/presto/2020/07/27/USAT/7ac0ad44-c3a1-475a-9e53-4e15c6065890-SusanRice019.JPG?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "Live politics updates: President-elect Biden to discuss economic crisis with workers and small-business owners"
-    excerpt: "President-elect Joe Biden plans to meet online Wednesday with workers and small-business owners to discuss the economic crisis, as part of his preparations for taking office. Biden highlighted the need for more federal stimulus spending Tuesday while introducing his economics team,"
-    publishedDateTime: 2020-12-02T15:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/presidential-transition-updates-politics-joe-biden-donald-trump/3791958001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3791958001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3791958001"
+  - title: "Fact check: Biden won the most total votes — and the fewest total counties — of any president-elect"
+    excerpt: "Opponents have cited the small number of counties Joe Biden won to question if he truly won the most votes of any presidential candidate in history."
+    publishedDateTime: 2020-12-10T01:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/12/09/fact-check-joe-biden-won-most-votes-ever-and-fewest-counties/3865097001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3865097001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3865097001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/9f70ffd8-a8b4-4497-b1de-018d10ca07fe-2020-elections-topper-02.png?auto=webp&crop=7967,4481,x16,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden pledges help for workers hit hard by COVID"
+    excerpt: "President-elect Joe Biden met virtually with Americans who have been hard-hit economically by the coronavirus pandemic, promising help is on the way. He also urged Congress to pass a stimulus bill now as a \"down payment\" before he takes office."
+    publishedDateTime: 2020-12-03T00:26:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/03/biden-pledges-help-workers-hit-hard-covid/3803349001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/0ea21f1c-a0a4-477a-be43-069126ee14c8-biden_economics_team.jpg?auto=webp&crop=7462,4198,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris Taps Ex-Diplomat to Be Her National Security Advisor"
-    excerpt: "Nancy McEldowney is one of several former senior foreign service officers expected to join the senior ranks of the new U.S. administration."
-    publishedDateTime: 2020-12-03T16:23:00Z
-    webUrl: "https://foreignpolicy.com/2020/12/03/kamala-harris-taps-ex-diplomat-to-be-national-security-adviser-biden-transition-foreign-policy-team/"
-    type: article
-    provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 105
-    images:
-      - url: "https://foreignpolicy.com/wp-content/uploads/2020/12/Harris-National-Security-Team-Biden-Transition.jpg?w=1000"
-        width: 1000
-        height: 723
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/eeaaf938-b5ac-4ab2-906e-68396cf80859_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Safe harbor law locks Congress into accepting Biden's win"
     excerpt: "Happy Safe Harbor Day, America."
@@ -248,308 +579,68 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Kellyanne Conway: 'It looks like Joe Biden and Kamala Harris will prevail'"
-    excerpt: "Kellyanne Conway, President Trump’s former adviser, counselor and campaign manager, became his latest ally to acknowledge his days in the White House are just about over during an interview Friday."
-    publishedDateTime: 2020-12-05T19:12:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
+  - title: "High court rejects GOP bid to halt Biden's Pennsylvania win"
+    excerpt: "The Supreme Court has rejected Republicans' last-gasp bid to reverse Pennsylvania's certification of President-elect Joe Biden's victory in the electoral battleground."
+    publishedDateTime: 2020-12-09T03:23:00Z
+    webUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/high-court-rejects-gop-bid-to-halt-bidens-pennsylvania-win-2020-12?amp"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 98
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Supreme Court rejects GOP attack on Biden victory"
+    excerpt: "The U.S. Supreme Court has rejected a lawsuit backed by President Donald Trump to overturn Joe Biden's election victory, ending Trump's attempt to get legal issues rejected by other judges before the high court."
+    publishedDateTime: 2020-12-12T02:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/12/12/supreme-court-rejects-gop-attack-biden-victory/6516795002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/26/Election_2020_RNC_00324.jpg-809fc_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
-        width: 1200
-        height: 700
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f116925e-7480-48f3-a2fa-029f1b76a88c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "CompTIA Congratulates President Joe Biden and Vice President Kamala Harris, Supports Administration’s Tech Workforce Goals"
-    excerpt: "CompTIA, the nonprofit association for the information technology (IT) industry, today released this statement by its President and CEO, Todd Thibodeaux, on the inauguration of President Joe Biden and Vice President Kamala Harris."
-    publishedDateTime: 2021-01-22T16:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/joe-biden-technology-business-labor-economy-technology-issues-a4c973a859cc44952470114a77939c71"
+  - title: "Biden's Homeland Security pick faces questions on old probe"
+    excerpt: "The last time Alejandro Mayorkas faced Senate confirmation, not a single Republican voted for him because there was an open investigation into his management of the U.S. immigration agency under President Barack Obama."
+    publishedDateTime: 2020-12-13T04:42:00Z
+    webUrl: "https://www.businessinsider.com/bidens-homeland-security-pick-faces-questions-on-old-probe-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/bidens-homeland-security-pick-faces-questions-on-old-probe-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-homeland-security-pick-faces-questions-on-old-probe-2020-12?amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 94
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Doctor says Biden's fractured foot is healing as expected"
+    excerpt: "PHILADELPHIA (AP) — President-elect Joe Biden’s fractured foot has been healing, his doctor said Saturday."
+    publishedDateTime: 2020-12-12T22:27:00Z
+    webUrl: "https://www.businessinsider.com/doctor-says-bidens-fractured-foot-is-healing-as-expected-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/doctor-says-bidens-fractured-foot-is-healing-as-expected-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/doctor-says-bidens-fractured-foot-is-healing-as-expected-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
+    excerpt: "California certifies Joe Biden's victory, giving the Democrat more than the 270 electors needed to win the White House"
+    publishedDateTime: 2020-12-05T05:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/california-certifies-joe-bidens-victory-giving-democrat-270-74549689"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 101
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Tina Flournoy, longtime Democratic strategist, named Vice President-elect Kamala Harris chief of staff"
-    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
-    publishedDateTime: 2020-12-03T14:29:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 89
-    images:
-      - url: "https://www.chicagotribune.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'Tears in our eyes.' Local leaders react as Joe Biden and Kamala Harris take the oath."
-    excerpt: "At least on Wednesday, many Republicans and Democrats in the Cincinnati region ceased bickering and congratulated Biden."
-    publishedDateTime: 2021-01-20T20:36:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2021/01/20/biden-inauguration-heres-how-local-leaders-viewed-inaugural-speech/4218249001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/4218249001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4218249001"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 82
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/NWKL/165ec70c-805f-4fae-9c56-6d70c4d425e7-biden.png?auto=webp&crop=1019,574,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "What Did Kamala Harris Say On Twitter That’s Causing A Stir?"
-    excerpt: "A fact-check from The Washington Post found most of those arrested during summer protests in Minnesota didn’t have to pay a cash bail."
-    publishedDateTime: 2020-11-30T16:18:00Z
-    webUrl: "https://www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534"
-    ampWebUrl: "https://www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/09/kamala-harris.jpg"
-        width: 1024
-        height: 766
-        isCached: true
-  - title: "San Jose teen artist wows Kamala Harris, wins national acclaim"
-    excerpt: "A San Jose teen artist who recently won raves from Kamala Harris for a portrait he painted of the Vice President-elect, is now earning national acclaim. Tyler Gordon, 14, has been named a Top 5 finalist for Time magazine’s first-ever Kid of the Year honors and will be among the talented youngsters featured in a Nickelodeon television special Friday night."
-    publishedDateTime: 2020-12-04T02:09:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/time-koty-tyler-gordon.jpg?w=800&h=532"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "The Easy Way for Joe Biden to Save Lives"
-    excerpt: "There’s an on-the-shelf policy the Biden administration could enact unilaterally that would save millions of American lives, without costing the government a single cent on net. That policy, one pushed for but never implemented by the Trump administration,"
-    publishedDateTime: 2020-12-05T11:11:00Z
-    webUrl: "https://www.theatlantic.com/ideas/archive/2020/12/easy-way-to-quit-smoking/617305/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/617305/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617305/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/jmB42DJzPPFAnmeCrgMjCurSMYI=/570x321/media/img/mt/2020/12/smoking4/original.jpg"
-        width: 570
-        height: 321
-        isCached: true
-  - title: "Who Joe Biden Has Announced for His Cabinet So Far"
-    excerpt: "President-elect Joe Biden has been widely expected to staff his administration with a mix of experienced advisers and credentialed experts from Washington, D.C., as well as the kinds of diverse faces he says ensure his administration reflects the country."
-    publishedDateTime: 2020-12-05T19:53:00Z
-    webUrl: "https://people.com/politics/whos-who-in-joe-bidens-cabinet/"
-    ampWebUrl: "https://people.com/politics/whos-who-in-joe-bidens-cabinet/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/whos-who-in-joe-bidens-cabinet/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 75
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B11025%2C3200%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fjoe-biden-3.jpg"
-        width: 1500
-        height: 785
-        isCached: true
-  - title: "Bookies list Kamala Harris as early favorite for 2024"
-    excerpt: "Elect Kamala Harris is favored by odds makers to win the 2024 presidential election, according to wagering website Odds Shark. Harris currently has +400 odds to win the next race. Harris is trailed by her running mate President-elect Joe Biden (+650) to secure the next term in the Oval Office,"
-    publishedDateTime: 2020-12-08T00:27:00Z
-    webUrl: "https://www.foxbusiness.com/politics/bookies-kamala-harris-early-favorite-2024"
-    ampWebUrl: "https://www.foxbusiness.com/politics/bookies-kamala-harris-early-favorite-2024.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/bookies-kamala-harris-early-favorite-2024.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c6d4136-3be9-4ac5-ba4d-f657c9446bb8/bf001b16-f05c-4ae7-a555-6fecd2967b93/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Watch live: Vice President-elect Kamala Harris receives COVID-19 vaccine"
-    excerpt: "Vice President-elect Kamala Harris will receive a COVID-19 vaccine on Tuesday, becoming the latest high-profile figure to be inoculated."
-    publishedDateTime: 2020-12-29T13:21:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/12/29/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine/2881609243978/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/12/29/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine/2881609243978/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/29/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine/2881609243978/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 74
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/2881609243978/2020/1/1bfe3c5e9bb35e252fec55997937551d/v1.5/Watch-live-Vice-President-elect-Kamala-Harris-receives-COVID-19-vaccine.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Berkeley proposes Kamala Harris Elementary, but will school district agree?"
-    excerpt: "The Berkeley City Council passed a resolution asking the school district to rename an elementary school as Kamala Harris Elementary School."
-    publishedDateTime: 2020-12-08T19:40:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/08/berkeley-proposes-kamala-harris-elementary-but-will-school-district-agree/"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/08/berkeley-proposes-kamala-harris-elementary-but-will-school-district-agree/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/08/berkeley-proposes-kamala-harris-elementary-but-will-school-district-agree/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 73
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-PRESREACT-1108-3-1.jpg?w=1024&h=758"
-        width: 1024
-        height: 758
-        isCached: true
-  - title: "Kamala Harris has so far picked an all-women staff to aid her in the White House"
-    excerpt: "Harris transition team announced Thursday that Vice President-elect Kamala Harris will name Tina Flournoy to be her chief of staff, and add Rohini Kosoglu as domestic policy adviser and Nancy McEldowney as national security adviser."
-    publishedDateTime: 2020-12-03T16:31:00Z
-    webUrl: "https://theweek.com/speedreads/953069/kamala-harris-far-picked-allwomen-staff-aid-white-house"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/953069/kamala-harris-far-picked-allwomen-staff-aid-white-house"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/953069/kamala-harris-far-picked-allwomen-staff-aid-white-house"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 70
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229768868.jpg?itok=UkBYZVJy&resize=450x300"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "Vice President-elect Kamala Harris assembles staff as she builds her vice presidential portfolio"
-    excerpt: "The staffers, all of whom are women and two of whom are people of color — highlight the incoming administration’s commitment to diversity."
-    publishedDateTime: 2020-12-03T13:30:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/03/vice-president-elect-kamala-harris-assembles-staff-as-she-builds-her-vice-presidential-portfolio/"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/03/vice-president-elect-kamala-harris-assembles-staff-as-she-builds-her-vice-presidential-portfolio/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/03/vice-president-elect-kamala-harris-assembles-staff-as-she-builds-her-vice-presidential-portfolio/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 62
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/sjm-ransition-Staffers_79108927.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Kamala Harris Announces New Staff Picks, Marking First Time Women Will Hold Top 3 Spots in VP's Office"
-    excerpt: "This will be the first time in history that women will hold the top three spots in the U.S. vice president’s office."
-    publishedDateTime: 2020-12-04T20:30:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 59
-    images:
-      - url: "https://media.nbcnewyork.com/2020/12/106804517-16068492022020-12-01t185222z_353046037_rc2iek9vyz3q_rtrmadp_0_usa-biden.jpeg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tina Flournoy, longtime Democratic strategist, named chief of staff for Vice President-elect Kamala Harris"
-    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
-    publishedDateTime: 2020-12-04T13:20:00Z
-    webUrl: "https://www.orlandosentinel.com/politics/2020-election/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
-    ampWebUrl: "https://www.orlandosentinel.com/politics/2020-election/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/politics/2020-election/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 57
-    images:
-      - url: "https://www.orlandosentinel.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tina Flournoy, longtime Democratic strategist, named chief of staff for Vice President-elect Kamala Harris"
-    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
-    publishedDateTime: 2020-12-04T17:37:00Z
-    webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
-    ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 57
-    images:
-      - url: "https://www.sun-sentinel.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "LIVE: President-elect Joe Biden, Vice President-elect Kamala Harris introduce Justice Department nominees"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will introduce their nominees to the Department of Justice at 12:30 p.m. CST Thursday, Jan. 7. Watch a livestream of the event below. As a public service,"
-    publishedDateTime: 2021-01-07T19:57:00Z
-    webUrl: "https://www.postbulletin.com/news/nation/6830811-LIVE-President-elect-Joe-Biden-Vice-President-elect-Kamala-Harris-introduce-Justice-Department-nominees"
-    type: article
-    provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
-    quality: 53
-    images:
-      - url: "https://www.fccnn.com/incoming/6831128-g76idm-U.S.-President-elect-Joe-Biden-delivers-a-speech-after-a-conference-video-call-in-Wilmington/alternates/BASE_LANDSCAPE/U.S.%20President-elect%20Joe%20Biden%20delivers%20a%20speech%20after%20a%20conference%20video%20call%20in%20Wilmington"
-        width: 1140
-        height: 712
-        isCached: true
-  - title: "This Little-Known Indian Village Has Made Headlines Because of Kamala Harris"
-    excerpt: "As CNN host John King spent days tirelessly facing the magic wall to explain what was happening, miles away in Tamil Nadu, India, a small village was rooting for vice president nominee Kamala Harris—in a very Indian way."
-    publishedDateTime: 2020-12-07T18:37:00Z
-    webUrl: "https://www.fodors.com/world/asia/india/experiences/news/this-little-known-indian-village-has-made-headlines-because-of-kamala-harris"
-    type: article
-    provider:
-      name: Fodor's
-      domain: fodors.com
-    quality: 52
-    images:
-      - url: "https://www.fodors.com/wp-content/uploads/2020/12/kamala-harris-hero.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
-  - title: "Omaha native will be chief spokeswoman for Harris"
-    excerpt: "Omaha native Symone Sanders will serve as chief spokeswoman for Vice President-elect Kamala Harris. President-elect Joe Biden announced Sanders' role on his history-making communications team Sunday."
-    publishedDateTime: 2020-11-30T18:41:00Z
-    webUrl: "https://omaha.com/eedition/sunrise/articles/omaha-native-will-be-chief-spokeswoman-for-harris/article_986c2dae-a9b4-58ab-9204-46d36f1e72f4.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 35
-  - title: "BIPOC Women-Led Coalition Urges Kamala Harris To Promote Plant-Based Nutrition and Take 31-Day Vegan Challenge"
-    excerpt: "A group of female leaders, most of whom are women of color, have penned an open letter to the incoming US administration detailing"
-    publishedDateTime: 2020-12-08T12:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/bipoc-women-led-coalition-urges-kamala-harris-to-promote-plant-based-nutrition-and-take-31-day-vegan-challenge-301187937.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 35
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
 
 secured: "DnoYDeaTqXXuVWPmEfqRLFtbgtNwMVRU2tU16plomq3BYzVhaONuRNdIp+YKb2HqUWV4RWec/KNprzzFvtMcYh+L2DWum0wrlKibWrVihDDjSi8oE9+89a1DV2ttfWPG6Jp8sL91PSXeKvLYzFIs0LsY62BFvbLgQ7tvcc6G4mA2nhJqFW2tpiTKaaC1FdA4J3vLmKMjXhrSQCc7sUeKmgJMw2ls+NsAmZxmw4ReomcgqJOkJcdOk1FmIwlKMYf6+l9RTdRUBYwghYhwFflRUltPw2BmmtsBAqquShgOohNq7pHpyH8bn+g4FHY6Cox9xnj2Te73N6yeBqiyDZfMVmMAkVkjhVxcsBlxG/Vbabw=;Ow6BPVLMnKlRWXVk1ltiew=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-aft
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593?amp=1"
 type: article
 quality: 125
-heat: 285
+heat: 245
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/17/5e18729d-7069-40ea-9bf1-1597ddfc9cf7/thumbnail/1200x630/80a7cccaf3029fd99ea448c02d502fcd/gettyimages-1230034648.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Kamala Harris' Husband, Doug Emhoff, To Teach Law At Georgetown"
-    excerpt: "Emhoff, who resigned from DLA Piper, where he was a partner, will serve as a distinguished visitor from practice and teach a course in the spring semester on entertainment law disputes."
-    publishedDateTime: 2020-12-10T18:41:00Z
-    webUrl: "https://www.npr.org/sections/biden-transition-updates/2020/12/10/945039524/kamala-harris-husband-doug-emhoff-to-teach-law-at-georgetown"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/10/gettyimages-1288294765_wide-685c440e80788e0484c30cccd5f446059a3b42ca.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
   - title: "Posturing over Kamala Harris' Senate seat is getting increasingly nasty"
     excerpt: "Gavin Newsom in selecting a replacement for Vice President-elect Kamala Harris in the United States Senate is growing increasingly contentious. California Secretary of State Alex Padilla is widely seen as the front-runner for the seat,"
@@ -133,17 +119,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meet the First Second Gentleman-Elect, Kamala Harris' Husband Douglas Emhoff"
-    excerpt: "Kamala Harris’ husband Douglas Emhoff, is one of the most adoring political spouses ever—and he will be a first in two major ways: Emhoff is the first second gentleman-elect, as well as the first Jewish spouse to a vice president."
-    publishedDateTime: 2020-12-07T16:01:00Z
-    webUrl: "https://parade.com/1117387/jessicasager/kamala-harris-husband/"
-    ampWebUrl: "https://parade.com/1117387/jessicasager/kamala-harris-husband/amp/"
-    cdnAmpWebUrl: "https://parade-com.cdn.ampproject.org/c/s/parade.com/1117387/jessicasager/kamala-harris-husband/amp/"
-    type: article
-    provider:
-      name: Parade
-      domain: parade.com
-    quality: 52
 
 secured: "4Yn8HCaaUdLp7dTJz0GGsc0HWZeXCyyk4pNNHGSZ+H8Pz1v/dpOvkDIp2z++OXv+7Tnqc33kGbUjC7XUiMedh8byTO4oLXyBy6JJpqiKbI56ItR3OoYewpeiPtLIA23gMlxVW6vH413QeSVWPFOROZfwUpto0QRahk/13ISbWWB06650USFIME9N3CiT4hPjzAw2PI9a5DTCrIOSptG/sieYYok3QrGKyNLLGbgJgvvarZrZK5KbQKJtcW8OKarJ+i18Do5myCgYlV2Dt4WDk0frtQgO0JXFy4jbY0Naas7CUQ5seAw8eVn1EPLsNf+HZIZ8zJtWbEpyQyLv0cBhoLOv00HC5MLsiSkxgRQuWlhhMQiR01hVz9CxFkcNXzyNpBt/AyoKrYPGvVy/wdjhou4+jdBvykLS6VCcwyp+6SlvTbtjnO05gxUTrwUuezox/tkth6/jCv4V8pjimx2bJO8V6yDSNj8l9K2okILyyg09UGC/BoDpEu9lrEwZuRWx5qhjfbGSQ3vPtFOfoNKCsw==;oEQgH5STvwaO0Y0TMXgZdA=="
 ---

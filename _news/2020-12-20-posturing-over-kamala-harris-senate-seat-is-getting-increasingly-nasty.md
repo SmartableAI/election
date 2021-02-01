@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris' Husband, Doug Emhoff, To Teach Law At Georgetown"
-    excerpt: "Emhoff, who resigned from DLA Piper, where he was a partner, will serve as a distinguished visitor from practice and teach a course in the spring semester on entertainment law disputes."
-    publishedDateTime: 2020-12-10T18:41:00Z
-    webUrl: "https://www.npr.org/sections/biden-transition-updates/2020/12/10/945039524/kamala-harris-husband-doug-emhoff-to-teach-law-at-georgetown"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/10/gettyimages-1288294765_wide-685c440e80788e0484c30cccd5f446059a3b42ca.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Harris to GA voters: 'You have it within your hands'"
     excerpt: "You have it within your hands' Posted . Vice President-elect Kamala Harris campaigned in Columbus, Georgia on Monday for Democratic U.S. Senate cand"
     publishedDateTime: 2020-12-21T20:31:00Z
@@ -133,17 +119,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meet the First Second Gentleman-Elect, Kamala Harris' Husband Douglas Emhoff"
-    excerpt: "Kamala Harris’ husband Douglas Emhoff, is one of the most adoring political spouses ever—and he will be a first in two major ways: Emhoff is the first second gentleman-elect, as well as the first Jewish spouse to a vice president."
-    publishedDateTime: 2020-12-07T16:01:00Z
-    webUrl: "https://parade.com/1117387/jessicasager/kamala-harris-husband/"
-    ampWebUrl: "https://parade.com/1117387/jessicasager/kamala-harris-husband/amp/"
-    cdnAmpWebUrl: "https://parade-com.cdn.ampproject.org/c/s/parade.com/1117387/jessicasager/kamala-harris-husband/amp/"
-    type: article
-    provider:
-      name: Parade
-      domain: parade.com
-    quality: 52
 
 secured: "Ia+P6brYGt3UB8KLjVfR5lbujDXm/xGl7wOwnXusWW8oaEpn3w0gCvd9FRLuptI4HU1fDwOLPRGhe9bdfG+KMPLBFEhWGw5pTvM8YuJF0rMtkdF1j7sNNas3hh04dBH54NWR6FTuTfpE9v2y2YrAw0OArbSCcs4kiAIxhOT7UoLOxZ2vwrIEW7L4W45bVJQIhg2JvtXQ22F+xV+gt8xfVccCTFy4HKzr5D/XkwKyk7ageZKzYt5LMxAW7oe+OIs01cTHAoxp91HzuxAaZjb4S2yftrdtc7OJELxMTFZg3sfTbZYffGakbn6W5HkOrdJznttDYxb09uWiTdpKvTPhImr0Hv9m/kWmy/8xpOEqud5Y1Cu4XHUEgspLOEFl7ndDmIv2VtxkGgIJE3ikHfkKSPSWxx88D7Gtq19C2a1tlZntWhV1uCv9EGjSZNwGZAwBno4rjD6GpF9npWKZoh06JyOqakBwBQA8Bq3uX2hQ+MdMvXRQWiI+zPlsWdoTRykBnCtqEIvczOrISLmChIwOkw==;BxR1QKbLMO0kHhTiALnosA=="
 ---

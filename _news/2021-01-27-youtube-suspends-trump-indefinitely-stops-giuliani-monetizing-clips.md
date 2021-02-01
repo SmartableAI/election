@@ -191,10 +191,10 @@ related:
         isCached: true
   - title: "Trump names 2 lawyers to impeachment defense team"
     excerpt: "Donald Trump has named two lawyers to his impeachment defense team, one day after it was revealed that the former president had parted ways with an earlier set of attorneys"
-    publishedDateTime: 2021-02-01T00:13:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75601986"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75601986"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75601986"
+    publishedDateTime: 2021-02-01T10:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75604908"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75604908"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75604908"
     type: article
     provider:
       name: ABC

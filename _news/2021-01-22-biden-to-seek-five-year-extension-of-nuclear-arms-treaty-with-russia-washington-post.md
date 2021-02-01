@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q2I4"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q2I4"
 type: article
 quality: 118
-heat: 118
+heat: 138
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 800
     height: 545
     isCached: true
+
+related:
+  - title: "US official says Biden administration to seek 5-year extension of nuclear arms treaty with Russia"
+    excerpt: "WASHINGTON — US official says Biden administration to seek 5-year extension of nuclear arms treaty with Russia. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
+    publishedDateTime: 2021-01-21T22:46:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/us-official-says-biden-administration-to-seek-5-year-extension-of-nuclear-arms-treaty-with-russia/2021/01/21/8b27008a-5c10-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-official-says-biden-administration-to-seek-5-year-extension-of-nuclear-arms-treaty-with-russia/2021/01/21/8b27008a-5c10-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-official-says-biden-administration-to-seek-5-year-extension-of-nuclear-arms-treaty-with-russia/2021/01/21/8b27008a-5c10-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "8ol8utydAtS9npPN3i8Dghz9wQBaM6TIPrnBlrHl1c2+GISIQLYeSMRgLtflQ+4KLj1cX9vBXZWUeuIZLJDj5/XcFdCokvcX93M5tC5tTNjfIEQ20wpw7zGpZh0erixmlAmgejq71Wzxzi2IJnZBthbdUANomwow+M9/IetCxj21LDUm38UAARZCVUqpbJlAs6vVkDiUHKdHb05fGk3x8YnDosuHgtuI36HIX4yPgTPoItb1p3k2HjMDLSZElXMti2DSeqsLyzYJmIbwpxaIDlUHdGCiT5f1KnFSpE/0ZXbA4uS/OTlg/gL9xFwCepK4KjWKM2GZhZ4nimnXoJDStIwZB+eVZuj1eYABucR9CIs=;0eOo59TESa9WofGIQ1W8Yw=="
 ---

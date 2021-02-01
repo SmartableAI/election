@@ -2,11 +2,11 @@
 category: news
 title: "Trump names 2 lawyers to impeachment defense team"
 excerpt: "Donald Trump has named two lawyers to his impeachment defense team, one day after it was revealed that the former president had parted ways with an earlier set of attorneys"
-publishedDateTime: 2021-02-01T00:13:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75601986"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75601986"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75601986"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75601986"
+publishedDateTime: 2021-02-01T10:11:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75604908"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75604908"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75604908"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75604908"
 type: article
 quality: 125
 heat: -1
@@ -463,6 +463,6 @@ related:
       domain: usnews.com
     quality: 47
 
-secured: "+Y1ozAQL/adLmNlHFCywjejkRaU2DyS/Gm8bHrnyysfmpx+lwhvJOulTL0qKqV8/y7jrVyWT9cJZKmZhGkw8N3fhhjvr5ytj8rjf+H4d1DyjYpodExsUkcEuQLjcQSfz9NEuDtaG+XXjhrxehbHzaSvSm36H7N6mOlQO+Nv0WKMc4DcwW1Ym0bScJNijgAG582Fks8Rbo1Ke6IL4LmhgP2LsdTjGwILOvtMEB1MWXVS+0aBUpcR1arGA5U3S29g3wEOTL7igavCCkrBe6/PpKXttIyAE1deg1bU34mwleP53pyELPr/S3tycWRinza2QxJMu3ZcjmmJU/68Akx9RHCpNCwQqn5KAgOSyFFmDJhM=;DEpQH2+pHxs6DCIHxo13dw=="
+secured: "tQ2EDpUTcvHHgQaHRtj45Ry/RkeYsKcyP6H3H2uqXEp/4165e3WhJkxEr4n/FURWeINw9VFWncdt/kLpnURbAXhrUx8kdxWBYdTbrb4XVWtdA+i7tYHoaFtTTqdp8EhEc9HyZRiAjb6KcAwE5LD+s0dS/snjF/XXTiSr+q198JskVg1bpQv8S1j0XYtJAhS7Sn85E4zC+vt9Nv6M5zcolkmjk5CgA13nkIpnPq0URpAIqfMVIcaQjI0byWco9aJ4XwqK1p/NFngR1dvWqOixPBKeZiu6gMwcxRfZSr008LMG89Onufe1SNXyGBfiHvPSAKlWDhKWOz0ro1V/yBeCBgDLMXThf8HpY0F1udh43e0=;BE/k5lEsZPzvb+/OX3v+pw=="
 ---
 

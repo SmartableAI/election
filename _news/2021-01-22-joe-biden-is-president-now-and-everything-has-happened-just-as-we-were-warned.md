@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden says Congress needs to 'act now' on $1.9tn Covid relief proposal"
-    excerpt: "President said he supported passing relief with or without Republicans"
-    publishedDateTime: 2021-01-29T20:27:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/29/joe-biden-covid-relief-congress-democrats-republicans"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/29/joe-biden-covid-relief-congress-democrats-republicans"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/29/joe-biden-covid-relief-congress-democrats-republicans"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/31ccf94c3e1f00dd299d25d63e6bc66eb6a7fc7f/0_57_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=22f9cf2305c623242a40c65046d5a746"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Biden visits with wounded soldiers at Walter Reed"
     excerpt: "President Joe Biden made his first major foray outside the White House Friday, to visit wounded soldiers at Walter Reed Hospital. Biden thanked hospital officials for taking care of his on Beau in his final days \"with great grace and dignity."
     publishedDateTime: 2021-01-29T20:39:00Z

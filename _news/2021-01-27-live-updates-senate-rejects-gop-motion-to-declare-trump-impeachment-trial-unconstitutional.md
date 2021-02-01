@@ -271,6 +271,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "New Trump PAC raised $31.5 million in the weeks after Election Day, as Trump was making baseless claims of voter fraud"
+    excerpt: "Trump left the presidency with tens of millions of dollars he can now use to finance his post-presidential political career."
+    publishedDateTime: 2021-02-01T09:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-raised-315-million-in-the-weeks-after-election-day-for-his-new-leadership-pac-filing-shows/2021/01/31/1847c75a-63f1-11eb-8468-21bc48f07fe5_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-raised-315-million-in-the-weeks-after-election-day-for-his-new-leadership-pac-filing-shows/2021/01/31/1847c75a-63f1-11eb-8468-21bc48f07fe5_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raised-315-million-in-the-weeks-after-election-day-for-his-new-leadership-pac-filing-shows/2021/01/31/1847c75a-63f1-11eb-8468-21bc48f07fe5_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7H52OUTEIEI6XBDIEG6ER4D74U.jpg&w=1440"
+        width: 1440
+        height: 964
+        isCached: true
   - title: "Consumer Financial Protection Bureau, muzzled under Trump, prepares to renew tough industry oversight"
     excerpt: "After taking a largely hands-off approach in the Trump era, the consumer watchdog hatched by Elizabeth Warren is expected to resume issuing tough penalties and rules."
     publishedDateTime: 2021-01-27T18:10:00Z

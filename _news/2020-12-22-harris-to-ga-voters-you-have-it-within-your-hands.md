@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris' Husband, Doug Emhoff, To Teach Law At Georgetown"
-    excerpt: "Emhoff, who resigned from DLA Piper, where he was a partner, will serve as a distinguished visitor from practice and teach a course in the spring semester on entertainment law disputes."
-    publishedDateTime: 2020-12-10T18:41:00Z
-    webUrl: "https://www.npr.org/sections/biden-transition-updates/2020/12/10/945039524/kamala-harris-husband-doug-emhoff-to-teach-law-at-georgetown"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/12/10/gettyimages-1288294765_wide-685c440e80788e0484c30cccd5f446059a3b42ca.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Posturing over Kamala Harris' Senate seat is getting increasingly nasty"
     excerpt: "Gavin Newsom in selecting a replacement for Vice President-elect Kamala Harris in the United States Senate is growing increasingly contentious. California Secretary of State Alex Padilla is widely seen as the front-runner for the seat,"
     publishedDateTime: 2020-12-19T21:59:00Z
@@ -133,17 +119,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meet the First Second Gentleman-Elect, Kamala Harris' Husband Douglas Emhoff"
-    excerpt: "Kamala Harris’ husband Douglas Emhoff, is one of the most adoring political spouses ever—and he will be a first in two major ways: Emhoff is the first second gentleman-elect, as well as the first Jewish spouse to a vice president."
-    publishedDateTime: 2020-12-07T16:01:00Z
-    webUrl: "https://parade.com/1117387/jessicasager/kamala-harris-husband/"
-    ampWebUrl: "https://parade.com/1117387/jessicasager/kamala-harris-husband/amp/"
-    cdnAmpWebUrl: "https://parade-com.cdn.ampproject.org/c/s/parade.com/1117387/jessicasager/kamala-harris-husband/amp/"
-    type: article
-    provider:
-      name: Parade
-      domain: parade.com
-    quality: 52
 
 secured: "WjTb/DIZ6SpIDYs4JnAmlVNvqVtST3m8wO87FbIFxHNikD9LivLYZcaLqD16dka8XD4/EdX5FMnY14TaoEnWmwo+yY38rSLhWIWybXI1Uypr9b75q5uB+NwPq/eTknKNxoqW70ZBTFaMWM2AM7OSXWzSlH0MdehuErvNhto15tayPCVjb8k+OyYBNkW/c8PLTz8G2JmP3dt2kRADwMA5iu/dipLuR9mbr564c4GfsVzIho/9neZn7Aq0rCwTNzNtF8/YpGROj+zrNNjPCVaMAMauHWc2GNvGtEXKTDIfNJ4cc16/ysf0eLLKBvt2RtnDEoEaQU/spwD5tuQJ3YM87nbVM0F6yzh7AmfGDGbFygk=;QLdqgnEm8ey+/3/kHgKvww=="
 ---

@@ -57,22 +57,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "Vice President Kamala Harris: White House wants to accelerate COVID-19 vaccinations in Arizona"
-    excerpt: "\"We have big problems right now, but we also have the ability to be bold with big solutions,\" Vice President Kamala Harris told The Arizona Republic."
-    publishedDateTime: 2021-01-28T20:00:00Z
-    webUrl: "https://www.azcentral.com/story/news/local/arizona-health/2021/01/28/white-house-wants-accelerate-covid-19-vaccinations-arizona/4293561001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4293561001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4293561001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 63
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/94c6f544-c7e2-45fb-9942-7c91a029b88f-VPC_BIDEN_SOT_DESK.00_00_07_05.Still015.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "What do Black women in rural NC think of Kamala Harris? | Raleigh News & Observer"
     excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
     publishedDateTime: 2021-01-31T04:01:00Z

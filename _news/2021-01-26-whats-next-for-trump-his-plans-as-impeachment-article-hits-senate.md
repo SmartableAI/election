@@ -410,6 +410,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "10 Things in Politics: Trump isn't going away anytime soon"
+    excerpt: "Welcome to the 10 Things in Politics newsletter. Planned Parenthood leans on Biden to go \"bold\", a coup unfolds in Myanmar and Trump's new lawyers."
+    publishedDateTime: 2021-02-01T10:48:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-2021-2-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/6017b7b3d6c5e60019c6e2b4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How Trump could mount a presidential campaign even if he's banned from office"
     excerpt: "A Senate vote to bar former President Trump from public office may not be enough to stop him from running another White House campaign in 2024 — at least for awhile."
     publishedDateTime: 2021-01-27T15:08:00Z
@@ -439,6 +453,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QRNMS5Q7VQI6XORB6LYAD4CVJM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Donald Trump has these 7 distinct weapons in his arsenal that show he isn't going away anytime soon"
+    excerpt: "Insider has identified 7 weapons in Donald Trump's arsenal — political committees, government facilities, media platforms — for staging a comeback."
+    publishedDateTime: 2021-02-01T10:00:00Z
+    webUrl: "https://www.businessinsider.com/where-is-donald-trump-new-2024-campaign-committee-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/60149ab66dfbe10018e00e73?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Pence looking to forge new political path away from Trump"
     excerpt: "Former Vice President Mike Pence is reportedly making plans to form a political committee, signaling his intention to remain in politics."

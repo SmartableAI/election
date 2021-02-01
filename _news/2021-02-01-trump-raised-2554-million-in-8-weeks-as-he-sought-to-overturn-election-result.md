@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-fundrais
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-fundraising-20210131-h5cksn4i3zhdleefoux4ddyk5q-story.html?outputType=amp"
 type: article
 quality: 136
-heat: 696
+heat: 716
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/8748c6c4833f4d286dc7aab150adee2b64263865/c=0-173-4890-2936/local/-/media/2017/05/12/Phoenix/Phoenix/636302166299134058--20170319-Trump-billboard-0065.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
+        isCached: true
+  - title: "New Trump PAC raised $31.5 million in the weeks after Election Day, as Trump was making baseless claims of voter fraud"
+    excerpt: "Trump left the presidency with tens of millions of dollars he can now use to finance his post-presidential political career."
+    publishedDateTime: 2021-02-01T09:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-raised-315-million-in-the-weeks-after-election-day-for-his-new-leadership-pac-filing-shows/2021/01/31/1847c75a-63f1-11eb-8468-21bc48f07fe5_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-raised-315-million-in-the-weeks-after-election-day-for-his-new-leadership-pac-filing-shows/2021/01/31/1847c75a-63f1-11eb-8468-21bc48f07fe5_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raised-315-million-in-the-weeks-after-election-day-for-his-new-leadership-pac-filing-shows/2021/01/31/1847c75a-63f1-11eb-8468-21bc48f07fe5_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7H52OUTEIEI6XBDIEG6ER4D74U.jpg&w=1440"
+        width: 1440
+        height: 964
         isCached: true
   - title: "Live Updates: Senate rejects GOP motion to declare Trump impeachment trial unconstitutional"
     excerpt: "Senators were sworn in as jurors on Tuesday in the second impeachment trial of former President Donald Trump for inciting an insurrection, with proceedings scheduled to get underway in two weeks. Senator Patrick Leahy,"

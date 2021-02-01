@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 906
         isCached: true
+  - title: "Biden to present top economy advisers as pandemic threat worsens"
+    excerpt: "U.S. President-elect Joe Biden will formally introduce his top economic policy advisers on Tuesday as his administration prepares to take power amid a slowing economic recovery hampered by the resurgent coronavirus pandemic."
+    publishedDateTime: 2020-12-01T17:35:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idUSKBN28B5UK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5UK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5UK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543087688&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB039D"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Controversial postal chief poised to remain in Biden administration"
     excerpt: "With no clear recourse to immediately remove him, Postmaster General Louis DeJoy is expected to remain in his role after President-elect Joe Biden is sworn in next month."
     publishedDateTime: 2020-12-01T18:57:00Z
@@ -455,6 +471,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/73e64eba-6d9d-476b-96d2-17e675c487a6-AP20326568855426.jpg?auto=webp&crop=5999,3374,x1,y200&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Easy Way for Joe Biden to Save Lives"
+    excerpt: "There’s an on-the-shelf policy the Biden administration could enact unilaterally that would save millions of American lives, without costing the government a single cent on net. That policy, one pushed for but never implemented by the Trump administration,"
+    publishedDateTime: 2020-12-05T11:11:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2020/12/easy-way-to-quit-smoking/617305/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617305/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617305/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/jmB42DJzPPFAnmeCrgMjCurSMYI=/570x321/media/img/mt/2020/12/smoking4/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
+  - title: "Who Joe Biden Has Announced for His Cabinet So Far"
+    excerpt: "President-elect Joe Biden has been widely expected to staff his administration with a mix of experienced advisers and credentialed experts from Washington, D.C., as well as the kinds of diverse faces he says ensure his administration reflects the country."
+    publishedDateTime: 2020-12-05T19:53:00Z
+    webUrl: "https://people.com/politics/whos-who-in-joe-bidens-cabinet/"
+    ampWebUrl: "https://people.com/politics/whos-who-in-joe-bidens-cabinet/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/whos-who-in-joe-bidens-cabinet/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 75
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B11025%2C3200%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fjoe-biden-3.jpg"
+        width: 1500
+        height: 785
         isCached: true
 
 secured: "L0UgB1dPjQzekVvRe+mxz1bENgccaWkjNm0ry54ZEG1yS+ZNC2dTtoR1mR6v8ZV18CRQX7l2Ne3Fx0DzLosI+L5dzkHqOMhKU6v/csCbi0D5JYgi/uvpnlH3RCnM4r1uc8FhoWtuKSYKlaPNDTfPKyWtD8KtKk7S5nuYW3AWQnwvPMObn/fdpcTIY0WdaFuAuAidJuqvBiuIUqKBDfSubm1wzvUsGN2W8TmeY5hKAZqCORKi7GjT637NdReM4zc33zPICmNQwx512KbDD/EUkvd/T6KZYPy1L5Pvqqen2pQCfOT5XPfE7RmKaqRysxd4IEpEuiGo7jglu1k54GMLcb9wuVlORNAK7cUm6xvFomP70qf83GRtpppVJ6XK4RzdTOC+MQ1H/t1QBxCQECFqqTxMXZQ3rU6HvIl+/lsCU2ufJDAj2yQFTS7DKcRLPfnLnzVMMdP1guY/VFnDUIvu09pGL3jD71B6YHJ+9xwNjh+MuIMDf9WS4I/Gt9xU35g95V73LDdvdKIU7w6YPkt10w==;i0BSr+J/7j8jTJEd08pbSQ=="

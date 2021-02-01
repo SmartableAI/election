@@ -47,54 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to reinstate COVID-19 travel rules, add South Africa"
-    excerpt: "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr"
-    publishedDateTime: 2021-01-25T14:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden to reinstate COVID travel rules, add South Africa"
-    excerpt: "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr"
-    publishedDateTime: 2021-01-25T13:36:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75467058"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75467058"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75467058"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Travel/WireAP_cf6c3c66cb5d4a55b5e80f6769b46498_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Virus aid package tests whether Biden, Congress can deliver"
-    excerpt: "More than a sweeping national rescue plan, President Joe Biden ’s $1.9 trillion COVID-19 relief package presents a first political test — For Biden, the outcome will test the strength of his presidency,"
-    publishedDateTime: 2021-01-28T15:27:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/virus-aid-package-tests-biden-congress-deliver-75538841"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/virus-aid-package-tests-biden-congress-deliver-75538841"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/virus-aid-package-tests-biden-congress-deliver-75538841"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4c7821cc14164c268378df3e1b377dcd_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Lawmakers push Biden to offer recurring $2,000 stimulus checks"
     excerpt: "As Congress debates President Joe Biden's request for $1.9 trillion in coronavirus relief funding — including a third stimulus check pegged at $1,400 — some Democratic lawmakers are pushing for an even bigger response: $2,"
     publishedDateTime: 2021-01-29T11:39:00Z

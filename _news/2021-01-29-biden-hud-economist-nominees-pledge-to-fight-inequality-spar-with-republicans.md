@@ -31,79 +31,46 @@ images:
     isCached: true
 
 related:
-  - title: "Biden speaks to Putin for first time since taking power: White House"
-    excerpt: "U.S. President Joe Biden spoke to Russian President Vladimir Putin on Tuesday for the first time since taking office and raised concerns about Russian activities including the treatment of jailed Kremlin critic Alexei Navalny,"
-    publishedDateTime: 2021-01-27T00:13:00Z
-    webUrl: "https://www.reuters.com/article/us-russia-usa-biden-putin-idUSKBN29V2AJ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V2AJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2AJ"
+  - title: "Biden pledge to reopen PLO mission in Washington faces legal hurdles"
+    excerpt: "U.S. President Joe Biden's plan to work to reopen the Palestinians' diplomatic mission in Washington could be held up over a law that exposes Palestinian officials to U.S. anti-terror lawsuits, officials and advisers to the Palestinians say."
+    publishedDateTime: 2021-01-29T18:55:00Z
+    webUrl: "https://www.reuters.com/article/us-palestinians-usa-idUSKBN29Y1FB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y1FB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y1FB"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549143451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1CN"
-        width: 844
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549554099&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S0YT"
+        width: 825
         height: 545
         isCached: true
-  - title: "Biden presses Putin on Navalny arrest and pushes arms treaty in first phone call"
-    excerpt: "The White House said the president raised concerns about Navalny's arrest and Russia's treatment of protesters."
-    publishedDateTime: 2021-01-26T19:08:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-putin-call-navalny-poisoning-treaty/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-putin-call-navalny-poisoning-treaty/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-putin-call-navalny-poisoning-treaty/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/7540ab50-d556-4559-96ef-35e99a45306a/thumbnail/1200x630/ff5ee79b684be54c9e9014643354f4a0/ap20314484333168.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Daily routine and a script are back in the Biden White House, but how long can it last?"
-    excerpt: "It's unclear how long President Joe Biden can stick to his routine amid rising partisan conflicts in Congress and a slew of monumental challenges."
-    publishedDateTime: 2021-01-31T19:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/31/bidens-start-routine-order-and-script-back-white-house/4291773001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4291773001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4291773001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/83041318d569c710a4dfd65f2e0fcfe7e1812695/c=0-295-5666-3482/local/-/media/2021/01/27/USATODAY/usatsports/B9343114835Z.1_20210127021915_000_GL6S6QQJE.2-0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "White House says Biden believes Nord Stream 2 pipeline is a bad deal for Europe"
-    excerpt: "White House press secretary Jen Psaki said on Tuesday that President Joe Biden continues to believe the Nord Stream 2 natural gas pipeline is a bad deal for Europe."
-    publishedDateTime: 2021-01-26T23:39:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-nord-stream/white-house-says-biden-believes-nord-stream-2-pipeline-is-a-bad-deal-for-europe-idUSW1N2IO07R"
+  - title: "NLRB faces paralysis, legal challenges over Biden's firing of general counsel"
+    excerpt: "The impending legal battle over President Joe Biden's firing of National Labor Relations Board General Counsel Peter Robb could hobble the agency, or at least create a major distraction, as the new administration pursues an ambitious pro-worker agenda,"
+    publishedDateTime: 2021-01-31T22:16:00Z
+    webUrl: "https://www.reuters.com/article/employment-nlrb/nlrb-faces-paralysis-legal-challenges-over-bidens-firing-of-general-counsel-idUSL1N2K60JN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K60JN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K60JN"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 101
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Meet the corporate lobbying powerhouses that bankrolled Joe Biden's star-studded, fireworks-filled inauguration bash"
-    excerpt: "Online disclosures of certain corporate and union contributions disappeared from Biden's inaugural website after January 27."
-    publishedDateTime: 2021-01-31T16:15:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-inauguration-corporations-lobbying-contributions-money-inaugural-2021-1"
+    quality: 102
+  - title: "DON'T MISS THURSDAY: A conversation with Insider's Washington correspondents on what to expect during Joe Biden's first 100 days"
+    excerpt: "Biden's promises include plans to deliver 100m vaccines to the US, a new economic stimulus, and to safely reopen most schools."
+    publishedDateTime: 2021-01-31T01:59:00Z
+    webUrl: "https://www.businessinsider.com/biden-100-days-agenda-business-insider-webinar-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-100-days-agenda-business-insider-webinar-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-100-days-agenda-business-insider-webinar-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 82
+    quality: 96
     images:
-      - url: "https://i.insider.com/6009014adb847c001918bfe0?width=1200&format=jpeg"
+      - url: "https://i.insider.com/600f59ec67a6bc0019d9af25?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

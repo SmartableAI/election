@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 906
         isCached: true
+  - title: "Biden to present top economy advisers as pandemic threat worsens"
+    excerpt: "U.S. President-elect Joe Biden will formally introduce his top economic policy advisers on Tuesday as his administration prepares to take power amid a slowing economic recovery hampered by the resurgent coronavirus pandemic."
+    publishedDateTime: 2020-12-01T17:35:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-idUSKBN28B5UK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5UK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5UK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543087688&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB039D"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Controversial postal chief poised to remain in Biden administration"
     excerpt: "With no clear recourse to immediately remove him, Postmaster General Louis DeJoy is expected to remain in his role after President-elect Joe Biden is sworn in next month."
     publishedDateTime: 2020-12-01T18:57:00Z
@@ -451,6 +467,38 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/07/1eacfb4d-460e-4567-8a59-bf624273e749/thumbnail/1200x630/58b543705b72534410432b3b518be4f5/cbsn-fusion-former-cia-director-says-intelligence-community-will-recover-under-biden-thumbnail-603368-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Easy Way for Joe Biden to Save Lives"
+    excerpt: "There’s an on-the-shelf policy the Biden administration could enact unilaterally that would save millions of American lives, without costing the government a single cent on net. That policy, one pushed for but never implemented by the Trump administration,"
+    publishedDateTime: 2020-12-05T11:11:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2020/12/easy-way-to-quit-smoking/617305/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617305/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617305/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/jmB42DJzPPFAnmeCrgMjCurSMYI=/570x321/media/img/mt/2020/12/smoking4/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
+  - title: "Who Joe Biden Has Announced for His Cabinet So Far"
+    excerpt: "President-elect Joe Biden has been widely expected to staff his administration with a mix of experienced advisers and credentialed experts from Washington, D.C., as well as the kinds of diverse faces he says ensure his administration reflects the country."
+    publishedDateTime: 2020-12-05T19:53:00Z
+    webUrl: "https://people.com/politics/whos-who-in-joe-bidens-cabinet/"
+    ampWebUrl: "https://people.com/politics/whos-who-in-joe-bidens-cabinet/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/whos-who-in-joe-bidens-cabinet/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 75
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B11025%2C3200%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fjoe-biden-3.jpg"
+        width: 1500
+        height: 785
         isCached: true
 
 secured: "7NO+DOCT7Sahdvh6s3Fs4bzyvW8uQxgzQduzq6yb2wy2e0QrWM0uor+9DHbI9bnb2OtzUNGZG6lbWQSLTi23nhC39gdBMqDoDfdSMfqKJVJGBKQaDMXtdXNvQ5nfvI3vRiBpWHYShc6Pi78BsFEa+AL8saw7jRbHfAY0N4UsGcUPBeJu8rXl+p2MwHGTzyfuN8Xab/vg9ydVg46i24l5wkG3yZAXfnxWJlb/H8tJf6O7qrg8uWzDLh5XMqhh3U/3eO/nnktNrMkNUQIJqVaN9XnZIOelbzqoUs319qUqvu4CZyP2hT1Y8gy8plkajfSjD6hbrUnMbdMggLhrY5PHtF+eFTQy73o0Io9br30KBHk=;BnJAHbZ/j1SffpfsHgRJyw=="

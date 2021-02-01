@@ -27,526 +27,448 @@ images:
     isCached: true
 
 related:
-  - title: "Watch live: Biden and Harris introduce key economic team members"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are set to introduce key economic team members Tuesday afternoon in Wilmington, Delaware."
-    publishedDateTime: 2020-12-01T22:27:00Z
-    webUrl: "https://www.cnbc.com/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/01/watch-live-biden-and-harris-introduce-key-economic-team-members.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 140
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106797646-16055585112020-11-16t202540z_641690806_rc2k4k9gobvu_rtrmadp_0_usa-biden.jpeg?v=1605558548"
-        width: 3500
-        height: 2365
-        isCached: true
-  - title: "Teacher and her kindergartners stunned to receive response letters from Joe Biden, Kamala Harris"
-    excerpt: "Kindergarten teacher Martha Tavarez of Barron Elementary School in El Paso, Texas, said she and her students were thrilled to receive letters from President Joe Biden and Vice President Kamala Harris."
-    publishedDateTime: 2021-01-27T13:21:00Z
-    webUrl: "https://abcnews.go.com/GMA/Living/teacher-kindergartners-stunned-receive-response-letters-joe-biden/story?id=75496442"
-    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/teacher-kindergartners-stunned-receive-response-letters-joe-biden-75496442"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/teacher-kindergartners-stunned-receive-response-letters-joe-biden-75496442"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 127
-    images:
-      - url: "https://s.abcnews.com/images/GMA/teacher-kindergartners-biden-harris-ht-MAIN-np-210126_1611709736925_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Top secret: Biden gets access to President’s Daily Brief"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris began receiving the nation’s most sensitive secrets Monday as they prepare to assume office on Jan. 20"
-    publishedDateTime: 2020-12-01T01:59:00Z
-    webUrl: "https://www.washingtonpost.com/politics/top-secret-biden-gets-access-to-presidents-daily-brief/2020/11/30/d759037e-3378-11eb-9699-00d311f13d2d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/top-secret-biden-gets-access-to-presidents-daily-brief/2020/11/30/d759037e-3378-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/top-secret-biden-gets-access-to-presidents-daily-brief/2020/11/30/d759037e-3378-11eb-9699-00d311f13d2d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden to present top economy advisers as pandemic threat worsens"
-    excerpt: "U.S. President-elect Joe Biden will formally introduce his top economic policy advisers on Tuesday as his administration prepares to take power amid a slowing economic recovery hampered by the resurgent coronavirus pandemic."
-    publishedDateTime: 2020-12-01T17:35:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idUSKBN28B5UK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B5UK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B5UK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543087688&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB039D"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Unveiling economic team, Biden pledges, ‘Help is on the way’"
-    excerpt: "President-elect Joe Biden has introduced top advisors he says will help his administration rebuild an economy hammered by the COVID-19 pandemic."
-    publishedDateTime: 2020-12-01T21:43:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-12-01/unveiling-economic-team-biden-pledges-help-is-on-the-way"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-01/unveiling-economic-team-biden-pledges-help-is-on-the-way?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-01/unveiling-economic-team-biden-pledges-help-is-on-the-way?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/9c1be0d/2147483647/strip/true/crop/4207x2748+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2F37%2F6b45480b46af967b7e3d5412685d%2Fbiden-37838.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Unveiling economic team, Biden pledges, 'Help is on the way'"
-    excerpt: "President-elect Joe Biden has introduced top advisers he says will help his administration rebuild an economy hammered by the coronavirus pandemic"
-    publishedDateTime: 2020-12-03T03:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-unveils-economic-team-critical-moment-recovery-74481765"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-unveils-economic-team-critical-moment-recovery-74481765"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-unveils-economic-team-critical-moment-recovery-74481765"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dde971aafe2f40269ccc2ead36f4bca8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Kamala Harris Makes More History With All-Female Senior Staff Picks"
-    excerpt: "For the first time, the top three positions in the office of the vice president will be held by women -- and all serving under the first woman to hold the office."
-    publishedDateTime: 2020-12-03T23:22:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/harris-announces-an-all-female-slate-of-senior-staff-picks"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 125
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDqnSWHoECyc/v0/360x-1.jpg"
-        width: 360
-        height: 272
-        isCached: true
-  - title: "Kamala Harris names chief of staff, other key positions"
-    excerpt: "Elect Kamala D. Harris will name Tina Flournoy Chief of Staff, the transition team announced Thursday, tapping a trailblazer with decades of Washington experience to help run the vice presidential operation."
-    publishedDateTime: 2020-12-03T19:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-chief-of-staff/2020/12/03/4a53c3ee-341b-11eb-a997-1f4c53d2a747_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-chief-of-staff/2020/12/03/4a53c3ee-341b-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-chief-of-staff/2020/12/03/4a53c3ee-341b-11eb-a997-1f4c53d2a747_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2X7MTPBEMEI6XFJOBRDVS4WPYA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Unveiling economic team, Biden pledges, 'Help is on the way'"
-    excerpt: "President-elect Joe Biden has introduced top advisers he says will help his administration rebuild an economy hammered by the coronavirus pandemic"
-    publishedDateTime: 2020-12-04T07:11:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-unveils-economic-team-critical-moment-recovery-74482591"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dde971aafe2f40269ccc2ead36f4bca8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Kamala Harris is on the cusp of power, but has to tread carefully"
-    excerpt: "As veep, Kamala Harris will have every opportunity for clout. Biden, the oldest man to become president, has promised her a prime role. But she faces minefields too."
-    publishedDateTime: 2020-12-06T11:14:00Z
-    webUrl: "https://www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully"
-    ampWebUrl: "https://www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-12-06/kamala-harris-is-on-the-cusp-of-power-but-has-to-tread-carefully?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/1da91ae/2147483647/strip/true/crop/3749x2449+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2F22%2F9c0dee354cbba4f0c7e05e08af94%2Fap20185052720753.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Kamala Harris Celebrates 50 Days Until Biden Is President; Sarah Cooper, Rosanna Arquette and Others Respond"
-    excerpt: "Vice President-elect Kamala Harris took to Twitter this morning to happily remind people they are only 50 days away from Joe Biden 's January 20th Presidential Inauguration. As she put it, \"Only 50 days until we get to call @JoeBiden President of the United States."
-    publishedDateTime: 2020-12-01T15:43:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-fifty-days-biden-president-1551522?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1669370/kamala-harris-joe-biden.jpg"
-        width: 2500
-        height: 1668
-        isCached: true
-  - title: "Vice President-elect Kamala Harris is poised to break barriers on multiple fronts"
-    excerpt: "It was exactly one year ago Thursday that California Sen. Kamala Harris dropped out of the presidential race, citing a lack of funds. Now she is poised to break barriers as the first woman, first Black American and first South-Asian American vice president-elect."
-    publishedDateTime: 2020-12-03T22:35:00Z
-    webUrl: "https://www.pbs.org/newshour/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/vice-president-elect-kamala-harris-is-poised-to-break-barriers-on-multiple-fronts"
+  - title: "News Wrap: Alex Padilla is tapped to fill Kamala Harris’ Senate seat"
+    excerpt: "In our news wrap Tuesday, California Secretary of State Alex Padilla is tapped to fill the U.S. Senate seat vacated by Vice President-elect Kamala Harris, the E.U.'s executive body calls for an end to travel bans aimed at confining a new COVID-19 strain in Britain,"
+    publishedDateTime: 2020-12-22T23:35:00Z
+    webUrl: "https://www.pbs.org/newshour/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat"
     type: article
     provider:
       name: PBS
       domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/newswrap15-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "California secretary of state Alex Padilla to fill Kamala Harris's Senate seat"
+    excerpt: "Padilla will be state’s first Latino senator after appointment by governor and ally Gavin Newsom"
+    publishedDateTime: 2020-12-22T18:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/dec/22/alex-padilla-senate-california-kamala-harris-gavin-newsom"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/dec/22/alex-padilla-senate-california-kamala-harris-gavin-newsom"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/22/alex-padilla-senate-california-kamala-harris-gavin-newsom"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/462a60b5ea54e650fbe5a14d7496b0680b209399/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1bccde7dac070dde4d017a18bca26c28"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Governor names California's first Latino senator as replacement for Kamala Harris"
+    excerpt: "California Secretary of State Alex Padilla (D) will be the first Latino senator from California, a state where Latinos make up about 40 percent of the population. Gov. Gavin Newsom (D-Calif.) on Tuesday selected Padilla to fill the Senate seat held by Vice President-elect Kamala Harris,"
+    publishedDateTime: 2020-12-22T21:06:00Z
+    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator"
+    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/531341-governor-names-californias-first-latino-senator?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
     quality: 120
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/VP_tape-1024x699.jpg"
-        width: 1024
-        height: 699
+      - url: "https://thehill.com/sites/default/files/ca_padillacasenator_122220getty.jpg"
+        width: 1440
+        height: 880
         isCached: true
-  - title: "Live politics updates: President-elect Biden to discuss economic crisis with workers and small-business owners"
-    excerpt: "President-elect Joe Biden plans to meet online Wednesday with workers and small-business owners to discuss the economic crisis, as part of his preparations for taking office. Biden highlighted the need for more federal stimulus spending Tuesday while introducing his economics team,"
-    publishedDateTime: 2020-12-02T15:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/02/presidential-transition-updates-politics-joe-biden-donald-trump/3791958001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3791958001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3791958001"
+  - title: "California Gov. Newsom selects Alex Padilla to replace Kamala Harris in the Senate"
+    excerpt: "Gov. Gavin Newsom (D) selected on Tuesday his longtime political ally and current California Secretary of State Alex Padilla to fill the U.S. Senate seat when Vice President-elect Kamala D. Harris steps down next month."
+    publishedDateTime: 2020-12-22T19:21:00Z
+    webUrl: "https://www.washingtonpost.com/national/senate-harris-california-padilla/2020/12/22/0de1d7e2-4484-11eb-90fc-79662011cb49_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/senate-harris-california-padilla/2020/12/22/0de1d7e2-4484-11eb-90fc-79662011cb49_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/senate-harris-california-padilla/2020/12/22/0de1d7e2-4484-11eb-90fc-79662011cb49_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/0ea21f1c-a0a4-477a-be43-069126ee14c8-biden_economics_team.jpg?auto=webp&crop=7462,4198,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B3HW7ACERAI6XMHEB4MCSI5AEU.jpg&w=1440"
+        width: 1440
+        height: 1080
         isCached: true
-  - title: "Kamala Harris Taps Ex-Diplomat to Be Her National Security Advisor"
-    excerpt: "Nancy McEldowney is one of several former senior foreign service officers expected to join the senior ranks of the new U.S. administration."
-    publishedDateTime: 2020-12-03T16:23:00Z
-    webUrl: "https://foreignpolicy.com/2020/12/03/kamala-harris-taps-ex-diplomat-to-be-national-security-adviser-biden-transition-foreign-policy-team/"
-    type: article
-    provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 105
-    images:
-      - url: "https://foreignpolicy.com/wp-content/uploads/2020/12/Harris-National-Security-Team-Biden-Transition.jpg?w=1000"
-        width: 1000
-        height: 723
-        isCached: true
-  - title: "Safe harbor law locks Congress into accepting Biden's win"
-    excerpt: "Happy Safe Harbor Day, America."
-    publishedDateTime: 2020-12-08T14:37:00Z
-    webUrl: "https://www.businessinsider.com/safe-harbor-law-locks-congress-into-accepting-bidens-win-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/safe-harbor-law-locks-congress-into-accepting-bidens-win-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/safe-harbor-law-locks-congress-into-accepting-bidens-win-2020-12?amp"
+  - title: "California Secretary of State Alex Padilla will fill Kamala Harris' US Senate seat"
+    excerpt: "Padilla will be the first-ever Latino US Senator to represent California, serving out the rest of Harris' term until 2022."
+    publishedDateTime: 2020-12-22T18:20:00Z
+    webUrl: "https://www.businessinsider.com/alex-padilla-to-replace-kamala-harris-in-us-senate-from-california-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/alex-padilla-to-replace-kamala-harris-in-us-senate-from-california-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alex-padilla-to-replace-kamala-harris-in-us-senate-from-california-2020-12?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5f7dd049282c500018c79137?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Alex Padilla to become California’s first Latino U.S. senator, replacing Kamala Harris"
+    excerpt: "Alex Padilla will be the first Latino to represent California in the U.S. Senate. He will succeed Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-12-22T18:00:00Z
+    webUrl: "https://www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris"
+    ampWebUrl: "https://www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-12-22/gavin-newsom-alex-padilla-senate-california-kamala-harris?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 117
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/44efb7f/2147483647/strip/true/crop/6271x4096+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2Ff5%2F3007e50448f8b7e5ae317a32c9ed%2Fla-photos-1staff-642253-me-1030-pol-ca-newsom-17-cmc.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Kamala Harris Receives First Dose of Covid-19 Vaccine"
+    excerpt: "Vice President-elect Kamala Harris receives her first dose of Moderna's Covid-19 vaccine at United Medical Center in Southeast Washington, D.C. (Source: Bloomberg)"
+    publishedDateTime: 2020-12-29T16:39:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2020-12-29/kamala-harris-receives-first-dose-of-covid-19-vaccine-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 105
-  - title: "Kellyanne Conway: 'It looks like Joe Biden and Kamala Harris will prevail'"
-    excerpt: "Kellyanne Conway, President Trump’s former adviser, counselor and campaign manager, became his latest ally to acknowledge his days in the White House are just about over during an interview Friday."
-    publishedDateTime: 2020-12-05T19:12:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/5/kellyanne-conway-ex-trump-adviser-it-looks-like-jo/"
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioeIXMANEEsk/v5/-1x-1.jpg"
+        width: 950
+        height: 534
+        isCached: true
+  - title: "Choice of Alex Padilla for Kamala Harris' Senate seat shakes up California politics"
+    excerpt: "As Vice President-elect Kamala Harris resigns from the Senate, California Governor Gavin Newsom has named the state's attorney general, Alex Padilla, to fill the seat. Sophia Bollag, a politics reporter covering the Newsom administration at the Sacramento Bee,"
+    publishedDateTime: 2021-01-18T20:58:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-senate-seat-alex-padilla-california-governor-gavin-newsom/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/18/34f67477-bbf9-4d10-8c82-69aff53c73b0/thumbnail/1200x630/7753bf2e1481a9d9996d7d9f41e42e58/cbsn-fusion-kamala-harris-senate-seat-alex-padilla-california-governor-gavin-newsom-thumbnail-628754-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Alex Padilla to replace Kamala Harris in Senate, becoming California's first Latino senator"
+    excerpt: "Governor Gavin Newsom tapped California Secretary of State Alex Padilla to fill the U.S. Senate seat that's soon to be vacated by Vice President-elect Kamala Harris. Padilla will become the first Latino to represent California in the Senate."
+    publishedDateTime: 2020-12-22T23:56:00Z
+    webUrl: "https://www.cbsnews.com/video/alex-padilla-to-replace-kamala-harris-in-senate-becoming-californias-first-latino-senator/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/22/2c8516bf-9f84-43aa-82d1-bf8f90050289/thumbnail/1200x630/37fb3ed5b7404c4e48ca2f44ec71ba34/122-rb-alexpadillareplaceharris-bnj-614655-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Alex Padilla to replace Kamala Harris in Senate, making history as California's first Latino senator"
+    excerpt: "California Governor Gavin Newsom will name Secretary of State Alex Padilla to replace Vice President-elect Kamala Harris in the U.S. Senate. Padilla will be the first Latino senator to represent California,"
+    publishedDateTime: 2020-12-22T19:27:00Z
+    webUrl: "https://www.cbsnews.com/video/alex-padilla-to-replace-kamala-harris-senate-seat-2020-12-22/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 90
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/22/afe77ef5-acc9-44f9-bf21-f97a46c05a5d/thumbnail/1200x630/32289ee2afdb9d0117cfa788f8a31aa2/cbsn-fusion-alex-padilla-to-replace-kamala-harris-making-history-as-californias-first-latino-senator-thumbnail-614461-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Bay Area students get Kamala Harris action figures"
+    excerpt: "Kentfield resident Lisa Bernard Rosenberg bought 120 of the dolls to inspire students Bayside Martin Luther King Jr. Academy."
+    publishedDateTime: 2020-12-24T10:32:00Z
+    webUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/"
+    ampWebUrl: "https://www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/24/marin-city-students-get-kamala-harris-action-figures/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/MIJ-L-KAMALA-1224-02.jpg?w=1024&h=711"
+        width: 1024
+        height: 711
+        isCached: true
+  - title: "Marin City students get Kamala Harris action figures"
+    excerpt: "Kentfield resident Lisa Bernard Rosenberg bought 120 of the dolls to inspire students Bayside Martin Luther King Jr. Academy."
+    publishedDateTime: 2020-12-24T01:43:00Z
+    webUrl: "https://www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/"
+    ampWebUrl: "https://www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/amp/"
+    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2020/12/23/marin-city-students-get-kamala-harris-action-figures/amp/"
+    type: article
+    provider:
+      name: Marin Independent Journal
+      domain: marinij.com
+    quality: 75
+    images:
+      - url: "https://www.marinij.com/wp-content/uploads/2020/12/MIJ-L-KAMALA-1224-02.jpg?w=1024&h=711"
+        width: 1024
+        height: 711
+        isCached: true
+  - title: "Kamala Harris to receive COVID-19 vaccine on Tuesday"
+    excerpt: "Vice President-elect Sen. Kamala D. Harris is scheduled to receive a first dose of the COVID-19 vaccine on Tuesday in an on-camera event, according to President-elect Joseph R. Biden’s transition team."
+    publishedDateTime: 2020-12-28T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/28/kamala-harris-receive-covid-19-vaccine-tuesday/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/28/kamala-harris-receive-covid-19-vaccine-tuesday/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/28/kamala-harris-receive-covid-19-vaccine-tuesday/"
     type: article
     provider:
       name: Washington Times
       domain: washingtontimes.com
-    quality: 98
+    quality: 75
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/26/Election_2020_RNC_00324.jpg-809fc_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/Biden_35785.jpg-7f72e_c0-237-5674-3546_s1200x700.jpg?edee63d40b7dc7470f1843331bce2e6e435b776e"
         width: 1200
         height: 700
         isCached: true
-  - title: "CompTIA Congratulates President Joe Biden and Vice President Kamala Harris, Supports Administration’s Tech Workforce Goals"
-    excerpt: "CompTIA, the nonprofit association for the information technology (IT) industry, today released this statement by its President and CEO, Todd Thibodeaux, on the inauguration of President Joe Biden and Vice President Kamala Harris."
-    publishedDateTime: 2021-01-22T16:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/joe-biden-technology-business-labor-economy-technology-issues-a4c973a859cc44952470114a77939c71"
+  - title: "Kamala Harris to receive Covid-19 vaccine Tuesday"
+    excerpt: "Vice President-elect Kamala Harris is expected to receive the first dose of a Covid-19 vaccine on Tuesday, according to the Biden transition team."
+    publishedDateTime: 2020-12-29T15:52:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_6edc6e00-d085-5e12-bc2d-3b99f6a0efe1.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_6edc6e00-d085-5e12-bc2d-3b99f6a0efe1.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-to-receive-covid-19-vaccine-tuesday/article_6edc6e00-d085-5e12-bc2d-3b99f6a0efe1.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/a3/3a31e4fb-18fa-52c0-9520-bf9fed01a224/5feb4b79edf9d.image.jpg?resize=1024%2C689"
+        width: 1024
+        height: 689
+        isCached: true
+  - title: "California Governor Gavin Newsom Appoints Secretary of State Alex Padilla to Replace Vice President-elect Kamala Harris in US Senate"
+    excerpt: "Voto Latino celebrates California Secretary of State Alex Padilla becoming the first Latinx person to represent California in the United States Senate after Governor Gavin Newsom announced his appointment to the seat being vacated by Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-12-23T16:11:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/legislature-cabinets-state-governments-north-america-government-appointments-and-nominations-bf67176f653d30cc33f89e1fe08698b6"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 94
+    quality: 74
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
-  - title: "Tina Flournoy, longtime Democratic strategist, named Vice President-elect Kamala Harris chief of staff"
-    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
-    publishedDateTime: 2020-12-03T14:29:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
+  - title: "California Gov. Newsom picks Alex Padilla to fill Kamala Harris's Senate seat"
+    excerpt: "California Gov. Gavin Newsom announced Tuesday that he’s selected Secretary of State Alex Padilla to fill the seat of Sen. Kamala Harris once she’s sworn in as vice president."
+    publishedDateTime: 2020-12-22T18:55:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/dec/22/alex-padilla-picked-gavin-newsom-fill-kamala-harri/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/22/alex-padilla-picked-gavin-newsom-fill-kamala-harri/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/22/alex-padilla-picked-gavin-newsom-fill-kamala-harri/"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 89
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 72
     images:
-      - url: "https://www.chicagotribune.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/20/Senate_California_12130.jpg-ab983_c0-65-3000-1815_s1200x700.jpg?25cb8e4e0f5dfcca581df173f36ce134665f00aa"
         width: 1200
-        height: 675
+        height: 700
         isCached: true
-  - title: "'Tears in our eyes.' Local leaders react as Joe Biden and Kamala Harris take the oath."
-    excerpt: "At least on Wednesday, many Republicans and Democrats in the Cincinnati region ceased bickering and congratulated Biden."
-    publishedDateTime: 2021-01-20T20:36:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2021/01/20/biden-inauguration-heres-how-local-leaders-viewed-inaugural-speech/4218249001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/4218249001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4218249001"
+  - title: "California Secretary of State Alex Padilla will replace Kamala Harris as senator"
+    excerpt: "California Gov. Gavin Newsom selected Secretary of State Alex Padilla on Tuesday as the state’s next U.S. senator, a historic pick that sends a Latino to the Senate for the first time in the state’s history."
+    publishedDateTime: 2020-12-22T22:28:00Z
+    webUrl: "https://www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html"
+    ampWebUrl: "https://www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/12/california-secretary-of-state-alex-padilla-will-replace-kamala-harris-as-senator.html?outputType=amp"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 82
+      name: al.com
+      domain: al.com
+    quality: 70
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/NWKL/165ec70c-805f-4fae-9c56-6d70c4d425e7-biden.png?auto=webp&crop=1019,574,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "What Did Kamala Harris Say On Twitter That’s Causing A Stir?"
-    excerpt: "A fact-check from The Washington Post found most of those arrested during summer protests in Minnesota didn’t have to pay a cash bail."
-    publishedDateTime: 2020-11-30T16:18:00Z
-    webUrl: "https://www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534"
-    ampWebUrl: "https://www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-did-kamala-harris-say-twitter-thats-causing-stir-3091534?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/09/kamala-harris.jpg"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MGO3VJZZVRGVLAX4HPJKOXNB54.jpg"
         width: 1024
-        height: 766
+        height: 697
         isCached: true
-  - title: "San Jose teen artist wows Kamala Harris, wins national acclaim"
-    excerpt: "A San Jose teen artist who recently won raves from Kamala Harris for a portrait he painted of the Vice President-elect, is now earning national acclaim. Tyler Gordon, 14, has been named a Top 5 finalist for Time magazine’s first-ever Kid of the Year honors and will be among the talented youngsters featured in a Nickelodeon television special Friday night."
-    publishedDateTime: 2020-12-04T02:09:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/03/san-jose-teen-artist-wows-kamala-harris-wins-national-acclaim/amp/"
+  - title: "Gavin Newsom names California’s first Latino U.S. senator to replace Kamala Harris"
+    excerpt: "Gavin Newsom has appointed Secretary of State Alex Padilla as Vice President-elect Kamala Harris’ successor in the U.S. Senate, making him the first Latino from California to fill the role in the state’s 170-year history."
+    publishedDateTime: 2020-12-22T17:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article247706740.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article247706740.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article247706740.html"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 69
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/time-koty-tyler-gordon.jpg?w=800&h=532"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "The Easy Way for Joe Biden to Save Lives"
-    excerpt: "There’s an on-the-shelf policy the Biden administration could enact unilaterally that would save millions of American lives, without costing the government a single cent on net. That policy, one pushed for but never implemented by the Trump administration,"
-    publishedDateTime: 2020-12-05T11:11:00Z
-    webUrl: "https://www.theatlantic.com/ideas/archive/2020/12/easy-way-to-quit-smoking/617305/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/617305/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617305/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/jmB42DJzPPFAnmeCrgMjCurSMYI=/570x321/media/img/mt/2020/12/smoking4/original.jpg"
-        width: 570
-        height: 321
-        isCached: true
-  - title: "Who Joe Biden Has Announced for His Cabinet So Far"
-    excerpt: "President-elect Joe Biden has been widely expected to staff his administration with a mix of experienced advisers and credentialed experts from Washington, D.C., as well as the kinds of diverse faces he says ensure his administration reflects the country."
-    publishedDateTime: 2020-12-05T19:53:00Z
-    webUrl: "https://people.com/politics/whos-who-in-joe-bidens-cabinet/"
-    ampWebUrl: "https://people.com/politics/whos-who-in-joe-bidens-cabinet/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/whos-who-in-joe-bidens-cabinet/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 75
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B11025%2C3200%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fjoe-biden-3.jpg"
-        width: 1500
-        height: 785
-        isCached: true
-  - title: "Bookies list Kamala Harris as early favorite for 2024"
-    excerpt: "Elect Kamala Harris is favored by odds makers to win the 2024 presidential election, according to wagering website Odds Shark. Harris currently has +400 odds to win the next race. Harris is trailed by her running mate President-elect Joe Biden (+650) to secure the next term in the Oval Office,"
-    publishedDateTime: 2020-12-08T00:27:00Z
-    webUrl: "https://www.foxbusiness.com/politics/bookies-kamala-harris-early-favorite-2024"
-    ampWebUrl: "https://www.foxbusiness.com/politics/bookies-kamala-harris-early-favorite-2024.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/bookies-kamala-harris-early-favorite-2024.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c6d4136-3be9-4ac5-ba4d-f657c9446bb8/bf001b16-f05c-4ae7-a555-6fecd2967b93/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c1ac55a6-cda3-4c11-b0fa-fe86866d49a8/5bf5cedd-8104-4227-ac0c-af858a7abdae/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Berkeley proposes Kamala Harris Elementary, but will school district agree?"
-    excerpt: "The Berkeley City Council passed a resolution asking the school district to rename an elementary school as Kamala Harris Elementary School."
-    publishedDateTime: 2020-12-08T19:40:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/08/berkeley-proposes-kamala-harris-elementary-but-will-school-district-agree/"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/08/berkeley-proposes-kamala-harris-elementary-but-will-school-district-agree/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/08/berkeley-proposes-kamala-harris-elementary-but-will-school-district-agree/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 73
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-PRESREACT-1108-3-1.jpg?w=1024&h=758"
-        width: 1024
-        height: 758
-        isCached: true
-  - title: "Kamala Harris has so far picked an all-women staff to aid her in the White House"
-    excerpt: "Harris transition team announced Thursday that Vice President-elect Kamala Harris will name Tina Flournoy to be her chief of staff, and add Rohini Kosoglu as domestic policy adviser and Nancy McEldowney as national security adviser."
-    publishedDateTime: 2020-12-03T16:31:00Z
-    webUrl: "https://theweek.com/speedreads/953069/kamala-harris-far-picked-allwomen-staff-aid-white-house"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/953069/kamala-harris-far-picked-allwomen-staff-aid-white-house"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/953069/kamala-harris-far-picked-allwomen-staff-aid-white-house"
+  - title: "California Secretary of State Alex Padilla selected to fill Kamala Harris' Senate seat"
+    excerpt: "California Gov. Gavin Newsom (D) announced Tuesday that he has selected California's Secretary of State Alex Padilla (D) to fill the U.S. Senate seat left open by Vice President-elect Kamala Harris. Padilla will serve out the two remaining years of Harris' term after she's sworn in as vice president in January."
+    publishedDateTime: 2020-12-22T18:48:00Z
+    webUrl: "https://theweek.com/speedreads/956709/california-secretary-state-alex-padilla-selected-fill-kamala-harris-senate-seat"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/956709/california-secretary-state-alex-padilla-selected-fill-kamala-harris-senate-seat"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/956709/california-secretary-state-alex-padilla-selected-fill-kamala-harris-senate-seat"
     type: article
     provider:
       name: THE WEEK
       domain: theweek.com
-    quality: 70
+    quality: 67
     images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229768868.jpg?itok=UkBYZVJy&resize=450x300"
-        width: 450
-        height: 300
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1267424249.jpg?itok=ivgkRYmo"
+        width: 840
+        height: 560
         isCached: true
-  - title: "Vice President-elect Kamala Harris assembles staff as she builds her vice presidential portfolio"
-    excerpt: "The staffers, all of whom are women and two of whom are people of color — highlight the incoming administration’s commitment to diversity."
-    publishedDateTime: 2020-12-03T13:30:00Z
-    webUrl: "https://www.mercurynews.com/2020/12/03/vice-president-elect-kamala-harris-assembles-staff-as-she-builds-her-vice-presidential-portfolio/"
-    ampWebUrl: "https://www.mercurynews.com/2020/12/03/vice-president-elect-kamala-harris-assembles-staff-as-she-builds-her-vice-presidential-portfolio/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/12/03/vice-president-elect-kamala-harris-assembles-staff-as-she-builds-her-vice-presidential-portfolio/amp/"
+  - title: "The choice to replace Kamala Harris has a trade-off: no Black women in the U.S. Senate"
+    excerpt: "Alex Padilla will be California’s first Latino senator, but some say it’s a step back for the hard-won representation of Black women in politics."
+    publishedDateTime: 2020-12-23T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article248037240.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article248037240.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article248037240.html"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 62
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 67
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/sjm-ransition-Staffers_79108927.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/c1ac55a6-cda3-4c11-b0fa-fe86866d49a8/5bf5cedd-8104-4227-ac0c-af858a7abdae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Kamala Harris Announces New Staff Picks, Marking First Time Women Will Hold Top 3 Spots in VP's Office"
-    excerpt: "This will be the first time in history that women will hold the top three spots in the U.S. vice president’s office."
-    publishedDateTime: 2020-12-04T20:30:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/kamala-harris-announces-new-staff-picks-marking-first-time-women-will-hold-top-3-spots-in-vps-office/2762133/?amp"
+  - title: "California's first Latino senator: Alex Padilla picked to fill Kamala Harris' Senate seat"
+    excerpt: "California Gov. Gavin Newsom appoints Secretary of State Alex Padilla to fill the U.S. Senate seat being vacated by Vice President-elect Kamala Harris"
+    publishedDateTime: 2020-12-22T22:10:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/12/22/newsom-taps-alex-padilla-senate-seat-vacancy-left-kamala-harris/4011660001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4011660001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4011660001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/media/2020/09/09/Norwich/ghows-CT-200819975-48378334.jpg?auto=webp&crop=3000,1688,x0,y218&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "In Replacing Kamala Harris in the Senate, Gavin Newsom Is Going to Have to Disappoint Someone"
+    excerpt: "Newsom could avoid the political headache — and leave the choice in the hands of the voters — by declaring he isn’t meant to be a kingmaker."
+    publishedDateTime: 2020-12-21T18:20:00Z
+    webUrl: "https://www.nationalreview.com/corner/in-replacing-kamala-harris-in-the-senate-gavin-newsom-is-going-to-have-to-disappoint-someone/"
+    ampWebUrl: "https://www.nationalreview.com/corner/in-replacing-kamala-harris-in-the-senate-gavin-newsom-is-going-to-have-to-disappoint-someone/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/in-replacing-kamala-harris-in-the-senate-gavin-newsom-is-going-to-have-to-disappoint-someone/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 64
+    images:
+      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/05/20200520_newsom.jpg?resize=300%2C300&ssl=1"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "California Gov. Gavin Newsom Picks Top State Official Alex Padilla to Replace Kamala Harris in Senate"
+    excerpt: "California Secretary of State Alex Padilla will replace Vice President-elect Kamala Karris in the U.S. Senate, Gov. Gavin Newsom announced Tuesday."
+    publishedDateTime: 2020-12-22T19:39:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/california-gov-gavin-newsom-picks-top-state-official-alex-padilla-to-replace-kamala-harris-in-senate/2795680/?amp"
     type: article
     provider:
       name: NBC New York
       domain: nbcnewyork.com
-    quality: 59
+    quality: 60
     images:
-      - url: "https://media.nbcnewyork.com/2020/12/106804517-16068492022020-12-01t185222z_353046037_rc2iek9vyz3q_rtrmadp_0_usa-biden.jpeg?resize=1200%2C675"
+      - url: "https://media.nbcnewyork.com/2020/12/106815183-1608661336860-AP20357652453277.jpg?resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
-  - title: "Tina Flournoy, longtime Democratic strategist, named chief of staff for Vice President-elect Kamala Harris"
-    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
-    publishedDateTime: 2020-12-04T13:20:00Z
-    webUrl: "https://www.orlandosentinel.com/politics/2020-election/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
-    ampWebUrl: "https://www.orlandosentinel.com/politics/2020-election/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/politics/2020-election/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
+  - title: "Kamala Harris and husband donate to Toys for Tots"
+    excerpt: "Vice President-elect Kamala and husband Doug Emhoff visit Washington D.C. fire station number one to drop off toys as the station serves as one of the Toys for Tots drop-off"
+    publishedDateTime: 2020-12-23T23:25:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-and-husband-donate-to-toys-for-tots/video_998a12db-8c55-5126-a0bb-235450bced60.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-and-husband-donate-to-toys-for-tots/video_998a12db-8c55-5126-a0bb-235450bced60.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-and-husband-donate-to-toys-for-tots/video_998a12db-8c55-5126-a0bb-235450bced60.amp.html"
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 57
-    images:
-      - url: "https://www.orlandosentinel.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tina Flournoy, longtime Democratic strategist, named chief of staff for Vice President-elect Kamala Harris"
-    excerpt: "Vice President-elect Kamala Harris has named Tina Flournoy, a veteran Democratic strategist and aide to the Clintons, as her chief of staff, the transition team announced Thursday."
-    publishedDateTime: 2020-12-04T17:37:00Z
-    webUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html"
-    ampWebUrl: "https://www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/news/nationworld/ct-nw-kamala-harris-chief-of-staff-tina-flournoy-20201203-xs3oiyxyqvah5omlw2hwym7l54-story.html?outputType=amp"
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+  - title: "Kamala Harris to Receive Coronavirus Vaccine"
+    excerpt: "Kamala Harris’ vaccination comes a little over a week after President-elect Joe Biden received his first dose live on television."
+    publishedDateTime: 2020-12-29T13:46:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2020-12-29/kamala-harris-to-receive-coronavirus-vaccine"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-12-29/kamala-harris-to-receive-coronavirus-vaccine?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-12-29/kamala-harris-to-receive-coronavirus-vaccine?context=amp"
     type: article
     provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 57
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Kamala Harris gets Moderna COVID-19 vaccine"
+    excerpt: "U.S. Vice President-elect Kamala Harris on Tuesday received her first dose of the Moderna COVID -19 vaccine before live television cameras as part of a growing effort to convince the"
+    publishedDateTime: 2020-12-29T19:59:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-gets-moderna-covid-19-vaccine/video_0fe994e6-9484-5ca0-923e-f2fb8da1d508.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-gets-moderna-covid-19-vaccine/video_0fe994e6-9484-5ca0-923e-f2fb8da1d508.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-gets-moderna-covid-19-vaccine/video_0fe994e6-9484-5ca0-923e-f2fb8da1d508.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+  - title: "Kamala Harris goes to Black community in D.C. for vaccine"
+    excerpt: "Harris said she deliberately chose the city’s only public hospital, United Medical Center, because it serves neighborhoods in the city’s Southeast quadrant that are predominantly Black. WASHINGTON — Vice President-elect Kamala Harris said she “barely felt” the COVID-19 vaccine shot in her left arm on Tuesday after she was inoculated with the first of two Moderna doses at a Washington hospital in the heart of the city’s Black community."
+    publishedDateTime: 2020-12-30T05:26:00Z
+    webUrl: "https://www.pressherald.com/2020/12/29/kamala-harris-goes-to-a-black-community-in-dc-for-her-covid-19-vaccine/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
     images:
-      - url: "https://www.sun-sentinel.com/resizer/Gy-VxNkm8CP_SP3FDnyo9Ht_Rzo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GEYWXUB44ZE5FI2ICZEDFYKCRE.aspx"
-        width: 1200
-        height: 675
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/12/APTOPIX_Virus_Outbreak_Harris_11063.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "LIVE: President-elect Joe Biden, Vice President-elect Kamala Harris introduce Justice Department nominees"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will introduce their nominees to the Department of Justice at 12:30 p.m. CST Thursday, Jan. 7. Watch a livestream of the event below. As a public service,"
-    publishedDateTime: 2021-01-07T19:57:00Z
-    webUrl: "https://www.postbulletin.com/news/nation/6830811-LIVE-President-elect-Joe-Biden-Vice-President-elect-Kamala-Harris-introduce-Justice-Department-nominees"
+  - title: "Kamala Harris to receive shot in bid to boost U.S. confidence in vaccines"
+    excerpt: "American, will become the second high-profile person from an ethnic minority background to receive the vaccine after Surgeon General Jerome Adams on Dec. 18."
+    publishedDateTime: 2020-12-29T16:22:00Z
+    webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6819818-Kamala-Harris-to-receive-shot-in-bid-to-boost-U.S.-confidence-in-vaccines"
     type: article
     provider:
       name: Post-Bulletin
       domain: postbulletin.com
-    quality: 53
+    quality: 54
     images:
-      - url: "https://www.fccnn.com/incoming/6831128-g76idm-U.S.-President-elect-Joe-Biden-delivers-a-speech-after-a-conference-video-call-in-Wilmington/alternates/BASE_LANDSCAPE/U.S.%20President-elect%20Joe%20Biden%20delivers%20a%20speech%20after%20a%20conference%20video%20call%20in%20Wilmington"
+      - url: "https://www.fccnn.com/incoming/6819834-78kn7o-U.S.-President-elect-Joe-Biden-announces-his-nominee-for-secretary-of-education/alternates/BASE_LANDSCAPE/U.S.%20President-elect%20Joe%20Biden%20announces%20his%20nominee%20for%20secretary%20of%20education"
         width: 1140
         height: 712
         isCached: true
-  - title: "This Little-Known Indian Village Has Made Headlines Because of Kamala Harris"
-    excerpt: "As CNN host John King spent days tirelessly facing the magic wall to explain what was happening, miles away in Tamil Nadu, India, a small village was rooting for vice president nominee Kamala Harris—in a very Indian way."
-    publishedDateTime: 2020-12-07T18:37:00Z
-    webUrl: "https://www.fodors.com/world/asia/india/experiences/news/this-little-known-indian-village-has-made-headlines-because-of-kamala-harris"
+  - title: "Alex Padilla becomes California’s first Latino US senator, replacing Kamala Harris"
+    excerpt: "Alex Padilla, a Los Angeles Democrat who once developed software for satellites but later rose through local and state political office to become California secretary of state, was chosen Tuesday by Gov."
+    publishedDateTime: 2020-12-22T18:30:00Z
+    webUrl: "https://www.sfexaminer.com/news/alex-padilla-becomes-californias-first-latino-us-senator-replacing-kamala-harris/"
     type: article
     provider:
-      name: Fodor's
-      domain: fodors.com
-    quality: 52
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 49
     images:
-      - url: "https://www.fodors.com/wp-content/uploads/2020/12/kamala-harris-hero.jpg"
-        width: 1800
-        height: 1200
+      - url: "https://www.sfexaminer.com/wp-content/uploads/2020/12/23720326_web1_201222-SFE-Padilla_1-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Omaha native will be chief spokeswoman for Harris"
-    excerpt: "Omaha native Symone Sanders will serve as chief spokeswoman for Vice President-elect Kamala Harris. President-elect Joe Biden announced Sanders' role on his history-making communications team Sunday."
-    publishedDateTime: 2020-11-30T18:41:00Z
-    webUrl: "https://omaha.com/eedition/sunrise/articles/omaha-native-will-be-chief-spokeswoman-for-harris/article_986c2dae-a9b4-58ab-9204-46d36f1e72f4.html"
+  - title: "California Gov. Gavin Newsom Names State Elections Chief Alex Padilla to Fill Remainder of Kamala Harris' US Senate Term"
+    excerpt: "California Gov. Gavin Newsom names state elections chief Alex Padilla to fill remainder of Kamala Harris' US Senate term."
+    publishedDateTime: 2020-12-23T00:27:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-12-22/gauge-of-us-consumer-confidence-slides-again-in-december-to-886-with-christmas-approaching"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 35
-  - title: "BIPOC Women-Led Coalition Urges Kamala Harris To Promote Plant-Based Nutrition and Take 31-Day Vegan Challenge"
-    excerpt: "A group of female leaders, most of whom are women of color, have penned an open letter to the incoming US administration detailing"
-    publishedDateTime: 2020-12-08T12:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/bipoc-women-led-coalition-urges-kamala-harris-to-promote-plant-based-nutrition-and-take-31-day-vegan-challenge-301187937.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 35
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 25
 
 secured: "0em8LS7/RihE1MooBCf+365i7JQHOmNbFrmcQDuOSiVAfqjhjm8YJsIzrVSr1xzjEQpwLWtZEhzFJcSkN+y5GpdC0HZcqNUa/sHs3Op8dYB3SaOnzWq8NekoQCI7vOC6rf1zijKWcS1jJKtLlNSacDvXJhmDw4WRLVy0SlB56r05Tng0+IqsyFgtdHdsczB3O+jXXZxVhkitOefMADOjtD0aneb1VAo7KJyhs44mK/5w2u2+kuJHG3ukSXikz3rr3YrKfggyE6t3b0MsB/MEppUV/kePNGCgblO5X5cO3d9QF0ygGg0vJxjvh5qQGJtXMeFrWYe63LXl9sxz1jf22ocUGjmeHL45YoxXAe9gujPySkbi93atPWuffaQT85H0BnSQ1jowJO3GuX5b3F3roZL3Dguj+yywINiCQgdyRqXbQBFV6TPJ/tPXxNu7+CY02wDUKhl1kX7+aKetD04NEb32EKb3Mv+rAyhhhn20v2RoiHIVOwy1WUk81oZ8a4mNxT2Z8Xh8oLu/jv1uPGvi8w==;/i/wMVGSKokwLxzR2hZNZQ=="
 ---
