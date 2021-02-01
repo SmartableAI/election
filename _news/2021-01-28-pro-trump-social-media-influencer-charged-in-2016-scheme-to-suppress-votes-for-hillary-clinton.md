@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Congress set to override Trump veto for first time in presidency"
+    excerpt: "SMITH: OK, Steve Harrigan live from Atlanta for us, thank you. President Trump and President Joe Biden both expected to make appearances in Georgia on the eve of the election. To Peter Doocy now in Augusta, Georgia, for us on that -- Peter. something ..."
+    publishedDateTime: 2021-02-01T18:42:00Z
+    webUrl: "https://www.foxnews.com/transcript/congress-set-to-override-trump-veto-for-first-time-in-presidency"
+    ampWebUrl: "https://www.foxnews.com/transcript/congress-set-to-override-trump-veto-for-first-time-in-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/congress-set-to-override-trump-veto-for-first-time-in-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d1019a4-bc12-4b87-8129-c1f6c4743b34/e45b0f69-5942-4aed-b168-3d594dc0697f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
     excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
     publishedDateTime: 2021-01-23T19:39:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://images.wsj.net/im-289628/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Washington Post critic declares Trump should 'never' get presidential library, urges Congress to block efforts"
-    excerpt: "A Washington Post critic is calling for legislation preventing former President Donald Trump from having his own presidential library."
-    publishedDateTime: 2021-01-30T03:05:00Z
-    webUrl: "https://www.foxnews.com/media/washington-post-trump-presidential-library"
-    ampWebUrl: "https://www.foxnews.com/media/washington-post-trump-presidential-library.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-trump-presidential-library.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8602e5d-9e71-49fc-9804-aadaf01d4fca/3c23923f-67f8-4d1a-a5a4-fbcaa78831f8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "ZOuUNJzqhsp2uiSYJxJmGg6ppALPY3624A68ORAkpDi4FV3Ehj5Uv4hSM9NNcCt/F70/lS+//XCK7hAQKlpIKKKe/y266fO8Q7/7A/qD0X/oeNL3VgHgUWWuwhGJSQcgeW7cX0gk4a6SAXDoGdwin5qQbcPvuj3fb8x2YWym2XxTOLff+O0wqO3asrw87ENRhi4cKgsa3rg3MVrH5n9ABEBgITrKuApfcj7Nu1VjN5x189UP2mi51BcH7h5L5ND6T1AACJrNu6WzWGUutl/YcU/2W8dW3H25DzFf244ig6I9pPFgH07+lPs8tsApd0Ow98JUMuUcKYzEEK20eRZrAjnXk4JVvXw2p4bAJmf6pxI=;xr5x9f83r9FPAlSCZm4B1Q=="

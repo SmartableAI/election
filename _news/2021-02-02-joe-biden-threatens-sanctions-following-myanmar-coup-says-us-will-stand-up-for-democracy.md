@@ -1,0 +1,35 @@
+---
+category: news
+title: "Joe Biden Threatens Sanctions Following Myanmar Coup, Says U.S. Will 'Stand Up For Democracy'"
+excerpt: "\"In a democracy, force should never seek to overrule the will of the people or attempt to erase the outcome of a credible election,\" the president said in his first statement on the issue."
+publishedDateTime: 2021-02-01T18:17:00Z
+originalUrl: "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870"
+webUrl: "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870"
+ampWebUrl: "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870?amp=1"
+type: article
+quality: 114
+heat: 114
+published: true
+
+provider:
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://d.newsweek.com/en/full/1721873/joe-biden-statement-myanmar-coup.jpg"
+    width: 2500
+    height: 1667
+    isCached: true
+
+secured: "yhL40n/OsdQoYymyvNn3pBjiW9ePeliu46ZfQQY9ycjhR77UIJ1Fr6q2avq6rWiLmB60SyJHJNSTmo1wd07h9mW3gIPavHdVvO/BGz/d8FHl/UkRjcniOmw6lS5VMj14JNQ+Irqxoa8jJWHa/vWSR7amncz3iqK2ZCeFAKFoU77yHijN3V6MW0bCKwBljIfqJTSKXyusZcrloVPT4HQF3b6bAIn5lerKTIEdLyfNF3uHyayJrKhGL7W38uLeqAGSDCD8/rZbgEm4pJyP96Fms4guUcI+Ch917CHCWU/ACadl4TomSpZmCTb2xUwqdQ2h2MJkcFeJUvn93UXTDWlBKh6eGXtMnosIlBGdwF+f88k=;XP1yxwP0B5yPXvwfZJB83g=="
+---
+

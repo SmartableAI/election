@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 315
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Virginia Republicans' search for a standard-bearer is a key test of post-Trump GOP in upcoming governor's race"
+    excerpt: "As Republicans search for a path forward following Donald Trump's defeat and the party's loss of power in Washington, many are looking across the Potomac River to Virginia, where voters will select a new governor this November.\n    \n"
+    publishedDateTime: 2021-02-01T18:21:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4cgl-atuSG8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201100402-02-amanda-chase-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pennsylvania GOP pledges full allegiance to Trump"
     excerpt: "Once a producer of centrist Republicans like Arlen Specter and Tom Ridge, the state GOP now bears the MAGA stamp."
     publishedDateTime: 2021-01-26T23:49:00Z
@@ -110,6 +126,22 @@ related:
       - url: "https://static.politico.com/2a/75/8fde41744d21b97d1a1c918237f4/ap21020485913788-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Virginia Republicans' search for a standard-bearer is a key test of post-Trump GOP in upcoming governor's race"
+    excerpt: "As Republicans search for a path forward following Donald Trump's defeat and the party's loss of power in Washington, many are looking across the Potomac River to Virginia, where voters will select a new governor this November."
+    publishedDateTime: 2021-02-01T18:21:00Z
+    webUrl: "https://www.cnn.com/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201100402-02-amanda-chase-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "uU8lp4qGV3XlH7Kyq5vT3VR0eyZDr9CgBwHtw/puJUH9YT4ljolClCsccRZ+JkBbc6WFhwq3bDE0suj+XXw7admdQo+q70TJYkq6JOuypZUZmpMdTZlohDEb87URzRBCV2d1r5wAu1cqXQgeVyu42MtJ4r5SiYrs5W+wPhUw8Cq1rS0nW2ChiQ4vXUoP2Ot8Feoe20butXj4SJIJAENN5D3H7v3RlASeNhdBRn1zkMeTDKFW7bjLrmfsPtSWewPJ5PKBXkW8M8P9g0UWbwvZw2BRGK03syWukTeBok6UryH3giXaCw9H4w/SwEcIWnkTMsI+J4kQ2P305dEeJzZGg0+0PBTdAHD1RcWa70uuKCA=;dBU6BCEovSVn2NtJR8bSwQ=="

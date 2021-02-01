@@ -745,22 +745,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden to meet with GOP lawmakers to discuss virus relief"
-    excerpt: "President Joe Biden is set to meet Monday afternoon with a group of 10 Republican senators who have proposed spending about one-third of what he is seeking in coronavirus aid"
-    publishedDateTime: 2021-02-01T05:11:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_75e52f490f3a44eb9ec4cecff9b25a5b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "In early going, Biden floods the zone with decrees"
     excerpt: "President Joe Biden is flooding the zone with them, achieving head-snapping changes in national policy that he would have no hope of getting from Congress quickly, if at all. Easy come, though, can also mean easy go."
     publishedDateTime: 2021-02-01T10:14:00Z
@@ -774,6 +758,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_f92c7ed8def644469abc2170d8b1e742_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden to meet Republicans proposing $618 billion virus aid"
+    excerpt: "President Joe Biden is set to meet Monday with a group of 10 Republican senators who've proposed $618 billion in coronavirus aid, about a third of what he's seeking"
+    publishedDateTime: 2021-02-01T16:12:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-meet-gop-lawmakers-discuss-virus-relief-75604907"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-meet-gop-lawmakers-discuss-virus-relief-75604907"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-meet-gop-lawmakers-discuss-virus-relief-75604907"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_321a8d9280fb42d7bc5518fdd77a61a5_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -985,6 +985,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Biden to meet with GOP lawmakers to discuss virus relief"
+    excerpt: "President Joe Biden is set to meet Monday afternoon with a group of 10 Republican senators who have proposed spending about one-third of the $1.9 trillion he is seeking in coronavirus aid, though congressional Democrats are poised to move ahead without Republican support."
+    publishedDateTime: 2021-02-01T13:43:00Z
+    webUrl: "https://www.businessinsider.com/biden-to-meet-with-gop-lawmakers-to-discuss-virus-relief-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/biden-to-meet-with-gop-lawmakers-to-discuss-virus-relief-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-meet-with-gop-lawmakers-to-discuss-virus-relief-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden administration prepares executive action on immigration while Trump-era polices remain in place"
     excerpt: "President Joe Biden prepares this week to sign new executive orders related to immigration and announce a task force to address family separations at the border. CBS News immigration reporter Camilo Montoya-Galvez joined CBSN to explain how this will affect Trump-era policies that still remain in place."
     publishedDateTime: 2021-02-01T16:25:00Z

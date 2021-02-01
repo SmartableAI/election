@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "David Schoen: What to know about Trump impeachment defense attorney"
+    excerpt: "High-profile civil rights attorney David Schoen, who before Jeffrey Epstein's death was in discussions to join his legal team, will be one of the two top members of former President Donald Trump's legal team for his impeachment trial, which is set to start in earnest in the Senate next week."
+    publishedDateTime: 2021-02-01T17:49:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6nzLmM_Dudg/david-schoen-what-to-know-about-trump-impeachment-defense-attorney"
+    ampWebUrl: "https://www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
     excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."
     publishedDateTime: 2021-01-27T18:48:34Z
@@ -80,6 +96,6 @@ related:
         height: 720
         isCached: true
 
-secured: "c2OvgT+Ag/wm6Q5lqaWaW68mtccHoxYcRMyXIAySxFkbdrp70S1dKmvyN+sYojQE/wtWBm62vYuSR0ZrGAj89h0HXTzrv6y/43lcDD8y4KMTMaalvtQtmoteAr1EgUIVRWZrhPuozWN8CI/nKCxjiWtjcUO/jxtHjMIHS/0GY1CDcvkBh/0OysmU4sfkCpoNVDHSZEspeI+EdMLgy6gpshuak2QqA6oIMfbUAxg4lgLgsOk5ddFRVxAOovr9fx9QFaxTYbURHU2+R6/othq6SsPaN4YFbyRgUS30K9D46itxuyZfRQFtF9e2rau8yb6lgR8sm+zCoR5HnFQaG8EX46b/OxCowlbM/ZAaYz4PcOQ=;gHJO+g6VTKK4yxod3zlDww=="
+secured: "GdaT+87PYnaWfBAS1pHM2f+C1+rZUdxrRfU26Y4km5nHvMCB6HqqFBlxSIHI8GioyiJwdPq/5HZav3upmqMDEoaI9cKQHhEm0GdvhmgotFpDsFQJFloDL9i2eALUI2hK7Y7M3RdXFjNSeO41yPEj/Q/LoA69tIwMM++h+WLpXhEXerlo3EG8ou/CZNbdbllDjz+CZBcdsvLyMq5ycM2SWIsNt7QQE0Dr50slNp/+p3axrHiLyk5b48qTIy+tcWhnZHG22lwhdhIpBFDyDlhzCn2/YcZ30YMJibqY2DN3XDTVqLzGEuvmrIGXDhQ+LL59C1s38BkfmYOyYzQc4/sbFY/czJ4As2MG5d81WtZ34a8=;S8F9fb/02+xAVsjaAramgQ=="
 ---
 

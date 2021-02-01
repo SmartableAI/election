@@ -175,6 +175,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden threatens sanctions on Myanmar after military coup"
+    excerpt: "President Joe Biden is threatening new sanctions on Myanmar after a coup that saw the military arrest the civilian leaders of its government"
+    publishedDateTime: 2021-02-01T18:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-threatens-sanctions-myanmar-military-coup-75615403"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-threatens-sanctions-myanmar-military-coup-75615403"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-threatens-sanctions-myanmar-military-coup-75615403"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_cf2c1904f6db47af8d2db944ab2a2cbe_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden seeks five-year extension of New START arms treaty with Russia: source"
     excerpt: "U.S. President Joe Biden will seek a five-year extension to the New START arms control treaty with Russia, a source familiar with the matter said on Thursday."
     publishedDateTime: 2021-01-22T00:01:00Z

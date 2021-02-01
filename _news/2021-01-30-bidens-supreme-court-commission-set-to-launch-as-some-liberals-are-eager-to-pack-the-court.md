@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/supreme-court-biden-comm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/supreme-court-biden-commission/index.html"
 type: article
 quality: 164
-heat: 244
+heat: 264
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/e0/39/f3d613204efcac2af43956f88b0a/ap21019638165529-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "An inconvenient insurrection tests Biden on China, democracy support"
+    excerpt: "| Lauren DeCicca/ Just days into his tenure, President Joe Biden already is grappling with a foreign policy crisis — a military coup in Myanmar — that could put his administration at odds with China,"
+    publishedDateTime: 2021-02-01T18:53:00Z
+    webUrl: "https://www.politico.com/news/2021/02/01/myanmar-coup-biden-china-democracy-464444"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/01/myanmar-coup-biden-china-democracy-464444"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/01/myanmar-coup-biden-china-democracy-464444"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/df/45/bc1dfde84d87ac4f1faf5cb8a5b1/gettyimages-1299740192-1.jpg"
         width: 1160
         height: 773
         isCached: true

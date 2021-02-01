@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "GOP senators to meet Biden Monday on coronavirus relief as Dems ready to pass bill without Republican support"
-    excerpt: "A statement from White House press secretary Jen Psaki -- especially when contrasted with the letter from the Senate Republicans -- makes clear there is still a large gulf between Biden and even this group of moderates. "
-    publishedDateTime: 2021-02-01T12:18:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEB1zKivHLo/gop-senators-to-meet-biden-monday-on-coronavirus-relief-as-dems-ready-to-pass-bill-without-republican-support"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-to-meet-biden-monday-on-coronavirus-relief-as-dems-ready-to-pass-bill-without-republican-support.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-to-meet-biden-monday-on-coronavirus-relief-as-dems-ready-to-pass-bill-without-republican-support.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "Tx16wzcVltiyjIHLqGaPw2LJx0MwoaWr11rago6+N8+en02mgIvuoFp8SSvIZ9llcn8Lk6OrpGv29KArZDt/FlsBUUUF1prtb4eesXSHfMDWGqoZt10Sd85UQlShRJjKcUV7A+sQoKQUdt5QcRXauiKZWG0QTkkZ7TEqUc5gb5DbaVUpDVCC+Gbap61s2NWPyYZFjDrbhAFeRkkShN6sh7zxKWcPzXKy33h+egSl0Sk09iQ/K/C7RvL2YQu/j13hB+steid027XaiVOhyM8UknHFbFB0PZoOu1oBp7Di8xGNwvIYsQvsrK6Q8t9aa/bcp8JHgB6XjG6fKvTsfjd81BGDvqgUO+GXoAWbjW46hLw=;lS/MUzf+K9aAqtGhGkRpiQ=="
 ---

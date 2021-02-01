@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-urged-by-house-dems-to-extend
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden's ObamaCare playbook: White House claims 'bipartisan' action can still bypass congressional Republicans"
+    excerpt: "The signature early-presidency achievement of former President Obama, the Affordable Care Act (ACA), was passed with a parliamentary tool called budget reconciliation which allows lawmakers to circumvent a Senate filibuster. That may end up being the case for President Biden too if Democrats continue"
+    publishedDateTime: 2021-02-01T18:51:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PxHWf0mpghs/bidens-obamacare-playbook-white-house-claims-bipartisan-action-can-still-bypass-congressional-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-obamacare-playbook-white-house-claims-bipartisan-action-can-still-bypass-congressional-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-obamacare-playbook-white-house-claims-bipartisan-action-can-still-bypass-congressional-republicans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "CVk77sYi1cDSN8nl00AGlayCgGKdJGqLyO8bIDHK3ofZ1ynfT8ystGnvSRkN5OUe3xfSjDrgDnOkXCewx/TKFzTxX97BDQnsBxrfSf8cQMFvhv1QoxoFE70PKeXp+A5S9eLgNnlgDTTjWy3EERVvfi6wRiL5fQan2s6HRgECOt5NZJOXttjr4UEW1n4Z8AQ6gPT7KFHa2pDCEzibAkPW/H1tD9QkjRrPVkoLA7hYUnr7pChF3/EUsgDKVR16iS4M89lrZv0EN7imrYZwvgsJAlpUzr7/A1+qQOAb+xWSsI+wY+Rw1FFnvUy07enfJCTqt+msg6TwPt5SV3eFTOwBLT0ZefCstz1lYdG/8xR+4Pw=;Sqy518oqbvbjUFyOLvrInQ=="

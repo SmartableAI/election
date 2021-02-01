@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden to meet with GOP lawmakers to discuss virus relief"
-excerpt: "President Joe Biden is set to meet Monday afternoon with a group of 10 Republican senators who have proposed spending about one-third of what he is seeking in coronavirus aid"
-publishedDateTime: 2021-02-01T05:11:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
-webUrl: "https://abcnews.go.com/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
+excerpt: "President Joe Biden is set to meet Monday afternoon with a group of 10 Republican senators who have proposed spending about one-third of the $1.9 trillion he is seeking in coronavirus aid, though congressional Democrats are poised to move ahead without Republican support."
+publishedDateTime: 2021-02-01T13:43:00Z
+originalUrl: "https://www.businessinsider.com/biden-to-meet-with-gop-lawmakers-to-discuss-virus-relief-2021-2"
+webUrl: "https://www.businessinsider.com/biden-to-meet-with-gop-lawmakers-to-discuss-virus-relief-2021-2"
+ampWebUrl: "https://www.businessinsider.com/biden-to-meet-with-gop-lawmakers-to-discuss-virus-relief-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-meet-with-gop-lawmakers-to-discuss-virus-relief-2021-2?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_75e52f490f3a44eb9ec4cecff9b25a5b_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden pauses Trump policies as Blinken takes diplomatic helm"
@@ -767,6 +761,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to meet Republicans proposing $618 billion virus aid"
+    excerpt: "President Joe Biden is set to meet Monday with a group of 10 Republican senators who've proposed $618 billion in coronavirus aid, about a third of what he's seeking"
+    publishedDateTime: 2021-02-01T16:12:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-meet-gop-lawmakers-discuss-virus-relief-75604907"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-meet-gop-lawmakers-discuss-virus-relief-75604907"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-meet-gop-lawmakers-discuss-virus-relief-75604907"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_321a8d9280fb42d7bc5518fdd77a61a5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Texas attorney general files lawsuit to block Biden's deportation freeze"
     excerpt: "The Texas attorney general filed a lawsuit on Friday that seeks to block U.S. President Joe Biden's move to pause certain deportations for 100 days, a controversial opening-move by the Democratic president that has provoked blowback from some Republicans."
     publishedDateTime: 2021-01-22T21:40:00Z
@@ -1191,6 +1201,6 @@ related:
         height: 649
         isCached: true
 
-secured: "YBXj7BzlL2lDgFLhOVt+c9C4ZcDLxHkjIR+H9tMMaI9KPHoUU74fassJoGbBGvcz/z7Pro2uyNuJqnOd+Nbq6AmqZhn4cCm2g3+w+m+5O3zytHfkxj20jIG6Itk1tF4K3ZEOrrwajBDHI1YWSx8o+di+JCSOKIQPGtQyRgTUIUKp/CgV4OcBeCosLyM5MXZfrqxHeiwymn8vtdz/RVBftL5iwpZdGzmP7cZBoDigdbWnlGypLmfgyv0sSRw9J9P2dSJ/cl+BeMRusgC3YGVVONEGWEWmBCAy7YjJe+wXPmd80WvTogwKOgl6LWALWtPd5lvGa/p06YEplEShoNvLYLKYMJjuqFhDrvLhGZpKU+o=;8M+x6k+55BRMlPkgCrUDKw=="
+secured: "Zt15fwW8Mf/zeb1m/k3w7ETautltt14pdtbEafCi8fHBWNBZlntbYdaKfAkh/zVR+ta2asmGAJ0//UG/rT3iy54KSPD6MeQhAVcQln+MDbIRNxeDOfAnC6sSzm0LNcc9IHNzGxGqkeYwvqNQOeSss9YF+s+e1sn1OkU15Hlaf5sRKTjOVP2rnpwNfODCrzF7HM4WOnetgpu4jAY52Nvxo1jpqp+kbE1sqEKzedjf+YUavYMKQcqM9vGKQRMu7EnuX/Qi+ahrqbq+wYzc/juwxFmFcV0t78/YnRR8mFldA1GZIIjJENnKGAx+0u/Euoy7oVff6TXATkkIPtJCQeBlx64oVN0ZVSk+OxL5twqZj/g=;jsY61UwVWmBq7hRaVT+ezA=="
 ---
 

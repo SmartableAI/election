@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Virginia Republicans' search for a standard-bearer is a key test of post-Trump GOP in upcoming governor's race"
+    excerpt: "As Republicans search for a path forward following Donald Trump's defeat and the party's loss of power in Washington, many are looking across the Potomac River to Virginia, where voters will select a new governor this November.\n    \n"
+    publishedDateTime: 2021-02-01T18:21:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4cgl-atuSG8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201100402-02-amanda-chase-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pennsylvania GOP pledges full allegiance to Trump"
     excerpt: "Once a producer of centrist Republicans like Arlen Specter and Tom Ridge, the state GOP now bears the MAGA stamp."
     publishedDateTime: 2021-01-26T23:49:00Z
@@ -111,6 +127,22 @@ related:
       - url: "https://static.politico.com/2a/75/8fde41744d21b97d1a1c918237f4/ap21020485913788-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Virginia Republicans' search for a standard-bearer is a key test of post-Trump GOP in upcoming governor's race"
+    excerpt: "As Republicans search for a path forward following Donald Trump's defeat and the party's loss of power in Washington, many are looking across the Potomac River to Virginia, where voters will select a new governor this November."
+    publishedDateTime: 2021-02-01T18:21:00Z
+    webUrl: "https://www.cnn.com/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/virginia-gop-governors-race-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201100402-02-amanda-chase-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "xRaH7n+KSpynHuZEKtm3vtA4+5YX5fK6XTadL8vDEX3xMby4crag7QLGBpQbw9y4tiLrVJa2xndctTw95dMAIr899WXjoSKK/TFurZxvVEe4IUjdyBxN+PWwoXAhrGj5LWqDr04wfN0QjSDny6QH29ypTYn3j53K2Wa6GwH5SaGKexakzVIB9ABT2ZKMlVC/fpvluK45DzUlnOIyrcKudQX6kFr21YjTe+tZm4seeEpPbFaMN+Wmis/AsxbKe5LkB6SJObH54mUEGENjFNDGJ8SgME+uE5EJkhnRRvE0/gTnF6OXRPrzzJWg4VA9KgxXM/3atzRU8eKlFvxs5mJTpqez/q681XweytOEA8Dv0o4riofmjDGTew1336xgD4gDlo6Pt3hyK0NNWe4H23LAK+bfUXdPkktN4Ciau3EMVHLlvHNe+D05M/H4zaOQukb7TAYEFLGGe7glTy0IhGG0CfcOZtUOqvHvoKQ6CxEhj6zTg8vaaACSorXE/ZyM5CNe9CWe++5NKeSkl/SzFpqz/g==;a71zMPL3DlIOOTvxIRcTPw=="
