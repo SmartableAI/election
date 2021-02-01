@@ -31,69 +31,117 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration faces mounting pressure to address SolarWinds breach "
-    excerpt: "Despite announcing a thorough intelligence review of Russian misconduct, President Joe Biden's administration faces mounting pressure to respond to one of the worst data breaches ever to hit the US government.\n    \n"
-    publishedDateTime: 2021-01-23T14:01:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3u4ki7B5hJw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html"
+  - title: "Biden hosts GOP senators as part of Covid-19 stimulus outreach"
+    excerpt: "White House spokeswoman Jen Psaki defended the size of the administration's $1.9 trillion Covid-19 relief proposal, calling it \"incredibly urgent\" ahead of a meeting with Republican senators on Monday.\n    \n"
+    publishedDateTime: 2021-02-01T22:41:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DAE4F-B04sU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122143235-01-biden-inauguration-speech-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration takes cautious approach as it touts using Defense Production Act"
-    excerpt: "The Biden administration has repeatedly touted its plans to aggressively use the Defense Production Act as it combats the coronavirus pandemic, but behind the scenes, a slower, more painstaking effort is underway.\n    \n"
-    publishedDateTime: 2021-01-27T23:34:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B9CwTfJol-w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/biden-administration-defense-production-act/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/biden-administration-defense-production-act/index.html"
+  - title: "Here's what budget reconciliation is (and why it matters for Biden's stimulus)"
+    excerpt: "As President Joe Biden pursues a bipartisan Covid-19 relief deal, Senate Democrats are laying the groundwork for passing relief without any Republican votes using a procedural shortcut known as budget reconciliation.\n    \n"
+    publishedDateTime: 2021-02-01T21:09:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oKF7pLfx7XA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/reconciliation-biden-stimulus-congress-democrats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/reconciliation-biden-stimulus-congress-democrats/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114172307-moderna-covid-vaccine-0112-massachusetts-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118093536-us-capitol-0117-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Proximity to power: What the West Wing office layout says about the Biden administration"
-    excerpt: "It's an adage in any high-pressure office: proximity is power. Nowhere is that more true than the West Wing.\n    \n"
-    publishedDateTime: 2021-01-26T01:35:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cbK0sSAPZo8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/west-wing-offices-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/west-wing-offices-biden/index.html"
+  - title: "Covid telework cuts dozens of Biden national security staff off from classified materials"
+    excerpt: "Since President Joe Biden took office last week, many White House national security staffers have been relegated to working from home -- cutting dozens of them off from vital classified materials needed to do their jobs and raising security concerns as most work from unsecure laptops and cell phones"
+    publishedDateTime: 2021-01-28T15:17:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8-pM7c_S7i0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/national-security-council-remote-work-covid-security-leaks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/national-security-council-remote-work-covid-security-leaks/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125145716-20210125-biden-whitehouse-staff-access-gfx-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121115422-white-house-0119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'It's frustrating': Thousands of migrants sit in Mexico desperate for answers from the Biden administration"
-    excerpt: "Within the span of a year and a half, a Cuban couple living on the US-Mexico border were repeatedly threatened, attacked and lost a baby after being assaulted, as they waited for their next immigration court date in the United States under a Trump-era policy.\n    \n"
-    publishedDateTime: 2021-01-28T21:09:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3N_41SYeONc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/immigration-biden-mexico-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/immigration-biden-mexico-border/index.html"
+  - title: "Biden's Supreme Court commission set to launch as some liberals are eager to pack the court "
+    excerpt: "President Joe Biden will soon reveal the membership and agenda of a commission that would take the first modern-day look at reforming the Supreme Court, according to officials familiar with the commission.\n    \n"
+    publishedDateTime: 2021-01-30T17:03:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9Eg_oiXhM4o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/supreme-court-biden-commission/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/supreme-court-biden-commission/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 157
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127171643-01-matamoros-mexico-asylum-seekers-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129144107-05-scotus-exterior-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "10 GOP senators offer counterproposal for Covid-19 relief plan and request meeting with Biden"
+    excerpt: "A group of 10 Republican senators on Sunday called on President Joe Biden to throw his support behind their own Covid-19 relief package framework, asking the President to work with them on drafting the legislation.\n    \n"
+    publishedDateTime: 2021-01-31T16:39:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JyX-RViif0c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/covid-relief-republican-senators-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/covid-relief-republican-senators-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131111649-restricted-split-covid-relief-republican-senators-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'Betrayed': Republicans urge Biden to change course on stimulus"
+    excerpt: "When a bipartisan Senate coalition helped clinch a coronavirus relief bill last year after months of gridlock, it was supposed to be a model for governing in the Biden era. But now Democrats’ surprise takeover of the Senate threatens to leave the group behind."
+    publishedDateTime: 2021-01-29T00:16:00Z
+    webUrl: "https://www.politico.com/news/2021/01/28/republicans-biden-stimulus-463597"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/28/republicans-biden-stimulus-463597"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/28/republicans-biden-stimulus-463597"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/e0/39/f3d613204efcac2af43956f88b0a/ap21019638165529-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Covid live updates: Biden raises Covid vaccine goal, UK passes 100,000 deaths"
+    excerpt: "President Biden increased his Covid vaccine goal to 1.5 million shots administered a day, deemed more likely due to states ramping up vaccine distribution."
+    publishedDateTime: 2021-01-26T20:20:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2021-01-26-covid-live-updates-vaccine-news-n1255630"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1255630"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1255630"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_03/3443283/210120-covid-live-blog-social-only_82ae6975c21296c679fd88016020de7f.jpg"
+        width: 2500
+        height: 1250
         isCached: true
 
 secured: "+wrUbcqEyvQUUAv7vLgbFFzVzuX5tJYLginW8oPj+cFxj9mv/S1diu6d8qw4b6N4xmrdDKHA62t8Pb1fMlYHnKa+1K5KytbF/qrrrKWTyUfXf9stf5k7oOJWr/Iyc1o5qdb2lsrzkOmPClRL/pcrOQD7ebS2KeUpDG7ZoCoQXbcafDc+kV5vBOBljU/JJAQsf+RHINPaJf+xkXKWTDWG5fPdRDZmad0CtldLf/F6KFUHlh9EiGaGWBHFazTpBTMI1xC8GBOKMZW7DEIdA6f7KIPlZeyEV9MZ2F6uQZM7tcB7iLRMMndKhv0x+kAV+VYCD/jv2VSqupvXMDNVoTggbEZLL4HmqTQ4ref78TLWCUM=;1WREO+uoExznEP4rSVSlwg=="

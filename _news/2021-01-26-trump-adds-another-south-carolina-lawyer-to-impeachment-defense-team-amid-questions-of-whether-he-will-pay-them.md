@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Democrats to accuse Trump of intentionally inciting rioters with months-long campaign to subvert voters"
+    excerpt: "House impeachment managers are preparing a case for next week's Senate impeachment trial to argue former President Donald Trump acted intentionally in a months-long efforts to subvert the will of the voters that incited the US Capitol riot, as well as why it's constitutional for convicting Trump after"
+    publishedDateTime: 2021-02-01T22:12:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HAMr6taNIHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/impeachment-house-trump-riots/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/impeachment-house-trump-riots/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119165051-honig-pardon-op-ed-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Watchdog to Examine Whether Justice Dept. Helped Trump Effort to Overturn Election"
     excerpt: "The inquiry was announced after revelations about a plot between Donald Trump and a top former department official to promote false claims of voter fraud by replacing the acting attorney general."
     publishedDateTime: 2021-01-26T00:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127192327-biden-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden asks Supreme Court to delay oral arguments on border wall and asylum rule"
+    excerpt: "President Joe Biden's Justice Department asked the Supreme Court on Monday to postpone oral arguments in significant cases regarding former President Donald Trump's border wall and a controversial asylum rule.\n    \n"
+    publishedDateTime: 2021-02-01T22:00:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qIwAhm9Yi84/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/supreme-court-border-wall-asylum/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/supreme-court-border-wall-asylum/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129144107-05-scotus-exterior-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

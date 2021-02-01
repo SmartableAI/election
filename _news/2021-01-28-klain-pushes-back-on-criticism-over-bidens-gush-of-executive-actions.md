@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden asks Supreme Court to delay oral arguments on border wall and asylum rule"
+    excerpt: "President Joe Biden's Justice Department asked the Supreme Court on Monday to postpone oral arguments in significant cases regarding former President Donald Trump's border wall and a controversial asylum rule.\n    \n"
+    publishedDateTime: 2021-02-01T22:00:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qIwAhm9Yi84/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/supreme-court-border-wall-asylum/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/supreme-court-border-wall-asylum/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129144107-05-scotus-exterior-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "With new urgency, Biden makes his case to the American people for Covid-19 relief"
     excerpt: "President Joe Biden came to Washington with big dreams of bipartisanship, but the practicalities are now setting in.\n    \n"
     publishedDateTime: 2021-01-30T14:35:34Z

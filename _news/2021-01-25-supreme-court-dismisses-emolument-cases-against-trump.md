@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html"
 type: article
 quality: 175
-heat: 795
+heat: 815
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210123004326-04-donald-trump-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House Democrats to accuse Trump of intentionally inciting rioters with months-long campaign to subvert voters"
+    excerpt: "House impeachment managers are preparing a case for next week's Senate impeachment trial to argue former President Donald Trump acted intentionally in a months-long efforts to subvert the will of the voters that incited the US Capitol riot, as well as why it's constitutional for convicting Trump after"
+    publishedDateTime: 2021-02-01T22:12:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HAMr6taNIHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/impeachment-house-trump-riots/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/impeachment-house-trump-riots/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119165051-honig-pardon-op-ed-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

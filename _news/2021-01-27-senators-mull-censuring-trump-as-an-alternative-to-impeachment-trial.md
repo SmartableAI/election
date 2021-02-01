@@ -207,6 +207,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Trump just announced his new impeachment trial legal defense team"
+    excerpt: "Former President Donald Trump on Sunday announced a new legal defense team after he parted ways with five of his impeachment lawyers just over a week before his Senate trial is set to begin, Fox News has confirmed."
+    publishedDateTime: 2021-02-01T22:37:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1280db39-0cc4-4fce-8c70-ebbdd510a556/5b88d5ef-ffb2-4dd2-a4ca-441f12e0a412/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump and McCarthy set up face-to-face meeting as Dems weigh impeachment trial options."
     excerpt: "Former President Donald trump is expected to meet with House Minority Leader Kevin McCarthy in Florida Thursday, Fox News has learned."
     publishedDateTime: 2021-01-27T21:21:00Z

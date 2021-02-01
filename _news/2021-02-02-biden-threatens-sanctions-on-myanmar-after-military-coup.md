@@ -2,21 +2,21 @@
 category: news
 title: "Biden threatens sanctions on Myanmar after military coup"
 excerpt: "President Joe Biden is threatening new sanctions on Myanmar after a coup that saw the military arrest the civilian leaders of its government"
-publishedDateTime: 2021-02-01T18:25:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-threatens-sanctions-myanmar-military-coup-75615403"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-threatens-sanctions-myanmar-military-coup-75615403"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-threatens-sanctions-myanmar-military-coup-75615403"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-threatens-sanctions-myanmar-military-coup-75615403"
+publishedDateTime: 2021-02-01T22:59:00Z
+originalUrl: "https://www.washingtonpost.com/politics/courts_law/biden-threatens-sanctions-on-myanmar-after-military-coup/2021/02/01/30441130-64b7-11eb-bab8-707f8769d785_story.html"
+webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-threatens-sanctions-on-myanmar-after-military-coup/2021/02/01/30441130-64b7-11eb-bab8-707f8769d785_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-threatens-sanctions-on-myanmar-after-military-coup/2021/02/01/30441130-64b7-11eb-bab8-707f8769d785_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-threatens-sanctions-on-myanmar-after-military-coup/2021/02/01/30441130-64b7-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_cf2c1904f6db47af8d2db944ab2a2cbe_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -563,6 +563,6 @@ related:
         height: 683
         isCached: true
 
-secured: "2LewRngZ3drM+onXQV81C+pk1JzRqBcOSu8FVm/fBpn8lZYbAPvAZu9nmrwZvlcF+o/0NI4sX49CW2xmTj3Ze6vBUTDHD7WkUZ3EIlF9HITD8lKV5o0qesqRXhqE5uNGi2SE//ZN77SwmMJSjioiGFsIogBWiJ6BK//j71m2Js9ycUU6dNOvt2Vo3PFBdYm22FwgPPATtC9FOtHUrpVqBEJpfUttmaZNMuFd/VHvY+seubK4D7y0jcPHwttOcqZ8o4/+ApX5A+qo/uZT7GUEkqKRkQqBsP9QSepd2DYAUybkLJ4UaG3nAvftBN/pEqSn8CjVSben1invSa/4W5tJhCWA0VyVUoj2UKUX4BfF990=;7oKcSOxIMAY64w7HbjQ6Qg=="
+secured: "5qRusXVLnpC3eRvVtdziji/K5IZ2V/0akc603sPHOeCXEZAsiM2eORTLUGHzj5WvwtewlORgf3prV6GXgtyA4n8LXBaTjufftifS2OZ4Sr5EG+DEYmAwQrAAmNukIlY8XUUjYwLasEg2X8WLURoXWF3kuwO1VENQEC2fJ+Zr3gT8sL+HWOWHMo3UaGkvqZu8dSjvIrp8MIpF1StxJJGmpFPF6RCJFQH9dGR+GMHNW+zEbyVNDdX22dmTJjF0jn2Fm6+ad6CQkgwE64Oh2cYFBKFchasI1BW55zeUa7sNS6BXOcMjVkKVlRY8jpYZrw/q0Sgb1tDCjZ8G6BzDnKbZlzEwn9w4pEGMC6vf7Ht4YGA=;6Gu3LIca7r4rqqYqsQxReQ=="
 ---
 

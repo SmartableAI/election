@@ -173,6 +173,17 @@ related:
         width: 940
         height: 631
         isCached: true
+  - title: "Harris speaks with Trudeau in first call foreign leader call"
+    excerpt: "Vice President Kamala Harris spoke with Canadian Prime Minister Justin Trudeau on Monday, marking her first call to a foreign leader since entering the White House. During the call, Harris offered assurances that the Biden administration"
+    publishedDateTime: 2021-02-01T22:52:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/harris-speaks-with-trudeau-in-first-call-foreign-leader-call/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/harris-speaks-with-trudeau-in-first-call-foreign-leader-call/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/harris-speaks-with-trudeau-in-first-call-foreign-leader-call/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
 secured: "lHh9cS+bxbRbVCs01vtys34C89HRikG4FIx9+rnnBTevq/7lIR2t0Rnp5KbSx11XG99lpjKy+BktdOQSSeAqk+oib94VICat3vHIKMnWbpnMwuyUnVePGZCH1PML23IPTZbnYCLSjWE0A9Z//zSiw6Qga//GfRVfrfy0Rmt/ehsB/ioX0E1Bmv06h8n1JlDAS/H9DYj1AmgEhCk7kv+Zh0SOwRiIHKcWOxBmacEnyDQNwLIXLO9A8T6ZISjO9VWXh47ilrBt8GXaU3yaISukugOHREYAXJboHeFcvX5lK2TNJKhHEYVytSZkZk7LL61lFFLxvgSGJgAxKPyW4vxUtvsygar7nrZk5dMPi+Ud7uUsP2NuAXwJn7NZhkbXAX1DNnnAtkzJif3xJCtlJ6Gau2mmLIyTNNup4Xr9+3LPZMWD8lgaCCorkfhj36Oc5OK9ruravKwK+rR3RvTuFKYGDIqxciI6zVUoppkfG6zmUOaOldgY5gOI2nfH66vsRSl96EpmOzybowNoUyQXEAIWZQ==;uK90H2bf/wbDaY/vj5d6Fg=="
 ---

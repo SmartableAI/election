@@ -837,6 +837,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "What's going on between Kamala Harris and Joe Manchin?"
+    excerpt: "Joe Manchin taking public swipes at Vice President Kamala Harris over a television interview? It all started when Harris, on behalf of the Biden administration, did two interviews on local television stations in West Virginia and Arizona touting the administration's new COVID-19 relief bill dubbed the \"American Rescue Plan."
+    publishedDateTime: 2021-02-01T12:06:00Z
+    webUrl: "https://www.chron.com/politics/article/Kamala-Harris-Joe-Manchin-TV-interview-COVID-bill-15914337.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/33/21/20558919/16/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "What Do Black Women in Rural NC Think of Kamala Harris?"
     excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
     publishedDateTime: 2021-01-31T05:09:00Z

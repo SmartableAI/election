@@ -141,6 +141,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Republicans reluctant to say who's the new GOP boss with Trump gone from the White House"
+    excerpt: "GOP senators acknowledged in interviews with Insider that they are without a party leader while Democrats control the White House and Congress."
+    publishedDateTime: 2021-02-01T21:03:00Z
+    webUrl: "https://www.businessinsider.com/trump-gop-republican-leader-senators-house-party-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/601818c6d6c5e60019c6e338?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "GOP to stay neutral if Trump runs in 2024, but wants his help in 2022"
     excerpt: "\"What I really do want to see him do, though, is help us win back majorities in 2022,” said RNC Chair Ronna McDaniel."
     publishedDateTime: 2021-01-28T03:57:00Z

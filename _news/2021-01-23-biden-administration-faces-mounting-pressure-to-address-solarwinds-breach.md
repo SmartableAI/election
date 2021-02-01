@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html"
 type: article
 quality: 173
-heat: 253
+heat: 233
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech problems kick off Biden administration's first virtual Covid briefing"
-    excerpt: "The first Covid-19 briefing of the Biden administration got off to an unfortunate start on Wednesday with multiple technical difficulties. The administration has repeatedly touted their transparency amid the enormous undertaking of getting the pandemic under control, but the briefing, which was conducted"
-    publishedDateTime: 2021-01-27T16:39:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nMFyKQznl1U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/covid-19-briefing-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/covid-19-briefing-biden-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121163134-02-white-house-covid-presser-0121-fauci-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration takes cautious approach as it touts using Defense Production Act"
     excerpt: "The Biden administration has repeatedly touted its plans to aggressively use the Defense Production Act as it combats the coronavirus pandemic, but behind the scenes, a slower, more painstaking effort is underway.\n    \n"
     publishedDateTime: 2021-01-27T23:34:13Z

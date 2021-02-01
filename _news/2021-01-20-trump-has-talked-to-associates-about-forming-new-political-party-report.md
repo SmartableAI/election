@@ -127,6 +127,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Republicans reluctant to say who's the new GOP boss with Trump gone from the White House"
+    excerpt: "GOP senators acknowledged in interviews with Insider that they are without a party leader while Democrats control the White House and Congress."
+    publishedDateTime: 2021-02-01T21:03:00Z
+    webUrl: "https://www.businessinsider.com/trump-gop-republican-leader-senators-house-party-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/601818c6d6c5e60019c6e338?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Democrats have these 7 last-minute Trump administration regulations in their sights to overturn now that they control the Senate"
     excerpt: "Senate Democrats are eyeing the Congressional Review Act as a way to obliterate federal regulations from the Trump administration."
     publishedDateTime: 2021-01-21T13:41:00Z

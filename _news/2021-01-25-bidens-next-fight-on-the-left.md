@@ -302,6 +302,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and Netanyahu's decades-long friendship faces new test after Israel's Prime Minister went all in for Trump"
+    excerpt: "US President Joe Biden and Israeli Prime Minister Benjamin Netanyahu have been friends, allies and partners in a relationship that has spanned nearly four decades. When they first met, Biden was a junior senator in his early 40s; Netanyahu was a fledgling diplomat nearly a decade younger. Now with their"
+    publishedDateTime: 2021-02-01T20:53:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SE34VM2r_OY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/biden-netanyahu-relationship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/biden-netanyahu-relationship/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201133546-biden-netanyahu-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Rand Paul to force test vote to gauge Republican support for Trump impeachment trial"
     excerpt: "Sen. Rand Paul plans to force a test vote on Tuesday that will show how many Republicans support holding an impeachment trial for former President Donald Trump and how many believe a trial should not take place.\n    \n"
     publishedDateTime: 2021-01-26T18:31:11Z

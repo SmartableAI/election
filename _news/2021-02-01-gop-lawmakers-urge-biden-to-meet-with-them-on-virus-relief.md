@@ -826,6 +826,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "What's going on between Kamala Harris and Joe Manchin?"
+    excerpt: "Joe Manchin taking public swipes at Vice President Kamala Harris over a television interview? It all started when Harris, on behalf of the Biden administration, did two interviews on local television stations in West Virginia and Arizona touting the administration's new COVID-19 relief bill dubbed the \"American Rescue Plan."
+    publishedDateTime: 2021-02-01T12:06:00Z
+    webUrl: "https://www.chron.com/politics/article/Kamala-Harris-Joe-Manchin-TV-interview-COVID-bill-15914337.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/33/21/20558919/16/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Vice President Kamala Harris will stay here until official home is ready"
     excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
     publishedDateTime: 2021-01-28T17:35:00Z

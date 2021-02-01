@@ -1713,6 +1713,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Official’s Last-Day Deal With ICE Union Ties Biden’s Hands"
+    excerpt: "A whistle-blower accused Kenneth T. Cuccinelli II of an abuse of power in making sweeping concessions to pro-Trump Immigration and Customs Enforcement agents."
+    publishedDateTime: 2021-02-01T21:18:00Z
+    webUrl: "https://www.nytimes.com/2021/02/01/us/politics/cuccinelli-biden-ice.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/01/us/politics/cuccinelli-biden-ice.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/us/politics/cuccinelli-biden-ice.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/01/us/politics/01dc-homeland/01dc-homeland-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Watchdogs Appointed by Trump Pose Dilemma for Biden"
+    excerpt: "Removing inspectors general installed by the former president under a political cloud could have the consequence of further eroding good-government norms."
+    publishedDateTime: 2021-02-01T22:20:00Z
+    webUrl: "https://www.nytimes.com/2021/02/01/us/biden-trump-inspector-general.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/01/us/biden-trump-inspector-general.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/us/biden-trump-inspector-general.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/01/us/politics/01dc-inspectors1/01dc-inspectors1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Arizona governor becomes latest Trump target after certifying Biden's win"
     excerpt: "Arizona Gov. Doug Ducey, a Republican and close ally of President Donald Trump throughout the 2020 election, found himself in the president's Twitter crosshairs on Monday when he signed off on the state's election certification."
     publishedDateTime: 2020-12-02T01:07:00Z

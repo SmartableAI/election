@@ -64,6 +64,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Live Updates: Biden Hopes to Win G.O.P. Support on $1.9 Trillion Relief Package"
+    excerpt: "But some Democrats see a path forward unilaterally. The administration named Robert Malley as a special envoy who must persuade Tehran to rein in its nuclear program."
+    publishedDateTime: 2021-01-29T08:42:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/29/world/29new-washington-briefing-stimulus/29new-washington-briefing-stimulus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Iran's U.N. ambassador says Iran is waiting for President Biden to make the first diplomatic move"
     excerpt: "The Biden administration needs to lift sanctions on Iran and return to the nuclear deal that Trump ditched, the Iranian ambassador to the U.N. says."
     publishedDateTime: 2021-01-26T09:24:00Z
