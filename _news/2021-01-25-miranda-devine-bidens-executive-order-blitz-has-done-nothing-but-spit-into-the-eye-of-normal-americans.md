@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Sanders dismisses Biden 'unity' pledge to push COVID relief bill"
+    excerpt: "Sen. Bernie Sanders, I-Vt., suggested Sunday that the push to pass President Biden's $1.9 trillion COVID-19 relief bill without Republican support takes precedence over Biden's pledge for \"unity\" and bipartisan lawmaking. "
+    publishedDateTime: 2021-02-01T00:21:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tZptk0vVefY/nice-while-it-lasted-sanders-dismisses-biden-unity-pledge-to-push-covid-relief-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/nice-while-it-lasted-sanders-dismisses-biden-unity-pledge-to-push-covid-relief-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nice-while-it-lasted-sanders-dismisses-biden-unity-pledge-to-push-covid-relief-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce0d9893-c4a2-419e-9237-718f321364f0/4f3c54d0-cdcc-4213-be60-b6dbf41708e0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s reported plans to kill Keystone XL pipeline alarm Canadian officials"
     excerpt: "President-elect Joe Biden is considering canceling the cross-border permit for TC energy’s Keystone XL pipeline -- and Canadian officials are worried."
     publishedDateTime: 2021-01-18T18:37:25Z

@@ -351,6 +351,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Pence Plans to Form Fundraising Group as He Moves Beyond Trump, Capitol Riot"
+    excerpt: "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused fundraising committee that would help him maintain a relationship with donors,"
+    publishedDateTime: 2021-02-01T00:26:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 87
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1230692263-edited.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "GOP to stay neutral should Donald Trump run again"
     excerpt: "The head of the Republican National Committee on Wednesday declined to encourage former President Donald Trump to run for the White House in 2024, saying the GOP would stay “neutral” in its next presidential primary."
     publishedDateTime: 2021-01-27T22:33:00Z

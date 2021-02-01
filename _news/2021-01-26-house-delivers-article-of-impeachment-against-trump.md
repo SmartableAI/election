@@ -158,6 +158,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump names new lawyers for impeachment defense team"
+    excerpt: "David Schoen and Bruce L. Castor, Jr. will head the legal team for the second impeachment trial of former President Donald Trump, his office announced Sunday, a day after CNN first reported that five known members of his impeachment defense team had left.\n    \n"
+    publishedDateTime: 2021-02-01T00:49:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qp9XiITBqR0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/trump-new-lawyers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/trump-new-lawyers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102113042-101b-donald-trump-serious-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's impeachment case is now in the Senate's hands. Here's what's next"
     excerpt: "The House voted to impeach President Donald Trump on January 14, but waited until Monday to complete the next step in the process -- having House managers read the single article of impeachment aloud on the House floor and then walking it over to the Senate.\n    \n"
     publishedDateTime: 2021-01-26T01:01:22Z

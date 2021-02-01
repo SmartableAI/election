@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-fundrais
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-fundraising-20210131-h5cksn4i3zhdleefoux4ddyk5q-story.html?outputType=amp"
 type: article
 quality: 136
-heat: 656
+heat: 676
 published: true
 
 provider:
@@ -342,6 +342,22 @@ related:
       - url: "https://i.insider.com/601196896dfbe10018e0040c?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Pence Plans to Form Fundraising Group as He Moves Beyond Trump, Capitol Riot"
+    excerpt: "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused fundraising committee that would help him maintain a relationship with donors,"
+    publishedDateTime: 2021-02-01T00:26:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 87
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1230692263-edited.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "As Trump's impeachment trial nears, Republicans mull questions on party's future"
     excerpt: "As former president Donald Trump’s second impeachment nears, lawmakers discussed on Jan. 31 whether he should be held accountable for the Capitol breach."

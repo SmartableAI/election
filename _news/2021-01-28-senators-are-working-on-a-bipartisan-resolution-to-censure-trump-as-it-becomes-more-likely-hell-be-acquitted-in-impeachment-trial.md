@@ -343,6 +343,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pence Plans to Form Fundraising Group as He Moves Beyond Trump, Capitol Riot"
+    excerpt: "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused fundraising committee that would help him maintain a relationship with donors,"
+    publishedDateTime: 2021-02-01T00:26:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 87
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1230692263-edited.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "As Trump's impeachment trial nears, Republicans mull questions on party's future"
     excerpt: "As former president Donald Trump’s second impeachment nears, lawmakers discussed on Jan. 31 whether he should be held accountable for the Capitol breach."
     publishedDateTime: 2021-01-31T18:35:00Z

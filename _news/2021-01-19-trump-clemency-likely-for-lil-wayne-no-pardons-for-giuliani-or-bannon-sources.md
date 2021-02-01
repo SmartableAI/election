@@ -189,6 +189,22 @@ related:
         width: 876
         height: 545
         isCached: true
+  - title: "Trump names 2 lawyers to impeachment defense team"
+    excerpt: "Donald Trump has named two lawyers to his impeachment defense team, one day after it was revealed that the former president had parted ways with an earlier set of attorneys"
+    publishedDateTime: 2021-02-01T00:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75601986"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75601986"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75601986"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "U.S. House to deliver Trump charge to Senate, triggering impeachment trial"
     excerpt: "The U.S. House of Representatives on Monday is set to formally deliver to the Senate a charge accusing former President Donald Trump with inciting insurrection in a speech to his supporters before the deadly attack on the Capitol,"
     publishedDateTime: 2021-01-26T02:36:00Z

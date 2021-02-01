@@ -191,6 +191,22 @@ related:
         width: 876
         height: 545
         isCached: true
+  - title: "Trump names 2 lawyers to impeachment defense team"
+    excerpt: "Donald Trump has named two lawyers to his impeachment defense team, one day after it was revealed that the former president had parted ways with an earlier set of attorneys"
+    publishedDateTime: 2021-02-01T00:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75601986"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75601986"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75601986"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Rudy Giuliani: lawyers call for Trump's personal attorney to lose law licence"
     excerpt: "Trump’s personal attorney, who led efforts to overturn election result, criticised for calling for ‘trial by combat’ before Capitol attack"
     publishedDateTime: 2021-01-22T02:12:00Z

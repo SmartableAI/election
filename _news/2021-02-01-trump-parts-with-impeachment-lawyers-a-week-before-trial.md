@@ -436,6 +436,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Pence looking to forge new political path away from Trump"
+    excerpt: "Former Vice President Mike Pence is reportedly making plans to form a political committee, signaling his intention to remain in politics."
+    publishedDateTime: 2021-01-31T23:51:00Z
+    webUrl: "https://thegrio.com/2021/01/31/pence-new-political-path/"
+    ampWebUrl: "https://thegrio.com/2021/01/31/pence-new-political-path/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/01/31/pence-new-political-path/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 90
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2020/10/1279209484.jpg"
+        width: 1024
+        height: 794
+        isCached: true
   - title: "Joe Scarborough: 'Mike Pence is in fear for his life because of Donald J. Trump'"
     excerpt: "MSNBC co-host Joe Scarborough said Wednesday morning that former Vice President Mike Pence is “in fear for his life” because of former President Donald Trump’s actions leading up to the U.S. Capitol riot."
     publishedDateTime: 2021-01-27T17:02:00Z
