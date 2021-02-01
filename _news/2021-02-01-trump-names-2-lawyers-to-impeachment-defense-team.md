@@ -191,6 +191,22 @@ related:
         width: 876
         height: 545
         isCached: true
+  - title: "Trump names new lawyers to lead his impeachment defense team"
+    excerpt: "Former U.S. President Donald Trump on Sunday named two new lawyers to lead the defense in his upcoming Senate impeachment trial after abruptly parting ways with his prior counsel."
+    publishedDateTime: 2021-02-01T01:24:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUKKBN2A00VI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A00VI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A00VI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549757121&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U0JJ"
+        width: 866
+        height: 545
+        isCached: true
   - title: "U.S. House to deliver Trump charge to Senate, triggering impeachment trial"
     excerpt: "The U.S. House of Representatives on Monday is set to formally deliver to the Senate a charge accusing former President Donald Trump with inciting insurrection in a speech to his supporters before the deadly attack on the Capitol,"
     publishedDateTime: 2021-01-26T02:36:00Z

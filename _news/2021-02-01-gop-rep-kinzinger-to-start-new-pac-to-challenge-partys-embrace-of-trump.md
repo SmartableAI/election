@@ -157,7 +157,23 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump Names New Impeachment Legal Team, One Day After Previous Team Bailed"
+    excerpt: "One of the attorneys is best known for declining to prosecute Bill Cosby. The other represented Roger Stone and planned to represent Jeffrey Epstein."
+    publishedDateTime: 2021-02-01T02:06:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 73
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/9cc/a57/bac7f73e443026b5f23753235d8e964ce1-President-Trump-Wave-Back.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
 
-secured: "kZ/I5DJyEd4fHOpa9Gw9v8tzVUQi5psJWlm/7xYpUcbMwn4C95eWJTfxFV7W/FYlsZI3V5RlKOXyjYd6JVAQ/bQvAEy6zz3I6XLamskEmxi8IHDFC3ZlQ6HYRhldq+JbagOTEEEqKGpGhRviQh44sQLmtARJ4P1gQmd/rScvSCf1qPqL5/m2LB9K+jxQtF/QGjdnqTz8GI7gg7OK5JfaEjPHw1N4/zu6zGYyGUzjnhJaiELAfycR9IYdoRwYwlBD2IS8nMWOddcFQfc+VHe3qlbq7+Zc++IVInmj2wMqudBvOcf/+cicsSBNR2UqUW4dG2j1isleI3Ofv0GHBULrIlj5k3ixH1q+mRIKQ9YPXRI=;19zwir4x/utgrfYdiPH+hg=="
+secured: "8AldAJMmHyfSyRT4/w/zZkmlCFqKXAgjrdOEWXTx6NpB6A5DAYzxyZp0nn4aSqHQ0/CAYXZXBv/h4TmzNDfybyZQHH4JPdXy99e0c6LrGGZ+bCHgbAwcLcO3YZBaAMpGAD/ndDWYSE9HlhbCg5JKQglt6zRNcR+lY+4IAVpw0G/qFUYYkli6lFQ6lijZ+OQm/IXsJRVCCfYu2tep+10kIekzWNv1GfwZBe75Tx7I5MYFNdLo9AhSdV4ft9FUQpG95Zu1WFFZkH3O1sDMWka4BdJmEooJR1dr7MWUmm8R2GtzuOs3mkjEO/+9rJwu3/sqegVbBPpVUSu2QGymVTBpkuROb26iJGCADq2u0NHNM/PRc4uXKwulAIf0MsDZQy9sEK1sxnOFXV4IXHevsVFsCRiAw6F93SfmORi2kwGy8u3+ow21XP+7BNwdlPxbkUU0pSR/m1xpuETjVIQTrZqrdtlTfXkvAuNpXZECXTb+UOdNIpFXZZadbezXcvi3/4uN2uyImWGr0VcHk+AoNkGu2A==;IdYseBmS1trT7iKtRecgxQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-rubio-senat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-rubio-senate-republicans.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-18.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump announces new impeachment legal defense team"
+    excerpt: "Former President Donald Trump announced his new impeachment legal team on Sunday night after parting ways with his previous lawyers due to a disagreement over his defense strategy. Trial lawyers"
+    publishedDateTime: 2021-02-01T01:23:00Z
+    webUrl: "https://nypost.com/2021/01/31/trump-announces-new-impeachment-legal-defense-team/"
+    ampWebUrl: "https://nypost.com/2021/01/31/trump-announces-new-impeachment-legal-defense-team/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/31/trump-announces-new-impeachment-legal-defense-team/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-13.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to meet with Republican senators to discuss COVID-19 relief plan"
+    excerpt: "U.S. President Joe Biden has invited Maine Senator Susan Collins along with other Republican senators to the White House to discuss a COVID-19 relief plan, the White House said on Sunday."
+    publishedDateTime: 2021-02-01T02:24:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/biden-to-meet-with-republican-senators-to-discuss-covid-19-relief-plan-idUSKBN2A112Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A112Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A112Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549767816&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH100MF"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden to reopen healthcare.gov as people lose coverage amid COVID-19: report"
     excerpt: "U.S. President Joe Biden plans to order the nation's online insurance marketplace, healthcare.gov, to reopen for at least a few months to offer Americans a way to buy health insurance amid the COVID-19 pandemic,"
     publishedDateTime: 2021-01-26T14:07:00Z
@@ -164,6 +180,6 @@ related:
       domain: washingtonpost.com
     quality: 82
 
-secured: "dZZc6v54LR+R4FO3Ewj8gcklSJ00IhD9LOLbZ695gKOL+D2pcXJkmu3N61mNd6llFjw+VacPAzZ7rIaasnX2rlOcY0mZWmlvUhcm4twvl+j7UNYgyPFa6hs9JoKAEHJYCL+fO1/JpnFoBHUSa+Fao4c57+OsQRy5bYPnrozEKBAj/q30ev0bSZ7Ua8su7KfXiwpY4IkWc881CpvL1xrRayyFrUvV9x3lR0nmR9FznEcAaScT0DQcClIOFhwMYHYtbw+pQkvaS0Uu9aMSthLJuT87XONwskqklwA+qqd8qSwYPUA6KNKjF08vEthPeOOC18lnw3WzwL2Hg4CvzBUio8O6cTdll3e4+MdU3W8+Vl8=;7NqRofPbXuklM9VjpX5DCA=="
+secured: "VObeQMDAi2xh+B2GOvhVEPuBlxoup2U0yxWwJVloSL910ZC25Aqv43z5shii2Tj/8H8evj9iSfbXQ4LfBwSQdFypUUbpf+sFHPUTfTeR1owXE8E/wJI8stmUHQEr9+zmS2VTESwIfyuTp4xmXxxnEj9CKWkiHMWngLs3a2MOCFYLmYe76UE3bodUhwNAzP5Q+bGHqu5nWo2bIDnm5P7hMpP0lmGGnlpse8eFalhWlnbFKQcNbgXufU85ApTWG4mX+Pfg7cBVMK7Suvs1gFe1YxFhwBb2GRAKxGijVCASn0ngE5T06wDxUZLwjR0CWsNPym904ukOEzvV1o4ne9nehG2UoP3SmuItdbK/XCgkWu1B9TWsHduYRGg+RzO8qAM0ka+z8AtsHAqF7i37Jren/4w1wxkDex25DUSWL34y4lUHB3r4d+Zo8l+UM4/nx9mC5PYvnq4HuBItA7qhEH0sm0sqT1MRDtQjQFumcTUv9Q0D4CBu+fPtWAxFc6LDjHw8NTi9w6DUQm7DXG50cX2EtA==;/qeHWUK9yJMjYZpWdEVCJQ=="
 ---
 

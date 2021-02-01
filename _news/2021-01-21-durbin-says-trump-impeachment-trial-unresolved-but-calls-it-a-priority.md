@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump announces new impeachment legal defense team"
+    excerpt: "Former President Donald Trump announced his new impeachment legal team on Sunday night after parting ways with his previous lawyers due to a disagreement over his defense strategy. Trial lawyers"
+    publishedDateTime: 2021-02-01T01:23:00Z
+    webUrl: "https://nypost.com/2021/01/31/trump-announces-new-impeachment-legal-defense-team/"
+    ampWebUrl: "https://nypost.com/2021/01/31/trump-announces-new-impeachment-legal-defense-team/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/31/trump-announces-new-impeachment-legal-defense-team/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-13.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "RtNgJZMWloXI+KDAAUyNcCjALJ+iFHy6xSD+4VN+54Dcm95nVOyzA1UCLK0kV5U7ar/Z0N6AfS9vzJWxAW5GF/t0qWJ1cFaCDKTJS4zRFy26xE0sqzGrNUDA0lAx5QIbkf8+Jsxpa0+Al3xYB0/M8DKXjsHYmk2N6acJJbtWw/xRtgd/ysFncQJmEIPKI4nuOmsyFjgnPPRCiVhCeW7pRZH2HM1NXeB/ae/iNZs9+UlmSc9ISjTzM+5g00M976w2p8cTMhup5fUQfOHppZfaZkjbjMMGQb+Cnkgv4kN/CFQ/4jSvTzXSnKagxZOcTo3I/jSdJQV3AaAkoH+qpDI0JUe0yrAJ6seCDH3VkKVJAps=;T8k9aM9wa3XkYuuFZIYeUA=="
 ---

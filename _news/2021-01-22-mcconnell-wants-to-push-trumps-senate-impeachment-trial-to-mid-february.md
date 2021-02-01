@@ -654,6 +654,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Trump names 2 new attorneys to lead impeachment defense"
+    excerpt: "Former President Donald Trump on Sunday named a new legal team to defend him in the Senate’s impeachment trial next week. Trump, who frequently reshuffled attorneys and advisers during his presidency,"
+    publishedDateTime: 2021-02-01T01:50:00Z
+    webUrl: "https://www.politico.com/news/2021/01/31/trump-attorneys-impeachment-schoen-castor-464201"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ba/54/a2db9c9e48f48ef5db6a7cf7bbc2/ap21012842712411-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "House managers deliver impeachment article against Trump, kicking off trial preparations"
     excerpt: "The House will deliver its article of impeachment against former President Donald Trump to the Senate on Monday, kicking off preparations for the upcoming trial. House impeachment managers will hold a procession ceremony through National Statuary Hall and the Capitol Rotunda to the Senate on Monday evening to present the article of impeachment to the secretary of the Senate."
     publishedDateTime: 2021-01-26T07:10:00Z

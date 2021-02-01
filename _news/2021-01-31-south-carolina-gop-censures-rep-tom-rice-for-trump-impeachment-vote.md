@@ -153,6 +153,22 @@ related:
         width: 4270
         height: 2847
         isCached: true
+  - title: "Trump Names New Impeachment Legal Team, One Day After Previous Team Bailed"
+    excerpt: "One of the attorneys is best known for declining to prosecute Bill Cosby. The other represented Roger Stone and planned to represent Jeffrey Epstein."
+    publishedDateTime: 2021-02-01T02:06:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 73
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/9cc/a57/bac7f73e443026b5f23753235d8e964ce1-President-Trump-Wave-Back.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
 
 secured: "K7Nmm0Q4fNaQMRK3yYtKA+6xQE+1x5DW7X22fOU0mT91Z2uJGxgkfSPcchl+vfKh6R3+UQimkOCGrSZv4kl09gctaEDt+yQ+Pkuj3UVb0+M0zw4rSyiv7YPl6HzKHaMfN4hB6jXzqQvR9R6m53S0LE1dJmdw4CtRqNKYh5H+P790qZgqvvw1jFxy5cuEzOtfh3CE2bqPy9+4TyKSW9KVh/MmUCH/v/ULf52r8XrTggNZ4K+8js+Htyj7clcp93m1lVPyIvN9xzsqbeyW3gTAl0uq7SCq2NLdN1B1qf4yKRqtWw7jB2/iVlKQZowfUxrhMIPRR9pVHQYS3Ml5ZlQ1IjMY6hNtHXT0Et69Vxy+V3p+8MylGfzq8uPNn8VWDPsUwU3zD47N4HI7cUsKtyqukDk06RSNs60kMR3dgj97CDdxegGL1EJbM3lNJ2qDmWd2jO/YLgnJpUa3Xf6C7eHzcL7rldvMTf8fkkVneqH1VTVpOJWIwXHGhXa3RE52hg8uOMruwKMgpM2lV2Gfl5EqCg==;Sfw4LB+n1xhTf8KZt8/yqQ=="
 ---

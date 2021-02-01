@@ -639,6 +639,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Trump names 2 new attorneys to lead impeachment defense"
+    excerpt: "Former President Donald Trump on Sunday named a new legal team to defend him in the Senate’s impeachment trial next week. Trump, who frequently reshuffled attorneys and advisers during his presidency,"
+    publishedDateTime: 2021-02-01T01:50:00Z
+    webUrl: "https://www.politico.com/news/2021/01/31/trump-attorneys-impeachment-schoen-castor-464201"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ba/54/a2db9c9e48f48ef5db6a7cf7bbc2/ap21012842712411-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "McConnell wants to push Trump's Senate impeachment trial to mid-February"
     excerpt: "McConnell’s proposal is a deal to give both sides time to prepare for former President Donald Trump's second impeachment trial."
     publishedDateTime: 2021-01-22T03:31:00Z

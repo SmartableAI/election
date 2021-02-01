@@ -79,6 +79,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Biden to meet with Republican senators to discuss COVID-19 relief plan"
+    excerpt: "U.S. President Joe Biden has invited Maine Senator Susan Collins along with other Republican senators to the White House to discuss a COVID-19 relief plan, the White House said on Sunday."
+    publishedDateTime: 2021-02-01T02:24:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/biden-to-meet-with-republican-senators-to-discuss-covid-19-relief-plan-idUSKBN2A112Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A112Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A112Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549767816&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH100MF"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Republicans press Biden to downsize $1.9 trillion COVID-19 relief plan"
     excerpt: "Ten moderate Republican U.S. senators urged President Joe Biden on Sunday to significantly downsize his sweeping $1.9 trillion COVID-19 relief package to win bipartisan support as Democrats in Congress prepared to push ahead with his plan this week."
     publishedDateTime: 2021-02-01T00:16:00Z

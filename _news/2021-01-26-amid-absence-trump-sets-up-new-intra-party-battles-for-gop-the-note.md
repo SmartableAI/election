@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-pa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UG3YVSYHJJH3FNDN7UTHETCU6U.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Trump Names New Impeachment Legal Team, One Day After Previous Team Bailed"
+    excerpt: "One of the attorneys is best known for declining to prosecute Bill Cosby. The other represented Roger Stone and planned to represent Jeffrey Epstein."
+    publishedDateTime: 2021-02-01T02:06:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 73
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/9cc/a57/bac7f73e443026b5f23753235d8e964ce1-President-Trump-Wave-Back.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
 
 secured: "hxTTG0demv46traG/u3LYovpvxsM4IGEEp3tFbNkpaMJSHz5As2TKqzARCJ50Ba6iVMDlzNwsYvgOXizjG/3NL0iqSPG7CrduzZ1lApZACpuINSg+iPESL8RXUdlmD6CwdVGKtxUqAw+vLxm3nrNSy8QA9b1zj1W2ab0ulNCUaie3xAruNFW28Cda0gjVxzFj3HIpH++ehxgIP0hJJCNoQTMu0lq76wQdJyR30+eUz0fELIJHdpQccq6stT1wtKQwRuWRj71eb0+lqYwCkpiXqzuwRrXHbNm2/x+umM3bbou86ZJQH/gwZX1Lg8mMpXyilQ/VENVou+ymB99Ui1QJFxInbTzifsNVZvwH2W5Eqw=;OASgde2WJS2yyZSiyfbF+Q=="

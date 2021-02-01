@@ -1,28 +1,34 @@
 ---
 category: news
-title: "U.S. Republicans Grapple With Internal Divisions as Trump Trial Looms"
-excerpt: "U.S. congressional Republicans face a week of reckoning ahead of Donald Trump's second impeachment trial as the former president contends with a Tuesday deadline to respond to the charges and his party mulls whether to depose Liz Cheney as one of its House of Representatives leaders for backing impeachment."
-publishedDateTime: 2021-01-31T20:21:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-01-31/us-republicans-grapple-with-internal-divisions-as-trump-trial-looms"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-31/us-republicans-grapple-with-internal-divisions-as-trump-trial-looms"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-31/us-republicans-grapple-with-internal-divisions-as-trump-trial-looms?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-31/us-republicans-grapple-with-internal-divisions-as-trump-trial-looms?context=amp"
+title: "U.S. Republicans grapple with internal divisions as Trump trial looms"
+excerpt: "U.S. congressional Republicans face a week of reckoning ahead of Donald Trump's second impeachment trial as the former president contends with a Tuesday deadline to respond to the charges and his party mulls whether to depose Liz Cheney as one of its House of"
+publishedDateTime: 2021-02-01T01:11:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-congress-republicans-idUSKBN2A00S2"
+webUrl: "https://www.reuters.com/article/us-usa-congress-republicans-idUSKBN2A00S2"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A00S2"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A00S2"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549747601&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U0HB"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Trump raised $255.4 million in 8 weeks as he sought to overturn election result"
@@ -436,6 +442,6 @@ related:
         height: 630
         isCached: true
 
-secured: "F0TJkU4Xm0l16i00WE2DcJoo8MoORwN9/rL0eWzSUsphE2RNMDRdb8ZnmZqtVd2P84aYW66Dx5nYQT6Hdn2GarE78eOKjcLCBFTg5JVxN9t95Aoe07pow2vWSGclgdf/PBobWhSrBZOuA9yH6oPXMYolnKhdm+/dUKa9VD+kYYqj8xpaWXKYxgavIVRUyNwO71LfzeBiEyzIu9O/HEV8Zjty5VQV36BGEMuS/bXxc9FTrQHsrR4XJua0Xr1Yeb7bYg2IRpDP4N+GWQDgJ3aeOgmDnytwIm5S9L17qoXg3mUmatmmkmwNLOnbO5+rxXvoL8uMSBYLj3NnNu063XIns/Wy7MO2TSclpkbM4ZxplfgA7mvDLnEvTwo+ZqWHYpOEfubhdwMYAs8Yc4ztLEWJs2soEHGQ9hknZCtkrnJNjEV2IwYQ0Ylgrt72pQlhoan+RhgEzRwAATNsxYAFDAsYIwJQBSwZIjLWMFiCVCKlmmo2MmcWGuJC43fvg2OtcjQbcDyUMNKFQvr0oZMBe4uxbA==;FezVoGYgP2g/FgQPc0RwEA=="
+secured: "kmaBQzZkuUHYpjOfeqzqaVhmNNgYi+yg6h+apISSiTrXKB6yL0xTJogCZ/0jO6oIEiDH/EAuam/i1ugCaV3ShH2Gmnz00S8h7tPSAxXVneE+I32di7ZnTzEnM4IDLCFpiNcmNEy2jnMVnjO69toP6WUFgzmMR7AY1gxbkQdXXXMqNVjhkEd6fU/ASetfL0BN/byxdh+bJsBT1Wqxvgu0zzalwjyWVA+HU7300Z3EchXS/82jjCrkWXfxmWeODJRwMl4Q1WH5zeZhM9uDBi8fmJOzHd4wQ2wf6Y17Xjspn8+F6QVDc1rQIIK/B2sFUHU8UKTIFV2IN0pjUvg8n7H7ii5mxvfg59VRAgjek/TEIWc=;zyk39Drnx1GP6Wd3ul8kdw=="
 ---
 
