@@ -351,6 +351,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump loyalists in South Dakota turn on home state senator"
+    excerpt: "Longtime South Dakota Republican voter Jim Thompson is ready to leave the GOP, hoping that an exodus of Donald Trump supporters like him will punish the state's preeminent politician, , for defying Trump."
+    publishedDateTime: 2021-02-01T05:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-loyalists-in-south-dakota-turn-on-home-state-senator-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-loyalists-in-south-dakota-turn-on-home-state-senator-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-loyalists-in-south-dakota-turn-on-home-state-senator-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Senators are working on a bipartisan resolution to censure Trump as it becomes more likely he'll be acquitted in impeachment trial"
     excerpt: "Kaine told reporters that there \"maybe a little more interest now\" in the move after an overwhelming majority of Republicans on Tuesday hinted they likely won't convict Trump. The Virginia Democrat argued that a censure resolution could be a better use of the Senate 's time."
     publishedDateTime: 2021-01-27T18:47:00Z

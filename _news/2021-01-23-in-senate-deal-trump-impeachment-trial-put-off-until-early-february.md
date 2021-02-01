@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R27D"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R27D"
 type: article
 quality: 125
-heat: 925
+heat: 945
 published: true
 
 provider:
@@ -412,6 +412,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4599d219-51e2-4534-9bab-abd1898b1797_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump Names New Defense Team Ahead Of Senate Impeachment Trial"
+    excerpt: "Attorneys David Schoen and Bruce Castor Jr. will help defend the former president in next week's trial before the Senate on one article of impeachment, \"incitement of insurrection.\""
+    publishedDateTime: 2021-02-01T05:56:00Z
+    webUrl: "https://www.npr.org/2021/02/01/962689880/trump-names-new-defense-team-ahead-of-senate-impeachment-trial"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/01/ap17293693223504_wide-87cc323d1ca88cc632d9f1392da692655169218c.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Law enforcement officials brace for pro-Trump protests at state capitals"
     excerpt: "Members of the State police arrive at the Michigan state Capitol in Lansing, Michigan. REUTERS/Rebecca Cook"

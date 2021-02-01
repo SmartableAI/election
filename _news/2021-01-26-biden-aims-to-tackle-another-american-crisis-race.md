@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127134523-01-biden-0125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden faces presidency-defining dilemma over Republican offer on Covid-19 rescue plan"
+    excerpt: "President Joe Biden will on Monday meet with 10 Republican senators who have drawn up a smaller counter-proposal to his $1.9 trillion Covid-19 rescue plan in the most critical test yet of his core promise to forge unity over bitter partisan lines.\n    \n"
+    publishedDateTime: 2021-02-01T06:11:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0hAtqy8BZj0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-coronavirus-congress-republicans-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-coronavirus-congress-republicans-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131095349-sotu-deese-full-00000611-super-tease.png"
         width: 1100
         height: 619
         isCached: true

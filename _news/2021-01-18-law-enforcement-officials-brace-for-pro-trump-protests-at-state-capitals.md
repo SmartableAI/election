@@ -427,6 +427,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump Names New Defense Team Ahead Of Senate Impeachment Trial"
+    excerpt: "Attorneys David Schoen and Bruce Castor Jr. will help defend the former president in next week's trial before the Senate on one article of impeachment, \"incitement of insurrection.\""
+    publishedDateTime: 2021-02-01T05:56:00Z
+    webUrl: "https://www.npr.org/2021/02/01/962689880/trump-names-new-defense-team-ahead-of-senate-impeachment-trial"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/01/ap17293693223504_wide-87cc323d1ca88cc632d9f1392da692655169218c.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Chuck Schumer: Donald Trump impeachment trial will be full and fair – video"
     excerpt: "The US Senate majority leader has said Nancy Pelosi would transmit the article of impeachment on Monday"
     publishedDateTime: 2021-01-22T15:36:00Z

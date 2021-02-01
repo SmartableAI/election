@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-pol
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721"
 type: article
 quality: 150
-heat: 1590
+heat: 1610
 published: true
 
 provider:
@@ -735,6 +735,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210128&t=2&i=1549442199&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0R1PC"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden to meet with GOP lawmakers to discuss virus relief"
+    excerpt: "President Joe Biden is set to meet Monday afternoon with a group of 10 Republican senators who have proposed spending about one-third of what he is seeking in coronavirus aid"
+    publishedDateTime: 2021-02-01T05:11:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-meet-gop-lawmakers-discuss-virus-relief-75604907"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-meet-gop-lawmakers-discuss-virus-relief-75604907"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-meet-gop-lawmakers-discuss-virus-relief-75604907"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_321a8d9280fb42d7bc5518fdd77a61a5_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Texas attorney general files lawsuit to block Biden's deportation freeze"
     excerpt: "The Texas attorney general filed a lawsuit on Friday that seeks to block U.S. President Joe Biden's move to pause certain deportations for 100 days, a controversial opening-move by the Democratic president that has provoked blowback from some Republicans."

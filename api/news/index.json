@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-01-trump-starts-2021-with-31-million-in-cash-for-new-pac.md",
+      "title": "Trump Starts 2021 With $31 Million in Cash for New PAC",
+      "excerpt": "The money, which is in the coffers of a newly formed leadership PAC called Save America, will be key to the former president’s efforts to retain his grip on the Republican Party.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-starts-2021-with-31-million-in-cash-for-new-pac-11612157129",
+      "originalUrl": "https://www.wsj.com/articles/trump-starts-2021-with-31-million-in-cash-for-new-pac-11612157129",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-292983/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-starts-2021-with-31-million-in-cash-for-new-pac-11612157129",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-starts-2021-with-31-million-in-cash-for-new-pac-11612157129",
+      "publishedDateTime": "2021-01-31T21:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-democratic-party-tweet-accused-of-contradicting-bidens-original-promise-for-third-2000-stimulus-check.md",
       "title": "Democratic Party tweet accused of contradicting Biden's original promise for third, $2000 stimulus check",
       "excerpt": "Biden promised a separate, $2,000 stimulus check would 'go out the door immediately' if Georgia voters cast their ballots for newly-elected Democratic Sens. Jon Ossoff and Raphael Warnock during the state runoff elections earlier this month.",
@@ -175,7 +232,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-fundraising-20210131-h5cksn4i3zhdleefoux4ddyk5q-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 676,
+      "heat": 696,
       "tags": null,
       "images": [
         {
@@ -1276,62 +1333,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-rep-marjorie-taylor-greene-boasts-of-great-conversation-with-trump-amid-calls-for-her-ouster.md",
-      "title": "Rep. Marjorie Taylor Greene boasts of 'great' conversation with Trump amid calls for her ouster",
-      "excerpt": "Rep. Marjorie Taylor Greene announced Saturday she had spoken with former President Donald Trump amid calls for her expulsion from Congress, saying she'll \"never apologize\" as she faces backlash over recently resurfaced controversial comments.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EVxUPk1788E/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EVxUPk1788E/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210130105720-marjorie-taylor-greene-0107-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/30/politics/marjorie-taylor-greene-phone-call-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/marjorie-taylor-greene-phone-call-trump/index.html",
-      "publishedDateTime": "2021-01-30T10:34:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

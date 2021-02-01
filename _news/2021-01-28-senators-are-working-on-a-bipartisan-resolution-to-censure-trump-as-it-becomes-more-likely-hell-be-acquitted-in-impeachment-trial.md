@@ -359,6 +359,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump loyalists in South Dakota turn on home state senator"
+    excerpt: "Longtime South Dakota Republican voter Jim Thompson is ready to leave the GOP, hoping that an exodus of Donald Trump supporters like him will punish the state's preeminent politician, , for defying Trump."
+    publishedDateTime: 2021-02-01T05:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-loyalists-in-south-dakota-turn-on-home-state-senator-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-loyalists-in-south-dakota-turn-on-home-state-senator-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-loyalists-in-south-dakota-turn-on-home-state-senator-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Pence Plans to Form Fundraising Group as He Moves Beyond Trump, Capitol Riot"
     excerpt: "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused fundraising committee that would help him maintain a relationship with donors,"
     publishedDateTime: 2021-02-01T00:26:00Z
