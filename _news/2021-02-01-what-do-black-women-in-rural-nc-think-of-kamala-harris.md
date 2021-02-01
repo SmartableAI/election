@@ -1,29 +1,27 @@
 ---
 category: news
-title: "VP Kamala Harris receives 2nd Moderna dose"
-excerpt: "Watch \"VP Kamala Harris receives 2nd Moderna dose\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-01-26T21:03:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210126204951-vp-kamala-harris-receives-2nd-moderna-dose/"
-webUrl: "https://www.cbsnews.com/live/video/20210126204951-vp-kamala-harris-receives-2nd-moderna-dose/"
+title: "What do Black women in rural NC think of Kamala Harris?"
+excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
+publishedDateTime: 2021-02-01T01:56:00Z
+originalUrl: "https://www.sacbee.com/news/article248902064.html"
+webUrl: "https://www.sacbee.com/news/article248902064.html"
+ampWebUrl: "https://amp.sacbee.com/news/article248902064.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article248902064.html"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/01/26/story_08722873_1611694564.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/b519aa9c-2e56-419d-b46c-228a6887a74d/dd47c3d3-0d54-48fc-a407-5613900967df/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -123,6 +121,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP Kamala Harris receives 2nd Moderna dose"
+    excerpt: "Watch \"VP Kamala Harris receives 2nd Moderna dose\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-26T21:03:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210126204951-vp-kamala-harris-receives-2nd-moderna-dose/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/26/story_08722873_1611694564.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris' Alpha Kappa Alpha sorority sisters celebrate"
     excerpt: "(AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment. AKA South Eastern Director Mitzi Dease Paige said that many members were “tickled pink and green” to see the first woman of color become vice president."
     publishedDateTime: 2021-01-23T14:23:00Z
@@ -202,22 +214,6 @@ related:
       - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "What do Black women in rural NC think of Kamala Harris?"
-    excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
-    publishedDateTime: 2021-02-01T01:56:00Z
-    webUrl: "https://www.sacbee.com/news/article248902064.html"
-    ampWebUrl: "https://amp.sacbee.com/news/article248902064.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article248902064.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/b519aa9c-2e56-419d-b46c-228a6887a74d/dd47c3d3-0d54-48fc-a407-5613900967df/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Kamala Harris’ historic rise as U.S.’s first Black, Caribbean-American VP celebrated"
     excerpt: "Vice President-elect Kamala Harris, left, and Felicia Persaud, a long-time Caribbean activist during a virtual celebration of Harris’ historic rise ahead of Jan. 20, 2021 inauguration of U.S. President-elect Joe Biden. Courtesy of Invest Caribbean ..."
@@ -304,6 +300,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "91D3q/LNhfpeulDPZdOWHzU6sH+CgSX+aU5Z4D7y/CUhCufjuivCJflBD5EMdz/N6N5xKPvr5DAAofC9cvv4foG4ckRHdWHhmfAmCUBrPF7ZYvKJUYfEi4uKMJE/v6WTxNkKeWP7gDaJZoidKf9s9lYyXko+6G7+gDQRe8b1qQNzY2t6lf1rZrS9EaPwPW5urNbSrsnCqMYZ4RPzUoPkmvlUjdUnjZO2wstdzVt+WGuUX1AaA3RXGmoNp2avQtL6y95q+aRkQa+FtMKyN+qfAOM6vRNJ/N6Y1aQx0KF9/5Cn8JMnS8x/sU9UcOwZNoYUaRFuorT4htrTH7ah4wIErl39Xhy22mnMzZzLJJyJ4+aQKnplIEPP463vy5B0szUp7VxceEuuEU58jbnqufxPJwMzjyeTzWqXTv8iYBIo1u1AmsI4A8xBPt/Evbu92sOaANm5+Lmf5Z62x+96aBm1xSI68+E/DtmtjnbWaA3Fk94gat1e3GHS4GBT3mJDEfAl+ion2RX2Ufq4kCuFp5871A==;E+n2r7Tb85cnG037OJfihg=="
+secured: "7MP18avxVXx4AQTI4NV/IjlVb1tNMucWIPsUfNErc35C6WLWMruS8zNCCoD8lPSl3fP1Xag22fokew6vI3ILj9lVtvulFb+JwRVKnQBKRGK8pxoUXgDFWTbmwCBUwpirSUFXfsCmUvAYIlxy7lz0Fvi6hpVG8uHRnLokjVdiSyl1J+ZAwvqbzcZ6YW7KT5ocglqoEEnIH7IONgMZjs44TINiSFlulnrg9eKk8ofEX8N1BZ44AZE1vOdmDiKFcBOhuZM+3EQ61lo3wRky/dTJvs0oQ6DESkuUbwS5453cWFTMlYF6DlwyeG0BfoUsXxkfZT9noszeiWt8yGDRRvPgxGvlUEuyn4P9Ni1nYXauaiA=;XOzC+iyHlD6NxnUBpOFzOw=="
 ---
 

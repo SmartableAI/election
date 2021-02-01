@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Live Updates: Trump briefed on Nashville explosion that appears to be 'intentional'"
-excerpt: "President Trump has been briefed on an explosion in downtown Nashville on Christmas morning that is now under FBI investigation."
-publishedDateTime: 2020-12-25T17:14:00Z
-originalUrl: "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional"
-webUrl: "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional"
-ampWebUrl: "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp"
+title: "Live Updates: Trump's impeachment trial set to begin next week"
+excerpt: "The Senate trial of former President Donald Trump is set to begin next week. "
+publishedDateTime: 2021-02-01T07:49:18Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/251Ha7dRYFQ/live-updates-trumps-impeachment-trial-set-to-begin-next-week"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/251Ha7dRYFQ/live-updates-trumps-impeachment-trial-set-to-begin-next-week"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-trial-set-to-begin-next-week.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-impeachment-trial-set-to-begin-next-week.amp"
 type: article
-quality: 129
+quality: 175
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd9e63a-3171-4e5c-b5d5-c5700a01c640/58c53567-f05d-4d1a-a7d4-0812105618e0/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7bd83f1-4d23-4ebc-bd89-ec13027ba1b1/7215bdc9-6d2c-4ec3-9fa7-f70a1042e107/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -176,22 +175,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Trump's impeachment trial set to begin next week"
-    excerpt: "The Senate trial of former President Donald Trump is set to begin next week. "
-    publishedDateTime: 2021-02-01T07:49:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/251Ha7dRYFQ/live-updates-trumps-impeachment-trial-set-to-begin-next-week"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-trial-set-to-begin-next-week.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-impeachment-trial-set-to-begin-next-week.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7bd83f1-4d23-4ebc-bd89-ec13027ba1b1/7215bdc9-6d2c-4ec3-9fa7-f70a1042e107/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "McConnell: Pelosi, Schumer could have had COVID aid bill months ago, but wanted to damage Trump campaign"
     excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., praised the coronavirus stimulus bill that's poised to pass Congress Monday after months of stalled negotiations, but added that Democrats could have had the same deal months ago had they not prioritized damaging President Trump's reelection hopes."
     publishedDateTime: 2020-12-21T20:26:26Z
@@ -288,6 +271,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Live Updates: Trump briefed on Nashville explosion that appears to be 'intentional'"
+    excerpt: "President Trump has been briefed on an explosion in downtown Nashville on Christmas morning that is now under FBI investigation."
+    publishedDateTime: 2020-12-25T17:14:00Z
+    webUrl: "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional"
+    ampWebUrl: "https://www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-nashville-explosion-appears-to-be-intentional.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecd9e63a-3171-4e5c-b5d5-c5700a01c640/58c53567-f05d-4d1a-a7d4-0812105618e0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "High Court Rejects as Premature a Bid to Block Trump Plan to Bar Illegal Immigrants in Redistricting"
     excerpt: "By 6-3 vote, the high court’s conservatives say the case is premature until it is clear that the outgoing administration could implement the policy."
     publishedDateTime: 2020-12-18T20:25:00Z
@@ -349,6 +348,6 @@ related:
         height: 682
         isCached: true
 
-secured: "Rlfe6sdNOG9CaO9qGR8cpCitj4WCj4l4QGkcNqmIc0pjIHVWgzgriWKYl3w5Qag8HqccmRG196n8ICgDnmMhuToUjS+u/z8VEX98nZnloyiRLFRL7zOxk76+ffuUVp+F/d8Hh7f+YanYKvDCIJn5EVhEzvNWoDbrwmrmv7PzCSGJ5pt5HK0cKC+Uu3DfpRX158/CdorB3THIfR5p1E31snVOgLBaZ7LZS7YPqhHNbNbbdG/gWSXGEcas55ElvvbiD0w0gvn4LUSe2jKfAJ5iRR0Dp/eUkO24Uls3IKHx7AeaZLbbPxRkf5GsBQk+M4Km3J2PTS4LP87N62rSLJ5PQMAj9OCLlkyXTz7WPWJgL6w=;SQ2K/IUZm4adrb11Dp8Bmg=="
+secured: "mDrj7NlQ7/NQdkdK8s4ASaQnzmXCJFabyAfX1juN3V8BytDIDO9JGK2HhyLoCoaUmQrOUhJ4wqrzK2pg60q7w7X2k7FJ/yDUmY+mPcH0w85gHY9LLRWPXVFUcvtcKRd8a8Xp7kejCGK+g4UdjocAU6JI8Q8BHG0Nbmyv0y3dzq9KLBbdFPifOS3qXLVdkEyj20P0ZiVpTKIhSA6MTGZlrUqrWn1uWpyLNYC3dG2jW2mc634WL4kui62+fVpaZ24YwKp2G+eBOT/Ud3pcF03vEcpPUM/TNBO9e53di6Iqz08u70h4cBGMIyf8vIOzuLJrv2ZYNxWwOcVR3H41JWr+mJVQhIl/2tGWen1qnu9OFGk=;Y30o/Bt9xs/wfes5vT7lLg=="
 ---
 

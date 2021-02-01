@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-21-2020.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-21-2020.amp"
 type: article
 quality: 186
-heat: 566
+heat: 586
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b336866-4bb0-4f62-934e-51d04f9db820/fb3e5828-fc28-472b-9f10-d58bd64b0b76/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Trump's impeachment trial set to begin next week"
+    excerpt: "The Senate trial of former President Donald Trump is set to begin next week. "
+    publishedDateTime: 2021-02-01T07:49:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/251Ha7dRYFQ/live-updates-trumps-impeachment-trial-set-to-begin-next-week"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-trial-set-to-begin-next-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-impeachment-trial-set-to-begin-next-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7bd83f1-4d23-4ebc-bd89-ec13027ba1b1/7215bdc9-6d2c-4ec3-9fa7-f70a1042e107/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

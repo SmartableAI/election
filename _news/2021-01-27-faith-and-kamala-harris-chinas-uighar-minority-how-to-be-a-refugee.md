@@ -213,6 +213,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "What do Black women in rural NC think of Kamala Harris?"
+    excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
+    publishedDateTime: 2021-02-01T01:56:00Z
+    webUrl: "https://www.sacbee.com/news/article248902064.html"
+    ampWebUrl: "https://amp.sacbee.com/news/article248902064.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article248902064.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/b519aa9c-2e56-419d-b46c-228a6887a74d/dd47c3d3-0d54-48fc-a407-5613900967df/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris’ historic rise as U.S.’s first Black, Caribbean-American VP celebrated"
     excerpt: "Vice President-elect Kamala Harris, left, and Felicia Persaud, a long-time Caribbean activist during a virtual celebration of Harris’ historic rise ahead of Jan. 20, 2021 inauguration of U.S. President-elect Joe Biden. Courtesy of Invest Caribbean ..."
     publishedDateTime: 2021-01-18T00:27:00Z

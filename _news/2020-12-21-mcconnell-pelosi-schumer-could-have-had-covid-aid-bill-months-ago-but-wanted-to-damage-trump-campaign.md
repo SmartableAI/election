@@ -175,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump's impeachment trial set to begin next week"
+    excerpt: "The Senate trial of former President Donald Trump is set to begin next week. "
+    publishedDateTime: 2021-02-01T07:49:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/251Ha7dRYFQ/live-updates-trumps-impeachment-trial-set-to-begin-next-week"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-trial-set-to-begin-next-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-impeachment-trial-set-to-begin-next-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7bd83f1-4d23-4ebc-bd89-ec13027ba1b1/7215bdc9-6d2c-4ec3-9fa7-f70a1042e107/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Supreme Court in no hurry to hear Trump campaign case, sets response deadline two days after inauguration"
     excerpt: "The latest Trump campaign appeal to the Supreme Court won't see any action from the justices until after the inauguration. The justices this week set a reply deadline for Pennsylvania Secretary of State Kathy Boockvar and the other respondents named in the case of Jan. 22."
     publishedDateTime: 2020-12-24T18:13:04Z

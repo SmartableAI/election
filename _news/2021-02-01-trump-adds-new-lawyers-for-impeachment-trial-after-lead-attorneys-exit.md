@@ -2,9 +2,9 @@
 category: news
 title: "Trump Adds New Lawyers for Impeachment Trial After Lead Attorneys Exit"
 excerpt: "David Schoen and Bruce Castor are set to lead former President Donald Trump’s defense at his Senate impeachment trial after his previous attorneys left the team."
-publishedDateTime: 2021-02-01T00:31:00Z
-originalUrl: "https://www.wsj.com/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087?mod=hp_listb_pos2"
-webUrl: "https://www.wsj.com/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087?mod=hp_listb_pos2"
+publishedDateTime: 2021-02-01T06:31:00Z
+originalUrl: "https://www.wsj.com/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
+webUrl: "https://www.wsj.com/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
 ampWebUrl: "https://www.wsj.com/amp/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
 type: article
@@ -113,6 +113,6 @@ related:
         height: 800
         isCached: true
 
-secured: "RYOejt9uNu7ajQPdfpbLAAsaDRR2MqMWDzHbOWcwVQgZG+DzgvBDmZzuLs6n7UOwQp+9Pddlqb0yFqLYczghp9cN3769zbtyp3VzlwTdFaIfi/OllxaFwcms2C7ZC2TZIkFqbtEOAniwcmnB6iTd2g5aeukUtGuDZNAhCDrnruw3GlVpMGdK4Imjz+74zc0mY5ASf9OcSrOANr0QWxFJxN8Q4vbL0apCtdKlMxkfA/DWeGbtiUnjd419Menr69uKF9uMPJyolle8cGMT6wR+fmoyrC//RIw2HyaiAp2wB9V+t9Iv+VYS1i7tta47cNA4JT8wSDNtvyINnrlwbZAvCmnJjKE4YnyrgxCnWBAWdeQ=;mcAZafkI6R1mBbbjsXD+Bg=="
+secured: "QzJKfIVEa6go3FOjxp0TsrpkLmp2gB+j1GxVl0mlC6ABkfYvJspvm6WTjCA++zJwYNhJOEe4+SiLe+9JI2ivilAV1caTrX7vNVH3ecQKRqglc25FH6h7k/IUgRrQpyAztOKSIqW7rPphxIzN2/bLOUFfqIMCsNQMexS/WWzDTK93apNsnAkbm3UwrQ/AR8o5Z2bxGreUIHwTIANFQFqPlAeoqWRyKZTpw3xheTpuKrUTtgYcHMwmNf7UJZ231RPEDDVmKvj8amABQhy3fIqINqPOuEgREvM4mdnPCy1L9MFP04VN3yIsxUCgVLss601YPow9xEXlPV1JkwGR/jOyiHk/RDLv0XWxBbpWuMPBuRs=;bqSnBA5T9kXqSGMFitOjEw=="
 ---
 
