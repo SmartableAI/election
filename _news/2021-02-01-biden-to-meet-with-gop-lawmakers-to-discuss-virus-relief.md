@@ -3,10 +3,10 @@ category: news
 title: "Biden to meet with GOP lawmakers to discuss virus relief"
 excerpt: "President Joe Biden is set to meet Monday afternoon with a group of 10 Republican senators who have proposed spending about one-third of what he is seeking in coronavirus aid"
 publishedDateTime: 2021-02-01T05:11:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/biden-meet-gop-lawmakers-discuss-virus-relief-75604907"
-webUrl: "https://abcnews.go.com/Business/wireStory/biden-meet-gop-lawmakers-discuss-virus-relief-75604907"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-meet-gop-lawmakers-discuss-virus-relief-75604907"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-meet-gop-lawmakers-discuss-virus-relief-75604907"
+originalUrl: "https://abcnews.go.com/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
+webUrl: "https://abcnews.go.com/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596661"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_321a8d9280fb42d7bc5518fdd77a61a5_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/WireAP_75e52f490f3a44eb9ec4cecff9b25a5b_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -986,6 +986,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden administration prepares executive action on immigration while Trump-era polices remain in place"
+    excerpt: "President Joe Biden prepares this week to sign new executive orders related to immigration and announce a task force to address family separations at the border. CBS News immigration reporter Camilo Montoya-Galvez joined CBSN to explain how this will affect Trump-era policies that still remain in place."
+    publishedDateTime: 2021-02-01T16:25:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-administration-prepares-to-expand-immigration-agenda-while-trump-era-polices-remain-in-place/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/01/ea87fef0-cb56-4b26-8ab1-8058790dd2b9/thumbnail/1200x630/2851a6d002041ae4932a885ed03f2379/cbsn-fusion-biden-administration-prepares-to-expand-immigration-agenda-while-trump-era-polices-remain-in-place-thumbnail-637162-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘We need to get over being a divided country.’ What three Trump voters think of Biden’s call for unity."
     excerpt: "Biden’s call for unity comes at a time of stark division in the nation, including over his own leadership. A recent-ABC News poll found that 50 percent of Americans had “just some” confidence or “none at all” in Biden’s ability to make the right decisions for the country’s future,"
     publishedDateTime: 2021-01-26T16:00:00Z
@@ -1177,6 +1191,6 @@ related:
         height: 649
         isCached: true
 
-secured: "4KZAO64op18tfoj3o0AocwwZKQnu1KxZYt7T+RCf8BLs26ZQ9f7sCirRkFxNiq9Kyd/TQo9yuVKg0hlQigQx3HKrqcxNVhRqs63uDLeL4dtZVw7xz90tSRnSmO0aumP/x8C+mkpRIA4SU02wQLuoWbkDicegAyD7bUfNrfLDPh3Q1UdAnuGpIu0hf61TFyOCaVVZX3xPrXIOxZqlYs+ILQeERy0vLz3ot9v9WONukHQwZ5lOS+xDw/HLHtL1AeBw0ODn2wyZzwhJUu5T+OSX4oIIO+9pKf9AjOtQjaTct/fVL3BRWftQJInnOzSHVs4ynrWWKJWMQhUsjkOJbwyjqFraLc8Q6wMaIB2NhYjOXOZM8LDOxQCkVJHqzMRGQAxG97GCgUiaeVUaQVc9X3wV1dAcD5dkW9JB9oukM+Dlj6vS8YgoU5J6iTMbxgluwlXSokRuP0x11HFI62DRnOSuHygpPl7V9iGVO9BtqMq/Zp5my4GdaaVlVBQWG4pH4zPrtj7x+GKfiYCZ/V/ppMPWQw==;Us8twHXRuFqD7PFR6DlO7Q=="
+secured: "YBXj7BzlL2lDgFLhOVt+c9C4ZcDLxHkjIR+H9tMMaI9KPHoUU74fassJoGbBGvcz/z7Pro2uyNuJqnOd+Nbq6AmqZhn4cCm2g3+w+m+5O3zytHfkxj20jIG6Itk1tF4K3ZEOrrwajBDHI1YWSx8o+di+JCSOKIQPGtQyRgTUIUKp/CgV4OcBeCosLyM5MXZfrqxHeiwymn8vtdz/RVBftL5iwpZdGzmP7cZBoDigdbWnlGypLmfgyv0sSRw9J9P2dSJ/cl+BeMRusgC3YGVVONEGWEWmBCAy7YjJe+wXPmd80WvTogwKOgl6LWALWtPd5lvGa/p06YEplEShoNvLYLKYMJjuqFhDrvLhGZpKU+o=;8M+x6k+55BRMlPkgCrUDKw=="
 ---
 

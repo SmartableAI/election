@@ -109,6 +109,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Right-wing extremists emboldened by Trump flex their power in a leaderless GOP"
+    excerpt: "As more far-right Republicans take office and exercise power, party officials are promoting unity and neutrality rather than confronting dangerous messages and disinformation."
+    publishedDateTime: 2021-02-01T15:50:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-repbulicans-extremists-20210201-wtxb46242fawzp4skkw7vw7tpu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-repbulicans-extremists-20210201-wtxb46242fawzp4skkw7vw7tpu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-repbulicans-extremists-20210201-wtxb46242fawzp4skkw7vw7tpu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 121
+    images:
+      - url: "https://www.chicagotribune.com/resizer/5dTjgG5lykMQfVR7EG27WXKYDkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KSQSRTMTOFCO7NOBWNKXT5UETM.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump jumps into a divisive battle over the Republican Party — with a threat to start a ‘MAGA Party’"
     excerpt: "The former president, in his first political activity since leaving office, endorses an ally for Arizona party chair who backed his false claims of election fraud."
     publishedDateTime: 2021-01-24T04:10:00Z

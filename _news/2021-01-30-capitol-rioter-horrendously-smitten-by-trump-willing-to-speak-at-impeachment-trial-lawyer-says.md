@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump faces Tuesday deadline to deliver formal response to impeachment as trial looms"
+    excerpt: "Former U.S. President Donald Trump's unprecedented second impeachment trial takes shape this week, as Democrats outline their case and Trump scrambles to prepare a defense amid disarray on his legal team."
+    publishedDateTime: 2021-02-01T16:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A125Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A125Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A125Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549830767&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101A5"
+        width: 813
+        height: 545
+        isCached: true
   - title: "Trump officials moved most Bureau of Land Management positions out of D.C. More than 87 percent quit instead."
     excerpt: "The decision to relocate BLM headquarters to Colorado and redistribute jobs in the West prompted 287 employees to retire or find other jobs."
     publishedDateTime: 2021-01-29T04:50:00Z

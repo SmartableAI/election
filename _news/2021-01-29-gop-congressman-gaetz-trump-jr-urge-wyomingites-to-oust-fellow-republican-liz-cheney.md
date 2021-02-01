@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-congressman-gaetz-trump-jr-u
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-congressman-gaetz-trump-jr-urge-wyomingites-oust/story?id=75544628"
 type: article
 quality: 117
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: Time
       domain: time.com
     quality: 81
-  - title: "The Republican Party is in disarray post-Trump and faces a crisis bigger than after Watergate, says veteran GOP Congressman"
-    excerpt: "A rift has opened between GOP lawmakers who want Trump's legacy purged and lawmakers and grassroots supporters who remain steadfastly loyal."
-    publishedDateTime: 2021-01-31T11:43:00Z
-    webUrl: "https://www.businessinsider.com/post-trump-republican-crisis-bigger-than-watergate-says-gop-veteran-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/60168014d6c5e60019c6e1dd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "s7zggSNz9sNGIgSC9cnpqyytd6GdkTvAdbP2c7c9O9NIW9YLruSbZF+sw3AbRiXQcs34Qx1V2pCCm3vTA/d3WR2Dn2sQOk2ftQspe2ckWOzWX8R+SIm1icDVFxjy+2Xy0S984Zn0x4NeO6edSCgsgXGUGJ/a6ANNXsN9L9cbmO7X6kChs2ZKL4jaltvoRVh7jlBlSWYWUuGTuwu7nOb/A+nA6EXci9+pm4qBpczsg17eJaKRXVQgBXcMSQviqagZKc244e2KH0nneO5dwNaIS7aVHxVgkDD5gJ7hXDhO/A8x8r6xjLhMDwOe2a/dSUig/SSc2XblWwgN6VXZPOjBSYB/friqTqNIJoqpwZlg40w=;O9/xvL34aW9IddwCuCR1YA=="
 ---

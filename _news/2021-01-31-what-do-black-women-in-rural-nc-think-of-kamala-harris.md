@@ -444,6 +444,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden set to hold COVID-19 relief talks with Republican senators today"
+    excerpt: "President Joe Biden's call for unity will face its first major test Monday when he holds COVID-19 relief talks with Senate Republicans. This comes as lawmakers prepare for former President Donald Trump's second impeachment trial,"
+    publishedDateTime: 2021-02-01T16:48:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-set-to-hold-covid-19-relief-talks-with-republican-senators-today/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/01/65013ac8-04c7-4171-9085-170430d58532/thumbnail/1200x630/f72e570764608831ec16051611de9df8/0201-cbsn-eekeem-bidencovidtrumpimpeachment-637179-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z
@@ -621,6 +635,22 @@ related:
       - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Don’t Send Kamala Harris to Persuade Joe Manchin"
+    excerpt: "There are some early indications that Harris may be a liability in negotiations with members of Congress, even with members of her own party."
+    publishedDateTime: 2021-02-01T15:48:00Z
+    webUrl: "https://www.nationalreview.com/corner/dont-send-kamala-harris-to-persuade-joe-manchin/"
+    ampWebUrl: "https://www.nationalreview.com/corner/dont-send-kamala-harris-to-persuade-joe-manchin/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/dont-send-kamala-harris-to-persuade-joe-manchin/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/kamala-harris-biden-inauguration.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
         isCached: true
   - title: "What do Black women in rural NC think of Kamala Harris?"
     excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."

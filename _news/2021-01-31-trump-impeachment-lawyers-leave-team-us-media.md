@@ -48,7 +48,7 @@ related:
   - title: "Donald Trump hires new impeachment defense team after lead lawyers quit"
     excerpt: "Lawyers David Schoen and Bruce L Castor will head up new legal team after Butch Bowers clashed with Trump over strategy, according to reports"
     publishedDateTime: 2021-02-01T03:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports?fbclid=IwAR1CehP2UcP54onJss7YTtIsVkHv0UmcdVwKQoQOxsxIjrJaiX4QqNDK8Tw"
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
     type: article
@@ -108,6 +108,22 @@ related:
       - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump's shaken up legal team hints it will focus on constitutionality of impeaching a former president"
+    excerpt: "Former President Donald Trump announced two new attorneys who will lead his impeachment defense team: David Schoen and Bruce Castor"
+    publishedDateTime: 2021-02-01T16:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/31/trump-impeachment-trial-former-president-announces-new-legal-team/4334066001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4334066001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4334066001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/28/USAT/ff1998ed-2830-48d9-946f-989aadd22e10-AFP_AFP_8ZM6G6.jpg?auto=webp&crop=3431,1930,x0,y230&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Donald Trump spends final minutes in office at Mar-a-Lago, is first president to skip inauguration in more than 150 years"
     excerpt: "Trump's military send-off at Joint Base Andrews appeared smaller than expected. He left on Air Force One as Frank Sinatra's \"My Way\" played."

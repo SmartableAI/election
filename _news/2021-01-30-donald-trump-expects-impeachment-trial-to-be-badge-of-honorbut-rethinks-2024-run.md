@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump faces Tuesday deadline to deliver formal response to impeachment as trial looms"
+    excerpt: "Former U.S. President Donald Trump's unprecedented second impeachment trial takes shape this week, as Democrats outline their case and Trump scrambles to prepare a defense amid disarray on his legal team."
+    publishedDateTime: 2021-02-01T16:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A125Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A125Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A125Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549830767&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101A5"
+        width: 813
+        height: 545
+        isCached: true
   - title: "Capitol rioter \"horrendously smitten\" by Trump willing to speak at impeachment trial, lawyer says"
     excerpt: "The words of Trump supporters who are accused of participating in the riot may end up being used against him in his impeachment trial."
     publishedDateTime: 2021-01-30T12:22:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates"
 type: article
 quality: 141
-heat: 1181
+heat: 1221
 published: true
 
 provider:
@@ -437,6 +437,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden set to hold COVID-19 relief talks with Republican senators today"
+    excerpt: "President Joe Biden's call for unity will face its first major test Monday when he holds COVID-19 relief talks with Senate Republicans. This comes as lawmakers prepare for former President Donald Trump's second impeachment trial,"
+    publishedDateTime: 2021-02-01T16:48:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-set-to-hold-covid-19-relief-talks-with-republican-senators-today/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/01/65013ac8-04c7-4171-9085-170430d58532/thumbnail/1200x630/f72e570764608831ec16051611de9df8/0201-cbsn-eekeem-bidencovidtrumpimpeachment-637179-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z
@@ -614,6 +628,22 @@ related:
       - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Don’t Send Kamala Harris to Persuade Joe Manchin"
+    excerpt: "There are some early indications that Harris may be a liability in negotiations with members of Congress, even with members of her own party."
+    publishedDateTime: 2021-02-01T15:48:00Z
+    webUrl: "https://www.nationalreview.com/corner/dont-send-kamala-harris-to-persuade-joe-manchin/"
+    ampWebUrl: "https://www.nationalreview.com/corner/dont-send-kamala-harris-to-persuade-joe-manchin/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/dont-send-kamala-harris-to-persuade-joe-manchin/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/kamala-harris-biden-inauguration.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
         isCached: true
   - title: "What do Black women in rural NC think of Kamala Harris?"
     excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
@@ -806,6 +836,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "1nH/83sKG8kMW8cy2TcFy/RyiXSLBg/8BULkV6i35zIrX4hi3EAPWbLjMt0AJNHzX/yEDoG4xj0XEWC1+YPOcgDS8q5guvcxd4VECWtp1MSemkeNJ87NSPeA+SVc2RkDFMZ9GPH1htMOtha/JNuYhaO3IQKU1x1uEa9v3Fs/nmCPiWLiGcH/h7wSSt4DAHMh4BVDZr6eq95Vq+z9pE2/9q+Bkt1Hxw+qvFq2UZrNwb4GGbs5cpt3X8Rc1/aqwK/Ak2T50IgDCXBOKWDf+rhwBU8U2plhC0/1ZRMexZCBySv1Gw7YbBAo+7fztBBgQjQ3r3rRMBLGJEHvrLXdNXqxtLP2aPc8RixXis6rakPcAGY=;qvgFa1zosvVHBwi+T7VboA=="
+secured: "Ta5sn8gYhxHRTybUyQaqC3PouEwXK2fab8nos34+E7gB7AOQbdwHkklPP17P/CkoCSVLb0mGsMHMw9olEA3NbXViCYrhGSng5itY2YmGNouEE1F8PlRtrWsNbNPhS5waOsTs3LyU7+PB4UW1xN+KwfIi0IgQ+Zn5FP4O37ClHBIdpHip6zv1c46rgLkocIgQnaIeur3BlwpX8dkBn39+OIP+WoPBw/hSw285vAKGdt6HRktY3EpWOjro+VNVlqX+vh5HjzxwW5rFrI0m0H7QW25VC8l0G6GgEjvpzsKSwruyQoX/ITTFdK+7r9Pd4Kf27jghUSutvqV4RPyxz+RG+Pk+9R7ZToHODGrkP47892U=;scZxOYXPlCxy0NDjRX799g=="
 ---
 

@@ -2,25 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-01-trump-starts-2021-with-31-million-in-cash-for-new-pac.md",
-      "title": "Trump Starts 2021 With $31 Million in Cash for New PAC",
-      "excerpt": "The money, which is in the coffers of a newly formed leadership PAC called Save America, will be key to the former president’s efforts to retain his grip on the Republican Party.",
+      "path": "_news/2021-02-02-the-daily-202-kinzinger-says-republicans-need-an-intervention-to-kick-trump-habit.md",
+      "title": "The Daily 202: Kinzinger says Republicans need ‘an intervention’ to kick Trump habit",
+      "excerpt": "We’ve got to reject the dark conspiracy theories and lies,\" said the Illinois Republican, who is starting a PAC to break Donald Trump's stranglehold on the GOP.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-starts-2021-with-31-million-in-cash-for-new-pac-11612157129",
-      "originalUrl": "https://www.wsj.com/articles/trump-starts-2021-with-31-million-in-cash-for-new-pac-11612157129",
+      "webUrl": "https://www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
+      "highlight": null,
+      "heat": 138,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-292983/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A7RO4YTEB4I6XOVYOB7YO2OXQU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-starts-2021-with-31-million-in-cash-for-new-pac-11612157129",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-starts-2021-with-31-million-in-cash-for-new-pac-11612157129",
-      "publishedDateTime": "2021-01-31T21:29:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/?outputType=amp",
+      "publishedDateTime": "2021-02-01T08:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,8 +50,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Republican Voice"
+        "Donald Trump"
       ]
     },
     {
@@ -332,7 +327,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684",
       "featuredContent": null,
       "highlight": null,
-      "heat": 242,
+      "heat": 262,
       "tags": null,
       "images": [
         {
@@ -976,7 +971,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1028,7 +1023,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/gop-congressman-gaetz-trump-jr-urge-wyomingites-oust/story?id=75544628",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1184,7 +1179,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1630,
+      "heat": 1650,
       "tags": null,
       "images": [
         {
@@ -1545,7 +1540,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {

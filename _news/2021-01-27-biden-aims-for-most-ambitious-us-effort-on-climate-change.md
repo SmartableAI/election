@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oi
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 765
+heat: 785
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/83041318d569c710a4dfd65f2e0fcfe7e1812695/c=0-295-5666-3482/local/-/media/2021/01/27/USATODAY/usatsports/B9343114835Z.1_20210127021915_000_GL6S6QQJE.2-0.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Legislators, Online Petition Put Pressure on Biden to Support Recurring Stimulus Checks"
+    excerpt: "Kamala Harris supported recurring payments, and restaurant owner Stephanie Bodin, a creator of a Change.org petition, called for people to maintain pressure on legislators."
+    publishedDateTime: 2021-02-01T16:41:00Z
+    webUrl: "https://www.newsweek.com/legislators-online-petition-put-pressure-biden-support-recurring-stimulus-checks-1565829"
+    ampWebUrl: "https://www.newsweek.com/legislators-online-petition-put-pressure-biden-support-recurring-stimulus-checks-1565829?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/legislators-online-petition-put-pressure-biden-support-recurring-stimulus-checks-1565829?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1721509/stimulus-checks-recurring-biden-2000.jpg"
+        width: 3000
+        height: 2003
         isCached: true
   - title: "Biden is expected reinstate federal funding for abortions in an upcoming executive order"
     excerpt: "As part of a series of healthcare actions, President Joe Biden plans to back ending provisions that bar federal funds from being used for abortions."

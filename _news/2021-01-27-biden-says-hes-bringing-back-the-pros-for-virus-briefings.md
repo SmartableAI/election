@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-says-hes-bringing-back
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-says-hes-bringing-back-the-pros-for-virus-briefings/2021/01/27/2321ce2c-605f-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://i.insider.com/6011872f1d2df20018b71166?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The GOP stimulus proposal is nearly a third of the price tag of Biden's plan. Here's what's missing."
+    excerpt: "A group of Republicans introduced a stimulus plan that cuts many parts of Biden's original proposal, like a minimum wage increase and $1,400 checks."
+    publishedDateTime: 2021-02-01T16:15:00Z
+    webUrl: "https://www.businessinsider.com/gop-stimulus-proposal-third-price-tag-bidens-heres-whats-missing-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/gop-stimulus-proposal-third-price-tag-bidens-heres-whats-missing-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-stimulus-proposal-third-price-tag-bidens-heres-whats-missing-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/60181b296dfbe10018e0107e?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

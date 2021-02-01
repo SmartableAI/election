@@ -335,6 +335,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Legislators, Online Petition Put Pressure on Biden to Support Recurring Stimulus Checks"
+    excerpt: "Kamala Harris supported recurring payments, and restaurant owner Stephanie Bodin, a creator of a Change.org petition, called for people to maintain pressure on legislators."
+    publishedDateTime: 2021-02-01T16:41:00Z
+    webUrl: "https://www.newsweek.com/legislators-online-petition-put-pressure-biden-support-recurring-stimulus-checks-1565829"
+    ampWebUrl: "https://www.newsweek.com/legislators-online-petition-put-pressure-biden-support-recurring-stimulus-checks-1565829?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/legislators-online-petition-put-pressure-biden-support-recurring-stimulus-checks-1565829?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1721509/stimulus-checks-recurring-biden-2000.jpg"
+        width: 3000
+        height: 2003
+        isCached: true
   - title: "In first lawsuit against Biden administration, Texas AG Paxton challenges deportation freeze"
     excerpt: "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days."
     publishedDateTime: 2021-01-22T22:48:00Z

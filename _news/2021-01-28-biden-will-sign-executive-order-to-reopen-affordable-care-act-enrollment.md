@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here's what's in the Biden and GOP stimulus proposals"
+    excerpt: "President Joe Biden and a group of 10 Republican senators have very different ideas for the next coronavirus relief bill.\n    \n"
+    publishedDateTime: 2021-02-01T15:15:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8pMaZ_8BAB4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/stimulus-plans-biden-gop-comparison/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/stimulus-plans-biden-gop-comparison/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113173026-us-stimulus-check---stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's reversal of transgender military ban brings new hope to thousands"
     excerpt: "They dreamed of serving, and now they can after President Joe Biden lifted the Trump-era ban on most transgender Americans joining the US military.\n    \n"
     publishedDateTime: 2021-01-31T13:27:24Z

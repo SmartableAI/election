@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The GOP stimulus proposal is nearly a third of the price tag of Biden's plan. Here's what's missing."
+    excerpt: "A group of Republicans introduced a stimulus plan that cuts many parts of Biden's original proposal, like a minimum wage increase and $1,400 checks."
+    publishedDateTime: 2021-02-01T16:15:00Z
+    webUrl: "https://www.businessinsider.com/gop-stimulus-proposal-third-price-tag-bidens-heres-whats-missing-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/gop-stimulus-proposal-third-price-tag-bidens-heres-whats-missing-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-stimulus-proposal-third-price-tag-bidens-heres-whats-missing-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/60181b296dfbe10018e0107e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "XKOA8So2vULMlOcg+6NfYhMArE28Wr1NMnUSRAr0k6TFZM9/p60MFi5wLPT4Ki2Dh/bybWP4Wrh9e9mkbRAzF1nJUI3arHivuFZ5tjC9mG/tOUiLwY5H4Qyl5rZ4sR5cl+6e0tG4pReE1AiFscDwH3TSpwM+B5Peq7xewxtt0abC4dPmV/2FABm+WHwqntkjQBsFAoxICFAMuqzaV2ps8NBF1FG5ymR2T6Bc2JRm6zEzPb+StaQPJMjfSllfC4mIflFwhgrTfyEFkI0c5UP69ymO1wW4oOBpqftm6IYVJYGH3YyZUULh2+PPFWsiJjjnksVWN00bEeKOkxWm1GVAQrwneSwlxSfJWdy97r4k5U4VvfG0q07OoOFJRX+WTE4vUVfZDm8yqBsWms75QKgx5vkqhP49IeB9DzfOVGxq7BkSRcA48lEt/nuz+poxM6JGnSdUUsUe05KMOIl/2/6OBlvoy6kKJBwZ3/wRnOknNvLgso9BOvAv7aOmlGtI6hOIefmCuCQ8fumEgkDWMF9RVA==;xe9QOduBQ9wcYbv/tLBcug=="
 ---

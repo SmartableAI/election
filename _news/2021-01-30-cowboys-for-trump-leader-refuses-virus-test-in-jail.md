@@ -418,6 +418,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "GOP looks to future of party following Trump presidency"
+    excerpt: "The GOP is looking to the future of the party following the Trump presidency. Republican Party donor and CEO of oilfield services company Canary USA Dan Eberhart joins CBSN to talk about divisions within the party and its future."
+    publishedDateTime: 2021-02-01T16:45:00Z
+    webUrl: "https://www.cbsnews.com/video/gop-looks-to-future-of-party-following-trump-presidency/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/01/12dd56f6-4e50-4e3e-9d8e-61344ab8b209/thumbnail/1200x630/4ef79faf251a38a56ff602c99c6382fc/cbsn-fusion-gop-looks-to-future-of-party-following-trump-presidency-thumbnail-637171-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Trump could mount a presidential campaign even if he's banned from office"
     excerpt: "A Senate vote to bar former President Trump from public office may not be enough to stop him from running another White House campaign in 2024 — at least for awhile."
     publishedDateTime: 2021-01-27T15:08:00Z
