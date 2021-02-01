@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Facebook 'Supreme Court' To Judge Trump Suspension"
-excerpt: "Facebook and Instagram suspended Trump after his supporters stormed the US Capitol on January 6, an attack on the seat of democracy that led to Trump's second impeachment. The leading social network is referring the decision to its independent oversight board -- known informally as the Facebook \"supreme court\" -- with the authority to make binding rulings even chief executive Mark Zuckerberg must abide by."
-publishedDateTime: 2021-01-22T01:11:00Z
-originalUrl: "https://www.ibtimes.com/facebook-supreme-court-judge-trump-suspension-3127721"
-webUrl: "https://www.ibtimes.com/facebook-supreme-court-judge-trump-suspension-3127721"
+title: "Trump Impeachment Lawyers Named After 5 Members Of Defense Team Quit"
+excerpt: "Five of Trump's impeachment lawyers had left his legal team after he refused to steer away from using mass election fraud as his defense strategy."
+publishedDateTime: 2021-02-01T02:36:00Z
+originalUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-named-after-5-members-defense-team-quit-3134480"
+webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-named-after-5-members-defense-team-quit-3134480"
+ampWebUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-named-after-5-members-defense-team-quit-3134480?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-lawyers-named-after-5-members-defense-team-quit-3134480?amp=1"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/donald-trump-is-seen-addressing-supporters-flooding-the.jpg"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
     width: 1024
-    height: 682
+    height: 716
     isCached: true
 
 related:
@@ -61,23 +63,21 @@ related:
         width: 835
         height: 724
         isCached: true
-  - title: "Trump Impeachment Lawyers Named After 5 Members Of Defense Team Quit"
-    excerpt: "Five of Trump's impeachment lawyers had left his legal team after he refused to steer away from using mass election fraud as his defense strategy."
-    publishedDateTime: 2021-02-01T02:36:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-named-after-5-members-defense-team-quit-3134480"
-    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-named-after-5-members-defense-team-quit-3134480?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-lawyers-named-after-5-members-defense-team-quit-3134480?amp=1"
+  - title: "Facebook 'Supreme Court' To Judge Trump Suspension"
+    excerpt: "Facebook and Instagram suspended Trump after his supporters stormed the US Capitol on January 6, an attack on the seat of democracy that led to Trump's second impeachment. The leading social network is referring the decision to its independent oversight board -- known informally as the Facebook \"supreme court\" -- with the authority to make binding rulings even chief executive Mark Zuckerberg must abide by."
+    publishedDateTime: 2021-01-22T01:11:00Z
+    webUrl: "https://www.ibtimes.com/facebook-supreme-court-judge-trump-suspension-3127721"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 75
+    quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/donald-trump-is-seen-addressing-supporters-flooding-the.jpg"
         width: 1024
-        height: 716
+        height: 682
         isCached: true
 
-secured: "RBj3Ge0OQ3qrq4tLUm/dyPUtSbZ/p4XMyjunFhhzxeY4CVAi8+6gkEZ1IOV9D8CZvBVSh0Z4nHaU/xzwfqu0w8G8owa2OpFkKOi1DfKTdzjZYzwIMTzhPs5akBp7Ah4+vLoboxkeX8DxqSLJwcpc0ZZ4rhY/oj0UqT6IqiMj+tUNjlYQKartZ/rEAk8/iZFTJPXklfND7mtlybtXVUHCvaPbckNXnbtu8C+mPSWBbXcNLZKAgZaDFyAC9KX1bIQfNu+V3yySyMrmdjwz9BX2GCh1jZtEofHNBZsweJ9zA/Gwez9T9k4D5L48PamO6Gw2xgvfMCcZbMy41OpT2+DTgjP0K638lXuSmsJsT9bax7o=;aMJnYnkoK+4B4LtKNpJdKg=="
+secured: "H3AkLaq0a4zxciXznKjRdaNaJxCBzSE5z3szRHG2iA9r6FkGJX6MX6ILS9+FDhdE9PtQ3BFdfBVtn2k5Tpm9qTzhc5sgoBAvKm3i+G1QzXm38Ueo5p3xPGQ8yyNh3Ju5HVUcSVokllaVvNOOYlCZJsa3FvZsDuMQXrd9VFOQWTo0YE+XYUKTp0RhjAJR5b2/nRtl/pv58zDO3oBnI2dcjF82sNVvYbyNgZBLkMOUrPrGbzFBcCiIvc73V9QcCJpIcTR1tKeXkXYsMUoJfVVhqGTZu69Hsqq0QlmXu0aJKY7t5Bk6W+DRVDwk0DphrvMRdugHp6HGTqCCxnCFBkBpJUsnUdSGH8lJNWr8clLL8B0=;aJLr+cpdT3UYy5I9fBM6iw=="
 ---
 

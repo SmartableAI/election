@@ -1,20 +1,24 @@
 ---
 category: news
-title: "Trump, legal defense team part ways as Senate impeachment trial looms"
-excerpt: "Former President Donald Trump and his legal team parted ways a little more than a week before his impeachment trial was scheduled to begin in the Senate on a charge that he incited the riot at the"
-publishedDateTime: 2021-01-31T13:46:00Z
-originalUrl: "https://nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/"
-webUrl: "https://nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/"
-ampWebUrl: "https://nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/amp/"
+title: "Trump Adds New Lawyers for Impeachment Trial After Lead Attorneys Exit"
+excerpt: "David Schoen and Bruce Castor are set to lead former President Donald Trump’s defense at his Senate impeachment trial after his previous attorneys left the team."
+publishedDateTime: 2021-02-01T00:31:00Z
+originalUrl: "https://www.wsj.com/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087?mod=hp_listb_pos2"
+webUrl: "https://www.wsj.com/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087?mod=hp_listb_pos2"
+ampWebUrl: "https://www.wsj.com/amp/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -22,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-18.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://images.wsj.net/im-292978/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -76,21 +80,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump Adds New Lawyers for Impeachment Trial After Lead Attorneys Exit"
-    excerpt: "David Schoen and Bruce Castor are set to lead former President Donald Trump’s defense at his Senate impeachment trial after his previous attorneys left the team."
-    publishedDateTime: 2021-02-01T00:31:00Z
-    webUrl: "https://www.wsj.com/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087?mod=hp_listb_pos2"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
+  - title: "Trump, legal defense team part ways as Senate impeachment trial looms"
+    excerpt: "Former President Donald Trump and his legal team parted ways a little more than a week before his impeachment trial was scheduled to begin in the Senate on a charge that he incited the riot at the"
+    publishedDateTime: 2021-01-31T13:46:00Z
+    webUrl: "https://nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/"
+    ampWebUrl: "https://nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/31/trump-legal-defense-team-part-ways-as-senate-impeachment-trial-looms/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: New York Post
+      domain: nypost.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-292978/social"
-        width: 1280
-        height: 640
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-18.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump announces new impeachment legal defense team"
     excerpt: "Former President Donald Trump announced his new impeachment legal team on Sunday night after parting ways with his previous lawyers due to a disagreement over his defense strategy. Trial lawyers"
@@ -109,6 +113,6 @@ related:
         height: 800
         isCached: true
 
-secured: "/kT6GIFO+e00I6DRrnTcN5guV+G/BCx+7DNhdcHTKMuCs0Pg87pj2MhPHnd/q7c/aadb2zJK4eT6/KrhEZ1cnh0A3QM/ZOTS7m8oxLBIIY5VG5OhKttDybhJtEccUWoLEcS2CL3Ew07vNqr02Py8yBJz3IBcxWzeDTF2rIRlySOpAZH0Sq20sNZV+kPMecwf3TO3IK3oceZCGdfri2G+UO7SQjbSGc7wRbIgyS8HWsXiJvVR7728jX/7lKuHpS6hpEEurW3QWs1lmikb7n905neIVMnh0lqVra4FABQxZQJf1mqQXFt6tsMlAfhm9n1GUbUAMhlB+tTZQ0RRFO5MztrSLgolFn13QDOmw2o1YQM=;1I0XYEVVebYZO9S0l/fBoQ=="
+secured: "RYOejt9uNu7ajQPdfpbLAAsaDRR2MqMWDzHbOWcwVQgZG+DzgvBDmZzuLs6n7UOwQp+9Pddlqb0yFqLYczghp9cN3769zbtyp3VzlwTdFaIfi/OllxaFwcms2C7ZC2TZIkFqbtEOAniwcmnB6iTd2g5aeukUtGuDZNAhCDrnruw3GlVpMGdK4Imjz+74zc0mY5ASf9OcSrOANr0QWxFJxN8Q4vbL0apCtdKlMxkfA/DWeGbtiUnjd419Menr69uKF9uMPJyolle8cGMT6wR+fmoyrC//RIw2HyaiAp2wB9V+t9Iv+VYS1i7tta47cNA4JT8wSDNtvyINnrlwbZAvCmnJjKE4YnyrgxCnWBAWdeQ=;mcAZafkI6R1mBbbjsXD+Bg=="
 ---
 

@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Adds New Lawyers for Impeachment Trial After Lead Attorneys Exit"
+    excerpt: "David Schoen and Bruce Castor are set to lead former President Donald Trump’s defense at his Senate impeachment trial after his previous attorneys left the team."
+    publishedDateTime: 2021-02-01T00:31:00Z
+    webUrl: "https://www.wsj.com/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087?mod=hp_listb_pos2"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-292978/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump announces new impeachment legal defense team"
     excerpt: "Former President Donald Trump announced his new impeachment legal team on Sunday night after parting ways with his previous lawyers due to a disagreement over his defense strategy. Trial lawyers"
     publishedDateTime: 2021-02-01T01:23:00Z

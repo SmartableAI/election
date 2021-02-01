@@ -92,7 +92,23 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Adds New Lawyers for Impeachment Trial After Lead Attorneys Exit"
+    excerpt: "David Schoen and Bruce Castor are set to lead former President Donald Trump’s defense at his Senate impeachment trial after his previous attorneys left the team."
+    publishedDateTime: 2021-02-01T00:31:00Z
+    webUrl: "https://www.wsj.com/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087?mod=hp_listb_pos2"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-adds-new-lawyers-for-impeachment-trial-after-lead-attorneys-exit-11612143087"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-292978/social"
+        width: 1280
+        height: 640
+        isCached: true
 
-secured: "C1EtwdCZ5cB2jhTo5auEQQGRDDS4s3mAdfXkKps1Y+EoBqoDaDingRFiWxohm3eVa/ZhfLHCAewjJLy5xesvt5VbQUt+PLA0wWeMLqsElBDUdUJ7Q7umad3+wMPEFKGf+fJsd8v163USelMQKmoYgDAKK2R53yRslZ//AfaCjK9dN1RuCDqbdi942a63fl0ETuABZphJ1wp14aJsMicKbOKBjL2/07+CXOrcYqbu9zXYQpzBoKa4pDCQsae6xuHx0tdY3mgDE94n1Y+AdUixCbIHSYjWYc5o9qGo3LT+fXVe5UliP2qVLTsKRh6IqSM6pEqAQQnSTkBL/3JUUhjO9gQUHRtuA6j3iufvtZngjvU=;YHHCkz2RXmkt5rll2imSFw=="
+secured: "NXU5ydBpP1SNzNR9IV+XnNzMaqtrwczo27MvkbFVxWMXnz3QtQD/IMTZQVqCnbeP9G9fgpg+iUyqvgrPv39iSLUqL4SHrHBWw5+bXnjfbkF21YY5WtZnYg8TlgcS5kOyPBRxcLiGDK+ZvqhGYNYAxsd0An9s3txRnCGzvJiolhtJyy4zMq+DsaBAQL/wS2cyioSoOZsnU73AE6du1tvCw9Xx9dxhlwu6sR5GdQdhREVppUcATtCFQlHeBK4epK2/CI/haAazJjIHfQXcbfdChcGkM3+IWi3ag0GaV4wgzChj+piHXnsEKDjffNw9tg3k1kXDMwqqWQE/Z60M//iGQDnmpMB+zmaUEziZlzLj0Gxj1tLndeBABQ9+Pxz4JChQKgqGb5luKXWmeOAsxVQkr89ySLmcx7ZWqtfR0TR/Q4SFEqr0Dd731bUApzmPzMdq3SHehiKzCFTsjwaFy8tH5E8aktiKgY5zd/i6OGiOO9CzYeebt24G5zd/wos10Tnt9uH0bCf2yQ8eSzNi0qh8OA==;D+OFYoOOgydqcHAy9oTZsA=="
 ---
 

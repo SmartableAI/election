@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Joe Biden has set sky-high expectations. Can he meet them?"
-excerpt: "Back when the election was tightening and just a week away, Joe Biden went big. He flew to Warm Springs, the Georgia town whose thermal waters once brought Franklin Delano Roosevelt comfort from polio,"
-publishedDateTime: 2021-01-19T13:39:00Z
-originalUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html"
-webUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html"
-ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
-cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
+title: "Biden invites GOP lawmakers to White House virus relief talk"
+excerpt: "President Joe Biden is inviting to the White House a group of 10 Republican senators who have proposed spending about one-third of what he is seeking in coronavirus aid"
+publishedDateTime: 2021-02-01T03:03:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Cleveland.com
-  domain: cleveland.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KMV2GSVBLRBFXG6Q3CXUGLMWEE.jpg"
-    width: 1024
-    height: 683
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -154,22 +158,6 @@ related:
       - url: "https://i.insider.com/6011872f1d2df20018b71166?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Biden invites GOP lawmakers to White House virus relief talk"
-    excerpt: "President Joe Biden is inviting to the White House a group of 10 Republican senators who have proposed spending about one-third of what he is seeking in coronavirus aid"
-    publishedDateTime: 2021-02-01T03:03:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Biden to reopen Obamacare markets to offer medical coverage during pandemic"
     excerpt: "President Biden plans to reopen the HealthCare.gov markets for a special sign-up opportunity for people without medical coverage in the pandemic."
@@ -558,6 +546,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden has set sky-high expectations. Can he meet them?"
+    excerpt: "Back when the election was tightening and just a week away, Joe Biden went big. He flew to Warm Springs, the Georgia town whose thermal waters once brought Franklin Delano Roosevelt comfort from polio,"
+    publishedDateTime: 2021-01-19T13:39:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KMV2GSVBLRBFXG6Q3CXUGLMWEE.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Mine just south of Oregon-Nevada line may boost Joe Biden’s energy plan"
     excerpt: "One of the keys to President Joe Biden’s $2 trillion clean energy plan could be a mineral that lies in a salt flat above a prehistoric volcano just south of the Oregon-Nevada line."
     publishedDateTime: 2021-01-23T17:26:00Z
@@ -605,6 +609,6 @@ related:
         height: 800
         isCached: true
 
-secured: "f2gC42+5hUihY3XHtRQ9f1qCPFVyKSPR1DiNYKUoCSY5iq9/NcC5B7HvoUvZbPj4jzSHAx/yofZcksIl//tLZgXGqs1kbCn9LMdjL3xaTPceQkDwxU4KyWspseJu7+pVFQOlUcDJozrzeeifztQnWBIL+fe79luRAmKVJffzgUFZJtsxHKACnnxsh+Fn+4CKVCDp3Q4zk+o/Q+JPkHN4dm9FGXkulC6GP2LeKWtNUf8a729Ms8QB+r0QGo5uQSgUQa2nnrsa6NGekBKHSXo2Br+T1jXg9AxsL88kT7eqV9qvf19zv9Bbccz94vmUlBHOSwvlrSSgz7UV6TdR5Jmm5b+HYLv7CJei09pik6peebimK+5f2ZvJ2hmur0Cp3SRWOd0XVZscCIr66ipDtKWdjUs8Ee59JUbCmP5TDt3O0lYO9fmsSdbl+G6wb9nxmJzS6sEFAI3LMrTImcq0GGl7GkaxBPRQiFMqyJxufd4rxN0utJP4h5iCBqsqGEcYTnIO1mc5oOyV0/jjM4LlKKW08Q==;XR/LLafF11Z5eq6Q1TXsTQ=="
+secured: "0gpf8LN9hxb4EFUlheoYlJJmUs4BtErtf1gMMGWgRGgqz8Y8WxYWtm5vf9lw3waG92tQC+EMfiMuNK4MWgG2tsSzenGoKhi6O6WlTg+a9FqItaqhYqB8dF9iY+01LgY92+Dq8ePAAsxE0h6lTB0iAl2qSqmHhKjHqXS/AbBvGKXjINv6ywe5FD6gvv2SgFexkmUh9iRNdj3099U1Qd6Dg/4TMGqm9IH3CL6YqSsE88tvHb3uQthSx3EOxI3NA1wPGAMYI0/IDthfwLMYnm536L1q1TKkolD7U81Q4NTqxn9p3h5z3XnvITFA3z4AxKyacLXVaacjRaDubp1XgIXYcGK6W89ZEIjJ20xdIOKu4rc=;JH3SBRKq1WWF8Tu3AosI9A=="
 ---
 

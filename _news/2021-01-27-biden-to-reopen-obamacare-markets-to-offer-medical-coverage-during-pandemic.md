@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden invites GOP lawmakers to White House virus relief talk"
+    excerpt: "President Joe Biden is inviting to the White House a group of 10 Republican senators who have proposed spending about one-third of what he is seeking in coronavirus aid"
+    publishedDateTime: 2021-02-01T03:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Joe Biden to Sign 3 Executive Orders on Climate Change—Here's What They Do"
     excerpt: "The actions are the president's latest moves in an effort to address campaign promises and appease his supporters."
     publishedDateTime: 2021-01-27T16:49:00Z
