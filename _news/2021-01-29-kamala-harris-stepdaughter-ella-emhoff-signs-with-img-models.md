@@ -153,6 +153,22 @@ related:
         width: 1365
         height: 2048
         isCached: true
+  - title: "Fact check: Kamala Harris and Willie Brown had a relationship over a decade after he separated from wife"
+    excerpt: "Posts shared on Facebook show Vice Presidential Kamala Harris with former San Francisco Mayor Willie Brown, describing the image as “married 60 year old (sic) Willie Brown” and “his 29 year old"
+    publishedDateTime: 2021-02-01T14:46:00Z
+    webUrl: "https://www.mercurynews.com/2021/02/01/fact-check-kamala-harris-and-willie-brown-had-a-relationship-over-a-decade-after-he-separated-from-wife/"
+    ampWebUrl: "https://www.mercurynews.com/2021/02/01/fact-check-kamala-harris-and-willie-brown-had-a-relationship-over-a-decade-after-he-separated-from-wife/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/01/fact-check-kamala-harris-and-willie-brown-had-a-relationship-over-a-decade-after-he-separated-from-wife/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 58
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/brown_harris_list.jpg?w=940&h=631"
+        width: 940
+        height: 631
+        isCached: true
 
 secured: "xyiBhU1UyNCFSd1Ex/S+rIZvK9ZJslTnxce6nW6emInjtQlpjIZP816LzA5jvKnHL6MutxeskTEI4n3gGKvBfJMxDxFLmc6P3fQCMg3cfIfe5N4/f8F17P3McWsDYLz9Uo25vrVS+RukIsYm6nZIBES+gsP5xoQSSHiDgKPBaroPftkMYHQ1hvcJdVdtCU6T0RmgDWcEih1KegDl1uo+ma/FYDjrNewh6HF21ak4s8xmCiUCSk1P7SbmOCoqeoM57wYZEUqDeJKCLMeeV2R8TlXEntJp7i6PLmIO0+0FlhPNQRVXJr/ErFY50B95QDbs++Itpmj+FI02qChjhQUVnySwVR9P2nRw1D0UzCgax2qJ2aKthfXoQ15pIO0QtbiL9lhONwfxwT4Wy9F4tMHBt/yMlLGYI1QqWr+Uqc59+hkGmCwRmTBvn/GGzId7fdesIEbs0CksLKtaX5m9VoYR9kuuO5nM8zdfwsQ+dXa0DVrNc7AYVlP8uF7ok239y0vhZ1NPy8xmfZvYn4FXNMVSsQ==;vIw8vhWyplM9wiBasarPDA=="
 ---

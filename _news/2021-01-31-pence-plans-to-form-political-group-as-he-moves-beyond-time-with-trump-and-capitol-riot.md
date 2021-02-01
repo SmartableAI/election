@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-gr
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
 type: article
 quality: 132
-heat: 812
+heat: 832
 published: true
 
 provider:
@@ -515,6 +515,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CFCWJBCEGNBDZJCBFMKGIX5HIM.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "'Cult Of Trump': Why These Politicians Are Leaving The GOP"
+    excerpt: "Traditional Republicans are turning away from the party over its blind loyalty to former President Donald Trump."
+    publishedDateTime: 2021-02-01T13:39:00Z
+    webUrl: "https://www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916"
+    ampWebUrl: "https://www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/us-president-donald-trump-waves-as-he-boards.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Trump parts with impeachment lawyers a week before trial"
     excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his Senate trial is set to begin, two people familiar with the situation said Saturday. Butch Bowers and Deborah Barbier,"

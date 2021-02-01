@@ -528,6 +528,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "'Cult Of Trump': Why These Politicians Are Leaving The GOP"
+    excerpt: "Traditional Republicans are turning away from the party over its blind loyalty to former President Donald Trump."
+    publishedDateTime: 2021-02-01T13:39:00Z
+    webUrl: "https://www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916"
+    ampWebUrl: "https://www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/us-president-donald-trump-waves-as-he-boards.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "House To Send Trump Impeachment Article To Senate, Triggering Trial"
     excerpt: "The US House of Representatives is to deliver a single article of impeachment to the Senate on Monday accusing Donald Trump of inciting the storming of the Capitol, triggering the first-ever impeachment trial of a former president."
     publishedDateTime: 2021-01-25T17:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-h
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/16/31/41/20551801/5/rawImage.jpg"
         width: 1365
         height: 2048
+        isCached: true
+  - title: "Fact check: Kamala Harris and Willie Brown had a relationship over a decade after he separated from wife"
+    excerpt: "Posts shared on Facebook show Vice Presidential Kamala Harris with former San Francisco Mayor Willie Brown, describing the image as “married 60 year old (sic) Willie Brown” and “his 29 year old"
+    publishedDateTime: 2021-02-01T14:46:00Z
+    webUrl: "https://www.mercurynews.com/2021/02/01/fact-check-kamala-harris-and-willie-brown-had-a-relationship-over-a-decade-after-he-separated-from-wife/"
+    ampWebUrl: "https://www.mercurynews.com/2021/02/01/fact-check-kamala-harris-and-willie-brown-had-a-relationship-over-a-decade-after-he-separated-from-wife/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/01/fact-check-kamala-harris-and-willie-brown-had-a-relationship-over-a-decade-after-he-separated-from-wife/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 58
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/brown_harris_list.jpg?w=940&h=631"
+        width: 940
+        height: 631
         isCached: true
 
 secured: "3nweCpxxUT+8X4PpoiaRivLgv/1MzIOKBdw1Y8T0DOL47F70LZFvQUw2RI5UnS9VBlmQygAm70KOu5/cQxf3Qv0ab/L613+sOQp/AZ1Z27WW1NB8XJi//tLrZvw37dXy6bHkPBCgAmjRb7DK6bW+PAZIWx9A9N0php14l1JUCbVO7CgsmjQQuOqCqhid+Rv//EyDrWj8k966cJAdtuJfUwmhDOjW3i7J41YfUpdCbQHTtAE5ay3/yqC5srYXr1BHkH9RVFI/f19GDujIHOHrqtqazDjLHfPIg704oAJSRQgxCbU9YNSyj1hipaRAvyeOlkWdQcV+aAZE5swY1ptAsPfwSXhzTWHvexFXR/rLu+kgwBPlN6+0Idin8NljvMroqU8l6LeZroa+ujs5uYhj2GvxM9ey2cXvLhfC3hCl/f+AnBf5RX+Ktk6gpe+XyQb3+jfav/B8xMZZbI5H9NMoFsBA59/86Wr83uOYWyPwnEDn805IAbUdYqVSiCj2mQWAhiem8LaJZWZjHnWcZLmQPA==;PhGRbFCAuCHBJvqZFYqkKg=="

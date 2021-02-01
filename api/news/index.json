@@ -2,19 +2,75 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-01-bruce-castor-what-to-know-about-trump-impeachment-defense-attorney.md",
+      "title": "Bruce Castor: What to know about Trump impeachment defense attorney",
+      "excerpt": "Former President Donald Trump on Sunday announced his new legal team for his upcoming Senate impeachment trial, featuring attorney Bruce Castor.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7sLKOU7Qfm4/bruce-castor-trump-impeachment-defense-attorney-what-to-know",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7sLKOU7Qfm4/bruce-castor-trump-impeachment-defense-attorney-what-to-know",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Bruce-Castor.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp",
+      "publishedDateTime": "2021-02-01T05:55:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-biden-and-harris-to-meet-republican-senators-to-push-for-covid-aid-package-live-updates.md",
       "title": "Biden and Harris to meet Republican senators to push for Covid aid package – live updates",
       "excerpt": "lawmakers have offered across the aisle agreement on a much-reduced economic package",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates?page=with:block-6017c9778f085e2bcdae32b4",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates?page=with:block-6017c9778f085e2bcdae32b4",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates?page=with:block-6017d5038f08b970c73037d1",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates?page=with:block-6017d5038f08b970c73037d1",
       "featuredContent": null,
       "highlight": null,
       "heat": 1181,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/c2e3f59479f0dbf70618b2575a37d3ed18390aad/34_0_5966_3580/master/5966.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=649cab330f0fd870c64587edf12cfc46",
+          "url": "https://i.guim.co.uk/img/media/6035035ba5e9837aa0e255758836913a8f6571c2/0_397_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5da04b91e594dbf24221c7c05d74471f",
           "width": 600,
           "height": 360,
           "title": null,
@@ -341,7 +397,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-fundraising-20210131-h5cksn4i3zhdleefoux4ddyk5q-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 716,
+      "heat": 736,
       "tags": null,
       "images": [
         {
@@ -756,7 +812,7 @@
       "originalUrl": "https://www.cnbc.com/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 812,
+      "heat": 832,
       "tags": null,
       "images": [
         {
@@ -1272,63 +1328,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-white-house-facing-optics-issue-with-kamala-harris-ambitious-niece.md",
-      "title": "White House facing optics issue with Kamala Harris’ ambitious niece",
-      "excerpt": "Meena Harris, the industrious and outspoken niece of Vice President Kamala Harris, is creating an optics issue for the White House. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IaFzSOHW4IE/white-house-optics-issue-kamala-harris-niece",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IaFzSOHW4IE/white-house-optics-issue-kamala-harris-niece",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Meena-Harris-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-optics-issue-kamala-harris-niece.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-optics-issue-kamala-harris-niece.amp",
-      "publishedDateTime": "2021-01-30T12:29:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     }

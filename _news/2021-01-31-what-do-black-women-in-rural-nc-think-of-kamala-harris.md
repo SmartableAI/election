@@ -26,7 +26,7 @@ related:
   - title: "Biden and Harris to meet Republican senators to push for Covid aid package – live updates"
     excerpt: "lawmakers have offered across the aisle agreement on a much-reduced economic package"
     publishedDateTime: 2021-02-01T10:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates?page=with:block-6017c9778f085e2bcdae32b4"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates?page=with:block-6017d5038f08b970c73037d1"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates"
     type: article
@@ -35,7 +35,7 @@ related:
       domain: theguardian.com
     quality: 141
     images:
-      - url: "https://i.guim.co.uk/img/media/c2e3f59479f0dbf70618b2575a37d3ed18390aad/34_0_5966_3580/master/5966.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=649cab330f0fd870c64587edf12cfc46"
+      - url: "https://i.guim.co.uk/img/media/6035035ba5e9837aa0e255758836913a8f6571c2/0_397_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5da04b91e594dbf24221c7c05d74471f"
         width: 600
         height: 360
         isCached: true

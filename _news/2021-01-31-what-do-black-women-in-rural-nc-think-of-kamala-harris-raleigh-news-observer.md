@@ -67,6 +67,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "'A visual turning point': Myrtle Beach-area women react to Kamala Harris' inauguration"
+    excerpt: "Kamala Harris' inauguration impacted many women across the country and Grand Strand, symbolizing a new chapter for public life, politics and social justice."
+    publishedDateTime: 2021-01-30T14:00:00Z
+    webUrl: "https://www.postandcourier.com/myrtle-beach/a-visual-turning-point-myrtle-beach-area-women-react-to-kamala-harris-inauguration/article_e1d3147e-60c4-11eb-9daf-f75c8feaecf7.html"
+    type: article
+    provider:
+      name: Post and Courier Charleston
+      domain: postandcourier.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/0/07/00710fc0-60c6-11eb-a2fb-03e06b985b97/600872e2853cb.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "rEzy7sWfcWOKj/tMty+lAzl9VzzM3KftUX4BEyk/WvHq8YzHEBBB/cdlpUA4AHJoHVDxHLBQVbRW/rOoEVojY/L34ZZwO5qul1JKhEq2XxwNJ9tnulOVeaQ+Ajvq7FxB/s59m5qob6QqSrY76XSTLUsD7yc6hOFkh0yFFZwcCTIZ5lIjyI25fpCSP6Irn3nrpt0NauYV59WAsuzghhS44sXjzqlYTDX/T2k97+cgeV/nVRwitxBsoVLr9h5sn80MxFDWZHbhOw6y9plF+w/Bn8nX6lLerwrNkLQd/AsrfBjU4nJFN6b/TxkAG0KsTViD6+lbn2SJ7JwkM7r3IMtrsU5WHZ4/sC0W+CJqkC3qNd87dmWJQdWrjXsq2Cl/B+J/be+MdCFG4E5DiA4NB+e+cCmll8FZbZqjIoGswYQin0OUmBjczRrdXEhCH0qsvhiRU06Dv1INBksO+qUYejJVO/VK5837ff822YjODTMLTdKvA7Kzt1uqiVM5gCEAiP2li7AuJH0fX5aVgG5d3YUR9A==;HIUIHLJOVVsCrHMj/PQ6qg=="
 ---

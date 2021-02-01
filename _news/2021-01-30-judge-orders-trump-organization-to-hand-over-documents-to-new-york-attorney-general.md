@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/new-york-judge-trump-organization-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-judge-trump-organization-documents.amp"
 type: article
 quality: 169
-heat: 189
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Georgia U.S. Attorney Pushed to Resign by Trump Aides Rejoins Law Firm"
-    excerpt: "The former top federal prosecutor in Atlanta, whom White House officials pushed to resign earlier this month because then-President Donald Trump was upset he wasn’t doing enough to investigate unproven claims of election fraud,"
-    publishedDateTime: 2021-01-22T16:03:00Z
-    webUrl: "https://www.wsj.com/livecoverage/biden-presidential-inauguration-2021/card/7PuV1qsDSei2ZphFlq6v"
+  - title: "Bruce Castor: What to know about Trump impeachment defense attorney"
+    excerpt: "Former President Donald Trump on Sunday announced his new legal team for his upcoming Senate impeachment trial, featuring attorney Bruce Castor."
+    publishedDateTime: 2021-02-01T13:55:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7sLKOU7Qfm4/bruce-castor-trump-impeachment-defense-attorney-what-to-know"
+    ampWebUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://images.wsj.net/im-288916?size=1.5"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Bruce-Castor.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
+    excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."
+    publishedDateTime: 2021-01-27T18:48:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/shynNZ2LIwA/trump-impeachment-lawyer-karl-butch-bowers"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
         width: 1280
-        height: 853
+        height: 720
+        isCached: true
+  - title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
+    excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."
+    publishedDateTime: 2021-01-27T18:51:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "aiLCIJJR4EPioBz/FPTNKbO3re0CoJ3tnYOXCtYpR2rdyVTLCGvpI4ef2ugNC0vlRO9gCT0N1JgHcQ/sLukM+GZJdIifDN26UCaACMv8w5IcqjXKAdJh4La+0jwo6i+RLGDVP9Zn0n4r6Zihrs3CkwHF8T3SfjWTkktTOVY6eRSMJkr9XMnhtwJulDY7QXnBjfKt+psyRf3az9MZ1K7C1l2yKmWsxFGlhXmlqSFiZ4/+nycJehS3eTXbQKz0NnKCe4Ec4nKIzwlYFfyH4/X7uL6wEbPsgLK3bRYiDC78ta26QVKUplX9soY/vLJ515zcwUnzvGPluN7enk2evFNfs17dHbc/B3M+iZdChwGoEMg=;yNIUyZBjlcfzrMlGbUontQ=="

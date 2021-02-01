@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "'Saturday Night Live' critics say show avoided Joe Biden, Kamala Harris in first show of 2021"
+    excerpt: "Live” returned from its winter break with a slightly different approach to covering politics that many critics immediately noticed."
+    publishedDateTime: 2021-02-01T13:41:00Z
+    webUrl: "https://www.foxnews.com/entertainment/saturday-night-live-critics-accuse-show-avoiding-joe-biden-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/entertainment/saturday-night-live-critics-accuse-show-avoiding-joe-biden-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/saturday-night-live-critics-accuse-show-avoiding-joe-biden-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Saturday-Night-Live-NBC.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris’ stepdaughter Ella Emhoff signs contract with IMG Models"
     excerpt: "The vice president’s stepdaughter is going into modeling. On Thursday, IMG Models announced that it is now representing Ella Emhoff, Vice President Kamala Harris’ stepdaughter. Emhoff, 21, is a senior at Parsons School of Design in New York City,"
     publishedDateTime: 2021-01-28T23:56:00Z
@@ -63,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020678397504.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Sen. Manchin slams Kamala Harris for pressuring senators to back COVID-19 bill"
+    excerpt: "Democratic Sen. Joe Manchin slammed Vice President Kamala Harris ahead of her meeting with a group of Senate Republicans Monday on passing bipartisan COVID-19 relief."
+    publishedDateTime: 2021-02-01T13:09:00Z
+    webUrl: "https://nypost.com/2021/02/01/manchin-rips-harris-for-pressuring-senators-to-back-covid-bill/"
+    ampWebUrl: "https://nypost.com/2021/02/01/manchin-rips-harris-for-pressuring-senators-to-back-covid-bill/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/01/manchin-rips-harris-for-pressuring-senators-to-back-covid-bill/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/manchin-kamala.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "L.A. Times’ special Kamala Harris section called out by media critics: 'Blatant PR campaign'"
     excerpt: "The Los Angeles Times’ fawning coverage of Vice President Kamala Harris has been labeled “inappropriate and disappointing” by critics, some comparing it to the way state-run media would treat leaders in authoritarian nations."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-fundrais
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-fundraising-20210131-h5cksn4i3zhdleefoux4ddyk5q-story.html?outputType=amp"
 type: article
 quality: 136
-heat: 716
+heat: 736
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7H52OUTEIEI6XBDIEG6ER4D74U.jpg&w=1440"
         width: 1440
         height: 964
+        isCached: true
+  - title: "Trump's PAC has over $31 million stockpiled as he heads into his second impeachment trial"
+    excerpt: "There aren't many restrictions on how the donations to the PAC could be spent, so Trump could use the funds for himself."
+    publishedDateTime: 2021-02-01T08:35:00Z
+    webUrl: "https://www.businessinsider.com/trumps-pac-has-over-31-million-stockpiled-ahead-impeachment-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trumps-pac-has-over-31-million-stockpiled-ahead-impeachment-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pac-has-over-31-million-stockpiled-ahead-impeachment-trial-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/60178f66d6c5e60019c6e29a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Live Updates: Senate rejects GOP motion to declare Trump impeachment trial unconstitutional"
     excerpt: "Senators were sworn in as jurors on Tuesday in the second impeachment trial of former President Donald Trump for inciting an insurrection, with proceedings scheduled to get underway in two weeks. Senator Patrick Leahy,"
