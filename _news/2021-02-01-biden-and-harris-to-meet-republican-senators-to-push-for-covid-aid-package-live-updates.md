@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates"
 type: article
 quality: 141
-heat: 1221
+heat: 1241
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549731076&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U0C7"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
+    excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."
+    publishedDateTime: 2021-02-01T20:31:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/biden-to-meet-republicans-on-covid-19-plan-in-test-of-bipartisan-approach-idUSKBN2A12TV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A12TV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A12TV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549878405&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101NY"
+        width: 819
         height: 545
         isCached: true
   - title: "Biden signs order to reopen Obamacare markets for special Covid-19 coverage"

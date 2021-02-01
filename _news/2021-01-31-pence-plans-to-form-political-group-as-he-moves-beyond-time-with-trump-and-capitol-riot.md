@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-gr
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
 type: article
 quality: 132
-heat: 852
+heat: 872
 published: true
 
 provider:
@@ -421,6 +421,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/01/12dd56f6-4e50-4e3e-9d8e-61344ab8b209/thumbnail/1200x630/4ef79faf251a38a56ff602c99c6382fc/cbsn-fusion-gop-looks-to-future-of-party-following-trump-presidency-thumbnail-637171-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump gets new legal team as impeachment trial looms"
+    excerpt: "Top News Trump gets new legal team as impeachment trial looms. Posted . Former U.S. President Donald Trump's unprecedented second impeachment trial takes shape this week, as Democ"
+    publishedDateTime: 2021-02-01T17:29:00Z
+    webUrl: "https://www.reuters.com/video/watch/trump-gets-new-legal-team-as-impeachment-id725131661"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210201&i=OVDXTI9CV&r=OVDXTI9CV&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "How Trump could mount a presidential campaign even if he's banned from office"
     excerpt: "A Senate vote to bar former President Trump from public office may not be enough to stop him from running another White House campaign in 2024 — at least for awhile."

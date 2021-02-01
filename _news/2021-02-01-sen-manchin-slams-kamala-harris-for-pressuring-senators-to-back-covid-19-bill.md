@@ -44,6 +44,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "White House calls Manchin a 'key partner' after he took issue with Harris local interview"
+    excerpt: "White House Press Secretary Jen Psaki said Democratic Sen. Joe Manchin is a “key partner” for the administration after Vice President Harris made appearances on a local West Virginia television station to discuss President Biden’s “critical” coronavirus relief plan"
+    publishedDateTime: 2021-02-01T20:10:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uq3LpFZm7Ro/white-house-calls-manchin-a-key-partner-after-taking-issue-with-harris-local-interview"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-calls-manchin-a-key-partner-after-taking-issue-with-harris-local-interview.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-calls-manchin-a-key-partner-after-taking-issue-with-harris-local-interview.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "'Saturday Night Live' critics say show avoided Joe Biden, Kamala Harris in first show of 2021"
     excerpt: "Live” returned from its winter break with a slightly different approach to covering politics that many critics immediately noticed."
     publishedDateTime: 2021-02-01T13:41:00Z

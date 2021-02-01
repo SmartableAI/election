@@ -32,53 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Pro-Trump social media influencer charged in 2016 scheme to suppress votes for Hillary Clinton"
-    excerpt: "A pro-Trump social media influencer was arrested in Florida Wednesday after prosecutors say he purposely spread disinformation online in an effort to suppress votes for Hillary Clinton in the 2016 presidential election."
-    publishedDateTime: 2021-01-28T21:40:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LIyuVcI6Fec/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp"
+  - title: "Trump residency at Mar-a-Lago under Palm Beach legal review"
+    excerpt: "Palm Beach, Fla., officials are conducting a legal review into former President Donald Trump's residency at Mar-a-Lago, Fox News confirmed Monday."
+    publishedDateTime: 2021-02-01T18:54:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/avlCXcjVz-I/florida-palm-beach-legal-review-trump-residency-mar-a-lago"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump Pressed Justice Department to Go Directly to Supreme Court to Overturn Election Results"
-    excerpt: "The former president dropped the efforts to replace the acting attorney general after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar with the matter said."
-    publishedDateTime: 2021-01-23T23:33:00Z
-    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+  - title: "Trump residency at Mar-a-Lago under Palm Beach legal review"
+    excerpt: "Palm Beach, Fla., officials are conducting a legal review into former President Donald Trump's residency at Mar-a-Lago, Fox News confirmed Monday."
+    publishedDateTime: 2021-02-01T18:58:00Z
+    webUrl: "https://www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 139
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-289628/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/MAR-A-LAGO.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
-    excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
-    publishedDateTime: 2021-01-23T19:39:00Z
-    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+  - title: "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash"
+    excerpt: "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash."
+    publishedDateTime: 2021-01-02T19:34:00Z
+    webUrl: "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/"
+    ampWebUrl: "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 128
+      name: New York Post
+      domain: nypost.com
+    quality: 134
     images:
-      - url: "https://images.wsj.net/im-289628/social"
-        width: 1280
-        height: 640
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/vanilla-ice.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "CDNesVKxxFdQJzkzfj08LjkWjDj+xm2bdht1IJUOXJqcwodLTuUBZnjiGCCdAQiuhyXan7GSSxPLsRQNkTpJc+ELTHgUtgyc9sJ6tr9pW94YKnB6XHyoqOGvNIA3ffQO8jlAhsvZPJN50JQUZ+afCO/0AZI4pvJM3MLB13kT2f1bt7TbfIj3kF/KGrRYDSrlDHDmYFumhYc+6DycYY9qU2UTpDO94Ojg+LgNRBWOBLIyI9vBqMZtKUng+a35Z7IM78fKzyi8RtuWHroAU2Odx13S5JzG1RIWq0wOXf8CfnhzTtyduRWoxdzcSsA/9ektn32bmC2dpxLow+nRgfyOCV5Rt/8jEPy2IkF+pjMIa5Y=;ms38beAcUWmX2gp+H21McA=="

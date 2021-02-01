@@ -436,6 +436,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump gets new legal team as impeachment trial looms"
+    excerpt: "Top News Trump gets new legal team as impeachment trial looms. Posted . Former U.S. President Donald Trump's unprecedented second impeachment trial takes shape this week, as Democ"
+    publishedDateTime: 2021-02-01T17:29:00Z
+    webUrl: "https://www.reuters.com/video/watch/trump-gets-new-legal-team-as-impeachment-id725131661"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210201&i=OVDXTI9CV&r=OVDXTI9CV&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Republicans back away from confronting Trump and his loyalists after the Capitol insurrection, embracing them instead"
     excerpt: "Powerful party leaders are trying to avoid a divisive battle to improve their odds of reclaiming power in 2022."
     publishedDateTime: 2021-01-28T06:59:00Z

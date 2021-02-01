@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house.amp"
 type: article
 quality: 162
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden believes coronavirus stimulus can be 'bipartisan,' says 'risk' is a bill 'not big enough,' Psaki says"
+    excerpt: "White House press secretary Jen Psaki said President Biden is \"open to engaging\" with both Democrats and Republicans in Congress ahead of his meeting with GOP senators Monday in the Oval Office to discuss a potential compromise on a coronavirus relief plan, adding that, in his view, the \"risk\" would"
+    publishedDateTime: 2021-02-01T19:25:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kdW-CF5GZbw/biden-coronavirus-stimulus-can-be-bipartisan-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-stimulus-can-be-bipartisan-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-stimulus-can-be-bipartisan-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "GOP senators to meet Biden Monday on coronavirus relief as Dems ready to pass bill without Republican support"
     excerpt: "A statement from White House press secretary Jen Psaki -- especially when contrasted with the letter from the Senate Republicans -- makes clear there is still a large gulf between Biden and even this group of moderates. "
     publishedDateTime: 2021-02-01T12:18:10Z

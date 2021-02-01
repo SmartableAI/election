@@ -2,15 +2,15 @@
 category: news
 title: "Bruce Castor: What to know about Trump impeachment defense attorney"
 excerpt: "Former President Donald Trump on Sunday announced his new legal team for his upcoming Senate impeachment trial, featuring attorney Bruce Castor."
-publishedDateTime: 2021-02-01T13:55:56Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7sLKOU7Qfm4/bruce-castor-trump-impeachment-defense-attorney-what-to-know"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7sLKOU7Qfm4/bruce-castor-trump-impeachment-defense-attorney-what-to-know"
+publishedDateTime: 2021-02-01T14:02:00Z
+originalUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know"
+webUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know"
 ampWebUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp"
 type: article
-quality: 175
-heat: 255
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -96,6 +97,6 @@ related:
         height: 720
         isCached: true
 
-secured: "GdaT+87PYnaWfBAS1pHM2f+C1+rZUdxrRfU26Y4km5nHvMCB6HqqFBlxSIHI8GioyiJwdPq/5HZav3upmqMDEoaI9cKQHhEm0GdvhmgotFpDsFQJFloDL9i2eALUI2hK7Y7M3RdXFjNSeO41yPEj/Q/LoA69tIwMM++h+WLpXhEXerlo3EG8ou/CZNbdbllDjz+CZBcdsvLyMq5ycM2SWIsNt7QQE0Dr50slNp/+p3axrHiLyk5b48qTIy+tcWhnZHG22lwhdhIpBFDyDlhzCn2/YcZ30YMJibqY2DN3XDTVqLzGEuvmrIGXDhQ+LL59C1s38BkfmYOyYzQc4/sbFY/czJ4As2MG5d81WtZ34a8=;S8F9fb/02+xAVsjaAramgQ=="
+secured: "k+MRhwVahiQznyNeuSI292QumnEUTZ8MPaL8E0/Oxna6e+rJa2+9MNyzRi+UGC410wY+E0D0OWCYd+WTGLTbpJfs4hLB6pceAUc+NnGqSvFVAwopBRzDjhqPcmX1kPNHjbDJLce0zUC6k59+w2eFztEoSnpVfqoHGClzhUoUHaKtTaPkq7CcOpHDFOMka0Dt0caih+4x9hXz3xru1t0sLv8GFrg6KB6r4TK+FkTtaruLoXwgOb2B40pf3jE8DTDZ7boKx2gt8A77eyl9gu9YKqQLACePMP+rfv7Z4GwHFvWH1wlP1xrKeo8phtSaWBwueinRK2bxZ72fVBKBwmNRoeWd+MRqjQjnrRd/sJA2fjg=;WNAVdNx8nRKu1JzAEH0xTw=="
 ---
 

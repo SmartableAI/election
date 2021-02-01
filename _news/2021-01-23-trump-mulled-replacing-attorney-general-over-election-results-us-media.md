@@ -61,6 +61,22 @@ related:
         width: 901
         height: 545
         isCached: true
+  - title: "Tom Brady dodges question about getting pass for supporting Trump because he is white"
+    excerpt: "Quarterback Tom Brady dodged a question about whether he's gotten a pass for sporting a Donald Trump hat in his locker because he is a white athlete."
+    publishedDateTime: 2021-02-01T20:13:00Z
+    webUrl: "https://www.usatoday.com/story/sports/nfl/2021/02/01/tom-brady-dodges-question-donald-trump-support/4342575001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4342575001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4342575001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/01/USAT/6dff3c5a-fd24-46fd-a938-e1c00301b0d7-USP_NFL__Kansas_City_Chiefs_at_Tampa_Bay_Buccaneer_1.jpg?auto=webp&crop=5471,3077,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "OxwK6Hps5Z/PibUFBbn9iuGdbz1/9fUShfaYiqROKzljaKJ7BTCbKJoqeafasZ5C2Fx1JGcJ9am4yyNcEYGRb53dj3q8WelsoftNP6myouUvxVHwN8tlmQwCCEN87sCRVjNPuVp7QbtFSAcnMLAuLNnhNY7xaVzp7sjcKFMVpREGJKZzljBQ+CNskfKQ4xqNxKFdVwWPlooVH9/9BT36yhVTRn3Q23d4xwjL2YNAQ9+eYfpOPoSUz2AthLK+oBvoYuDt6OZAQoPMIA/GGAgmMcGS/W6jI07+fK7Bb3GJLSjdAYZopi77YH/xUPTgq6nQT5lvmU4D2HAm/Rfytb9slyei4gdhhD0y2BsV9VjQUm6E+4N+0QyLyhGisdYYlqybefmyU0B1g9zEWvinx5llCGFAIYdxWpaqchK6lRXeyEpgfMCF9WWAk2G4i3apulCw33KNsV6oh7xAU8h2OIeiUEZno/+RItglOQduvhaOWombOyk2ESAPU9Krt2CbeBIi9gppLwfl72mt22bwqu6LMw==;c4E2hYl2QfDoZ/KfEVeLBQ=="
 ---

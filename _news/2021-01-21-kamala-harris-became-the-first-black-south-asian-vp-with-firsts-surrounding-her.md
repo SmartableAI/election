@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Kamala Harris Rose — and Rose"
+    excerpt: "Kamala’s Way” is the story of Harris’s dramatic political career, as told by the longtime California journalist Dan Morain."
+    publishedDateTime: 2021-02-01T19:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/27/books/review/McGirr/McGirr-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "zaEkbbJrPHYsrQgIAYLpQNNc69mdHszXucICBdWvIknvg1GpMinyguG+RCgHKo3wmi0fnjQkmqbYEXvEgnuZrF8Oym+BXRidaBMRFfckko35B++hoeIAPnLphY/L+wx3MBMWxZUjr6+QAJIzgc1e15HOxwzCAbuE7w/jeBljN+j3DiCmKsq5NG8MrsuOdxnZ3OZu4Mz7HbVx6VTMxxWvDGzc/4O1+2kWnv6gSd6Cag9gBY4z8Iax4xPwqm2Od4dwrqJzT2JROCRvjMpl/P40IYWdPApYltWUXUqEh4rYXYaZtdSD9HNaE0MIO4uu4T5eI9mynKMEloiiiL+ZuwbkO1+VXaPkGBsYHU9lWS0wqRf8Jl62Y/iLkJY5mTbPBvA0QM+HCn5SMsZN/2FcpTKcqW6irK7V5vodsgrXn742FeeNYxl4gysV6x4ULV8K8rj2D/Yz7A3V2h75DtnAmwqtLam8OkabAbWjk1VjKgUd26qQkFXnZKTIpAti4Sg7beu3ih1J5FSWsryl0VQLl/8ZfQ==;gRQzW0C7FCOPEXEc4ycwQg=="
 ---

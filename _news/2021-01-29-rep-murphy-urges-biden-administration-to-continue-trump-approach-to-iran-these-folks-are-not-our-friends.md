@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden pushes green energy agenda after campaign donations from green industry"
+    excerpt: "President Biden has made it clear that climate is driving much of his agenda early in his administration, providing his green industry campaign donors with reason to celebrate."
+    publishedDateTime: 2021-02-01T19:40:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7OeIi5jGIQs/biden-green-energy-agenda-campaign-donations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-green-energy-agenda-campaign-donations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-green-energy-agenda-campaign-donations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78385902-ae74-42db-bd5c-1d8a0d156375/07ce6a83-4adb-4273-a9d2-d9602aa920d3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden will keep Trump letter private, White House says"
     excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"
     publishedDateTime: 2021-01-29T20:13:00Z

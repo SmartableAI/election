@@ -48,22 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Congress set to override Trump veto for first time in presidency"
-    excerpt: "SMITH: OK, Steve Harrigan live from Atlanta for us, thank you. President Trump and President Joe Biden both expected to make appearances in Georgia on the eve of the election. To Peter Doocy now in Augusta, Georgia, for us on that -- Peter. something ..."
-    publishedDateTime: 2021-02-01T18:42:00Z
-    webUrl: "https://www.foxnews.com/transcript/congress-set-to-override-trump-veto-for-first-time-in-presidency"
-    ampWebUrl: "https://www.foxnews.com/transcript/congress-set-to-override-trump-veto-for-first-time-in-presidency.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/congress-set-to-override-trump-veto-for-first-time-in-presidency.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d1019a4-bc12-4b87-8129-c1f6c4743b34/e45b0f69-5942-4aed-b168-3d594dc0697f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
     excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
     publishedDateTime: 2021-01-23T19:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-presi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Kamala Harris Rose — and Rose"
+    excerpt: "Kamala’s Way” is the story of Harris’s dramatic political career, as told by the longtime California journalist Dan Morain."
+    publishedDateTime: 2021-02-01T19:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/27/books/review/McGirr/McGirr-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Kamala Harris became the first Black, South Asian VP with 'firsts' surrounding her"
     excerpt: "Harris, a former California attorney general and U.S. senator, is used to breaking barriers. Her swearing in as vice president was no different."
     publishedDateTime: 2021-01-20T20:48:00Z

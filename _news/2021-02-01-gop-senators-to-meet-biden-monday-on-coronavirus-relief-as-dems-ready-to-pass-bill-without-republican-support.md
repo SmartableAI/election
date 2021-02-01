@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden believes coronavirus stimulus can be 'bipartisan,' says 'risk' is a bill 'not big enough,' Psaki says"
+    excerpt: "White House press secretary Jen Psaki said President Biden is \"open to engaging\" with both Democrats and Republicans in Congress ahead of his meeting with GOP senators Monday in the Oval Office to discuss a potential compromise on a coronavirus relief plan, adding that, in his view, the \"risk\" would"
+    publishedDateTime: 2021-02-01T19:25:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kdW-CF5GZbw/biden-coronavirus-stimulus-can-be-bipartisan-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-stimulus-can-be-bipartisan-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-stimulus-can-be-bipartisan-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "TfxoMIuYlD6WZOg4QKGFdEfRXn79JYoZY8FTAqen2/9BAhqYy3GiTH1fsF0vlzpgX+KJiHuvx6AOcixp9M9mc5HZBBQOX0jSiG4eHzm1duVDcXFFK3HN4OZ0IpiN9KpzaodQ2XrRI8eR1XRc14no0O+nHdOVMGVvEUUOMK+40DoJ0IP3oQpI5XCCRWsuhfnkDjnNa8k2X7d9nYt0/L+Ppwm0rrInBL4KZTsaWzaW6+YbOkTXy880bNE6W0FGhvv9zvrNOt/dpUx++foeOM8tIzg/q4YmBPWdRPXbntAy7ZJ5BRgyjjW511G0nI76KcLyD0WnPu19cqIEwG89dZvTi2ksjkvJuINiXlSm1t4K7mE=;nqdonS5VOAgjh+3ELgCmug=="
 ---
