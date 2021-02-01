@@ -365,6 +365,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "As Trump Raked In Cash Denying His Loss, Little Went to Actual Legal Fight"
+    excerpt: "The picture that emerged in new campaign finance reports was of Donald J. Trump waging a public relations effort to falsely argue that he had won the election rather than mounting a serious legal push."
+    publishedDateTime: 2021-02-01T05:53:00Z
+    webUrl: "https://www.nytimes.com/2021/02/01/us/politics/trump-election-donors-spending.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/01/us/politics/trump-election-donors-spending.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/us/politics/trump-election-donors-spending.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/31/us/politics/31trump-campfin/31trump-campfin-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Live Updates: Most G.O.P. Senators Vote Against Holding Impeachment Trial for Trump"
     excerpt: "In a 55-to-45 vote that strongly suggested that the Senate would not be able to convict the former president, lawmakers narrowly killed a Republican effort to dismiss the impeachment charge as unconstitutional."
     publishedDateTime: 2021-01-26T22:18:00Z

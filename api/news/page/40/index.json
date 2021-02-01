@@ -2,63 +2,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_news/2020-12-04-trump-administration-claims-facebook-improperly-reserved-jobs-for-h-1b-workers.md",
-      "title": "Trump Administration Claims Facebook Improperly Reserved Jobs for H-1B Workers",
-      "excerpt": "A Justice Department lawsuit accuses the social-media company of illegally reserving high-paying jobs for immigrant workers it was sponsoring for permanent residence and failing to adequately search for U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
-      "originalUrl": "https://www.wsj.com/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-267936/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
-      "publishedDateTime": "2020-12-03T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-04-senate-vote-likely-next-week-on-blocking-trumps-massive-uae-arms-sale.md",
       "title": "Senate vote likely next week on blocking Trump's massive UAE arms sale",
       "excerpt": "The top Democrat on the U.S. Senate Foreign Relations Committee said he expected lawmakers would vote as soon as next week on resolutions seeking to block Republican President Donald Trump's $23 billion weapons sale to the United Arab Emirates.",
@@ -1370,6 +1313,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-this-is-reality-renown-doctor-in-trump-hospital-garage-retweet-refutes-fake-claims.md",
+      "title": "‘This is reality’: Renown doctor in Trump hospital garage retweet refutes fake claims",
+      "excerpt": "Dr. Jacob Keeperman never expected his tweet to blow up on social media after it got hijacked by President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/12/02/covid-19-donald-trump-twitter-nevada-coronavirus-renown-hospital-reno/3789517001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/12/02/covid-19-donald-trump-twitter-nevada-coronavirus-renown-hospital-reno/3789517001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/02/PREN/111222a7-b4c0-4569-b08a-12295033a000-Dr_Jacob_Keeperman_copy.jpg?auto=webp&crop=1943,1093,x0,y309&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3789517001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3789517001",
+      "publishedDateTime": "2020-12-02T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

@@ -96,22 +96,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump may poison the party, but Republicans have decided they need him"
-    excerpt: "A delicate dance is underway to keep some distance from the ex-president while also letting him know he’s beloved and welcomed."
-    publishedDateTime: 2021-01-29T02:50:00Z
-    webUrl: "https://www.politico.com/news/2021/01/28/republicans-need-trump-463684"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/28/republicans-need-trump-463684"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/28/republicans-need-trump-463684"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/2a/75/8fde41744d21b97d1a1c918237f4/ap21020485913788-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "POLITICO Playbook PM: McConnell blames Trump for Jan. 6"
     excerpt: "They are McConnell’s first floor remarks since Jan. 6. Remember, McConnell told his rank-and-file members that he has, essentially, not ruled out convicting President DONALD TRUMP. There is widespread agreement that if McConnell votes to convict Trump,"
     publishedDateTime: 2021-01-19T18:03:00Z

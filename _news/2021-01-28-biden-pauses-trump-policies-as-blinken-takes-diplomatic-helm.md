@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-pol
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721"
 type: article
 quality: 150
-heat: 1610
+heat: 1630
 published: true
 
 provider:
@@ -749,6 +749,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Health/WireAP_321a8d9280fb42d7bc5518fdd77a61a5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "In early going, Biden floods the zone with decrees"
+    excerpt: "President Joe Biden is flooding the zone with them, achieving head-snapping changes in national policy that he would have no hope of getting from Congress quickly, if at all. Easy come, though, can also mean easy go."
+    publishedDateTime: 2021-02-01T10:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/early-biden-floods-zone-decrees-75604847"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/early-biden-floods-zone-decrees-75604847"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/early-biden-floods-zone-decrees-75604847"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f92c7ed8def644469abc2170d8b1e742_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

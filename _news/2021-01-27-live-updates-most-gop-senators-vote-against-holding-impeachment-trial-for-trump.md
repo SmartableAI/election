@@ -382,6 +382,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "As Trump Raked In Cash Denying His Loss, Little Went to Actual Legal Fight"
+    excerpt: "The picture that emerged in new campaign finance reports was of Donald J. Trump waging a public relations effort to falsely argue that he had won the election rather than mounting a serious legal push."
+    publishedDateTime: 2021-02-01T05:53:00Z
+    webUrl: "https://www.nytimes.com/2021/02/01/us/politics/trump-election-donors-spending.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/01/us/politics/trump-election-donors-spending.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/us/politics/trump-election-donors-spending.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/31/us/politics/31trump-campfin/31trump-campfin-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Federal Court Lifts Block on Trump Policy Expelling Migrant Children at the Border"
     excerpt: "The prospect of border agents again turning away children is likely to renew pressure on the Biden administration."
     publishedDateTime: 2021-01-30T02:57:00Z

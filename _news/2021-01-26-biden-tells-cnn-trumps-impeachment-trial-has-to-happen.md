@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
 type: article
 quality: 190
-heat: 1050
+heat: 1070
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126154809-mitch-mcconnell-january-26-2021-republican-luncheon-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump stockpiles millions in donations as he faces a second impeachment trial"
+    excerpt: "Donald Trump's new political committee took in more $30 million in the final weeks of 2020 as he made relentless and baseless claims of voter fraud, new filings show.\n    \n"
+    publishedDateTime: 2021-02-01T12:28:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MRdNMMUDCV4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/donald-trump-save-america-pac-contributions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/donald-trump-save-america-pac-contributions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210130092910-trump-at-mar-a-lago-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

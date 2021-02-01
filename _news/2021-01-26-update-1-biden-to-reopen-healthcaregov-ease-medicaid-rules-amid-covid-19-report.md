@@ -26,9 +26,9 @@ topics:
 
 related:
   - title: "Biden and Harris to meet Republican senators to push for Covid aid package – live updates"
-    excerpt: "President and Kamala Harris will meet Republican senators today to push for bipartisan Covid aid package"
-    publishedDateTime: 2021-02-01T10:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates"
+    excerpt: "lawmakers have offered across the aisle agreement on a much-reduced economic package"
+    publishedDateTime: 2021-02-01T10:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates?page=with:block-6017c9778f085e2bcdae32b4"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates"
     type: article
@@ -435,6 +435,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GOP lawmakers urge Biden to meet with them on virus relief"
+    excerpt: "A group of Senate Republicans called on President Joe Biden to meet them at the negotiating table as the newly elected president signaled he could move to pass a new $1.9 trillion aid package with all Democratic votes."
+    publishedDateTime: 2021-02-01T07:13:00Z
+    webUrl: "https://www.businessinsider.com/gop-lawmakers-urge-biden-to-meet-with-them-on-virus-relief-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/gop-lawmakers-urge-biden-to-meet-with-them-on-virus-relief-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-lawmakers-urge-biden-to-meet-with-them-on-virus-relief-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Joe Biden basing Kamala Harris relationship on Obama model | Charlotte Observer"
     excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
     publishedDateTime: 2021-01-29T16:52:00Z

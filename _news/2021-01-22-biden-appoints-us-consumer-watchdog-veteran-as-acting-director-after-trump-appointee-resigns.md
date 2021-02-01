@@ -751,6 +751,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "In early going, Biden floods the zone with decrees"
+    excerpt: "President Joe Biden is flooding the zone with them, achieving head-snapping changes in national policy that he would have no hope of getting from Congress quickly, if at all. Easy come, though, can also mean easy go."
+    publishedDateTime: 2021-02-01T10:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/early-biden-floods-zone-decrees-75604847"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/early-biden-floods-zone-decrees-75604847"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/early-biden-floods-zone-decrees-75604847"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f92c7ed8def644469abc2170d8b1e742_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Texas attorney general files lawsuit to block Biden's deportation freeze"
     excerpt: "The Texas attorney general filed a lawsuit on Friday that seeks to block U.S. President Joe Biden's move to pause certain deportations for 100 days, a controversial opening-move by the Democratic president that has provoked blowback from some Republicans."
     publishedDateTime: 2021-01-22T21:40:00Z

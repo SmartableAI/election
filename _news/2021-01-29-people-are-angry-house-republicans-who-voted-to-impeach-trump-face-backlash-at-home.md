@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "South Carolina GOP censures Rep. Tom Rice after his vote to impeach Trump"
-    excerpt: "The South Carolina Republican Party voted Saturday to formally censure Rep. Tom Rice, who represents the state's 7th Congressional District, for his vote to impeach former President Donald Trump in the House of Representatives.\n    \n"
-    publishedDateTime: 2021-01-30T19:41:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y4EapU38utc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/tom-rice-south-carolina-republicans-censure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/tom-rice-south-carolina-republicans-censure/index.html"
+  - title: "Matt Gaetz to rally Trump faithful to boost MAGA backlash in Liz Cheney's backyard"
+    excerpt: "Republican Rep. Matt Gaetz of Florida will rally the Trump faithful in Wyoming on Thursday, hoping to bring a MAGA backlash to GOP Rep. Liz Cheney's backyard after she voted to impeach the former President for his role in inciting the riot at the Capitol.\n    \n"
+    publishedDateTime: 2021-01-28T11:01:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/47nGUI3BJ_4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/matt-gaetz-wyoming-visit-liz-cheney/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/matt-gaetz-wyoming-visit-liz-cheney/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123112210-rep-tom-rice-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127181848-matt-gaetz-liz-cheney-split-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "After promoting Trump's baseless fraud claims, Kelli Ward facing audit of her own Arizona GOP win"
-    excerpt: "Kelli Ward, the chair of the Arizona Republican Party who promoted President Donald Trump's baseless claims of voter fraud in the 2020 election, now faces an audit on her own recent electoral victory.\n    \n"
-    publishedDateTime: 2021-01-28T15:57:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hb8PtvlSuaU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/arizona-gop-kelli-ward-recount/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/arizona-gop-kelli-ward-recount/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180824123524-02-kelli-ward-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pennsylvania GOP pledges full allegiance to Trump"
-    excerpt: "Once a producer of centrist Republicans like Arlen Specter and Tom Ridge, the state GOP now bears the MAGA stamp."
-    publishedDateTime: 2021-01-26T23:49:00Z
-    webUrl: "https://www.politico.com/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/93/f7/09cc34c044568e3833bd4cf29005/210126-mastriano-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "8E+AfQXuF248cgJ6wM6oUKgdcHgIVv/B+dPCLkXWu5aZ0pDZvwgEhRq+eUUU1dwPZUyEalrf34HF2LkVmjCO3yBu5BrZ9JvhFvPFCyBSJlANKu1Q7Gmm6FXnCtth0w/MM10tevhqxTvQRKfYsusPpXo7rJBb/B9zrAuXFNqCEllUc/BUpMHumRNhS47nWTvsCACVjYAVpzSC1AN441eJsI7e3HidBpz8hDR6ji7DBsYEnB32FVte3Sk7nOXoCPPKMCL88J5ePHkYg0S4Ieuf/ksZS2xhsBsd2nldS0DAV59FsZKWMEosV4HeB/N7MBXFRu6WnDE1+1louhEJY2qyXPox69PGSdAFStXjEyeBDU0=;ecjAbQsoHJAJx+ogCpF7TQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -268,6 +268,20 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/8e/7a/ccb62882443a83f09269679561fe/210130-biden-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The buzzword you need to know to understand Biden"
+    excerpt: "All that and more below, but first a look from Eugene at an overlooked rhetorical shift by the Biden administration that can help explain a lot of what’s to come the next four years … It’s the buzzword of the early Biden administration,"
+    publishedDateTime: 2021-02-01T11:13:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/01/the-buzzword-you-need-to-know-to-understand-biden-491582"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/93/ed/4d0f3a164effa62f41bb4e9d5a6b/gettyimages-1230858158.jpg"
         width: 1160
         height: 773
         isCached: true

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Biden and Harris to meet Republican senators to push for Covid aid package – live updates"
-excerpt: "President and Kamala Harris will meet Republican senators today to push for bipartisan Covid aid package"
-publishedDateTime: 2021-02-01T10:07:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates"
+excerpt: "lawmakers have offered across the aisle agreement on a much-reduced economic package"
+publishedDateTime: 2021-02-01T10:22:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates?page=with:block-6017c9778f085e2bcdae32b4"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates?page=with:block-6017c9778f085e2bcdae32b4"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates"
 type: article
 quality: 141
-heat: 1161
+heat: 1181
 published: true
 
 provider:
@@ -426,6 +426,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GOP lawmakers urge Biden to meet with them on virus relief"
+    excerpt: "A group of Senate Republicans called on President Joe Biden to meet them at the negotiating table as the newly elected president signaled he could move to pass a new $1.9 trillion aid package with all Democratic votes."
+    publishedDateTime: 2021-02-01T07:13:00Z
+    webUrl: "https://www.businessinsider.com/gop-lawmakers-urge-biden-to-meet-with-them-on-virus-relief-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/gop-lawmakers-urge-biden-to-meet-with-them-on-virus-relief-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-lawmakers-urge-biden-to-meet-with-them-on-virus-relief-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z
@@ -795,6 +806,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "/VMXXkQS3qagqH2lzhqkO8v1y2kIRmgJCqc4eNIFVqtJfen7Hsz9YtVkSdaKDWuCRgV4OQVvFaIpNtHdPUjacILOte5DT4bNY9OOoGo0cDISWD+F/eEumuWy3u0FYex7CJkOHrJCwMlYimQkciAzyNHyHHxBWsI2TEG/aeTv5MV+OA9ci5FQK6fgprfhcsWVk2NXissoTLQZk291xkfLAyxHtAXrweUctVSY+t1oua4+Sk1biiuSTM59QFXZo164faHPRJ+GDTTq/p2j9jKddeKxm7pkz19Cp6+E/C0Msq5ehP/6CnNITdHiRlDSvUgOuypZCqdolRY8mGmnWHxHYbwXTkEtfFCmIzj7Rg7f4i8=;Ghcbh4n4d+cJUr1dskP0Fw=="
+secured: "druAJtNuTG0KyrKeiheQSkMP+OzlnTCdbXjDEozKCiekfH7cxGsB0i3QDYx9z+r7E1NEnRbDNdNZqnevDE/93O7Vsv7zlAtETsjEsizbanlFwf+qln7XUlxCY5MIT8oPTTZut2NgkhSNBRvoHuixnX3cNmEyOH1YGXd+dMdw5zl0UzOLX6B9eo2IhdtOiA5qKc8W0zYoYYMxPMTqX/E+W6dTWPfBnUUOasSXJgnfUqQet934MirzhEr7XOzHio3qgHJUOxKlg6GtQcjLdiCmhSR5JWZO5HdAa1GIVwsert251u2d3r3WIyltz96p+9PiDVv+tuBRps83s74vPn5p6wjLOndLoU9E+upwFdIMQls=;ZHHD8eh+WBoBstMc0aVCDA=="
 ---
 

@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump stockpiles millions in donations as he faces a second impeachment trial"
+    excerpt: "Donald Trump's new political committee took in more $30 million in the final weeks of 2020 as he made relentless and baseless claims of voter fraud, new filings show.\n    \n"
+    publishedDateTime: 2021-02-01T12:28:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MRdNMMUDCV4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/donald-trump-save-america-pac-contributions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/donald-trump-save-america-pac-contributions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210130092910-trump-at-mar-a-lago-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "John Roberts ducks the spotlight by skipping the second Trump impeachment trial"
     excerpt: "Chief Justice John Roberts has long been a student of history, but this is one part of history -- presiding at the second trial of Donald Trump -- he can do without.\n    \n"
     publishedDateTime: 2021-01-26T01:22:33Z

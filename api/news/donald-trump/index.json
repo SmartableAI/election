@@ -1176,63 +1176,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-28-why-pennsylvania-republican-leaders-are-all-in-for-trump-more-than-ever.md",
-      "title": "Why Pennsylvania Republican Leaders Are All-In for Trump More Than Ever",
-      "excerpt": "Pennsylvania G.O.P. leaders have made loyalty to the defeated ex-president the sole organizing principle of the party, and would-be candidates are jockeying to prove they fought the hardest for him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/27/us/politics/00pennsylvania-gop1/00pennsylvania-gop1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.amp.html",
-      "publishedDateTime": "2021-01-28T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-28-biden-pauses-trump-policies-as-blinken-takes-diplomatic-helm.md",
       "title": "Biden pauses Trump policies as Blinken takes diplomatic helm",
       "excerpt": "The Biden administration has paused or put under review a wide swath of Trump-era foreign policies as America's new top diplomat takes the helm of the State Department",
@@ -1241,7 +1184,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1610,
+      "heat": 1630,
       "tags": null,
       "images": [
         {
@@ -1398,7 +1341,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1574,6 +1517,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-amid-absence-trump-sets-up-new-intra-party-battles-for-gop-the-note.md",
+      "title": "Amid absence, Trump sets up new intra-party battles for GOP: The Note",
+      "excerpt": "Trump's brand was built on disruption and the force of his own personality. Even through a quiet period, that disruption is set to continue into at least 2021 and 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
+      "originalUrl": "https://abcnews.go.com/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-rally-ap-jt-210108_1610144889614_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
+      "publishedDateTime": "2021-01-26T04:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

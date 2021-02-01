@@ -271,6 +271,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "The buzzword you need to know to understand Biden"
+    excerpt: "All that and more below, but first a look from Eugene at an overlooked rhetorical shift by the Biden administration that can help explain a lot of what’s to come the next four years … It’s the buzzword of the early Biden administration,"
+    publishedDateTime: 2021-02-01T11:13:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/01/the-buzzword-you-need-to-know-to-understand-biden-491582"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/93/ed/4d0f3a164effa62f41bb4e9d5a6b/gettyimages-1230858158.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "Fd7SARiRa0bWN7Y3kQQFC+l634csINxABzC1LO95j+izdhIWNTucsBS2Dm96vG07jbfMlVwiK/4sPPLQScXDq5L5vZDD0kPLiWjz+XhuT3POwY4i9YMqPbYYI0w3dG/K/umr5NoxkUtUxZ5uvmOadf/SlMSUlTBV0zf4DPtWEnLtG/X3DyMaGPfn4fxJL2XvGurLtcUQu5hQJ4ezar8eH7L1i8vw0aK55Bm6M3j3tN0NHcDSTCCUQg27jxeavjoXTPx4jU8oC4MPKk0K24rbLxwR6M8KqVSHkbQtNTKl4gfpzCXiELb+w6W9IFV0Pdx3kt0t2b3mMrmUVlKqTBFbEgYRSlILyNvu5RqKaW/sRRE=;MeX3ARUvWXr1IkbNCzSRmg=="
 ---

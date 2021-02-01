@@ -32,113 +32,85 @@ images:
     isCached: true
 
 related:
-  - title: "McConnell privately says he wants Trump gone as Republicans quietly lobby him to convict"
-    excerpt: "As the House prepares to send articles of impeachment to the Senate on Monday, CNN has learned that dozens of influential Republicans around Washington -- including former top Trump administration officials -- have been quietly lobbying GOP members of Congress to impeach and convict Donald Trump. The"
-    publishedDateTime: 2021-01-22T18:51:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tVmuA9o9Zhk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
+  - title: "GOP lawmaker launches new PAC to reclaim Republican Party after Trump"
+    excerpt: "GOP Rep. Adam Kinzinger on Sunday announced a new \"movement\" to push back on the Republican Party's embrace of former President Donald Trump and retire the \"poisonous conspiracies and lies\" that defined his administration.\n    \n"
+    publishedDateTime: 2021-01-31T22:25:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DLnbyvCfm2o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122103730-01-trump-gop-impeachment-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112182127-rep-adam-kinzinger-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Democratic House staffers draft letter to senators on impeachment: Convict Trump 'for our sake, and the sake of the country'"
-    excerpt: "A group of Democratic House staffers are drafting what they hope will be a bipartisan message to the Senate about the upcoming impeachment trial, urging senators to take the trauma their aides experienced during the violent insurrection in the Capitol on January 6 seriously, a staffer tells CNN.\n   "
-    publishedDateTime: 2021-01-28T03:44:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tfOV92aR5s8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/democratic-house-staffers-letter-to-senators-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/democratic-house-staffers-letter-to-senators-impeachment/index.html"
+  - title: "South Carolina GOP censures Rep. Tom Rice after his vote to impeach Trump"
+    excerpt: "The South Carolina Republican Party voted Saturday to formally censure Rep. Tom Rice, who represents the state's 7th Congressional District, for his vote to impeach former President Donald Trump in the House of Representatives.\n    \n"
+    publishedDateTime: 2021-01-30T19:41:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y4EapU38utc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/tom-rice-south-carolina-republicans-censure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/tom-rice-south-carolina-republicans-censure/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 148
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107153716-capitol-riots-cybersecurity-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123112210-rep-tom-rice-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Deepening Schism, McConnell Says Trump ‘Provoked’ Capitol Mob"
-    excerpt: "The Senate majority leader’s remarks were the clearest signal yet that he has come to regard President Trump as a force who could drag down the Republican Party."
-    publishedDateTime: 2021-01-20T01:40:00Z
-    webUrl: "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html"
+  - title: "After promoting Trump's baseless fraud claims, Kelli Ward facing audit of her own Arizona GOP win"
+    excerpt: "Kelli Ward, the chair of the Arizona Republican Party who promoted President Donald Trump's baseless claims of voter fraud in the 2020 election, now faces an audit on her own recent electoral victory.\n    \n"
+    publishedDateTime: 2021-01-28T15:57:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hb8PtvlSuaU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/arizona-gop-kelli-ward-recount/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/arizona-gop-kelli-ward-recount/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 162
     images:
-      - url: "https://static01.nyt.com/images/2021/01/20/us/politics/20dc-impeach-print1/merlin_182544633_d1e4184e-735b-489a-9ebb-4d606488bf5e-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180824123524-02-kelli-ward-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "McConnell says Trump ‘provoked’ the Capitol attackers"
-    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday said President Donald Trump “provoked” the rioters who stormed the Capitol earlier this month as Congress was certifying the presidential election results,"
-    publishedDateTime: 2021-01-20T04:06:00Z
-    webUrl: "https://www.politico.com/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
+  - title: "Pennsylvania GOP pledges full allegiance to Trump"
+    excerpt: "Once a producer of centrist Republicans like Arlen Specter and Tom Ridge, the state GOP now bears the MAGA stamp."
+    publishedDateTime: 2021-01-26T23:49:00Z
+    webUrl: "https://www.politico.com/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/pennsylvania-republican-party-trump-support-462843"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/b3/d9/6fec15f14316b8cfc913fc7c95a3/20210118-donaldtrump-ap-773.jpg"
+      - url: "https://static.politico.com/93/f7/09cc34c044568e3833bd4cf29005/210126-mastriano-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Live Updates: Ahead of Impeachment Trial, McConnell Says Capitol Assault Was ‘Provoked’ by Trump"
-    excerpt: "Senator Mitch McConnell said the mob that stormed the Capitol “was fed lies,” referring to attempts by President Trump to overturn the election based on bogus claims of voter fraud. The president is expected to issue dozens of pardons."
-    publishedDateTime: 2021-01-19T17:58:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/19/us/inauguration-day-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/19/us/inauguration-day-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/19/us/inauguration-day-biden.amp.html"
+  - title: "Why Pennsylvania Republican Leaders Are All-In for Trump More Than Ever"
+    excerpt: "Pennsylvania G.O.P. leaders have made loyalty to the defeated ex-president the sole organizing principle of the party, and would-be candidates are jockeying to prove they fought the hardest for him."
+    publishedDateTime: 2021-01-28T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 122
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/01/19/us/19transition-briefing-promo1/19transition-briefing-promo1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/00pennsylvania-gop1/00pennsylvania-gop1-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "POLITICO Playbook PM: McConnell blames Trump for Jan. 6"
-    excerpt: "They are McConnell’s first floor remarks since Jan. 6. Remember, McConnell told his rank-and-file members that he has, essentially, not ruled out convicting President DONALD TRUMP. There is widespread agreement that if McConnell votes to convict Trump,"
-    publishedDateTime: 2021-01-19T18:03:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/01/19/mcconnell-blames-trump-for-jan-6-491453"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/82/03/de6a881244faa0d89300229630d6/gettyimages-1297264903.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "The Trump implosion auction, brought to you by a Republican?"
-    excerpt: "One of my favorite stories of the past month or so has been the auction to push the button to blow up Trump Plaza. We know that it won’t happen. But would you believe the idea actually originated with a Republican former elected official,"
-    publishedDateTime: 2021-01-22T11:55:00Z
-    webUrl: "https://www.politico.com/newsletters/new-jersey-playbook/2021/01/22/the-trump-implosion-auction-brought-to-you-by-a-republican-491489"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "ZcD6rc5/kM7To84FI935b0dTaH25ropOJsfT6zkWFggEMcUEnF5jci94yFgcsUvdShXIow+gjyn8Piu152+rFaaTqPxO9UzETstvvYTDwhDPO9gB0cIb935l0u8tQs1FQ4jCWcGF2gmiSTCDPa9Ok8V1nGd61GJc4ojZYXAyOkANSw74EZMgwFwqaNt931cCeB8ZkmO0SgacxqDaSo9EuhyP4mRJIaAo4jzYX4VUknOmo1XuDrfRakQTKcNTo9M3JB0tYkZdTrHxFGKYsmRA23BOgYsJTfOOzvRYPPYeDUc11Z0T4wY61b0Pk09t4AmSA+rL+dqehJXaual3dY3Nns4KVYNMSm7eyVSbx1WAGjWN2qqkrsdPla6O0Dp3HG0HR7IXdOBBnTJ7PXwey1e+7zbuIlvP6HxSQjx4bOpon7BoewH/QdZrPp25Kb7AsWu3iJOdala/EDrp3oDjhPpfZmUQylKgV4fDmy/ZnCakqWipGtvNSJoJO9Veb0jNU5yPi0SB7fr8U+ml8CzB2xmTJg==;u9OdlLByVhG6QCCwUx1XBQ=="

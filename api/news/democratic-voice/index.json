@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-31-gop-lawmaker-launches-new-pac-to-reclaim-republican-party-after-trump.md",
+      "title": "GOP lawmaker launches new PAC to reclaim Republican Party after Trump",
+      "excerpt": "GOP Rep. Adam Kinzinger on Sunday announced a new \"movement\" to push back on the Republican Party's embrace of former President Donald Trump and retire the \"poisonous conspiracies and lies\" that defined his administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DLnbyvCfm2o/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DLnbyvCfm2o/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210112182127-rep-adam-kinzinger-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html",
+      "publishedDateTime": "2021-01-31T14:25:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-31-trump-raised-2554-million-in-8-weeks-as-he-sought-to-overturn-election-result.md",
       "title": "Trump Raised $255.4 Million in 8 Weeks as He Sought to Overturn Election Result",
       "excerpt": "The former president’s fund-raising slowed significantly after the Electoral College delivered its votes to make Joseph R. Biden Jr. the 46th president.",
@@ -55,62 +111,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-south-carolina-gop-censures-rep-tom-rice-after-his-vote-to-impeach-trump.md",
-      "title": "South Carolina GOP censures Rep. Tom Rice after his vote to impeach Trump",
-      "excerpt": "The South Carolina Republican Party voted Saturday to formally censure Rep. Tom Rice, who represents the state's 7th Congressional District, for his vote to impeach former President Donald Trump in the House of Representatives.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y4EapU38utc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y4EapU38utc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201123112210-rep-tom-rice-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/30/politics/tom-rice-south-carolina-republicans-censure/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/tom-rice-south-carolina-republicans-censure/index.html",
-      "publishedDateTime": "2021-01-30T11:41:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     },
@@ -692,7 +692,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 169,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -732,63 +732,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-why-pennsylvania-republican-leaders-are-all-in-for-trump-more-than-ever.md",
-      "title": "Why Pennsylvania Republican Leaders Are All-In for Trump More Than Ever",
-      "excerpt": "Pennsylvania G.O.P. leaders have made loyalty to the defeated ex-president the sole organizing principle of the party, and would-be candidates are jockeying to prove they fought the hardest for him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/27/us/politics/00pennsylvania-gop1/00pennsylvania-gop1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/28/us/politics/pennsylvania-republicans-trump.amp.html",
-      "publishedDateTime": "2021-01-28T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1086,7 +1029,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 475,
+      "heat": 495,
       "tags": null,
       "images": [
         {
@@ -1254,7 +1197,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1050,
+      "heat": 1070,
       "tags": null,
       "images": [
         {
@@ -1366,7 +1309,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 775,
+      "heat": 795,
       "tags": null,
       "images": [
         {
@@ -1666,6 +1609,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html",
       "publishedDateTime": "2021-01-23T06:01:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-new-york-times-trump-and-doj-attorney-had-plan-to-replace-his-acting-ag-and-undo-georgia-election-result.md",
+      "title": "New York Times: Trump and DOJ attorney had plan to replace his acting AG and undo Georgia election result",
+      "excerpt": "Justice Department lawyer Jeffrey Clark nearly convinced then-President Donald Trump to remove then-acting Attorney General Jeffrey Rosen and use the Department of Justice to undo Georgia's election results, The New York Times reported Friday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YGZ1p29pNIg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YGZ1p29pNIg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210121092209-01-trump-departure-0120-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html",
+      "publishedDateTime": "2021-01-22T19:35:04-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

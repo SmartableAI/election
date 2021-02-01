@@ -2,62 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2020-12-16-biden-gets-buttigieg-husbands-name-wrong-calls-him-kristen.md",
-      "title": "Biden gets Buttigieg husband's name wrong, calls him 'Kristen'",
-      "excerpt": "President-elect Joe Biden during a speech on Wednesday accidentally referred to the husband of former South Bend Mayor Pete Buttigieg by the wrong name.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2OIDjKMU9FY/biden-calls-buttigieg-husbands-name-wrong-calls-him-kristen",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2OIDjKMU9FY/biden-calls-buttigieg-husbands-name-wrong-calls-him-kristen",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d48a1508-5938-48ec-8d61-d3278e41c1b8/39a23cf2-debb-4dd9-84fa-2a19f837f39e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-buttigieg-husbands-name-wrong-calls-him-kristen.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-buttigieg-husbands-name-wrong-calls-him-kristen.amp",
-      "publishedDateTime": "2020-12-16T11:19:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-12-17-north-carolina-gop-lawmaker-urges-trump-to-suspend-civil-liberties-to-keep-power-invoke-the-insurrection-act.md",
       "title": "North Carolina GOP lawmaker urges Trump to suspend civil liberties to keep power: ‘Invoke the Insurrection Act’",
       "excerpt": "Republican North Carolina state Sen. Bob Steinburg said President Trump should declare a national emergency, suspend civil rights, and remain in power over his baseless claims of electoral fraud.",
@@ -1331,6 +1275,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-live-updates-biden-heads-to-georgia-to-campaign-for-ossoff-warnock.md",
+      "title": "Live Updates: Biden heads to Georgia to campaign for Ossoff, Warnock",
+      "excerpt": "President-elect Joe Biden will campaign for the Democratic candidates just a day after the Electoral College confirmed his victory. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Du6DASvtJE/live-updates-georgia-senate-12-15-2020",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Du6DASvtJE/live-updates-georgia-senate-12-15-2020",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf42e365-98fa-4dbb-b788-d0ab7117dc5c/484cffb7-254f-4677-8e0c-a807272dea5b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-georgia-senate-12-15-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-12-15-2020.amp",
+      "publishedDateTime": "2020-12-14T21:30:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],
