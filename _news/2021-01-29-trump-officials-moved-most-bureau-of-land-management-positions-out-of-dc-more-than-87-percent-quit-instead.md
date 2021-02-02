@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp"
 type: article
 quality: 106
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Donald Trump, the head of Marvel and a headstrong lawyer quietly freed a West Baltimore man"
-    excerpt: "From his cell in a high-security federal prison in Colorado, Jawad Musa prayed five times a day that he would someday be able to see his family again."
-    publishedDateTime: 2021-01-27T14:17:00Z
-    webUrl: "https://www.baltimoresun.com/news/crime/bs-pr-md-ci-cr-musa-perlmutter-trump-clemency-longform-20210127-cylrx5rcfzeafdb2slsca7lo7m-htmlstory.html"
+  - title: "Former GOP Officials Warn of 'Permanent Stain' on Republicans if Trump's Not Held Accountable"
+    excerpt: "\"Donald Trump blatantly violated his oath to protect and defend the Constitution,\" the group of Republicans and conservatives said."
+    publishedDateTime: 2021-02-02T18:56:00Z
+    webUrl: "https://www.newsweek.com/former-gop-officials-warn-permanent-stain-republicans-if-trumps-not-held-accountable-1566253"
+    ampWebUrl: "https://www.newsweek.com/former-gop-officials-warn-permanent-stain-republicans-if-trumps-not-held-accountable-1566253?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/former-gop-officials-warn-permanent-stain-republicans-if-trumps-not-held-accountable-1566253?amp=1"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 43
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
     images:
-      - url: "https://www.baltimoresun.com/resizer/itumyFj9UjY1v63LhHMz54XvJDM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NS4FP5V22FF6PBZZNSRZK4JURQ.jpg"
-        width: 1200
-        height: 798
+      - url: "https://d.newsweek.com/en/full/1722942/us-capitol-riot.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "7vY+V1V4kP7vf+J7Cik6vgBjwfewmJ5vKirTASy1/3To4Vl/L5HvWFgNLiqfKSQJI/Or1VrQ051epobJAEUF8+oYwhlRO8XoudakYV2yda5cDdkqrvWioPnYiSWt6cexoDCWnZ8A1AyBuQ0zdjxsu//JTQffZ4ZXka1tpcebEiys6v8rYLALCDgiBB1ZqOei3rRIB68fJCrWF4BlYoQEN+IMofMrT9ZtU6MTvrHio1Jk9lc5F0JQ/x9vysU/ClTPkogQX2yZuL1HLSQPJbx43MqBrDxLQ3rtZ8b5lMnqsdo8G6PeooUy/o3ILpitHbhxpvxTsHLUyPOc+U/M2jM+eV7/fhvMZFPykgWpjcU9qmI=;Xmm240bMu0V+zMiJoZR15Q=="

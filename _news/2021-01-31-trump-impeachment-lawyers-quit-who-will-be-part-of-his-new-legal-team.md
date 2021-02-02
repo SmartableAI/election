@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump set off Capitol riot 'powder keg', impeachment prosecutors say"
+    excerpt: "House of Representatives officials submit 80-page memo and say ‘Trump’s responsibility for the events of 6 January is unmistakable’"
+    publishedDateTime: 2021-02-02T15:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/fc581ba97fb85a55916e5b6217dc5e92089cf157/0_133_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb5922d739dacae4a012197426171a6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Meet the impeachment managers who will argue Democrats' case against Trump"
     excerpt: "Pelosi said the House will officially send the article of impeachment against Mr. Trump to the Senate on Monday. \"We are respectful of the Senate's constitutional power over the t"
     publishedDateTime: 2021-01-24T12:05:00Z
@@ -234,6 +250,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/us-prosecutors-believe-supporters-of-president-donald-trump.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump Previews Impeachment Defense: It Wasn’t Incitement, It Was Free Speech"
+    excerpt: "Donald Trump’s lawyers on Tuesday previewed their defense of the ex-president during next week’s impeachment trial, responding to pre-trial brief filed by House managers accusing him of a “grievous betrayal” of his oath of office for inciting last month’s attack on the Capitol."
+    publishedDateTime: 2021-02-02T18:47:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/02/trump-impeachment-violates-my-right-to-free-speech.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/trump-impeachment-violates-my-right-to-free-speech.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/trump-impeachment-violates-my-right-to-free-speech.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 72
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/296/878/25434125e8951267e3143453e27a549073-trump-jan-6.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "sEbEEGyeAJCnlwGXDM8yOA0N/Piuq35gq0RyrL9QY7doIda39vGsmlgJB5rL/lv8FMvnwxJtNHJr/ba7uZa7OWo6QaPE7BjPdaSOmZrxOKgdgKv5i18yslfrIQ7/8nUesqE28UjG0dJ6DKsG0Hne0cKqeTa5ksKVAMLijJz0Z5sTGpKUNQUDkVg6F4FxJx4M3giHnuEZt4FiNfwa8C4xijNp4guhZivW5V8JnGDEQH7SkunepL+KyDOInUjJQubboI46dbZJDfJvziubuaSoLnEXS/hvIg2w4oiVI/qORmuwIVJuitL4UkF9N/0rxgXSoNE47tvoISLeDnG51CYycbF4EV6dO8m4O+T4TNF6NNBZIIvMdH8h+b1Jo48nsUZAZjGnMNhxILEm8wiERrT3LUy6Khpw8isapodBlCVU8Ssi+5ecIt17aKL9Q3XVdAerxyVqwZuCY7JU8klJ+PcqVAYaDPXEXU7XQwASpnx6NL9LPI2K4gb5yRUiEiS+QL90/1pMA+MIu695eA5CU/BC+w==;RY++KnDk4nm2JpoPXek+gA=="

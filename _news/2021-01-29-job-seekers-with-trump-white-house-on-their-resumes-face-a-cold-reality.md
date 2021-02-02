@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's legacy of mistrust sends Congress into total war"
-    excerpt: "Former President Donald Trump may be gone from the White House but his legacy of catastrophic mistrust is poisoning Washington, dimming hopes of a unified effort to crush the pandemic before mutant viral strains take root.\n    \n"
-    publishedDateTime: 2021-01-29T12:06:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/inDdLber52w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/donald-trump-republicans-joe-biden-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/donald-trump-republicans-joe-biden-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128150149-03-kevin-mccarthy-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump adviser says former President not currently considering launching a third party "
     excerpt: "Former President Donald Trump remains committed to reelecting Republicans and is not currently considering launching a third party, a senior Trump adviser said Sunday while noting that things could change.\n    \n"
     publishedDateTime: 2021-01-25T00:27:27Z
@@ -143,54 +127,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/24/us/24VIRUS-FAUCIQA2/24VIRUS-FAUCIQA2-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "The Road to Clemency From Trump Was Closed to Most Who Sought It"
-    excerpt: "Of the nearly 240 pardons and commutations he granted during his term, only 25 came through the regular Justice Department process. The rest were a product of connections, influence and money."
-    publishedDateTime: 2021-01-26T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/26/us/politics/trump-pardons.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/26/us/politics/trump-pardons.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/26/us/politics/trump-pardons.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/26dc-pardon-lobby1/26dc-pardon-lobby1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Trump and the Foiled Plot at the Justice Dept."
-    excerpt: "Readers are shocked by what one calls “the most stunning episode” in the former president’s efforts to overturn the election."
-    publishedDateTime: 2021-01-26T18:14:00Z
-    webUrl: "https://www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/26/opinion/letters/trump-justice-department.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/24dc-justice/24dc-justice-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "A top MAGA gathering finds life complicated after Trump"
-    excerpt: "In recent years, the conservative confab has been the go-to stop for rising GOP stars, grassroots organizers and luminaries in the Trump movement. But President Donald Trump’s election loss has created hurdles around programming and guest booking."
-    publishedDateTime: 2021-01-27T18:18:00Z
-    webUrl: "https://www.politico.com/news/2021/01/27/cpac-2021-462907"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/27/cpac-2021-462907"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/27/cpac-2021-462907"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/65/fe/6d62b2ac4fc0ae9b59232ba6b303/gettyimages-1209090127-1.jpg"
-        width: 1895
-        height: 1263
         isCached: true
   - title: "Deborah Birx: ‘Parallel set of data’ on Covid-19 was delivered to Trump"
     excerpt: "I saw the president presenting graphs that I never made,” the former White House coronavirus response coordinator told CBS."

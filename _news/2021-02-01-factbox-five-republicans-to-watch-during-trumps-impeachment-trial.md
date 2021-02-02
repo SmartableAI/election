@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Tim Kaine to Drop Attempt at Censuring Donald Trump Over Lack of Support"
+    excerpt: "Senator Kaine said his bipartisan censure resolution, an alternative to the impeachment trial, does not have enough support from either the Democrats or Republicans."
+    publishedDateTime: 2021-02-02T18:31:00Z
+    webUrl: "https://www.newsweek.com/tim-kaine-drop-attempt-censuring-donald-trump-over-lack-support-1566231"
+    ampWebUrl: "https://www.newsweek.com/tim-kaine-drop-attempt-censuring-donald-trump-over-lack-support-1566231?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tim-kaine-drop-attempt-censuring-donald-trump-over-lack-support-1566231?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1722918/tim-kaine.jpg"
+        width: 594
+        height: 396
+        isCached: true
 
 secured: "fjGI9jxYxAezQPJqhgi4t3lAMkZcxmuSmR0ixW4p4VGeqC8/0g2IAmHE5ZjJYrY2SGzTlHRbV6BB8OZJ1BpWYat1V+fCnQS89ha2YYCvS2OWw4pUFhycUVdZ9JvXD94BfTN+TUCJQ1+U5HZ6eKjhCTOrHj600pjkM3+vBoa7PknGII4WWewSabnbSQGh4oKPE/XGK2C1xnWIJ2QtouSmDgAYfekEOju/Pv1DIWXc8t0JJOneTTeF4keMY3+Py9hZKavDAeeEOUJWBP9hobFOV0qADWiJFz6XIp6oa6MQ7TaleCxQ/t//6YJX1bOwTznlQjkkPM9DD+zJdRRZ7UdZ815zeVf0OwH+rCf3/nxY4nagGcgX+0Druggak0FUZQXqmwjoNDm6QFXq0mrfrTWsaoQf0JRoEXJFAZoOsUZQ4w9kOrgBPiqCnsRz9L1dAR4yG94G/Wm08pt+Oos4ygmOzADGNs8m/TgiRxj7kDcSTuM70fUIR0pdkN2KPobjl8LQE6NqlNlevd003rXQzgaE0g==;kLKS6M40gWA747Z81UPGQQ=="
 ---

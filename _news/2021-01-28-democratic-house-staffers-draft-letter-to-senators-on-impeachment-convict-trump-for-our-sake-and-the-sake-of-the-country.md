@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Read former President Trump's response to the article of impeachment against him"
+    excerpt: "Lawyers for former President Donald Trump filed a 14-page response to the House's impeachment manager's case on Tuesday, in its first filing ahead of next week's Senate impeachment trial."
+    publishedDateTime: 2021-02-02T17:42:00Z
+    webUrl: "https://www.cnn.com/2021/02/02/politics/trump-response-impeachment-article/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/trump-response-impeachment-article/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/trump-response-impeachment-article/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 130
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102113042-101b-donald-trump-serious-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'He threatened the integrity of the democratic system': House introduces one article of impeachment against Trump"
     excerpt: "House Democrats introduced an article of impeachment against President Donald Trump on Monday for \"incitement of insurrection\" when his supporters violently breached the Capitol last Wednesday. The measure,"
     publishedDateTime: 2021-01-11T17:39:00Z

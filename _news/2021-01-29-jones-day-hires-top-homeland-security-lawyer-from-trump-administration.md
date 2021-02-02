@@ -633,6 +633,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump argues impeachment trial is unconstitutional, denies he violated oath of office"
+    excerpt: "Former President Donald Trump has submitted his formal answer to the article of impeachment through his attorneys arguing that the trial is unconstitutional as he is out of office, denied the president violated his oath of office and said insufficient evidence \"exists upon which a reasonable jurist could conclude that the 45th President's statements were accurate or not,"
+    publishedDateTime: 2021-02-02T17:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-argues-impeachment-trial-unconstitutional-denies-violated-oath/story?id=75634370"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-argues-impeachment-trial-unconstitutional-denies-violated-oath/story?id=75634370"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-argues-impeachment-trial-unconstitutional-denies-violated-oath/story?id=75634370"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-fla-20-rt-ml-210120_1611159652714_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "New Trump PAC raised $31.5 million in the weeks after Election Day, as Trump was making baseless claims of voter fraud"
     excerpt: "Trump left the presidency with tens of millions of dollars he can now use to finance his post-presidential political career."
     publishedDateTime: 2021-02-01T09:43:00Z
@@ -692,6 +708,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 114
+  - title: "Trump legal team argues impeachment trial is unconstitutional, denies inciting Capitol attack"
+    excerpt: "In their legal brief responding to the article of impeachment, Trump's lawyers argue the trial is \"in violation of the Constitution.\""
+    publishedDateTime: 2021-02-02T18:22:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-impeachment-trial-legal-team-constitution/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-trial-legal-team-constitution/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-trial-legal-team-constitution/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/31/e6e4b3bf-d221-4e69-9758-c125b8adfeda/thumbnail/1200x630g2/2846660e3574f923ccd0a39f79b733a8/gettyimages-1230689498.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Consumer Financial Protection Bureau, muzzled under Trump, prepares to renew tough industry oversight"
     excerpt: "After taking a largely hands-off approach in the Trump era, the consumer watchdog hatched by Elizabeth Warren is expected to resume issuing tough penalties and rules."
     publishedDateTime: 2021-01-27T18:10:00Z

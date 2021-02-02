@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Lindsey Graham defends Liz Cheney amid attacks from Trump allies"
+    excerpt: "Sen. Lindsey Graham, a South Carolina Republican, became the latest high-profile GOP elected official to defend Rep. Liz Cheney of Wyoming amid attacks from Donald Trump loyalists critical of her vote to impeach the former president last month.\n    \n"
+    publishedDateTime: 2021-02-02T16:53:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cT2MZaxyug4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/liz-cheney-republican-reaction-lindsey-graham/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/liz-cheney-republican-reaction-lindsey-graham/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202112943-lindsey-graham-liz-cheney-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Read: House Democrats' draft of a new article of impeachment against Trump"
     excerpt: "House Democrats have circulated a draft of a new impeachment resolution against President Donald Trump with one article of impeachment, \"incitement of insurrection.\"\n    \n"
     publishedDateTime: 2021-01-08T20:37:32Z
@@ -141,22 +157,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116020618-03-donald-trump-0112-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "House Republicans who voted to impeach face backlash at home in test of Trump's staying power"
-    excerpt: "The wave of backlash facing 10 House Republicans who voted to impeach former President Donald Trump has turned their 2022 primaries into tests of how long Trump, now out of office, can hold the stage in Republican politics -- and whether GOP voters are willing to turn the midterms into tests of loyalty"
-    publishedDateTime: 2021-01-28T21:18:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vzUHPg8R6eA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/house-republicans-impeach-trump-backlash/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/house-republicans-impeach-trump-backlash/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128141317-gop-impeachment-vote-house-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

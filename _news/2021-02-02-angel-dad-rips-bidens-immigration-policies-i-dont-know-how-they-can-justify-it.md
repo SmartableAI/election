@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/angel-dad-rips-biden-immigration-po
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/angel-dad-rips-biden-immigration-policies-jamiel-shaw.amp"
 type: article
 quality: 169
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Migrant numbers increase along US-Mexico border as they await Biden's immigration action"
+    excerpt: "The number of migrants along parts of the U.S.-Mexico border is increasing as they await what they hope are dramatic liberalizations in border security and immigration policy from President Biden – who has already taken significant action to reverse Trump-era policies."
+    publishedDateTime: 2021-02-02T17:54:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lud2mwFcAtg/migrant-numbers-us-mexico-border-bidens-immigration-action"
+    ampWebUrl: "https://www.foxnews.com/politics/migrant-numbers-us-mexico-border-bidens-immigration-action.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-numbers-us-mexico-border-bidens-immigration-action.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hawley rips Biden's 40 executive orders, 'radical policies': 'An attempt to govern by executive fiat'"
     excerpt: "President Biden's 40 executive orders show that he is pursuing a \"far-left agenda\" that will kill American energy jobs, Sen. Josh Hawley, R-Mo., said on Friday."
     publishedDateTime: 2021-01-29T16:29:19Z

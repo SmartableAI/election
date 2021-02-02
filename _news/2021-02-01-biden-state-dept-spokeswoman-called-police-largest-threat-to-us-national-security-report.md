@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-state-dept-spokesperson-polic
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-state-dept-spokesperson-police-threat-national-security.amp"
 type: article
 quality: 164
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden State Dept. spokesperson Jalina Porter who said police are 'largest' national security threat responds"
+    excerpt: "Jalina Porter, deputy spokesperson for the U.S. State Department under President Biden, said she should have \"chosen words that were less passionate and spur-of-the moment\" after her 2016 Facebook post claiming the \"largest threat to U.S. national security are U.S. cops\" came to light."
+    publishedDateTime: 2021-02-02T18:04:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MREtyu3-hHk/biden-state-department-jalina-porter-police"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-state-department-jalina-porter-police.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-state-department-jalina-porter-police.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20329663004767-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "3gx3fbUlGn9At6WuFPcOnUvgVA7yhN4+6Ef5Pk1Weq5E8HIbDu2fBAUlRApWCqU3XyfW4CGqTu11P0MtP9frIzirrp5qqNNGuHvrbzVpcM7rNGvJnzdie/fntn/LVAZGnQVyFvruHhLFtbXM5EyfJq4tfuXTayDgS19NZ4YQORp5hcRDWCPU22g6oMqxScLwICeF83DNsw6Qtky0zCcrDZyC6BovGjINtq9DsSwFlCVTN+hWHq78rSLJ0aMEEfML/4Owm5fbPfxv93VTZgJs0vZ3Ut4diXX2JB+U9vKjuXstDCTfsWNx2BQec7j0SEbypREhJ+6Eh0cKoDsLnqjaIUZ4KG6l3LFhJES5TaPV+II=;/bEInKoGvwB7zfeOR3ISsw=="
 ---

@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Read former President Trump's response to the article of impeachment against him"
+    excerpt: "Lawyers for former President Donald Trump filed a 14-page response to the House's impeachment manager's case on Tuesday, in its first filing ahead of next week's Senate impeachment trial."
+    publishedDateTime: 2021-02-02T17:42:00Z
+    webUrl: "https://www.cnn.com/2021/02/02/politics/trump-response-impeachment-article/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/trump-response-impeachment-article/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/trump-response-impeachment-article/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 130
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102113042-101b-donald-trump-serious-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "QYSEhMmaKSGGjoMNJBJK8IZ8wraOkoJcpA9zdsfkxM7pTvyLB8ZZOiJFcoOyFSUep8UyDadIxnvxTDK874WEqi4TTwVC6S6t0A/y7ln9544ruXq7RiN8qlFBK4YM++0WmoCAkM1rZB2VAMTJwYfNu8uCRJKB3o/Y2UMRZl1nc0mBQM6d/BYMATPAYcqyfizNFUUTCEoxKHS7Day4yFVq6fKNYLexlOFNr2mQanDAi/ckAEml8THStwmt7RRu7or7bGXRlB9zuiD1U+ITor+8xWSeh8jJhNv4b+qhBommgkWZbGYTT/TKs+spyKK1dYycWRr03UguzNhCXvm9BkwtB3GV0uNsazc8lvGi+DYC79s=;rkvp2IIhRZKG9LAhkfm1ag=="
 ---

@@ -61,6 +61,20 @@ related:
         width: 2500
         height: 1712
         isCached: true
+  - title: "Kamala Harris Speaks With Justin Trudeau in First Foreign Leader Call"
+    excerpt: "Washington (AP) -- Vice President Kamala Harris spoke with Canadian Prime Minister Justin Trudeau on Monday, marking her first call to a foreign leader since entering the White House. During the call, Harris offered assurances that the Biden administration ..."
+    publishedDateTime: 2021-02-02T18:17:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-01/harris-speaks-with-trudeau-in-first-call-foreign-leader-call"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1.CqSJ0CzLI/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris' inauguration dress made by Louisiana designer"
     excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
     publishedDateTime: 2021-01-23T14:42:00Z

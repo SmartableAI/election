@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Migrant numbers increase along US-Mexico border as they await Biden's immigration action"
+    excerpt: "The number of migrants along parts of the U.S.-Mexico border is increasing as they await what they hope are dramatic liberalizations in border security and immigration policy from President Biden – who has already taken significant action to reverse Trump-era policies."
+    publishedDateTime: 2021-02-02T17:54:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lud2mwFcAtg/migrant-numbers-us-mexico-border-bidens-immigration-action"
+    ampWebUrl: "https://www.foxnews.com/politics/migrant-numbers-us-mexico-border-bidens-immigration-action.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-numbers-us-mexico-border-bidens-immigration-action.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "p0ObUt07c4Q65na7Hcatte7HbdeOvwxtmrsEop2MSAI9V2p77OPlYjb9oJvfJ1494C0p1M+VbVuRX89XgIE8nTlq980l7+aE0BfrVF1zif9IsJrBrfHpmuO5jfQc+PwB44Gnpti9O0CbDUF1X/b6B6fyTGpt/L4Ghj0VJkN6sBxm6cGXul0cU2Zu3aZs8r179KDrLJS8GmUT80DaNqWfWrRA8NFLe2OqmMeWPE3az27jExmYYQc/IolC0/Y1eDzilLZ4454xeeQC59aR838TbKjgMxf2X/f9k5ZeR9unEbE6Vi6XhxAxJijlFoM3cLbQZjR12WyJLuyVsQJLKX3noULRvrPDf64dzgecbzpiCxQ=;5IXIsgYHGSeje45hZ+zX2w=="
 ---

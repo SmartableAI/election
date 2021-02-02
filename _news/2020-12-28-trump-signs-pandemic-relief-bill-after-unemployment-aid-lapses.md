@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Listen to Trump's sudden stipulation for Covid-19 stimulus bill"
-    excerpt: "President Trump issued a sudden pre-Christmas demand for changes to a desperately needed $900 billion pandemic relief bill that could potentially risk shattering the bipartisan compromise reached by Democrats and Republicans. CNN's Joe Johns reports.\n    \n"
-    publishedDateTime: 2020-12-23T12:57:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4SS99xZY5qk/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/23/trump-pardons-coronavirus-stimulus-johns-pkg-newday-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Here's what happens if Trump doesn't sign the $900 billion relief package"
     excerpt: "Though Congress has passed a $900 billion Covid relief package, millions of Americans are in danger of losing important benefits just after the holidays if President Donald Trump continues to refuse to sign the bill.\n    \n"
     publishedDateTime: 2020-12-24T18:34:08Z
@@ -64,69 +48,37 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's plans to sign relief bill on Christmas Eve were scrapped last minute"
-    excerpt: "On Christmas Eve, staff at Mar-a-Lago made preparations for President Donald Trump to sign the Covid-19 relief package and government funding bill, a holiday gift of relief to millions of Americans suffering in the wake of the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2020-12-28T00:17:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sinCd2eQgZM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/27/politics/trump-relief-bill-christmas-eve/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/27/politics/trump-relief-bill-christmas-eve/index.html"
+  - title: "Four key ways Barr broke with Trump at the attorney general's news conference"
+    excerpt: "Two days before he leaves the Justice Department, Attorney General William Barr offered his sharpest rebuke to date of President Donald Trump's baseless allegations surrounding the election result, rejecting Trump's efforts to act on the conspiracy theories the President has embraced to explain his loss"
+    publishedDateTime: 2020-12-21T22:13:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5F0DS3L1D0g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/barr-news-conference-break-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/barr-news-conference-break-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201226140818-01-trump-south-lawn-1212-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221144127-bill-barr-presser-1221-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Pentagon under pressure from Trump administration to split NSA and Cyber Command"
-    excerpt: "The Trump administration is pushing to make major adjustments to the Pentagon organizations charged with cybersecurity and signals intelligence, according to a US defense official.\n    \n"
-    publishedDateTime: 2020-12-20T01:59:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
+  - title: "Full Panel: Trump downplays widespread U.S. security breach"
+    excerpt: "Hallie Jackson, Yamiche Alcindor and Rich Lowry join the Meet the Press roundtable to discuss President Trump's response to a massive hack of government agencies and businesses reportedly tied to Russia."
+    publishedDateTime: 2020-12-20T14:55:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-trump-downplays-widespread-u-s-security-breach-98115141679"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98115141679"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98115141679"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130128052250-pentagon-aerial-shot-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration taking steps to designate Cuba as state sponsor of terrorism in coming days"
-    excerpt: "The Trump administration will soon take steps toward designating Cuba as a state sponsor of terrorism as an 11th hour effort to create hurdles for the incoming Biden administration, which is likely to pursue warmer ties with Havana.\n    \n"
-    publishedDateTime: 2020-12-30T18:02:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3hDYDPb56hM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/cuba-state-sponsor-of-terrorism-designation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/cuba-state-sponsor-of-terrorism-designation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130617204230-cuba-flag-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump campaign told to preserve all documents related to Sidney Powell and Dominion Voting Systems "
-    excerpt: "President Donald Trump's campaign legal team sent a memo to dozens of staffers Saturday instructing them to preserve all documents related to Dominion Voting Systems and Sidney Powell in anticipation of potential litigation by the company against the pro-Trump attorney.\n    \n"
-    publishedDateTime: 2020-12-19T19:44:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0UXIek4FBSs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1608475557148_mtp_full_panel_201220_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump threw a wrench into Covid relief. What could happen next?"
     excerpt: "President Donald Trump on Tuesday threw a wrench into the massive year-end spending and coronavirus relief bill, leaving the country on edge as the threat of a government shutdown and expiring Covid-19 protections loom over the holiday season."
@@ -160,38 +112,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Relief is coming: Trump backtracks and signs Covid aid into law"
-    excerpt: "The president's last-minute decision will restore enhanced unemployment assistance that expired Sunday and avert a shutdown that would have begun Tuesday."
-    publishedDateTime: 2020-12-28T12:37:00Z
-    webUrl: "https://www.nbcnews.com/news/morning-briefing/relief-coming-trump-backtracks-signs-covid-aid-law-n1252404"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252404"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252404"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438297/201228-trump-relief-mc-829_7c831580b729a43ac8a93b04080975e8.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Some Relief in Sight for Americans After Trump Signs Stimulus Bill"
-    excerpt: "The measure will bring $600 checks for most Americans, and restore lapsed jobless benefits, in the face of what Dr. Anthony Fauci warns may be a further post-holiday surge in cases. Here’s the latest in pandemic news."
-    publishedDateTime: 2020-12-28T10:03:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/28/world/28virus-briefing-lead-sub/28virus-briefing-lead-sub-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "House to vote on overriding Trump's veto of $740 billion defense bill"
     excerpt: "Both chambers of Congress passed the bill with veto-proof margins, but several lawmakers have signaled the override vote could be close."
     publishedDateTime: 2020-12-28T19:12:00Z
@@ -208,35 +128,19 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Wall Street hits record levels after Trump signs fiscal aid bill"
-    excerpt: "\"The passage of the stimulus bill is erasing some fears, and investors are relieved that there is help out there,\" said one economist."
-    publishedDateTime: 2020-12-28T19:26:00Z
-    webUrl: "https://www.nbcnews.com/business/markets/wall-street-hits-record-levels-after-trump-signs-fiscal-aid-n1252438"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252438"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252438"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438387/201228-new-york-stock-exchange-jm-1356_9ab6522bdf53895963efa350fdd587e2.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Loeffler, Perdue side with Trump on $2,000 stimulus payments"
-    excerpt: "The Georgia senators, in close runoff races, wouldn’t say whether they’d vote to override the president’s veto of the defense bill."
-    publishedDateTime: 2020-12-30T00:08:00Z
-    webUrl: "https://www.politico.com/news/2020/12/29/loeffler-trump-stimulus-payments-451860"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/29/loeffler-trump-stimulus-payments-451860"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/29/loeffler-trump-stimulus-payments-451860"
+  - title: "Trump opens up federal dollars for private school vouchers amid pandemic"
+    excerpt: "The White House said that the order would give states new flexibility in how they use federal block grant programs that provide money for a wide range of community services."
+    publishedDateTime: 2020-12-29T01:24:00Z
+    webUrl: "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 135
+    quality: 134
     images:
-      - url: "https://static.politico.com/55/3b/4bdd329d492b8912eb8cb39d61c8/gettyimages-1230123259-1.jpg"
+      - url: "https://static.politico.com/d2/36/af02c71045b48e9bd5687ed719b2/ap20066831578298-1.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -256,36 +160,6 @@ related:
         width: 2500
         height: 1666
         isCached: true
-  - title: "In win for Trump, Supreme Court throws out challenge to his census plan to exclude undocumented immigrants"
-    excerpt: "This case is riddled with contingencies and speculation,” the court said in a short, unsigned opinion, referring to the states' challenge."
-    publishedDateTime: 2020-12-18T15:49:00Z
-    webUrl: "https://www.nbcnews.com/politics/supreme-court/win-trump-supreme-court-throws-out-challenge-his-census-plan-n1251698"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251698"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251698"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 117
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_36/3306571/200413-census-poster-coronavirus-ac-505p_ae7532cbbf8350ffcd49b8f899c75c2a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Stanley Chera Was a Mogul Who Made Covid-19 Personal for Trump"
-    excerpt: "The Lives They Lived The Lives They Lived By Jamie Lauren Keiles Shortly after his Covid diagnosis — fever spiking, hooked up to an oxygen tank — Donald Trump reportedly wondered aloud to an aide, “Am I going out like Stan Chera?” Like so many ..."
-    publishedDateTime: 2020-12-23T10:33:00Z
-    webUrl: "https://www.nytimes.com/interactive/2020/12/23/magazine/stanley-chera-death.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/27/magazine/27mag-chera/27mag-chera-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Presidential Transition Live Updates: After Refusing to Sign the Relief Bill, Trump Suggests He May Take Action"
     excerpt: "President Trump tweeted, “Good news on Covid Relief Bill. Information to follow!” Democrats’ House losses in California signal the steep obstacles they will face in 2022. President Trump’s fraud claims died in court,"
     publishedDateTime: 2020-12-28T00:27:00Z
@@ -301,20 +175,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/27/us/politics/27transition-briefing-stimulus-promo1/27transition-briefing-stimulus-explainer2-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Pandemic complicates street vendor reform — Trump pardons Chris Collins — City pushes for expanded use of speed cameras"
-    excerpt: "Subscribe for Season Two, available now. — President Donald Trump blasted the $900 billion coronavirus relief package passed by Congress, calling it a “disgrace” and asking for amendments to the bill to increase stimulus payments to Americans."
-    publishedDateTime: 2020-12-23T12:11:00Z
-    webUrl: "https://www.politico.com/newsletters/new-york-playbook/2020/12/23/pandemic-complicates-street-vendor-reform-trump-pardons-chris-collins-city-pushes-for-expanded-use-of-speed-cameras-491239"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 91
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "lXlyM9pRhNqUteuMkgvY+ETQan19Ik5M8gbkbdA+DV5L+qJ9Izf7pkOKgPZXmYgbPwudAgQvbSRbPCQeh+fWkR4M3+IsvfRkL6o9naNN+gCOIlRNF7YGhrWdkDhDX1lzvv/eqW+ibdviv/gf3s62UA3SbbWdlofGaJWFidYLhD4tmh0Y2aclRZcJ0dnILu1IuvuB9JRaQzG2SClNlP7SXd24AZHjCfY3EvlI3OMtyw6xanrkGMnX3IiQUCGU2de9/fTx2JsRg47FEaejsSDnK7EcYZ6ZqJduHy/0ZRrbpJSbaVNLmFETW6xVGIKoOpTLMiFay5x42ZhmR1KOMr4G5u9zIODpyRvUpCjj6kaqH8pO93MSQfqcGiHfcMPFY+CfMhAA/gPP0wsxGQi73Odb/cjiTSF0SV7Az3N+I1R7J4vICW4sf/Vh/UdQwYEBN9UaBweapdqG9p6n/i3hjx0b9S+TtiUbGZzmqkGj9Nb78WGMJ2SQOnREDhHRKkWUi0j6ASd5kCQZwVV3yljUiASAaA==;ieT/ACrtOYCpoe5eWBLwIQ=="

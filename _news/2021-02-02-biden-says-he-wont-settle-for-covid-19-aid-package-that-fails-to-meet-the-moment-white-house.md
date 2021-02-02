@@ -335,6 +335,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Vice President Kamala Harris speaks with Trudeau in first foreign leader call"
+    excerpt: "Vice President Kamala Harris pledges help in the release of two Canadian citizens detained by China in call with Canadian Prime Minister Justin Trudeau."
+    publishedDateTime: 2021-02-02T18:08:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-02-02/harris-speaks-with-trudeau-in-first-foreign-leader-call"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-02-02/harris-speaks-with-trudeau-in-first-foreign-leader-call?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-02-02/harris-speaks-with-trudeau-in-first-foreign-leader-call?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 122
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d7f0482/2147483647/strip/true/crop/4307x2813+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcc%2Fd5%2Fc4b4d1a94187b12a011a9623b5b0%2Felection-2020-joe-biden-74848.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden turns to US healthcare access in face of worrying Covid projections – live"
     excerpt: "President to sign executive action on healthcare as experts warn of 500,000 death toll by February’s end"
     publishedDateTime: 2021-01-28T14:26:00Z
@@ -414,6 +430,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5QSCURTBVAI6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Despite 'productive' Republican meeting, Biden will not accept a scaled-down COVID-19 bill -White House"
+    excerpt: "After meeting with Republican senators at the White House on Monday, President Joe Biden appeared poised to push forward with his $1.9 trillion COVID-19 relief plan even if it fails to draw Republican support."
+    publishedDateTime: 2021-02-02T17:03:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A12TV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A12TV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A12TV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 109
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550004131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1112L"
+        width: 817
+        height: 545
         isCached: true
   - title: "Politics live updates: Biden to outline racial equity agenda; senators to be sworn in for impeachment trial"
     excerpt: "President Joe Biden is turning the spotlight on racial equity, one of the four “converging crises” he has said is facing the nation."

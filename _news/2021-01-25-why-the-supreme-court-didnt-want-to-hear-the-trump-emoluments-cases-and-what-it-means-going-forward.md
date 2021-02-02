@@ -111,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Senate Republicans say Trump should be held accountable for riot -- but not by them"
-    excerpt: "To Senate Minority Whip John Thune, former President Donald Trump's actions ahead of the deadly Capitol riot are totally indefensible.\n    \n"
-    publishedDateTime: 2021-01-30T02:05:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a444TyPXHQg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/senate-republicans-trump-impeachment-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/senate-republicans-trump-impeachment-capitol-riot/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170515101540-01-john-cornyn-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "From building the wall to bringing back coal: Some of Trump's more notable broken promises"
     excerpt: "While Donald Trump's first campaign for president was all about change, his argument for re-election was based on the premise that he had delivered on his initial promises and would continue to do so. The campaign slogan \"Promises made, promises kept,\" became Trump's rallying cry.\n    \n"
     publishedDateTime: 2021-01-30T16:07:51Z
@@ -159,22 +143,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Kaine working on Trump censure resolution though other Democrats throw cold water on the idea"
-    excerpt: "Democrat Sen. Tim Kaine of Virginia said Wednesday he has drafted a resolution to censure former President Donald Trump for his actions ahead of the January 6 deadly riot at the US Capitol, a method some think would be a faster way to hold Trump accountable than an impeachment trial.\n    \n"
-    publishedDateTime: 2021-01-27T17:03:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qsTgE01YtkU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/trump-censure-proposal-democrats/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/trump-censure-proposal-democrats/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213182016-01-tim-kaine-virginia-democratic-senator-0213-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "NY judge orders Trump Organization's tax firm to hand over more documents to state attorney general"
     excerpt: "A New York state judge on Friday ordered a tax firm that has worked with former President Donald Trump to turn over more documents to New York Attorney General Letitia James as part of her office's investigation into the Trump Organization.\n    \n"
     publishedDateTime: 2021-01-30T00:48:40Z
@@ -188,22 +156,6 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "House Democrats to accuse Trump of intentionally inciting rioters with months-long campaign to subvert voters"
-    excerpt: "House impeachment managers are preparing a case for next week's Senate impeachment trial to argue former President Donald Trump acted intentionally in a months-long efforts to subvert the will of the voters that incited the US Capitol riot, as well as why it's constitutional for convicting Trump after"
-    publishedDateTime: 2021-02-01T22:12:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HAMr6taNIHw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/impeachment-house-trump-riots/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/impeachment-house-trump-riots/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 156
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119165051-honig-pardon-op-ed-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -317,22 +269,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Why Trump can still be impeached after he left office"
-    excerpt: "Can a president who has already left office be impeached, tried, and convicted by the Senate if you can't remove him from that office? NBC News’ Danny Cevallos breaks down the argument."
-    publishedDateTime: 2021-01-28T10:23:00Z
-    webUrl: "https://www.nbcnews.com/now/video/why-trump-can-still-be-impeached-after-he-left-office-99998789634"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99998789634"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99998789634"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_impeac_dannycev_210125_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "After Trump, Democrats set out on a mission to 'repair the courts'"
     excerpt: "The White House and senators are coordinating on an ambitious judicial project. Some Democrats want to fill every vacancy by the end of 2022."
     publishedDateTime: 2021-01-30T10:01:00Z
@@ -378,22 +314,6 @@ related:
     quality: 134
     images:
       - url: "https://static01.nyt.com/images/2021/01/28/us/politics/28dc-mccarthy-1/28dc-mccarthy-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "As Trump Raked In Cash Denying His Loss, Little Went to Actual Legal Fight"
-    excerpt: "The picture that emerged in new campaign finance reports was of Donald J. Trump waging a public relations effort to falsely argue that he had won the election rather than mounting a serious legal push."
-    publishedDateTime: 2021-02-01T05:53:00Z
-    webUrl: "https://www.nytimes.com/2021/02/01/us/politics/trump-election-donors-spending.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/01/us/politics/trump-election-donors-spending.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/us/politics/trump-election-donors-spending.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/31/us/politics/31trump-campfin/31trump-campfin-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -461,22 +381,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Most Senate Republicans declare Trump's trial unconstitutional. Here's what that means for conviction."
-    excerpt: "Forty-five GOP senators voted Tuesday to dismiss the trial as unconstitutional, given Trump's status as the former president."
-    publishedDateTime: 2021-01-27T06:33:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/most-republicans-declare-trump-s-trial-unconstitutional-here-s-what-n1255704"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255704"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255704"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 119
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_04/3445141/210126-mitch-mcconnell-jm-1446_94eb9c57c0a05509588ca46a2a018f32.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Trump goes MIA as former aides deal with the harm he caused them"
     excerpt: "The former president has all but vanished from public view while his former team navigates an unforgiving job market."
     publishedDateTime: 2021-01-25T09:35:00Z
@@ -504,20 +408,6 @@ related:
       - url: "https://static.politico.com/58/de/b0653d484332b42ce97b3255aab1/210127-mcconnell-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "The Real Scandal Is the Pardon Trump Didn’t Give"
-    excerpt: "Rufus Rochell checked all the right boxes for clemency: an exemplary record in prison, advocacy out of it, and a friendship with a famous Trump booster. So why didn’t he get it?"
-    publishedDateTime: 2021-01-29T09:31:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/01/29/trump-pardon-didnt-give-rufus-rochell-463587"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/32/751e863c4a1db7364b990ef28e44/lede.Rufus.Rochelle.Wallace.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Bill Cassidy says Trump defense should focus on impeachment charge"
     excerpt: "Cassidy’s suggestion follows reports that members of Trump’s legal team resigned just days before the trial following a disagreement over how the defense should be constructed."

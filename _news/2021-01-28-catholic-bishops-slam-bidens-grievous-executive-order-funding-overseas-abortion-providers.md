@@ -31,53 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Obama praises Biden's executive order blitz: 'This is a time for boldness'"
-    excerpt: "Former President Barack Obama praised President Biden on Thursday for enacting a sweeping slate of executive orders within hours of his inauguration as president."
-    publishedDateTime: 2021-01-22T02:35:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4SO-bhHBdXk/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness"
-    ampWebUrl: "https://www.foxnews.com/politics/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness.amp"
+  - title: "Senate approves Pete Buttigieg as Biden's transportation secretary"
+    excerpt: "Pete Buttigieg, known throughout his 2020 presidential bid as \"Mayor Pete,\" got a big promotion Tuesday to become President Biden's next transportation secretary. "
+    publishedDateTime: 2021-02-02T18:17:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7OsBlX8zki0/senate-approves-pete-buttigieg-as-bidens-transportation-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-approves-pete-buttigieg-as-bidens-transportation-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-approves-pete-buttigieg-as-bidens-transportation-secretary.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/158a5324-bd78-42b4-bb85-fe4a4bbe248a/0a3fc3cf-becc-42c4-8c73-788c6711f952/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21009751368144.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Likely Biden deputy labor secretary pick could face Senate scrutiny over California unemployment fraud"
+    excerpt: "California Labor Secretary Julie Su, President Biden’s reported pick to serve as deputy secretary in the US Department of Labor, could face tough scrutiny in the Senate."
+    publishedDateTime: 2021-01-27T02:58:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8vP7B0ygntk/reported-biden-deputy-labor-secretary-pick-senate-scrutiny-california-unemployment-fraud"
+    ampWebUrl: "https://www.foxnews.com/politics/reported-biden-deputy-labor-secretary-pick-senate-scrutiny-california-unemployment-fraud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reported-biden-deputy-labor-secretary-pick-senate-scrutiny-california-unemployment-fraud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ca9378b-1b69-418e-961d-8dfadaa4d8db/e210e89d-35ba-4cf6-bde4-b826ff726bba/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Sarah Sanders slams Biden’s ‘absurd’ executive orders: 'Killed' jobs on day one"
-    excerpt: "Former White House Press Secretary Sarah Sanders blasted President Joe Biden and his administration Thursday for using their executive powers to \"kill\" American jobs during their first week in office."
-    publishedDateTime: 2021-01-28T19:22:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uH_Gp5ow8EM/sarah-sanders-biden-executive-orders-killing-jobs"
-    ampWebUrl: "https://www.foxnews.com/politics/sarah-sanders-biden-executive-orders-killing-jobs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sarah-sanders-biden-executive-orders-killing-jobs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Arizona sheriff rips Biden's immigration actions as 'political theater': 'Stop this madness'"
-    excerpt: "An Arizona sheriff warned on Monday that President Biden’s executive orders on immigration are “hasty” and encouraged the president to “stop this madness.”"
-    publishedDateTime: 2021-01-26T13:59:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_m8C39sKmts/arizona-sheriff-biden-immigration-actions-political-theater-border-security"
-    ampWebUrl: "https://www.foxnews.com/politics/arizona-sheriff-biden-immigration-actions-political-theater-border-security.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-sheriff-biden-immigration-actions-political-theater-border-security.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "mDsAQXWdDkO34gG2huBFxbdkBlOsLmfg8vF21tPNoZtuS3SlhToOF627wO0FmyWhxK1DzIVNWNwLEyGQ/RZWn0lrT1dADfUZ4tUGM0ha3+LjpMkfJof3tjbkmMwcnRqsJ+WpGi3tYSFDjvGIGKZ2okcfM9IJK0W5VeRUTmLajlwWYkekWLtAPwnSIGhpxpBwoR0i61/1p0AQPbbnTmnAHbhTv0eT+AIsjJQmOTOqeMqJWLIKCRIuQQ1WbpICtNVzFgopQlE4vsm8M1E1QSpyydTSc/eVACCB5PoKNWVap+U6gvuWSeLxQ46cG0Ket6DT2VWDwNZR1iEM2QoBZlu33q1wcKHq9Qhzqmd+cJaOwsY=;tIGAnbcrsrIg6olrvwbkww=="

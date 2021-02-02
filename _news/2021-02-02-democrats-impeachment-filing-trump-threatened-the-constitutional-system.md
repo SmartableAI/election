@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-filing/index.html"
 type: article
 quality: 173
-heat: 213
+heat: 233
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Read former President Trump's response to the article of impeachment against him"
+    excerpt: "Lawyers for former President Donald Trump filed a 14-page response to the House's impeachment manager's case on Tuesday, in its first filing ahead of next week's Senate impeachment trial."
+    publishedDateTime: 2021-02-02T17:42:00Z
+    webUrl: "https://www.cnn.com/2021/02/02/politics/trump-response-impeachment-article/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/trump-response-impeachment-article/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/trump-response-impeachment-article/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 130
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102113042-101b-donald-trump-serious-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'He threatened the integrity of the democratic system': House introduces one article of impeachment against Trump"
     excerpt: "House Democrats introduced an article of impeachment against President Donald Trump on Monday for \"incitement of insurrection\" when his supporters violently breached the Capitol last Wednesday. The measure,"
     publishedDateTime: 2021-01-11T17:39:00Z
@@ -64,6 +80,6 @@ related:
         height: 1663
         isCached: true
 
-secured: "Z7K6O1UQ4n4PshIqwPbaMBqbviwT6dz1X6FYfivG+FdYG1nP9WoGN3TTkODpyLHmcF9TFDw1/eYrAXuZu6Lor83qbbdXbY5KqdPNrlk52+sQlA4+GRS7zrjZYTbY1cQ+GjTQffIM/PZBDLmlnSNFSLFyp52abL4mihgcajIeZ3W93WkbZh/t3AJEbku6Odzuplv7gfGtZA5CHUVnFm0vjg4P77OYa11gchACwf74EHe2waYXNO9Su+MdpPHMF4FE+l7A1F6eZpCCJE4d3/AkVJLE7ZEeqcb8JdTEhPT6QcYiDjyKox9QK9SwSsWyg5ZywAblaeYGbZpeecw5Lwnvq3jq8f2T4WAVsWdKvjYawh8=;Un/easSFY34oY80t+py65Q=="
+secured: "Fzg4Vb6dezgozpyL3/jyC3bNlRytG8rR0mGy1s+JyzLfP758gNjXgUZbMpPKB55/qUGAXq/dTWiTWamlApEZ6L1YlIHdIoTkCEzhUsdp72N9TkZzaHekrlSiCkC4cX16KDFvcEYowqguA7Acea+18EHTuF1k0tOvaoR0Ph2vTj4N69ZXSPVoCgTDMZVZ180vs3D2XQa/EpwCR+GsXbyGYjc2e1qTEuNtNDUOyGPE3k22tXxJBhZT0884JC9lTWYjsXEaRG8flZaNZHIRg5cz8B+ieKIHg8HwopgBEOzvp48Z3XWhAfJZ9g7xGYzK8/Cj93leMhKpZH6tB5Kq85VV4AkGgZ7MsePAsTWsLbixmdA=;C2jSsCWE1qLCqeJL0gbK+Q=="
 ---
 
