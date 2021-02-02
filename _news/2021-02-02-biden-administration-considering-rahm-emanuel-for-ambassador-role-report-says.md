@@ -1,0 +1,83 @@
+---
+category: news
+title: "Biden administration considering Rahm Emanuel for ambassador role, report says"
+excerpt: "Former Chicago mayor and ex-Obama chief of staff Rahm Emanuel might still end up in the Biden administration."
+publishedDateTime: 2021-02-02T15:59:52Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MddK2eJxG8U/biden-rahm-emanuel-administration-role"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MddK2eJxG8U/biden-rahm-emanuel-administration-role"
+ampWebUrl: "https://www.foxnews.com/politics/biden-rahm-emanuel-administration-role.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rahm-emanuel-administration-role.amp"
+type: article
+quality: 171
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
+    isCached: true
+
+related:
+  - title: "NAACP warns Biden over Rahm Emanuel rumors"
+    excerpt: "The NAACP became the latest progressive group to warn President-elect Joe Biden against adding former Chicago Mayor Rahm Emanuel to his Cabinet."
+    publishedDateTime: 2020-12-02T20:32:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JmzBKP0XY-s/naacp-biden-rahm-emanuel-rumors"
+    ampWebUrl: "https://www.foxnews.com/politics/naacp-biden-rahm-emanuel-rumors.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/naacp-biden-rahm-emanuel-rumors.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/08/08/694940094001_5819321962001_5819321658001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Top Biden economic adviser accused by former employee of mismanagement, retaliation over blog post"
+    excerpt: "Biden appointed Heather Boushey to the Council of Economic Advisers this week."
+    publishedDateTime: 2020-12-03T05:56:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VCdImiSLLlQ/biden-economic-adviser-accused-former-employee-mismanagement-retaliation-blog-post"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-economic-adviser-accused-former-employee-mismanagement-retaliation-blog-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-economic-adviser-accused-former-employee-mismanagement-retaliation-blog-post.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0057dcd5-8a66-46c5-a417-b75dc305ccbf/ebe455b5-2e5b-4cda-aade-25221a8bc5a6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rahm Emanuel: Biden Has Four Unprecedented Crises, Four Unprecedented Opportunities"
+    excerpt: "Former Chicago mayor and former Obama chief of staff Rahm Emanuel comments on the opportunities presented to the Biden administration in the wake of four unprecedented crises, during ABC's \"This Week\" roundtable on."
+    publishedDateTime: 2021-01-19T09:23:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/17/rahm_emanuel_biden_has_four_unprecedented_crises_therefore_four_unprecdecented_opportunities.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/50/503567.jpg"
+        width: 500
+        height: 375
+        isCached: true
+
+secured: "9oIBQnEmaSMX4Zj3X7nvDsqM89TAujoqR8ywT64Hji+8vy6pjq2kghpVB+tIc+aLZGNdZigb90OCbDbwlrfoIRF+FiKOoyZ7urWiH1YzPDDUigic4uEj+kEqK0G32N/Y+yw6Z5yXs1q6UNLv+amMTmF4dO9yQd1Fa1+7bXsDoDHb9GyesrnEu//NmpRodBpBvR38FInUw7UE2UjKdZEMa7In1WMM2gGTyO01rv4+Bm4ScdXDtNd+mIP9Nu9+zQy5hijt+iw2nmUfCkg0AB9EW5t9WK6SF8PZ8RXgjucOr+3fq+OKFgAkBegFkl/xHeDdpTdaVDRWsTfFqzJsqJtGi5NKVUOnygycv577JHQORa0=;btL0u4d5XMka+UnR/uia+A=="
+---
+

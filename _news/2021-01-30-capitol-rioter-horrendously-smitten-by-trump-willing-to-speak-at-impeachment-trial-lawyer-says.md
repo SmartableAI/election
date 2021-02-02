@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "House Impeachment Managers: Trump Whipped Mob Into 'Frenzy,' Aimed It At Capitol"
+    excerpt: "Ahead of next week's trial, a brief argues the Jan. 6 riot would not have happened without Trump \"creating a powder keg, striking a match, and then seeking personal advantage from the ensuing havoc.\""
+    publishedDateTime: 2021-02-02T16:32:00Z
+    webUrl: "https://www.npr.org/2021/02/02/963214171/house-impeachment-managers-trump-whipped-mob-into-frenzy-aimed-it-at-capitol"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 100
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/02/gettyimages-1294908917_wide-bea1d1b4e5cafd824125f698183816eba3e599a3.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
 
 secured: "LxmOKDAb9+Pqn1e6dhvHlobratB9p1PmOz5pG1isUHFVsqc5+pGLyFi2VioZNj7anB8CXq67k+mDSDQ8ikUdJfGeMShwyTilpuR5FJ8GZwS8zHNWMb6xPD3bxL0hIDEuQKr66jvs9wIN26rCKKvPdCMVhiIPQiMP//hS+JJCTiWsRWNSw94MXZbf98TtJZli4A4x7TuGVrBj9swTqUQgp3BgewqAOc8M51/V8UH5nAgTntlCiBHd5FS9TYv+aEKrB1GHfz5teLb6ssMos549F08KLvBLsVycJAudZZtczRMa0aQhIa7lrFNoL2Fmx+P2u2nSLAA1XD0dMgvGRZhMiLdAxXPTSbAu/DTWxwO1d9r/Nrc0NdhhSXfOn16wGsBtFDPSrpqI+KV0O/AsyZnhk7qLX/bQnHbQZ3CF7lwqcMMl6b8zeRzz8zAjgfnVVTQzxd2FB37MRyPVq06bljHX3a0Kpew3hcWe+rxWZVC1rOdy/gaK63hlgNFVBSadf/zKoFkeO7z+FE8w/wkLnZ+J+g==;MdgZKzLzzibqLsFxbtiJag=="
 ---

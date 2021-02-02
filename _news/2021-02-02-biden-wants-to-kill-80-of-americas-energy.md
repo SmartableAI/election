@@ -3,8 +3,8 @@ category: news
 title: "Biden Wants to Kill 80% of America's Energy"
 excerpt: "When giving speeches and talking to audiences, I've often been struck by how few Americans, even those who are highly educated, have any idea where the"
 publishedDateTime: 2021-02-02T11:40:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.amp.html"
 type: article
@@ -93,6 +93,6 @@ related:
         height: 720
         isCached: true
 
-secured: "NZ2NlY6388eRd4AJQZCb8jnVYyh448vqdpyyv4xB0ysKhJO99QaEKJrpJmIxjDAem7LOokPM6Df+ApGT5fkn5q8FKyGJa6roH/fucZBQJvzukZELi0pQmZ+94qZ9XVi+1YWbAhdhr4RsNoy8WSjIgl+ahM1r4Va8KM3XQT23NcT8o7w6X9wg2MNH0zxX6TiS0JzKqrn/T3KJavc/lAVKY0w8hezOyY3O0jOeSY3l1Op1xcIATBqpOgWPOEcAqNhZ6VA96/HV0oa9OUCS57lzFqWSYM6lmJhzpywnjYJO3aT0rLUlp9OJeFXrtRATUvWkNI8ZJaox56sGwtvmSUn4L2mB4jRLb+7fHKteXYuMTsE=;/4KolndZlTviCD3sI6FGHg=="
+secured: "EF0/vbgRAES2zn94icQS8HnkvWaGp0mR/Ie7dj9iQxrhYB3fsrgAAmygZKAJ/rEbIL/TBygNRevIoGtVHSlARLycqH/Uy65nAfc1/TzblLPLAixec82J6UY41nAfzR318hWuaLVSyHs8AIkm0yHmMz9o5w3RWd7i8dEoDe+zHnKZDh5zryfTd0LH+cF1sy+eNHirT6E4mD+5Q65z8miVGhnA/2uW14Pye322Iv60QKjiglOYnsoLLYXe4ZnfDCTGBw94N75UaqKuMwSDXNjiCDHVQOzp0eeD8i4GzDpkEB1T3AIztxalJF0KKoFywcEKspaJYvYBCWmoEkuN/sCfZ/yLaZzMY3rkc7GwfEvo2Qs=;Az31Pg8aYjgA3Myd1vR9tg=="
 ---
 

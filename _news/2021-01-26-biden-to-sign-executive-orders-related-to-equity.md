@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration expected to announce direct vaccine shipments to pharmacies"
+    excerpt: "The Biden administration is set to announce it will soon begin direct shipments of coronavirus vaccines to retail pharmacies, according to an official familiar with the matter, expanding points of access for Americans to receive shots.\n    \n"
+    publishedDateTime: 2021-02-02T16:46:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dxQB0iyPx3U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/vaccine-shipments-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/vaccine-shipments-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202112552-01-vaccine-denver-0130-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

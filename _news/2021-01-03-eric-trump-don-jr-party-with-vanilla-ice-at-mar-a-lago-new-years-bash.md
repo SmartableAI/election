@@ -44,6 +44,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump impeachment managers file pre-trial brief against former president: 'Evidence is overwhelming'"
+    excerpt: "The House impeachment managers on Tuesday morning filed their pre-trial brief in their case against former President Donald Trump, previewing the argument they will make against him in the Senate trial set to start in one week."
+    publishedDateTime: 2021-02-02T15:25:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSIq7IdJzwI/impeachment-managers-file-pre-trial-brief-against-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21012753304432.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Congress set to override Trump veto for first time in presidency"
     excerpt: "SMITH: OK, Steve Harrigan live from Atlanta for us, thank you. President Trump and President Joe Biden both expected to make appearances in Georgia on the eve of the election. To Peter Doocy now in Augusta, Georgia, for us on that -- Peter. something ..."
     publishedDateTime: 2021-02-01T18:42:00Z

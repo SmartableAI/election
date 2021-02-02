@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration faces mounting pressure to address SolarWinds breach "
-    excerpt: "Despite announcing a thorough intelligence review of Russian misconduct, President Joe Biden's administration faces mounting pressure to respond to one of the worst data breaches ever to hit the US government.\n    \n"
-    publishedDateTime: 2021-01-23T14:01:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3u4ki7B5hJw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html"
+  - title: "Biden administration designates Myanmar military takeover as a coup"
+    excerpt: "The Biden administration has formally determined that the military takeover in Myanmar constitutes a coup d'état, a designation that requires the US to cut its foreign assistance to the country.\n    \n"
+    publishedDateTime: 2021-02-02T16:15:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UNF_PydGXyM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/myanmar-state-department-coup-determination/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/myanmar-state-department-coup-determination/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122143235-01-biden-inauguration-speech-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Proximity to power: What the West Wing office layout says about the Biden administration"
-    excerpt: "It's an adage in any high-pressure office: proximity is power. Nowhere is that more true than the West Wing.\n    \n"
-    publishedDateTime: 2021-01-26T01:35:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cbK0sSAPZo8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/west-wing-offices-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/west-wing-offices-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125145716-20210125-biden-whitehouse-staff-access-gfx-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202085225-05-myanmar-coup-0202-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -78,6 +62,38 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127171643-01-matamoros-mexico-asylum-seekers-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "An inconvenient insurrection tests Biden on China, democracy support"
+    excerpt: "| Lauren DeCicca/ Just days into his tenure, President Joe Biden already is grappling with a foreign policy crisis — a military coup in Myanmar — that could put his administration at odds with China,"
+    publishedDateTime: 2021-02-01T18:53:00Z
+    webUrl: "https://www.politico.com/news/2021/02/01/myanmar-coup-biden-china-democracy-464444"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/01/myanmar-coup-biden-china-democracy-464444"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/01/myanmar-coup-biden-china-democracy-464444"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/df/45/bc1dfde84d87ac4f1faf5cb8a5b1/gettyimages-1299740192-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Can immigrant rights advocates get Biden to end for-profit ICE detention?"
+    excerpt: "Most immigrant detainees don't have criminal convictions, while the ICE budget for detentions soared. \"It's such a cruel system,\" one advocate said."
+    publishedDateTime: 2021-01-29T16:47:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/can-immigrant-rights-advocates-get-biden-end-profit-ice-detention-n1256073"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256073"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256073"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3445907/210128-central-valley-modified-correctional-facility-geo-group-exterior-2019-ac-1023p_aaedf1a26689356ce88b2c83acaacee0.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "CP/rPYxzze8BQEfmZf22IxuXPytnou7JYbjuTIW9Xt3LVHjG7zX5h52u81rVP21t2yC6lCxdBpijFAHZNH/XOM3Ffem2M7xYdeaJy1+ge7ti8t5kpaTUlcmfUrmkpf3CJo8dJpWYUvSBDgoYNLr6nEBtTXPsb8kaUFikCkhKMNSwVfLXwLYHHfuODBj505cuZ8fmzA1UJ9JZ9UaWTHP9/yIWZanqJjTUuJOZ2J4pvYXUNwJOQCRvp0oSIDctBXko35NBooolcPtd4zSDNBJI9H9NJwWZRIq55hzN291i7Cs/G46GwhVW1JKRbwXA4KDGnapFhYIl8OrGbikx7LmNWzfoaWkccH29kftLkoZ6nQk=;lPpupDGXOYcnxNUaWoIfng=="

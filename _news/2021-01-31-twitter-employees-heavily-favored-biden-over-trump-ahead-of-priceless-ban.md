@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-biden-trump-ban-2020-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp"
 type: article
 quality: 188
-heat: 408
+heat: 428
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://images.wsj.net/im-293457/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Joe Biden will keep Trump administration’s UAE aluminum tariffs"
+    excerpt: "President Joe Biden will keep in place the Trump administration’s aluminum tariffs on the United Arab Emirates, after initially reversing the policy. In a proclamation issued Monday, the"
+    publishedDateTime: 2021-02-02T16:43:00Z
+    webUrl: "https://nypost.com/2021/02/02/biden-will-keep-trump-administrations-uae-aluminum-tariffs/"
+    ampWebUrl: "https://nypost.com/2021/02/02/biden-will-keep-trump-administrations-uae-aluminum-tariffs/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/02/biden-will-keep-trump-administrations-uae-aluminum-tariffs/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/biden-aluminum.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden Orders Review of Trump Health-Care Policies, but Move Likely Faces Bumps"
     excerpt: "President Biden signed executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."

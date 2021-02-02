@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump lawyers to file pretrial documents with U.S. Senate in preview of impeachment defense"
+    excerpt: "Former President Donald Trump faces a deadline on Tuesday to respond to the U.S. House of Representatives' impeachment charging him with inciting insurrection in a fiery speech to supporters before last month's deadly assault on the Capitol."
+    publishedDateTime: 2021-02-02T16:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/trump-lawyers-to-file-pretrial-documents-with-u-s-senate-in-preview-of-impeachment-defense-idUSKBN2A218W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A218W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A218W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549977474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH110OI"
+        width: 813
+        height: 545
+        isCached: true
   - title: "Trump loyalists in South Dakota turn on home state senator"
     excerpt: "Longtime South Dakota Republican voter Jim Thompson is ready to leave the GOP, hoping that an exodus of Donald Trump supporters like him will punish the state's preeminent politician, , for defying Trump."
     publishedDateTime: 2021-02-01T05:01:00Z

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-29-cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.md",
+      "title": "Cuomo blames nursing home scandal on 'political attack' by Trump admin",
+      "excerpt": "In his first public comments since a scathing attorney general report finding New York Gov. Andrew Cuomo’s administration undercounted nursing home deaths, the governor on Friday argued criticisms of him were a \"political attack\" that began with the Trump administration. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/262Ph4N8eJ8/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/262Ph4N8eJ8/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8026521c-9bdb-469e-89f3-e20f16b14ada/867e4894-5263-4683-bb40-4b9492ddefc6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp",
+      "publishedDateTime": "2021-01-29T10:51:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.md",
       "title": "Biden reportedly warned family about business dealings before election: 'For Christ’s sake, watch yourself’",
       "excerpt": "President Biden, before the presidential election, reportedly told his family to \"watch yourself\" about their business dealings, Politico reported, as their various financial entanglements came under scrutiny.",
@@ -278,6 +334,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-bidens-radical-left-agenda-with-no-focus-on-jobs-will-hurt-family-after-family-scott.md",
+      "title": "Biden's 'radical left agenda' with no focus on jobs will 'hurt family after family': Scott",
+      "excerpt": "President Biden showed that he is merely a \"puppet for the radical left\" after ending the Keystone pipeline project, Sen. Rick Scott, R-Fla., told \"The Faulkner Focus\" on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott",
+      "originalUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott.amp",
+      "publishedDateTime": "2021-01-28T11:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -1060,62 +1173,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-26-biden-ending-keystone-pipeline-project-was-totally-political-laid-off-pipeline-worker.md",
-      "title": "Biden ending Keystone pipeline project was 'totally political': Laid-off pipeline worker",
-      "excerpt": "The Biden administration's cancelation of the Keystone XL Pipeline project was \"totally political,\" a laid-off worker said on Tuesday, expressing dismay after being unemployed due to the executive order. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fhz5WOxVpc/biden-ending-keystone-pipeline-project-political-worker",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fhz5WOxVpc/biden-ending-keystone-pipeline-project-political-worker",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp",
-      "publishedDateTime": "2021-01-26T13:15:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-26-same-problems-will-resurface-if-biden-rolls-back-border-wall-construction-former-nm-governor-warns.md",
       "title": "'Same problems' will resurface if Biden rolls back border wall construction, former NM governor warns",
       "excerpt": "Former New Mexico Republican Gov. Susana Martinez warned Tuesday that it is 'very wrong' for the Biden administration to halt the construction of the southern border wall, calling the fence a 'piece of the security of our nation.'",
@@ -1593,62 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/crenshaw-biden-lifting-transgender-military-ban-people-openly.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-biden-lifting-transgender-military-ban-people-openly.amp",
       "publishedDateTime": "2021-01-25T15:21:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn.md",
-      "title": "Democrats showing 'shockingly bad judgment' with Trump impeachment focus: Cornyn",
-      "excerpt": "Sen. John Cornyn, R-Texas, admonished Democrats against pursuing another impeachment trial against former President Donald Trump, saying Monday it shows \"shockingly bad judgment.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZXB0EGTKm0/democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZXB0EGTKm0/democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6df6e525-5569-4d10-9efc-e2e13414355d/5ad2f01c-aceb-44c0-8ea1-25f2ec90acd4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn.amp",
-      "publishedDateTime": "2021-01-25T13:27:01-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

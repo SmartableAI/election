@@ -31,19 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden putting 'Saudi Arabia first' by halting Keystone XL pipeline: Sen. Daines"
-    excerpt: "Sen. Steve Daines, R-Mont., believes President Biden killing the Keystone XL pipeline shows he’s putting \"Saudi Arabia first,\" not American workers."
-    publishedDateTime: 2021-01-22T16:01:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3rY_Xz43Yk/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp"
+  - title: "Biden's Keystone XL pipeline cancellation is gut punch to small businesses"
+    excerpt: "While opponents of the long-controversial Keystone XL Pipeline cheered its cancellation by President Biden's administration, others like Nebraska truck driver Chris Olsen shook their heads in dismay."
+    publishedDateTime: 2021-02-02T16:20:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbFtZ-Zdamw/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8739bad5-122d-4973-b234-ee256eb316c7/b9584c73-a26d-4377-b028-e14ccdfaba67/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden-keystone-XL.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden ending Keystone pipeline project was 'totally political': Laid-off pipeline worker"
+    excerpt: "The Biden administration's cancelation of the Keystone XL Pipeline project was \"totally political,\" a laid-off worker said on Tuesday, expressing dismay after being unemployed due to the executive order. "
+    publishedDateTime: 2021-01-26T21:15:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fhz5WOxVpc/biden-ending-keystone-pipeline-project-political-worker"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ending-keystone-pipeline-project-political-worker.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's Keystone pipeline cancellation is pandering to 'radical environmentalists': Gov. Gianforte"
+    excerpt: "Montana Governor Greg Gianforte said the Biden administration is pandering to \"radical environmentalists\" with his decision to shut down construction of the Keystone XL Pipeline and encouraged him to reverse his decision."
+    publishedDateTime: 2021-01-29T15:36:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6T1YqWy3us/biden-keystone-cancellation-radical-environmentalists-gianforte"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keystone-cancellation-radical-environmentalists-gianforte.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-cancellation-radical-environmentalists-gianforte.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1a7335b-9feb-4671-a212-28a3255ee5c5/027d949f-451f-47c3-9aee-7a21041f5b3b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -2,63 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-02-an-inconvenient-insurrection-tests-biden-on-china-democracy-support.md",
-      "title": "An inconvenient insurrection tests Biden on China, democracy support",
-      "excerpt": "| Lauren DeCicca/ Just days into his tenure, President Joe Biden already is grappling with a foreign policy crisis — a military coup in Myanmar — that could put his administration at odds with China,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/02/01/myanmar-coup-biden-china-democracy-464444",
-      "originalUrl": "https://www.politico.com/news/2021/02/01/myanmar-coup-biden-china-democracy-464444",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/df/45/bc1dfde84d87ac4f1faf5cb8a5b1/gettyimages-1299740192-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/02/01/myanmar-coup-biden-china-democracy-464444",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/01/myanmar-coup-biden-china-democracy-464444",
-      "publishedDateTime": "2021-02-01T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-02-joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-up-for-democracy.md",
       "title": "Joe Biden Threatens Sanctions Following Myanmar Coup, Says U.S. Will 'Stand Up For Democracy'",
       "excerpt": "\"In a democracy, force should never seek to overrule the will of the people or attempt to erase the outcome of a credible election,\" the president said in his first statement on the issue.",
@@ -582,6 +525,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-bidens-radical-left-agenda-with-no-focus-on-jobs-will-hurt-family-after-family-scott.md",
+      "title": "Biden's 'radical left agenda' with no focus on jobs will 'hurt family after family': Scott",
+      "excerpt": "President Biden showed that he is merely a \"puppet for the radical left\" after ending the Keystone pipeline project, Sen. Rick Scott, R-Fla., told \"The Faulkner Focus\" on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott",
+      "originalUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott.amp",
+      "publishedDateTime": "2021-01-28T11:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     },
     {

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-saudi-arabia-first-plan-keyst
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp"
 type: article
 quality: 169
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Pipeline worker slams Biden for canceling Keystone XL Pipeline: 'Like a kick in the stomach'"
-    excerpt: "A pipeline worker who has worked in the industry for 53 years is speaking out against President Joe Biden’s cancellation of the Keystone XL Pipeline."
-    publishedDateTime: 2021-01-26T15:04:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g8j6kv6VaPE/keystone-xl-pipeline-biden-cancelled-worker-friends"
-    ampWebUrl: "https://www.foxnews.com/politics/keystone-xl-pipeline-biden-cancelled-worker-friends.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/keystone-xl-pipeline-biden-cancelled-worker-friends.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab2a8238-1059-4227-8f59-d0b561f7d73a/00c7185d-7bd0-484d-8d51-75eafa383206/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "d/ZHIKAEkBGOcMHs+uRAPWeM9WRdv+fdtBuv9iA+xmaczbx/LN/DfUNk/fwxA79hNaio0swlmASKbmV861ST9adIPicmn5obkXG/mmwzRiQQ/LVB2O/dq6ftiBjOqN4mU/pRYSkU1c4ebf2sWrvUdHkkxRlm86c8motNIE8ZSBmkqPgGT7TOj2b2vEqQy+HEqUx82K976ILqnCQjh+LiS/35/Ii7KSCTntRPinCYG1qGsTIStfPt4XWFcUoHaA4hlVtzCSXXgQF1hL51CEbtNU3zEkwuO+QC5lYEgxJd94KFrc06He9tRWmBuUv6Js/CZMnHwb3X+gkBapLuuSPhtFh+9dBr0bFQtoAHV9/HcHk=;9fNHmEb2KfFZGw/if6AXpA=="
 ---

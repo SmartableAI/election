@@ -32,53 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Live updates: House moves to impeach Trump for 'incitement of insurrection' in Capitol riot"
-    excerpt: "The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U.S.history to be impeached twice."
-    publishedDateTime: 2021-01-13T12:26:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253971"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253971"
+  - title: "Democrats' impeachment filing: Trump 'threatened the constitutional system'"
+    excerpt: "The House impeachment managers argue former President Donald Trump should be convicted for inciting the insurrection at the Capitol last month and barred from holding future office, charging that his actions \"threatened the constitutional system that protects the fundamental freedoms we cherish.\"\n  "
+    publishedDateTime: 2021-02-02T16:33:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f2KywfJxkLE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-filing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-filing/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 125
+      name: CNN
+      domain: cnn.com
+    quality: 173
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441573/210113-impeachment-live-blog-main-cover-cs_16bb0697e79eeb180cea199979fe03f2.jpg"
-        width: 2500
-        height: 1250
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125153359-01-raskin-jan-13-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump should not be prosecuted for Capitol riot incitement, former FBI Director James Comey says"
-    excerpt: "\"The country would be better off if we did not give him the platform that a prosecution would for the next three years,\" Comey told Sky News."
-    publishedDateTime: 2021-01-18T04:10:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/trump-should-not-be-prosecuted-capitol-riot-incitement-former-fbi-n1254535"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254535"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254535"
+  - title: "Democratic House staffers draft letter to senators on impeachment: Convict Trump 'for our sake, and the sake of the country'"
+    excerpt: "A group of Democratic House staffers are drafting what they hope will be a bipartisan message to the Senate about the upcoming impeachment trial, urging senators to take the trauma their aides experienced during the violent insurrection in the Capitol on January 6 seriously, a staffer tells CNN.\n   "
+    publishedDateTime: 2021-01-28T03:44:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tfOV92aR5s8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/democratic-house-staffers-letter-to-senators-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/democratic-house-staffers-letter-to-senators-impeachment/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 122
+      name: CNN
+      domain: cnn.com
+    quality: 148
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_44/3423609/201028-james-comey-al-0856_dd78874bf9563d902a336451af19486e.jpg"
-        width: 2500
-        height: 1672
-        isCached: true
-  - title: "Presidential Transition Live Updates: House Says It Will Move Swiftly With Impeachment If Pence Won’t Act"
-    excerpt: "The House could vote as soon as Tuesday on charging President Trump with inciting a mob that attacked the Capitol. But top leaders want to avoid hamstringing the first days of Joseph R. Biden Jr.’s presidency with an all-consuming Senate trial."
-    publishedDateTime: 2021-01-10T19:52:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 118
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/10/us/10transition-briefing-promo-sub/10transition-briefing-promo-sub-videoSixteenByNineJumbo1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107153716-capitol-riots-cybersecurity-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "QYSEhMmaKSGGjoMNJBJK8IZ8wraOkoJcpA9zdsfkxM7pTvyLB8ZZOiJFcoOyFSUep8UyDadIxnvxTDK874WEqi4TTwVC6S6t0A/y7ln9544ruXq7RiN8qlFBK4YM++0WmoCAkM1rZB2VAMTJwYfNu8uCRJKB3o/Y2UMRZl1nc0mBQM6d/BYMATPAYcqyfizNFUUTCEoxKHS7Day4yFVq6fKNYLexlOFNr2mQanDAi/ckAEml8THStwmt7RRu7or7bGXRlB9zuiD1U+ITor+8xWSeh8jJhNv4b+qhBommgkWZbGYTT/TKs+spyKK1dYycWRr03UguzNhCXvm9BkwtB3GV0uNsazc8lvGi+DYC79s=;rkvp2IIhRZKG9LAhkfm1ag=="

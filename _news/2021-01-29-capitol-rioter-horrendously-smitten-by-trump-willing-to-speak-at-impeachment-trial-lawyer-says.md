@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/jake-angeli-qanon-shaman-trump-impe
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jake-angeli-qanon-shaman-trump-impeachment-trial/"
 type: article
 quality: 112
-heat: 132
+heat: 152
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/07/c20a610b-0e6c-44c2-95a9-f24b8b331ee7/thumbnail/1200x630/f9f69d871719367d2bd5de2e48e67ab9/gettyimages-1294935359.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "House Impeachment Managers: Trump Whipped Mob Into 'Frenzy,' Aimed It At Capitol"
+    excerpt: "Ahead of next week's trial, a brief argues the Jan. 6 riot would not have happened without Trump \"creating a powder keg, striking a match, and then seeking personal advantage from the ensuing havoc.\""
+    publishedDateTime: 2021-02-02T16:32:00Z
+    webUrl: "https://www.npr.org/2021/02/02/963214171/house-impeachment-managers-trump-whipped-mob-into-frenzy-aimed-it-at-capitol"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 100
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/02/gettyimages-1294908917_wide-bea1d1b4e5cafd824125f698183816eba3e599a3.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
 
 secured: "JrXQe6J8Ao3lVYHsXOo1yKE9GVCJ9NQseN7tCNZAmLGDMCfq0X5XqbNOP/NWVV1gERuqtZ1+SGhWlmzHMTtFMahR+4e27uJFdhnkhVGMHPwBFRAhP2HAr+o5HPRwxX3zju/1rCczMYX2TLtUaSsZ/n7bUrYvH5Pn83IepMXDhGLJzg5xWdQ1sITiXJO/sgq5jSd0E5/uJoiHL/C2C6TlC+XV2VB6hBfcDk5vKDwZY1l45Xus10FxV8yFFtdOEIgV2neVEirD0fHcj0L0VHsdyziPwxIGDPlS/Ss+dAO8o8tgICI8IRzcYXj/8i58cegooMehlCCicm/w2H3EeoBnjfurKv661Fa0Rlh95wwWHI2b5RDvf316YSAvXj/BI1+R0gts/g6FcNKJ3wLW9G3LT6/NrSe4O2qaCbr24QRFugq1Vls1qRP+VE3SyFMg21/3SN8Wxlppj95eFD5QyIYE7jCFz868AqEQBR8LWTnyYwr9PoG0scMEyMDWrl4mQNYfXVPNRYCO6ySUifKznD3HQg==;QMk+8e6beQJSjyQ+TZmpSw=="

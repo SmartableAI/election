@@ -175,6 +175,36 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "House impeachment managers file pretrial brief tearing into GOP claims that it's unconstitutional to impeach Trump"
+    excerpt: "\"If provoking an insurrectionary riot...after losing an election is not an impeachable offense, it is hard to imagine what would be,\" the brief said."
+    publishedDateTime: 2021-02-02T15:22:00Z
+    webUrl: "https://www.businessinsider.com/house-impeachment-managers-file-brief-trump-senate-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/house-impeachment-managers-file-brief-trump-senate-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-impeachment-managers-file-brief-trump-senate-trial-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "READ: House Impeachment Managers' Brief Outlines Arguments For Senate Trial Of Trump"
+    excerpt: "The House Democrats prosecuting the case against the former president argue he holds \"singular responsibility\" for the Capitol riot and should be convicted and barred from future office."
+    publishedDateTime: 2021-02-02T16:20:00Z
+    webUrl: "https://www.npr.org/2021/02/02/963206414/read-house-impeachment-managers-brief-outlines-arguments-for-senate-trial-of-tru"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 98
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/02/ap_21026038993310_wide-9776feeebe947aa0c4b930c197eaa56f51ec4654.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "‘QAnon Shaman' Offers To Testify At Trump's Impeachment Trial"
     excerpt: "A lawyer representing Jacob Chansley, the self-proclaimed \"QAnon Shaman,\" said his client now feels betrayed by former President Donald Trump and is willing to testify at his impeachment trial in the Senate."
     publishedDateTime: 2021-01-29T15:25:00Z

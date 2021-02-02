@@ -48,6 +48,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump impeachment managers file pre-trial brief against former president: 'Evidence is overwhelming'"
+    excerpt: "The House impeachment managers on Tuesday morning filed their pre-trial brief in their case against former President Donald Trump, previewing the argument they will make against him in the Senate trial set to start in one week."
+    publishedDateTime: 2021-02-02T15:25:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSIq7IdJzwI/impeachment-managers-file-pre-trial-brief-against-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21012753304432.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump residency at Mar-a-Lago under Palm Beach legal review"
     excerpt: "Palm Beach, Fla., officials are conducting a legal review into former President Donald Trump's residency at Mar-a-Lago, Fox News confirmed Monday."
     publishedDateTime: 2021-02-01T18:58:00Z

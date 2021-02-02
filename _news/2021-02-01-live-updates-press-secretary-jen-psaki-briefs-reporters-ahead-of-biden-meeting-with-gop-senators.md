@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Capito: Meeting with Biden, Senate Republicans on coronavirus relief was ‘productive’"
+    excerpt: "Sen. Shelley Moore Capito said her two-hour meeting with President Biden and fellow Republican senators on coronavirus relief was “productive” and may lead to additional bipartisan discussions on other topics moving forward."
+    publishedDateTime: 2021-02-02T16:03:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LMjL-WgDF-o/capito-meeting-biden-senate-republicans-coronavirus-relief-productive"
+    ampWebUrl: "https://www.foxnews.com/politics/capito-meeting-biden-senate-republicans-coronavirus-relief-productive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capito-meeting-biden-senate-republicans-coronavirus-relief-productive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34c223e4-521e-40a3-9ab1-30674135471e/03c763d4-c22e-4efa-a06f-8deaa059f778/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House starts work on coronavirus relief Tuesday after Psaki warns Biden won't 'slow down' for Republicans"
     excerpt: "The House Rules Committee will meet Tuesday afternoon to start work on the coronavirus budget reconciliation package after House Speaker Nancy Pelosi and Senate Majority Leader Chuck Schumer each filed budget resolutions in their respective chambers on Monday -- setting up a process for Democrats to"
     publishedDateTime: 2021-02-02T12:15:12Z

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden's Keystone XL pipeline cancellation is gut punch to small businesses"
+    excerpt: "While opponents of the long-controversial Keystone XL Pipeline cheered its cancellation by President Biden's administration, others like Nebraska truck driver Chris Olsen shook their heads in dismay."
+    publishedDateTime: 2021-02-02T16:20:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbFtZ-Zdamw/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden-keystone-XL.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden ending Keystone pipeline project was 'totally political': Laid-off pipeline worker"
     excerpt: "The Biden administration's cancelation of the Keystone XL Pipeline project was \"totally political,\" a laid-off worker said on Tuesday, expressing dismay after being unemployed due to the executive order. "
     publishedDateTime: 2021-01-26T21:15:08Z
@@ -46,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Pipeline worker slams Biden for canceling Keystone XL Pipeline: 'Like a kick in the stomach'"
+    excerpt: "A pipeline worker who has worked in the industry for 53 years is speaking out against President Joe Biden’s cancellation of the Keystone XL Pipeline."
+    publishedDateTime: 2021-01-26T15:04:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g8j6kv6VaPE/keystone-xl-pipeline-biden-cancelled-worker-friends"
+    ampWebUrl: "https://www.foxnews.com/politics/keystone-xl-pipeline-biden-cancelled-worker-friends.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/keystone-xl-pipeline-biden-cancelled-worker-friends.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab2a8238-1059-4227-8f59-d0b561f7d73a/00c7185d-7bd0-484d-8d51-75eafa383206/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "WEUGJoHSWVgDvyJnII9haKIdHOb35HRsL299iQN71rMRqfjlzETf+CTgNJbb+QvImVAV9dPInYAKddTbXWWRA/dLSMbdPAMisyOmRR8NCovUm+xfDKBcrNWuS0zRgNWSRborVHADqdXfsOfNrw6fHTzYkPBLbcM7Qo2H8UF0fSUSNTZm/Be5GzAqfeiuFLhBth3YjZ+QWE1vJ11BLe2yMyn32heTvCf+Eh9W6MX6TBRpPEILsr6V1LKAsuBmR7Bttb4lrrvzossEmNOJ1mA0cKqoJ0rsVnIt5OCm1oD+ompp44UrNGZI6Eow0j0KJuUE4N1XyRojR75oVOZuge/6Hf1tlOrrCsrPJV49m2AWkAo=;A/1Sbv6V/ZQoNDljeC1g1A=="

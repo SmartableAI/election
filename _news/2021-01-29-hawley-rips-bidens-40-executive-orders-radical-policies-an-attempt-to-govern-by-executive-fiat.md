@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-executive-orders-hawley-gover
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-hawley-governing-executive-fiat.amp"
 type: article
 quality: 160
-heat: 180
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,17 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's 'radical left agenda' with no focus on jobs will 'hurt family after family': Scott"
-    excerpt: "President Biden showed that he is merely a \"puppet for the radical left\" after ending the Keystone pipeline project, Sen. Rick Scott, R-Fla., told \"The Faulkner Focus\" on Thursday."
-    publishedDateTime: 2021-01-28T19:21:00Z
-    webUrl: "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-radical-left-agenda-jobs-hurt-family-scott.amp"
+  - title: "Angel dad rips Biden's immigration policies: 'I don't know how they can justify it'"
+    excerpt: "A man whose son was killed by an illegal immigrant is very upset with President Biden's immigration policies."
+    publishedDateTime: 2021-02-02T15:50:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KtWZ_GDl6e8/angel-dad-rips-biden-immigration-policies-jamiel-shaw"
+    ampWebUrl: "https://www.foxnews.com/politics/angel-dad-rips-biden-immigration-policies-jamiel-shaw.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/angel-dad-rips-biden-immigration-policies-jamiel-shaw.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 125
+    quality: 169
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
