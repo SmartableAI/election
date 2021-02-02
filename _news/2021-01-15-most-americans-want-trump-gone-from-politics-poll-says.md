@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Slim majority of Americans want Senate to convict Trump: Reuters/Ipsos poll"
+    excerpt: "A slim majority of Americans say former President Donald Trump should be convicted by the Senate of inciting an insurrection and barred from holding public office, according to a Reuters/Ipsos poll, which showed a sharp partisan divide over the issue."
+    publishedDateTime: 2021-01-23T02:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-poll-idUSKBN29R2M9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2M9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2M9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548764158&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1IU"
+        width: 804
+        height: 545
+        isCached: true
   - title: "Exclusive: As Trump leaves office, 50% of Americans see him as a 'failed' president"
     excerpt: "Trump hasn't succeeded in overturning the election results but he has persuaded a third of Americans that Biden wasn't legitimately elected"
     publishedDateTime: 2020-12-24T09:14:00Z

@@ -125,22 +125,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump jumps into a divisive battle over the Republican Party — with a threat to start a ‘MAGA Party’"
-    excerpt: "The former president, in his first political activity since leaving office, endorses an ally for Arizona party chair who backed his false claims of election fraud."
-    publishedDateTime: 2021-01-24T04:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R4WSECC3KMI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Democrats have these 7 last-minute Trump administration regulations in their sights to overturn now that they control the Senate"
     excerpt: "Senate Democrats are eyeing the Congressional Review Act as a way to obliterate federal regulations from the Trump administration."
     publishedDateTime: 2021-01-21T13:41:00Z

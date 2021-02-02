@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1CD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1CD"
 type: article
 quality: 135
-heat: 715
+heat: 575
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump asked Justice Department to go to Supreme Court to overturn election: Journal"
+    excerpt: "Former President Donald Trump considered replacing the acting attorney general with an official willing to pursue unsubstantiated claims of election fraud, and he pushed the Justice Department to ask the Supreme Court to invalidate President Joe Biden’s victory,"
+    publishedDateTime: 2021-01-24T08:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-justice/trump-asked-justice-department-to-go-to-supreme-court-to-overturn-election-journal-idUSKBN29T01R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T01R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T01R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548848598&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N00Q"
+        width: 803
+        height: 545
+        isCached: true
   - title: "Trump lawyer Giuliani faces $1.3 billion lawsuit over 'big lie' election fraud claims"
     excerpt: "A U.S. voting machine company filed a $1.3 billion lawsuit against former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation in what it called his \"big lie\" campaign about widespread fraud in the presidential election,"
     publishedDateTime: 2021-01-26T00:42:00Z
@@ -175,38 +191,6 @@ related:
         width: 876
         height: 545
         isCached: true
-  - title: "Trump names 2 lawyers to impeachment defense team"
-    excerpt: "Donald Trump has named two lawyers to his impeachment defense team, one day after it was revealed that the former president had parted ways with an earlier set of attorneys"
-    publishedDateTime: 2021-02-01T10:11:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75604908"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75604908"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-names-lawyers-impeachment-defense-team-75604908"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump names new lawyers to lead his impeachment defense team"
-    excerpt: "Former U.S. President Donald Trump on Sunday named two new lawyers to lead the defense in his upcoming Senate impeachment trial after abruptly parting ways with his prior counsel."
-    publishedDateTime: 2021-02-01T01:24:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUKKBN2A00VI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A00VI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A00VI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549757121&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U0JJ"
-        width: 866
-        height: 545
-        isCached: true
   - title: "U.S. House to deliver Trump charge to Senate, triggering impeachment trial"
     excerpt: "The U.S. House of Representatives on Monday is set to formally deliver to the Senate a charge accusing former President Donald Trump with inciting insurrection in a speech to his supporters before the deadly attack on the Capitol,"
     publishedDateTime: 2021-01-26T02:36:00Z
@@ -271,22 +255,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Who could have predicted the Capitol riot? Plenty of people — including Trump allies."
-    excerpt: "Pro-Trump activists stormed the U.S. Capitol in an effort to overturn the results of the 2020 presidential election. Except for many, it was quite thinkable. It was thought aloud in some cases. As former president Donald Trump faces his second impeachment trial,"
-    publishedDateTime: 2021-01-28T19:56:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/28/who-could-have-predicted-capitol-siege-plenty-people/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/28/who-could-have-predicted-capitol-siege-plenty-people/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/28/who-could-have-predicted-capitol-siege-plenty-people/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHQOJMC24EI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 878
-        isCached: true
   - title: "Pro-Trump lawyer Lin Wood asked by licensing body to undergo mental health evaluation"
     excerpt: "An attorney licensing body on Friday said it has asked L. Lin Wood, a lawyer who played a key role in Donald Trump's attempts to overturn his election defeat, to undergo a mental health evaluation."
     publishedDateTime: 2021-01-29T21:38:00Z
@@ -330,31 +298,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Jones Day hires top homeland security lawyer from Trump administration"
-    excerpt: "Chad Mizelle, who served as acting general counsel at the U.S. Department of Homeland Security during the Trump administration, has joined Jones Day as of counsel in its government regulation practice in Miami and Washington,"
-    publishedDateTime: 2021-01-28T21:17:00Z
-    webUrl: "https://www.reuters.com/article/lawyer-moves-jones-day-idUSL1N2K32T2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K32T2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K32T2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Could Trump Make A Comeback In 2024?"
-    excerpt: "There is little precedent for a former president running again, let alone winning. But since when has the lack of precedent bothered Donald Trump?"
-    publishedDateTime: 2021-01-30T16:42:00Z
-    webUrl: "https://www.npr.org/2021/01/30/961919674/could-trump-make-a-comeback-in-2024"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2021/01/29/gettyimages-1219610965_wide-3379fbbb9e69bb5b81f0c19676ca4d8c8708b070.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Trump clemency likely for Lil Wayne, no pardons for Giuliani or Bannon: sources"
     excerpt: "U.S. President Donald Trump is likely to grant clemency to rapper Lil Wayne on Tuesday in a final wave of pardons and commutations that is not expected to include lawyer Rudy Giuliani or ex-aide Steve Bannon,"
     publishedDateTime: 2021-01-19T08:45:00Z
@@ -369,38 +312,17 @@ related:
         width: 800
         height: 558
         isCached: true
-  - title: "Former FBI lawyer gets probation for altering email during investigation into ties between Russia, 2016 Trump campaign"
-    excerpt: "A former FBI lawyer was sentenced to probation for altering a document the Justice Department relied on during its surveillance of a Donald Trump aide during the Russia investigation."
-    publishedDateTime: 2021-01-29T17:54:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html?outputType=amp"
+  - title: "Dominion Voting Systems Sues Trump Lawyer Giuliani Over Election Claims"
+    excerpt: "WASHINGTON (Reuters) - Dominion Voting Systems Inc has filed a lawsuit against former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation for making false claims of fraud about the November 2020 U."
+    publishedDateTime: 2021-01-25T12:59:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-01-25/dominion-voting-systems-sues-trump-lawyer-giuliani-over-election-claims"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-25/dominion-voting-systems-sues-trump-lawyer-giuliani-over-election-claims?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-25/dominion-voting-systems-sues-trump-lawyer-giuliani-over-election-claims?context=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 101
-    images:
-      - url: "https://www.chicagotribune.com/resizer/qTFSIBHni0wRVA9K0csySIUoZrQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2QII4RLQJNTTGT6DI7IS7R3CEE.aspx"
-        width: 1200
-        height: 779
-        isCached: true
-  - title: "What’s Next For Trump? His Plans As Impeachment Article Hit Senate"
-    excerpt: "Former President Donald Trump is opening a new office in Florida on Monday that will carry on his admininstration's administration, an announcement he made as the House delivered a single article of impeachment to the Senate."
-    publishedDateTime: 2021-01-26T12:26:00Z
-    webUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hit-senate-3130886"
-    ampWebUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hit-senate-3130886?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hit-senate-3130886?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
-        width: 1024
-        height: 696
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "House Sends Trump Impeachment Article To Senate, Triggering Trial"
     excerpt: "The US House of Representatives presented a single article of impeachment to the Senate on Monday accusing Donald Trump of inciting the storming of the Capitol, setting in motion the first-ever impeachment trial of a former president."
     publishedDateTime: 2021-01-26T03:09:00Z
@@ -440,28 +362,6 @@ related:
         width: 1024
         height: 696
         isCached: true
-  - title: "Special Counsel Appointed Under Trump Seeks Prison for Former FBI Lawyer"
-    excerpt: "A former FBI lawyer who pleaded guilty to falsifying a document during the agency's investigation of contacts between former President Donald Trump's 2016 campaign and Russia is due to be sentenced on Friday,"
-    publishedDateTime: 2021-01-29T11:37:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-29/special-counsel-appointed-under-trump-seeks-prison-for-former-fbi-lawyer"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-29/special-counsel-appointed-under-trump-seeks-prison-for-former-fbi-lawyer?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-29/special-counsel-appointed-under-trump-seeks-prison-for-former-fbi-lawyer?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
-  - title: "Pro-Trump Lawyer Lin Wood Puts License in Jeopardy by Refusing Mental Health Evaluation"
-    excerpt: "L. Lin Wood, a lawyer who played a role in former President Donald Trump's attempts to overturn his election defeat, put his law license in jeopardy on Friday by saying on social media that he would not undergo a mental health evaluation requested by an attorney licensing body."
-    publishedDateTime: 2021-01-30T01:40:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
 
 secured: "ztJx8RjVwkKh11Z0Va9k1xNZOlkzTbOmFYzkFGL2mAeawxwW5a6UeqAHKMKUzrSnEMa2Q8oy5R9jSaMqXO+rq1rI7Luq5hmjQDcNHXYQK2OkCh5RF1ydAFXd1bS9mfHJWkJQiR1L1VCEAX20zAk9TOpk1eoUIisPMcA5Nv/gV4swC+wiyEOz8BVSG1TpEICX+FIDNnYVygRPSCMWfML2eOT6W9PZSMHSEJ4/ub0HfSHysG2ZbEBxlXuGS15B/Stx6FbjJpC/4K9cFi+D4KTrAHWPt+U1Gh/Pig3J9Ip4et4omzxSZd16Lfz5NdYfEqQ7c5Yb/ifNcKs1LOs3GI1Z0ijXhZeaKjhMStmVuROzbXV1BuR1idoy8PTVo4acGyBq4R84H/nE5unNq4HJUbUkIw/VhvBSkQVkoJcyieHq+6WuUiDiwhD8XnC1XVNoXL4ZalHubUBQaPQXBhMIrDKSKkkMuHHhxr4IYD0BNUkqX4piPtl2GykR59TA7buD9VFGJoCdDKG8iL0c/MUvCeq7og==;0rt1OKlubpF3iqnQP58ebQ=="
 ---

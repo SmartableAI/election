@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Palm Beach considers options as Trump remains at Mar-a-Lago"
-    excerpt: "The Town of Palm Beach, Florida, is considering its legal options as former President Donald Trump is still living at his Mar-a-Lago club, a possible violation of a 1993 agreement"
-    publishedDateTime: 2021-01-29T02:11:00Z
-    webUrl: "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Donald Trump hires new impeachment defense team after lead lawyers quit"
-    excerpt: "Lawyers David Schoen and Bruce L Castor will head up new legal team after Butch Bowers clashed with Trump over strategy, according to reports"
-    publishedDateTime: 2021-02-01T03:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/90d54c23d0e29b77c4957032c2727c8e0c47e140/0_19_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8a54660af1548fed3d269172a76c08c9"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Donald Trump's impeachment defence in disarray as lead lawyers quit"
     excerpt: "Butch Bowers clashed with Trump over strategy, according to reports, and leaves along with Deborah Barberi and three others"
     publishedDateTime: 2021-01-31T21:24:00Z
@@ -79,53 +47,117 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
-    excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
-    publishedDateTime: 2021-01-31T04:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4328811001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4328811001"
+  - title: "Trump lawyer: Impeachment case ‘undemocratic,’ ill-advised"
+    excerpt: "Democrats are using the upcoming Senate impeachment trial of Donald Trump as a political “weapon” to bar the former president from seeking office again, and are pursuing a case that is “undemocratic” and unconstitutional,"
+    publishedDateTime: 2021-02-02T03:47:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/06243285-137b-4acb-bb77-6faa007a0a53-AP_Trump_5.jpg?auto=webp&crop=3874,2180,x0,y196&format=pjpg&width=1200"
+      - url: "https://www.chicagotribune.com/resizer/P4EW9jjAnf4pV_GJYksLauHHIco=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QWUMU6JWTDKSHAPSV64S3TOOAA.aspx"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
-    excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."
-    publishedDateTime: 2021-01-24T00:15:00Z
-    webUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
+  - title: "Meet the impeachment managers who will argue Democrats' case against Trump"
+    excerpt: "Pelosi said the House will officially send the article of impeachment against Mr. Trump to the Senate on Monday. \"We are respectful of the Senate's constitutional power over the t"
+    publishedDateTime: 2021-01-24T12:05:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-second-impeachment-managers/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 123
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/24/57aaa662-8c1c-41a3-ad09-c83e6c55cbd8/thumbnail/1200x630/0bd961208cc571af7316daf6ffedf08b/gettyimages-1296220549.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Donald Trump's entire legal team quits week before impeachment trial: Sources"
+    excerpt: "All five of the impeachment lawyers who were expected to represent former President Donald Trump have called it quits, sources told ABC News. The team, led by South Carolina lawyer Butch Bowers, resigned in part because of disagreements over how to mount Trump’s defense,"
+    publishedDateTime: 2021-01-31T09:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump_hpMain_20210130-230648_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump's impeachment defence in disarray as lead lawyers quit – reports"
+    excerpt: "Butch Bowers clashed with Trump over strategy, according to reports, and leaves along with Deborah Barberi and three others"
+    publishedDateTime: 2021-01-31T05:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/525663cdbd8a103e342d0670c36da19c31b3c287/0_0_1805_1083/master/1805.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ca181bc5a53e969f0eeb51ddd579b5c6"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump changes defense team just over a week before impeachment trial is set to begin"
+    excerpt: "A Trump spokesman confirmed that the previously designated lead attorney and another attorney who had been announced will not be part of the team."
+    publishedDateTime: 2021-01-31T09:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-changes-defense-team-just-over-a-week-before-impeachment-trial-is-set-to-begin/2021/01/30/4259c8a2-6371-11eb-9430-e7c77b5b0297_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-changes-defense-team-just-over-a-week-before-impeachment-trial-is-set-to-begin/2021/01/30/4259c8a2-6371-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-changes-defense-team-just-over-a-week-before-impeachment-trial-is-set-to-begin/2021/01/30/4259c8a2-6371-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ATKAQPDDPEI6XFBQ47DXWWYCS4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump faces Tuesday deadline to deliver formal response to impeachment as trial looms"
+    excerpt: "Former U.S. President Donald Trump's unprecedented second impeachment trial takes shape this week, as Democrats outline their case and Trump scrambles to prepare a defense amid disarray on his legal team."
+    publishedDateTime: 2021-02-01T16:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A125Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A125Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A125Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549830767&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101A5"
+        width: 813
+        height: 545
+        isCached: true
+  - title: "Trump's PAC has over $31 million stockpiled as he heads into his second impeachment trial"
+    excerpt: "There aren't many restrictions on how the donations to the PAC could be spent, so Trump could use the funds for himself."
+    publishedDateTime: 2021-02-01T08:35:00Z
+    webUrl: "https://www.businessinsider.com/trumps-pac-has-over-31-million-stockpiled-ahead-impeachment-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trumps-pac-has-over-31-million-stockpiled-ahead-impeachment-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pac-has-over-31-million-stockpiled-ahead-impeachment-trial-2021-2?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 115
+    quality: 116
     images:
-      - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60178f66d6c5e60019c6e29a?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump's shaken up legal team hints it will focus on constitutionality of impeaching a former president"
-    excerpt: "Former President Donald Trump announced two new attorneys who will lead his impeachment defense team: David Schoen and Bruce Castor"
-    publishedDateTime: 2021-02-01T16:57:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/31/trump-impeachment-trial-former-president-announces-new-legal-team/4334066001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4334066001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4334066001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/28/USAT/ff1998ed-2830-48d9-946f-989aadd22e10-AFP_AFP_8ZM6G6.jpg?auto=webp&crop=3431,1930,x0,y230&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
     excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
@@ -143,69 +175,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump spends final minutes in office at Mar-a-Lago, is first president to skip inauguration in more than 150 years"
-    excerpt: "Trump's military send-off at Joint Base Andrews appeared smaller than expected. He left on Air Force One as Frank Sinatra's \"My Way\" played."
-    publishedDateTime: 2021-01-21T18:05:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/20/donald-trump-plans-end-his-presidency-mar-lago-florida/4210601001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4210601001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4210601001"
+  - title: "‘QAnon Shaman' Offers To Testify At Trump's Impeachment Trial"
+    excerpt: "A lawyer representing Jacob Chansley, the self-proclaimed \"QAnon Shaman,\" said his client now feels betrayed by former President Donald Trump and is willing to testify at his impeachment trial in the Senate."
+    publishedDateTime: 2021-01-29T15:25:00Z
+    webUrl: "https://www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569"
+    ampWebUrl: "https://www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 100
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/de83808c-d841-464c-9f8d-eb7ef135dad1-AFP_AFP_8Z69UN.JPG?auto=webp&crop=4566,2568,x0,y186&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/us-prosecutors-believe-supporters-of-president-donald-trump.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "To fight impeachment, Trump turns to ‘Butch’ Bowers, a South Carolina lawyer at a small firm who has defended state Republicans"
-    excerpt: "Bowers is taking on his biggest case yet: defending former president Donald Trump in his second impeachment trial, this time against a charge that he incited a mob to attack the U.S. Capitol. The longtime GOP attorney is little known outside of South Carolina and has no powerhouse law firm behind him."
-    publishedDateTime: 2021-01-23T00:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 97
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XEEPABS45EI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 1100
-        isCached: true
-  - title: "Trump White House donated 8,700 ventilators to other nations. Officials now don’t know where many of them are, watchdog finds."
-    excerpt: "The GAO was unable to identify how the Trump White House made its decisions on ventilator allocations. Sri Lanka had just three new coronavirus cases per day when it received 200 ventilators. Bangladesh,"
-    publishedDateTime: 2021-01-29T22:07:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/2021/01/29/usaid-trump-ventilators-watchdog/"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/2021/01/29/usaid-trump-ventilators-watchdog/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2021/01/29/usaid-trump-ventilators-watchdog/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 97
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MBQZY7Q7TEI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump Impeachment Lawyers Leave Team: US Media"
-    excerpt: "Several of former US president Donald Trump's impeachment lawyers have left his team a little over a week before his trial, US media reported Saturday. CNN cited unnamed sources as saying that five lawyers -- including two who were thought to be leading the team -- had parted ways with the Republican billionaire after disagreeing over his legal strategy."
-    publishedDateTime: 2021-01-31T04:03:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-leave-team-us-media-3134168"
+  - title: "Trump Impeachment Lawyers Quit, Who Will Be Part Of His New Legal Team?"
+    excerpt: "Former President Donald Trump’s second impeachment trial is set to begin on Feb. 9 and he will need a new legal team after five attorneys on Saturday left over a disagreement in his legal strategy. The legal team included attorneys Butch Bowers,"
+    publishedDateTime: 2021-01-31T14:53:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-quit-who-will-be-part-his-new-legal-team-3134264"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/27/social-media-platforms-have-banned-donald-trumps-accounts.jpg"
         width: 1024
-        height: 716
+        height: 696
         isCached: true
 
-secured: "7LqxtQ6PYSKdINrOOtEdfSStJMfZJKsn0iymxB3nScC8gUebJohf356JyIwZ5/tp4CB4Po3wD+gd2dm/RrxZEFLxipposQ4zfD99m4eqGn3tSEqi2b1bPje1i+JqD1YPg2eM9DU6rwR455cUHC+8gvMvdiloTYfSjzNZaUZbjFuYfj3DElQp3rFF5vxaz6/0oy15QPSJl08eYpzDh1th3wVyD6NQ+MN9BLn2Ozrh1+/dw3PaiheENcFWpXRxR93NU8p3ENgSrYU51BZR9AwLRW+pJJc6niuNGhxqfuh/hkUQIv+ohXwuIrqgIcCLSYozd+TozWZyQDHiqFO55b7qa612h0+IRX5UhfFbqDeaefA=;IKdzUFDEHYU1/67lfxSVNw=="
+secured: "PbrN4DOOtrPhptlE6pSMdkYBRWenKgVHEDxstyTcAn+aVpp66+pa3fZC4KhGt3k7P5U7HVm99VCgnPK30IwQMtmhQsxtYUXK4wKl+GXvhsqkLCN0mu3WpRnKeMHk3HLCFdEB1Eu8YwJpMg62HRUV2Ei1rMG9WcBd+TU4o/D/N5tr4+BsIr7quhni93UsGE4uJnkR/rQM+9yBjcC7MMFBInbqrmMBrr8NYF+LGimLUC1R8lGCr2DRbK2XMnIMmmYblb/i4eA9fhJ8XPSqBdJt/eOUZv5ldtTTJ9Mnvu0XPe8oPw2BpKwoz5/nPnxTKip9H/g5GqH++OHDrpsFPd95ioqMP2d6neU/YS01RsQDri5dvTMopIlRORXzTknxSyReyr0png+yClujObf5u1H0CNTJuBG1D+LNZejfutmMIE5owVvrXqRfXRclQm6CvPcgqNkodQZKV0llwIwZxQI3KXFN23slb6QpbDUnjLId3OmHGvkX5nnCQ8nlpC/GJydM0/Cypx3Y2pCzcwJ+ExdTjg==;nw6dX2zYeeT+W/Ph5DPNFw=="
 ---
 

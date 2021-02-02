@@ -59,20 +59,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Manhattan DA unlikely to run for reelection, as office investigates former President Donald Trump"
-    excerpt: "It looks as though Manhattan's District Attorney Cy Vance Jr. is not making plans to run for reelection. State financial records reveal he has only raised just over $4,000 ahead of the Democratic primary in June."
-    publishedDateTime: 2021-01-27T20:26:00Z
-    webUrl: "https://www.cbsnews.com/video/manhattan-district-attorney-cyrus-vance-reelection-investigation-donald-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 107
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/27/e8ca6456-7cbb-4b3d-a779-ca29fba02469/thumbnail/1200x630/ea1b5fda3766cc9c687f4bc9a56f1f3e/cbsn-fusion-manhattan-district-attorney-cyrus-vance-reelection-investigation-donald-trump-thumbnail-634350-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "XjQVa0VtvdGQivJqNURQ3OvmMN7XBbo1zvNsUW49PDIFxdzqJmRDXVg+6TjEeipXApsGXpGMXNxSUPRf1kQ/2IdTBXEZOz8X67H62F/252M7C9LCc34xqS8NxQGROX4114ZtDOWrsmHYrQSsy8I8Cl0eST0qqF/Am8wPzKeEYJUuD986JyvLOjeTZkJ77t/kBgotncAqfYEno0tfZwQ1JTbXdEozaS+bc8r/x7qYvKJ6WLUGym0VYn0RldJRRvsy7+2v+9jCXmGHdnpqngemCu+HZidJEw+QKPySmeBArcHxiP5A+Mawic0osi9T6b8Sgl5K1FuIWfy3jIRfCncRkSRqbaYRPf2euStnOxrAfqoLv3vQhxPX37Q4JQq1qNdH7alhZV7SO6bxeawZFY61TPk9SykmHORlfiN5pw/igPSMdSxkcE1dSlpYD6sUH6XCkFQojV6yMaQKKjRIrAlpv63IaDWmOpjLHVbLSrs1aHMdzQ0n7by8XaK9fUn8iEr5oS7x4UYEvNmDPtSvIwBxOA==;vL/I116R/uhiMO5Z13Rbcg=="
 ---

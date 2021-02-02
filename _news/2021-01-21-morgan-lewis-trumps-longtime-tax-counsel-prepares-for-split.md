@@ -25,21 +25,53 @@ topics:
   - Donald Trump
 
 related:
-  - title: "'It's not their party any more': Trump leaves Republicans deeply fractured"
-    excerpt: "The president has ignited a civil war in his own party, creating bitter divides that will be felt for years to come"
-    publishedDateTime: 2021-01-16T17:54:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack"
+  - title: "Top Iran leader posts Trump-like image with drone, vows revenge"
+    excerpt: "The website of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone alongside a threat of revenge over last year's killing of a top Iranian general in a U."
+    publishedDateTime: 2021-01-23T13:13:00Z
+    webUrl: "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R1YU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R1YU"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/db9762e40c1133a39c297fa5bcc3d7607af074a7/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fcac560390630cc3adc836f4d2425be5"
-        width: 600
-        height: 360
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548797338&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1C2"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Judge blocks Trump rule to limit health studies in EPA regs"
+    excerpt: "A federal judge has blocked a last-minute rule issued by the Trump administration to limit what evidence the Environmental Protection Agency may consider as it regulates pollutants to protect public h"
+    publishedDateTime: 2021-01-29T19:41:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_b1408a184fa440d7bfebd39cf4f8f16a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
+    excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
+    publishedDateTime: 2021-01-31T04:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4328811001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4328811001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/06243285-137b-4acb-bb77-6faa007a0a53-AP_Trump_5.jpg?auto=webp&crop=3874,2180,x0,y196&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Melania Trump leaves Donald Trump alone in front of the cameras – video"
     excerpt: "Former first lady left Donald Trump alone in front of the cameras at Palm Beach airport after the couple left the White House ahead of Joe Biden's inauguration"
@@ -55,19 +87,35 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump sought the world's attention and got it. Now the White House reality show ends"
-    excerpt: "A red tie, often tied too long. A raised fist, often held high to a supportive crowd. A scowling face. A raised voice."
-    publishedDateTime: 2021-01-18T19:37:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-postcards/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends-idUSKBN29N1E2"
+  - title: "Twitter Reacts To Melania Trump Leaving Donald Trump Alone In Front Of Cameras"
+    excerpt: "Melania Trump left her husband, Donald Trump, alone in front of the cameras after their departure from the White House Wednesday. But some Twitter users said her husband pushed her to walk ahead."
+    publishedDateTime: 2021-01-24T10:06:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548203838&r=LYNXMPEH0H0U5&w=800"
-        width: 800
-        height: 533
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump Impeachment Lawyers Leave Team: US Media"
+    excerpt: "Several of former US president Donald Trump's impeachment lawyers have left his team a little over a week before his trial, US media reported Saturday. CNN cited unnamed sources as saying that five lawyers -- including two who were thought to be leading the team -- had parted ways with the Republican billionaire after disagreeing over his legal strategy."
+    publishedDateTime: 2021-01-31T04:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-leave-team-us-media-3134168"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
+        width: 1024
+        height: 716
         isCached: true
 
 secured: "WIK+XrMJZS5fJ446m0nBHwTN7iZoUSfhOfhcLqSuw4ePmfiJNT3uH4S8ZPw9jY7WknhvYAYr4GpUsKvY2+9IM0elPS1anQiw6AiXhNhOcoZsRjXhA1laMxU4AXAWUNeO5IrVP+63Xp3qngNHR6CjVGRnhjLXatBKlRLccsfKTpJyf6VWEYJgH6YU1kU2PkMS+bzRdQzU3sUEr2jYGEbCQM/f3nYlS2+RjGv10kobn6kWimczxaFSZ1PNule26dqFMgtf2SHdNTkfbW70PzVDVpxLiVdgxDe6dkGMS8QH7T04Usx3ULLbC627o5p+SHNfpryoV/oo5kiZ6fKguIzgRX+VhGBtxx/RY0vR4x/6rEU=;fJj8R1EJhCqmUk4KB/uoKw=="

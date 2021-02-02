@@ -47,38 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump leaves behind a Republican Party both broken and still in his grip"
-    excerpt: "Will Republicans purge the worst of what he has brought to their coalition or will Trump maintain his influence even after he is out of office?"
-    publishedDateTime: 2021-01-16T20:15:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-leaves-behind-a-republican-party-both-broken-and-still-in-his-grip/2021/01/16/f7496dfe-5781-11eb-a08b-f1381ef3d207_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-leaves-behind-a-republican-party-both-broken-and-still-in-his-grip/2021/01/16/f7496dfe-5781-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-leaves-behind-a-republican-party-both-broken-and-still-in-his-grip/2021/01/16/f7496dfe-5781-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PFB4WBSQU4I6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Hundreds of publishing industry figures have signed an open letter in opposition to a potential Trump memoir"
-    excerpt: "Hundreds of authors, editors, and agents signed an open letter asking the world's publishers to skip a post-presidency memoir from Donald Trump."
-    publishedDateTime: 2021-01-22T10:27:00Z
-    webUrl: "https://www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/60044f8de3d62500185fcf8e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Dustin Higgs scheduled to be last federal inmate executed before Trump leaves office"
     excerpt: "A federal jury in Maryland convicted Higgs of first-degree murder and kidnapping in the killings of Tamika Black, 19; Mishann Chinn. 23; and Tanji Jackson, 21."
     publishedDateTime: 2021-01-15T12:34:00Z

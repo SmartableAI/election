@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-pa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145"
 type: article
 quality: 125
-heat: 345
+heat: 325
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/5dTjgG5lykMQfVR7EG27WXKYDkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KSQSRTMTOFCO7NOBWNKXT5UETM.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump jumps into a divisive battle over the Republican Party — with a threat to start a ‘MAGA Party’"
-    excerpt: "The former president, in his first political activity since leaving office, endorses an ally for Arizona party chair who backed his false claims of election fraud."
-    publishedDateTime: 2021-01-24T04:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R4WSECC3KMI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Republicans reluctant to say who's the new GOP boss with Trump gone from the White House"
     excerpt: "GOP senators acknowledged in interviews with Insider that they are without a party leader while Democrats control the White House and Congress."

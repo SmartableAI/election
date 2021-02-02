@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 126
+published: true
 
 provider:
   name: Washington Post
@@ -31,85 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump's entire legal team quits week before impeachment trial: Sources"
-    excerpt: "All five of the impeachment lawyers who were expected to represent former President Donald Trump have called it quits, sources told ABC News. The team, led by South Carolina lawyer Butch Bowers, resigned in part because of disagreements over how to mount Trump’s defense,"
-    publishedDateTime: 2021-01-31T09:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684"
+  - title: "How Donald Trump, the head of Marvel and a headstrong lawyer quietly freed a West Baltimore man"
+    excerpt: "From his cell in a high-security federal prison in Colorado, Jawad Musa prayed five times a day that he would someday be able to see his family again."
+    publishedDateTime: 2021-01-27T14:17:00Z
+    webUrl: "https://www.baltimoresun.com/news/crime/bs-pr-md-ci-cr-musa-perlmutter-trump-clemency-longform-20210127-cylrx5rcfzeafdb2slsca7lo7m-htmlstory.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 122
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 43
     images:
-      - url: "https://s.abcnews.com/images/Politics/donald-trump_hpMain_20210130-230648_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Donald Trump Expects Impeachment Trial to Be 'Badge of Honor'—But Rethinks 2024 Run"
-    excerpt: "The ex-president wanted to use the trial to relitigate his claims of election fraud, but Lindsey Graham told him, \"You don't want to go there.\""
-    publishedDateTime: 2021-01-30T12:00:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-expects-impeachment-trial-badge-honor-rethinks-2024-run-1564677"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-expects-impeachment-trial-badge-honor-rethinks-2024-run-1564677?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-expects-impeachment-trial-badge-honor-rethinks-2024-run-1564677?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
-    images:
-      - url: "https://d.newsweek.com/en/full/1720738/donald-trump-impeachment-2024-capitol-riots.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "Trump changes defense team just over a week before impeachment trial is set to begin"
-    excerpt: "A Trump spokesman confirmed that the previously designated lead attorney and another attorney who had been announced will not be part of the team."
-    publishedDateTime: 2021-01-31T09:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-changes-defense-team-just-over-a-week-before-impeachment-trial-is-set-to-begin/2021/01/30/4259c8a2-6371-11eb-9430-e7c77b5b0297_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-changes-defense-team-just-over-a-week-before-impeachment-trial-is-set-to-begin/2021/01/30/4259c8a2-6371-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-changes-defense-team-just-over-a-week-before-impeachment-trial-is-set-to-begin/2021/01/30/4259c8a2-6371-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ATKAQPDDPEI6XFBQ47DXWWYCS4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump faces Tuesday deadline to deliver formal response to impeachment as trial looms"
-    excerpt: "Former U.S. President Donald Trump's unprecedented second impeachment trial takes shape this week, as Democrats outline their case and Trump scrambles to prepare a defense amid disarray on his legal team."
-    publishedDateTime: 2021-02-01T16:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A125Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A125Z"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A125Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549830767&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101A5"
-        width: 813
-        height: 545
-        isCached: true
-  - title: "Capitol rioter \"horrendously smitten\" by Trump willing to speak at impeachment trial, lawyer says"
-    excerpt: "The words of Trump supporters who are accused of participating in the riot may end up being used against him in his impeachment trial."
-    publishedDateTime: 2021-01-30T12:22:00Z
-    webUrl: "https://www.cbsnews.com/news/jake-angeli-qanon-shaman-speak-trump-impeachment-trial/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/jake-angeli-qanon-shaman-speak-trump-impeachment-trial/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jake-angeli-qanon-shaman-speak-trump-impeachment-trial/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/07/c20a610b-0e6c-44c2-95a9-f24b8b331ee7/thumbnail/1200x630/f9f69d871719367d2bd5de2e48e67ab9/gettyimages-1294935359.jpg"
+      - url: "https://www.baltimoresun.com/resizer/itumyFj9UjY1v63LhHMz54XvJDM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NS4FP5V22FF6PBZZNSRZK4JURQ.jpg"
         width: 1200
-        height: 630
+        height: 798
         isCached: true
 
 secured: "7vY+V1V4kP7vf+J7Cik6vgBjwfewmJ5vKirTASy1/3To4Vl/L5HvWFgNLiqfKSQJI/Or1VrQ051epobJAEUF8+oYwhlRO8XoudakYV2yda5cDdkqrvWioPnYiSWt6cexoDCWnZ8A1AyBuQ0zdjxsu//JTQffZ4ZXka1tpcebEiys6v8rYLALCDgiBB1ZqOei3rRIB68fJCrWF4BlYoQEN+IMofMrT9ZtU6MTvrHio1Jk9lc5F0JQ/x9vysU/ClTPkogQX2yZuL1HLSQPJbx43MqBrDxLQ3rtZ8b5lMnqsdo8G6PeooUy/o3ILpitHbhxpvxTsHLUyPOc+U/M2jM+eV7/fhvMZFPykgWpjcU9qmI=;Xmm240bMu0V+zMiJoZR15Q=="

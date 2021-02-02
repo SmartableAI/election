@@ -63,38 +63,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "New Pentagon chief praises Germany for hosting U.S. troops, reversing Trump's tack"
-    excerpt: "New U.S. Defense Secretary Lloyd Austin praised Germany for hosting U.S. troops in a call with his German counterpart on Wednesday, fueling speculation that President Joe Biden could overturn a drawdown ordered by his predecessor Donald Trump."
-    publishedDateTime: 2021-01-28T02:59:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-germany-troops/new-pentagon-chief-praises-germany-for-hosting-u-s-troops-reversing-trumps-tack-idUSKBN29W2VN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2VN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2VN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549297914&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1OW"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Facing a post-Trump world, abortion opponents at March for Life strike a less partisan tone"
-    excerpt: "Abortion opponents began facing the post-Trump world Friday at the annual March for Life, divided over whether the past president helped or harmed their cause and shifting towards less partisan language than in the recent past."
-    publishedDateTime: 2021-01-29T23:24:00Z
-    webUrl: "https://www.washingtonpost.com/religion/2021/01/29/march-for-life-roe-wade-abortion-trump-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/religion/2021/01/29/march-for-life-roe-wade-abortion-trump-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/01/29/march-for-life-roe-wade-abortion-trump-biden/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SMDCU3DCMII6XILXO5S7FGUVEQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Ex-Trump spokeswoman Sanders running for Arkansas governor"
     excerpt: "LITTLE ROCK, Ark. (AP) — Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, announced Monday she’s running for Arkansas governor, vying for political office even as the former president’s legacy is clouded by an impeachment charge that he incited the deadly siege at the U."
     publishedDateTime: 2021-01-25T18:42:00Z

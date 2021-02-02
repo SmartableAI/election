@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Graham warns Dems about calling witnesses during Trump impeachment"
+    excerpt: "Sen. Lindsey Graham, the outgoing chairman of the Senate Judiciary Committee, told Fox News Monday night that if Democrats call one witness during former President Trump’s impeachment trial next week, they would be \"opening a can of worms\" and Republicans will respond by calling in the FBI to testify."
+    publishedDateTime: 2021-02-02T09:20:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YxuS_AA3ZTY/graham-warns-dems-about-calling-witnesses-during-trump-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-warns-dems-about-calling-witnesses-during-trump-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-warns-dems-about-calling-witnesses-during-trump-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Judge orders Trump Organization to hand over documents to New York attorney general"
     excerpt: "A judge in New York has ordered the attorneys for the Trump Organization to give unprivileged documents to the state's attorney general by Feb. 4."
     publishedDateTime: 2021-01-30T01:06:47Z

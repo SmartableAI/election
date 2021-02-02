@@ -31,313 +31,303 @@ images:
     isCached: true
 
 related:
-  - title: "Amid Capitol violence, Facebook, YouTube remove Trump video"
-    excerpt: "Facebook has removed a short video of President Donald Trump where he is urging supporters who stormed the U.S. Capitol to “go home” while at the same time keeping up false attacks about the president"
-    publishedDateTime: 2021-01-07T00:53:00Z
-    webUrl: "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+  - title: "Republican congressman played a role in Trump's campaign to fight election loss: NYT"
+    excerpt: "A Republican U.S. congressman played a role in ex-President Donald Trump's efforts to oust the top Justice Department official and replace him with a loyalist willing to support efforts to overturn his election defeat,"
+    publishedDateTime: 2021-01-24T19:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0FS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0FS"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 133
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548877639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N093"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Facebook indefinitely blocks Trump from accessing his account"
-    excerpt: "Facebook CEO Mark Zuckerberg said the platform is blocking his Facebook and Instagram accounts \"indefinitely\" and for at least the next two weeks."
-    publishedDateTime: 2021-01-07T04:58:00Z
-    webUrl: "https://www.businessinsider.com/facebook-has-blocked-president-trump-indefinitely-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/facebook-has-blocked-president-trump-indefinitely-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-has-blocked-president-trump-indefinitely-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5ff72ec6d184b30018aad826?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump tells backers to ‘go home’ after Capitol stormed"
-    excerpt: "President Donald Trump urged supporters who stormed the Capitol to “go home” but also kept up false attacks about the presidential election"
-    publishedDateTime: 2021-01-07T02:08:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Fact Check: Did Trump Family Hold a Capitol Riot Watch Party?"
-    excerpt: "A video purportedly showing President Donald Trump and members of his family and administration celebrating the riot at the Capitol on Wednesday by some of his supporters has spread rapidly online. The riot left five people dead,"
-    publishedDateTime: 2021-01-08T14:39:00Z
-    webUrl: "https://www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971"
-    ampWebUrl: "https://www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1701168/trump-jr-rnc-victory-rally.jpg"
-        width: 2500
-        height: 1668
-        isCached: true
-  - title: "Donald Trump impeached a second time over mob attack on US Capitol"
-    excerpt: "Ten Republicans support unprecedented second impeachment as Nancy Pelosi says Trump represents ‘clear and present danger’"
-    publishedDateTime: 2021-01-13T15:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/a928c2acfc622cb8125691822fa9537f11ce4385/0_0_5473_3649/master/5473.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc6d7bbb0a8760580bfd5d59c8959505"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Facebook 'indefinitely' blocks Trump's account after violence at Capitol"
-    excerpt: "Trump supporters violently stormed the Capitol building in Washington, D.C., during a joint session of Congress, Facebook took the unprecedented step of indefinitely banning the president's account. At least four people have died following the so-called insurrection that erupted at the Capitol on Wednesday."
-    publishedDateTime: 2021-01-07T21:18:00Z
-    webUrl: "https://abcnews.go.com/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/International/trump-rt-rc-210106_1609954638505_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Lehigh University rescinds Trump's honorary degree after Capitol assault"
-    excerpt: "Lehigh University has rescinded the honorary degree it awarded to President Donald Trump more than 30 years ago. The announcement came two days after the president encouraged a mob of his supporters who stormed the Capitol,"
-    publishedDateTime: 2021-01-09T16:36:00Z
-    webUrl: "https://www.cbsnews.com/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
+  - title: "GOP Congresswoman on voting to impeach Trump: \"I felt like I had to\""
+    excerpt: "In an unprecedented vote Donald Trump become the first president to be impeached twice; Jaime Herrera Beutler explains why she joined other Republicans in voting \"yes.\""
+    publishedDateTime: 2021-01-17T14:55:00Z
+    webUrl: "https://www.cbsnews.com/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 124
+    quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/09/68323e33-f902-440c-8046-816a9f064d68/thumbnail/1200x630g2/a60ea5ae729431f57336314793108ca2/gettyimages-1294907289-1.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/17/94c6d7ab-08fb-498a-9a67-01de81e8a1bd/thumbnail/1200x630/4283d5e6e42882d4eef834bf4274df93/jaime-herrera-beutler-a-1280.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Melania Trump breaks silence on Capitol riot, mourns police and Trump supporters who died"
-    excerpt: "First Lady Melania Trump broke her silence on the violent storming of the U.S. Capitol by a mob of pro-Trump rioters, denouncing violence."
-    publishedDateTime: 2021-01-11T12:00:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/01/11/capital-riot-melania-trump-breaks-silence-mourns-police-and-rioters/6619809002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6619809002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6619809002"
+  - title: "Trump pardons in California extend to former congressman"
+    excerpt: "Rep. Randy “Duke” Cunningham admitted in 2005 to accepting $2.4 million in illegal gifts from defense contractors in exchange for government contracts and other favors, it was considered the largest b"
+    publishedDateTime: 2021-01-21T04:34:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-pardons-in-california-extend-to-former-congressman/2021/01/20/0a82176e-5b78-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-pardons-in-california-extend-to-former-congressman/2021/01/20/0a82176e-5b78-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-pardons-in-california-extend-to-former-congressman/2021/01/20/0a82176e-5b78-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Arizona Republicans reelect fervent Trump ally as chair"
+    excerpt: "Arizona Republicans on Saturday reelected Kelli Ward as party chair, giving a second term to one of Donald Trump’s most unflinching supporters even after the GOP lost ground in the state last year"
+    publishedDateTime: 2021-01-23T23:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Nightline/210123_ntl_politics_1239_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Power Up: Republican rift widens over Trump impeachment"
+    excerpt: "House lawmakers will tonight deliver to the Senate a single article of impeachment against former president Donald Trump, alleging “incitement of insurrection” in a trial set to start Feb. 9. The delay may help President Biden confirm some of his Cabinet nominees."
+    publishedDateTime: 2021-01-25T16:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4PXJQ4C6ZYI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 981
+        isCached: true
+  - title: "Chaos of Trump's last days in office reverberates with fresh 'plot' report"
+    excerpt: "Ex-president, whose Senate impeachment trial will start in two weeks, reportedly planned to oust acting attorney general in bid to overturn election"
+    publishedDateTime: 2021-01-23T13:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/6cc7a11350a4b08cff15732085b6cd0c07a383e8/0_188_2837_1703/master/2837.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dc5bd61e9b0dc76199d6d0771b4bd07"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Members of Trump campaign behind rally that ignited US Capitol riot, records show"
+    excerpt: "Members of President Donald Trump’s failed presidential campaign played key roles in orchestrating the Washington rally that spawned a deadly assault on the U.S. Capitol."
+    publishedDateTime: 2021-01-17T19:44:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/t7VpUy5QxEECbcVgOLtJwrLwgqc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IT6YI775GRH4NHVWSC4CLPP6KQ.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Senate Republicans unite behind failed effort to challenge Trump impeachment trial"
+    excerpt: "Forty-five Senate Republicans backed a failed effort on Tuesday to halt former President Donald Trump's impeachment trial, in a show of party unity that some cited as a clear sign he will not be convicted of inciting insurrection at the Capitol."
+    publishedDateTime: 2021-01-27T06:53:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idAFKBN29V2JI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN29V2JI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN29V2JI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1FA"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "'Trumpocalypse' is over. Why the anti-Trump billboard in downtown Phoenix is coming down"
+    excerpt: "Trumpocalypse,' the anti-Donald Trump billboard in downtown Phoenix is being replaced. The controversial Grand Ave. billboard will feature new images"
+    publishedDateTime: 2021-01-24T15:07:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/arts/2021/01/24/donald-trump-billboard-downtown-phoenix/6665056002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6665056002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6665056002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/23/USAT/d2af2f4d-3bc8-477e-a5ca-d8c20530111f-GTY_1292797972.jpg?auto=webp&crop=2750,1547,x1,y247&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/-mm-/8748c6c4833f4d286dc7aab150adee2b64263865/c=0-173-4890-2936/local/-/media/2017/05/12/Phoenix/Phoenix/636302166299134058--20170319-Trump-billboard-0065.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 678
         isCached: true
-  - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election, accuses Trump of bilking supporters"
-    excerpt: "Ben Sasse of Nebraska issued a scathing rebuke Thursday of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation’s civic traditions."
-    publishedDateTime: 2020-12-31T20:52:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
+  - title: "Trump jumps into a divisive battle over the Republican Party — with a threat to start a ‘MAGA Party’"
+    excerpt: "The former president, in his first political activity since leaving office, endorses an ally for Arizona party chair who backed his false claims of election fraud."
+    publishedDateTime: 2021-01-24T04:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 107
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
     images:
-      - url: "https://www.chicagotribune.com/resizer/-aAP2b_YTj9TpE7ZkcH1cDiQXF4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/46OMDMS7IBDPFFTOUKLLQRFOV4.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R4WSECC3KMI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election results, accuses Trump of bilking supporters"
-    excerpt: "Trump, the first president to lose a reelection bid in almost 30 years, has attributed his defeat to widespread voter fraud, despite nonpartisan election officials saying there wa"
-    publishedDateTime: 2020-12-31T18:57:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-ben-sasse-josh-hawley-20201231-jbfgo4jiorfanarxr7zs73k6yi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 103
-    images:
-      - url: "https://www.chicagotribune.com/resizer/-aAP2b_YTj9TpE7ZkcH1cDiQXF4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/46OMDMS7IBDPFFTOUKLLQRFOV4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "YouTube ban: Google blocks new uploads to Donald Trump's channel after Capitol riots, citing potential for violence"
-    excerpt: "Google's YouTube is blocking new uploads to Trump's channel. It's also being threatened with a national ad boycott if it does not ban Trump."
-    publishedDateTime: 2021-01-13T12:23:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2021/01/12/trump-youtube-ban-capitol-riots-civil-rights-groups/6649933002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6649933002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6649933002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 103
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Sacha Baron Cohen shamed Google for keeping Donald Trump's YouTube account live after Facebook and Twitter banned him"
-    excerpt: "\"Trump's YouTube channel is STILL showing videos of his election lies to MILLIONS of people!\""
-    publishedDateTime: 2021-01-11T16:35:00Z
-    webUrl: "https://www.businessinsider.com/sacha-baron-cohen-youtube-donald-trump-google-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/sacha-baron-cohen-youtube-donald-trump-google-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sacha-baron-cohen-youtube-donald-trump-google-2021-1?amp"
+  - title: "Hundreds of publishing industry figures have signed an open letter in opposition to a potential Trump memoir"
+    excerpt: "Hundreds of authors, editors, and agents signed an open letter asking the world's publishers to skip a post-presidency memoir from Donald Trump."
+    publishedDateTime: 2021-01-22T10:27:00Z
+    webUrl: "https://www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 102
+    quality: 106
     images:
-      - url: "https://i.insider.com/5ffc6e66bde805001980c201?width=1200&format=jpeg"
-        width: 750
-        height: 374
+      - url: "https://i.insider.com/60044f8de3d62500185fcf8e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "YouTube suspends Trump's channel after violating policy on inciting violence"
-    excerpt: "Alphabet Inc's YouTube said on Tuesday it has suspended Donald Trump's channel as it violated policies for inciting violence after last week's assault on the U.S. Capitol by the president's supporters."
-    publishedDateTime: 2021-01-13T10:41:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-youtube-trump-int/youtube-suspends-trumps-channel-after-violating-policy-on-inciting-violence-idUSKBN29I0HL"
+  - title: "Arizona Republicans Censure Party Leaders At Odds With Trump"
+    excerpt: "State GOP members passed resolutions at a meeting on Saturday to condemn three party leaders who they said failed to support President Trump: Gov. Doug Ducey, former Sen. Jeff Flake and Cindy McCain."
+    publishedDateTime: 2021-01-24T03:10:00Z
+    webUrl: "https://www.npr.org/2021/01/23/959974795/arizona-republicans-censure-party-leaders-at-odds-with-trump"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
+        width: 800
+        height: 800
+        isCached: true
+  - title: "GOP lawmaker part of Trump's plan to oust AG -NYT"
+    excerpt: "NYT. Posted . A Republican U.S. congressman played a key role in former President Donald Trump's efforts to remove the to"
+    publishedDateTime: 2021-01-25T00:01:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDWKJPM3"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547595731&r=LYNXMPEH0C0FJ&w=800"
-        width: 800
-        height: 533
+      - url: "https://static.reuters.com/resources/r/?d=20210124&i=OVDWKJPM3&r=OVDWKJPM3&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Majority of Americans want Trump removed immediately after U.S. Capitol violence - Reuters/Ipsos poll"
-    excerpt: "Fifty-seven percent of Americans want Republican President Donald Trump to be immediately removed from office after he encouraged a protest this week that escalated into a deadly riot inside the U.S."
-    publishedDateTime: 2021-01-09T14:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-poll/majority-of-americans-want-trump-removed-immediately-after-u-s-capitol-violence-reuters-ipsos-poll-idUSKBN29D2VG"
+  - title: "Republicans face uncertain future in post-Trump era"
+    excerpt: "The third highest-ranking Republican in the House, Congresswoman Liz Cheney of Wyoming, is facing backlash following her support for impeaching former President Donald Trump. CBS News Capitol Hill producer Rebecca Kaplan joins \"CBSN AM\" to discuss the divisions within the GOP."
+    publishedDateTime: 2021-01-25T14:23:00Z
+    webUrl: "https://www.cbsnews.com/video/republican-party-post-trump-divisions/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 90
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547174178&r=LYNXMPEH071BU&w=800"
-        width: 800
-        height: 533
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/25/c97f4332-6590-4643-8683-d132f8c2bfa2/thumbnail/1200x630/5c699f42fa172802dca2b8e49dd7e31d/cbsn-fusion-republicans-face-uncertain-future-in-post-trump-era-thumbnail-632647-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Donald Trump to mob at Capitol: 'I know your pain... but you have to go home now'"
-    excerpt: "President Donald Trump issued a brief video statement on Twitter late Wednesday urging the unruly mob of his supporters at the US Capitol to go home, even as he continued"
-    publishedDateTime: 2021-01-06T21:23:00Z
-    webUrl: "https://www.nola.com/news/politics/national_politics/article_77a5caa2-5065-11eb-a4cd-430a126f9d7e.html"
-    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_77a5caa2-5065-11eb-a4cd-430a126f9d7e.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_77a5caa2-5065-11eb-a4cd-430a126f9d7e.amp.html"
+  - title: "Trump Impeachment Trial Rules Remain a Work in Progress"
+    excerpt: "The same Senate chamber that was overrun by insurrectionists will become a somber court for Donald Trump’s impeachment trial, as senators weigh whether to make him the first president permanently disqualified from federal office."
+    publishedDateTime: 2021-01-25T22:17:00Z
+    webUrl: "https://www.washingtonpost.com/business/trump-impeachment-trial-rules-remain-a-work-in-progress/2021/01/25/44c2505e-5f4e-11eb-a177-7765f29a9524_story.html"
     type: article
     provider:
-      name: NOLA.com
-      domain: nola.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQMOHQC7JYI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump allies and Republican lawmakers lost thousands of followers in Twitter purge after Capitol riots"
+    excerpt: "Republican lawmakers lost thousands of followers when Twitter purged QAnon accounts following the violent mob attack on the Capitol stoked by Trump."
+    publishedDateTime: 2021-01-17T21:55:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/15/trump-republican-lawmakers-follower-counts-slashed-twitter-purge/4168064001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 89
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/01/14/USATODAY/usatsports/twitter-white-house-trump.jpg?width=1600&height=800&fit=crop"
+        width: 1600
+        height: 800
+        isCached: true
+  - title: "The Republican Party is in disarray post-Trump and faces a crisis bigger than after Watergate, says veteran GOP Congressman"
+    excerpt: "A rift has opened between GOP lawmakers who want Trump's legacy purged and lawmakers and grassroots supporters who remain steadfastly loyal."
+    publishedDateTime: 2021-01-31T11:43:00Z
+    webUrl: "https://www.businessinsider.com/post-trump-republican-crisis-bigger-than-watergate-says-gop-veteran-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/60168014d6c5e60019c6e1dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump Mulled Replacing Attorney General Over Election Results: US Media"
+    excerpt: "Donald Trump considered replacing then-acting US attorney general Jeffrey A. Rosen with a Justice Department lawyer who would help him force Georgia officials to overturn the state's election result,"
+    publishedDateTime: 2021-01-23T07:44:00Z
+    webUrl: "https://www.ibtimes.com/trump-mulled-replacing-attorney-general-over-election-results-us-media-3128886"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
     quality: 70
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/3/7a/37a9e6e5-5a50-51a6-ae61-cf84bed6c2e2/5ff625ff0cd4a.image.jpg?resize=1024%2C682"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/23/donald-trump-mulled-replacing-the-acting-us-attorney.jpg"
         width: 1024
-        height: 682
+        height: 760
         isCached: true
-  - title: "YouTube Suspends Donald Trump's Channel For 7 Days Following Capitol Riots, Disables Comments"
-    excerpt: "YouTube has suspended Donald Trump's channel for at least seven days and took down a video for violating its policies."
-    publishedDateTime: 2021-01-13T07:58:00Z
-    webUrl: "https://www.ibtimes.com/youtube-suspends-donald-trumps-channel-7-days-following-capitol-riots-disables-3120714"
-    ampWebUrl: "https://www.ibtimes.com/youtube-suspends-donald-trumps-channel-7-days-following-capitol-riots-disables-3120714?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/youtube-suspends-donald-trumps-channel-7-days-following-capitol-riots-disables-3120714?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 64
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-leaves-for-a-trip.jpg"
-        width: 1024
-        height: 711
-        isCached: true
-  - title: "After Trump Was Kicked Off Twitter, Facebook, Instagram, Questions Surround How He Will Talk To Nation"
-    excerpt: "After inciting the violence at the Capitol, Donald Trump is now banned from many social media sites and is on a search for a new one to use."
-    publishedDateTime: 2021-01-10T18:12:00Z
-    webUrl: "https://www.ibtimes.com/after-trump-was-kicked-twitter-facebook-instagram-questions-surround-how-he-will-talk-3118391"
-    ampWebUrl: "https://www.ibtimes.com/after-trump-was-kicked-twitter-facebook-instagram-questions-surround-how-he-will-talk-3118391?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/after-trump-was-kicked-twitter-facebook-instagram-questions-surround-how-he-will-talk-3118391?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/this-photo-from-august-10-shows-the-twitter.jpg"
-        width: 1024
-        height: 661
-        isCached: true
-  - title: "Facebook Bans Trump 'Indefinitely' For Inciting Violence"
-    excerpt: "Facebook banned President Donald Trump from the platform \"indefinitely\" due to his efforts to incite the violence in the US capital this week, chief executive Mark Zuckerberg said Thursday. Zuckerberg said the 24-hour ban announced Wednesday was extended because of Trump's \"use of our platform to incite violent insurrection against a democratically elected government."
-    publishedDateTime: 2021-01-07T16:34:00Z
-    webUrl: "https://www.ibtimes.com/facebook-bans-trump-indefinitely-inciting-violence-3116688"
+  - title: "Donald Trump: From The American Dream To American Nightmare"
+    excerpt: "When Donald Trump looks down for the last time from his helicopter over the White House lawn Wednesday, the wreckage of his presidency will be inescapable. The showman with the dyed blond hair, fake tan and a knack for connecting with crowds took office four years ago,"
+    publishedDateTime: 2021-01-18T00:33:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-american-dream-american-nightmare-3124343"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/07/president-donald-trump-is-facing-growing-bans-from.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/us-president-donald-trump-kisses-german-chancellor-angela.jpg"
         width: 1024
-        height: 689
+        height: 682
         isCached: true
-  - title: "Trump on Verge of 2nd Impeachment After Capitol Siege"
-    excerpt: "President Donald Trump is on the verge of being impeached for a second time, the House planning the unprecedented vote one week after he encouraged a mob of loyalists to “fight like hell” against election results and the U."
-    publishedDateTime: 2021-01-13T08:11:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege?context=amp"
+  - title: "Most Pennsylvania GOP Backed Trump to the End, and Still Do"
+    excerpt: "With Donald Trump out of the White House, Pennsylvania’s Republican Party shows no sign of walking away from a president who lost control of Congress, carried out an unprecedented campaign to overturn an election and is blamed by some in his party for inciting a violent assault on the country’s democracy."
+    publishedDateTime: 2021-01-21T12:14:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-01-21/most-pennsylvania-gop-backed-trump-to-the-end-and-still-do"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 55
-  - title: "YouTube Suspends Trump Channel For Week Over Violence Fears"
-    excerpt: "Google-owned YouTube on Tuesday temporarily suspended President Donald Trump's channel and removed a video for violating its policy against inciting violence, joining other social media platforms in banning his accounts after last week's Capitol riot."
-    publishedDateTime: 2021-01-13T06:02:00Z
-    webUrl: "https://www.ibtimes.com/youtube-suspends-trump-channel-week-over-violence-fears-3120723"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/13/google-owned-youtube-on-tuesday-joined-other-social.jpg"
-        width: 1024
-        height: 681
-        isCached: true
+    quality: 35
 
 secured: "XWpj9U9W3ZrSefBTEYlFGgWKRJ5AJoVpUGE2bRTgwLwx+g+ZINj52V89CvS8KsNGr3oDygEnmaa8c79sQtlrfrh95s6JPAu4tVyOF8sJrAN2rHjlQQktePRUHpWiUcfyrB8HjDNRXYVbuxtfmjRthd46Zkb1lZZjj8HDVkJJKrGthFzAXesU5Hu11MTAlPrFXhMqS9EJevpd4jjCcHfQkI5RGvfRVTnPgg4TGmEe2Rao0wp8i4fk/+1qvpEJ52pvt9PBseyFhORfAY66GB3GhkYInfQVxzc6j/D6iHLdqGrwEQfqULb/pZR+jIQvqiyl+Gv6k8Ps7LfIb4LvUBVGTYBZ17KrfulAKiazzf0XL0E=;D97W/2j8huaPDz56/upXcg=="
 ---

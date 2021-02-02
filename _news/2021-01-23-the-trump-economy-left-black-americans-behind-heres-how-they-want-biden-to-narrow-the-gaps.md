@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to keep tariffs on aluminum imports from UAE, reversing Trump"
+    excerpt: "U.S. President Joe Biden will maintain a tariff of 10% on aluminum imports from the United Arab Emirates, reversing Donald Trump's move to end the levies on his last day as president, the White House said on Monday."
+    publishedDateTime: 2021-02-02T09:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-aluminum-emirates-idUSKBN2A204N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A204N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A204N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 150
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549923755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH11020"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden overturns Trump ban on transgender people serving in U.S. military"
     excerpt: "President Joe Biden on Monday signed an executive order that overturned a controversial ban by his predecessor on transgender individuals serving in the U.S. military, a move cheered by LGBTQ advocates that fulfills a campaign promise."
     publishedDateTime: 2021-01-26T02:44:00Z
@@ -303,22 +319,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden to keep tariffs on aluminum imports from UAE, reversing Trump"
-    excerpt: "U.S. President Joe Biden will maintain tariffs on aluminum imports from the United Arab Emirates, reversing Donald Trump's move to end the levies on his last day as president, the White House said on Monday."
-    publishedDateTime: 2021-02-02T07:02:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trade-aluminum-emirates-idUKKBN2A204N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A204N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A204N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549923755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH11020"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Biden revokes Trump's ban on transgender Americans serving in the military"
     excerpt: "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said."
     publishedDateTime: 2021-01-25T16:52:00Z
@@ -542,6 +542,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ISCDBIRWPAI6XFUZADJRD4J5FU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump to outline impeachment defense as Biden seeks to undo border family separations – live"
+    excerpt: "Noon deadline for Trump’s legal team as Biden due to sign executive orders on immigration"
+    publishedDateTime: 2021-02-02T08:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 129
+    images:
+      - url: "https://i.guim.co.uk/img/media/f3e62d78d38afd5078732a14b1aa4fa84314cd09/1852_327_1539_924/master/1539.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b79096d4f979bcf667892fde9b13573"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden appoints U.S. consumer watchdog veteran as acting director after Trump appointee resigns"
     excerpt: "The White House announced President Joe Biden would appoint Dave Uejio to run the Consumer Financial Protection Bureau (CFPB) on an acting basis after its director, Kathy Kraninger, resigned at the new administration's request."
@@ -785,19 +801,19 @@ related:
         isCached: true
   - title: "Biden tries to show US as democracy beacon post-Capitol riot"
     excerpt: "President Joe Biden is facing two critical tests of whether the deadly riot at the U.S. Capitol has damaged America’s standing as a beacon for democracy"
-    publishedDateTime: 2021-02-02T05:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-show-us-democracy-beacon-post-capitol-riot-75626610"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-show-us-democracy-beacon-post-capitol-riot-75626610"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-show-us-democracy-beacon-post-capitol-riot-75626610"
+    publishedDateTime: 2021-02-02T10:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-tries-to-show-us-as-democracy-beacon-post-capitol-riot/2021/02/02/30da0720-6517-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-tries-to-show-us-as-democracy-beacon-post-capitol-riot/2021/02/02/30da0720-6517-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-tries-to-show-us-as-democracy-beacon-post-capitol-riot/2021/02/02/30da0720-6517-11eb-bab8-707f8769d785_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b53941fd40754e86bd020c377e43a082_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Texas attorney general files lawsuit to block Biden's deportation freeze"
     excerpt: "The Texas attorney general filed a lawsuit on Friday that seeks to block U.S. President Joe Biden's move to pause certain deportations for 100 days, a controversial opening-move by the Democratic president that has provoked blowback from some Republicans."
@@ -1159,6 +1175,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EC233CBMI5GPJAZ5I7IDV675JI.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "President Biden already has an antagonist-in-chief. It's Ron DeSantis, the Florida GOP governor Democrats have tagged as 'Trump's errand boy.'"
+    excerpt: "DeSantis is leading the pack of Republicans attacking Joe Biden, a plan that could help his 2022 reelection or possible presidential run in 2024."
+    publishedDateTime: 2021-02-02T10:41:00Z
+    webUrl: "https://www.businessinsider.com/ron-desantis-2024-president-biden-florida-governor-2022-covid-plan-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://i.insider.com/6018735ad6c5e60019c6e54d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Fauci Admits 'Liberating Feeling' Now That Trump Is Gone; Touts Biden's COVID-19 Plan"
     excerpt: "Under the Trump administration, Fauci was restricted to appear on TV to offer science-based warnings about the rising number of coronavirus cases."

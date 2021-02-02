@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1623
         isCached: true
+  - title: "Donald Trump spends final minutes in office at Mar-a-Lago, is first president to skip inauguration in more than 150 years"
+    excerpt: "Trump's military send-off at Joint Base Andrews appeared smaller than expected. He left on Air Force One as Frank Sinatra's \"My Way\" played."
+    publishedDateTime: 2021-01-21T18:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/20/donald-trump-plans-end-his-presidency-mar-lago-florida/4210601001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4210601001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4210601001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/de83808c-d841-464c-9f8d-eb7ef135dad1-AFP_AFP_8Z69UN.JPG?auto=webp&crop=4566,2568,x0,y186&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "aOukQoxdAaRGD1JQVyn70C9//vB8dzbKcKfJAgDH3EZ6XcJrcf7TZlv3DosFClDlwL/AY7zJj2+tGvdpmyW+XTMhPNbWeXgK3gixVVfF0bLAZmR7AmONYjn1FXkca6tGmM9Th3UxQ6cSH61zCZIwjrDelzhC6ewsSB2+vWd+s2ExQvNsLLv+gmKeqd9OH6JvVkVUnT7Es7SDWxH3gEKwb3YTibt+qZCZmv8xt81KJutACm+RmjngmpfaEP2FoeW+55PsDF6HFt6n0YgXMqYKm3BSdhsMwp05qWWh7Nq32O7NJmitEXx8v5OnLlfWggvfGb/6XMwdfs93bt9/XBg6NShOBwXKxHPNhOcA0NheAIAolX0HxOEpdXpiOcwzVrspcHaC2hZ44mc5VJxcxTYhxj2bYYA4fY96gBOTKe16B6CCmBoR/wtJGhHDek5WAaF5oLeqcVj4kPQR8bDSOgVezxiiH+OMfCkP2Z1a1ewYz7OKykHMcxtKABZk7ac/DV+zNw4GpMo/iBfDdqraC1cLog==;AzVOrxQGdiS+K4iS2jrMVQ=="
 ---

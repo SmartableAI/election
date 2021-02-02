@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oi
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 825
+heat: 845
 published: true
 
 provider:
@@ -460,6 +460,17 @@ related:
     webUrl: "https://www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2"
     ampWebUrl: "https://www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Hundreds deported under Biden, including witness to massacre"
+    excerpt: "President Joe Biden's administration has deported hundreds of immigrants in its early days despite his campaign pledge to stop removing most people in the U.S. illegally at the beginning of his term."
+    publishedDateTime: 2021-02-02T10:02:00Z
+    webUrl: "https://www.businessinsider.com/hundreds-deported-under-biden-including-witness-to-massacre-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/hundreds-deported-under-biden-including-witness-to-massacre-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hundreds-deported-under-biden-including-witness-to-massacre-2021-2?amp"
     type: article
     provider:
       name: Business Insider

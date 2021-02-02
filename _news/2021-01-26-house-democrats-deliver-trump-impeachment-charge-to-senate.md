@@ -47,19 +47,35 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Arizona Republicans reelect fervent Trump ally as chair"
-    excerpt: "Arizona Republicans on Saturday reelected Kelli Ward as party chair, giving a second term to one of Donald Trump’s most unflinching supporters even after the GOP lost ground in the state last year"
-    publishedDateTime: 2021-01-23T23:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+  - title: "MyPillow Guy among the Trump acolytes picking up the torch"
+    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
+    publishedDateTime: 2021-01-23T14:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Nightline/210123_ntl_politics_1239_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1aeb02288805488587306b003a97079d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "MyPillow Guy among the Trump acolytes picking up the torch"
+    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
+    publishedDateTime: 2021-01-23T17:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/my-pillow-guy-mike-lindell-donald-trump-01-gty-llr-210123_1611431001386_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -78,22 +94,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/5f1334020ac945b34c667ebb76c195c872b2c53d/0_77_3250_1951/master/3250.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6533ff8321a1ad0b9b407e3f95c096c6"
         width: 600
         height: 360
-        isCached: true
-  - title: "Power Up: Republican rift widens over Trump impeachment"
-    excerpt: "House lawmakers will tonight deliver to the Senate a single article of impeachment against former president Donald Trump, alleging “incitement of insurrection” in a trial set to start Feb. 9. The delay may help President Biden confirm some of his Cabinet nominees."
-    publishedDateTime: 2021-01-25T16:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4PXJQ4C6ZYI6XILXO5S7FGUVEQ.jpg&w=1440"
-        width: 1440
-        height: 981
         isCached: true
   - title: "U.S. House lawmakers carry article of impeachment against Trump to Senate"
     excerpt: "U.S. House of Representatives officials and lawmakers on Monday hand-carried an article of impeachment against former President Donald Trump to the Senate for trial on accusations of inciting the deadly Jan."
@@ -127,19 +127,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Arizona Republicans Censure Party Leaders At Odds With Trump"
-    excerpt: "State GOP members passed resolutions at a meeting on Saturday to condemn three party leaders who they said failed to support President Trump: Gov. Doug Ducey, former Sen. Jeff Flake and Cindy McCain."
-    publishedDateTime: 2021-01-24T03:10:00Z
-    webUrl: "https://www.npr.org/2021/01/23/959974795/arizona-republicans-censure-party-leaders-at-odds-with-trump"
+  - title: "Senate To Begin Trump's Impeachment Trial Week Of Feb. 8"
+    excerpt: "The House of Representatives, which already voted to impeach Trump, plans to transmit the article on Monday evening."
+    publishedDateTime: 2021-01-23T00:26:00Z
+    webUrl: "https://www.npr.org/2021/01/22/959606259/house-to-transmit-article-of-impeachment-to-senate-on-monday-schumer-says"
     type: article
     provider:
       name: NPR
       domain: npr.org
     quality: 105
     images:
-      - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
-        width: 800
-        height: 800
+      - url: "https://media.npr.org/assets/img/2021/01/22/ap_21022693843011_wide-0e5bb741df25be58f1a1f4f42485b4ee36c379b3.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Analysis: Chronicling Donald Trump’s 10 worst abuses of power"
     excerpt: "Former President Donald Trump flouted the limits of presidential power unlike any of his recent predecessors, leaving behind a legacy of unmatched abuses that range from violations of longstanding"

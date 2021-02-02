@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Democrats Hail Jamie Raskin for Leading Donald Trump Impeachment After Loss of Son Tommy"
+    excerpt: "Rep. Jamie Raskin (D-MD) has been praised by his Democratic colleagues for his role leading the impeachment push against President Donald Trump following the death of his son in December. Raskin, whose son Thomas died aged 25 in December, took up the role ..."
+    publishedDateTime: 2021-01-18T12:53:00Z
+    webUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336"
+    ampWebUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1710325/jamie-raskin-madeleine-dean-capitol.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Twitter permanently suspends Trump's account, cites 'incitement of violence' risk"
     excerpt: "Twitter Inc said on Friday that it has permanently suspended U.S. President Donald Trump's account due to the risk of further incitement of violence following the storming of the U.S. Capitol on Wednesday."
     publishedDateTime: 2021-01-09T08:32:00Z
@@ -108,6 +124,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547172914&r=LYNXMPEH0800P&w=800"
         width: 799
         height: 576
+        isCached: true
+  - title: "Watch live: House vote today to impeach Trump for a second time"
+    excerpt: "The resolution is in response to last week’s assault on the U.S. Capitol by Trump supporters."
+    publishedDateTime: 2021-01-13T14:15:07Z
+    webUrl: "https://www.bing.com/videos/search?q=url%3ahttps%3a%2f%2fwww.youtube.com%2fwatch%3fv%3dZnyfYgu5iqg&ru=%2fsearch%3fq%3durl%253ahttps%253a%252f%252fwww.youtube.com%252fwatch%253fv%253dZnyfYgu5iqg%26FORM%3dHDRSC1&view=detail&mmscn=vwrc&mid=3F8B8EDDEAF27EB0C6203F8B8EDDEAF27EB0C620&FORM=WRVORC"
+    type: article
+    provider:
+      name: PBS News Hour
+      domain: bing.com
+    quality: 55
+    images:
+      - url: "https://tse2.mm.bing.net/th?id=OVF.kr1jrhl6%2bhrBBRY%2fCA37Tg&w=600&h=315&c=7&rs=1&qlt=100&pid=2.1"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "nQZ7b50yZGSE9qJKaCWS9dza+goCvatUPjOoZAEqCJW3EBaPmPvPjpSZgEIMwLhMno6kGAL4bh+m1Pzzqv6xjvY0+iSYPgy6+rJiaD4ly28MGEnJfroGXxXothU6WNLeoVKDNZbeFM6rYxJJG5Mp7VO2f3y3GcbQn/RZ9ESZEC3KLJFNCYUBQCmDtPz2zwRjwnkwehF/Tz+wfhweJJPuwZmJU7HTQV2AvNQ1Sj0Gqal0I7c+gY0MDXIwKbZgA0MaKFSO4+7lZHvZSdsPLnNw/YjJlGhh5JOuACJOv47LNS0ZzwxEr+gQ67dX/9QGMlX0HtaaiGpOtPYyMthNg5+3cfZm5n1DzeAFVPKg/hCcMHOUCiYipYkB4Ybktuijjh6OVeRynhjGe+LPOpzFzQ4xdecH674wD6jsybK/PBw5IVSDY7O8OGCQZog/c7S3Q7Agj4eQEynoSvGVNj+xguYeCTE1317qq136UsBxuX1pxdkrdihuJ8BzdP2B7LzVo0VbvIgTdFryPIsgZlC9bz2sAA==;OEWrPLQBsnNgiEsFQKcuTw=="

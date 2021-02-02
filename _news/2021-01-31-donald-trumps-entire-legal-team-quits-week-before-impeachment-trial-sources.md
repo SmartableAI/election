@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trumps-entire-legal-team-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684"
 type: article
 quality: 122
-heat: 222
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,21 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Expects Impeachment Trial to Be 'Badge of Honor'—But Rethinks 2024 Run"
-    excerpt: "The ex-president wanted to use the trial to relitigate his claims of election fraud, but Lindsey Graham told him, \"You don't want to go there.\""
-    publishedDateTime: 2021-01-30T12:00:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-expects-impeachment-trial-badge-honor-rethinks-2024-run-1564677"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-expects-impeachment-trial-badge-honor-rethinks-2024-run-1564677?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-expects-impeachment-trial-badge-honor-rethinks-2024-run-1564677?amp=1"
+  - title: "Donald Trump's impeachment defence in disarray as lead lawyers quit"
+    excerpt: "Butch Bowers clashed with Trump over strategy, according to reports, and leaves along with Deborah Barberi and three others"
+    publishedDateTime: 2021-01-31T21:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports?from=samsung_news_daily_card"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1720738/donald-trump-impeachment-2024-capitol-riots.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://i.guim.co.uk/img/media/90d54c23d0e29b77c4957032c2727c8e0c47e140/0_19_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8a54660af1548fed3d269172a76c08c9"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump lawyer: Impeachment case ‘undemocratic,’ ill-advised"
+    excerpt: "Democrats are using the upcoming Senate impeachment trial of Donald Trump as a political “weapon” to bar the former president from seeking office again, and are pursuing a case that is “undemocratic” and unconstitutional,"
+    publishedDateTime: 2021-02-02T03:47:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/P4EW9jjAnf4pV_GJYksLauHHIco=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QWUMU6JWTDKSHAPSV64S3TOOAA.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Meet the impeachment managers who will argue Democrats' case against Trump"
+    excerpt: "Pelosi said the House will officially send the article of impeachment against Mr. Trump to the Senate on Monday. \"We are respectful of the Senate's constitutional power over the t"
+    publishedDateTime: 2021-01-24T12:05:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-second-impeachment-managers/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 123
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/24/57aaa662-8c1c-41a3-ad09-c83e6c55cbd8/thumbnail/1200x630/0bd961208cc571af7316daf6ffedf08b/gettyimages-1296220549.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Donald Trump's impeachment defence in disarray as lead lawyers quit – reports"
+    excerpt: "Butch Bowers clashed with Trump over strategy, according to reports, and leaves along with Deborah Barberi and three others"
+    publishedDateTime: 2021-01-31T05:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/525663cdbd8a103e342d0670c36da19c31b3c287/0_0_1805_1083/master/1805.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ca181bc5a53e969f0eeb51ddd579b5c6"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump changes defense team just over a week before impeachment trial is set to begin"
     excerpt: "A Trump spokesman confirmed that the previously designated lead attorney and another attorney who had been announced will not be part of the team."
@@ -79,37 +127,83 @@ related:
         width: 813
         height: 545
         isCached: true
-  - title: "Capitol rioter \"horrendously smitten\" by Trump willing to speak at impeachment trial, lawyer says"
-    excerpt: "The words of Trump supporters who are accused of participating in the riot may end up being used against him in his impeachment trial."
-    publishedDateTime: 2021-01-30T12:22:00Z
-    webUrl: "https://www.cbsnews.com/news/jake-angeli-qanon-shaman-speak-trump-impeachment-trial/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/jake-angeli-qanon-shaman-speak-trump-impeachment-trial/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jake-angeli-qanon-shaman-speak-trump-impeachment-trial/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/07/c20a610b-0e6c-44c2-95a9-f24b8b331ee7/thumbnail/1200x630/f9f69d871719367d2bd5de2e48e67ab9/gettyimages-1294935359.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump officials moved most Bureau of Land Management positions out of D.C. More than 87 percent quit instead."
-    excerpt: "The decision to relocate BLM headquarters to Colorado and redistribute jobs in the West prompted 287 employees to retire or find other jobs."
-    publishedDateTime: 2021-01-29T04:50:00Z
-    webUrl: "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/"
-    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp"
+  - title: "With impeachment trial looming, Trump taps new lawyers who drew spotlight in past work"
+    excerpt: "After his previous legal team departed, the former president tapped two solo practitioners to argue his case to the Senate next week."
+    publishedDateTime: 2021-02-02T07:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 106
+    quality: 117
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VC6BWOA4CUI6PBMYTKM5UVM7TY&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SEJA6DDE5II6XCDNKJSNJTVUNU.jpg&w=1440"
         width: 1440
-        height: 684
+        height: 960
+        isCached: true
+  - title: "Trump's PAC has over $31 million stockpiled as he heads into his second impeachment trial"
+    excerpt: "There aren't many restrictions on how the donations to the PAC could be spent, so Trump could use the funds for himself."
+    publishedDateTime: 2021-02-01T08:35:00Z
+    webUrl: "https://www.businessinsider.com/trumps-pac-has-over-31-million-stockpiled-ahead-impeachment-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trumps-pac-has-over-31-million-stockpiled-ahead-impeachment-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pac-has-over-31-million-stockpiled-ahead-impeachment-trial-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/60178f66d6c5e60019c6e29a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
+    excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
+    publishedDateTime: 2021-02-02T08:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/01/trump-impeachment-trial-new-lawyers-focus-case-constitution/4312721001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4312721001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4312721001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/3ad2862f-87e5-4ffc-9130-18e947c8e357-AP_Trump_Impeachment_Rioters.jpg?auto=webp&crop=4398,2474,x0,y223&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "‘QAnon Shaman' Offers To Testify At Trump's Impeachment Trial"
+    excerpt: "A lawyer representing Jacob Chansley, the self-proclaimed \"QAnon Shaman,\" said his client now feels betrayed by former President Donald Trump and is willing to testify at his impeachment trial in the Senate."
+    publishedDateTime: 2021-01-29T15:25:00Z
+    webUrl: "https://www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569"
+    ampWebUrl: "https://www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/us-prosecutors-believe-supporters-of-president-donald-trump.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump Impeachment Lawyers Quit, Who Will Be Part Of His New Legal Team?"
+    excerpt: "Former President Donald Trump’s second impeachment trial is set to begin on Feb. 9 and he will need a new legal team after five attorneys on Saturday left over a disagreement in his legal strategy. The legal team included attorneys Butch Bowers,"
+    publishedDateTime: 2021-01-31T14:53:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-quit-who-will-be-part-his-new-legal-team-3134264"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/27/social-media-platforms-have-banned-donald-trumps-accounts.jpg"
+        width: 1024
+        height: 696
         isCached: true
 
 secured: "iM8nSo8ejuXZoDLknOa6ctwA1x4T0P9D5f7kjJuPkiiO/RvwcBa82HTAuc3jsqnaGjebVG2aAM2tYy0CkurKCtvsqla0AQdgBDS+Koyp1D45lflmGDL5xCjElZiyfgy8McHDrGeRN9Y7vdvV2psA70uhOlx+m7ldD7xcHm0Z/njbZ0U1UEYRu6qpmmhLxANCZxmJC+hAdsedy5hVtjDdiFwQ+0r0Y6AEVbDZAcb6tNRBD87jwKJvyCLc/pvWp5uXO8vUKaa76vXSRn1nMFAYfCRFfPv3bI1L6EyWDnhPtv7D9/Igq9qRq/h88iAZNgr5X34OeEsIzT9V+vBMkqdaIFFoDG9tL/sUPFZpel3HTuV76XvlR0/+852pM37af+1jMqsYxJNSyEA1DNuG7Dt9mRAGZr1kzua40LgC5DSyPGZmiG0gBIFcIoqWBOgxtkZtO9hZVrjgj2MDUNTx62RDHWuwfet9dXPAHVyYJQ4N3VqUouf02vhgNNpUwifo9DG5+m8ietjkGU9AVvA5c0c5aw==;a5E62AFyPrXMCcDQtbIwJA=="

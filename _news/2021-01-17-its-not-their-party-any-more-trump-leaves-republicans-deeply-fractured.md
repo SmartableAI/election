@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-republi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack"
 type: article
 quality: 123
-heat: 183
+heat: 143
 published: true
 
 provider:
@@ -31,31 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Morgan Lewis, Trump's longtime tax counsel, prepares for split"
-    excerpt: "Morgan, Lewis & Bockius said Wednesday it was stepping away from advising Donald Trump on tax matters, leaving the former president and his businesses further isolated from the country's largest law firms."
-    publishedDateTime: 2021-01-21T04:07:00Z
-    webUrl: "https://www.reuters.com/article/mlb-trump-idUSL1N2JW050"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JW050"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JW050"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Melania Trump leaves Donald Trump alone in front of the cameras – video"
-    excerpt: "Former first lady left Donald Trump alone in front of the cameras at Palm Beach airport after the couple left the White House ahead of Joe Biden's inauguration"
-    publishedDateTime: 2021-01-23T10:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/13ed5203f77124a21f8ff6fb41659c1b30762c44/30_76_1673_1004/master/1673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a04315508afc531e643ca3e642bb5c0"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump sought the world's attention and got it. Now the White House reality show ends"
     excerpt: "A red tie, often tied too long. A raised fist, often held high to a supportive crowd. A scowling face. A raised voice."
     publishedDateTime: 2021-01-18T19:37:00Z

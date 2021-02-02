@@ -31,247 +31,303 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump pardons Steve Bannon amid last acts of presidency"
-    excerpt: "Former senior adviser had previously been considered an unlikely name among the 143 people who received clemency"
-    publishedDateTime: 2021-01-20T10:21:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report"
+  - title: "Republican congressman played a role in Trump's campaign to fight election loss: NYT"
+    excerpt: "A Republican U.S. congressman played a role in ex-President Donald Trump's efforts to oust the top Justice Department official and replace him with a loyalist willing to support efforts to overturn his election defeat,"
+    publishedDateTime: 2021-01-24T19:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0FS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0FS"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 133
     images:
-      - url: "https://i.guim.co.uk/img/media/885db9682b9b36653c7209be17740b92e8d006af/0_108_3200_1920/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cbad3454b95c8ab8d879dbe443aab4c1"
-        width: 600
-        height: 360
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548877639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N093"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump global broadcasting chief quits amid VOA staff revolt"
-    excerpt: "Former President Donald Trump’s hand-picked chief of U.S. international broadcasting has quit amid a burgeoning staff revolt and growing calls for his resignation"
-    publishedDateTime: 2021-01-21T06:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump opens \"Office of the Former President\" in Florida"
-    excerpt: "Former President Donald Trump announced Monday the official opening of the Palm Beach County, Florida, which is tasked with overseeing the 45th president's official activities in his post-presidency life."
-    publishedDateTime: 2021-01-27T11:41:00Z
-    webUrl: "https://www.cbsnews.com/news/office-of-the-former-president-trump-florida/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/office-of-the-former-president-trump-florida/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/office-of-the-former-president-trump-florida/"
+  - title: "GOP Congresswoman on voting to impeach Trump: \"I felt like I had to\""
+    excerpt: "In an unprecedented vote Donald Trump become the first president to be impeached twice; Jaime Herrera Beutler explains why she joined other Republicans in voting \"yes.\""
+    publishedDateTime: 2021-01-17T14:55:00Z
+    webUrl: "https://www.cbsnews.com/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/26/56763f7f-832f-4afa-b230-1e1232404aed/thumbnail/1200x630/d12b165a061a3afbccf9da5d0bdb3f56/gettyimages-1230702145.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/17/94c6d7ab-08fb-498a-9a67-01de81e8a1bd/thumbnail/1200x630/4283d5e6e42882d4eef834bf4274df93/jaime-herrera-beutler-a-1280.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "'We will be back in some form,' Trump vows at end of tumultuous presidency"
-    excerpt: "President Donald Trump disappeared on Wednesday behind the walls of his club in Palm Beach, Florida, ending a tumultuous presidency stained by two impeachments, deep political divisions and a pandemic that has caused 400,"
-    publishedDateTime: 2021-01-21T04:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29P0II"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0II"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0II"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548466641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J18I"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "YouTube ban: Google extends suspension of former President Trump's channel"
-    excerpt: "YouTube is maintaining its suspension of former President Trump's channel on the video site. Rudy Giuliani's channel also had its revenue nixed."
-    publishedDateTime: 2021-01-27T07:16:00Z
-    webUrl: "https://www.usatoday.com/story/tech/news/2021/01/26/youtube-ban-former-president-trumps-channel-remain-suspended/4265336001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4265336001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4265336001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/96480bcf-d324-4a80-869b-9f23606fdcc3-VPC_TRUMP_FINAL_ADDRESS_IN_OFFICE_DESK.00_00_17_15.Still001.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Bipartisan Senate duo crafts censure resolution that might bar Trump from office"
-    excerpt: "With the outcome of former President Donald Trump’s second impeachment trial all but certain to end without a conviction, a bipartisan pair of senators is working on a resolution that for just the second time in history would censure a U."
-    publishedDateTime: 2021-01-27T22:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/susan-collins-ap-jef-210127_1611784510838_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency"
-    excerpt: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
-    publishedDateTime: 2021-01-25T19:52:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-as-moot-lawsuits-over-whether-donald-trump-illegally-profited-off-his-presidency/2021/01/25/e6e318d2-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+  - title: "Trump pardons in California extend to former congressman"
+    excerpt: "Rep. Randy “Duke” Cunningham admitted in 2005 to accepting $2.4 million in illegal gifts from defense contractors in exchange for government contracts and other favors, it was considered the largest b"
+    publishedDateTime: 2021-01-21T04:34:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-pardons-in-california-extend-to-former-congressman/2021/01/20/0a82176e-5b78-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-pardons-in-california-extend-to-former-congressman/2021/01/20/0a82176e-5b78-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-pardons-in-california-extend-to-former-congressman/2021/01/20/0a82176e-5b78-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 108
+    quality: 125
     images:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump pardons ex-strategist Steve Bannon, dozens of others"
-    excerpt: "President Donald Trump has pardoned former chief strategist Steve Bannon as part of a late flurry of clemency action benefiting nearly 150 people, including rap stars and former members of Congress"
-    publishedDateTime: 2021-01-20T07:16:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-pardons-strategist-steve-bannon-dozens-75363758"
+  - title: "Facebook's oversight board to rule on Trump ban"
+    excerpt: "Facebook is passing the buck for its indefinite suspension of former president Donald Trump to a quasi-independent oversight board, setting up a major test of the recently established panel"
+    publishedDateTime: 2021-01-21T18:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5ffebad59b7a4e4e950520e8691e2ec2_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Business/WireAP_1ad850f0ef8142389a126a58050fcfca_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump, in wave of Tuesday pardons, so far not planning to pardon himself: source"
-    excerpt: "U.S. President Donald Trump at this point is opting not to issue a pardon for himself as he prepares an expansive list of more than 100 pardons and commutations for release on Tuesday, a source familiar with the effort said."
-    publishedDateTime: 2021-01-18T08:49:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons/trump-in-wave-of-tuesday-pardons-so-far-not-planning-to-pardon-himself-source-idUSKBN29N079?edition-redirect=ca"
+  - title: "Arizona Republicans reelect fervent Trump ally as chair"
+    excerpt: "Arizona Republicans on Saturday reelected Kelli Ward as party chair, giving a second term to one of Donald Trump’s most unflinching supporters even after the GOP lost ground in the state last year"
+    publishedDateTime: 2021-01-23T23:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Nightline/210123_ntl_politics_1239_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Power Up: Republican rift widens over Trump impeachment"
+    excerpt: "House lawmakers will tonight deliver to the Senate a single article of impeachment against former president Donald Trump, alleging “incitement of insurrection” in a trial set to start Feb. 9. The delay may help President Biden confirm some of his Cabinet nominees."
+    publishedDateTime: 2021-01-25T16:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/25/power-up-republican-rift-widens-over-trump-impeachment/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4PXJQ4C6ZYI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 981
+        isCached: true
+  - title: "Members of Trump campaign behind rally that ignited US Capitol riot, records show"
+    excerpt: "Members of President Donald Trump’s failed presidential campaign played key roles in orchestrating the Washington rally that spawned a deadly assault on the U.S. Capitol."
+    publishedDateTime: 2021-01-17T19:44:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-us-capitol-riots-trump-supporters-20210117-piy4dkmga5bxnfaqpvyqqkf7hm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/t7VpUy5QxEECbcVgOLtJwrLwgqc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IT6YI775GRH4NHVWSC4CLPP6KQ.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Senate Republicans unite behind failed effort to challenge Trump impeachment trial"
+    excerpt: "Forty-five Senate Republicans backed a failed effort on Tuesday to halt former President Donald Trump's impeachment trial, in a show of party unity that some cited as a clear sign he will not be convicted of inciting insurrection at the Capitol."
+    publishedDateTime: 2021-01-27T06:53:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idAFKBN29V2JI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN29V2JI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN29V2JI"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 100
+    quality: 119
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548150109&r=LYNXMPEH0H03F&w=800"
-        width: 800
-        height: 526
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1FA"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Donald Trump didn't pardon himself. A massive tsunami of legal peril now awaits him."
-    excerpt: "Trump faces a host of investigations at the federal, state, and local levels involving his presidency, campaign, business interests, and taxes."
-    publishedDateTime: 2021-01-27T11:15:00Z
-    webUrl: "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1"
+  - title: "'Trumpocalypse' is over. Why the anti-Trump billboard in downtown Phoenix is coming down"
+    excerpt: "Trumpocalypse,' the anti-Donald Trump billboard in downtown Phoenix is being replaced. The controversial Grand Ave. billboard will feature new images"
+    publishedDateTime: 2021-01-24T15:07:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/arts/2021/01/24/donald-trump-billboard-downtown-phoenix/6665056002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6665056002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6665056002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/8748c6c4833f4d286dc7aab150adee2b64263865/c=0-173-4890-2936/local/-/media/2017/05/12/Phoenix/Phoenix/636302166299134058--20170319-Trump-billboard-0065.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Trump jumps into a divisive battle over the Republican Party — with a threat to start a ‘MAGA Party’"
+    excerpt: "The former president, in his first political activity since leaving office, endorses an ally for Arizona party chair who backed his false claims of election fraud."
+    publishedDateTime: 2021-01-24T04:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R4WSECC3KMI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Hundreds of publishing industry figures have signed an open letter in opposition to a potential Trump memoir"
+    excerpt: "Hundreds of authors, editors, and agents signed an open letter asking the world's publishers to skip a post-presidency memoir from Donald Trump."
+    publishedDateTime: 2021-01-22T10:27:00Z
+    webUrl: "https://www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 98
+    quality: 106
     images:
-      - url: "https://i.insider.com/600865b6e3d62500185fd62e?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60044f8de3d62500185fcf8e?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "'It was a non-event': Pro-Trump protests quiet amid massive police presence across U.S."
-    excerpt: "Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
-    publishedDateTime: 2021-01-18T06:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-state-capitals-see-few-protesters-after-bracing-for-violent-demonstrations-idUSKBN29M046"
+  - title: "Arizona Republicans Censure Party Leaders At Odds With Trump"
+    excerpt: "State GOP members passed resolutions at a meeting on Saturday to condemn three party leaders who they said failed to support President Trump: Gov. Doug Ducey, former Sen. Jeff Flake and Cindy McCain."
+    publishedDateTime: 2021-01-24T03:10:00Z
+    webUrl: "https://www.npr.org/2021/01/23/959974795/arizona-republicans-censure-party-leaders-at-odds-with-trump"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
+        width: 800
+        height: 800
+        isCached: true
+  - title: "GOP lawmaker part of Trump's plan to oust AG -NYT"
+    excerpt: "NYT. Posted . A Republican U.S. congressman played a key role in former President Donald Trump's efforts to remove the to"
+    publishedDateTime: 2021-01-25T00:01:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDWKJPM3"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 97
+    quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548124964&r=LYNXMPEH0G0GQ&w=800"
-        width: 800
-        height: 533
+      - url: "https://static.reuters.com/resources/r/?d=20210124&i=OVDWKJPM3&r=OVDWKJPM3&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Should Trump Pardon Himself? 68% Of Americans Say 'No'"
-    excerpt: "The U.S. Constitution does not explicitly say whether a sitting president can pardon himself for potential criminal liabilities."
-    publishedDateTime: 2021-01-18T00:26:00Z
-    webUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284"
-    ampWebUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
+  - title: "Republicans face uncertain future in post-Trump era"
+    excerpt: "The third highest-ranking Republican in the House, Congresswoman Liz Cheney of Wyoming, is facing backlash following her support for impeaching former President Donald Trump. CBS News Capitol Hill producer Rebecca Kaplan joins \"CBSN AM\" to discuss the divisions within the GOP."
+    publishedDateTime: 2021-01-25T14:23:00Z
+    webUrl: "https://www.cbsnews.com/video/republican-party-post-trump-divisions/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/outgoing-us-president-donald-trump-is-seeking-to.jpg"
-        width: 1024
-        height: 716
-        isCached: true
-  - title: "Donald Trump Goes Viral On Twitter After Office Of The Former President Launch"
-    excerpt: "Donald Trump has officially launched what's being called the Office of the Former President in Florida to continue his agenda."
-    publishedDateTime: 2021-01-26T11:11:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-goes-viral-twitter-after-office-former-president-launch-3130713"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-goes-viral-twitter-after-office-former-president-launch-3130713?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-goes-viral-twitter-after-office-former-president-launch-3130713?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
-        width: 1024
-        height: 696
-        isCached: true
-  - title: "Donald Trump grants clemency to 143 people (not himself or family members) in final hours"
-    excerpt: "President Donald Trump, who has repeatedly used his clemency authority as a political tool rather than an act of mercy, issued a final wave of pardons and commutations on his last night in office, delivering relief for a mix of beneficiaries that included former strategist Stephen Bannon ,"
-    publishedDateTime: 2021-01-20T14:42:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/19/donald-trump-pardons-steve-bannon-white-house/4209763001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4209763001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4209763001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/15/USAT/99b7b1ca-90be-4570-8335-90f8fb20af93-AP_Trump_2.jpg?auto=webp&crop=4378,2463,x0,y319&format=pjpg&width=1200"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/25/c97f4332-6590-4643-8683-d132f8c2bfa2/thumbnail/1200x630/5c699f42fa172802dca2b8e49dd7e31d/cbsn-fusion-republicans-face-uncertain-future-in-post-trump-era-thumbnail-632647-640x360.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump pardons ex-strategist Steve Bannon, dozens of others"
-    excerpt: "President Donald Trump pardoned former chief strategist Steve Bannon as part of a flurry of clemency action in the final hours of his White House term that benefited more than 140 people, including rap performers,"
-    publishedDateTime: 2021-01-20T12:13:00Z
-    webUrl: "https://www.nola.com/news/politics/national_politics/article_e3c9d1b6-5b18-11eb-804c-7755957d43eb.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/7/75/775825e0-5b19-11eb-8627-e70c6ecd59e3/60081fb0d2b18.image.jpg?resize=945%2C630"
-        width: 945
         height: 630
         isCached: true
-  - title: "'It Was a Non-Event': Pro-Trump Protests Quiet Amid Massive Police Presence Across U.S."
-    excerpt: "Trump Protests Quiet Amid Massive Police Presence Across U.S. HARRISBURG, Pa./LANSING, Mich. (Reuters) - Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
-    publishedDateTime: 2021-01-19T04:13:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence?context=amp"
+  - title: "Trump Impeachment Trial Rules Remain a Work in Progress"
+    excerpt: "The same Senate chamber that was overrun by insurrectionists will become a somber court for Donald Trump’s impeachment trial, as senators weigh whether to make him the first president permanently disqualified from federal office."
+    publishedDateTime: 2021-01-25T22:17:00Z
+    webUrl: "https://www.washingtonpost.com/business/trump-impeachment-trial-rules-remain-a-work-in-progress/2021/01/25/44c2505e-5f4e-11eb-a177-7765f29a9524_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQMOHQC7JYI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump allies and Republican lawmakers lost thousands of followers in Twitter purge after Capitol riots"
+    excerpt: "Republican lawmakers lost thousands of followers when Twitter purged QAnon accounts following the violent mob attack on the Capitol stoked by Trump."
+    publishedDateTime: 2021-01-17T21:55:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/15/trump-republican-lawmakers-follower-counts-slashed-twitter-purge/4168064001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 89
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/01/14/USATODAY/usatsports/twitter-white-house-trump.jpg?width=1600&height=800&fit=crop"
+        width: 1600
+        height: 800
+        isCached: true
+  - title: "The Republican Party is in disarray post-Trump and faces a crisis bigger than after Watergate, says veteran GOP Congressman"
+    excerpt: "A rift has opened between GOP lawmakers who want Trump's legacy purged and lawmakers and grassroots supporters who remain steadfastly loyal."
+    publishedDateTime: 2021-01-31T11:43:00Z
+    webUrl: "https://www.businessinsider.com/post-trump-republican-crisis-bigger-than-watergate-says-gop-veteran-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/60168014d6c5e60019c6e1dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump Mulled Replacing Attorney General Over Election Results: US Media"
+    excerpt: "Donald Trump considered replacing then-acting US attorney general Jeffrey A. Rosen with a Justice Department lawyer who would help him force Georgia officials to overturn the state's election result,"
+    publishedDateTime: 2021-01-23T07:44:00Z
+    webUrl: "https://www.ibtimes.com/trump-mulled-replacing-attorney-general-over-election-results-us-media-3128886"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/23/donald-trump-mulled-replacing-the-acting-us-attorney.jpg"
+        width: 1024
+        height: 760
+        isCached: true
+  - title: "Donald Trump: From The American Dream To American Nightmare"
+    excerpt: "When Donald Trump looks down for the last time from his helicopter over the White House lawn Wednesday, the wreckage of his presidency will be inescapable. The showman with the dyed blond hair, fake tan and a knack for connecting with crowds took office four years ago,"
+    publishedDateTime: 2021-01-18T00:33:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-american-dream-american-nightmare-3124343"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/us-president-donald-trump-kisses-german-chancellor-angela.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Most Pennsylvania GOP Backed Trump to the End, and Still Do"
+    excerpt: "With Donald Trump out of the White House, Pennsylvania’s Republican Party shows no sign of walking away from a president who lost control of Congress, carried out an unprecedented campaign to overturn an election and is blamed by some in his party for inciting a violent assault on the country’s democracy."
+    publishedDateTime: 2021-01-21T12:14:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-01-21/most-pennsylvania-gop-backed-trump-to-the-end-and-still-do"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 47
+    quality: 35
 
 secured: "U1SkxWuCY12MY1ifObUc2Z0mBarhjU6iogoqD6IiUtNb0mC1cD0Xy+GxAO02XqGWpJTD1q7MQnhTayfLZw5U2cxjr0WWX+/VnyoL7r169Dz/1OgB4reXkkMXrv1UmtCYgSvtoMwuFu7NV1/Yj3+z1CtASKm1B8AqPsoUC4aBQP/ol5/us8XhfgZ3sx/d1CwuW+rdaSQtyjHSRyJyRjtVjetODWThXOGOr6VBtooa9n7hMIYNPoECiB6yQGSsnTomoX3CQZ9Lr/NAiRWlZdwDT85qdg3/sApa4244NJWvMTubHvxDQRfdcnd435g7aR9+BI14U2Zd6/eAocIFBKM2r45kMDkIslQbUtAN7sEHdRAIeo0UD6ZtpPcFR+YP47BHTVyN22ZRXR8pBlqJLFQTCUxDC/6rUuWnyTcggdBZMTAnsntcIe+NtuDxaKc+vZOl0OmqjpShz4eo/7XzHCwmQB9BoaL1Xrzze7VvmXjcFG6ljyFONzB1aZQNkPSkFOGPkeu8RrLicH+jJWu/aeNc+w==;q2X11z0lUWPe+PSl38z4DA=="
 ---

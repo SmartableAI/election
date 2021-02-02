@@ -116,15 +116,15 @@
       "title": "Two years later: VP Kamala Harris once called Jussie Smollett the victim of a 'modern day lynching'",
       "excerpt": "Friday marked two years since now-vice president Kamala Harris publically expressed support for actor Jussie Smollett after he claimed to be a victim of a hate crime.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/16xYDqm_LJY/kamala-harris-jussie-smollett-attack-modern-day-lynching",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/16xYDqm_LJY/kamala-harris-jussie-smollett-attack-modern-day-lynching",
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 171,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -140,7 +140,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching.amp",
-      "publishedDateTime": "2021-01-31T16:18:34-08:00",
+      "publishedDateTime": "2021-01-31T16:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -164,8 +164,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice",
-        "Kamala Harris"
+        "Kamala Harris",
+        "Republican Voice"
       ]
     },
     {

@@ -481,6 +481,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Hundreds deported under Biden, including witness to massacre"
+    excerpt: "President Joe Biden's administration has deported hundreds of immigrants in its early days despite his campaign pledge to stop removing most people in the U.S. illegally at the beginning of his term."
+    publishedDateTime: 2021-02-02T10:02:00Z
+    webUrl: "https://www.businessinsider.com/hundreds-deported-under-biden-including-witness-to-massacre-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/hundreds-deported-under-biden-including-witness-to-massacre-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hundreds-deported-under-biden-including-witness-to-massacre-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "'This is our historic moment of crisis and challenge': Joe Biden calls for unity in first speech as president – live"
     excerpt: "Joe Biden has been sworn in as president, bringing an end to four years of Donald Trump’s leadership in Washington"
     publishedDateTime: 2021-01-20T18:15:00Z

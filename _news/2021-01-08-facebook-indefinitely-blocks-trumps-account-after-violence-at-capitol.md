@@ -111,22 +111,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Facebook's oversight board to rule on Trump ban"
-    excerpt: "Facebook is passing the buck for its indefinite suspension of former president Donald Trump to a quasi-independent oversight board, setting up a major test of the recently established panel"
-    publishedDateTime: 2021-01-21T18:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_1ad850f0ef8142389a126a58050fcfca_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Lehigh University rescinds Trump's honorary degree after Capitol assault"
     excerpt: "Lehigh University has rescinded the honorary degree it awarded to President Donald Trump more than 30 years ago. The announcement came two days after the president encouraged a mob of his supporters who stormed the Capitol,"
     publishedDateTime: 2021-01-09T16:36:00Z
