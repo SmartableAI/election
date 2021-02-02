@@ -416,7 +416,7 @@ related:
   - title: "Biden says he won't settle for COVID-19 aid package that 'fails to meet the moment': White House"
     excerpt: "U.S. President Joe Biden told a group of Republican senators on Monday he hoped his proposed $1.9 trillion COVID-19 relief package could pass with bipartisan support in the U.S. Congress, but he \"will not settle for a package that fails to meet the moment,"
     publishedDateTime: 2021-02-02T01:53:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/biden-says-he-wont-settle-for-covid-19-aid-package-that-fails-to-meet-the-moment-white-house-idUSKBN2A204D"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A204D"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A204D"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A204D"
     type: article

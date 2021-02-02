@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trumps-entire-legal-team-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684"
 type: article
 quality: 122
-heat: 262
+heat: 222
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump's impeachment defence in disarray as lead lawyers quit – reports"
-    excerpt: "Butch Bowers clashed with Trump over strategy, according to reports, and leaves along with Deborah Barberi and three others"
-    publishedDateTime: 2021-01-31T05:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/525663cdbd8a103e342d0670c36da19c31b3c287/0_0_1805_1083/master/1805.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ca181bc5a53e969f0eeb51ddd579b5c6"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Donald Trump Expects Impeachment Trial to Be 'Badge of Honor'—But Rethinks 2024 Run"
     excerpt: "The ex-president wanted to use the trial to relitigate his claims of election fraud, but Lindsey Graham told him, \"You don't want to go there.\""
     publishedDateTime: 2021-01-30T12:00:00Z
@@ -126,20 +110,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VC6BWOA4CUI6PBMYTKM5UVM7TY&w=1440"
         width: 1440
         height: 684
-        isCached: true
-  - title: "Trump Impeachment Lawyers Quit, Who Will Be Part Of His New Legal Team?"
-    excerpt: "Former President Donald Trump’s second impeachment trial is set to begin on Feb. 9 and he will need a new legal team after five attorneys on Saturday left over a disagreement in his legal strategy. The legal team included attorneys Butch Bowers,"
-    publishedDateTime: 2021-01-31T14:53:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-quit-who-will-be-part-his-new-legal-team-3134264"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/27/social-media-platforms-have-banned-donald-trumps-accounts.jpg"
-        width: 1024
-        height: 696
         isCached: true
 
 secured: "iM8nSo8ejuXZoDLknOa6ctwA1x4T0P9D5f7kjJuPkiiO/RvwcBa82HTAuc3jsqnaGjebVG2aAM2tYy0CkurKCtvsqla0AQdgBDS+Koyp1D45lflmGDL5xCjElZiyfgy8McHDrGeRN9Y7vdvV2psA70uhOlx+m7ldD7xcHm0Z/njbZ0U1UEYRu6qpmmhLxANCZxmJC+hAdsedy5hVtjDdiFwQ+0r0Y6AEVbDZAcb6tNRBD87jwKJvyCLc/pvWp5uXO8vUKaa76vXSRn1nMFAYfCRFfPv3bI1L6EyWDnhPtv7D9/Igq9qRq/h88iAZNgr5X34OeEsIzT9V+vBMkqdaIFFoDG9tL/sUPFZpel3HTuV76XvlR0/+852pM37af+1jMqsYxJNSyEA1DNuG7Dt9mRAGZr1kzua40LgC5DSyPGZmiG0gBIFcIoqWBOgxtkZtO9hZVrjgj2MDUNTx62RDHWuwfet9dXPAHVyYJQ4N3VqUouf02vhgNNpUwifo9DG5+m8ietjkGU9AVvA5c0c5aw==;a5E62AFyPrXMCcDQtbIwJA=="

@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump impeachment lawyer calls out Senate Dems, says ex-president has no chance of 'fair and full trial'"
+    excerpt: "David Schoen, one of two attorneys who will represent former President Donald Trump in his Senate impeachment trial this month, told \"Hannity\" Monday that Senate Democrats have already determined that Trump is guilty of the charge laid against him."
+    publishedDateTime: 2021-02-02T04:12:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/23GujpRMf28/trump-impeachment-lawyer-imagine-a-trial-where-judge-and-jury-say-defendant-must-be-convicted"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-imagine-a-trial-where-judge-and-jury-say-defendant-must-be-convicted.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-imagine-a-trial-where-judge-and-jury-say-defendant-must-be-convicted.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2adcd31-e609-4af1-adfe-ce307fc62459/5ea8672c-eaba-4fc3-8b0c-ba4148c3e1fb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Bruce Castor: What to know about Trump impeachment defense attorney"
     excerpt: "Former President Donald Trump on Sunday announced his new legal team for his upcoming Senate impeachment trial, featuring attorney Bruce Castor."
     publishedDateTime: 2021-02-01T14:02:00Z

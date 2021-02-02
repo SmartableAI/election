@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
-excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."
-publishedDateTime: 2021-01-27T18:48:34Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/shynNZ2LIwA/trump-impeachment-lawyer-karl-butch-bowers"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/shynNZ2LIwA/trump-impeachment-lawyer-karl-butch-bowers"
-ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
+title: "Trump impeachment lawyer calls out Senate Dems, says ex-president has no chance of 'fair and full trial'"
+excerpt: "David Schoen, one of two attorneys who will represent former President Donald Trump in his Senate impeachment trial this month, told \"Hannity\" Monday that Senate Democrats have already determined that Trump is guilty of the charge laid against him."
+publishedDateTime: 2021-02-02T04:12:42Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/23GujpRMf28/trump-impeachment-lawyer-imagine-a-trial-where-judge-and-jury-say-defendant-must-be-convicted"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/23GujpRMf28/trump-impeachment-lawyer-imagine-a-trial-where-judge-and-jury-say-defendant-must-be-convicted"
+ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-imagine-a-trial-where-judge-and-jury-say-defendant-must-be-convicted.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-imagine-a-trial-where-judge-and-jury-say-defendant-must-be-convicted.amp"
 type: article
-quality: 171
+quality: 158
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2adcd31-e609-4af1-adfe-ce307fc62459/5ea8672c-eaba-4fc3-8b0c-ba4148c3e1fb/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
+    excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."
+    publishedDateTime: 2021-01-27T18:48:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/shynNZ2LIwA/trump-impeachment-lawyer-karl-butch-bowers"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Judge orders Trump Organization to hand over documents to New York attorney general"
     excerpt: "A judge in New York has ordered the attorneys for the Trump Organization to give unprivileged documents to the state's attorney general by Feb. 4."
     publishedDateTime: 2021-01-30T01:06:47Z
@@ -60,22 +76,6 @@ related:
     quality: 169
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump impeachment lawyer calls out Senate Dems, says ex-president has no chance of 'fair and full trial'"
-    excerpt: "David Schoen, one of two attorneys who will represent former President Donald Trump in his Senate impeachment trial this month, told \"Hannity\" Monday that Senate Democrats have already determined that Trump is guilty of the charge laid against him."
-    publishedDateTime: 2021-02-02T04:12:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/23GujpRMf28/trump-impeachment-lawyer-imagine-a-trial-where-judge-and-jury-say-defendant-must-be-convicted"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-imagine-a-trial-where-judge-and-jury-say-defendant-must-be-convicted.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-imagine-a-trial-where-judge-and-jury-say-defendant-must-be-convicted.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2adcd31-e609-4af1-adfe-ce307fc62459/5ea8672c-eaba-4fc3-8b0c-ba4148c3e1fb/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 720
         isCached: true
 
-secured: "QMmNzQjtmwybO/xwtUJNIZ8QYpPk3fjCElBOxWYrGSP8fUIFe1Dh+gU46tz68uPclKrIu9AtRoNXLsaFrS8jUfTm0vy8cqbdcczuCw3Is8Nrc61LbrLnNdjperXuEbSOybUA+wvRL9C1ZqwOGjR6bpIaBOAQjGwKLgKneOSlfdTEAs5sQ8xMwLblJ4npFHda5/7n30nylKPWxA/3PmDXm55mLhzD8MtYN49Zhr8IIBdyVVgR6pCd4uszS1yYllC3HspOMixmFyG524fRQiM4pEOMNcHl6Rtuzf8y3ff0tSDIbPdv9pmON2K3zsgfy6pRTRli3FCDDwHxV79zPesUjgWVEf0vQEwYgXZt3GlJVdw=;hyng0qCV8IEBBl6G4N7/NA=="
+secured: "DKRwcTaclZUYha0evMK2BATRvR2+OSA9PnLUjP/JZBbXACLBleYLXTFOQTloXLqIIIAo3nsC0TSzHhKBcYqyTsvxK98wE7CV7Oass83nRrLToG4VRCBfl6Rd4fG4uvkpaVFAhHnVb0OyUptxdkyLoCb7GGJUOuzDyqioEtzbIEs+2olKr2tPyPwTAMm0y/d43kBN6tp7+d5pcgsMvQRLIbjKRDR+48OzC5EtnYHK/4/Y7/WjI+eSsvxUJSNxti9juWYukv/vYH9xPLwacIuFfp3hF5eG8HvueY0P1iDE4anvZfnjCMNV6fMp3bSUpFKAeB48BmbI2XhplVhytt7Nyv31lo76wM5dPKQzwS/5NsQ=;TI6NTFmtBWQCeGnXHgQwNA=="
 ---
 

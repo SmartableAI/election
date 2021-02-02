@@ -1,30 +1,34 @@
 ---
 category: news
-title: "Proud of My Vote for Biden"
-excerpt: "I've been getting a lot of mail from critics lately asking if I'm happy with the Biden administration. They point to some of the new president's"
-publishedDateTime: 2021-01-28T10:52:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.html"
-ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.amp.html"
+title: "Biden Keeps Aluminum Tariffs on UAE, Reversing Trump Policy"
+excerpt: "The exemption to the UAE would have gone into effect Feb. 3, but Monday night President Biden blocked it."
+publishedDateTime: 2021-02-02T01:49:00Z
+originalUrl: "https://www.wsj.com/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
+webUrl: "https://www.wsj.com/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
+ampWebUrl: "https://www.wsj.com/amp/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
 type: article
-quality: 85
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/53/533405_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://images.wsj.net/im-293457/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -108,22 +112,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden Keeps Aluminum Tariffs on UAE, Reversing Trump Policy"
-    excerpt: "The exemption to the UAE would have gone into effect Feb. 3, but Monday night President Biden blocked it."
-    publishedDateTime: 2021-02-02T01:49:00Z
-    webUrl: "https://www.wsj.com/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-293457/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Biden Orders Review of Trump Health-Care Policies, but Move Likely Faces Bumps"
     excerpt: "President Biden signed executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
     publishedDateTime: 2021-01-29T02:27:00Z
@@ -172,6 +160,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Proud of My Vote for Biden"
+    excerpt: "I've been getting a lot of mail from critics lately asking if I'm happy with the Biden administration. They point to some of the new president's"
+    publishedDateTime: 2021-01-28T10:52:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/28/proud_of_my_vote_for_biden_145139.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533405_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "The Flawed Thinking Behind Biden's Gun Control Bill"
     excerpt: "The coming years will decide the survival of our Second Amendment, President Trump warned before the election. Trump was right. During the"
     publishedDateTime: 2021-01-29T11:32:00Z
@@ -189,6 +193,6 @@ related:
         height: 494
         isCached: true
 
-secured: "M1Ty0o+GOHgu0Du3TGfUN0xVTZt6NElam6n0RDJglXpZtfWV6AoO2hto4OyfhQ8121OFuFQlkK9G2XaTKXq79exyagT9WbvRoQAh4++SWT5WVy6aB6lTz6GgWorNALtTlXYarNUJ7YuHzCY/H8E6iBaOr75NN6J9u1g3oukfRRdCNYwdTIAx6AZCfbmZF8zxbeeKNgh1Eb6yeCfGk54u5uObzuLHJflaZcOLaZnBUUQjvBdEInWtjtJyj1pGNQoKOSDGkf7NcOouv/Mx3cX5TsYKEE/HlDAskCm6KjqN38QFSEmJ5hHsP9B24+xGN7sleTv5K1CV0dz96vAPVof9+7ZgxMY6NEw7y70Fvu3k+e4GUbZSFhXHQb+pf6U+8eDdK8hsKY1LTHBm2XDJu3aEh+l74I2zjk/8/GpgV2zpt2dbL4cXZCNtAGYkDTRLnuDhNBQxegdG6bYi+G7/hExTYd8e4g9NtRwC95xCgkeSE8a62vNfsbnhJdT1ySz+Im53sazEKbhhdFIZ7FkEq7KUGg==;0C1e5tGw2I7GrJumLMOi+Q=="
+secured: "wpKMvBrYmSvY7hhqXcmEVp3XV6/TH1PEc5++D7VZk+5xucsXuoWvaFca8oySg2NmY+LR87Xj9wdTGN7qS336G8FnQsi4If2JWjvOZK7fR59wBvPjNS+hrBeLmpUHGsTn22BT7SWrpp1vgJ2BYTFwJ1AGM49rWfAKM0t4g+LLpZLOLcGHNTOjoBojNajghhg7be9v9RCsMHaKWubvb1FyLIEZitbnaCrcg59P2hRg/YEw3ChHYEmoTnCz29Bh56YuQIYmwlEESlOR1F9NI174Px3UgAXALo7x4IgIyBeuZiOsxy/Kc0FrAjnc0aw5Nt25aWOWnc6g1moboS1vdSxPspWBf0kjcrZGOpish7FpJqA=;51yAZB00g6qzMXeL6+vOPQ=="
 ---
 

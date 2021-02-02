@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-biden-trump-ban-2020-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp"
 type: article
 quality: 188
-heat: 368
+heat: 388
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/biden-trump-letter-e1611950822303.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden Keeps Aluminum Tariffs on UAE, Reversing Trump Policy"
+    excerpt: "The exemption to the UAE would have gone into effect Feb. 3, but Monday night President Biden blocked it."
+    publishedDateTime: 2021-02-02T01:49:00Z
+    webUrl: "https://www.wsj.com/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-keeps-aluminum-tariffs-on-uae-reversing-trump-policy-11612234157"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-293457/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Biden Orders Review of Trump Health-Care Policies, but Move Likely Faces Bumps"
     excerpt: "President Biden signed executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."

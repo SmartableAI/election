@@ -3,8 +3,8 @@ category: news
 title: "Biden says he won't settle for COVID-19 aid package that 'fails to meet the moment': White House"
 excerpt: "U.S. President Joe Biden told a group of Republican senators on Monday he hoped his proposed $1.9 trillion COVID-19 relief package could pass with bipartisan support in the U.S. Congress, but he \"will not settle for a package that fails to meet the moment,"
 publishedDateTime: 2021-02-02T01:53:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/biden-says-he-wont-settle-for-covid-19-aid-package-that-fails-to-meet-the-moment-white-house-idUSKBN2A204D"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/biden-says-he-wont-settle-for-covid-19-aid-package-that-fails-to-meet-the-moment-white-house-idUSKBN2A204D"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A204D"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A204D"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A204D"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A204D"
 type: article
@@ -897,6 +897,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "awxBaxfxfyZeG3ByY/YfYnl05BwWQP9SliFe6Dq6MeObIyv84hpSLmZfi3XWS0p8gFiI+dqDk+f+78+5sbtySaRVx66q6kBRiAhRgjYAGUTtTTaWaa5wfV0hvcAEbJF03r/cxKEnZ0+j/Si7wEZwrWGXbRlQYAD7n5f12eZXcXC7k5msB0gDX0uq8O+FwZCr3VJoVHQU0RBzutb2uddZWOBD6LOJVNt0hv8liy/I00EyFpmsXA8a0anNvfCmyOjWsg6K1+cnJM5+pgYlEJZ69kEVxJR5glWJiSp/9ztd+/uEqjeXTSGGdamsKhlYl/DdKvW/bm17UmxjGKKI7nrPgNAGbTY51s4Ab7bvKZg7rKM=;qYGoGo5rpwF0jUhjeK7CDw=="
+secured: "RjXT4Wlw6wP8lxcwI/sn6kQTpr/uVv42iJMzU3TGv/3pVj0vJfIWN5FjhgInIduPR3r4YKUt/xYeBTWuu2D4R5XBn6NJDxxm/y8Pjw4MJ0yJpz9Rup2X3LDHmhsy/2ybTkqxEz4e0eluISjDf14v79w2gaeyscZlOkeDTAwEaQsqX8JxN/cKyfZu+5M1uWT1okCdc+AadkNxgNlLGQKazvc8A3vVYstLk+R7DVzSrTHySarFIrG/0nnOYTYVFox7uC68WFa2KtGKPtl8QMIIw5lmOyfEIs6Lch3V+/lsXwwXw4ZPbILjp03/0IY5kGatDRNFRGUrerrRwteHTIJsXYj4o7kanH9qWOwq2clG2zw=;kUYYuvxGelLBpfLGm4Mevw=="
 ---
 

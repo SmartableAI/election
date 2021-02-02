@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-02-trump-lawyer-impeachment-case-undemocratic-ill-advised.md",
+      "title": "Trump lawyer: Impeachment case ‘undemocratic,’ ill-advised",
+      "excerpt": "Democrats are using the upcoming Senate impeachment trial of Donald Trump as a political “weapon” to bar the former president from seeking office again, and are pursuing a case that is “undemocratic” and unconstitutional,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/P4EW9jjAnf4pV_GJYksLauHHIco=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QWUMU6JWTDKSHAPSV64S3TOOAA.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp",
+      "publishedDateTime": "2021-02-01T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-mypillow-twitter-account-permanently-suspended-following-trump-ally-ceo-mike-lindells-ban-from-platform.md",
       "title": "MyPillow Twitter account permanently suspended following Trump ally, CEO Mike Lindell's ban from platform",
       "excerpt": "Twitter has suspended the MyPillow account after banning CEO Mike Lindell's account for perpetuating claims that Trump won the presidential election.",
@@ -431,7 +483,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684",
       "featuredContent": null,
       "highlight": null,
-      "heat": 262,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -1511,58 +1563,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-amid-absence-trump-sets-up-new-intra-party-battles-for-gop-the-note.md",
-      "title": "Amid absence, Trump sets up new intra-party battles for GOP: The Note",
-      "excerpt": "Trump's brand was built on disruption and the force of his own personality. Even through a quiet period, that disruption is set to continue into at least 2021 and 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
-      "originalUrl": "https://abcnews.go.com/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-rally-ap-jt-210108_1610144889614_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145",
-      "publishedDateTime": "2021-01-26T04:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

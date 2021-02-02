@@ -2,6 +2,62 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-12-02-pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-to-vote-in-senate-runoffs-without-changes.md",
+      "title": "Pro-Trump attorneys Sidney Powell, Lin Wood urge Georgians not to vote in Senate runoffs without changes",
+      "excerpt": "Powell and Wood are not working for the Trump campaign in an official capacity.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bYYQ6L3byYI/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bYYQ6L3byYI/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/926eda10-9604-40ca-a794-91c182962a24/c64d4ae4-1c22-4b6f-9a81-0044a07f02cb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-attorneys-sidney-powell-lin-wood-urge-georgians-not-vote-senate-runoffs-without-changes.amp",
+      "publishedDateTime": "2020-12-02T15:55:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-bidens-stern-warning-you-cannot-be-traveling-during-holidays.md",
       "title": "Biden’s stern warning: ‘You cannot be traveling during … holidays’",
       "excerpt": "President-elect Joe Biden says he doesn’t “want to scare anybody,” but he’s pleading with Americans to not travel during the upcoming holiday season.",
@@ -1317,62 +1373,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-william-barr-breaks-with-trumps-election-fantasy.md",
-      "title": "William Barr breaks with Trump's election fantasy",
-      "excerpt": "Attorney General William Barr just dealt the most credible blow to Donald Trump's lies about a stolen election, precisely because he previously often came across more as the President's personal lawyer than a neutral arbiter of justice.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LaWOvHAMK4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3LaWOvHAMK4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 390,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200902162801-bill-barr-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/02/politics/william-barr-donald-trump-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/02/politics/william-barr-donald-trump-election/index.html",
-      "publishedDateTime": "2020-12-01T23:27:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

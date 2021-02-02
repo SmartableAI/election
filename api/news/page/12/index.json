@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-17-gop-congresswoman-on-voting-to-impeach-trump-i-felt-like-i-had-to.md",
+      "title": "GOP Congresswoman on voting to impeach Trump: \"I felt like I had to\"",
+      "excerpt": "In an unprecedented vote Donald Trump become the first president to be impeached twice; Jaime Herrera Beutler explains why she joined other Republicans in voting \"yes.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/",
+      "originalUrl": "https://www.cbsnews.com/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 505,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/17/94c6d7ab-08fb-498a-9a67-01de81e8a1bd/thumbnail/1200x630/4283d5e6e42882d4eef834bf4274df93/jaime-herrera-beutler-a-1280.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/",
+      "publishedDateTime": "2021-01-17T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-how-trumps-most-consequential-policies-have-changed-america.md",
       "title": "How Trump's most consequential policies have changed America",
       "excerpt": "Donald Trump's presidency has largely been defined by his disregard for political norms and his historic two impeachments.\n    \n",
@@ -1230,58 +1282,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-trump-receives-moroccos-highest-award-for-middle-east-work-official.md",
-      "title": "Trump receives Morocco's highest award for Middle East work: official",
-      "excerpt": "U.S. President Donald Trump on Friday received Morocco's highest award for his work in advancing a normalization deal between Israel and Morocco, a senior administration official told Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547969691&r=LYNXMPEH0E1FT&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

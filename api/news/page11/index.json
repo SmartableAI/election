@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-19-the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails.md",
+      "title": "‘The Capitol riot was our Chernobyl’: James Comey on Trump, the ‘pee tape’ and Clinton’s emails",
+      "excerpt": "The former FBI director was sickened and angered by the attack incited by the president. But has he come to terms with his part in getting him elected?",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c1670d9840b03e3422e575cb3d7bcb5acadfeb84/0_243_3598_2158/master/3598.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6802a03dd80cbc31d986ecc43d7b3ac",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
+      "publishedDateTime": "2021-01-18T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-trump-rebuts-ny-times-1619-project-with-1776-report-urging-schools-to-reject-ideological-poison.md",
       "title": "Trump rebuts NY Times '1619 Project' with '1776 Report' urging schools to reject 'ideological poison'",
       "excerpt": "The Trump-backed panel released a 45-page report on the state of American education in what the White House described as a \"rebuttal\" to \"reckless\" historical accounts of the country's founding.",
@@ -1251,58 +1303,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-gop-congresswoman-on-voting-to-impeach-trump-i-felt-like-i-had-to.md",
-      "title": "GOP Congresswoman on voting to impeach Trump: \"I felt like I had to\"",
-      "excerpt": "In an unprecedented vote Donald Trump become the first president to be impeached twice; Jaime Herrera Beutler explains why she joined other Republicans in voting \"yes.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/",
-      "originalUrl": "https://www.cbsnews.com/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 505,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/17/94c6d7ab-08fb-498a-9a67-01de81e8a1bd/thumbnail/1200x630/4283d5e6e42882d4eef834bf4274df93/jaime-herrera-beutler-a-1280.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/",
-      "publishedDateTime": "2021-01-17T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
