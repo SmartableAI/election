@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
-excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
-publishedDateTime: 2021-01-31T04:41:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
-ampWebUrl: "https://amp.usatoday.com/amp/4328811001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4328811001"
+title: "With impeachment trial looming, Trump taps new lawyers who drew spotlight in past work"
+excerpt: "After his previous legal team departed, the former president tapped two solo practitioners to argue his case to the Senate next week."
+publishedDateTime: 2021-02-02T07:13:00Z
+originalUrl: "https://www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html"
+webUrl: "https://www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
 type: article
-quality: 116
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/06243285-137b-4acb-bb77-6faa007a0a53-AP_Trump_5.jpg?auto=webp&crop=3874,2180,x0,y196&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SEJA6DDE5II6XCDNKJSNJTVUNU.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -79,21 +79,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "With impeachment trial looming, Trump taps new lawyers who drew spotlight in past work"
-    excerpt: "After his previous legal team departed, the former president tapped two solo practitioners to argue his case to the Senate next week."
-    publishedDateTime: 2021-02-02T07:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
+  - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
+    excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
+    publishedDateTime: 2021-01-31T04:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4328811001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4328811001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SEJA6DDE5II6XCDNKJSNJTVUNU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/06243285-137b-4acb-bb77-6faa007a0a53-AP_Trump_5.jpg?auto=webp&crop=3874,2180,x0,y196&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
     excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."
@@ -206,6 +206,6 @@ related:
         height: 716
         isCached: true
 
-secured: "SP+iCliow0Sbgj8mOI3+sukwDa1pTCVEaZbAJW46xwG2fpr/OzBA3iCVzga0ImVLw3WcFWS9JDRtctD2bAkvMoGnprMbB1kmO2Wvup4lE+vpxPapxqKSI+Byu/iSN3h/J2FiYyANwLk6GWG2xTCQ5GbqD5DAu/sghyKnvsaT8JNj+QZl9DdCVSXsjasvXMJ8SmwnHHkbT0jxReTZoqf03MRTH07icgCexdsRG2S572GzF0YCjNHCH0jWGpeNueSOqG8LQa7L1SnSOlTtoO/4CStSyPdrD6g8tCDymbIwgWG2kqmb1roiZAB/iF8cUd+rMnP9cIL/s3Q1O4L+EWSzoxgw7Z6pZW/ZIYRGBRZ90tQ4AoiJ7z6bm8QjA2Ma/jnrZGxjaYSfjt/6Xwc+UpOC6P1lceuU4pUHHp1jURPXBXLTD+jl8E/qXH5twVIVX/1FitffLvGBY7zYcPpHOHZV394anxrtVItLdvGPbecVPojQyjJi8GaaBFiPsmBYuF4OM99cyQlaPGK1fFlG6N/Jdw==;fdXp1dRGNd1jNnqm28Mdmg=="
+secured: "7LqxtQ6PYSKdINrOOtEdfSStJMfZJKsn0iymxB3nScC8gUebJohf356JyIwZ5/tp4CB4Po3wD+gd2dm/RrxZEFLxipposQ4zfD99m4eqGn3tSEqi2b1bPje1i+JqD1YPg2eM9DU6rwR455cUHC+8gvMvdiloTYfSjzNZaUZbjFuYfj3DElQp3rFF5vxaz6/0oy15QPSJl08eYpzDh1th3wVyD6NQ+MN9BLn2Ozrh1+/dw3PaiheENcFWpXRxR93NU8p3ENgSrYU51BZR9AwLRW+pJJc6niuNGhxqfuh/hkUQIv+ohXwuIrqgIcCLSYozd+TozWZyQDHiqFO55b7qa612h0+IRX5UhfFbqDeaefA=;IKdzUFDEHYU1/67lfxSVNw=="
 ---
 

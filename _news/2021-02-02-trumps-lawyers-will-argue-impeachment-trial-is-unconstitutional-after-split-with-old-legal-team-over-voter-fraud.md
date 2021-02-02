@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
-excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
-publishedDateTime: 2021-01-31T04:41:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
-ampWebUrl: "https://amp.usatoday.com/amp/4328811001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4328811001"
+title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
+excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
+publishedDateTime: 2021-02-02T08:26:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/02/01/trump-impeachment-trial-new-lawyers-focus-case-constitution/4312721001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/02/01/trump-impeachment-trial-new-lawyers-focus-case-constitution/4312721001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4312721001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4312721001"
 type: article
-quality: 116
+quality: 104
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/06243285-137b-4acb-bb77-6faa007a0a53-AP_Trump_5.jpg?auto=webp&crop=3874,2180,x0,y196&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/3ad2862f-87e5-4ffc-9130-18e947c8e357-AP_Trump_Impeachment_Rioters.jpg?auto=webp&crop=4398,2474,x0,y223&format=pjpg&width=1200"
     width: 1200
     height: 675
     isCached: true
@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
+    excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
+    publishedDateTime: 2021-01-31T04:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4328811001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4328811001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/06243285-137b-4acb-bb77-6faa007a0a53-AP_Trump_5.jpg?auto=webp&crop=3874,2180,x0,y196&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
     excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."
     publishedDateTime: 2021-01-24T00:15:00Z
@@ -124,22 +140,6 @@ related:
     quality: 109
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/28/USAT/ff1998ed-2830-48d9-946f-989aadd22e10-AFP_AFP_8ZM6G6.jpg?auto=webp&crop=3431,1930,x0,y230&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
-    excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
-    publishedDateTime: 2021-02-02T08:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/01/trump-impeachment-trial-new-lawyers-focus-case-constitution/4312721001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4312721001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4312721001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/3ad2862f-87e5-4ffc-9130-18e947c8e357-AP_Trump_Impeachment_Rioters.jpg?auto=webp&crop=4398,2474,x0,y223&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -206,6 +206,6 @@ related:
         height: 716
         isCached: true
 
-secured: "SP+iCliow0Sbgj8mOI3+sukwDa1pTCVEaZbAJW46xwG2fpr/OzBA3iCVzga0ImVLw3WcFWS9JDRtctD2bAkvMoGnprMbB1kmO2Wvup4lE+vpxPapxqKSI+Byu/iSN3h/J2FiYyANwLk6GWG2xTCQ5GbqD5DAu/sghyKnvsaT8JNj+QZl9DdCVSXsjasvXMJ8SmwnHHkbT0jxReTZoqf03MRTH07icgCexdsRG2S572GzF0YCjNHCH0jWGpeNueSOqG8LQa7L1SnSOlTtoO/4CStSyPdrD6g8tCDymbIwgWG2kqmb1roiZAB/iF8cUd+rMnP9cIL/s3Q1O4L+EWSzoxgw7Z6pZW/ZIYRGBRZ90tQ4AoiJ7z6bm8QjA2Ma/jnrZGxjaYSfjt/6Xwc+UpOC6P1lceuU4pUHHp1jURPXBXLTD+jl8E/qXH5twVIVX/1FitffLvGBY7zYcPpHOHZV394anxrtVItLdvGPbecVPojQyjJi8GaaBFiPsmBYuF4OM99cyQlaPGK1fFlG6N/Jdw==;fdXp1dRGNd1jNnqm28Mdmg=="
+secured: "hcxM56Sfgd+HhCHU4vtdSq1xKF2fgGoIznComG51DSKHHKwN9hTcG1vY/IZDqoIC11Y2f3Rm6cUmW9XzVFuryoRrwyMPqygv/LQsKJw8+KD5xsdGs/gFKjhEAOPNad4swCKTFg/M/Y8X5V5axd9C4C6cy38yVX5b5X75O4IcZLtC90qyvMW9riSi6a5O3WNuicJB+AKn/27BiEizrz735QswzIwNj8BD5KtDyb80gABLX69mZalC67t5vcjgPNux2MqFitnCBVKOTQdMDuLX3M3syeRNA0glZ1V9JLsyTyjm0/Qg+Q/3Z558D0Z1bZBieVqVTCvdJb0Aoco09vtHLElNWhk9Ao0qN4iFpWNIkhQ=;SmAKaCswUD6qnVMdaCB28w=="
 ---
 

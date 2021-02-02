@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/palm-beach-considers-options
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 345
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "With impeachment trial looming, Trump taps new lawyers who drew spotlight in past work"
+    excerpt: "After his previous legal team departed, the former president tapped two solo practitioners to argue his case to the Senate next week."
+    publishedDateTime: 2021-02-02T07:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SEJA6DDE5II6XCDNKJSNJTVUNU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
     excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
     publishedDateTime: 2021-01-31T04:41:00Z
@@ -108,6 +124,22 @@ related:
     quality: 109
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/28/USAT/ff1998ed-2830-48d9-946f-989aadd22e10-AFP_AFP_8ZM6G6.jpg?auto=webp&crop=3431,1930,x0,y230&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
+    excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
+    publishedDateTime: 2021-02-02T08:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/01/trump-impeachment-trial-new-lawyers-focus-case-constitution/4312721001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4312721001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4312721001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/3ad2862f-87e5-4ffc-9130-18e947c8e357-AP_Trump_Impeachment_Rioters.jpg?auto=webp&crop=4398,2474,x0,y223&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
