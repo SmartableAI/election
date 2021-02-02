@@ -269,6 +269,22 @@ related:
         width: 1440
         height: 954
         isCached: true
+  - title: "Trump's defense team claims Senate has no grounds to hold trial, asks for dismissal - live politics updates"
+    excerpt: "Donald Trump's attorneys on Tuesday argued his upcoming Senate impeachment trial is unconstitutional and asked for the case to be dismissed."
+    publishedDateTime: 2021-02-02T22:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/02/02/politics-live-updates-trump-impeachment-trial-biden-immigration/4344395001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4344395001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4344395001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/02/USAT/7ea05478-e2a3-4607-b557-bae95323bbae-AP_Trump_Impeachment_3.jpg?auto=webp&crop=5075,2855,x0,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "10 Things in Politics: Trump isn't going away anytime soon"
     excerpt: "Welcome to the 10 Things in Politics newsletter. Planned Parenthood leans on Biden to go \"bold\", a coup unfolds in Myanmar and Trump's new lawyers."
     publishedDateTime: 2021-02-01T10:48:00Z

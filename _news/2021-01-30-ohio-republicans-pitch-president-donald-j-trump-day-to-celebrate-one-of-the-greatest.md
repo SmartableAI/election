@@ -128,6 +128,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Graham backs Cheney amid attacks over her Trump impeachment vote"
+    excerpt: "As Rep. Liz Cheney of Wyoming reaches out to GOP House colleagues ahead of a Wednesday meeting to consider a push to strip the congresswoman of her number three House Republican leadership position, a high profile Republican senator is defending her."
+    publishedDateTime: 2021-02-02T22:05:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MRwcach0TEs/graham-backs-cheney-trump-impeachment-vote"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/cheyney.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Republicans Challenge Trump Impeachment Trial"
     excerpt: "Sen. Rand Paul said he would attempt to force a vote Tuesday afternoon on whether the Senate can try a private citizen, although Senate Democrats could counter by making a motion to table the measure."
     publishedDateTime: 2021-01-26T16:46:00Z
@@ -239,6 +253,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Georgia-counting.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Graham backs Cheney amid attacks over her Trump impeachment vote"
+    excerpt: "As Rep. Liz Cheney of Wyoming reaches out to GOP House colleagues ahead of a Wednesday meeting to consider a push to strip the congresswoman of her number three House Republican leadership position, a high profile Republican senator is defending her."
+    publishedDateTime: 2021-02-02T22:10:00Z
+    webUrl: "https://www.foxnews.com/politics/graham-backs-cheney-trump-impeachment-vote"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/cheyney.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Why the Trump impeachment fizzled and acquittal is now a foregone conclusion"
     excerpt: "Any flickering hope among Democrats to convict private citizen Donald Trump died when 45 of the 50 Senate Republicans voted that the entire proceeding is unconstitutional."

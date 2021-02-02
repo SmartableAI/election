@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden tells Republican senators to aim for larger Covid relief package – live"
 excerpt: "Trump legal team files 14-page brief defending his conduct on day of Capitol riot – follow all the latest politics news"
-publishedDateTime: 2021-02-02T18:51:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019a9348f08da42e4058d14"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019a9348f08da42e4058d14"
+publishedDateTime: 2021-02-02T18:41:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019a6818f08c315844c86ef"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019a6818f08c315844c86ef"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/ab939d5ce6411943e71cf123b6b0a8f561084276/0_51_5646_3388/master/5646.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=521c879d4fd9816b5f6fe73ceac30a73"
+  - url: "https://i.guim.co.uk/img/media/e7c0619c6c69b3ddbc15b400a961eca59b7539be/0_223_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=542364ac3636fd158f491fcb1213233f"
     width: 600
     height: 360
     isCached: true
@@ -418,7 +418,7 @@ related:
   - title: "Biden said Republican proposal for $600 billion in COVID-19 aid 'way too small': Schumer"
     excerpt: "U.S. Senate Democratic Leader Chuck Schumer said President Joe Biden told Democrats the proposal ten Senate Republicans have made for $600 billion in COVID-19 relief is \"way too small.\""
     publishedDateTime: 2021-02-02T19:55:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUSKBN2A22ND"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats/biden-said-republican-proposal-for-600-billion-in-covid-19-aid-way-too-small-schumer-idUSKBN2A22ND?edition-redirect=uk"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22ND"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22ND"
     type: article
@@ -562,6 +562,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Interview flap shows challenges as Harris settles in as VP"
+    excerpt: "Vice President Kamala Harris has spent her first two weeks in office working with the president on coronavirus relief, consulting with the head of the World Health Organization and talking with the prime minister of Canada."
+    publishedDateTime: 2021-02-02T22:49:00Z
+    webUrl: "https://www.businessinsider.com/interview-flap-shows-challenges-as-harris-settles-in-as-vp-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/interview-flap-shows-challenges-as-harris-settles-in-as-vp-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/interview-flap-shows-challenges-as-harris-settles-in-as-vp-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z
@@ -961,6 +972,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "R3UewCS+bHFgn8yuVq/NY6/5iT7y8DHL5OCR8FeQ5spU9mEPpnD9S8u8puuDir8EnXxVuwjiGeRLEsDG8VHPZAecN5pNuvLnV99Qe6RXNBwYQSAiiIoI3vib1U/GJEWJ5bSPrhizgIQnHCvtIAl6FOOLzMroz5nIaBtQE5OGAanWWE94UuF9HIMXHiW6oZfQCmSX0CVgu+aQKx+tq2X/84TNcqr+s4UoimVhcHep5jcVn1L7poOXq/Aj1E8JLquEsTmg4VtcggyVVHa53X5XxiiIx647FpQtUlTd7eLnsisRMEKtk9A8KCPAnILp4oO8vCaj/z7oOzQ15iRyGlED2NfPE3/6UqbWHpbB7caTjQo=;WMS+vpLee0+swsXw/DftRQ=="
+secured: "pYyXtYWuIu9HqxAVabhWT8X8TkLOF7B0OUbs/OlV34eIAbzVRXNZV9YrBJuOo6C95S+KH3g14G2BxPOu43FkQMOkdkdO435b9K/HozgtxA/2nw7GJ7gslChu6sbzfyXzKxB1ATh0KOWkMo0m/Pvt/JCiKUoZHZUSMkRShCUjLJX/2aJITkIpzbhjmpMy1nQ0A0tP77MleT8aSaevn+JxGduJ0+gtGe+QMnS+gCDUuCh80tebLN1UtZdFVaZGy3w+k8VZOurHaP2Yb97yI/DAL0dGrIF1htn2GG6VvSqHgwHlIldLRgMPPLSYvXW/5gWAGyYw9rY5lqGQJoua10ZdiGxwcL2ZpLt7RInYeINK8Pc=;60vBlS/hg34rHHXvA4z6eA=="
 ---
 

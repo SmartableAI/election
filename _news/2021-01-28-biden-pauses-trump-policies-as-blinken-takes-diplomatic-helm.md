@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-pol
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721"
 type: article
 quality: 150
-heat: 1830
+heat: 1850
 published: true
 
 provider:
@@ -1139,6 +1139,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/c5c40351-05c9-455e-b250-2a454d9b4c96/thumbnail/1200x630/de26ce642b0eba79813d73b9a9b6928f/cbsn-fusion-president-biden-hopes-us-reaches-15-million-covid-19-vaccinations-a-day-thumbnail-633320-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Why Tom Vilsack faces unforeseen challenges as Biden's Secretary of Agriculture"
+    excerpt: "Sen. Chuck Grassley introduces Tom Vilsack, whose job under President Joe Biden certainly isn't the same one he had under President Barack Obama."
+    publishedDateTime: 2021-02-02T22:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/02/02/biden-picks-vilsack-sec-agriculture-face-covid-19-challenges/4362201001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/02/USAT/e25832dd-ffff-40e0-8cf0-fab65578508d-VPC_VILSACK_CONFIRMATION_SENATEgov_WIDE.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Joe Biden volunteers, Donald Trump works on MLK Day"
     excerpt: "state and national organizations virtually for a National Day of Service on Martin Luther King Jr. Day while the White House designated Monday as a working day for President Donald Trump. Biden and wife Jill Biden are expected to volunteer at Philabundance ..."

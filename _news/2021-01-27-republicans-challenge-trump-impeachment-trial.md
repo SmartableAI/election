@@ -128,6 +128,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Graham backs Cheney amid attacks over her Trump impeachment vote"
+    excerpt: "As Rep. Liz Cheney of Wyoming reaches out to GOP House colleagues ahead of a Wednesday meeting to consider a push to strip the congresswoman of her number three House Republican leadership position, a high profile Republican senator is defending her."
+    publishedDateTime: 2021-02-02T22:05:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MRwcach0TEs/graham-backs-cheney-trump-impeachment-vote"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/cheyney.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Defense Chief Holds Up Trump Nominees to Pentagon Boards"
     excerpt: "Among those affected by Defense Secretary Lloyd Austin’s move are Corey Lewandowski, former President Donald Trump’s 2016 presidential campaign manager, and David Bossie, a former Trump deputy campaign manager."
     publishedDateTime: 2021-01-29T06:36:00Z
@@ -237,6 +251,20 @@ related:
     quality: 126
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Graham backs Cheney amid attacks over her Trump impeachment vote"
+    excerpt: "As Rep. Liz Cheney of Wyoming reaches out to GOP House colleagues ahead of a Wednesday meeting to consider a push to strip the congresswoman of her number three House Republican leadership position, a high profile Republican senator is defending her."
+    publishedDateTime: 2021-02-02T22:10:00Z
+    webUrl: "https://www.foxnews.com/politics/graham-backs-cheney-trump-impeachment-vote"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/cheyney.jpg"
         width: 1280
         height: 720
         isCached: true

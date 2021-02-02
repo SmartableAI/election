@@ -3,8 +3,8 @@ category: news
 title: "Biden said Republican proposal for $600 billion in COVID-19 aid 'way too small': Schumer"
 excerpt: "U.S. Senate Democratic Leader Chuck Schumer said President Joe Biden told Democrats the proposal ten Senate Republicans have made for $600 billion in COVID-19 relief is \"way too small.\""
 publishedDateTime: 2021-02-02T19:55:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUSKBN2A22ND"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUSKBN2A22ND"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats/biden-said-republican-proposal-for-600-billion-in-covid-19-aid-way-too-small-schumer-idUSKBN2A22ND?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats/biden-said-republican-proposal-for-600-billion-in-covid-19-aid-way-too-small-schumer-idUSKBN2A22ND?edition-redirect=uk"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22ND"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22ND"
 type: article
@@ -369,8 +369,8 @@ related:
         isCached: true
   - title: "Joe Biden tells Republican senators to aim for larger Covid relief package – live"
     excerpt: "Trump legal team files 14-page brief defending his conduct on day of Capitol riot – follow all the latest politics news"
-    publishedDateTime: 2021-02-02T18:51:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019a9348f08da42e4058d14"
+    publishedDateTime: 2021-02-02T18:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019a6818f08c315844c86ef"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
     type: article
@@ -379,7 +379,7 @@ related:
       domain: theguardian.com
     quality: 120
     images:
-      - url: "https://i.guim.co.uk/img/media/ab939d5ce6411943e71cf123b6b0a8f561084276/0_51_5646_3388/master/5646.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=521c879d4fd9816b5f6fe73ceac30a73"
+      - url: "https://i.guim.co.uk/img/media/e7c0619c6c69b3ddbc15b400a961eca59b7539be/0_223_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=542364ac3636fd158f491fcb1213233f"
         width: 600
         height: 360
         isCached: true
@@ -562,6 +562,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Interview flap shows challenges as Harris settles in as VP"
+    excerpt: "Vice President Kamala Harris has spent her first two weeks in office working with the president on coronavirus relief, consulting with the head of the World Health Organization and talking with the prime minister of Canada."
+    publishedDateTime: 2021-02-02T22:49:00Z
+    webUrl: "https://www.businessinsider.com/interview-flap-shows-challenges-as-harris-settles-in-as-vp-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/interview-flap-shows-challenges-as-harris-settles-in-as-vp-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/interview-flap-shows-challenges-as-harris-settles-in-as-vp-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z
@@ -961,6 +972,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "6WIxLAavJD9l0c4yr0T639YoylTRm7WDH1OmNoZe2QAaZSUiURWRPuIjE2WwZ6RBmU43ovzFdiBTbNsVkIz/5nIm3iDnAY9BE4BC50ikEDXbkhZcAVClmlr4UXwY0JyE0uJyOMxxfqULsi/FZigijm9PY0m5RKKtwFRDHQ87rArXy3OGyflOFvyuQFLT/eRnb30EqyL/dtFWxsaJzTgOeCreHDSDU8tR/8OUhl23dDLwy/BzWYrRDlVYbVRW6aYEKdTI4z/iA5zhRrXH7w2sKiFWOEhk1NAXefwVluN21O8IAgJKjiykkebNEY21TviGozLkM2kwbszJX/VQUIvXwOLq6jrwwsWIF4z0s7vZHwM=;fgEJPhDUtq+w4lpV5gDHmA=="
+secured: "TFZFC1Kkm7BVl1vOJORuBWdopEyc05vkPanAr7btVGkfcF/2dANdDdYr0lqjmf+kDLk3zowhELoq/oNGTPY0TRIqcCv86ITw9NdktfHfEk1L6+M3IitAh9f5Yp1gl32xJulQySSF1Sn1/TvArG8q87RuQjX9AQ8s7yUOC5mLumbeLxTnRdBQliALjvUydHYbHdmj6vsHdnQNg73WPS1qkc2e3Mq5K8UnKTWoQgjXpr4hTa9nCNE6ouBJtE3dmja3N1jDvm9EiqFkb9PA/JeyV9WBPDTD+urJsLaH/lO7/JIEhaBTkPNRM0IJlIDzz0A3DroLhV2/XO1qvu8W1qGhc7vLVCro0UzDDPYiEaA6iYU=;B/SS/ZtPOdVFQNodxDwpBw=="
 ---
 

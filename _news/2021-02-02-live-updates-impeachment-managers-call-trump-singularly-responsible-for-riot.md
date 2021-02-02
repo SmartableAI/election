@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Defense Secretary dismisses hundreds of members of Pentagon advisory boards including late Trump picks"
+    excerpt: "Defense Secretary Lloyd Austin has dismissed hundreds of members of 42 Pentagon advisory boards, including controversial late appointments by the Trump administration, as the Pentagon announced a review of the boards' memberships Tuesday.\n    \n"
+    publishedDateTime: 2021-02-02T21:09:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PkpzapWjWXA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/lloyd-austin-pentagon-advisory-boards/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/lloyd-austin-pentagon-advisory-boards/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209140912-01-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ex-FBI lawyer spared prison for altering Trump-Russia probe email"
     excerpt: "The only person charged in the Justice Department's investigation into the origins of the probe President Donald Trump's 2016 campaign and its ties to Russia was spared prison time for altering an email used to support a surveillance application."
     publishedDateTime: 2021-01-29T17:42:00Z

@@ -507,6 +507,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump lawyers claim U.S. Senate has no authority to put him on trial"
+    excerpt: "Lawyers for former President Donald Trump said on Tuesday that the U.S. Senate has no authority to try him as a private citizen on an impeachment charge that he incited an insurrection at the U.S. Capitol on Jan."
+    publishedDateTime: 2021-02-02T22:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-defense-idUSKBN2A22F4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22F4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22F4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550029451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111CQ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
     publishedDateTime: 2021-01-30T06:21:00Z
@@ -682,6 +698,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7H52OUTEIEI6XBDIEG6ER4D74U.jpg&w=1440"
         width: 1440
         height: 964
+        isCached: true
+  - title: "Pentagon suspends work of advisory boards after flurry of last-minute Trump appointments"
+    excerpt: "Defense Secretary Lloyd Austin has suspended the work of dozens of Pentagon advisory boards and asked hundreds of appointees to step down, in what officials described as an effort aimed partly at counteracting a flurry of appointments that took place in the Trump administration’s final days."
+    publishedDateTime: 2021-02-02T22:09:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/pentagon-suspends-advisory-boards-review/2021/02/02/56292368-6589-11eb-bf81-c618c88ed605_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/pentagon-suspends-advisory-boards-review/2021/02/02/56292368-6589-11eb-bf81-c618c88ed605_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/pentagon-suspends-advisory-boards-review/2021/02/02/56292368-6589-11eb-bf81-c618c88ed605_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YFJWMYDFSAI6XDDESWKYRDFKCU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Facing a post-Trump world, abortion opponents at March for Life strike a less partisan tone"
     excerpt: "Abortion opponents began facing the post-Trump world Friday at the annual March for Life, divided over whether the past president helped or harmed their cause and shifting towards less partisan language than in the recent past."

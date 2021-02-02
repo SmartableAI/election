@@ -1152,6 +1152,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Tom Vilsack faces unforeseen challenges as Biden's Secretary of Agriculture"
+    excerpt: "Sen. Chuck Grassley introduces Tom Vilsack, whose job under President Joe Biden certainly isn't the same one he had under President Barack Obama."
+    publishedDateTime: 2021-02-02T22:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/02/02/biden-picks-vilsack-sec-agriculture-face-covid-19-challenges/4362201001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/02/USAT/e25832dd-ffff-40e0-8cf0-fab65578508d-VPC_VILSACK_CONFIRMATION_SENATEgov_WIDE.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Final Letter: Trump Tight-Lipped On Message To Biden"
     excerpt: "The transition of power from Trump to President Joe Biden has been anything but traditional. But one tradition remained; a note was left for the incoming president. White House spokesman Judd Deere told USA Today the content of the letter remains between the two leaders."
     publishedDateTime: 2021-01-20T16:54:00Z

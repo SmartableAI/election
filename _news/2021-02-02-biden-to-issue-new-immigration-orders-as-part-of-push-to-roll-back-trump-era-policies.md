@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden signs three immigration orders in latest move to reverse key Trump policies"
+    excerpt: "President Biden on Tuesday signed three executive orders on immigration, including one to create a task force to reunify migrants separated under the Trump administration"
+    publishedDateTime: 2021-02-02T22:54:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gL56p1TaQF4/biden-signs-immigration-orders-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-immigration-orders-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-immigration-orders-trump-era-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6423eb4b-2774-420f-84fe-d9dfac3316b6/5db3f176-689a-4bd2-99ce-1b4d762459d8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden signs executive order expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
     excerpt: "Biden signed two executive orders expanding ObamaCare enrollment and rolling back anti-abortion policies"
     publishedDateTime: 2021-01-28T18:49:50Z

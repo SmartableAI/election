@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-gr
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
 type: article
 quality: 132
-heat: 592
+heat: 612
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FFPPEFCQMYI6XIPV7WXSRT6KSA.jpg&w=1440"
         width: 1440
         height: 954
+        isCached: true
+  - title: "Trump's defense team claims Senate has no grounds to hold trial, asks for dismissal - live politics updates"
+    excerpt: "Donald Trump's attorneys on Tuesday argued his upcoming Senate impeachment trial is unconstitutional and asked for the case to be dismissed."
+    publishedDateTime: 2021-02-02T22:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/02/02/politics-live-updates-trump-impeachment-trial-biden-immigration/4344395001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4344395001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4344395001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/02/USAT/7ea05478-e2a3-4607-b557-bae95323bbae-AP_Trump_Impeachment_3.jpg?auto=webp&crop=5075,2855,x0,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Legal analysis of Trump impeachment trial"
     excerpt: "The House delivered its article of impeachment against former President Trump on Monday. He's charged with inciting the deadly insurrection at the Capitol earlier this month. Jessica Levinson, Loyola Law School professor,"

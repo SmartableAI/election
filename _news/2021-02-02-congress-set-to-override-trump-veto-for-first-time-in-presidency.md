@@ -78,6 +78,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Pentagon Clears Out Advisory Boards to Oust Last-Minute Trump Picks"
+    excerpt: "Defense Secretary Lloyd Austin dismissed hundreds of members of the Pentagon’s advisory boards, ousting last-minute Trump administration nominees as well as officials appointed by previous administrations."
+    publishedDateTime: 2021-02-02T18:06:00Z
+    webUrl: "https://www.wsj.com/articles/defense-chief-clears-out-pentagon-advisory-boards-to-oust-last-minute-trump-picks-11612289262"
+    ampWebUrl: "https://www.wsj.com/amp/articles/defense-chief-clears-out-pentagon-advisory-boards-to-oust-last-minute-trump-picks-11612289262"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-chief-clears-out-pentagon-advisory-boards-to-oust-last-minute-trump-picks-11612289262"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-293200/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash"
     excerpt: "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash."
     publishedDateTime: 2021-01-02T19:34:00Z

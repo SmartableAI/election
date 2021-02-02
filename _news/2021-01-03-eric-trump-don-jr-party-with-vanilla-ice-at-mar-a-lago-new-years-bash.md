@@ -90,6 +90,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Pentagon Clears Out Advisory Boards to Oust Last-Minute Trump Picks"
+    excerpt: "Defense Secretary Lloyd Austin dismissed hundreds of members of the Pentagon’s advisory boards, ousting last-minute Trump administration nominees as well as officials appointed by previous administrations."
+    publishedDateTime: 2021-02-02T18:06:00Z
+    webUrl: "https://www.wsj.com/articles/defense-chief-clears-out-pentagon-advisory-boards-to-oust-last-minute-trump-picks-11612289262"
+    ampWebUrl: "https://www.wsj.com/amp/articles/defense-chief-clears-out-pentagon-advisory-boards-to-oust-last-minute-trump-picks-11612289262"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-chief-clears-out-pentagon-advisory-boards-to-oust-last-minute-trump-picks-11612289262"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-293200/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "+/vkx4BmO19ITqkPc2l6LIfayyNfN1yQcr24OZyzNzY03eaQrULJHfs9Jba+KBBLSmA9ZwNNymOkiGXuo8Bcc0HY4kxiX/RFjlJKNy5Q69/lRf3i0AnvERUnpCcbFbmyB4zQ7WxCXX3lnZWy/srkIbPuPGBwzxiZvkpb4N/qaonhU1pfi/H2no8P/kfHt4Wy88jbmAndw21kBSDiSGLlkbGFArDrTnMxNaf54msIJdaybfXDIB8MJUtdGejcgnfF540I/wOAsXRJ52TvalqCelRrXK8j9snEcR25xQPh9ss/dQXS2FRiK5AtCQfgIC4LIrfPo8593lEa2HiEvAk74YDngJoq6UNtBUrOpDbNEPMrDp5Qmor90yY8Llw7Ts4cx2k+y5OEr0JWzwMXuQsN66Y9EQ7KANPXNRHDAo6QqnzsHrXDyD7Gughji5oDR3h67uoNb+zqqfnXVp1sLohidOnUgv/CbGGzWhCaBeh5sZiSJnhELQQ8vIVsOkiYUWZRYQ8AqNSCRkVXhu2TxyJnTg==;Eqa3M7P5T8RYDtJEjs0Wrw=="
 ---
