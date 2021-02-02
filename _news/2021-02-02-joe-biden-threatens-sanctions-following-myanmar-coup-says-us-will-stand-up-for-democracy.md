@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-threatens-sanctions-following-mya
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870?amp=1"
 type: article
 quality: 114
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Analysis: Biden threatened Myanmar sanctions. What are his options?"
+    excerpt: "Myanmar's military checkpoint is seen on the way to the congress compound in Naypyitaw, Myanmar 1, 2021. REUTERS/Stringer"
+    publishedDateTime: 2021-02-02T10:07:00Z
+    webUrl: "https://www.reuters.com/news/picture/analysis-biden-threatened-myanmar-sancti-idUSKBN2A20ES"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549938362&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH11085"
+        width: 810
+        height: 532
+        isCached: true
   - title: "U.S. will act after sanctions law review in wake of Myanmar coup: Biden"
     excerpt: "U.S. President-elect Joe Biden delivers remarks on the U.S. response to the coronavirus disease (COVID-19) outbreak, at his transition headquarters in Wilmington, Delaware, U.S., December"
     publishedDateTime: 2021-02-01T22:48:00Z

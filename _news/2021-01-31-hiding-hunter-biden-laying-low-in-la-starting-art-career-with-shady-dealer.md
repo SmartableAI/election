@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp"
 type: article
 quality: 173
-heat: 273
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,85 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Cabinet nominee hired convicted domestic abuser who punched woman for refusing sex"
-    excerpt: "Boston Mayor Martin Walsh, the nominee to be President Joe Biden's Labor Secretary, briefly hired former Massachusetts state representative Carlos Henriquez to be a special assistant in 2018, despite Henriquez's conviction years earlier for assaulting a woman who refused to have sex with him. "
-    publishedDateTime: 2021-01-23T22:37:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XISNb1bzlHI/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
+  - title: "New DOJ hire is former colleague of Hunter Biden defense attorney"
+    excerpt: "The newly selected acting head of the Justice Department's criminal division is a former colleague of the attorney now representing Hunter Biden in the face of a DOJ investigation."
+    publishedDateTime: 2021-02-02T14:44:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lqqecc00cx0/doj-official-former-colleague-hunter-biden-defense-attorney"
+    ampWebUrl: "https://www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 175
     images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Facebook's Sandberg praises Biden abortion policy, criticizes South Carolina partial ban"
-    excerpt: "Facebook Chief Operating Officer Sheryl Sandberg is praising President Bident's recent executive order on overseas abortion providers and criticizing South Carolina's legislation banning most abortions."
-    publishedDateTime: 2021-01-30T00:13:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkhXXSz3npI/facebook-sandberg-biden-abortion"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/11/30/694940094001_5973634959001_5973636138001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden hopes for 1.5 million COVID vaccinations per day, after 'nothing we can do' comments"
-    excerpt: "President Biden says he’s “quite confident” that in roughly three weeks the nation will “be vaccinating people at the range of a 1 million a day or in excess of that.”"
-    publishedDateTime: 2021-01-25T22:47:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s2jeEaVhlMY/biden-hopes-for-1-5-million-covid-vaccinations-per-day"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hopes-for-1-5-million-covid-vaccinations-per-day.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hopes-for-1-5-million-covid-vaccinations-per-day.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21025793966837.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Hunter-Biden-Joe-Biden-Inauguration-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "AOC, Green New Dealers rejoice over Biden’s climate plan: ‘It’s almost as if we helped shape the platform’"
-    excerpt: "Advocates for the Green New Deal have praised the Biden administration for its early moves to address climate change, taking a victory lap after the president signed a slew of sweeping executive orders targeting the environment."
-    publishedDateTime: 2021-01-29T20:59:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xa7e3xBeUSY/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform.amp"
+  - title: "Biden DOJ pick Kristen Clarke railed against Sessions task force protecting religious liberty"
+    excerpt: "Kristen Clarke, President Biden's choice to run the Justice Department's Civil Rights Division, has previously taken issue with the Justice Department's Religious Liberty Task Force."
+    publishedDateTime: 2021-01-28T20:20:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4mMftAT4tO0/biden-doj-kristen-clarke-jeff-sessions-religious-liberty"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-kristen-clarke-jeff-sessions-religious-liberty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-kristen-clarke-jeff-sessions-religious-liberty.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f87b45ab-9b1d-4274-910d-0cd5d365ed79/daf8ef02-3c48-4616-96db-218daa791fed/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kristen-Clarke-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Rhode Island ranked worst state to do business under Biden Commerce Secretary nominee's leadership"
+    excerpt: "Rhode Island was ranked among the top five worst places to do business in the U.S. during all four years Gina Raimondo, President Biden's nominee for secretary of commerce, was governor."
+    publishedDateTime: 2021-01-27T19:26:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oLDpTcX3XnI/rhode-island-worst-state-business-biden-commerce-raimondo"
+    ampWebUrl: "https://www.foxnews.com/politics/rhode-island-worst-state-business-biden-commerce-raimondo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rhode-island-worst-state-business-biden-commerce-raimondo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e6cc050-5e3c-4af3-8996-40045a053ee5/ebbce464-9ae9-4185-a4e5-9485df9d3e95/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Cabinet nominee hired convicted domestic abuser who punched woman for refusing sex"
-    excerpt: "Boston Mayor Martin Walsh, the nominee to be President Joe Biden's Labor Secretary, briefly hired former Massachusetts state representative Carlos Henriquez to be a special assistant in 2018, despite Henriquez's conviction years earlier for assaulting a woman who refused to have sex with him."
-    publishedDateTime: 2021-01-23T23:00:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
+  - title: "Biden Wants to Kill 80% of America's Energy"
+    excerpt: "When giving speeches and talking to audiences, I've often been struck by how few Americans, even those who are highly educated, have any idea where the"
+    publishedDateTime: 2021-02-02T11:40:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
     images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/53/534003_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "6VYfuq9f4X9Cu5ivhkeGUHDqop7nxiM3/YQxEtBjAga7cdnThf9SoezGYwEDw4XIivaOirgGyRjjpoiNh4FNjPiZPyPS3ozlBQw6FqORC17Xo4R/Hoc5JYc4xTVD3kGqBmb/7hUCqlvXN79WXdEMaX7b9sYHhU/zxzG3lpO63/OueQgGJS8RGrWIxaggWk6QtMm/i0D2QtYnxFV9B7T1NIpy8z5KBWNbHxkAQMOVUrVjq6Bl5Zek5qhT7OilJkb5NanKjZ7x3GflnGYNO/BQhIxseXbS6f3EzHlB3YSdtT44HMQkPSsHm5FrCj3ZCqQtmoSudXjvKlcgCO+PA/+QaA0iqXUxQ7tfXolftAJW7IU=;jmkngvYn8uwdCk9pKs7RWA=="

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden hosts Republican senators as part of Covid-19 stimulus outreach"
+    excerpt: "White House spokeswoman Jen Psaki defended the size of the administration's $1.9 trillion Covid-19 relief proposal, calling it \"incredibly urgent\" ahead of a meeting with Republican senators on Monday.\n    \n"
+    publishedDateTime: 2021-02-02T01:26:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DAE4F-B04sU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here's what budget reconciliation is (and why it matters for Biden's stimulus)"
     excerpt: "As President Joe Biden pursues a bipartisan Covid-19 relief deal, Senate Democrats are laying the groundwork for passing relief without any Republican votes using a procedural shortcut known as budget reconciliation.\n    \n"
     publishedDateTime: 2021-02-01T21:09:00Z

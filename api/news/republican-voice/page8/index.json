@@ -2,118 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-01-05-biden-trump-coronavirus-vaccine-rollout-is-off-to-a-god-awful-start.md",
-      "title": "Biden: Trump coronavirus vaccine rollout is 'off to a God-awful start'",
-      "excerpt": "President-elect Joe Biden blasted President Trump on Monday, as he campaigned with the two Democratic challengers in Atlanta on the eve of Georgia’s twin Senate runoff elections, where the Republican Senate majority’s at stake.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 570,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp",
-      "publishedDateTime": "2021-01-04T17:32:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-biden-dni-pick-avril-haines-raises-eyebrows-with-previous-job-at-bookstore-known-for-erotica-readings.md",
-      "title": "Biden DNI pick Avril Haines raises eyebrows with previous job at bookstore known for erotica readings",
-      "excerpt": "Long before she was nominated by President-elect Joe Biden to oversee the nation’s intelligence apparatus, Avril Haines co-owned an independent bookstore that hosted “erotica nights.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQ3l45Hg8cU/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQ3l45Hg8cU/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Avril-Haines1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings.amp",
-      "publishedDateTime": "2021-01-04T14:54:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-05-liberal-magazine-backtracks-after-naming-biden-sex-assault-accuser-tara-reade-among-top-ten-lunatics-of-2020.md",
       "title": "Liberal magazine backtracks after naming Biden sex assault accuser Tara Reade among ‘Top Ten Lunatics of 2020’",
       "excerpt": "Liberal publication Mother Jones removed Tara Reade, who rocked the presidential primary race last year with a sexual assault allegation against Joe Biden, from a list of the \"Top Ten Lunatics of 2020\" after the decision to include her in the first place was blasted by critics.",
@@ -1645,6 +1533,119 @@
       "ampWebUrl": "https://www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp",
       "publishedDateTime": "2020-12-26T05:14:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-26-joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.md",
+      "title": "Joe Biden’s niece Caroline gets no jail time after DUI guilty plea",
+      "excerpt": "Joe Biden’s niece Caroline Biden pleaded guilty to DUI on Dec. 3 — and was sentenced to 20 days to six months of “confinement,” Pennsylvania court records said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0",
+      "originalUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/caro222.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.amp",
+      "publishedDateTime": "2020-12-25T19:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-25-squad-introduces-bill-for-2000-stimulus-checks-backed-by-trump.md",
+      "title": "'Squad' introduces bill for $2,000 stimulus checks backed by Trump",
+      "excerpt": "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 535,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp",
+      "publishedDateTime": "2020-12-25T09:38:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-02-biden-wants-to-kill-80-of-americas-energy.md",
-      "title": "Biden Wants to Kill 80% of America's Energy",
-      "excerpt": "When giving speeches and talking to audiences, I've often been struck by how few Americans, even those who are highly educated, have any idea where the",
+      "path": "_news/2021-02-02-new-doj-hire-is-former-colleague-of-hunter-biden-defense-attorney.md",
+      "title": "New DOJ hire is former colleague of Hunter Biden defense attorney",
+      "excerpt": "The newly selected acting head of the Justice Department's criminal division is a former colleague of the attorney now representing Hunter Biden in the face of a DOJ investigation.",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.html",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.html",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lqqecc00cx0/doj-official-former-colleague-hunter-biden-defense-attorney",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lqqecc00cx0/doj-official-former-colleague-hunter-biden-defense-attorney",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 85,
+      "heat": 255,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.realclear.com/images/53/534003_5_.jpg",
-          "width": 750,
-          "height": 500,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Hunter-Biden-Joe-Biden-Inauguration-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,14 +28,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.amp.html",
-      "publishedDateTime": "2021-02-02T03:40:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp",
+      "publishedDateTime": "2021-02-02T06:44:56-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -45,7 +54,6 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -446,7 +454,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 355,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -766,63 +774,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-02-snl-liberal-comedians-scared-to-criticize-joe-biden-gov-cuomo-adam-carolla.md",
-      "title": "SNL, liberal comedians 'scared' to criticize Joe Biden, Gov. Cuomo: Adam Carolla",
-      "excerpt": "Comedian Adam Carolla said Monday that shows like Saturday Night Live were \"scared\" to attack Democrats like President Biden or New York Gov. Andrew Cuomo for fear of being \"cancelled.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/snl-liberal-comedians-scared-criticize-biden-cuomo-carolla",
-      "originalUrl": "https://www.foxnews.com/media/snl-liberal-comedians-scared-criticize-biden-cuomo-carolla",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ada6c1be-9440-42ee-b17f-599acd5be326/9a23cf2c-fad6-4d80-8cb6-6e200d7b5989/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/snl-liberal-comedians-scared-criticize-biden-cuomo-carolla.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/snl-liberal-comedians-scared-criticize-biden-cuomo-carolla.amp",
-      "publishedDateTime": "2021-02-01T11:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-01-trump-residency-at-mar-a-lago-under-palm-beach-legal-review.md",
       "title": "Trump residency at Mar-a-Lago under Palm Beach legal review",
       "excerpt": "Palm Beach, Fla., officials are conducting a legal review into former President Donald Trump's residency at Mar-a-Lago, Fox News confirmed Monday.",
@@ -1001,7 +952,7 @@
       "originalUrl": "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1370,6 +1321,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-two-years-later-vp-kamala-harris-once-called-jussie-smollett-the-victim-of-a-modern-day-lynching.md",
+      "title": "Two years later: VP Kamala Harris once called Jussie Smollett the victim of a 'modern day lynching'",
+      "excerpt": "Friday marked two years since now-vice president Kamala Harris publically expressed support for actor Jussie Smollett after he claimed to be a victim of a hate crime.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cabc059-1257-4d26-92fc-f3ee6854a415/dbd72d91-5230-4f66-95b0-5109510ba033/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching.amp",
+      "publishedDateTime": "2021-01-31T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
         "Republican Voice"
       ]
     }

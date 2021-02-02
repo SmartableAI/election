@@ -2,101 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-01-21-we-will-get-through-this-together-newspaper-front-pages-herald-president-joe-biden-review-challenges-ahead.md",
-      "title": "‘We will get through this together’: Newspaper front pages herald President Joe Biden, review challenges ahead",
-      "excerpt": "Joe Biden dominated, of course, but here and there his groundbreaking vice president Kamala Harris grabbed top billing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html",
-      "originalUrl": "https://www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DOTFE2YHJBF67GBQ5LVTYXM52E.jpg",
-          "width": 2661,
-          "height": 1774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html?outputType=amp",
-      "publishedDateTime": "2021-01-21T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-theologian-russell-moore-has-a-message-for-christians-who-still-worship-donald-trump.md",
-      "title": "Theologian Russell Moore Has a Message for Christians Who Still Worship Donald Trump",
-      "excerpt": "If you can defend this, you can defend anything,” wrote Russell Moore, a theologian who is also the president of the Ethics and Religious Liberty Commission (ERLC) of the Southern Baptist Convention (SBC),",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/5932014/donald-trump-christian-supporters/",
-      "originalUrl": "https://time.com/5932014/donald-trump-christian-supporters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2021/01/russell-moore-conservative-christians.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T03:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-21-first-100-days-of-biden-obama-clinton-escalating-spending-to-address-economic-challenge.md",
       "title": "First 100 days of Biden, Obama, Clinton: Escalating spending to address economic challenge",
       "excerpt": "The first 100 days of a two-term presidency mark about 3% of the eight-year span, but since President Franklin Delano Roosevelt, this brief early window of opportunity has been used to judge a new commander in chief’s agenda.",
@@ -1365,6 +1270,121 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-donald-trump-pardons-commutes-lil-wayne-kodak-black-sentences-prompting-reactions-from-fans-and-critics.md",
+      "title": "Donald Trump pardons, commutes Lil Wayne, Kodak Black sentences prompting reactions from fans and critics",
+      "excerpt": "Donald Trump has issued a pardon and sentence commutation to rappers Lil Wayne and Kodak Black ahead of Joe Biden's inauguration. President Trump issued 73 pardons and 70 sentence commutations early Wednesday as he prepared to leave office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits",
+      "originalUrl": "https://www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20346763036479.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-pardons-commutes-lil-wayne-kodak-black-reactions-fans-cricits.amp",
+      "publishedDateTime": "2021-01-20T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-snoop-dogg-praises-trump-for-commuting-sentence-of-death-row-record-co-founder-michael-harry-o-harris.md",
+      "title": "Snoop Dogg praises Trump for commuting sentence of Death Row Record co-founder Michael 'Harry O' Harris",
+      "excerpt": "Snoop Dogg praised President Trump in his final hours in office for commuting the sentence of his friend, Death Row Records co-founder Michael \"Harry O\" Harris.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records",
+      "originalUrl": "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Snoop-Dogg.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records.amp",
+      "publishedDateTime": "2021-01-20T04:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice",
+        "Kamala Harris"
       ]
     }
   ],

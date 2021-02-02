@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden hosts Republican senators as part of Covid-19 stimulus outreach"
+    excerpt: "White House spokeswoman Jen Psaki defended the size of the administration's $1.9 trillion Covid-19 relief proposal, calling it \"incredibly urgent\" ahead of a meeting with Republican senators on Monday.\n    \n"
+    publishedDateTime: 2021-02-02T01:26:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DAE4F-B04sU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tech problems kick off Biden administration's first virtual Covid briefing"
     excerpt: "The first Covid-19 briefing of the Biden administration got off to an unfortunate start on Wednesday with multiple technical difficulties. The administration has repeatedly touted their transparency amid the enormous undertaking of getting the pandemic under control, but the briefing, which was conducted"
     publishedDateTime: 2021-01-27T16:39:11Z

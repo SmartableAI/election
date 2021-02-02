@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden hopes for 1.5 million COVID vaccinations per day, after 'nothing we can do' comments"
+    excerpt: "President Biden says he’s “quite confident” that in roughly three weeks the nation will “be vaccinating people at the range of a 1 million a day or in excess of that.”"
+    publishedDateTime: 2021-01-25T22:47:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s2jeEaVhlMY/biden-hopes-for-1-5-million-covid-vaccinations-per-day"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hopes-for-1-5-million-covid-vaccinations-per-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hopes-for-1-5-million-covid-vaccinations-per-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21025793966837.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "pZ/k+mBOkng/lc9FC2t6dJQ2Lc1fc0cC7TtW3Eq9XfpBcoHiq7yMiOB2gg/Ga350oOfGsaCMVpLM6NHIV9uDF6NGAPLqCG0H/9pYj/CmW1/U3+ySQQAJh5hFU+xkY8IUElaQn3WhT7uQ4dG0PegD3zgKFcUqB5FltAphSnNecKAHu//Varru1qvWz9cKiPl24jeNfo00qSOP1zvUsp59T6ocz6ik1tw7suksk6Cf6+Lr49BOeZDr4TUD8tgbOU53hbWYLWCFVtIt2CmsX21OYyyLWiMNtIMPobXxRotjmqFGvGJbMq17Sad3FkQnE6GINI3IFFWUB+2S7WUfd0cFaSOtthwBGTcs9toVIpRz0IQ=;Vu1EtkdwsojpoOyIXhuoZQ=="
 ---

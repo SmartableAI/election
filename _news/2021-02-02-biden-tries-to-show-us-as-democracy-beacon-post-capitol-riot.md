@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden tries to show US as democracy beacon post-Capitol riot"
-excerpt: "President Joe Biden is facing two critical tests of whether the deadly riot at the U.S. Capitol has damaged America’s standing as a beacon for democracy"
-publishedDateTime: 2021-02-02T10:26:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-tries-to-show-us-as-democracy-beacon-post-capitol-riot/2021/02/02/30da0720-6517-11eb-bab8-707f8769d785_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-tries-to-show-us-as-democracy-beacon-post-capitol-riot/2021/02/02/30da0720-6517-11eb-bab8-707f8769d785_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-tries-to-show-us-as-democracy-beacon-post-capitol-riot/2021/02/02/30da0720-6517-11eb-bab8-707f8769d785_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-tries-to-show-us-as-democracy-beacon-post-capitol-riot/2021/02/02/30da0720-6517-11eb-bab8-707f8769d785_story.html?outputType=amp"
+excerpt: "Less than two weeks in office, President Joe Biden is facing two critical tests of whether the deadly riot at the U.S. Capitol has damaged America’s standing as a beacon for democracy."
+publishedDateTime: 2021-02-02T14:07:00Z
+originalUrl: "https://www.businessinsider.com/biden-tries-to-show-us-as-democracy-beacon-post-capitol-riot-2021-2"
+webUrl: "https://www.businessinsider.com/biden-tries-to-show-us-as-democracy-beacon-post-capitol-riot-2021-2"
+ampWebUrl: "https://www.businessinsider.com/biden-tries-to-show-us-as-democracy-beacon-post-capitol-riot-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tries-to-show-us-as-democracy-beacon-post-capitol-riot-2021-2?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Biden pauses Trump policies as Blinken takes diplomatic helm"
@@ -1305,6 +1299,6 @@ related:
         height: 649
         isCached: true
 
-secured: "r/m7Fh8NInI1cXB1BCrGTLRZkuYclayP2f8qSa2KjmrsMCQkvsKwAVXGpS9UQWKWfaaaaoEBXtHo5oUpgeAqKu9KAHV01w7wrXFwwyxOwuzxL/k798LtBh85cPe5a9++FEaWCunvw4x74GUQaqCErg6mRvJzauGQ14527EDwTRAlzT20V+ls64KFXE02t+6f4HhPXdMbkDrdnoFHxIJY95txyXttJiyC5gyzcIWBldfWIHRW39ZO+PIZgPhtuZTGP1Duh6O0nIVc4qxNE5PGSyW8tU1KQVqqyXf3mmW035O6emroQ1fb3zt82phasWZzY4FcW5ftbf2LSEE3ljbzCzp3Ntaf+qEu1AnQnmECRzU=;ZER54z7INR/0/mUAx7jdEw=="
+secured: "XiidxrcYuOapdO8JHEYPh6y0GcGZWXTbWZGmHkoypP2zNoc33THoobR0e/BDGS1Kw+OMvlW11z6qxLtBCUebV14V01wPZ7CiwEsKkI8wbPw40YQuB4fgNI98qzVZ5bKMPTchaSf1o7mSU/qxPDdvW0bS886YgSn8sXBru4vzKRBK/BbT4dFGKdsXhgVtklCgG1j2x1FDC/ERvbTPy+3i7yJUPrKARJGmI09ILC+968r49nHEjU2voP3JZTRI/HPn+G7TLJM8EczejfiKh7FyyoDrp9+jr5Gif8vNev0paYapKVPx1GyhoJonIhvLG1UMq8Edx+dIbVqq7eRfvK37Sk4lLBTHsF5prCiyqIocnU4=;u2zByhHZPgHp2wtubq7AJw=="
 ---
 

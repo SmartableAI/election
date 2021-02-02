@@ -31,69 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "House expected to approve waiver for Biden's Defense Secretary nominee Lloyd Austin"
-    excerpt: "President Biden's nominee for Secretary of Defense is expected to clear an important hurdle Thursday in his pathway to confirmation of the new cabinet."
-    publishedDateTime: 2021-01-21T18:57:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wCtQWjpjxJA/house-waiver-biden-secretary-defense-nominee-lloyd-austin"
-    ampWebUrl: "https://www.foxnews.com/politics/house-waiver-biden-secretary-defense-nominee-lloyd-austin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-waiver-biden-secretary-defense-nominee-lloyd-austin.amp"
+  - title: "New DOJ hire is former colleague of Hunter Biden defense attorney"
+    excerpt: "The newly selected acting head of the Justice Department's criminal division is a former colleague of the attorney now representing Hunter Biden in the face of a DOJ investigation."
+    publishedDateTime: 2021-02-02T14:44:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lqqecc00cx0/doj-official-former-colleague-hunter-biden-defense-attorney"
+    ampWebUrl: "https://www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Gen.-Lloyd-Austin-III.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Hunter-Biden-Joe-Biden-Inauguration-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden to nominate retired four-star Army general Lloyd Austin for secretary of defense"
-    excerpt: "If confirmed by the Senate, Austin would be the first Black leader of the Pentagon."
-    publishedDateTime: 2020-12-08T01:24:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQSpNxVlQ9Y/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense.amp"
+  - title: "Hiding Hunter Biden laying low in LA, starting art career with shady dealer"
+    excerpt: "As federal prosecutors continue their criminal probes into Hunter Biden’s taxes and international business dealings, the President’s son — shuttling between Washington DC and a sprawling Hollywood Hills home — is lying low, consulting with lawyers and focusing on his new career in art."
+    publishedDateTime: 2021-01-31T02:06:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTTaRLiLXjk/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer"
+    ampWebUrl: "https://www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/85337bb5-204b-463b-9f43-f1f0206fb7ef/77ef1044-1d52-4fd1-9090-96ae52c81ed9/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f4d2ba-b1e3-4f9c-bc4e-3b3d3f3de519/2b711708-9a6f-4b8b-949a-d7a0eb709359/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Acting DHS secretary: We want to leave 'no stone unturned' in securing Biden inauguration"
-    excerpt: "Acting Homeland Security Secretary Peter Gaynor told \"America Reports\" Monday that there is a \"heightened sense of alert\" surrounding the security preparations for Joe Biden's inauguration."
-    publishedDateTime: 2021-01-18T21:57:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gxODbRKz3tI/inauguration-security-national-guard-fbi-dhs-peter-gaynor"
-    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-national-guard-fbi-dhs-peter-gaynor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-national-guard-fbi-dhs-peter-gaynor.amp"
+  - title: "Biden DOJ pick Kristen Clarke railed against Sessions task force protecting religious liberty"
+    excerpt: "Kristen Clarke, President Biden's choice to run the Justice Department's Civil Rights Division, has previously taken issue with the Justice Department's Religious Liberty Task Force."
+    publishedDateTime: 2021-01-28T20:20:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4mMftAT4tO0/biden-doj-kristen-clarke-jeff-sessions-religious-liberty"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-kristen-clarke-jeff-sessions-religious-liberty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-kristen-clarke-jeff-sessions-religious-liberty.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kristen-Clarke-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Likely Biden deputy labor secretary pick could face Senate scrutiny over California unemployment fraud"
-    excerpt: "California Labor Secretary Julie Su, President Biden’s reported pick to serve as deputy secretary in the US Department of Labor, could face tough scrutiny in the Senate."
-    publishedDateTime: 2021-01-27T02:58:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8vP7B0ygntk/reported-biden-deputy-labor-secretary-pick-senate-scrutiny-california-unemployment-fraud"
-    ampWebUrl: "https://www.foxnews.com/politics/reported-biden-deputy-labor-secretary-pick-senate-scrutiny-california-unemployment-fraud.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reported-biden-deputy-labor-secretary-pick-senate-scrutiny-california-unemployment-fraud.amp"
+  - title: "Biden Wants to Kill 80% of America's Energy"
+    excerpt: "When giving speeches and talking to audiences, I've often been struck by how few Americans, even those who are highly educated, have any idea where the"
+    publishedDateTime: 2021-02-02T11:40:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ca9378b-1b69-418e-961d-8dfadaa4d8db/e210e89d-35ba-4cf6-bde4-b826ff726bba/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/53/534003_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "rGvnnsIVcEK4wAwQRIiQT3+j6ZCOxIK0QPc5DiqRzaXRBSZFsHdtkTpChcpKgv+L5fIjO+s3QlFr3qDiCM3uA7mc24u88qXWOv8erbrK4f3WhnYyrqqcDiNxcEGLPuQCiRZuUGRld6NfCa5muuoCpwmwOsw4RQbdMLvTS/dcy6kTmj+tle+7Q+z767dr4OCN6XoiqJ6HvtpG9rf8XHKNA2djxWxTtwZlQCEA3a6qiayK0qA8K+nIAFh9LkrvTpk8B24JCZEn+G/4HxPmuHTg7f+wFcYSguHX9CiDYzeTaLJKyOLL9WzISzndcp+El2heaDiBugy5loDptxAp1Y7PLcaJx5lRDta1/ghct2ykZkM=;vIPTKO67TaH4BJzeFI8cVg=="

@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden to issue new immigration orders as part of push to roll back Trump-era policies"
+    excerpt: "President Biden on Tuesday will sign three executive orders on illegal and legal immigration -- as part of an aggressive push in the early days of his presidency to roll back many of his predecessor’s policies."
+    publishedDateTime: 2021-02-02T14:07:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6r006QvMSJg/biden-immigration-orders-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-orders-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-orders-trump-era-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6423eb4b-2774-420f-84fe-d9dfac3316b6/5db3f176-689a-4bd2-99ce-1b4d762459d8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden pushes green energy agenda after campaign donations from green industry"
     excerpt: "President Biden has made it clear that climate is driving much of his agenda early in his administration, providing his green industry campaign donors with reason to celebrate."
     publishedDateTime: 2021-02-01T19:40:14Z

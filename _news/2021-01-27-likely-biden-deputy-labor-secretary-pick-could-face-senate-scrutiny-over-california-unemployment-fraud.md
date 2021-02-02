@@ -79,19 +79,35 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Rhode Island ranked worst state to do business under Biden Commerce Secretary nominee's leadership"
-    excerpt: "Rhode Island was ranked among the top five worst places to do business in the U.S. during all four years Gina Raimondo, President Biden's nominee for secretary of commerce, was governor."
-    publishedDateTime: 2021-01-27T19:26:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oLDpTcX3XnI/rhode-island-worst-state-business-biden-commerce-raimondo"
-    ampWebUrl: "https://www.foxnews.com/politics/rhode-island-worst-state-business-biden-commerce-raimondo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rhode-island-worst-state-business-biden-commerce-raimondo.amp"
+  - title: "Biden Cabinet nominee hired convicted domestic abuser who punched woman for refusing sex"
+    excerpt: "Boston Mayor Martin Walsh, the nominee to be President Joe Biden's Labor Secretary, briefly hired former Massachusetts state representative Carlos Henriquez to be a special assistant in 2018, despite Henriquez's conviction years earlier for assaulting a woman who refused to have sex with him. "
+    publishedDateTime: 2021-01-23T22:37:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XISNb1bzlHI/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e6cc050-5e3c-4af3-8996-40045a053ee5/ebbce464-9ae9-4185-a4e5-9485df9d3e95/1280x720/match/image.jpg"
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden Cabinet nominee hired convicted domestic abuser who punched woman for refusing sex"
+    excerpt: "Boston Mayor Martin Walsh, the nominee to be President Joe Biden's Labor Secretary, briefly hired former Massachusetts state representative Carlos Henriquez to be a special assistant in 2018, despite Henriquez's conviction years earlier for assaulting a woman who refused to have sex with him."
+    publishedDateTime: 2021-01-23T23:00:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

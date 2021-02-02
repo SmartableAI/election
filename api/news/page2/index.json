@@ -2,63 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-02-01-two-years-later-vp-kamala-harris-once-called-jussie-smollett-the-victim-of-a-modern-day-lynching.md",
-      "title": "Two years later: VP Kamala Harris once called Jussie Smollett the victim of a 'modern day lynching'",
-      "excerpt": "Friday marked two years since now-vice president Kamala Harris publically expressed support for actor Jussie Smollett after he claimed to be a victim of a hate crime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching",
-      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cabc059-1257-4d26-92fc-f3ee6854a415/dbd72d91-5230-4f66-95b0-5109510ba033/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching.amp",
-      "publishedDateTime": "2021-01-31T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-31-gop-lawmaker-launches-new-pac-to-reclaim-republican-party-after-trump.md",
       "title": "GOP lawmaker launches new PAC to reclaim Republican Party after Trump",
       "excerpt": "GOP Rep. Adam Kinzinger on Sunday announced a new \"movement\" to push back on the Republican Party's embrace of former President Donald Trump and retire the \"poisonous conspiracies and lies\" that defined his administration.\n    \n",
@@ -71,7 +14,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -542,7 +485,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 388,
+      "heat": 408,
       "tags": null,
       "images": [
         {
@@ -848,62 +791,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.md",
-      "title": "Hiding Hunter Biden laying low in LA, starting art career with shady dealer",
-      "excerpt": "As federal prosecutors continue their criminal probes into Hunter Biden’s taxes and international business dealings, the President’s son — shuttling between Washington DC and a sprawling Hollywood Hills home — is lying low, consulting with lawyers and focusing on his new career in art.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTTaRLiLXjk/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTTaRLiLXjk/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 273,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f4d2ba-b1e3-4f9c-bc4e-3b3d3f3de519/2b711708-9a6f-4b8b-949a-d7a0eb709359/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp",
-      "publishedDateTime": "2021-01-30T18:06:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1337,6 +1224,119 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-tucker-dems-rhetoric-actions-show-theyre-more-afraid-now-that-donald-trump-has-left-office.md",
+      "title": "Tucker: Dems' rhetoric, actions show they're 'more afraid now that Donald Trump has left office'",
+      "excerpt": "Democrats and their allies in Big Tech and the media are doing more than just attacking their political opponents, host Tucker Carlson argued Friday on \"Tucker Carlson Tonight.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P2btC_OP2AU/tucker-dems-rhetoric-actions-show-theyre-more-afraid-now-that-donald-trump-has-left-office",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P2btC_OP2AU/tucker-dems-rhetoric-actions-show-theyre-more-afraid-now-that-donald-trump-has-left-office",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tucker-dems-rhetoric-actions-show-theyre-more-afraid-now-that-donald-trump-has-left-office.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tucker-dems-rhetoric-actions-show-theyre-more-afraid-now-that-donald-trump-has-left-office.amp",
+      "publishedDateTime": "2021-01-29T22:35:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-something-aoc-trump-jr-and-ted-cruz-can-all-agree-on-gamestop.md",
+      "title": "Something AOC, Trump Jr. and Ted Cruz can all agree on: GameStop",
+      "excerpt": "Stocks in the video game retailer and other struggling companies saw huge rallies that blindsided some of the most powerful players on Wall Street.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/28/gamestop-stock-aoc-trump-jr-cruz-463539",
+      "originalUrl": "https://www.politico.com/news/2021/01/28/gamestop-stock-aoc-trump-jr-cruz-463539",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/39/c5/05e4063f49e0b5662de3a903191a/210128-gamestop-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T22:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

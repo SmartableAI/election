@@ -144,6 +144,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "The GOP's house was divided long before Trump's rise and fall"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-02-02T14:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/gop-s-house-was-divided-long-trump-s-rise-fall-n1256454"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256454"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256454"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_04/3445654/210128-marjorie-taylor-greene-mc-1347_fd64080340f25d655b1dd436b608e961.JPG"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Virginia Republicans' search for a standard-bearer is a key test of post-Trump GOP in upcoming governor's race"
     excerpt: "As Republicans search for a path forward following Donald Trump's defeat and the party's loss of power in Washington, many are looking across the Potomac River to Virginia, where voters will select a new governor this November."
     publishedDateTime: 2021-02-01T18:21:00Z
@@ -161,6 +177,6 @@ related:
         height: 619
         isCached: true
 
-secured: "hLKTh+P3ft/GvktTgGmjTwuCj8QhDs5ullVMzb+BwF0KvCGsHH+gYQNxWZ89sUjuIhBrB3qQDm0m4DfpbCcOCqKraVU1qTiePq2sNEmDBVQZbiQvjyXqWxmfIxB7ldcF8hY7sMLObgCWYi82uepIuwN5WjQmfOFnJCg4hOqcGIje0F1J19oqVxDa7nupeUMfca46ob2DasitehoaZ95AzgZzJ+2gTPm9V9tB8Lgs5GumF031dBQgG7l2FehL+8MqSdratddsq3mPKirpYStMRsJq85ESthJRdtKmh63+G8wckeoqi1Ql8bjPvy+95LrLZBUCQ/YFw3qPeN08O08Ctvoif6n8YZa9hhuDR9xLt/U=;E5/kLuZ9xcUyyDOzYRJVCg=="
+secured: "xArOJk784xQEz41jfH3OHlgTeGLSe8cWMds1y/Z1J+7C0krFdKBuohCqEP0v/WX+ri0dL0BRIH/BIrCwViqX9ETbfJJZ4v2JSRVeQaGA8QO7eGojb+MFxMyBnXiE1nsPekXrh0qyhGcGno2af5k9fCR4UHbVUFdTNpl7Bt0vnqUJg/5TyF4uga+ijUH7CtrfL/qD6ssiu0bCQZxSV9xDtlQ21a6ElglRq4ibwlhsMyp2MDcQ8+F2jhqyk5DcxXTDPzHkSTsCRLqJtC6qxO3tpDy1Qs4M11Un038yMEUD/9zQPXRdSp4caQmwZ8T3GlcPAWdNMoDhg3H+RFMbo7l3YlK00Dpencg/duPS9WQvTTTeXbGfz5pHqlniDyEdzxzEwdOGcKtGwJU04n6WaOHZoyZgmm49RwLYCSt3+qwx94Sd1Acu1AtD1XRi+c7odhp1KlMdQtCnOf0m5AfB7lNOy1H2pUgETAVdgQuQgYjSmPvGAwtB4JK9a2M+H9wX/FdaPCH9MQnMDa7Z5XTN4dh1Qw==;GYbmUqf3BUSRjkkdRl1/yA=="
 ---
 

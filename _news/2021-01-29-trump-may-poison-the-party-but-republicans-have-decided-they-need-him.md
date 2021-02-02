@@ -128,6 +128,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The GOP's house was divided long before Trump's rise and fall"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-02-02T14:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/gop-s-house-was-divided-long-trump-s-rise-fall-n1256454"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256454"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256454"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_04/3445654/210128-marjorie-taylor-greene-mc-1347_fd64080340f25d655b1dd436b608e961.JPG"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Trump lawyers exit after he pushed them to cite baseless voter fraud claims"
     excerpt: "Lawyers David Schoen and Bruce Castor will lead the legal team that will handle Trump's second impeachment trial in the Senate."
     publishedDateTime: 2021-02-02T11:32:00Z

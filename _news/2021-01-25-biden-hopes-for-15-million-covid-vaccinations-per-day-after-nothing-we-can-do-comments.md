@@ -31,83 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Hiding Hunter Biden laying low in LA, starting art career with shady dealer"
-    excerpt: "As federal prosecutors continue their criminal probes into Hunter Biden’s taxes and international business dealings, the President’s son — shuttling between Washington DC and a sprawling Hollywood Hills home — is lying low, consulting with lawyers and focusing on his new career in art."
-    publishedDateTime: 2021-01-31T02:06:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTTaRLiLXjk/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer"
-    ampWebUrl: "https://www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp"
+  - title: "Biden says 'nothing we can do' to change pandemic 'trajectory' in coming months"
+    excerpt: "Biden addressed his administration’s response efforts during a press briefing on two executive orders meant to provide food assistance to low-income families and protect workers’ rights during the pandemic."
+    publishedDateTime: 2021-01-22T23:09:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JFTIWZq33yA/biden-nothing-we-can-do-to-change-coronavirus-pandemic-trajectory-in-coming-months"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nothing-we-can-do-to-change-coronavirus-pandemic-trajectory-in-coming-months.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nothing-we-can-do-to-change-coronavirus-pandemic-trajectory-in-coming-months.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f4d2ba-b1e3-4f9c-bc4e-3b3d3f3de519/2b711708-9a6f-4b8b-949a-d7a0eb709359/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4006a873-be82-4386-b53f-517d6542b782/397ae1de-e40a-4273-9ea6-06ce58567c46/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Cabinet nominee hired convicted domestic abuser who punched woman for refusing sex"
-    excerpt: "Boston Mayor Martin Walsh, the nominee to be President Joe Biden's Labor Secretary, briefly hired former Massachusetts state representative Carlos Henriquez to be a special assistant in 2018, despite Henriquez's conviction years earlier for assaulting a woman who refused to have sex with him. "
-    publishedDateTime: 2021-01-23T22:37:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XISNb1bzlHI/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
+  - title: "Biden HUD nominee Fudge explains 'equity' doesn't mean 'treating everyone the same'"
+    excerpt: "President Biden's Housing and Urban Development Secretary nominee Rep. Marcia Fudge, D-Ohio, explained to the Senate Banking Committee Thursday that when it comes to housing, treating people the same based on race is not the preferred approach."
+    publishedDateTime: 2021-01-28T20:19:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vlJNyrVk1Ko/biden-hud-nominee-fudge-equity-not-treating-everyone-the-same"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hud-nominee-fudge-equity-not-treating-everyone-the-same.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hud-nominee-fudge-equity-not-treating-everyone-the-same.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 169
     images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0e9a35a-cdd7-493d-b0e0-8535c57de3fb/071070e4-ce62-44fe-9a99-32dadfc7bf59/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Facebook's Sandberg praises Biden abortion policy, criticizes South Carolina partial ban"
-    excerpt: "Facebook Chief Operating Officer Sheryl Sandberg is praising President Bident's recent executive order on overseas abortion providers and criticizing South Carolina's legislation banning most abortions."
-    publishedDateTime: 2021-01-30T00:13:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkhXXSz3npI/facebook-sandberg-biden-abortion"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp"
+  - title: "Biden launching Public Health Jobs Corps, host of executive orders to address COVID-19"
+    excerpt: "President Biden laid out on Thursday a strategy for addressing the coronavirus that included increasing funding and the number of federal employees deployed to meet an ambitious set of goals for countering the pandemic."
+    publishedDateTime: 2021-01-21T10:07:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MszcJ-LSwMc/biden-coronavirus-strategy-executive-orders"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-strategy-executive-orders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-strategy-executive-orders.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 167
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/11/30/694940094001_5973634959001_5973636138001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AOC, Green New Dealers rejoice over Biden’s climate plan: ‘It’s almost as if we helped shape the platform’"
-    excerpt: "Advocates for the Green New Deal have praised the Biden administration for its early moves to address climate change, taking a victory lap after the president signed a slew of sweeping executive orders targeting the environment."
-    publishedDateTime: 2021-01-29T20:59:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xa7e3xBeUSY/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f87b45ab-9b1d-4274-910d-0cd5d365ed79/daf8ef02-3c48-4616-96db-218daa791fed/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden Cabinet nominee hired convicted domestic abuser who punched woman for refusing sex"
-    excerpt: "Boston Mayor Martin Walsh, the nominee to be President Joe Biden's Labor Secretary, briefly hired former Massachusetts state representative Carlos Henriquez to be a special assistant in 2018, despite Henriquez's conviction years earlier for assaulting a woman who refused to have sex with him."
-    publishedDateTime: 2021-01-23T23:00:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbbb4448-7269-4978-8efc-90bb155801cf/b7d0f268-1824-4f6f-9047-a126c13f1ea6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

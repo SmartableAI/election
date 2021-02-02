@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-sandberg-biden-abortion.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp"
 type: article
 quality: 166
-heat: -1
-published: false
+heat: 206
+published: true
 
 provider:
   name: Fox News
@@ -31,83 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Hiding Hunter Biden laying low in LA, starting art career with shady dealer"
-    excerpt: "As federal prosecutors continue their criminal probes into Hunter Biden’s taxes and international business dealings, the President’s son — shuttling between Washington DC and a sprawling Hollywood Hills home — is lying low, consulting with lawyers and focusing on his new career in art."
-    publishedDateTime: 2021-01-31T02:06:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTTaRLiLXjk/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer"
-    ampWebUrl: "https://www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp"
+  - title: "NBC News retracts story about Biden official after critics label it anti-Semitic"
+    excerpt: "NBC News admitted Wednesday an article about President Biden’s senior director for cyber policy donating to a pro-Israel lobbying group \"fell short\" of the Peacock Network's reporting standards after it was widely criticized and accused of having anti-Semitic implications."
+    publishedDateTime: 2021-01-28T15:29:00Z
+    webUrl: "https://www.foxnews.com/media/nbc-news-anti-semitic-report-deleted-biden-official-aipac"
+    ampWebUrl: "https://www.foxnews.com/media/nbc-news-anti-semitic-report-deleted-biden-official-aipac.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-news-anti-semitic-report-deleted-biden-official-aipac.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 130
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f4d2ba-b1e3-4f9c-bc4e-3b3d3f3de519/2b711708-9a6f-4b8b-949a-d7a0eb709359/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden Cabinet nominee hired convicted domestic abuser who punched woman for refusing sex"
-    excerpt: "Boston Mayor Martin Walsh, the nominee to be President Joe Biden's Labor Secretary, briefly hired former Massachusetts state representative Carlos Henriquez to be a special assistant in 2018, despite Henriquez's conviction years earlier for assaulting a woman who refused to have sex with him. "
-    publishedDateTime: 2021-01-23T22:37:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XISNb1bzlHI/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden hopes for 1.5 million COVID vaccinations per day, after 'nothing we can do' comments"
-    excerpt: "President Biden says he’s “quite confident” that in roughly three weeks the nation will “be vaccinating people at the range of a 1 million a day or in excess of that.”"
-    publishedDateTime: 2021-01-25T22:47:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s2jeEaVhlMY/biden-hopes-for-1-5-million-covid-vaccinations-per-day"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hopes-for-1-5-million-covid-vaccinations-per-day.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hopes-for-1-5-million-covid-vaccinations-per-day.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21025793966837.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/nbc-news-photo-edited.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "AOC, Green New Dealers rejoice over Biden’s climate plan: ‘It’s almost as if we helped shape the platform’"
-    excerpt: "Advocates for the Green New Deal have praised the Biden administration for its early moves to address climate change, taking a victory lap after the president signed a slew of sweeping executive orders targeting the environment."
-    publishedDateTime: 2021-01-29T20:59:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xa7e3xBeUSY/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-green-new-dealers-rejoice-over-bidens-climate-plan-its-almost-as-if-we-helped-shape-the-platform.amp"
+  - title: "SNL, liberal comedians 'scared' to criticize Joe Biden, Gov. Cuomo: Adam Carolla"
+    excerpt: "Comedian Adam Carolla said Monday that shows like Saturday Night Live were \"scared\" to attack Democrats like President Biden or New York Gov. Andrew Cuomo for fear of being \"cancelled.\""
+    publishedDateTime: 2021-02-01T19:45:00Z
+    webUrl: "https://www.foxnews.com/media/snl-liberal-comedians-scared-criticize-biden-cuomo-carolla"
+    ampWebUrl: "https://www.foxnews.com/media/snl-liberal-comedians-scared-criticize-biden-cuomo-carolla.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/snl-liberal-comedians-scared-criticize-biden-cuomo-carolla.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 130
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f87b45ab-9b1d-4274-910d-0cd5d365ed79/daf8ef02-3c48-4616-96db-218daa791fed/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden Cabinet nominee hired convicted domestic abuser who punched woman for refusing sex"
-    excerpt: "Boston Mayor Martin Walsh, the nominee to be President Joe Biden's Labor Secretary, briefly hired former Massachusetts state representative Carlos Henriquez to be a special assistant in 2018, despite Henriquez's conviction years earlier for assaulting a woman who refused to have sex with him."
-    publishedDateTime: 2021-01-23T23:00:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ada6c1be-9440-42ee-b17f-599acd5be326/9a23cf2c-fad6-4d80-8cb6-6e200d7b5989/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
