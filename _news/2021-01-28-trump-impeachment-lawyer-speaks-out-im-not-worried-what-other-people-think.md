@@ -144,6 +144,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump denies inciting Capitol riot, says Senate can’t hold impeachment trial"
+    excerpt: "Former President Donald Trump denied Tuesday that he encouraged his supporters to storm the US Capitol last month — and argued that the Senate doesn’t have the authority to hold a"
+    publishedDateTime: 2021-02-02T20:07:00Z
+    webUrl: "https://nypost.com/2021/02/02/trump-denies-inciting-riot-says-there-shouldnt-be-impeachment-trial/"
+    ampWebUrl: "https://nypost.com/2021/02/02/trump-denies-inciting-riot-says-there-shouldnt-be-impeachment-trial/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/02/trump-denies-inciting-riot-says-there-shouldnt-be-impeachment-trial/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/capitol-riot-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "4PwOgufh3nKAl0WAR44/lFnWIU3im8EDomRSanwvJAJWXw6OXOAT1BjrkGe23wIkl6bAU92cFncK1YYwdxwu2+8MIS8gZUE8BT8kfhx+sTRnt89R0WEQ/m4Fiq0Jq96cQ97Bo5Bc5gMYCat2OewW4C+lYlQELf7s8ADBV9hP07/6UQ38Fg+WabB5KWWH/dNpx8vErB036+WddrIkY1b2ynscxFqtue+DBGTjV7fQO3yvtvKMNJy4VwqQewLkB+6iF7+40k+vXdjRTyJXL+5VOPijpZuRW900t9oJVEiDFbcGoWXaW7C4CJhQ0VGZL9yPpgTUTOpDyiUsHMCGOj77QX6cl56HRT5D2yoQDGuc/Qg=;BF7KVNzI5tfB2ZCYOEh8Ow=="
 ---

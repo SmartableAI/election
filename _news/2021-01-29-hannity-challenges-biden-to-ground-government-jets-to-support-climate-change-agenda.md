@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden agriculture secretary nominee wants farmers on front line of climate change fight"
+    excerpt: "Agriculture Secretary nominee Tom Vilsack touted the ability that American farmers have to drive the country's progress when it comes to climate change."
+    publishedDateTime: 2021-02-02T19:19:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EONSuAvpCco/biden-agriculture-secretary-nominee-farmers-climate-change-fight"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-agriculture-secretary-nominee-farmers-climate-change-fight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-agriculture-secretary-nominee-farmers-climate-change-fight.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f57ab36-ea8b-456f-ab70-6835f363cab3/7f5905d3-cc41-4df7-99a6-9399aa75de21/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "As Biden's Keystone XL order sparks job losses, climate adviser says, 'We're not asking for sacrifice'"
     excerpt: "President Biden climate advisor Gina McCarthy said Wednesday that the administration is \"not asking for sacrifice\" with its executive order to shut down construction of the Keystone XL pipeline."
     publishedDateTime: 2021-01-27T18:38:04Z

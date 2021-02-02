@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'Loaded cannon': House Democrats, Trump team file arguments in impeachment trial as Senate weighs witnesses"
+    excerpt: "House Democrats said Trump \"summoned a mob to Washington, exhorted them into a frenzy, and aimed them like a loaded cannon down Pennsylvania Avenue.”"
+    publishedDateTime: 2021-02-02T20:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/02/02/impeachment-trump-calls-trial-unconstitutional-dems-say-he-incited/4352808001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4352808001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4352808001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/02/USAT/7ea05478-e2a3-4607-b557-bae95323bbae-AP_Trump_Impeachment_3.jpg?auto=webp&crop=5075,2855,x0,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
     excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
     publishedDateTime: 2021-02-02T08:26:00Z

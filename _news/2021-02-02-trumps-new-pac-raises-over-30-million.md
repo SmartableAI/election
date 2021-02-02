@@ -479,6 +479,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Pentagon chief purges defense boards; Trump loyalists out"
+    excerpt: "Defense Secretary Lloyd Austin has ordered hundreds of Pentagon advisory board members to resign this month as part of a broad review of the panels, essentially purging several dozen last-minute appoi"
+    publishedDateTime: 2021-02-02T20:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pentagon-chief-purges-defense-boards-trump-loyalists-75639627"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pentagon-chief-purges-defense-boards-trump-loyalists-75639627"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pentagon-chief-purges-defense-boards-trump-loyalists-75639627"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8c3bc39068b44862bfdba539f4bc1bfe_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
     publishedDateTime: 2021-01-30T06:21:00Z
@@ -1135,6 +1151,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
+  - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
+    excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"
+    publishedDateTime: 2021-02-02T20:04:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 52
   - title: "Pro-Trump Lawyer Lin Wood Puts License in Jeopardy by Refusing Mental Health Evaluation"
     excerpt: "L. Lin Wood, a lawyer who played a role in former President Donald Trump's attempts to overturn his election defeat, put his law license in jeopardy on Friday by saying on social media that he would not undergo a mental health evaluation requested by an attorney licensing body."
     publishedDateTime: 2021-01-30T01:40:00Z

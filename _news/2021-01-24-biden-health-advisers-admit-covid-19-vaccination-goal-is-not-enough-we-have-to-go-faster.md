@@ -63,6 +63,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Five Early Unforced Biden Foreign Policy Errors"
+    excerpt: "President Joe Biden was scheduled to deliver his first major speech on foreign policy today. Instead, it was postponed due to inclement weather. Apparently, the two inches of snow that fell on the capital this weekend made travel too risky."
+    publishedDateTime: 2021-02-02T19:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/02/five_early_unforced_biden_foreign_policy_errors_534937.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/533838_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "NXroHE3EfmE1+hUH9nM6KofWusn8IhcFXdVin/2cKIbiKtVHiJ+LbgmM6HWZGYVo2eP72HYXnQdEFp0f+cigY+PFbTKcMNfNXXA7+wcEe6zkhtdA2e8jSqZn02a+cznzPnqfhhgEFDiUMUunqrb1nlAMMN3g+1cztuKX/QdKGo4EsDhlqJkwlgGBFzbxmd9s+onaYHNCKgzi3nMkU+sAbNXpkcnv8fw+p9wnXldTWVfA5CpTUo3pkeKZmFERfS8kd/yBlCOWyBx717CVURir4x5IuvY4KQiGnTPsSd78HKw9a9MplFiluW5ZiD+VrTKrUxQKgIEXnqHjYMJWmg+0LQ6dHZc4rIxQBJO7ueM+Pmc=;HzcKWPW6BxdkIgoHHZe+lQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/news/2021/01/29/fbi-lawyer-trump-russia-p
 webUrl: "https://www.politico.com/news/2021/01/29/fbi-lawyer-trump-russia-probe-email-463750"
 type: article
 quality: 115
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -28,6 +28,40 @@ images:
     width: 1160
     height: 773
     isCached: true
+
+related:
+  - title: "Trump's impeachment lawyers have a history of being involved in controversial legal matters"
+    excerpt: "The new lawyers who signed on to lead former President Donald Trump's impeachment defense team bring a curious history of experience with them as they prepare to defend the former President in his second Senate trial.\n    \n"
+    publishedDateTime: 2021-02-02T19:43:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-EwiEAfhlUs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/david-schoen-bruce-castor-trump-impeachment-lawyers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/david-schoen-bruce-castor-trump-impeachment-lawyers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201170254-david-schoen-bruce-castor-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Live Updates: Impeachment Managers Call Trump ‘Singularly Responsible’ for Riot"
+    excerpt: "The nine House impeachment managers presented their case against former President Donald J. Trump in a filing. Mr. Trump has a noon deadline to outline his defense. President Biden will sign executive orders on immigration."
+    publishedDateTime: 2021-02-02T11:46:00Z
+    webUrl: "https://www.nytimes.com/live/2021/02/02/us/biden-administration"
+    ampWebUrl: "https://www.nytimes.com/live/2021/02/02/us/biden-administration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/02/02/us/biden-administration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/02/us/politics/02new-washington-briefing-promo2/02new-washington-briefing-promo2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "UimiO8KmZb3+Kro5qB3eJKXVm2+u/+nRi0ciOc/cM8CpIzLN9YajWmkqEEe9jQUSr8TYmWZ5/7JMqJQH78iE9XC8W7SYBCJSy7VJpx49fQenkLiAhLUt8E+ZhTXxBEc9kf13GjN/fucyhFiuJeUW8wM+Wx/RQnzfEtWhR5ptRzgioNiUchE0M87XT8+T94Ry8tqvlcqHXxIdh2V4UiOEc95Y6sk0NBC7gmlcIDHv2fO6xYJJC7l2J+HLOZp52XkHga9w9OWTHcLyE53mY3qT4Io4SlUBYGjv2Qre331t+htPb5Eby2Vw04FGGep/Id27MncWg4XsApPAFEQy/JuvOyk9GFH2XK1de0SlfzskbRVBXEIV5LmU1l8Uhy7C6GM093KjodcONScoGJQvUnFLmQvQPKcXQuu0PI3eTXjkwePt5AubDpGA0hWrXd4LYk3sMYX6c8QwrQeTtbqGm758t1X9MsH6Sf8MsZV/j56qZkTdoQ/K85fzbEIWEU4knevaKZwf65eZz9m9fPJi/zIeqQ==;OlpVc/uYETB51bGa8Y67NQ=="
 ---

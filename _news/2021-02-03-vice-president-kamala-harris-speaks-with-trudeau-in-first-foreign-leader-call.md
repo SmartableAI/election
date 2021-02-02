@@ -351,6 +351,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden tells Republican senators to aim for larger Covid relief package – live"
+    excerpt: "Trump legal team files 14-page brief defending his conduct on day of Capitol riot – follow all the latest politics news"
+    publishedDateTime: 2021-02-02T18:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019a9348f08da42e4058d14"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/ab939d5ce6411943e71cf123b6b0a8f561084276/0_51_5646_3388/master/5646.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=521c879d4fd9816b5f6fe73ceac30a73"
+        width: 600
+        height: 360
+        isCached: true
   - title: "VP Kamala Harris' niece Meena Harris on learning 'female ambition is a good thing'"
     excerpt: "Meena Harris spoke with \"The View\" co-host Sunny Hostin on her children's book \"Ambitious Girl\" and how her family serves as a constant inspiration to her work."
     publishedDateTime: 2021-01-28T00:39:00Z
@@ -396,6 +412,22 @@ related:
     quality: 117
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210130&t=2&i=1549634941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0T035"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden said Republican proposal for $600 billion in COVID-19 aid 'way too small': Schumer"
+    excerpt: "U.S. Senate Democratic Leader Chuck Schumer said President Joe Biden told Democrats the proposal ten Senate Republicans have made for $600 billion in COVID-19 relief is \"way too small.\""
+    publishedDateTime: 2021-02-02T19:55:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUSKBN2A22ND"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22ND"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22ND"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550044488&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111HA"
         width: 817
         height: 545
         isCached: true
@@ -929,6 +961,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "lkqBYZ9dv9pQypTDVqArXGST1DjKWmZs4E42gLRTyx0SliJ+9f4YxH7xTI5P4cNqyIKza30YNF/jHS/nFutlHjSYUJDCAY3XzPRYq2ZtP/bHRo50eMFhHrGSwX9zFvlbnb5iR+T//5iavklnQIpuBeigVRMP92+Z+2M9aIcIw7aICxU1UkiuiqWs+51T62PxVh1z7kLSNVf+ZBNLJhcFniP95NCIIZygKOI3aBadcVPu1+HDeul35aCa765ciD2AwuftVyIS+/vRwwNlTmEJB46rBDWlurGZhEjLgjWc/bkzjh7HQuWbhiDG63jqpu3VJWCGGjmOumoPECfoj7Aj7tVf+5Zq74tZoFcrPxHF9zA=;qv4pJQk/pyVQoWa72jwiVw=="
+secured: "4vY86vWKSDIPLavdehFbM9YsUKn/3sd32QBm9wHKhplSzObCGENhDG+WpTcus9jmQF2jTOMJefEqACUItjYBhGiDvsT6AJAGUPI6xMyRQy5UPxT3QJ6usvs07jIu3tPG/4Gt2PMqYr03Shl6orjx5VoWhSmr3jzKBRnrM1dn5zDucnprfTa5rm6madXm8peICQy3AzD61iIo3rEQw7QMMwcP+4UUdnIWr+iBPrYS/uMZLH1DW/iWAkWfKciUQiDFCEXD7uBfiDczY2eQwPPa67AVpcwU2o0vtn00zztyoHtFAdqncYtTnhQXjT7twd3jEu0O4p5VyV0+KUHgT/VJDjwmKNWOVRVx+mDeUlJ9os9U299zlNd645dDMQ2iWJWfNBt4xLDWzvBAH7TaYgYD27wJHVR6zVFTCFq4J3VBF3Fkk69Nm21FfKp6M1LtC7CuPD5BefjoYtQ4/pEzIlier27jqfVyTVsBxvv3YDyuknxadQRzvQyeguQX5WcmMqTDCzfzMQIshf7bzuYycdXLDg==;Djm+dc4dEd/hQFOmJjm++g=="
 ---
 

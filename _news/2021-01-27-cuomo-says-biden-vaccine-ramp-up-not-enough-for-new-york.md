@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/cuomo-biden-vaccine-ramp-up-not-eno
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-biden-vaccine-ramp-up-not-enough-ny.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Five Early Unforced Biden Foreign Policy Errors"
+    excerpt: "President Joe Biden was scheduled to deliver his first major speech on foreign policy today. Instead, it was postponed due to inclement weather. Apparently, the two inches of snow that fell on the capital this weekend made travel too risky."
+    publishedDateTime: 2021-02-02T19:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/02/five_early_unforced_biden_foreign_policy_errors_534937.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/533838_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "aUn7qLemOF8n/8jbqLbsfi7Lz99Kf5TW/q2yRWAU6D7odhD3RvPEOhuW/0jDVE7DTFc865n3AUUAOrA8jyevtCiNfTj/Pn0QzmTAbM/ewgOKQogiiCi55aKiqvpEOz68w1cyVfKuxpdl4ao6E6mcfun0FWa/XHTXIJv8n9pBiH/A6Ld6UT5TwvriE1OWQ6VtQsDHG7eqDAHAMBeo9bm0m8gu6Ceciq5ODl7p6s7bsfdN38r38DGQoO9E7XJpAgJM5Fxqus6+gTgmJ+HDVysjuWHTS5vRKW1RrARjbid2ZSgRlY6lf4rvhZq2o6CAvAAyNyNP3zm/+tGMUI8NmHpnwk4UsQjYbyc+kQ4w2hQoh8Q=;BxueneA9pUJp1GrxB+NcCg=="

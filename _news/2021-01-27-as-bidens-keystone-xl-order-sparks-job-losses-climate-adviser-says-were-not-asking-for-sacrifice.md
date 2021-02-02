@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden agriculture secretary nominee wants farmers on front line of climate change fight"
+    excerpt: "Agriculture Secretary nominee Tom Vilsack touted the ability that American farmers have to drive the country's progress when it comes to climate change."
+    publishedDateTime: 2021-02-02T19:19:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EONSuAvpCco/biden-agriculture-secretary-nominee-farmers-climate-change-fight"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-agriculture-secretary-nominee-farmers-climate-change-fight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-agriculture-secretary-nominee-farmers-climate-change-fight.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f57ab36-ea8b-456f-ab70-6835f363cab3/7f5905d3-cc41-4df7-99a6-9399aa75de21/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hannity challenges Biden to ground government jets to support climate change agenda"
     excerpt: "Joe Biden and members of his administration should practice what they preach about climate change and decline to fly on their environmentally-unfriendly fleet of jets, Sean Hannity suggested Thursday."
     publishedDateTime: 2021-01-29T05:07:00Z

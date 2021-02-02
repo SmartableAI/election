@@ -207,6 +207,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "U.S. impeachment managers argue Trump pointed mob 'like a loaded cannon' toward Capitol"
+    excerpt: "The U.S. House of Representatives Democrats who will prosecute former President Donald Trump's impeachment trial on charges of inciting insurrection will argue that he pointed a mob \"like a loaded cannon\" toward the Capitol before a deadly rampage."
+    publishedDateTime: 2021-02-02T20:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-managers-idUSKBN2A21ZG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A21ZG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A21ZG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550007006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1113Z"
+        width: 811
+        height: 545
+        isCached: true
   - title: "Power Up: And then there were five. Republicans, that is, willing to hold a Trump impeachment trial"
     excerpt: "Mitch McConnell isn't breaking with Trump, after all, as he voted to dismiss the impeachment trial because, 45 Republicans say, it's unconstitutional to convict a former president."
     publishedDateTime: 2021-01-27T16:21:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/david-schoen-what-to-know-about-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://images.wsj.net/im-293464/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump denies inciting Capitol riot, says Senate can’t hold impeachment trial"
+    excerpt: "Former President Donald Trump denied Tuesday that he encouraged his supporters to storm the US Capitol last month — and argued that the Senate doesn’t have the authority to hold a"
+    publishedDateTime: 2021-02-02T20:07:00Z
+    webUrl: "https://nypost.com/2021/02/02/trump-denies-inciting-riot-says-there-shouldnt-be-impeachment-trial/"
+    ampWebUrl: "https://nypost.com/2021/02/02/trump-denies-inciting-riot-says-there-shouldnt-be-impeachment-trial/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/02/trump-denies-inciting-riot-says-there-shouldnt-be-impeachment-trial/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/capitol-riot-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
     excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."

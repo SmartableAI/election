@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "U.S. impeachment managers argue Trump pointed mob 'like a loaded cannon' toward Capitol"
+    excerpt: "The U.S. House of Representatives Democrats who will prosecute former President Donald Trump's impeachment trial on charges of inciting insurrection will argue that he pointed a mob \"like a loaded cannon\" toward the Capitol before a deadly rampage."
+    publishedDateTime: 2021-02-02T20:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-managers-idUSKBN2A21ZG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A21ZG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A21ZG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550007006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1113Z"
+        width: 811
+        height: 545
+        isCached: true
   - title: "As the numbers suggest a Trump acquittal, Senators explore censure and brace for impeachment trial"
     excerpt: "Senate Democrats explored how to make their impeachment case against former President Donald Trump a day after a vote suggested he will be acquitted."
     publishedDateTime: 2021-01-27T22:05:00Z
