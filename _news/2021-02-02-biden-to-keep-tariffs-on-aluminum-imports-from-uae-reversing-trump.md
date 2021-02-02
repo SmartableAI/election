@@ -1,28 +1,34 @@
 ---
 category: news
-title: "US issues domestic terrorism alert early in Biden's term"
-excerpt: "The Department of Homeland Security issued a Wednesday warning of the potential for lingering violence from people motivated by anti-government sentiment after President Joe Biden's election."
-publishedDateTime: 2021-01-27T22:35:00Z
-originalUrl: "https://www.businessinsider.com/us-issues-domestic-terrorism-alert-early-in-bidens-term-2021-1"
-webUrl: "https://www.businessinsider.com/us-issues-domestic-terrorism-alert-early-in-bidens-term-2021-1"
-ampWebUrl: "https://www.businessinsider.com/us-issues-domestic-terrorism-alert-early-in-bidens-term-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-issues-domestic-terrorism-alert-early-in-bidens-term-2021-1?amp"
+title: "Biden to keep tariffs on aluminum imports from UAE, reversing Trump"
+excerpt: "U.S. President Joe Biden will maintain tariffs on aluminum imports from the United Arab Emirates, reversing Donald Trump's move to end the levies on his last day as president, the White House said on Monday."
+publishedDateTime: 2021-02-02T07:02:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trade-aluminum-emirates-idUKKBN2A204N"
+webUrl: "https://www.reuters.com/article/us-usa-trade-aluminum-emirates-idUKKBN2A204N"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A204N"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A204N"
 type: article
-quality: 105
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
+
+images:
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549923755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH11020"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Biden pauses Trump policies as Blinken takes diplomatic helm"
@@ -296,22 +302,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/a9Gx_d2O1BftEwLpHLaq2FkwQK0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AMKH2W6XRVF6PDZKC3AXPHBQTQ.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Biden to keep tariffs on aluminum imports from UAE, reversing Trump"
-    excerpt: "U.S. President Joe Biden will maintain tariffs on aluminum imports from the United Arab Emirates, reversing Donald Trump's move to end the levies on his last day as president, the White House said on Monday."
-    publishedDateTime: 2021-02-02T07:02:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trade-aluminum-emirates-idUKKBN2A204N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A204N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A204N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549923755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH11020"
-        width: 817
-        height: 545
         isCached: true
   - title: "Biden revokes Trump's ban on transgender Americans serving in the military"
     excerpt: "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said."
@@ -1033,6 +1023,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "US issues domestic terrorism alert early in Biden's term"
+    excerpt: "The Department of Homeland Security issued a Wednesday warning of the potential for lingering violence from people motivated by anti-government sentiment after President Joe Biden's election."
+    publishedDateTime: 2021-01-27T22:35:00Z
+    webUrl: "https://www.businessinsider.com/us-issues-domestic-terrorism-alert-early-in-bidens-term-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/us-issues-domestic-terrorism-alert-early-in-bidens-term-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-issues-domestic-terrorism-alert-early-in-bidens-term-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden to meet with GOP lawmakers to discuss virus relief"
     excerpt: "President Joe Biden is set to meet Monday afternoon with a group of 10 Republican senators who have proposed spending about one-third of the $1.9 trillion he is seeking in coronavirus aid, though congressional Democrats are poised to move ahead without Republican support."
     publishedDateTime: 2021-02-01T13:43:00Z
@@ -1274,6 +1275,6 @@ related:
         height: 649
         isCached: true
 
-secured: "4jhxOjx0fRUhWf52hlLLb4+l1ICZWholHgaibjjvBU0SWJrpeVdFznG6hn4O57gcMTayEsXVVt+lGJ9mz74StOhgJC4HCux+TeKrSsUmJNMQimjWwxfGBB2bSfGaNfKCdRhIyotHhrkodZKwskmGWwBnzBQN2zI19P7t39Rj11r4YpC0r8bBCD2MCC0qQQnKE0PY0xkrMtldv0t7jASrXn7L0yEnCPRekWlCUNR2JI4Ok7Eme3mJhXoK9xYQPJ0xGFX5p4QG0aIDcijG+pKZbAzotX9sxDuHAPtxBfz23JwitL/RSaWV9nB1sOe8I5d3jWTV+Czu8oysfV1nypyHEMvEw2TnuY7QP7xEOWjpXzo=;9OMtFBwrieN5lT1olXlyvw=="
+secured: "63cb/gBp9BHLWZm03qQNaUsJdl41ew0MLKxzZVujNmFsGRh2k4SqeujaCRmhcS4arue1mHHQIOlx6Wk08HX5Z1m98D9eJgtMoKgLsBa07222zraEmMKXuzeWccQEPQyuRRH70jQXGpY/X652kCbBwowTT9y9RrrnLDnM4tvpZ/tDg8ReNFV9QBts/8wGcj/Oe6AFln8ORw0von1NM7JHaJ6Q04vaPWB57DbpZHj4Q09k/5xAcE+gQXiO/hzpF/bRJk3rcKo8ri+EVSph2iL7j5VzaeVj8P4LzpR1KIK7UjB81f7Xx9dUcYcYAI9a0LnR2HCXHtWY7vBWkwheyoWe9deabhO+uOKOnCYjlioTU0I=;1oQ/Jkv4tV5K2emmHjwoNA=="
 ---
 

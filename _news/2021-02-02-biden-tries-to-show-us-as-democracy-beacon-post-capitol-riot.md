@@ -1,28 +1,34 @@
 ---
 category: news
-title: "US issues domestic terrorism alert early in Biden's term"
-excerpt: "The Department of Homeland Security issued a Wednesday warning of the potential for lingering violence from people motivated by anti-government sentiment after President Joe Biden's election."
-publishedDateTime: 2021-01-27T22:35:00Z
-originalUrl: "https://www.businessinsider.com/us-issues-domestic-terrorism-alert-early-in-bidens-term-2021-1"
-webUrl: "https://www.businessinsider.com/us-issues-domestic-terrorism-alert-early-in-bidens-term-2021-1"
-ampWebUrl: "https://www.businessinsider.com/us-issues-domestic-terrorism-alert-early-in-bidens-term-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-issues-domestic-terrorism-alert-early-in-bidens-term-2021-1?amp"
+title: "Biden tries to show US as democracy beacon post-Capitol riot"
+excerpt: "President Joe Biden is facing two critical tests of whether the deadly riot at the U.S. Capitol has damaged America’s standing as a beacon for democracy"
+publishedDateTime: 2021-02-02T05:47:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-show-us-democracy-beacon-post-capitol-riot-75626610"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-show-us-democracy-beacon-post-capitol-riot-75626610"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-show-us-democracy-beacon-post-capitol-riot-75626610"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-show-us-democracy-beacon-post-capitol-riot-75626610"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_b53941fd40754e86bd020c377e43a082_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden pauses Trump policies as Blinken takes diplomatic helm"
@@ -793,22 +799,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden tries to show US as democracy beacon post-Capitol riot"
-    excerpt: "President Joe Biden is facing two critical tests of whether the deadly riot at the U.S. Capitol has damaged America’s standing as a beacon for democracy"
-    publishedDateTime: 2021-02-02T05:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-show-us-democracy-beacon-post-capitol-riot-75626610"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-show-us-democracy-beacon-post-capitol-riot-75626610"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-show-us-democracy-beacon-post-capitol-riot-75626610"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b53941fd40754e86bd020c377e43a082_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Texas attorney general files lawsuit to block Biden's deportation freeze"
     excerpt: "The Texas attorney general filed a lawsuit on Friday that seeks to block U.S. President Joe Biden's move to pause certain deportations for 100 days, a controversial opening-move by the Democratic president that has provoked blowback from some Republicans."
     publishedDateTime: 2021-01-22T21:40:00Z
@@ -1033,6 +1023,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "US issues domestic terrorism alert early in Biden's term"
+    excerpt: "The Department of Homeland Security issued a Wednesday warning of the potential for lingering violence from people motivated by anti-government sentiment after President Joe Biden's election."
+    publishedDateTime: 2021-01-27T22:35:00Z
+    webUrl: "https://www.businessinsider.com/us-issues-domestic-terrorism-alert-early-in-bidens-term-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/us-issues-domestic-terrorism-alert-early-in-bidens-term-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-issues-domestic-terrorism-alert-early-in-bidens-term-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden to meet with GOP lawmakers to discuss virus relief"
     excerpt: "President Joe Biden is set to meet Monday afternoon with a group of 10 Republican senators who have proposed spending about one-third of the $1.9 trillion he is seeking in coronavirus aid, though congressional Democrats are poised to move ahead without Republican support."
     publishedDateTime: 2021-02-01T13:43:00Z
@@ -1274,6 +1275,6 @@ related:
         height: 649
         isCached: true
 
-secured: "4jhxOjx0fRUhWf52hlLLb4+l1ICZWholHgaibjjvBU0SWJrpeVdFznG6hn4O57gcMTayEsXVVt+lGJ9mz74StOhgJC4HCux+TeKrSsUmJNMQimjWwxfGBB2bSfGaNfKCdRhIyotHhrkodZKwskmGWwBnzBQN2zI19P7t39Rj11r4YpC0r8bBCD2MCC0qQQnKE0PY0xkrMtldv0t7jASrXn7L0yEnCPRekWlCUNR2JI4Ok7Eme3mJhXoK9xYQPJ0xGFX5p4QG0aIDcijG+pKZbAzotX9sxDuHAPtxBfz23JwitL/RSaWV9nB1sOe8I5d3jWTV+Czu8oysfV1nypyHEMvEw2TnuY7QP7xEOWjpXzo=;9OMtFBwrieN5lT1olXlyvw=="
+secured: "3ErPMyrfXY18lcl/tklCx7nZV+HAu+k4Sykj/v9N81YGM/p/2rwon9bR++79C0moVJOftdI0SnZPJRyvumnLHKuwrs/Wc1Fb3kIoD5IIiRb0x8Cppeyvcssji6aDbazJdckeeN4T9ozJxI3g5qeKUaQHBS6P1+vt0xDDHKHmbeZqIgzgwyAVXre2l0AM0RlKmaqTFFX83E4p4Qr11dLFWYhFpwPTP87ME7YIs6YXx2fd0qgxtzerMvlK0t14/2ClybefFPYgpGo30hu1tsfM1Tx/G4j6gWMYzzXrGgXmFJj7bchgIkz/Og9ecU2vquJ9fE+aIbxEn4Y4UbEe6HIJJhGOKrk4oC6Y94FIOxw9IAg=;MPEDNBFPIfX68h57RDEprw=="
 ---
 

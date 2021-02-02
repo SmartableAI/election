@@ -297,6 +297,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden to keep tariffs on aluminum imports from UAE, reversing Trump"
+    excerpt: "U.S. President Joe Biden will maintain tariffs on aluminum imports from the United Arab Emirates, reversing Donald Trump's move to end the levies on his last day as president, the White House said on Monday."
+    publishedDateTime: 2021-02-02T07:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-aluminum-emirates-idUKKBN2A204N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A204N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A204N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549923755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH11020"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden revokes Trump's ban on transgender Americans serving in the military"
     excerpt: "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said."
     publishedDateTime: 2021-01-25T16:52:00Z
@@ -761,22 +777,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden asks high court to put off wall, asylum cases"
-    excerpt: "The Biden administration has asked the Supreme Court to put off arguments over two controversial Trump administration policies that have been challenged in court now that President Joe Biden has taken"
-    publishedDateTime: 2021-02-02T02:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-asks-high-court-to-put-off-wall-asylum-cases/2021/02/01/8f4e5b5a-64d4-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-asks-high-court-to-put-off-wall-asylum-cases/2021/02/01/8f4e5b5a-64d4-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-asks-high-court-to-put-off-wall-asylum-cases/2021/02/01/8f4e5b5a-64d4-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden to meet Republicans proposing $618 billion virus aid"
     excerpt: "President Joe Biden is set to meet Monday with a group of 10 Republican senators who've proposed $618 billion in coronavirus aid, about a third of what he's seeking"
     publishedDateTime: 2021-02-01T16:12:00Z
@@ -790,6 +790,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Health/WireAP_321a8d9280fb42d7bc5518fdd77a61a5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden tries to show US as democracy beacon post-Capitol riot"
+    excerpt: "President Joe Biden is facing two critical tests of whether the deadly riot at the U.S. Capitol has damaged America’s standing as a beacon for democracy"
+    publishedDateTime: 2021-02-02T05:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-show-us-democracy-beacon-post-capitol-riot-75626610"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-show-us-democracy-beacon-post-capitol-riot-75626610"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-show-us-democracy-beacon-post-capitol-riot-75626610"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b53941fd40754e86bd020c377e43a082_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -1053,6 +1069,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden asks high court to put off wall, asylum cases"
+    excerpt: "The Biden administration has asked the Supreme Court to put off arguments over two controversial Trump administration policies that have been challenged in court now that President Joe Biden has taken steps to unwind them."
+    publishedDateTime: 2021-02-02T06:59:00Z
+    webUrl: "https://www.businessinsider.com/biden-asks-high-court-to-put-off-wall-asylum-cases-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/biden-asks-high-court-to-put-off-wall-asylum-cases-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-asks-high-court-to-put-off-wall-asylum-cases-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Myanmar coup will test Biden's foreign policy wit"
     excerpt: "A military coup in Myanmar is presenting an early foreign policy test for President Joe Biden and his administration threatened new sanctions on the country as it tries to reestablish American primacy as a worldwide pro-democracy leader."
     publishedDateTime: 2021-02-02T02:01:00Z

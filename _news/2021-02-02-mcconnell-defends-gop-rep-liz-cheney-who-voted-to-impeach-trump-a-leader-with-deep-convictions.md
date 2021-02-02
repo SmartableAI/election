@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader.amp"
 type: article
 quality: 161
-heat: 161
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     height: 720
     isCached: true
 
-secured: "ADh4tXuZRt8qrXHRPYY2Z6xlcS7ybZEj84uG05lybl2k+CsjuhzX+f5cOeuhM0RiboBxuGCYXTocMotSt8LRT0SnC5zk2V2xStSBDdywx2+dhzd+y58djhYT3ll2LpVYsR/h+QMvPaOR/1sP47Ygz9bF8tcZ5ZN1E3bb05wjjyWrDSqRIflk5zZIT5Yp9lnkw7XXbDBsxNsuHgDDxF0GmxoUvTXTUwCtk7BSSoJ2B0pJpD+B91IPUdLgX2CE2rpIAAw6vEE09FZg5SMeBy77tZcM6zKSzYjP2EXWawFTWzlvL0Sk92mLC0aGRst9o5KnxgMOv/0j2DRntCeWhZvru38errOYcUdt+jtOCHLDWBQ=;qJDO0pBGNGFd2E2xzRaOxw=="
+related:
+  - title: "Live Updates: McConnell defends Cheney, high profile House Republican who voted to impeach Trump"
+    excerpt: "Cheney has faced calls to resign from her post as House GOP conference chair"
+    publishedDateTime: 2021-02-02T07:01:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BimQqQ_mNJQ/live-updates-trump-impeachment-2-2-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-2-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-2-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6619851-ec2b-4176-8b32-855380346bdc/f8e89365-e72e-4ad7-8c49-021e5b23a020/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "2rRjUEyDwk4zXYbOiP66+AZDp/Ziwlq7PAjzcSp5NuFd9q7b1CdTVeTGKM4tHkt7KkF33QWIS8mqVgMexlf3gAzeV1Mf4lfdq5g3UpfVEUj/Iaqc2flAT+k9EZmAhlfSv26IedYj3Wr6XjZwDZVTUBTyjMmmocEj91GGO5COewT2LjXxU5HKEfvYROKNABqF+zhpGnhKD+AQQnsJFvVK/nMsf9zuaq4i8F38XpMTPWnNRV/3QgFjp2Ceam5jJw57ZTPsF/adDx0+1LyqGncEZHEZ3vjVHQOvkI7ZodxKLe/0qeZxBPui00nlznPvMAdzDzNH4gfO+0re+Z61UbjWkiPXqB6k2XzfArdEwsFaIZY=;+4QV/TQm/AlNU5GLHsiP1w=="
 ---
 

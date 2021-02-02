@@ -1,16 +1,16 @@
 ---
 category: news
-title: "LIVE UPDATES: Press Secretary Jen Psaki briefs reporters ahead of Biden meeting with GOP senators"
-excerpt: "The White House COVID-19 Task Force is scheduled to brief reporters at 11 a.m. ET, ahead of a separate 12:30 p.m. briefing by press secretary Jen Psaki."
-publishedDateTime: 2021-02-01T13:30:21Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_jrkaAkd3oo/live-updates-biden-white-house"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_jrkaAkd3oo/live-updates-biden-white-house"
-ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house.amp"
+title: "Live Updates: Biden meets with Republican senators on coronavirus aid"
+excerpt: "President Joe Biden on Monday night said that he's unwilling to settle on an insufficient coronavirus aid package."
+publishedDateTime: 2021-02-02T07:01:09Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8Pf8Cya2s/live-updates-biden-2-2-2021"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8Pf8Cya2s/live-updates-biden-2-2-2021"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-2-2021.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-2-2021.amp"
 type: article
-quality: 162
-heat: -1
-published: false
+quality: 175
+heat: 255
+published: true
 
 provider:
   name: Fox News
@@ -25,25 +25,25 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0201edad-8043-41e5-8423-450eaf30802e/edfcf99d-f934-47ff-b589-bd6ccd3a8ab1/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ee85791-b1c2-4b3e-9f69-c5782ed6f4dc/031107ab-fd5f-4504-b7b8-bb97e033f264/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
 
 related:
-  - title: "Live Updates: Biden meets with Republican senators on coronavirus aid"
-    excerpt: "President Joe Biden on Monday night said that he's unwilling to settle on an insufficient coronavirus aid package."
-    publishedDateTime: 2021-02-02T07:01:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8Pf8Cya2s/live-updates-biden-2-2-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-2-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-2-2021.amp"
+  - title: "LIVE UPDATES: Press Secretary Jen Psaki briefs reporters ahead of Biden meeting with GOP senators"
+    excerpt: "The White House COVID-19 Task Force is scheduled to brief reporters at 11 a.m. ET, ahead of a separate 12:30 p.m. briefing by press secretary Jen Psaki."
+    publishedDateTime: 2021-02-01T13:30:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_jrkaAkd3oo/live-updates-biden-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ee85791-b1c2-4b3e-9f69-c5782ed6f4dc/031107ab-fd5f-4504-b7b8-bb97e033f264/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0201edad-8043-41e5-8423-450eaf30802e/edfcf99d-f934-47ff-b589-bd6ccd3a8ab1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -96,6 +96,6 @@ related:
         height: 500
         isCached: true
 
-secured: "P4PAZMvGujRsa5xWLGTuiPmbuqVQ31JVBn68eeau2wjyRMQol52sgB2WLfgBk74vFDEboautwG5UQ7YLf8zWAbRcA1C8TCfjk+4U34svx+c4WDbQM6Pj2lmsIClEfCVdIRKhMVXCnZ1QwX5lQNAiF+mlPpL2qmwz9s7Cu79Tu6FoNnXRJWaleMtVpUGrbVCeHCgY+nZ0vssaM+mwc29CtooW+lKxdZRzsLucB5/ctbOPBwiD3jvZrJ7rIW4g6sDiGZofl7U54NfJsVcWQDY08uCrx3eGHGZ0BRa7GTlVkkJh71VPzLARBFhieIjuMcBnjIQ4LgE96fSsMu7FimpOGI0KYrCiSTaggI9jaWnG48k=;lKqHGnUcmAdZLsb30abzCA=="
+secured: "PknLQ7XtvW+1quYX+WRSefsMvV/v0G/WTnTNs3dfnHQ3NBbfHSBJ3xBPrLyIiGjw1uqRrFQLrSwg8IYC+HELWzhL/blkszEaSPSkucCrmQ6C8+prkO65Es4WPVXmpAdvzLWdvPg64+zztBJYAWYm4FL9HKa8wtbbHEiLn+hGH9qKhhBz8wz/2rU554TS9Y3LDekSJz9zCEJa2iRWkPCWrazRn+MMXJlEacwA6x/MeLm3br9l0hFSWhvke9qJzB5lCJgD1DS/fNrI2zP4596dAPLglQ7wrZ5gl101eZlU+mCtF84M0c7jX79/w+GHb5ikwikIa+h4EvcWkO1WovQoWLG+fojnlU6DcfuI+GaU4HA=;jJKdfxeMktMNgn8Fspfmxg=="
 ---
 
