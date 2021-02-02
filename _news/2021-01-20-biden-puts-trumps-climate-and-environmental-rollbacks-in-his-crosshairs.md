@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden freeze hits two Trump drug price rules"
+    excerpt: "A freeze by the new Biden administration on Trump-era regulations will hit at least two rules aimed at lowering drug prices, including one dealing with insulin and EpiPens for under-served patients.\n    \n"
+    publishedDateTime: 2021-02-01T23:32:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XfQYoAq56Js/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/biden-trump-drug-prices/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/biden-trump-drug-prices/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190103095059-20190103-drug-prices-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Divisive policies and actions from Trump-era that Biden could decide to alter"
     excerpt: "President Joe Biden assumed the office intent on healing a deeply fractured country and reversing former President Donald Trump's divisive legacy.\n    \n"
     publishedDateTime: 2021-01-21T05:50:05Z

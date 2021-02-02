@@ -144,6 +144,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden meets with 10 GOP senators to discuss Covid relief at White House"
+    excerpt: "President Joe Biden met with Republican senators to discuss Covid-19 relief. NBC News’ Carol Lee explains what the GOP senators are asking for in the next proposed package."
+    publishedDateTime: 2021-02-02T00:12:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-meets-with-10-gop-senators-to-discuss-covid-relief-at-white-house-100364869998"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100364869998"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100364869998"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/ott_now_biden_meeting_210201_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "xCh3dBmvlmlgpzkGmFXqptOCtThg6ZmpZUqZvnMH1HAC4cp/WcjUeohBVxpsTudk+UaaitYi5OQToF85S4wERWheJca6dQagZvjduiXLjVzZcRhJO2QT9mJ/mJwp/XkFPyUHE6+XY2M/psVdQ/kLtsAJVP52+i1b5C/KKyjc1/3PYxcujZFmr2g+0w9vRFXo5qHX/HmCKgWDL2QIXy3KGbDmsm590FtU9zs0bxKJk2ugODFm0qiL8rFyDiOwuJLFM9QAlzdD1PHv42jSVB2WDqQBOJYW14PmYz+rbv4uQ+9avBVLSXc2NsUOQk0fgbOlj3nkOIGiT4ljfbh+bgReWPqJwlCDQcD878eP0072lxs=;P6SFYNCTaNdN0Z5uF1pIUA=="
 ---

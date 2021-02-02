@@ -597,6 +597,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Judge Denies Release of Jailed Cowboys for Trump Leader"
+    excerpt: "A federal magistrate judge in Washington says Cowboys for Trump leader Couy Griffin should be jailed without bail on a charge involving the Jan. 6 siege of the U.S. Capitol."
+    publishedDateTime: 2021-02-02T00:33:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-02-01/judge-denies-release-of-jailed-cowboys-for-trump-leader"
+    ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-02-01/judge-denies-release-of-jailed-cowboys-for-trump-leader?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2021-02-01/judge-denies-release-of-jailed-cowboys-for-trump-leader?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "dNfs9kzhU/3qWj1KcN+cXNhB/dnxqa6qH6XGwMwHMO09cMnqFjOvr8kMeRh5QjV7WajZUiR3JNfx55em57Eywz5K8MFIRFQY7lCZIixlOc1W9bj048cgaxbKaUarC3eKOZfmSFusNs0c1d1ZWonMzg89QGJlXUNldxRq+P+XBwSaWcaMv6Q9PvTiSXYsdYDY8n6qVtz/kDxukd6nvkZkZG8Yni3rC3nq2O3EOVR7UX3vDDThi3v5fp0+OUE4iYziImuu8j84zhg+uV6MjhnDFyDhs1QEYHpWvZkvrzZr0ojnUjhodiVotaqrn/XLyZa7UhXGG0rxtUBNqtMDfunG19vmKJotFVJQI0uspdLBXKhs2M+Ypgwof+SLu3Kmz6W++yEKP8vocymIxtqccXkAcUE0Z2x7/x4QvOMa8MJCiFWF34Q2EUt1NuX80XFtHZBpGH0bqMrD9ifMjMF7RVzjXIAfVqxvZwrG/s6Z39mzeJxpisNqHCekc4dULIC2dLf9VKGXf/T0lXgZD8JqxARwuw==;3eyd4zBHRWuE70OpznUPmA=="
 ---

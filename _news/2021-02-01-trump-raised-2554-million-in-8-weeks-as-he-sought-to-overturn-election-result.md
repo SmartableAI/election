@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-fundrais
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-fundraising-20210131-h5cksn4i3zhdleefoux4ddyk5q-story.html?outputType=amp"
 type: article
 quality: 136
-heat: 736
+heat: 756
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548877639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N093"
         width: 817
         height: 545
+        isCached: true
+  - title: "Atlanta U.S. attorney, appointed by Trump amid post-election pressure campaign, resigns"
+    excerpt: "The federal prosecutor tapped by President Donald Trump to lead the Atlanta U.S. attorney’s office during Trump’s failed bid to overturn the election has resigned from that post, a spokesman confirmed Monday."
+    publishedDateTime: 2021-02-01T23:07:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/atlanta-us-attorney-bobby-christine-trump-byung-pak/2021/02/01/a94a9cd6-64a6-11eb-8c64-9595888caa15_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/atlanta-us-attorney-bobby-christine-trump-byung-pak/2021/02/01/a94a9cd6-64a6-11eb-8c64-9595888caa15_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/atlanta-us-attorney-bobby-christine-trump-byung-pak/2021/02/01/a94a9cd6-64a6-11eb-8c64-9595888caa15_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 132
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CHRMS6DEWQI6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 878
+        height: 702
         isCached: true
   - title: "City council seeks input on bill condemning Trump for riot"
     excerpt: "A city council in Maryland is seeking public input on a resolution that condemns former President Donald Trump for the violent siege of the U.S. Capitol"

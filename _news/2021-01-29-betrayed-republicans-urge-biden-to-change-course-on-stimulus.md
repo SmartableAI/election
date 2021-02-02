@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden meets with 10 GOP senators to discuss Covid relief at White House"
+    excerpt: "President Joe Biden met with Republican senators to discuss Covid-19 relief. NBC News’ Carol Lee explains what the GOP senators are asking for in the next proposed package."
+    publishedDateTime: 2021-02-02T00:12:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-meets-with-10-gop-senators-to-discuss-covid-relief-at-white-house-100364869998"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100364869998"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100364869998"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/ott_now_biden_meeting_210201_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Covid live updates: Biden raises Covid vaccine goal, UK passes 100,000 deaths"
     excerpt: "President Biden increased his Covid vaccine goal to 1.5 million shots administered a day, deemed more likely due to states ramping up vaccine distribution."
     publishedDateTime: 2021-01-26T20:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_04/3446095/210129-joe-biden-al-1130_8b7ef0f8dd606f328e7395d942f22111.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden agrees to meeting with GOP senators on Covid relief"
+    excerpt: "President Joe Biden has agreed to hear out a group of Republicans senators who made a last-ditch effort Sunday to engage him on the next coronavirus relief package. After 10 Republican senators requested a meeting with Biden to begin bipartisan negotiations on the next coronavirus relief bill,"
+    publishedDateTime: 2021-02-01T23:10:00Z
+    webUrl: "https://www.politico.com/news/2021/01/31/biden-senate-republicans-covid-relief-464057"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/cdd8a132-6dba-45bb-9822-db9993331ff7/798ca165-cd76-4bbe-b29d-1fcf57355621/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
 
 secured: "OzjodE44NdbqsyhSUUyJcIZ8AWN5VfszH57c1HVbWBj4XOttuA8d40gRYvfltZc++hq/Nvw3SnacvMQ/j3t5uKwrR0T46H30mfobDTcuZ7aiTEF/OzzTTbP028VoRGMQktUliBNYQHKyvJ2iejQ7Ue269JFGH4JTkmrHFL635pX26j3usmbKV7lx03bXZwRQOjvwZh1d3auVA516HCRjkwMG7hNpr8eT3SgYZM3csFu0k+1kRPguJSRq/U4+gJ2/WG2MjEwZZYyU/fOtSnGvpWjK39QfAH+vw0E+nktbVkuV1VDh3lznPfPB5L3jBQraxASCFMUV7I5gkJwGBUTykcXMv6Y5eATXK65gDhoXaw4=;lGFff7dSr9AvoXNOQKnfWA=="

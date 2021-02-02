@@ -349,6 +349,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden statement on Myanmar is directed to all countries in the region, White House says"
+    excerpt: "White House press secretary Jen Psaki said on Monday that a statement by President Joe Biden about the military coup in Myanmar is directed at all countries in the region, when asked if it was directed at China."
+    publishedDateTime: 2021-02-01T23:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-myanmar-whitehouse-idUSKBN2A138J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A138J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A138J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549876614&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101VQ"
+        width: 811
+        height: 545
+        isCached: true
   - title: "Legislators, Online Petition Put Pressure on Biden to Support Recurring Stimulus Checks"
     excerpt: "Kamala Harris supported recurring payments, and restaurant owner Stephanie Bodin, a creator of a Change.org petition, called for people to maintain pressure on legislators."
     publishedDateTime: 2021-02-01T16:41:00Z

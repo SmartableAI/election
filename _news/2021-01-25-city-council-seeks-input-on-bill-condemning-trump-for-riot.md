@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Atlanta U.S. attorney, appointed by Trump amid post-election pressure campaign, resigns"
+    excerpt: "The federal prosecutor tapped by President Donald Trump to lead the Atlanta U.S. attorney’s office during Trump’s failed bid to overturn the election has resigned from that post, a spokesman confirmed Monday."
+    publishedDateTime: 2021-02-01T23:07:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/atlanta-us-attorney-bobby-christine-trump-byung-pak/2021/02/01/a94a9cd6-64a6-11eb-8c64-9595888caa15_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/atlanta-us-attorney-bobby-christine-trump-byung-pak/2021/02/01/a94a9cd6-64a6-11eb-8c64-9595888caa15_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/atlanta-us-attorney-bobby-christine-trump-byung-pak/2021/02/01/a94a9cd6-64a6-11eb-8c64-9595888caa15_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 132
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CHRMS6DEWQI6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 878
+        height: 702
+        isCached: true
   - title: "U.S. Senate blocks constitutional challenge to Trump impeachment trial"
     excerpt: "The U.S. Senate voted 55-45 on Tuesday to block a Republican effort to upend plans for former President Donald Trump's impeachment trial on a charge that he incited the deadly Jan. 6 assault on the U."
     publishedDateTime: 2021-01-27T02:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/matt-gaetz-wyoming-visit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/matt-gaetz-wyoming-visit-liz-cheney/index.html"
 type: article
 quality: 169
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128141317-gop-impeachment-vote-house-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Liz Cheney gets boost from McConnell amid divisive intraparty battle over Trump's impeachment"
+    excerpt: "Rep. Liz Cheney, under fire from former President Donald Trump and his staunchest defenders, is picking up support from some influential Republicans as her allies close ranks and resist the effort to oust her from the third-ranking spot in House GOP leadership.\n    \n"
+    publishedDateTime: 2021-02-02T00:47:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m0ZkBUWu5fo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/liz-cheney-mitch-mcconnell/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/liz-cheney-mitch-mcconnell/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201183429-cheney-mcconnell-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

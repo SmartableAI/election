@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Liz Cheney gets boost from McConnell amid divisive intraparty battle over Trump's impeachment"
+    excerpt: "Rep. Liz Cheney, under fire from former President Donald Trump and his staunchest defenders, is picking up support from some influential Republicans as her allies close ranks and resist the effort to oust her from the third-ranking spot in House GOP leadership.\n    \n"
+    publishedDateTime: 2021-02-02T00:47:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m0ZkBUWu5fo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/liz-cheney-mitch-mcconnell/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/liz-cheney-mitch-mcconnell/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201183429-cheney-mcconnell-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "8E+AfQXuF248cgJ6wM6oUKgdcHgIVv/B+dPCLkXWu5aZ0pDZvwgEhRq+eUUU1dwPZUyEalrf34HF2LkVmjCO3yBu5BrZ9JvhFvPFCyBSJlANKu1Q7Gmm6FXnCtth0w/MM10tevhqxTvQRKfYsusPpXo7rJBb/B9zrAuXFNqCEllUc/BUpMHumRNhS47nWTvsCACVjYAVpzSC1AN441eJsI7e3HidBpz8hDR6ji7DBsYEnB32FVte3Sk7nOXoCPPKMCL88J5ePHkYg0S4Ieuf/ksZS2xhsBsd2nldS0DAV59FsZKWMEosV4HeB/N7MBXFRu6WnDE1+1louhEJY2qyXPox69PGSdAFStXjEyeBDU0=;ecjAbQsoHJAJx+ogCpF7TQ=="
 ---

@@ -193,6 +193,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden freeze hits two Trump drug price rules"
+    excerpt: "A freeze by the new Biden administration on Trump-era regulations will hit at least two rules aimed at lowering drug prices, including one dealing with insulin and EpiPens for under-served patients.\n    \n"
+    publishedDateTime: 2021-02-01T23:32:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XfQYoAq56Js/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/biden-trump-drug-prices/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/biden-trump-drug-prices/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190103095059-20190103-drug-prices-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden puts Trump's climate and environmental rollbacks in his crosshairs"
     excerpt: "Among incoming President Joe Biden's Day One priorities: Begin rolling back climate and environmental policies of the Trump administration, many of which were rollbacks of Obama-era or earlier rules.\n    \n"
     publishedDateTime: 2021-01-20T10:07:12Z

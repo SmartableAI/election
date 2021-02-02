@@ -174,6 +174,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden agrees to meeting with GOP senators on Covid relief"
+    excerpt: "President Joe Biden has agreed to hear out a group of Republicans senators who made a last-ditch effort Sunday to engage him on the next coronavirus relief package. After 10 Republican senators requested a meeting with Biden to begin bipartisan negotiations on the next coronavirus relief bill,"
+    publishedDateTime: 2021-02-01T23:10:00Z
+    webUrl: "https://www.politico.com/news/2021/01/31/biden-senate-republicans-covid-relief-464057"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/cdd8a132-6dba-45bb-9822-db9993331ff7/798ca165-cd76-4bbe-b29d-1fcf57355621/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
 
 secured: "+S+v7i2ha+WM4KgjJse8N8EvYvwH0jxeMOYq27GC/4Nbx5MyAd9Ymyc8HlFcagvxBoNaCeuNlUfVRScqJL3HYY+RTmvoaNvibhFdeZiU1ySnhrbeVYFPJ/K030ydyqrGqXu4Eqf5ZC0vefTqYDBPPuDz4HWsOoR5cmDmz1YlR+VEtCCLHlgsdsWDmapBHH17F0ZTHooaaW1IwBRZtso7sYWRHDj8lsYdajQ2vafT07RencuAtqwloDHjs94GjW8h1FV46DOUIqClj72zKLyVKL+zobiGtQG7J5unrLWDTLWmpnc51sRKU+vVTQiqsF1ltci89WYKQ3gfBXXZEF/tBMxRBoGlOJ+QHUIAth0cLV0OIbH397/mCsnfLLBVSfvuJFXddO3O0aMND8oVNJvjA0+LTET2uLOdIMg5Gm0MS8D2RnVBqKeV00ImCUDh4lDD3Kqnzln0vCIBf13vUaTdlABmtRiNU20pDLoBz66MmDDvBQi7eryMAvEmp8T/pz3fddHiOe7kaNLCOV9JymbfNA==;YZU71HumYqNuV07RsTzzEg=="
 ---
