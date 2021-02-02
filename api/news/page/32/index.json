@@ -2,6 +2,115 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-12-17-un-security-council-to-talk-western-sahara-after-trump-policy-switch.md",
+      "title": "U.N. Security Council to talk Western Sahara after Trump policy switch",
+      "excerpt": "The U.N. Security Council is planning to discuss Western Sahara on Monday, diplomats said, after U.S. President Donald Trump recognized Morocco's sovereignty over the disputed region in return for the kingdom normalizing ties with Israel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/israel-usa-morocco-un-idUSKBN28R0D1",
+      "originalUrl": "https://www.reuters.com/article/israel-usa-morocco-un-idUSKBN28R0D1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544840693&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG08H",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28R0D1",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R0D1",
+      "publishedDateTime": "2020-12-17T01:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-cybersecurity-official-fired-by-trump-says-us-election-was-secure.md",
+      "title": "Cybersecurity Official Fired by Trump Says U.S. Election Was Secure",
+      "excerpt": "Christopher Krebs told a Senate panel that allegations that voting equipment was manipulated during the election are baseless, and that spreading them undermines confidence in democracy and the election outcome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802?mod=lead_feature_below_a_pos1",
+      "originalUrl": "https://www.wsj.com/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802?mod=lead_feature_below_a_pos1",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-274231/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802",
+      "publishedDateTime": "2020-12-16T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-trump-administration-blocks-funding-for-california-brings-doj-suit-over-abortion-issues.md",
       "title": "Trump administration blocks funding for California, brings DOJ suit over abortion issues",
       "excerpt": "The Trump administration announced two key actions Wednesday designed to protect entities that sought to avoid supporting abortion.",
@@ -1214,119 +1323,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-biden-poised-to-nominate-granholm-to-lead-department-of-energy.md",
-      "title": "Biden poised to nominate Granholm to lead Department of Energy",
-      "excerpt": "President-elect Joe Biden is poised to tap former Michigan Gov. Jennifer Granholm to lead the Department of Energy, two people familiar with the matter say, inviting a longtime adviser who played a critical role in his debate preparations over the years to join his Cabinet.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Fe7bPzbPRU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Fe7bPzbPRU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160728203436-jennifer-granholm-0728-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-energy-secretary/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/jennifer-granholm-biden-energy-secretary/index.html",
-      "publishedDateTime": "2020-12-15T15:33:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-rep-ayanna-pressley-tells-gavin-newsom-to-appoint-a-black-woman-to-vp-elect-kamala-harris-senate-seat.md",
-      "title": "Rep. Ayanna Pressley tells Gavin Newsom to appoint a Black woman to VP-elect Kamala Harris' Senate seat",
-      "excerpt": "\"We absolutely cannot go backwards,\" Pressley tweeted Tuesday. \"With the election of @KamalaHarris to VP-elect, @CAgovernor must prioritize this leadership, perspective & representation in the vacated U.S. Senate seat & appoint a Black woman.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0GxkkNp08Q/ayanna-pressley-newsom-black-woman-harris-senate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0GxkkNp08Q/ayanna-pressley-newsom-black-woman-harris-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Karen-Bass-FOX.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ayanna-pressley-newsom-black-woman-harris-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ayanna-pressley-newsom-black-woman-harris-senate.amp",
-      "publishedDateTime": "2020-12-15T13:46:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

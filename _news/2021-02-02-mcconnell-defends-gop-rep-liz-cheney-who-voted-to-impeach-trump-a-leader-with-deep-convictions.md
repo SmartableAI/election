@@ -2,13 +2,13 @@
 category: news
 title: "McConnell defends GOP Rep. Liz Cheney, who voted to impeach Trump: 'A leader with deep convictions'"
 excerpt: "Cheney has faced calls to resign from her post as House GOP conference chair since she and nine other Republicans crossed party lines to impeach Trump."
-publishedDateTime: 2021-02-02T01:38:09Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y64bazQFJ_U/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y64bazQFJ_U/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader"
+publishedDateTime: 2021-02-02T01:43:00Z
+originalUrl: "https://www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader"
+webUrl: "https://www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader"
 ampWebUrl: "https://www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader.amp"
 type: article
-quality: 161
+quality: 121
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -48,6 +49,6 @@ related:
         height: 720
         isCached: true
 
-secured: "2rRjUEyDwk4zXYbOiP66+AZDp/Ziwlq7PAjzcSp5NuFd9q7b1CdTVeTGKM4tHkt7KkF33QWIS8mqVgMexlf3gAzeV1Mf4lfdq5g3UpfVEUj/Iaqc2flAT+k9EZmAhlfSv26IedYj3Wr6XjZwDZVTUBTyjMmmocEj91GGO5COewT2LjXxU5HKEfvYROKNABqF+zhpGnhKD+AQQnsJFvVK/nMsf9zuaq4i8F38XpMTPWnNRV/3QgFjp2Ceam5jJw57ZTPsF/adDx0+1LyqGncEZHEZ3vjVHQOvkI7ZodxKLe/0qeZxBPui00nlznPvMAdzDzNH4gfO+0re+Z61UbjWkiPXqB6k2XzfArdEwsFaIZY=;+4QV/TQm/AlNU5GLHsiP1w=="
+secured: "OCwKlJQB/ps1JtIirUEAQTIcrHd8MjQyA+EBDVKgLshdcIKy4EqXULYrOKicB9VAS2TrCb3OIGATSVF2ti5DQVFb52I2UvYTVKXZektwttFjmFMTrxf935Ptm83U9v8kvxDmoEW3+GfdMX8w5O9dJbCVwgTImOnqNw0duobJtePMvNCBO2/ckwr2IW2F8g4jqlzApOoeSjNb59jVkQBpoe2TwghcyR2Yk2TyY7QblJ2TMMd9dI7Ll1qPrHCL7NbbAZhuZ+HAZ/dwB3A5DcvfPazLAIwILw4cs1ynO/CGVHp0QiQCIY00p7NJiO/vRpVvO12mwv3DpOvrac8BZnax7s5wOEia2fsBIgMxNyL/tHw=;6vcERuc2iAlQhQwoH7JaqQ=="
 ---
 

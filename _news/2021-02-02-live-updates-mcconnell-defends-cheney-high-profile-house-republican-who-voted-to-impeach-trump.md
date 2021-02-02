@@ -33,15 +33,15 @@ images:
 related:
   - title: "McConnell defends GOP Rep. Liz Cheney, who voted to impeach Trump: 'A leader with deep convictions'"
     excerpt: "Cheney has faced calls to resign from her post as House GOP conference chair since she and nine other Republicans crossed party lines to impeach Trump."
-    publishedDateTime: 2021-02-02T01:38:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y64bazQFJ_U/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader"
+    publishedDateTime: 2021-02-02T01:43:00Z
+    webUrl: "https://www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader"
     ampWebUrl: "https://www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 121
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c82de6-c14d-4137-89d3-071d65d22423/e9007209-f228-4dbe-a90e-c50c3ef80488/1280x720/match/image.jpg"
         width: 1280

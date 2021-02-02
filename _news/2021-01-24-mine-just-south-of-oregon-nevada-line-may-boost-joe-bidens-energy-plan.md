@@ -171,6 +171,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Pressure builds on Manchin to back Biden relief bill"
+    excerpt: "Sen. Joe Manchin (D-W.Va.) is under mounting pressure from fellow Democrats to back a large COVID-19 relief package along the lines of President Biden’s $1.9 trillion proposal."
+    publishedDateTime: 2021-02-02T11:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/536867-pressure-builds-on-manchin-to-back-biden-relief-bill"
+    ampWebUrl: "https://thehill.com/homenews/senate/536867-pressure-builds-on-manchin-to-back-biden-relief-bill?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536867-pressure-builds-on-manchin-to-back-biden-relief-bill?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/manchinjoe_121520gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe Biden to Sign 3 Executive Orders on Climate Change—Here's What They Do"
     excerpt: "The actions are the president's latest moves in an effort to address campaign promises and appease his supporters."
     publishedDateTime: 2021-01-27T16:49:00Z

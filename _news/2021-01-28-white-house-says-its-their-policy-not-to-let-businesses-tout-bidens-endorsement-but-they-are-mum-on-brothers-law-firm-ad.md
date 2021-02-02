@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: This is job one for Biden in the climate debate"
+    excerpt: "President Joe Biden's push to accelerate the nation's transition toward electric vehicles offers him a game-changing opportunity to jolt the climate change debate -- if he can quell simmering tension between two key elements of the Democratic coalition.\n    \n"
+    publishedDateTime: 2021-02-02T05:12:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QVmWBRSMbiQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/biden-climate-change-electric-cars/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/biden-climate-change-electric-cars/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201153156-01-electric-car-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden will sign executive order to reopen Affordable Care Act enrollment"
     excerpt: "President Joe Biden will reopen enrollment on the federal Affordable Care Act exchanges on Thursday as part of a series of executive actions related to health care, taking a step to help uninsured Americans that his predecessor rejected.\n    \n"
     publishedDateTime: 2021-01-28T12:36:12Z

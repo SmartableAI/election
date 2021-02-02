@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/poor-handling-of-virus-cost-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/poor-handling-of-virus-cost-trump-his-reelection-campaign-autopsy-finds/2021/02/01/92d60002-650b-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
 type: article
 quality: 139
-heat: 1539
+heat: 1579
 published: true
 
 provider:
@@ -446,6 +446,38 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549747601&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U0HB"
         width: 817
         height: 545
+        isCached: true
+  - title: "Explainer: Is Trump's post-presidency impeachment trial constitutional?"
+    excerpt: "The upcoming second impeachment trial of former President Donald Trump, focusing on a charge of inciting the deadly Jan. 6 storming of the U.S. Capitol by his followers, has prompted a debate over whether the proceeding is constitutional."
+    publishedDateTime: 2021-02-02T11:36:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-constitution-ex-idUKKBN2A21A6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A21A6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A21A6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549977743&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH110PD"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump's new PAC raises over $30 million"
+    excerpt: "The cash he raised gives him a considerable war chest to continue to wield political influence after his presidency."
+    publishedDateTime: 2021-02-02T12:23:00Z
+    webUrl: "https://www.cbsnews.com/news/save-america-trump-pac-raises-30-million/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/save-america-trump-pac-raises-30-million/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/save-america-trump-pac-raises-30-million/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/1c8a6869-94f8-4aa4-aa3c-a69731f06061/thumbnail/1200x630/debf002839d015dbcc29c90d1d36a8c2/gettyimages-1287973454.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
@@ -1083,6 +1115,6 @@ related:
       domain: usnews.com
     quality: 47
 
-secured: "2VGSJToQv4E4B67nBzelIMIIsJHD/DYge7oQCioDM0nrBiq0T2RTdcYtqjV4aj4YO7UQuW+SotgQ1DPZlTOyPe+eoD0RWmHUq8vVqGezQbY4IxI/0oyZ4LJSTKqUEGQ57WTxbYjoDjV1PQoywPv9YzgmHt75O2D3MK/HC+KcXwHRdQ5el58pkFCX3uqGx7rUToGnbsQMURNIknx6B+K2Tm6aRtPTAvebVT7jUCLzAPAqtoySDf35XKOJPCJv5ElaPGEM8n+MuJTdmYI40FPim8AIc1ayfC1cu9pETG8EI+qc3nIz3TA85Zvoz2/AK9EKusjN5VBkcA3l+AOXAmwb/z0mpbkVMg4UXL9NL1g/u6o=;jhHSwd2fVy77VuQipRpoNQ=="
+secured: "EoBp9ngIDZKaJi/+WK3SwzBOUtBAiXo4Gj1eHOMfgn2CeuHPp6UU0cySbJy/i8dDhg/ERuWzlb7iN98lUQ3bdtSAvOPDr/QAsMpLOEFaq49b6/7R1cZfNSzgcBO+LnyVP/l4PPokkYxSptk/Q9QywcILNn8B20jW6RG++g25pAfxafqnW/97SxkLEZxm+b6KDha8p92OUjAmjHmEGb4PI5uZRRgBVSoav66IF8IkV+4liV6lFVxvF7hHLlPST7TlOjy66avHUtg3tjRPwR4x4/0KF5cbdIOnf7v/wc90REkK023p92RRd0OMSkXhXkRy7oY/ZDACArfrwfAjjZA1HPIT38NysZ4LmvaAn8v2zXUdLJ7J3incOIigCa780Eu1CAqr8e1vnSaM3IoZ+XbzAqrteIj42dTw8INPdB6L1406ah+58Kz3bo8a1aGDvumEONiWeCFPMeKabQsctw0KNJdk4aoYrZ1CDwYUcBp3f21UZItzNg2yypXlrntGGa/LyO6HtO2gyC1mQ16JoKcywA==;RAm/R3NVg0sh1LaQmclX+w=="
 ---
 

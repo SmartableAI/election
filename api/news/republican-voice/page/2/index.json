@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-29-biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.md",
+      "title": "Biden reportedly warned family about business dealings before election: 'For Christ’s sake, watch yourself’",
+      "excerpt": "President Biden, before the presidential election, reportedly told his family to \"watch yourself\" about their business dealings, Politico reported, as their various financial entanglements came under scrutiny.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ssYWolxvQ3U/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ssYWolxvQ3U/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.amp",
+      "publishedDateTime": "2021-01-29T08:28:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-barrasso-says-biden-climate-orders-are-a-de-facto-fracking-ban.md",
       "title": "Barrasso says Biden climate orders are a 'de facto fracking ban'",
       "excerpt": "Some fracking advocates believe Biden’s new executive orders aimed at curbing oil and gas drilling effectively break his promise not to ban fracking.",
@@ -1594,62 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-chicago-teachers-in-person.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chicago-teachers-in-person.amp",
       "publishedDateTime": "2021-01-25T18:59:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-rep-crenshaw-on-biden-lifting-transgender-military-ban-people-should-serve-openly.md",
-      "title": "Rep. Crenshaw on Biden lifting transgender military ban: 'People should serve openly'",
-      "excerpt": "Any American willing and able to serve in the military should be permitted to do so, Rep. Dan Crenshaw, R-Texas, said Monday after President Biden lifted a Trump-era restriction on transgender people serving their country.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UID97HYZ14M/crenshaw-biden-lifting-transgender-military-ban-people-openly",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UID97HYZ14M/crenshaw-biden-lifting-transgender-military-ban-people-openly",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09e2e85d-64be-4720-b526-4f9770f182f3/b20f13fd-b028-4a9c-8828-e1bdc345f55a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/crenshaw-biden-lifting-transgender-military-ban-people-openly.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-biden-lifting-transgender-military-ban-people-openly.amp",
-      "publishedDateTime": "2021-01-25T15:21:29-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

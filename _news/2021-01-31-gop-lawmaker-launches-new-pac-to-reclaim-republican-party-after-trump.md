@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://static.politico.com/2a/75/8fde41744d21b97d1a1c918237f4/ap21020485913788-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump lawyers exit after he pushed them to cite baseless voter fraud claims"
+    excerpt: "Lawyers David Schoen and Bruce Castor will lead the legal team that will handle Trump's second impeachment trial in the Senate."
+    publishedDateTime: 2021-02-02T11:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-announces-legal-team-senate-impeachment-trial-n1256307"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256307"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256307"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_04/3446461/210131-donald-trump-jm-1610_d5e10ae466c11ed81e14aee79bb6f7f3.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Virginia Republicans' search for a standard-bearer is a key test of post-Trump GOP in upcoming governor's race"
     excerpt: "As Republicans search for a path forward following Donald Trump's defeat and the party's loss of power in Washington, many are looking across the Potomac River to Virginia, where voters will select a new governor this November."

@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-02-biden-wants-to-kill-80-of-americas-energy.md",
+      "title": "Biden Wants to Kill 80% of America's Energy",
+      "excerpt": "When giving speeches and talking to audiences, I've often been struck by how few Americans, even those who are highly educated, have any idea where the",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.html",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/53/534003_5_.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.amp.html",
+      "publishedDateTime": "2021-02-02T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-live-updates-biden-meets-with-republican-senators-on-coronavirus-aid.md",
       "title": "Live Updates: Biden meets with Republican senators on coronavirus aid",
       "excerpt": "President Joe Biden on Monday night said that he's unwilling to settle on an insufficient coronavirus aid package.",
@@ -14,7 +62,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -519,7 +567,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1604,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-executive-orders-hawley-governing-executive-fiat.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-hawley-governing-executive-fiat.amp",
       "publishedDateTime": "2021-01-29T08:29:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.md",
-      "title": "Biden reportedly warned family about business dealings before election: 'For Christ’s sake, watch yourself’",
-      "excerpt": "President Biden, before the presidential election, reportedly told his family to \"watch yourself\" about their business dealings, Politico reported, as their various financial entanglements came under scrutiny.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ssYWolxvQ3U/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ssYWolxvQ3U/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.amp",
-      "publishedDateTime": "2021-01-29T08:28:30-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

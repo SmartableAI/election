@@ -128,6 +128,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump, House Democrats to Lay Out Impeachment Trial Strategies"
+    excerpt: "Under rules sketched out for the trial, the parties must answer whether Donald Trump can be tried in the Senate for acts committed when he was president, and how they respond to the charge of incitement of insurrection."
+    publishedDateTime: 2021-02-02T11:54:00Z
+    webUrl: "https://www.wsj.com/articles/trump-house-democrats-to-lay-out-impeachment-trial-strategies-11612270484"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-house-democrats-to-lay-out-impeachment-trial-strategies-11612270484"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-house-democrats-to-lay-out-impeachment-trial-strategies-11612270484"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-293464/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "4PwOgufh3nKAl0WAR44/lFnWIU3im8EDomRSanwvJAJWXw6OXOAT1BjrkGe23wIkl6bAU92cFncK1YYwdxwu2+8MIS8gZUE8BT8kfhx+sTRnt89R0WEQ/m4Fiq0Jq96cQ97Bo5Bc5gMYCat2OewW4C+lYlQELf7s8ADBV9hP07/6UQ38Fg+WabB5KWWH/dNpx8vErB036+WddrIkY1b2ynscxFqtue+DBGTjV7fQO3yvtvKMNJy4VwqQewLkB+6iF7+40k+vXdjRTyJXL+5VOPijpZuRW900t9oJVEiDFbcGoWXaW7C4CJhQ0VGZL9yPpgTUTOpDyiUsHMCGOj77QX6cl56HRT5D2yoQDGuc/Qg=;BF7KVNzI5tfB2ZCYOEh8Ow=="
 ---

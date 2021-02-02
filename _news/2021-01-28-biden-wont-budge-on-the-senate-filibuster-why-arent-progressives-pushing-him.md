@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/27/us/politics/biden-filibuster.amp.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/27/us/politics/biden-filibuster.amp.html"
 type: article
 quality: 130
-heat: 150
+heat: 130
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1050
     height: 550
     isCached: true
-
-related:
-  - title: "Biden takes first step toward bolstering Obamacare"
-    excerpt: "The new administration will reopen enrollment and begin reversing Trump changes to the law that Democrats derided as sabotage."
-    publishedDateTime: 2021-01-28T12:06:00Z
-    webUrl: "https://www.politico.com/news/2021/01/28/joe-biden-bolstering-obamacare-health-care-463287"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/15/c2/d5f9730b432f942176edae4edd9b/ap21027703939092-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "zf8bgI2RcNnh3gyx+BRDorXNvhyYY/AJu4943VunYqusdyQq9KVcIX86OX7T+/biyoT2sQja7hJ9M6o/LxTJgwjd/t3MVU4aOAOVDG/+frPA4XsvB/S1JTKWHh4sbD2NvFgqnx9GqzauvkC+M7D6cq1PC2QBsEvBkUcJpwYTRl8SGNfBNC7CNJfU+hJaEaG+Qj0jb4DLd7Rb9JZq0p6YtWepJrmbDReXkVEoo4AGN+AYuk4TpAyX/gPBsiMCfjLouh9cYbjg42Lj7ku43oHIUDKm5TahFdeYqBhNWDvR1OsgYJn1t4PDOjm3wetSZ/yaaVqh0T38/NtvG669oXt3rYu1BoZ5nfTF9U8MLzRQuhSTjfyI0Ph+wng+x5hAwmdbvzOafNHpGuBbYoEfidgvYjmQCUCQuSruYHE67Spt4keNOlCHtFQ6KwQrxXMNIq/Lz5dQfSynyceBj4Ybsg52cM12BQ3yF/BKFkwLTdfdf4nwZG/UJz198xh7v4zKWJfsZe9QIaE+U+2vmYQgP9tbtg==;gWPNe6QPBphPuO9Atwoi2A=="
 ---

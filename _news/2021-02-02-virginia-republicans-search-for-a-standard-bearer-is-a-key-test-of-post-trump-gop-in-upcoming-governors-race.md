@@ -144,6 +144,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump lawyers exit after he pushed them to cite baseless voter fraud claims"
+    excerpt: "Lawyers David Schoen and Bruce Castor will lead the legal team that will handle Trump's second impeachment trial in the Senate."
+    publishedDateTime: 2021-02-02T11:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-announces-legal-team-senate-impeachment-trial-n1256307"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256307"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256307"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_04/3446461/210131-donald-trump-jm-1610_d5e10ae466c11ed81e14aee79bb6f7f3.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "bcEdwbDRhK1crRporwqSVRZtTzDuk7Rckje5xW/M4Mw2ASTVIS3p8N+tj2cppXI0FUnHX1Q15GJ3jtsUoq5ZZJYdlD2ad61mK5AH5EeGWq6QyN/OyovVaSvGOne7a8f/elG8oCdr44Sh0xLlD6SNmRciznJPkf7Wh4HRq/Ff+IKqIa+WyP3Fmk0KU+U/2g48whHlD6ISDPP8GrcZy1Hxkn0PwN+xxqwPSrt/fhN8bjEEkvIgoPJCBMGec91t5fJK9QCHNzFDa5IyteMtGBTqbsMe5mkc9VgLmNdayb2bHvEhxhBNEFpRIFVuvy59IK1/UlMAozbDj7JPq67xPRyPxWcsGwnNXgKTGjyonledjpe2pnz1ze2bYpcLUCgy8REHZQvdyY0825uOPVtGe/T0vGYe+eZlm1zxUg2cz3r9Z1vtDf8we9HFyTs6lnvpop/zFCZIJRnw8wn/TYafmfQzGq9SUW8jKLz1iTLXF2EaAMroCt4ICm9vY+xoyv4GFyH7oXZwafGJs3nTMsgfGdRz5Q==;/sFKkoaNK5BhxY5/eXbK8g=="
 ---

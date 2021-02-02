@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/david-schoen-what-to-know-about-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Bruce-Castor.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump, House Democrats to Lay Out Impeachment Trial Strategies"
+    excerpt: "Under rules sketched out for the trial, the parties must answer whether Donald Trump can be tried in the Senate for acts committed when he was president, and how they respond to the charge of incitement of insurrection."
+    publishedDateTime: 2021-02-02T11:54:00Z
+    webUrl: "https://www.wsj.com/articles/trump-house-democrats-to-lay-out-impeachment-trial-strategies-11612270484"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-house-democrats-to-lay-out-impeachment-trial-strategies-11612270484"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-house-democrats-to-lay-out-impeachment-trial-strategies-11612270484"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-293464/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
     excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."

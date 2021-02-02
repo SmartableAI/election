@@ -127,6 +127,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump lawyers exit after he pushed them to cite baseless voter fraud claims"
+    excerpt: "Lawyers David Schoen and Bruce Castor will lead the legal team that will handle Trump's second impeachment trial in the Senate."
+    publishedDateTime: 2021-02-02T11:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-announces-legal-team-senate-impeachment-trial-n1256307"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256307"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256307"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_04/3446461/210131-donald-trump-jm-1610_d5e10ae466c11ed81e14aee79bb6f7f3.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Virginia Republicans' search for a standard-bearer is a key test of post-Trump GOP in upcoming governor's race"
     excerpt: "As Republicans search for a path forward following Donald Trump's defeat and the party's loss of power in Washington, many are looking across the Potomac River to Virginia, where voters will select a new governor this November."
     publishedDateTime: 2021-02-01T18:21:00Z
