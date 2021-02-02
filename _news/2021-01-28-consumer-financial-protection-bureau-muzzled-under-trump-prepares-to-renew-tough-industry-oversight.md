@@ -335,6 +335,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump campaign's post-election legal spending topped $7M, with Kasowitz in the lead"
+    excerpt: "The Trump campaign paid law firms and other legal providers more than $7 million from Nov. 4 through the end of last year, a Reuters analysis of Federal Election Commission records shows."
+    publishedDateTime: 2021-02-02T02:01:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-trump-spend-idUSL1N2K8025"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K8025"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K8025"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
   - title: "Republicans face uncertain future in post-Trump era"
     excerpt: "The third highest-ranking Republican in the House, Congresswoman Liz Cheney of Wyoming, is facing backlash following her support for impeaching former President Donald Trump. CBS News Capitol Hill producer Rebecca Kaplan joins \"CBSN AM\" to discuss the divisions within the GOP."
     publishedDateTime: 2021-01-25T14:23:00Z

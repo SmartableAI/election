@@ -255,6 +255,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden faces 'unity' test in meeting with GOP senators on COVID relief"
+    excerpt: "With a group of 10 Republican senators officially offering a counterproposal to President Joe Biden's COVID-19 relief bill, the president on Monday was set to face a real test of his campaign promise to work across the aisle and bring unity back to a politically fractured Washington."
+    publishedDateTime: 2021-02-02T01:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-faces-unity-test-meeting-republican-senators-covid/story?id=75611029"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-faces-unity-test-meeting-republican-senators-covid/story?id=75611029"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-faces-unity-test-meeting-republican-senators-covid/story?id=75611029"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-gop-covid-negotiations-oval-office-reut_hpMain_20210201-180830_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
     excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."
     publishedDateTime: 2021-02-01T20:31:00Z
@@ -381,6 +397,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210130&t=2&i=1549634941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0T035"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden says he won't settle for COVID-19 aid package that 'fails to meet the moment': White House"
+    excerpt: "U.S. President Joe Biden told a group of Republican senators on Monday he hoped his proposed $1.9 trillion COVID-19 relief package could pass with bipartisan support in the U.S. Congress, but he \"will not settle for a package that fails to meet the moment,"
+    publishedDateTime: 2021-02-02T01:53:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/biden-says-he-wont-settle-for-covid-19-aid-package-that-fails-to-meet-the-moment-white-house-idUSKBN2A204D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A204D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A204D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 112
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549921674&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1101W"
+        width: 824
         height: 545
         isCached: true
   - title: "Politics live updates: Biden to outline racial equity agenda; senators to be sworn in for impeachment trial"

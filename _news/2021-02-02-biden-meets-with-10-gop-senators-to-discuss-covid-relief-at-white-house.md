@@ -160,7 +160,23 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Biden meets with GOP senators in 'frank' discussion about slimmed-down Covid relief"
+    excerpt: "Ten Republican senators wrote a letter Sunday requesting a meeting with President Joe Biden to discuss a slimmed-down coronavirus relief plan that they say can win bipartisan support. The Republicans propose a relief package that is much smaller than Biden's $1."
+    publishedDateTime: 2021-02-02T01:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/gop-senators-pitch-biden-slimmed-down-covid-relief-bill-n1256298"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256298"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256298"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_05/3446705/210201-murkowski-collins-romney-ew-508p_45ffff7c1409f362b3de31a953dd7399.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
-secured: "Jrjgddnwr8+BJDb2Ud4ATGgxXs1/j9n6BoIUBjmrQqxQ/TQZsOm6WNhrp4IyYHvIZX9ZBH2hmOZyQs+ULv8vcrmNsTP/bx2uKGK6E5aJPJxvpmvWWVvKtOp5xsbDSILM3q/pJfTuvX0SxLyqdJz5Xkjvw6MTDM2cxlpB+faL8np22z67N5+mGhdGmnzTVAoejcrRHI1GQGrxt9ZX9Y7BH2Y01kPc44adE+XkYrwweeFQRpdw99PZYvHK8ZOQ8bkZABrYKmVgHxAs8g2JDQ8FxOgLMUNNz4ItSlQWR95uUimc1o1lhsxKbmnb+4ewDa9ce9mwPyRCirXG+T7yPJzRy9nwS1TMlUNaWnkGDjEqYMk=;eFZp+1rg/gqosBF5NpDXzA=="
+secured: "E8lPDL02ywtUE9SPWlyig0xFynk+wYS6++33dqNAmn/Cvr4s8eOe5iasTMqujKFjChmXVM4O7QDyDYNA5cIt7Ymdq96m0mTlh3a8t78hwkQeZZ8GxvKoI7XeuWcdEjLl75u9LUvgC65TOqI2DSfUKAiZMjrHH1OAzpYj9HLVm2WLAz/C0ASY2vzp1TNJBzhwFl+5z/C9P0xALR1/1cM0Z45sb645OQd+i8yEdOUMkgBiOwgDf54psn2KXEUcXNGlCmlD0a0BYzEQdjJokbI6iRAXFsYmSE425tTpwX8s/zzd+TVWGvCU5tIh+qugjRULJCXxe/QB7VVvpVOpQ9FF8pknllMg93zsWSnmI1CWXkCgwkJAPTpQ6eSihXKa9uPC5RgET4uyctey+XSQQYa4IRtgQrTqAr/b6Vc+lyEMfxAfv/1Nfv43pZYgSKwaA9ygJPo+MBlgsvAo9wO45af/fKFjLB+SmmES0+rr8idK1EaJN0NmL8LjFCUJMd8dKsniRvrWQXpi+YtXOwEPhfISIg==;KtvbZnQ2Il6oiyiLClI78g=="
 ---
 

@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-30-nancy-sinatra-will-never-forgive-trump-supporters-ever-singer-says.md",
+      "title": "Nancy Sinatra will 'never forgive' Trump supporters 'ever,' singer says",
+      "excerpt": "\"Somethin' Stupid\" singer and daughter of Frank Sinatra, Nancy Sinatra, said she'll \"never forgive\" supporters of former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/nancy-sinatra-never-forgive-trump-supporters",
+      "originalUrl": "https://www.foxnews.com/entertainment/nancy-sinatra-never-forgive-trump-supporters",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Nancy-Sinatra.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/nancy-sinatra-never-forgive-trump-supporters.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/nancy-sinatra-never-forgive-trump-supporters.amp",
+      "publishedDateTime": "2021-01-29T18:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-federal-appeals-court-allows-us-border-officials-to-swiftly-return-unaccompanied-migrant-children-under-trump-era-policy.md",
       "title": "Federal appeals court allows US border officials to swiftly return unaccompanied migrant children under Trump-era policy",
       "excerpt": "A federal appeals court ruled Friday that the federal government can quickly return unaccompanied migrant children apprehended at the US-Mexico border under a public health order put in place under former President Donald Trump.\n    \n",
@@ -1269,62 +1326,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp",
       "publishedDateTime": "2021-01-28T13:40:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.md",
-      "title": "Trump meets with McCarthy in Florida to plan GOP House takeover in 2022",
-      "excerpt": "House GOP Leader Kevin McCarthy met with former President Trump at Mar-a-lago Thursday where the two agreed to work together on Republicans taking back the House in 2022.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fwi9dUj2ICg/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fwi9dUj2ICg/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Mccarthy.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.amp",
-      "publishedDateTime": "2021-01-28T13:35:33-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

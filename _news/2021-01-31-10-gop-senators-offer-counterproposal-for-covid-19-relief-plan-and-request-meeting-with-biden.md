@@ -159,6 +159,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Biden meets with GOP senators in 'frank' discussion about slimmed-down Covid relief"
+    excerpt: "Ten Republican senators wrote a letter Sunday requesting a meeting with President Joe Biden to discuss a slimmed-down coronavirus relief plan that they say can win bipartisan support. The Republicans propose a relief package that is much smaller than Biden's $1."
+    publishedDateTime: 2021-02-02T01:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/gop-senators-pitch-biden-slimmed-down-covid-relief-bill-n1256298"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256298"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256298"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_05/3446705/210201-murkowski-collins-romney-ew-508p_45ffff7c1409f362b3de31a953dd7399.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "IlpqR5+UmeHhmOGG2HS2afP7WhlL/IMA5vShTqO+1PnGxFmnBwZYiskR3BjglyXhTjSh0JUhTCudeu6aFGlEi4JSahZwMH9kJ0Fnc3GMhu7lwujEX9I4kSFXNOzmmz7vpTKM5GyUBiJQgAhOkXLFyKvQuUS5v6aptA60WwSMMJfjvmve+nBIy6+dTKy4V5Yd4Bh73pzvoQtq2Per9OT3fkNWEYAzx6m78aTE62yB+xqT20/NwB6DWkNydshzp6dNNAx9aA0oxL2oRq/6xEfi3E4em7dNqcChTEjEK9R1HcMo7uKKdDNOzi0tZY57qTYchdoFX1beYbVdMJVBbXwcS5vvDBwhbApAB9iTN+NUihg=;CPhVz7rDCga7ufq1tSZCdQ=="
 ---

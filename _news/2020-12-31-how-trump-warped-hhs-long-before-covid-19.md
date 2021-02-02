@@ -2058,6 +2058,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "He used to win elections in a Never-Trump stronghold. Now he’s leading Trump’s legal team."
+    excerpt: "Pennsylvania’s political world is buzzing about the lawyer who will defend the former president in his second impeachment trial."
+    publishedDateTime: 2021-02-02T02:21:00Z
+    webUrl: "https://www.politico.com/news/2021/02/01/bruce-castor-trump-lawyer-464706"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/01/bruce-castor-trump-lawyer-464706"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/01/bruce-castor-trump-lawyer-464706"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 140
+    images:
+      - url: "https://static.politico.com/7c/96/3016cfae4868aa2403419f14d1a9/ap123809220465-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "After Trump's drubbing in the courts, liberals fear a legal hangover"
     excerpt: "The president and his allies have lost suit after suit seeking to overturn the election. But the victories could ultimately prove costly for the left."
     publishedDateTime: 2021-01-01T09:36:00Z

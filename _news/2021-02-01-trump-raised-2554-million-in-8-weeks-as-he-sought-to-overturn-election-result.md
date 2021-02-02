@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-fundrais
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-fundraising-20210131-h5cksn4i3zhdleefoux4ddyk5q-story.html?outputType=amp"
 type: article
 quality: 136
-heat: 756
+heat: 776
 published: true
 
 provider:
@@ -319,6 +319,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump campaign's post-election legal spending topped $7M, with Kasowitz in the lead"
+    excerpt: "The Trump campaign paid law firms and other legal providers more than $7 million from Nov. 4 through the end of last year, a Reuters analysis of Federal Election Commission records shows."
+    publishedDateTime: 2021-02-02T02:01:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-trump-spend-idUSL1N2K8025"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K8025"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K8025"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
   - title: "Consumer Financial Protection Bureau, muzzled under Trump, prepares to renew tough industry oversight"
     excerpt: "After taking a largely hands-off approach in the Trump era, the consumer watchdog hatched by Elizabeth Warren is expected to resume issuing tough penalties and rules."
     publishedDateTime: 2021-01-27T18:10:00Z

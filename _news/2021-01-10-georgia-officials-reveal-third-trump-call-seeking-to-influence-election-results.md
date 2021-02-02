@@ -2042,6 +2042,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "He used to win elections in a Never-Trump stronghold. Now he’s leading Trump’s legal team."
+    excerpt: "Pennsylvania’s political world is buzzing about the lawyer who will defend the former president in his second impeachment trial."
+    publishedDateTime: 2021-02-02T02:21:00Z
+    webUrl: "https://www.politico.com/news/2021/02/01/bruce-castor-trump-lawyer-464706"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/01/bruce-castor-trump-lawyer-464706"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/01/bruce-castor-trump-lawyer-464706"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 140
+    images:
+      - url: "https://static.politico.com/7c/96/3016cfae4868aa2403419f14d1a9/ap123809220465-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "How Trump warped HHS long before Covid-19"
     excerpt: "President Donald Trump arrives in the press briefing room with members of the White House Coronavirus Task Force on April 4, 2020 in Washington, DC. | Sarah Silbiger/ They called it the \"End of Science and Medicine\" party — a hastily organized,"
     publishedDateTime: 2020-12-31T09:36:00Z

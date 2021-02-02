@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_03/3443283/210120-covid-live-blog-social-only_82ae6975c21296c679fd88016020de7f.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Biden meets with GOP senators in 'frank' discussion about slimmed-down Covid relief"
+    excerpt: "Ten Republican senators wrote a letter Sunday requesting a meeting with President Joe Biden to discuss a slimmed-down coronavirus relief plan that they say can win bipartisan support. The Republicans propose a relief package that is much smaller than Biden's $1."
+    publishedDateTime: 2021-02-02T01:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/gop-senators-pitch-biden-slimmed-down-covid-relief-bill-n1256298"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256298"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256298"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_05/3446705/210201-murkowski-collins-romney-ew-508p_45ffff7c1409f362b3de31a953dd7399.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "OYHy3s59Ew50PnEdj/XcmM+qKqUlmpTNsKF2GPm0tgMIpzF/2N4ui0gQIyKckakyDj1vpko9AWBzzxFh2YGDR2Z5THLM3HaLSdwTx95q5W6X7vAhupTT1zuYUWGc3MNlKWdi57yXuJuq5Z6nun1CXjZC7/qCg3TST4qLemys0ccrx+Lxrncrwot5wq10cfg6gN4/qPkLVtsjuKlm3b8FyyGO0vbcP6q3UMBA2+6vykYWkK+VMPD75ra7/UAS3HSMCofivSXRZ3WOjwn75IfTRLH1DxQf4cP3ZR+nQNK8rrPDPFiWZAaxVWRBBDLPyznqcFXulJ4wXg17sr2xG9Dnu8n9MmKikeVF3uxmZaSc+T0=;nvYM0AVini9q37fodbRrKQ=="
