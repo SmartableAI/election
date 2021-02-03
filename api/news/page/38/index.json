@@ -2,6 +2,280 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-12-09-ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda.md",
+      "title": "AP sources: Biden picks Fudge for housing, Vilsack for USDA",
+      "excerpt": "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_a247689e42154871b07009bde790748f_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948",
+      "publishedDateTime": "2020-12-09T04:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-trump-lawyer-rudy-giuliani-receiving-same-covid-drugs-as-president.md",
+      "title": "Trump lawyer Rudy Giuliani receiving same Covid drugs as president",
+      "excerpt": "President Donald Trump's personal lawyer, Rudy Giuliani, has revealed in a call to his own radio show that he is being treated for coronavirus with the same drug cocktail his boss received when he was ill with Covid-19. He was admitted to hospital on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-55243581",
+      "originalUrl": "https://www.bbc.com/news/world-55243581",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13426/production/_115968887_tv064232199.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-55243581",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-55243581",
+      "publishedDateTime": "2020-12-09T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump.md",
+      "title": "Media praise Xavier Becerra, a partisan warrior who constantly sued Trump",
+      "excerpt": "Joe Biden’s pick to run the federal health department is getting a whole lot of good press, coupled with harsh criticism from media conservatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump",
+      "originalUrl": "https://www.foxnews.com/media/media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4141fb1a-8423-4197-a5b3-d6bd9d9302d8/7d4a4b70-89a2-4ed2-917c-cf5ba31cac9b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T00:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-biden-picks-marcia-fudge-for-hud-and-tom-vilsack-for-agriculture-secretary.md",
+      "title": "Biden Picks Marcia Fudge for HUD and Tom Vilsack for Agriculture Secretary",
+      "excerpt": "Ms. Fudge, a House member from Ohio, would be the second African-American Biden cabinet member chosen in two days. Mr. Vilsack would reprise his role from the Obama administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/08/us/politics/08dc-bidenhud1/08dc-bidenhud1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.amp.html",
+      "publishedDateTime": "2020-12-08T18:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-08-trump-attorney-refuses-to-confirm-covid-19-diagnosis-says-shes-received-death-threats.md",
+      "title": "Trump attorney refuses to confirm COVID-19 diagnosis, says she’s received death threats",
+      "excerpt": "Attorney on the Trump campaign’s legal team, Jenna Ellis, refused to confirm for Fox News whether or not she has in fact tested positive for the coronavirus as other outlets reported Tuesday, but said she has received death threats since the news broke.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9RvLUg4Yd0s/ellis-refuses-to-confirm-covid-diagnosis-but-says-shes-received-death-threats",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9RvLUg4Yd0s/ellis-refuses-to-confirm-covid-diagnosis-but-says-shes-received-death-threats",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ellis-refuses-to-confirm-covid-diagnosis-but-says-shes-received-death-threats.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ellis-refuses-to-confirm-covid-diagnosis-but-says-shes-received-death-threats.amp",
+      "publishedDateTime": "2020-12-08T15:49:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-biden-expected-to-name-marcia-fudge-as-hud-secretary-but-she-comes-with-a-controversial-past.md",
       "title": "Biden expected to name Marcia Fudge as HUD secretary, but she comes with a controversial past",
       "excerpt": "Fudge has served in the House for Ohio’s 11th Congressional District since 2008.",
@@ -1083,280 +1357,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-gordon-chang-warns-china-is-going-to-push-a-president-biden-around-and-us-must-push-back.md",
-      "title": "Gordon Chang warns China is 'going to push a President Biden around' and US must 'push back'",
-      "excerpt": "President-elect Joe Biden will be little match for the \"incredible arrogance\" of the Chinese government, China expert Gordon Chang warned on \"Tucker Carlson Tonight.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous",
-      "originalUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a52d8dc-304a-4ed1-8df0-2bc52a1f20c6/ed9014db-e768-4d7f-805d-1b28de78b272/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous.amp",
-      "publishedDateTime": "2020-12-07T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win.md",
-      "title": "Georgia governor recertifies presidential electors after recount requested by Trump affirms Biden win",
-      "excerpt": "Georgia governor recertifies presidential electors after recount requested by Trump affirms Biden win. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-governor-recertifies-presidential-electors-after-recount-requested-by-trump-affirms-biden-win/2020/12/07/0b921d0e-38fd-11eb-aad9-8959227280c4_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-07T18:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-every-day-was-like-a-veep-episode-the-veepiest-moments-of-the-trump-era.md",
-      "title": "‘Every Day Was Like a “Veep” Episode’: The Veepiest Moments of the Trump Era",
-      "excerpt": "They’re either taking from our show or doing their own version of it,” says the HBO show's executive producer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/magazine/2020/12/06/trump-veep-moments-435749",
-      "originalUrl": "https://www.politico.com/news/magazine/2020/12/06/trump-veep-moments-435749",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/ec/6f/237e902145f2a29daadcadc18d7c/veep-illo.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-this-ship-has-sailed-judges-reject-2-more-cases-from-pro-trump-lawyer-sidney-powell.md",
-      "title": "'This ship has sailed': Judges reject 2 more cases from pro-Trump lawyer Sidney Powell",
-      "excerpt": "Attorney Sidney Powell saw swift defeat in two cases Monday morning, with judges in Michigan and Georgia dismissing her efforts to overturn the 2020 presidential contest.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/ship-sailed-courts-reject-cases-pro-trump-lawyer/story?id=74585342",
-      "originalUrl": "https://abcnews.go.com/Politics/ship-sailed-courts-reject-cases-pro-trump-lawyer/story?id=74585342",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/sidney-powell-01-ap-iwb-201207_1607362601991_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/ship-sailed-courts-reject-cases-pro-trump-lawyer/story?id=74585342",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/ship-sailed-courts-reject-cases-pro-trump-lawyer/story?id=74585342",
-      "publishedDateTime": "2020-12-07T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-democrat-joe-manchin-opposed-biden-surgeon-general-pick-under-obama.md",
-      "title": "Democrat Joe Manchin opposed Biden surgeon general pick under Obama",
-      "excerpt": "At the time, the West Virginia Democrat questioned whether Dr. Vivek Murthy could separate his political beliefs from his public health views.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FI2JXhtkRsU/democrat-manchin-opposed-biden-surgeon-general-pick-obama",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FI2JXhtkRsU/democrat-manchin-opposed-biden-surgeon-general-pick-obama",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebbffdc8-b293-431a-8469-af03d8321f1e/95999e35-9a82-4907-be13-19f63604e35a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democrat-manchin-opposed-biden-surgeon-general-pick-obama.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrat-manchin-opposed-biden-surgeon-general-pick-obama.amp",
-      "publishedDateTime": "2020-12-07T12:51:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

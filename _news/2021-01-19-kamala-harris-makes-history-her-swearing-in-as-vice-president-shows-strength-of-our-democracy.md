@@ -43,81 +43,19 @@ related:
         width: 992
         height: 559
         isCached: true
-  - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
-    excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
-    publishedDateTime: 2020-12-30T13:58:00Z
-    webUrl: "https://www.khou.com/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
-    ampWebUrl: "https://www.khou.com/amp/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
+  - title: "NJ boutique owners hope for a boost from Jill Biden's blues and Kamala Harris' pearls"
+    excerpt: "It's been a long 10 months for fashionistas during the pandemic. So the bold colors and styles at last week's inauguration were cause for celebration."
+    publishedDateTime: 2021-01-26T15:26:00Z
+    webUrl: "https://www.northjersey.com/story/news/2021/01/25/nj-boutiques-hope-boost-biden-harris-inauguration-fashions/6673515002/"
+    ampWebUrl: "https://amp.northjersey.com/amp/6673515002"
+    cdnAmpWebUrl: "https://amp-northjersey-com.cdn.ampproject.org/c/s/amp.northjersey.com/amp/6673515002"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 102
+      name: NorthJersey.com
+      domain: northjersey.com
+    quality: 83
     images:
-      - url: "https://media.khou.com/assets/WXIA/images/538ffc43-e730-4b70-933e-ec6bde3a4846/538ffc43-e730-4b70-933e-ec6bde3a4846_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "CompTIA Congratulates President Joe Biden and Vice President Kamala Harris, Supports Administration’s Tech Workforce Goals"
-    excerpt: "CompTIA, the nonprofit association for the information technology (IT) industry, today released this statement by its President and CEO, Todd Thibodeaux, on the inauguration of President Joe Biden and Vice President Kamala Harris."
-    publishedDateTime: 2021-01-22T16:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/joe-biden-technology-business-labor-economy-technology-issues-a4c973a859cc44952470114a77939c71"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 94
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
-    excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
-    publishedDateTime: 2020-12-30T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 88
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/Biden_31600.jpg-5db22_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Willie Brown: How Kamala Harris can be the face of the Biden administration"
-    excerpt: "Make no mistake, President Biden is the star of the new administration. But it was our own Kamala Harris in her new role as the multiracial, multicultural, Democratic female power ideal who stole the show on Inauguration Day."
-    publishedDateTime: 2021-01-23T12:00:00Z
-    webUrl: "https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
-    ampWebUrl: "https://www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 88
-    images:
-      - url: "https://s.hdnux.com/photos/01/16/20/70/20516384/16/rawImage.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
-  - title: "'Tears in our eyes.' Local leaders react as Joe Biden and Kamala Harris take the oath."
-    excerpt: "At least on Wednesday, many Republicans and Democrats in the Cincinnati region ceased bickering and congratulated Biden."
-    publishedDateTime: 2021-01-20T20:36:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2021/01/20/biden-inauguration-heres-how-local-leaders-viewed-inaugural-speech/4218249001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/4218249001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4218249001"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 82
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/NWKL/165ec70c-805f-4fae-9c56-6d70c4d425e7-biden.png?auto=webp&crop=1019,574,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/22/PNJM/353a055b-28ab-4770-a323-fcc01cda77f6-tiffany.jpg?auto=webp&crop=827,466,x0,y141&format=pjpg&width=1200"
         width: 1200
         height: 676
         isCached: true
@@ -168,6 +106,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/ceddbdfa-77f9-4462-a868-179faa78cbcf-AP_Election_2020.jpg?auto=webp&crop=4500,2531,x0,y228&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Debate on Vice President Kamala Harris’s Vogue Cover"
+    excerpt: "Vogue announced Vice President Kamala Harris as its February 2021 Cover Star, leading to intense backlash on social media over how the Vice President was styled."
+    publishedDateTime: 2021-01-26T03:00:00Z
+    webUrl: "https://www.thecrimson.com/article/2021/1/26/vice-president-kamala-harris-vogue/"
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 55
+    images:
+      - url: "https://s3.amazonaws.com/media.thecrimson.com/photos/2021/01/25/212618_1347909.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "mOVpsOOcUgrwKYzKdMELMykRQJvpvyBLTHOHFzYHP5o2hT16ET9QFvb0b5Tf68mAuStJWwYakOJn3CHLdzyPF8P2DUHUrp00I7lLqK1Re00/rBG6AR4NLAkOv2fXq3tKlMziJoWbuGIGWCqveq4Zow9Tv/kTA6F4Gd1z7Rew1uQYnsyJhJ4SaOmFoB30P0tD2iF/IxFN5CPALkHRSLtTSKkWe9PJUWeKagRP5MSW91CYnc8f0Ovz8QOXq+7KTYUM6/ClKxL8+RCqkVRTGdP7Pt/2GAjpvfGS12DicdgjMotNQvHebLy9QxVUgQs3d+jVj8hIYNkgi9woxoEoHGdByETe0WpxnFZpM2d0IVMFb24=;lIVcP1WhiDAUwknCp2IlUQ=="

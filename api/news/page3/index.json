@@ -2,6 +2,114 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-01-kudlow-trump-was-consequential-brilliant-president-on-policy.md",
+      "title": "Kudlow: Trump was 'consequential, brilliant' president on policy",
+      "excerpt": "New Fox Business host Larry Kudlow said Monday that former President Donald Trump would go down as a \"brilliant, consequential\" president on policy terms and would have been better served to focus on his achievements instead of fighting the election result in the final weeks of his term.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/chzdNoThrso/kudlow-trump-consequential-brilliant-president-policy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/chzdNoThrso/kudlow-trump-consequential-brilliant-president-policy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9cd91a2-aabf-4b81-8154-6590a5d4d92c/7a32678c-9e11-4b3a-bb2d-b65a86c8fe20/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kudlow-trump-consequential-brilliant-president-policy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kudlow-trump-consequential-brilliant-president-policy.amp",
+      "publishedDateTime": "2021-02-01T09:12:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-the-daily-202-kinzinger-says-republicans-need-an-intervention-to-kick-trump-habit.md",
+      "title": "The Daily 202: Kinzinger says Republicans need ‘an intervention’ to kick Trump habit",
+      "excerpt": "We’ve got to reject the dark conspiracy theories and lies,\" said the Illinois Republican, who is starting a PAC to break Donald Trump's stranglehold on the GOP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A7RO4YTEB4I6XOVYOB7YO2OXQU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/?outputType=amp",
+      "publishedDateTime": "2021-02-01T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-kinzinger-launches-new-pac-to-take-back-gop-from-trump.md",
       "title": "Kinzinger launches new PAC to 'take back' GOP from Trump",
       "excerpt": "Under fire by many in his own party for his vote to impeach then-President Trump, Republican Rep. Adam Kinzinger of Illinois is fighting to \"take back\" the GOP.",
@@ -55,59 +163,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-biden-and-harris-to-meet-republican-senators-to-push-for-covid-aid-package-live-updates.md",
-      "title": "Biden and Harris to meet Republican senators to push for Covid aid package – live updates",
-      "excerpt": "lawmakers have offered across the aisle agreement on a much-reduced economic package",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates?page=with:block-6017d5038f08b970c73037d1",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates?page=with:block-6017d5038f08b970c73037d1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1421,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/6035035ba5e9837aa0e255758836913a8f6571c2/0_397_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5da04b91e594dbf24221c7c05d74471f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates",
-      "publishedDateTime": "2021-02-01T02:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
       ]
     },
     {
@@ -539,58 +594,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-01-meet-the-corporate-lobbying-powerhouses-that-bankrolled-joe-bidens-star-studded-fireworks-filled-inauguration-bash.md",
-      "title": "Meet the corporate lobbying powerhouses that bankrolled Joe Biden's star-studded, fireworks-filled inauguration bash",
-      "excerpt": "Online disclosures of certain corporate and union contributions disappeared from Biden's inaugural website after January 27.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/joe-biden-inauguration-corporations-lobbying-contributions-money-inaugural-2021-1",
-      "originalUrl": "https://www.businessinsider.com/joe-biden-inauguration-corporations-lobbying-contributions-money-inaugural-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6009014adb847c001918bfe0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-31T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-31-pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.md",
       "title": "Pence plans to form political group as he moves beyond time with Trump and Capitol riot",
       "excerpt": "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused political committee that would help him maintain a relationship with donors,",
@@ -655,7 +658,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 528,
+      "heat": 568,
       "tags": null,
       "images": [
         {
@@ -863,7 +866,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-administration-goals-20210131-hixvijvamfbjlfeszmsqnpzuzm-story.html?outputType=amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -960,6 +963,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-31-biden-faces-calls-to-secure-release-of-us-man-in-afghanistan.md",
+      "title": "Biden faces calls to secure release of US man in Afghanistan",
+      "excerpt": "Relatives and supporters of an American contractor who was abducted a year ago in Afghanistan and is believed to be in the custody of a Taliban-linked militant group are pressing the new Biden adminis",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/General/afghanistan-abuducted-american-mark-frerichs-01-ap-llr-210130_1612035203754_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502",
+      "publishedDateTime": "2021-01-30T13:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1175,6 +1230,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-30-kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-comparisons-on-twitter.md",
+      "title": "Kamala Harris’ Stepdaughter Ella Emhoff’s Modeling Contract Sparks Melania Trump Comparisons On Twitter",
+      "excerpt": "Some Twitter users were not impressed with Kamala Harris' stepdaughter Ella Emhoff signing a modeling contract, while others compared the 22-year-old's situation with that of former first lady Melania Trump,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838",
+      "originalUrl": "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838?amp=1",
+      "publishedDateTime": "2021-01-30T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together.md",
       "title": "Kamala Harris TV appearance in West Virginia surprises Manchin: 'That's not working together'",
       "excerpt": "Vice President Kamala Harris promoted the Biden administration’s \"critical\" coronavirus \"American Rescue Plan\" this week in a pair of interviews with local TV stations in West Virginia and Arizona.",
@@ -1229,119 +1336,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-tucker-dems-rhetoric-actions-show-theyre-more-afraid-now-that-donald-trump-has-left-office.md",
-      "title": "Tucker: Dems' rhetoric, actions show they're 'more afraid now that Donald Trump has left office'",
-      "excerpt": "Democrats and their allies in Big Tech and the media are doing more than just attacking their political opponents, host Tucker Carlson argued Friday on \"Tucker Carlson Tonight.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P2btC_OP2AU/tucker-dems-rhetoric-actions-show-theyre-more-afraid-now-that-donald-trump-has-left-office",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P2btC_OP2AU/tucker-dems-rhetoric-actions-show-theyre-more-afraid-now-that-donald-trump-has-left-office",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tucker-dems-rhetoric-actions-show-theyre-more-afraid-now-that-donald-trump-has-left-office.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tucker-dems-rhetoric-actions-show-theyre-more-afraid-now-that-donald-trump-has-left-office.amp",
-      "publishedDateTime": "2021-01-29T22:35:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-something-aoc-trump-jr-and-ted-cruz-can-all-agree-on-gamestop.md",
-      "title": "Something AOC, Trump Jr. and Ted Cruz can all agree on: GameStop",
-      "excerpt": "Stocks in the video game retailer and other struggling companies saw huge rallies that blindsided some of the most powerful players on Wall Street.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/28/gamestop-stock-aoc-trump-jr-cruz-463539",
-      "originalUrl": "https://www.politico.com/news/2021/01/28/gamestop-stock-aoc-trump-jr-cruz-463539",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/39/c5/05e4063f49e0b5662de3a903191a/210128-gamestop-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

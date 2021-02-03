@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-2-2021.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-2-2021.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden being pushed by aides to the left on COVID relief bill, longtime adviser believes: report"
+    excerpt: "Aides to President Biden and Democrats on the Hill are pushing him to take a harder line for a big coronavirus relief package than he otherwise would, surprising some in the White House orbit, according to a report."
+    publishedDateTime: 2021-02-03T15:19:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-being-pushed-aides-left-covid-relief-bill-adviser-believes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-being-pushed-aides-left-covid-relief-bill-adviser-believes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-being-pushed-aides-left-covid-relief-bill-adviser-believes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Joe-Biden-Oval-Office-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Uighur Advocates: Will Biden Actions Match Words on 'Genocide'?"
     excerpt: "One day before President Bidens inauguration, Secretary of State Mike Pompeo made the determination that Chinas treatment of Muslim Uighurs and"

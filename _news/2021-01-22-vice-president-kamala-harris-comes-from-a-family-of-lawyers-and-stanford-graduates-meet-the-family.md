@@ -63,6 +63,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Shyamala Gopalan: The woman who inspired Kamala Harris"
+    excerpt: "Shyamala Gopalan was a pioneering woman of colour in America, a scientist and an activist. She was also Vice-President Kamala Harris's mother and her \"greatest influence\". Geeta Pandey in Delhi and Vineet Khare in Washington DC look at her life."
+    publishedDateTime: 2021-01-26T01:17:00Z
+    webUrl: "https://www.bbc.com/news/world-asia-india-55786214"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-asia-india-55786214"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-asia-india-55786214"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11CC9/production/_116650927_shyamala-with-toddler.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Kamala Harris becomes first female, first black and first Asian-American VP"
     excerpt: "Kamala Harris has made history as the first female, first black and first Asian-American US vice-president. She was sworn i. Ms Harris, who is of Indian-Jamaican heritage, initially ran for the Democratic nomination."
     publishedDateTime: 2021-01-20T16:50:00Z
@@ -92,6 +108,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/7d4e478/2147483647/strip/true/crop/3600x1890+0+255/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F07%2F66%2Ffa3e45684358a73da70e94c53114%2Fkamalaharris-horizontal.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "VP Kamala Harris receives 2nd Moderna dose"
+    excerpt: "Watch \"VP Kamala Harris receives 2nd Moderna dose\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-26T21:03:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210126204951-vp-kamala-harris-receives-2nd-moderna-dose/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/26/story_08722873_1611694564.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris' Alpha Kappa Alpha sorority sisters celebrate"
     excerpt: "(AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment. AKA South Eastern Director Mitzi Dease Paige said that many members were “tickled pink and green” to see the first woman of color become vice president."
@@ -125,6 +155,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "VP Kamala Harris receives second dose of Moderna vaccine"
+    excerpt: "Vice President Kamala Harris on Tuesday received her second shot of the COVID-19 vaccine from Moderna, meaning she is fully immunized against the disease."
+    publishedDateTime: 2021-01-26T21:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/26/kamala-harris-receives-second-dose-moderna-vaccine/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/26/kamala-harris-receives-second-dose-moderna-vaccine/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/26/kamala-harris-receives-second-dose-moderna-vaccine/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/26/biden_55145_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris’ historic rise as U.S.’s first Black, Caribbean-American VP celebrated"
     excerpt: "Vice President-elect Kamala Harris, left, and Felicia Persaud, a long-time Caribbean activist during a virtual celebration of Harris’ historic rise ahead of Jan. 20, 2021 inauguration of U.S. President-elect Joe Biden. Courtesy of Invest Caribbean ..."
     publishedDateTime: 2021-01-18T00:27:00Z
@@ -140,6 +186,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5618154292001/b8753f86-34a9-4c52-89ea-a78119ef3e12/main/1280x720/24s960ms/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Faith and Kamala Harris; China's Uighar Minority; How to be a Refugee"
+    excerpt: "When Kamala Harris was sworn in as the US vice-president this week, Hindus gathered in her family's ancestral home town in India to pray for her success. Much is said about her st"
+    publishedDateTime: 2021-01-27T00:12:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/m000rm8h"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p094vgf9.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
     excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."

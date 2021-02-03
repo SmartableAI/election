@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell: Biden talks 'unity' but White House staff, Dem leadership have different 'playbook' on COVID talks"
+    excerpt: "Senate GOP Leader Mitch McConnell, in comments on the Senate floor Wednesday, alleged that President Biden's staff and Democrats in Congress are preventing the president from making a deal with Republicans on coronavirus relief. "
+    publishedDateTime: 2021-02-03T16:26:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0r3Ynv8QOSE/mcconnell-biden-unity-different-playbook-covid-talks"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-unity-different-playbook-covid-talks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-unity-different-playbook-covid-talks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Tx16wzcVltiyjIHLqGaPw2LJx0MwoaWr11rago6+N8+en02mgIvuoFp8SSvIZ9llcn8Lk6OrpGv29KArZDt/FlsBUUUF1prtb4eesXSHfMDWGqoZt10Sd85UQlShRJjKcUV7A+sQoKQUdt5QcRXauiKZWG0QTkkZ7TEqUc5gb5DbaVUpDVCC+Gbap61s2NWPyYZFjDrbhAFeRkkShN6sh7zxKWcPzXKy33h+egSl0Sk09iQ/K/C7RvL2YQu/j13hB+steid027XaiVOhyM8UknHFbFB0PZoOu1oBp7Di8xGNwvIYsQvsrK6Q8t9aa/bcp8JHgB6XjG6fKvTsfjd81BGDvqgUO+GXoAWbjW46hLw=;lS/MUzf+K9aAqtGhGkRpiQ=="
 ---

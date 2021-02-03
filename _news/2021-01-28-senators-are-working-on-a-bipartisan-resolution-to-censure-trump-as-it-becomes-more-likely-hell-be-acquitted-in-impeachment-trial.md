@@ -751,6 +751,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Supreme Court cancels arguments in two Trump-era immigration cases"
+    excerpt: "The Supreme Court on Wednesday canceled arguments planned for the coming weeks in two immigration disputes over policies enacted by former President Donald Trump designed to curb illegal immigration into the United States."
+    publishedDateTime: 2021-02-03T16:37:00Z
+    webUrl: "https://www.cbsnews.com/news/supreme-court-trump-immigration-cases/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-trump-immigration-cases/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-trump-immigration-cases/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/03/fe39a2f4-1a88-45f5-aed4-5d229c538277/thumbnail/1200x630/0d506a5e3b958e95090dfd695f8c108c/gettyimages-1230917206.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "YouTube ban: Google extends suspension of former President Trump's channel"
     excerpt: "YouTube is maintaining its suspension of former President Trump's channel on the video site. Rudy Giuliani's channel also had its revenue nixed."
     publishedDateTime: 2021-01-27T07:16:00Z
@@ -1420,6 +1436,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VC6BWOA4CUI6PBMYTKM5UVM7TY&w=1440"
         width: 1440
         height: 684
+        isCached: true
+  - title: "Power Up: Democrats and Trump's lawyers just previewed their impeachment trial strategy. Here's a breakdown."
+    excerpt: "This is the Power Up newsletter – thanks for waking up with us. Support our journalism. Subscribe today. 🚨: \"[T]he Biden administration plans to significantly raise the cap on refugees allowed into the United States every year,"
+    publishedDateTime: 2021-02-03T16:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/03/power-up-democrats-trump-lawyers-just-previewed-their-impeachment-trial-strategy-here-breakdown/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/03/power-up-democrats-trump-lawyers-just-previewed-their-impeachment-trial-strategy-here-breakdown/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/03/power-up-democrats-trump-lawyers-just-previewed-their-impeachment-trial-strategy-here-breakdown/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKTPZTC7WMI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "U.S. lawmaker comments on impeachment of President Donald Trump"
     excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."

@@ -31,19 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's pandemic problem: Politics Weekly Extra podcast"
-    excerpt: "Jonathan Freedland speaks to the Pulitzer prize-winning author and journalist Laurie Garrett about what Joe Biden needs to do to get a grip on the Covid crisis in the US"
-    publishedDateTime: 2021-01-29T05:00:00Z
-    webUrl: "https://www.theguardian.com/politics/audio/2021/jan/29/biden-pandemic-problem-politics-weekly-extra-podcast"
+  - title: "Biden's 1st 100 days live updates: FEMA seeks US troops to help with vaccinations"
+    excerpt: "A draft request for assistance between FEMA and the Department of Defense is under discussion that would seek as many as 10,000 service members to support administering COVID-19 vaccine shots up to 100 sites nationwide,"
+    publishedDateTime: 2021-01-28T02:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
     images:
-      - url: "https://i.guim.co.uk/img/media/9bf19b42569b77c3f28a41a3742231fc1e1e8f22/0_2_2843_1707/master/2843.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09516b1de2db107a68ece6b91c8273cb"
+      - url: "https://s.abcnews.com/images/Politics/national-guard-vaccine-reut_hpMain_20210127-205858_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "FEMA would operate up to 100 federally run mass vaccination sites under Biden plan"
+    excerpt: "A draft FEMA document envisions four different models for sites, with the largest capable of handling 6,000 doses a day."
+    publishedDateTime: 2021-01-23T04:28:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FAYNVVS3KMI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1005
+        isCached: true
+  - title: "Coronavirus updates: Single-dose vaccine from Johnson & Johnson could be 'game changer'; Biden to require masks on planes"
+    excerpt: "A COVID vaccine being developed by New Jersey-based Johnson & Johnson could dramatically speed up the fight against the pandemic. Latest COVID news."
+    publishedDateTime: 2021-01-21T18:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/01/21/covid-news-vaccine-shortages-us-response-joe-biden-california/4237433001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4237433001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4237433001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/a6d17a2c-5ef4-4acf-87f9-b26f62b41bc4-AP21020686218912.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
+        isCached: true
+  - title: "Inauguration Day security live updates: Vice President Mike Pence among early arrivals at Capitol as security remains tight"
+    excerpt: "The inauguration of Joe Biden was set to kick off at 11 a.m. in a sun-splashed but chilly nation's capital-turned armed camp."
+    publishedDateTime: 2021-01-20T15:55:00Z
+    webUrl: "https://www.indystar.com/story/news/nation/2021/01/20/inauguration-day-security-washington-updates-protests-arrests/4214845001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4214845001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4214845001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 49
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/8322a60b-ed63-49cb-be25-0d2823e56ed9-XXX_TH__DC_security_measures700.JPG?auto=webp&crop=6474,3642,x0,y409&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "jZi+4Q2WPb6PCU9lxpvWP7z/9gZZbXHGiDM25wRds8yAVekI7lhhSP/OT9ShWQPUB7lYCFi9XzoImHF0cUxIpwWFpIudKEuSfyv7FA7LnrJpk9htl4zR4K7FMo0UMEWjmMFEPUJjzwaj8no1I7B5u9iWgA+8LCZ8TRBj/62iaSZVtCBUyFV2teoDr+Xnl2GRca4ratkAhxvHr6Ku7GkmfH4skaCls96rB3U6CFqIj3W+BYUgQA2VdnF6J5xVURUG2H83CnMku8bxDJ1RnAq1pW+ax6Ydai4oFP8s4zFFGO8tDw1Ptp9WxPfKCQZwFnjPm27gp1yWlUnclEBJFOtGgWf2ylFh0KOsnPodN9S6CjE=;3BJZs3VPAH5caX5/vF/aDA=="

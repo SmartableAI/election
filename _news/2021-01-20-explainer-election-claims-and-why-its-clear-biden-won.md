@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/explainer-election-claims-and-why-it
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp"
 type: article
 quality: 120
-heat: -1
-published: false
+heat: 160
+published: true
 
 provider:
   name: Business Insider
@@ -25,22 +25,6 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Watch live: Biden nominee for DHS Director testifies at confirmation hearing"
-    excerpt: "President-elect Joe Biden's nominee for Director of the Department of Homeland Security Alejandro Mayorkas on Tuesday morning is slated to testify at his Senate confirmation hearing.The hearing is scheduled to begin at 10 a."
-    publishedDateTime: 2021-01-19T14:23:00Z
-    webUrl: "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing"
-    ampWebUrl: "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/mayorkasalejandro_11242020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Biden plans quick executive action on immigration, but warns of potential delay on legislation"
     excerpt: "The president-elect told Latino leaders that his immigration bill may not pass during his first 100 days in office, citing the pandemic and Senate impeachment trial."
     publishedDateTime: 2021-01-18T14:41:00Z
@@ -57,15 +41,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Senate hearing to consider Alejandro Mayorkas as Biden's head of DHS"
-    excerpt: "The Senate Homeland Security Committee meets to consider Alejandro Mayorkas' nomination as Secretary of Department of Homeland Security for President-elect Joe Biden's administration."
-    publishedDateTime: 2021-01-19T19:45:00Z
-    webUrl: "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html"
+  - title: "EXPLAINER: Biden's Iran problem is getting worse by the day"
+    excerpt: "Joe Biden has an Iran problem. And, it’s getting more complicated by the day."
+    publishedDateTime: 2021-01-05T15:45:00Z
+    webUrl: "https://www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 85
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "Id+fTBB9oNb9XumBEVZFANW2cvaQyz6fgnD7SUDg0hHij+ySzQ2N2g+aeh0LBkywg4XQ3Wnh0LzzNYif6H15DegTRmdQ6caqBYLal0I4fl9TgUlLZiuYQbmeKitf+OqxQ1Vj7kSHbd25QLN+mdeVcUfJlRCMwJlOo067/onZluF5FIFM85nBL/Zt12uKcZ4J7iqf7XpFEO3zTtqY+qk7wreWL3kw8rlIWSxQH9xOQXzAOz+YoJlfvmCVCybB/r02rsv2YXWqReCKfbpLwYefe/YBUy4JApaS0USTiQz/+vDi7UXrph01EQyZ2srPO5GNzY3q46WO/q2GvyBESDWm/NYwEVbpP2SUqTndH1zXrYk=;7L+I1DjqxO5HclVQOOwwfA=="
 ---

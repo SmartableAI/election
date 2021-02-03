@@ -2,6 +2,167 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-24-return-of-the-technocrats-biden-aims-for-normal-after-four-years-of-tumult.md",
+      "title": "Return of the technocrats: Biden aims for ‘normal’ after four years of tumult",
+      "excerpt": "The first few days of Biden’s administration have produced a blizzard of fact sheets and memorandums — a veritable redwood worth of paperwork — with aspirations of a return to regular order.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJVT6RC47EI6XKCJN6KCHJ277U.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-23T18:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-24-biden-to-mayors-things-are-going-to-get-worse.md",
+      "title": "Biden to mayors: “Things are going to get worse”",
+      "excerpt": "President Joe Biden warned the pandemic will get worse in the next several months, and he urged more personal responsibility. NBC News confirmed former President Trump engaged in a plan to upend the Justice Department to overturn the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/biden-to-mayors-things-are-going-to-get-worse-99925573654",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/biden-to-mayors-things-are-going-to-get-worse-99925573654",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/nn_kod_biden_agenda_trump_impeachment_210123_1611447127689.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99925573654",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99925573654",
+      "publishedDateTime": "2021-01-23T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-24-mexican-leader-says-biden-offers-4b-for-central-america.md",
+      "title": "Mexican leader says Biden offers $4B for Central America",
+      "excerpt": "Mexico’s president says that President Joe Biden has told him the U.S. would send $4 billion to help development in Honduras, El Salvador and Guatemala",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_7aad6260e03e4eb1af6cc90dc7555d01_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
+      "publishedDateTime": "2021-01-23T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-biden-says-we-need-to-act-decisively-and-boldly.md",
       "title": "Biden says we need to act 'decisively and boldly'",
       "excerpt": "President Joe Biden said on Friday the U.S. economic crisis was deepening and that the government needs to take major action now to help struggling Americans.",
@@ -10,7 +171,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUKKBN29R2JV",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -62,7 +223,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
       "featuredContent": null,
       "highlight": null,
-      "heat": 316,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -107,58 +268,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-22-biden-order-seeks-stronger-workplace-safety-rules-signaling-a-more-worker-friendly-approach.md",
-      "title": "Biden order seeks stronger workplace safety rules, signaling a more worker friendly approach",
-      "excerpt": "The Executive Order could lead to an emergency standard for businesses — a set of a regulations they would have to comply with, like mask-wearing, that advocates say is necessary to combat the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/",
-      "originalUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KLXVVQCAZ4I6XNMLCYR7MJTZMA.jpg&w=1440",
-          "width": 1440,
-          "height": 1001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp",
-      "publishedDateTime": "2021-01-21T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-22-biden-to-seek-five-year-extension-of-nuclear-arms-treaty-with-russia-washington-post.md",
       "title": "Biden to seek five-year extension of nuclear arms treaty with Russia: Washington Post",
       "excerpt": "President Joe Biden will seek to extend the New START arms control treaty with Russia for five years, The Washington Post reported on Thursday, citing unidentified senior U.S. officials.",
@@ -167,7 +276,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-russia-nuclear/biden-to-seek-five-year-extension-of-nuclear-arms-treaty-with-russia-washington-post-idUSKBN29Q2I4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -219,7 +328,7 @@
       "originalUrl": "https://www.businessinsider.com/biden-i-will-fire-you-on-spot-if-disrespect-others-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -243,6 +352,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-president-biden-signs-order-mandating-masks-on-planes-will-it-reduce-number-of-in-flight-scofflaws.md",
+      "title": "President Biden signs order mandating masks on planes: Will it reduce number of in-flight scofflaws?",
+      "excerpt": "Airlines require masks and ban passengers who won't comply. A new federal mask rule signed by Biden Thursday gives them muscle to enforce it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/travel/airline-news/2021/01/21/president-biden-issues-federal-mask-mandate-on-flights/4214019001/",
+      "originalUrl": "https://www.usatoday.com/story/travel/airline-news/2021/01/21/president-biden-issues-federal-mask-mandate-on-flights/4214019001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/21/USAT/dd14e355-72ea-4998-9a71-ee24ff1b399c-biden-signing.jpg?auto=webp&crop=5968,3357,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4214019001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4214019001",
+      "publishedDateTime": "2021-01-21T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -529,6 +690,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-20-explainer-election-claims-and-why-its-clear-biden-won.md",
+      "title": "EXPLAINER: Election claims, and why it's clear Biden won",
+      "excerpt": "As Democrat Joe Biden is sworn in Wednesday as the nation’s 46th president, Donald Trump’s most ardent supporters still believe Biden was not legitimately elected after Trump continues to argue the election was stolen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1",
+      "originalUrl": "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp",
+      "publishedDateTime": "2021-01-19T22:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-pence-heading-back-to-indiana-hometown-after-biden-inaugural.md",
       "title": "Pence heading back to Indiana hometown after Biden inaugural",
       "excerpt": "Vice President Mike Pence will be returning to his southern Indiana hometown Wednesday afternoon following the inauguration of President-elect Joe Biden",
@@ -634,38 +838,29 @@
       ]
     },
     {
-      "path": "_news/2021-01-19-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing.md",
-      "title": "Watch live: Biden nominee for DHS Director testifies at confirmation hearing",
-      "excerpt": "President-elect Joe Biden's nominee for Director of the Department of Homeland Security Alejandro Mayorkas on Tuesday morning is slated to testify at his Senate confirmation hearing.The hearing is scheduled to begin at 10 a.",
+      "path": "_news/2021-01-20-senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs.md",
+      "title": "Senate hearing to consider Alejandro Mayorkas as Biden's head of DHS",
+      "excerpt": "The Senate Homeland Security Committee meets to consider Alejandro Mayorkas' nomination as Secretary of Department of Homeland Security for President-elect Joe Biden's administration.",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing",
-      "originalUrl": "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing",
+      "webUrl": "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html",
+      "originalUrl": "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 85,
       "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/mayorkasalejandro_11242020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp",
-      "publishedDateTime": "2021-01-19T06:23:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T11:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -740,6 +935,58 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus.md",
+      "title": "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus",
+      "excerpt": "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7",
+      "originalUrl": "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548111937&r=LYNXMPEH0G0AL&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-17T23:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1296,257 +1543,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-chicago-man-who-threatened-to-kill-democrats-prevent-biden-from-entering-white-house-arrested.md",
-      "title": "Chicago Man Who Threatened to 'Kill' Democrats, Prevent Biden From Entering White House Arrested",
-      "excerpt": "Louis Capriotti, a 45-year-old man from Chicago, made the alleged threats in a voicemail to a representative from New Jersey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958",
-      "originalUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1704833/joe-biden-louis-capriotti-threat-inauguration.jpg",
-          "width": 2500,
-          "height": 1695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1",
-      "publishedDateTime": "2021-01-12T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-biden-chooses-veteran-diplomat-william-burns-as-his-cia-director.md",
-      "title": "Biden chooses veteran diplomat William Burns as his CIA director",
-      "excerpt": "William Burns, chosen by Biden to head the CIA, built a 33-year career at the State Department under both Republican and Democratic presidents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 385,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/7749282/2147483647/strip/true/crop/4341x2835+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2Fbd%2Fcbf72ac3438eacfccf3ea6d430f8%2Fbiden-55451.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true",
-      "publishedDateTime": "2021-01-11T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-joe-bidens-inauguration-theme-america-united.md",
-      "title": "Joe Biden’s inauguration theme: ‘America United’",
-      "excerpt": "WASHINGTON (AP) — The theme for President-elect Joe Biden’s inauguration will be “America United,” an issue that’s long been a central focus for Biden but one that’s taken on added weight in the wake of the violence at the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html",
-      "originalUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NAB5FK6RFAK3B53DG7COL2DXE.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp",
-      "publishedDateTime": "2021-01-11T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification.md",
-      "title": "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification",
-      "excerpt": "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted last week against certifying President-elect Joe Biden's victory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
-      "originalUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-ap-interview-libyan-minister-hopes-for-support-from-biden.md",
-      "title": "AP interview: Libyan minister hopes for support from Biden",
-      "excerpt": "The powerful interior minister of Libya’s U.N.-backed government, seen as a contender for the post of prime minister, says he hopes that bringing stability to his war-torn country will become a top pr",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-09T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

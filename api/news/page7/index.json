@@ -2,6 +2,286 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-26-biden-declines-to-tell-chicago-teachers-refusing-to-teach-in-person-to-go-back-to-work.md",
+      "title": "Biden declines to tell Chicago teachers refusing to teach in-person to go back to work",
+      "excerpt": "President Biden declined to tell Chicago teachers on Monday to return to school following a union vote over the weekend to defy a district order for educators to return to campuses in order to prepare to resume in-person classroom instruction. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QlxBHecut8c/biden-chicago-teachers-in-person",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QlxBHecut8c/biden-chicago-teachers-in-person",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25dcc8d9-7494-4c44-8cf2-2365a0d57081/421b43a2-10ba-403c-abe0-ece8931d386a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-chicago-teachers-in-person.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chicago-teachers-in-person.amp",
+      "publishedDateTime": "2021-01-25T18:59:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-sarah-sanders-run-for-arkansas-governor-to-test-value-of-ties-to-trump.md",
+      "title": "Sarah Sanders' run for Arkansas governor to test value of ties to Trump ",
+      "excerpt": "Sarah Huckabee Sanders on Monday became the first of what could be a wave of Republicans from former President Donald Trump's inner circle to chart a political future, launching her bid for Arkansas governor.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qCEpHgUFbXo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qCEpHgUFbXo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190613195905-10-sarah-sanders-gallery-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/sarah-huckabee-sanders-trump-arkansas-governor-race/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/sarah-huckabee-sanders-trump-arkansas-governor-race/index.html",
+      "publishedDateTime": "2021-01-25T18:43:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-airport-police-officer-identifies-man-charged-in-capitol-riot-after-he-was-kicked-off-flight-for-continuously-yelling-trump-2020.md",
+      "title": "Airport police officer identifies man charged in Capitol riot after he was kicked off flight for 'continuously' yelling 'Trump 2020'",
+      "excerpt": "Federal prosecutors have charged a man in connection to the riot and insurrection at the Capitol on January 6, after a Washington, DC, airport police officer helped identify him.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tYKKMHA0hC4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tYKKMHA0hC4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201117121332-file-airplane-ronald-reagan-airport-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/capitol-hill-rioter-kicked-off-plane-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/capitol-hill-rioter-kicked-off-plane-trnd/index.html",
+      "publishedDateTime": "2021-01-25T17:56:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-biden-tells-cnn-trumps-impeachment-trial-has-to-happen.md",
+      "title": "Biden tells CNN Trump's impeachment trial 'has to happen'",
+      "excerpt": "President Joe Biden on Monday offered his most extensive comments since taking office on President Donald Trump's impeachment trial, telling CNN \"I think it has to happen.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0HD9mLDX2SI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0HD9mLDX2SI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210125161813-01-biden-manufacturing-0125-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html",
+      "publishedDateTime": "2021-01-25T16:36:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-rep-crenshaw-on-biden-lifting-transgender-military-ban-people-should-serve-openly.md",
+      "title": "Rep. Crenshaw on Biden lifting transgender military ban: 'People should serve openly'",
+      "excerpt": "Any American willing and able to serve in the military should be permitted to do so, Rep. Dan Crenshaw, R-Texas, said Monday after President Biden lifted a Trump-era restriction on transgender people serving their country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UID97HYZ14M/crenshaw-biden-lifting-transgender-military-ban-people-openly",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UID97HYZ14M/crenshaw-biden-lifting-transgender-military-ban-people-openly",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09e2e85d-64be-4720-b526-4f9770f182f3/b20f13fd-b028-4a9c-8828-e1bdc345f55a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/crenshaw-biden-lifting-transgender-military-ban-people-openly.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-biden-lifting-transgender-military-ban-people-openly.amp",
+      "publishedDateTime": "2021-01-25T15:21:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn.md",
       "title": "Democrats showing 'shockingly bad judgment' with Trump impeachment focus: Cornyn",
       "excerpt": "Sen. John Cornyn, R-Texas, admonished Democrats against pursuing another impeachment trial against former President Donald Trump, saying Monday it shows \"shockingly bad judgment.\"",
@@ -487,58 +767,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-biden-officials-discuss-19-tn-stimulus-plan-in-call-with-group-of-bipartisan-lawmakers.md",
-      "title": "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers",
-      "excerpt": "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026",
-      "originalUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1714910/biden-harris-white-house.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1",
-      "publishedDateTime": "2021-01-24T20:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1140,219 +1368,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-meet-the-impeachment-managers-who-will-argue-democrats-case-against-trump.md",
-      "title": "Meet the impeachment managers who will argue Democrats' case against Trump",
-      "excerpt": "Pelosi said the House will officially send the article of impeachment against Mr. Trump to the Senate on Monday. \"We are respectful of the Senate's constitutional power over the t",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-second-impeachment-managers/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-second-impeachment-managers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/24/57aaa662-8c1c-41a3-ad09-c83e6c55cbd8/thumbnail/1200x630/0bd961208cc571af7316daf6ffedf08b/gettyimages-1296220549.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-second-impeachment-managers/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-second-impeachment-managers/",
-      "publishedDateTime": "2021-01-24T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-donald-trump-is-gone-but-his-big-lie-is-a-rallying-call-for-rightwing-extremists.md",
-      "title": "Donald Trump is gone but his big lie is a rallying call for rightwing extremists",
-      "excerpt": "The myth of the ‘stolen election’ – simple and endlessly repeated – is likely to be a rallying call for far-right terrorists",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/99bba16b7535882a7c3c741b8089b0c34f1fc2ce/0_0_4000_2667/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc52c78261d8aa66c1bd5b6e412311f9",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
-      "publishedDateTime": "2021-01-24T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-arizona-republicans-censure-mccain-flake-and-ducey-over-trump-split.md",
-      "title": "Arizona Republicans censure McCain, Flake and Ducey over Trump split",
-      "excerpt": "Pro-Trump party chair Kelli Ward wins another term but Cindy McCain, widow of John, sees censure as ‘a badge of honor’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/24/arizona-republicans-censure-mccain-flake-ducey-trump",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/arizona-republicans-censure-mccain-flake-ducey-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4b7b22f2fc853c467f9293ec182748880c7de89b/0_81_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ce49c0dced099ed33df0907f613e692f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/24/arizona-republicans-censure-mccain-flake-ducey-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/arizona-republicans-censure-mccain-flake-ducey-trump",
-      "publishedDateTime": "2021-01-24T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-kamala-harris-roe-v-wade-post-draws-tennessee-governors-response-abortion-isnt-healthcare.md",
-      "title": "Kamala Harris' Roe v. Wade post draws Tennessee governor’s response: ‘Abortion isn’t healthcare’",
-      "excerpt": "Tennessee Gov. Bill Lee spoke out last week after Vice President Kamala Harris issued a statement to mark the 48th anniversary of the Supreme Court decision that legalized abortion nationwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/kamala-harris-roe-v-wade-post-draws-tennessee-governors-response-abortion-isnt-healthcare",
-      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-roe-v-wade-post-draws-tennessee-governors-response-abortion-isnt-healthcare",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kamalasplit.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-roe-v-wade-post-draws-tennessee-governors-response-abortion-isnt-healthcare.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-roe-v-wade-post-draws-tennessee-governors-response-abortion-isnt-healthcare.amp",
-      "publishedDateTime": "2021-01-24T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

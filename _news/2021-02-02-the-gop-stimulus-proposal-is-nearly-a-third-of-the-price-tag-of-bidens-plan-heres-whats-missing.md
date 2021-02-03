@@ -47,21 +47,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Fox News's primetime ratings took a dive during Biden's inauguration"
-    excerpt: "Fox News took a hit during inauguration week after setting records for Trump's in 2017. A similar shift happened in 2013 for Obama's second inaugural."
-    publishedDateTime: 2021-01-29T01:17:00Z
-    webUrl: "https://www.businessinsider.com/fox-news-ratings-down-25-percent-year-to-year-primetime-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/fox-news-ratings-down-25-percent-year-to-year-primetime-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-ratings-down-25-percent-year-to-year-primetime-2021-1?amp"
+  - title: "Ten Senate Republicans propose compromise covid relief package, posing challenge for Biden"
+    excerpt: "The GOP proposal would significantly narrow eligibility for a new round of $1,400 stimulus checks Biden wants to send to individual Americans."
+    publishedDateTime: 2021-01-31T19:22:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
     images:
-      - url: "https://i.insider.com/6011872f1d2df20018b71166?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5QSCURTBVAI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "zYefrUAImnrAxvNYBxAZQU+E9tUC/qX8VDKKAKvtQL8T90bx/AyE6PmttO8LpfkMEjrslOIU58LznqjQNtmQqBdYb+QzmXgCdc7hnqbPgN2WFxp2Q1tBTiE92pBHfvvrIBcK8wV3YInifkCTDD1Xe58cS1SP+BnFtr3CyBMnUkBV3ivHtn3WOcXOgtp2Cl/O8eMFhNab0IakEgERvnhkfW860gNd8Id4A3BQbQtuQZvzdA+XgdK+CiE1OasvXRHlGkiGhOz4IecVZVsQIvmKGwv7ThCzLAO6bRk0FpQga6E1rhaFEXvckN4x5dyW+aaybAyvlQ/Ws7ss8ziJIQghExukJWtnj3J1WCZPpv2YAMQ=;JU3rFUjX88EFK/E0RQv6og=="

@@ -25,85 +25,37 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden aims for most ambitious US effort on climate change"
-    excerpt: "President Joe Biden is undertaking undertaking the most ambitious effort ever to cut America’s oil, gas and coal emissions and stave off the worst effects of climate change"
-    publishedDateTime: 2021-01-27T14:34:00Z
-    webUrl: "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden speaks to Putin for first time since taking power: White House"
-    excerpt: "U.S. President Joe Biden spoke to Russian President Vladimir Putin on Tuesday for the first time since taking office and raised concerns about Russian activities including the treatment of jailed Kremlin critic Alexei Navalny,"
-    publishedDateTime: 2021-01-27T00:13:00Z
-    webUrl: "https://www.reuters.com/article/us-russia-usa-biden-putin-idUSKBN29V2AJ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V2AJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2AJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549143451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1CN"
-        width: 844
-        height: 545
-        isCached: true
-  - title: "Biden aims for most ambitious US effort on climate change"
-    excerpt: "President Joe Biden is undertaking the most ambitious effort ever to cut America’s oil, gas and coal emissions and stave off the worst effects of climate change"
-    publishedDateTime: 2021-01-27T21:17:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ap-sources-biden-pause-oil-gas-sales-public-75507955"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pause-oil-gas-sales-public-75507955"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pause-oil-gas-sales-public-75507955"
+  - title: "Biden to reopen 'Obamacare' markets for COVID-19 relief"
+    excerpt: "Fulfilling a campaign promise, President Joe Biden plans to reopen the HealthCare.gov insurance markets for a special sign-up opportunity geared to people needing coverage in the coronavirus pandemic."
+    publishedDateTime: 2021-01-27T04:25:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_35fd541e3d434fa6a2947bf0050f6246_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_4ce7a743968f4008a13d04865fd4058c_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "U.S. private prison revenue under pressure from new Biden rules"
-    excerpt: "CoreCivic and the GEO Group, two of the largest U.S. private prison companies, could lose as much as a quarter of their revenue, about $1 billion a year between them, under new limits on the sector from President Joe Biden."
-    publishedDateTime: 2021-01-27T16:10:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-companies-biden-prisons-idUSKBN29W14Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W14Z"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W14Z"
+  - title: "GOP senators balk at $1.9 trillion price tag for Biden's COVID-19 bill"
+    excerpt: "Some Republican senators have raised concerns about passing another relief bill so soon after passing $1 trillion legislation."
+    publishedDateTime: 2021-01-27T11:52:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-cost-republican-senators/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-cost-republican-senators/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-cost-republican-senators/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549232072&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q0OK"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden rescinds abortion restrictions on US foreign aid"
-    excerpt: "President Joe Biden has rescinded a regulation that barred U.S. foreign aid from being used to perform or promote abortions"
-    publishedDateTime: 2021-01-29T00:04:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/biden-rescinds-abortion-restrictions-on-us-foreign-aid/2021/01/28/a01022ac-619b-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-rescinds-abortion-restrictions-on-us-foreign-aid/2021/01/28/a01022ac-619b-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-rescinds-abortion-restrictions-on-us-foreign-aid/2021/01/28/a01022ac-619b-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/26/68dab874-c21b-4556-90b1-af7217166798/thumbnail/1200x630/993b8c863211e6b4f1e875eb8a050a63/gettyimages-1230802973.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden renews deportation relief for Syrians in the United States"
     excerpt: "The administration of President Joe Biden on Friday extended deportation relief for several thousand Syrian immigrants living in the United States, an early move that aligns with his broader pro-immigrant platform."
@@ -137,495 +89,200 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden faces calls to secure release of US man in Afghanistan"
-    excerpt: "Relatives and supporters of an American contractor who was abducted a year ago in Afghanistan and is believed to be in the custody of a Taliban-linked militant group are pressing the new Biden adminis"
-    publishedDateTime: 2021-01-30T21:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502"
+  - title: "Biden to meet with Republican senators to discuss COVID-19 relief plan"
+    excerpt: "U.S. President Joe Biden has invited Maine Senator Susan Collins along with other Republican senators to the White House to discuss a COVID-19 relief plan, the White House said on Sunday."
+    publishedDateTime: 2021-02-01T07:09:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A112Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A112Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A112Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549767816&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH100MF"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Republicans press Biden to downsize $1.9 trillion COVID-19 relief plan"
+    excerpt: "Ten moderate Republican U.S. senators urged President Joe Biden on Sunday to significantly downsize his sweeping $1.9 trillion COVID-19 relief package to win bipartisan support as Democrats in Congress prepared to push ahead with his plan this week."
+    publishedDateTime: 2021-02-01T00:16:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A00H8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A00H8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A00H8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549731076&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U0C7"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden faces 'unity' test in meeting with GOP senators on COVID relief"
+    excerpt: "With a group of 10 Republican senators officially offering a counterproposal to President Joe Biden's COVID-19 relief bill, the president on Monday was set to face a real test of his campaign promise to work across the aisle and bring unity back to a politically fractured Washington."
+    publishedDateTime: 2021-02-02T01:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-faces-unity-test-meeting-republican-senators-covid/story?id=75611029"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-faces-unity-test-meeting-republican-senators-covid/story?id=75611029"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-faces-unity-test-meeting-republican-senators-covid/story?id=75611029"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/General/afghanistan-abuducted-american-mark-frerichs-01-ap-llr-210130_1612035203754_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/biden-gop-covid-negotiations-oval-office-reut_hpMain_20210201-180830_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden invites GOP lawmakers to White House virus relief talk"
-    excerpt: "President Joe Biden is inviting to the White House a group of 10 Republican senators who have proposed spending about one-third of what he is seeking in coronavirus aid"
-    publishedDateTime: 2021-02-01T03:03:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Pressure builds on Manchin to back Biden relief bill"
-    excerpt: "Sen. Joe Manchin (D-W.Va.) is under mounting pressure from fellow Democrats to back a large COVID-19 relief package along the lines of President Biden’s $1.9 trillion proposal."
-    publishedDateTime: 2021-02-02T11:00:00Z
-    webUrl: "https://thehill.com/homenews/senate/536867-pressure-builds-on-manchin-to-back-biden-relief-bill"
-    ampWebUrl: "https://thehill.com/homenews/senate/536867-pressure-builds-on-manchin-to-back-biden-relief-bill?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536867-pressure-builds-on-manchin-to-back-biden-relief-bill?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/manchinjoe_121520gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden to Sign 3 Executive Orders on Climate Change—Here's What They Do"
-    excerpt: "The actions are the president's latest moves in an effort to address campaign promises and appease his supporters."
-    publishedDateTime: 2021-01-27T16:49:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-sign-3-executive-orders-climate-changeheres-what-they-do-1564882"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-sign-3-executive-orders-climate-changeheres-what-they-do-1564882?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-sign-3-executive-orders-climate-changeheres-what-they-do-1564882?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1717934/joe-biden.jpg"
-        width: 2500
-        height: 1642
-        isCached: true
-  - title: "Biden seeks five-year extension of New START arms treaty with Russia: source"
-    excerpt: "U.S. President Joe Biden will seek a five-year extension to the New START arms control treaty with Russia, a source familiar with the matter said on Thursday."
-    publishedDateTime: 2021-01-22T00:01:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-russia-nuclear-idUSKBN29Q2I4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q2I4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q2I4"
+  - title: "Biden to reopen healthcare.gov as people lose coverage amid COVID-19: report"
+    excerpt: "U.S. President Joe Biden plans to order the nation's online insurance marketplace, healthcare.gov, to reopen for at least a few months to offer Americans a way to buy health insurance amid the COVID-19 pandemic,"
+    publishedDateTime: 2021-01-26T14:07:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-insurance-idUSKBN29V1KO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V1KO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V1KO"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 122
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548635762&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1OZ"
-        width: 800
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549108836&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P0XP"
+        width: 856
         height: 545
         isCached: true
-  - title: "Return of the technocrats: Biden aims for ‘normal’ after four years of tumult"
-    excerpt: "The first few days of Biden’s administration have produced a blizzard of fact sheets and memorandums — a veritable redwood worth of paperwork — with aspirations of a return to regular order."
-    publishedDateTime: 2021-01-24T02:01:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+  - title: "Biden to meet with Senate Republicans offering covid relief counter-proposal"
+    excerpt: "The GOP proposal would significantly narrow eligibility for a new round of $1,400 stimulus checks Biden wants to send to individual Americans."
+    publishedDateTime: 2021-01-31T19:03:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 122
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJVT6RC47EI6XKCJN6KCHJ277U.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5QSCURTBVAI6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden orders Department of Justice to phase out contracts with private prisons"
-    excerpt: "President Joe Biden on Tuesday ordered the Department of Justice to end its reliance on private prisons and acknowledge the central role government has played in implementing discriminatory housing policies."
-    publishedDateTime: 2021-01-27T11:42:00Z
-    webUrl: "https://www.cbsnews.com/news/private-prisons-justice-department-biden-executive-order/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/private-prisons-justice-department-biden-executive-order/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/private-prisons-justice-department-biden-executive-order/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 121
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/fb6f912e-13a7-4545-af8e-5c4d110ebf4c/thumbnail/1200x630/6af22f0125269db1ce7ba18ee72dead2/gettyimages-1230788926.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trade to be part of Biden's China strategy, not driving force: ex-USTR official"
-    excerpt: "Trade will be a part of President Joe Biden's overall negotiation policy with China, but it won't be the driving force in Sino-U.S. relations, as it was under former President Donald Trump, a former official at the Office of the U."
-    publishedDateTime: 2021-02-03T09:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trade-rcep-gmf-idUKKBN2A30GV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A30GV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A30GV"
+  - title: "Congresswoman urges Biden team to involve more distributors in COVID vaccine shipments"
+    excerpt: "A Democratic U.S. lawmaker urged the Biden administration to involve additional major healthcare distributors in the shipment of COVID-19 vaccines to speed vaccinations, according to a letter seen by Reuters."
+    publishedDateTime: 2021-01-30T07:31:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29Z05E?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Z05E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Z05E"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 121
+    quality: 117
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550105113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1209M"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210130&t=2&i=1549634941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0T035"
         width: 817
         height: 545
         isCached: true
-  - title: "Biden's 1st 100 days live updates: FEMA seeks US troops to help with vaccinations"
-    excerpt: "A draft request for assistance between FEMA and the Department of Defense is under discussion that would seek as many as 10,000 service members to support administering COVID-19 vaccine shots up to 100 sites nationwide,"
-    publishedDateTime: 2021-01-28T02:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/national-guard-vaccine-reut_hpMain_20210127-205858_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Watch Live: Biden signs executive actions on abortion policy, health care access"
-    excerpt: "Mr. Biden has vowed to protect and expand the Affordable Care Act, which was enacted while he was vice president."
-    publishedDateTime: 2021-01-28T14:17:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/28/c6da5626-65f4-4274-ad76-480ed47da6ab/thumbnail/1200x630/5a5d95df2539d794cb0850404e613ac3/gettyimages-1230821605.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "FEMA would operate up to 100 federally run mass vaccination sites under Biden plan"
-    excerpt: "A draft FEMA document envisions four different models for sites, with the largest capable of handling 6,000 doses a day."
-    publishedDateTime: 2021-01-23T04:28:00Z
-    webUrl: "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/"
-    ampWebUrl: "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FAYNVVS3KMI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 1005
-        isCached: true
-  - title: "UPDATE 1-Biden's U.N. nominee warns U.S. absence allows China to thrive at world body"
-    excerpt: "U.S. President Joe Biden's nominee for ambassador to the United Nations stressed on Wednesday the importance of U.S. re-engagement with the 193-member world body in order to challenge efforts by China to \"drive an authoritarian agenda\"."
-    publishedDateTime: 2021-01-27T21:03:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-un-idUSL1N2K21L4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K21L4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K21L4"
+  - title: "Biden said Republican proposal for $600 billion in COVID-19 aid 'way too small': Schumer"
+    excerpt: "U.S. Senate Democratic Leader Chuck Schumer said President Joe Biden told Democrats the proposal ten Senate Republicans have made for $600 billion in COVID-19 relief is \"way too small.\""
+    publishedDateTime: 2021-02-03T02:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUKKBN2A22ND"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A22ND"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A22ND"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q16A"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Joe Biden Launches Major Lobbying Campaign to Build Support for $1.9T Stimulus Package"
-    excerpt: "Biden and Democratic leaders in Congress want more money and programs, but GOP lawmakers have balked at the legislation's massive price tag."
-    publishedDateTime: 2021-01-27T22:46:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1718429/biden-harris.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Daily routine and a script are back in the Biden White House, but how long can it last?"
-    excerpt: "It's unclear how long President Joe Biden can stick to his routine amid rising partisan conflicts in Congress and a slew of monumental challenges."
-    publishedDateTime: 2021-01-31T19:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/31/bidens-start-routine-order-and-script-back-white-house/4291773001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4291773001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4291773001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/83041318d569c710a4dfd65f2e0fcfe7e1812695/c=0-295-5666-3482/local/-/media/2021/01/27/USATODAY/usatsports/B9343114835Z.1_20210127021915_000_GL6S6QQJE.2-0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden statement on Myanmar is directed to all countries in the region, White House says"
-    excerpt: "White House press secretary Jen Psaki said on Monday that a statement by President Joe Biden about the military coup in Myanmar is directed at all countries in the region, when asked if it was directed at China."
-    publishedDateTime: 2021-02-01T23:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-myanmar-whitehouse-idUSKBN2A138J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A138J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A138J"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549876614&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101VQ"
-        width: 811
-        height: 545
-        isCached: true
-  - title: "Legislators, Online Petition Put Pressure on Biden to Support Recurring Stimulus Checks"
-    excerpt: "Kamala Harris supported recurring payments, and restaurant owner Stephanie Bodin, a creator of a Change.org petition, called for people to maintain pressure on legislators."
-    publishedDateTime: 2021-02-01T16:41:00Z
-    webUrl: "https://www.newsweek.com/legislators-online-petition-put-pressure-biden-support-recurring-stimulus-checks-1565829"
-    ampWebUrl: "https://www.newsweek.com/legislators-online-petition-put-pressure-biden-support-recurring-stimulus-checks-1565829?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/legislators-online-petition-put-pressure-biden-support-recurring-stimulus-checks-1565829?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1721509/stimulus-checks-recurring-biden-2000.jpg"
-        width: 3000
-        height: 2003
-        isCached: true
-  - title: "Biden is expected reinstate federal funding for abortions in an upcoming executive order"
-    excerpt: "As part of a series of healthcare actions, President Joe Biden plans to back ending provisions that bar federal funds from being used for abortions."
-    publishedDateTime: 2021-01-28T16:08:00Z
-    webUrl: "https://www.businessinsider.com/biden-reinstate-federal-funding-for-abortions-in-upcoming-executive-order-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/biden-reinstate-federal-funding-for-abortions-in-upcoming-executive-order-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-reinstate-federal-funding-for-abortions-in-upcoming-executive-order-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
     quality: 116
     images:
-      - url: "https://i.insider.com/600b20e6bc6a6a0012f4a25c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550044488&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111HA"
+        width: 817
+        height: 545
         isCached: true
-  - title: "In first lawsuit against Biden administration, Texas AG Paxton challenges deportation freeze"
-    excerpt: "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days."
-    publishedDateTime: 2021-01-22T22:48:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/01/22/texas-ag-ken-paxton-files-lawsuit-block-biden-deportation-freeze/6675679002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6675679002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6675679002"
+  - title: "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts"
+    excerpt: "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said."
+    publishedDateTime: 2021-01-23T18:57:00Z
+    webUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912"
+    ampWebUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/media/2020/11/20/Austin/ghows-TX-200729145-8717c8b4.jpg?auto=webp&crop=750,422,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1714793/anthony-fauci.jpg"
+        width: 2500
+        height: 1668
         isCached: true
-  - title: "As Biden vows monumental action on climate change, a fight with the fossil fuel industry has only begun"
-    excerpt: "President Biden is determined to curb America's carbon output, including oil and gas production. It's not going to come without a fight."
-    publishedDateTime: 2021-01-28T05:50:00Z
-    webUrl: "https://www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/"
-    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5CCJ6GSAVMI6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
-  - title: "The fired Fox News editor behind the network's Arizona election call for Biden says he became the target of 'murderous rage' from viewers"
-    excerpt: "Chris Stirewalt, who oversaw the Fox News Decision Desk during 2020 election coverage, was fired last week after being exiled from air."
-    publishedDateTime: 2021-01-29T13:38:00Z
-    webUrl: "https://www.businessinsider.com/fired-fox-editor-chris-stirewalt-targeted-after-biden-arizona-call-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/fired-fox-editor-chris-stirewalt-targeted-after-biden-arizona-call-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fired-fox-editor-chris-stirewalt-targeted-after-biden-arizona-call-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/6013fdee1d2df20018b71845?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden more bullish on vaccines, suggests 1.5M shots per day"
-    excerpt: "President Joe Biden on Monday appeared to boost his goal for coronavirus vaccinations in his first 100 days in office, suggesting that the nation could soon be vaccinating 1.5 million Americans on average per day."
-    publishedDateTime: 2021-01-25T23:21:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/25/biden-more-bullish-vaccines-suggests-1-5-m-shots-per-day/4253427001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e4004a43-0bab-437e-8c49-cf86e4a9f02b_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Legal Lookahead: Biden readies new orders on immigration"
-    excerpt: "Biden readies new orders on immigration. Posted . President Joe Biden plans to take further steps moving away from his predecessor's policies on immigr"
-    publishedDateTime: 2021-01-30T21:11:00Z
-    webUrl: "https://www.reuters.com/video/watch/idRCV009B3W"
+  - title: "Biden says he won't settle for COVID-19 aid package that 'fails to meet the moment': White House"
+    excerpt: "U.S. President Joe Biden told a group of Republican senators on Monday he hoped his proposed $1.9 trillion COVID-19 relief package could pass with bipartisan support in the U.S. Congress, but he \"will not settle for a package that fails to meet the moment,"
+    publishedDateTime: 2021-02-02T01:53:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A204D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A204D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A204D"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
+    quality: 112
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210130&i=RCV009B3W&r=RCV009B3W&t=2"
-        width: 5957
-        height: 3848
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549921674&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1101W"
+        width: 824
+        height: 545
         isCached: true
-  - title: "Biden threatens sanctions on Myanmar after military coup"
-    excerpt: "President Joe Biden is threatening to slap new sanctions on Myanmar after a coup that saw the military arrest the civilian leaders of its government."
-    publishedDateTime: 2021-02-02T01:46:00Z
-    webUrl: "https://www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2?amp"
+  - title: "Despite 'productive' Republican meeting, Biden will not accept a scaled-down COVID-19 bill -White House"
+    excerpt: "After meeting with Republican senators at the White House on Monday, President Joe Biden appeared poised to push forward with his $1.9 trillion COVID-19 relief plan even if it fails to draw Republican support."
+    publishedDateTime: 2021-02-02T17:03:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A12TV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A12TV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A12TV"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Hundreds deported under Biden, including witness to massacre"
-    excerpt: "President Joe Biden's administration has deported hundreds of immigrants in its early days despite his campaign pledge to stop removing most people in the U.S. illegally at the beginning of his term."
-    publishedDateTime: 2021-02-02T10:02:00Z
-    webUrl: "https://www.businessinsider.com/hundreds-deported-under-biden-including-witness-to-massacre-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/hundreds-deported-under-biden-including-witness-to-massacre-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hundreds-deported-under-biden-including-witness-to-massacre-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Senate confirms Mayorkas as Biden's homeland security chief"
-    excerpt: "The Senate confirmed Alejandro Mayorkas on Tuesday as President Joe Biden's homeland security secretary, the first Latino to fill a post that will have a central role in the government's response to ,"
-    publishedDateTime: 2021-02-03T02:15:00Z
-    webUrl: "https://www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Biden pushing for major immigration reforms, but another humanitarian crisis at the border could derail his agenda"
-    excerpt: "There are signs that a crisis could be brewing, from migrant caravans forming in Central America to asylum seekers protesting at the U.S. border."
-    publishedDateTime: 2021-01-29T21:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/immigration/2021/01/29/another-humanitarian-crisis-border-could-derail-bidens-agenda/4246680001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4246680001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4246680001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 103
+      name: Reuters
+      domain: reuters.com
+    quality: 109
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PPHX/edadfce1-ffd2-493e-b34d-83d803317283-AP21020798939360.jpg?auto=webp&crop=4206,2366,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550004131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1112L"
+        width: 817
+        height: 545
         isCached: true
-  - title: "'This is our historic moment of crisis and challenge': Joe Biden calls for unity in first speech as president – live"
-    excerpt: "Joe Biden has been sworn in as president, bringing an end to four years of Donald Trump’s leadership in Washington"
-    publishedDateTime: 2021-01-20T18:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 102
-    images:
-      - url: "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Eye Opener: Biden signs slew of executive actions in first days as president"
-    excerpt: "President Joe Biden has already signed 29 executive actions during his first 55 hours in the White House. Also, January has now become the second deadliest month in the coronavirus pandemic. All that and all that matters in today's Eye Opener."
-    publishedDateTime: 2021-01-23T13:40:00Z
-    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-signs-slew-of-executive-actions-in-first-days-as-president/"
+  - title: "Biden set to hold COVID-19 relief talks with Republican senators today"
+    excerpt: "President Joe Biden's call for unity will face its first major test Monday when he holds COVID-19 relief talks with Senate Republicans. This comes as lawmakers prepare for former President Donald Trump's second impeachment trial,"
+    publishedDateTime: 2021-02-01T16:48:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-set-to-hold-covid-19-relief-talks-with-republican-senators-today/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 102
+    quality: 105
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/23/7ca836cb-bc96-4371-92fc-5cfbe204ab1c/thumbnail/1200x630/89b98f4d140361d53c81c26f8af3dc43/cbsn-fusion-eye-opener-biden-signs-slew-of-executive-actions-in-first-days-as-president-thumbnail-631980-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/01/65013ac8-04c7-4171-9085-170430d58532/thumbnail/1200x630/f72e570764608831ec16051611de9df8/0201-cbsn-eekeem-bidencovidtrumpimpeachment-637179-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "White House says Biden believes Nord Stream 2 pipeline is a bad deal for Europe"
-    excerpt: "White House press secretary Jen Psaki said on Tuesday that President Joe Biden continues to believe the Nord Stream 2 natural gas pipeline is a bad deal for Europe."
-    publishedDateTime: 2021-01-26T23:39:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-nord-stream/white-house-says-biden-believes-nord-stream-2-pipeline-is-a-bad-deal-for-europe-idUSW1N2IO07R"
+  - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
+    excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
+    publishedDateTime: 2021-01-26T14:17:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-insurance-idUSL1N2K11AJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K11AJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K11AJ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 101
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Coronavirus updates: Single-dose vaccine from Johnson & Johnson could be 'game changer'; Biden to require masks on planes"
-    excerpt: "A COVID vaccine being developed by New Jersey-based Johnson & Johnson could dramatically speed up the fight against the pandemic. Latest COVID news."
-    publishedDateTime: 2021-01-21T18:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2021/01/21/covid-news-vaccine-shortages-us-response-joe-biden-california/4237433001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4237433001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4237433001"
+    quality: 99
+  - title: "Biden says covid relief bill 'has to pass' with or without Republican support"
+    excerpt: "President Joe Biden on Jan. 29 said the covid relief bill “has to pass” but did not say whether he is for budget reconciliation."
+    publishedDateTime: 2021-01-29T19:53:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/biden-says-covid-relief-bill-has-to-pass-with-or-without-republican-support/2021/01/29/a5a02c08-f2b9-47ad-9f8f-d4dbf038adf7_video.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 100
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/a6d17a2c-5ef4-4acf-87f9-b26f62b41bc4-AP21020686218912.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mine just south of Oregon-Nevada line may boost Joe Biden’s energy plan"
-    excerpt: "One of the keys to President Joe Biden’s $2 trillion clean energy plan could be a mineral that lies in a salt flat above a prehistoric volcano just south of the Oregon-Nevada line."
-    publishedDateTime: 2021-01-23T17:26:00Z
-    webUrl: "https://www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html"
-    ampWebUrl: "https://www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P724E5QASRBPRP6DSZO2LKZNLY.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "President Joe Biden, Democrats hit gas on push for $15 minimum wage"
-    excerpt: "President Joe Biden called for a $15 hourly minimum wage during his campaign and has followed through by hitching it to a measure that, among other things, calls for $1,400 stimulus checks and $130 billion to help schools reopen."
-    publishedDateTime: 2021-01-30T18:07:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DCYM7LIUA5EM3N44LCYC3SJYVI.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 82
 
 secured: "6FGAclRjZ3Oz6Q8kKcyc29AIKtn+uXwmBXlE2WdN0L4xB32iWhbcCEeVLuYHG3KXexoaFvkF4rYOCcBgzs96ZCcLUFXIHIs53Eq412ZbHazCf1sa09TgqdKWFBVs4nMVu7bKtzKbKE1Wg00o8/2tj8qkYb20xdokhWrDfL4TuKb08B4G6vCd1y8zKl10gEWMuGfKjmooqsR02hRReWTOwzodp16Wu75DTXODgT4AHjpGHpguIr5nkRj0Ac902hbgdzxpvUKtuqWaZHlXNYoYzOGaic7YTFqUJISoAXJKi5z/LK/S66FuretF9cz3z97PheNVEswphaOW1Zcyf3DqvAz/P5fcScDXHMJvttWYTHU=;O27nYhYOXWxUZ7a4sd2C3w=="
 ---

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-03-biden-harris-pay-respects-to-capitol-officer-killed-in-riot.md",
+      "title": "Biden, Harris pay respects to Capitol officer killed in riot",
+      "excerpt": "Vice President Kamala Harris and her husband, Doug Emhoff, have paid their respects to slain Capitol Police Officer Brian Sicknick as he lay in honor in the U.S. Capitol",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-03T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-white-house-reached-out-to-manchin-after-harris-west-virginia-interview.md",
       "title": "White House reached out to Manchin after Harris' West Virginia interview",
       "excerpt": "The White House called Democratic Sen. Joe Manchin after Vice President Kamala Harris conducted interviews with West Virginia media, according to a person with knowledge of the conversation.\n    \n",
@@ -55,59 +108,6 @@
       "topics": [
         "Election",
         "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-biden-and-harris-to-meet-republican-senators-to-push-for-covid-aid-package-live-updates.md",
-      "title": "Biden and Harris to meet Republican senators to push for Covid aid package – live updates",
-      "excerpt": "lawmakers have offered across the aisle agreement on a much-reduced economic package",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates?page=with:block-6017d5038f08b970c73037d1",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates?page=with:block-6017d5038f08b970c73037d1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1421,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/6035035ba5e9837aa0e255758836913a8f6571c2/0_397_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5da04b91e594dbf24221c7c05d74471f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/01/joe-biden-coronavirus-covid-relief-kamala-harris-donald-trump-impeachment-live-updates",
-      "publishedDateTime": "2021-02-01T02:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Kamala Harris"
       ]
     },
@@ -269,6 +269,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-30-kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-comparisons-on-twitter.md",
+      "title": "Kamala Harris’ Stepdaughter Ella Emhoff’s Modeling Contract Sparks Melania Trump Comparisons On Twitter",
+      "excerpt": "Some Twitter users were not impressed with Kamala Harris' stepdaughter Ella Emhoff signing a modeling contract, while others compared the 22-year-old's situation with that of former first lady Melania Trump,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838",
+      "originalUrl": "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838?amp=1",
+      "publishedDateTime": "2021-01-30T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together.md",
       "title": "Kamala Harris TV appearance in West Virginia surprises Manchin: 'That's not working together'",
       "excerpt": "Vice President Kamala Harris promoted the Biden administration’s \"critical\" coronavirus \"American Rescue Plan\" this week in a pair of interviews with local TV stations in West Virginia and Arizona.",
@@ -326,58 +378,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-29-ella-emhoff-kamala-harriss-stepdaughter-signs-with-img-models.md",
-      "title": "Ella Emhoff, Kamala Harris's stepdaughter, signs with IMG Models",
-      "excerpt": "IMG Models chief says design student ‘exudes joy’ and will join poet Amanda Gorman at agency",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/89bb9f7e42085dbd40c3b2e6f0b07e524a2b4733/0_103_7184_4310/master/7184.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fd9acd50a4e6222a3cba4fce6f922c6b",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models",
-      "publishedDateTime": "2021-01-29T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-01-27-representation-is-important-local-south-asian-americans-react-to-kamala-harris-inauguration-as-vice-president.md",
       "title": "'Representation is important:' Local South Asian-Americans react to Kamala Harris' inauguration as vice president",
       "excerpt": "Kamala Harris may be the first woman to serve as vice president of the United States, but her inauguration last week also marked the first time an American of South Asian descent was elected to such a high national office.",
@@ -386,7 +386,7 @@
       "originalUrl": "https://www.chicagotribune.com/suburbs/park-ridge/ct-prh-kamala-harris-south-asian-community-tl-0128-20210126-cndkdij3rrgqfnw32eiohe6qzq-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -666,7 +666,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president?share=facebook",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -718,7 +718,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
       "featuredContent": null,
       "highlight": null,
-      "heat": 316,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -986,7 +986,7 @@
       "originalUrl": "https://www.cbsnews.com/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 230,
       "tags": null,
       "images": [
         {
@@ -1581,7 +1581,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 133,
       "tags": null,
       "images": [
         {

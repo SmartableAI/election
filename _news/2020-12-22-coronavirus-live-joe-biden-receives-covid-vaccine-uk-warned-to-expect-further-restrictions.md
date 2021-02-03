@@ -197,6 +197,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GOP lawmakers urge Biden to meet with them on virus relief"
+    excerpt: "A group of Senate Republicans called on President Joe Biden to meet them at the negotiating table as the newly elected president signaled he could move to pass a new $1.9 trillion aid package with all Democratic votes."
+    publishedDateTime: 2021-02-01T07:13:00Z
+    webUrl: "https://www.businessinsider.com/gop-lawmakers-urge-biden-to-meet-with-them-on-virus-relief-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/gop-lawmakers-urge-biden-to-meet-with-them-on-virus-relief-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-lawmakers-urge-biden-to-meet-with-them-on-virus-relief-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Coronavirus live news: Biden warns 'darkest days' ahead for US; UK reports another 691 deaths"
     excerpt: "Anthony Fauci ‘extremely confident’ in vaccine; BioNTech’s CEO says tests being run on mutant strain; Ireland to tighten restrictions from Christmas Eve"
     publishedDateTime: 2020-12-22T23:25:00Z

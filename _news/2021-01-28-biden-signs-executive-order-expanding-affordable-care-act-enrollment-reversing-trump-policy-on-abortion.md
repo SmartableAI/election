@@ -111,6 +111,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Supreme Court cancels arguments over Trump-era immigration policies at Biden administration's request"
+    excerpt: "The Supreme Court on Wednesday agreed to a request by the Biden administration to remove two immigration-related cases from its upcoming calendar because they were no longer necessary due to policy changes by the new administration."
+    publishedDateTime: 2021-02-03T15:42:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Anwo0UQuhJA/supreme-court-trump-immigration-policies-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-immigration-policies-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-immigration-policies-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb6d4032-a134-4973-b53c-6a6612d09ffa/faea1385-1f73-4465-b5ed-6b5f5c4743ad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden team denies requests from Trump appointees to extend parental leave benefits at end of term: report"
+    excerpt: "Trump administration officials promised three months’ paid maternity leave were hoping to receive their full benefits after the Biden administration took over, but were disappointed to have their requests denied, according to a new report."
+    publishedDateTime: 2021-02-03T16:26:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dTs34jn-cXw/biden-denies-requests-trump-appointees-extend-parental-leave-benefits"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-denies-requests-trump-appointees-extend-parental-leave-benefits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-denies-requests-trump-appointees-extend-parental-leave-benefits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/314f29b6-b9c9-4c05-b3d2-ae7a2ac645a0/68c889cf-b668-4b8c-a9f0-a272442f7d6f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden pushes green energy agenda after campaign donations from green industry"
     excerpt: "President Biden has made it clear that climate is driving much of his agenda early in his administration, providing his green industry campaign donors with reason to celebrate."
     publishedDateTime: 2021-02-01T19:40:14Z

@@ -45,6 +45,17 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden threatens sanctions on Myanmar after military coup"
+    excerpt: "President Joe Biden is threatening to slap new sanctions on Myanmar after a coup that saw the military arrest the civilian leaders of its government."
+    publishedDateTime: 2021-02-02T01:46:00Z
+    webUrl: "https://www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "U.S. will act after sanctions law review in wake of Myanmar coup: Biden"
     excerpt: "U.S. President-elect Joe Biden delivers remarks on the U.S. response to the coronavirus disease (COVID-19) outbreak, at his transition headquarters in Wilmington, Delaware, U.S., December"
     publishedDateTime: 2021-02-01T22:48:00Z

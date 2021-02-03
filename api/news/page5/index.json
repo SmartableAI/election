@@ -2,6 +2,118 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-28-trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.md",
+      "title": "Trump meets with McCarthy in Florida to plan GOP House takeover in 2022",
+      "excerpt": "House GOP Leader Kevin McCarthy met with former President Trump at Mar-a-lago Thursday where the two agreed to work together on Republicans taking back the House in 2022.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fwi9dUj2ICg/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fwi9dUj2ICg/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Mccarthy.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.amp",
+      "publishedDateTime": "2021-01-28T13:35:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients.md",
+      "title": "Biden urged by House Dems to extend ObamaCare benefits to DACA recipients",
+      "excerpt": "More than 90 House Democrats led by Rep. Joaquin Castro are urging President Biden to extend ObamaCare health benefits to DACA recipients, in an effort some Republicans insist \"won't pass Congress\" if it were to be introduced as legislation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NAN54l9y8dg/biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NAN54l9y8dg/biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients.amp",
+      "publishedDateTime": "2021-01-28T11:51:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-trump-adviser-says-former-president-will-be-actively-involved-in-gop-politics-not-interested-in-third-party.md",
       "title": "Trump adviser says former president will be ‘actively involved’ in GOP politics, not interested in third party",
       "excerpt": "A longtime leading adviser to Donald Trump says the former president will be “actively involved” in Republican Party politics going forward.",
@@ -272,6 +384,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-28-as-biden-vows-monumental-action-on-climate-change-a-fight-with-the-fossil-fuel-industry-has-only-begun.md",
+      "title": "As Biden vows monumental action on climate change, a fight with the fossil fuel industry has only begun",
+      "excerpt": "President Biden is determined to curb America's carbon output, including oil and gas production. It's not going to come without a fight.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/",
+      "originalUrl": "https://www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5CCJ6GSAVMI6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/?outputType=amp",
+      "publishedDateTime": "2021-01-27T21:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-trump-supporter-charged-in-2016-twitter-scheme-to-undermine-hillary-clinton.md",
       "title": "Trump supporter charged in 2016 Twitter scheme to undermine Hillary Clinton",
       "excerpt": "A far-right social media influencer was arrested Wednesday and accused of interfering in the 2016 election through an organized campaign to boost Donald Trump's candidacy by conning supporters of his opponent,",
@@ -380,6 +544,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-28-bidens-1st-100-days-live-updates-fema-seeks-us-troops-to-help-with-vaccinations.md",
+      "title": "Biden's 1st 100 days live updates: FEMA seeks US troops to help with vaccinations",
+      "excerpt": "A draft request for assistance between FEMA and the Department of Defense is under discussion that would seek as many as 10,000 service members to support administering COVID-19 vaccine shots up to 100 sites nationwide,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
+      "originalUrl": "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/national-guard-vaccine-reut_hpMain_20210127-205858_16x9_1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011",
+      "publishedDateTime": "2021-01-27T18:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-fact-check-biden-family-bible-used-during-his-oath-is-historically-roman-catholic-not-connected-to-illuminati-or-freemasons-as-posts-claim.md",
       "title": "Fact check: Biden Family Bible used during his oath is historically Roman Catholic, not connected to Illuminati or freemasons as posts claim",
       "excerpt": "In the days following U.S. President Joe Biden’s inauguration on Jan. 20, posts on social media claimed that the Bible he used during his swearing-in ceremony is connected to the Masonic Order or the Illuminati.",
@@ -485,6 +701,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-joe-biden-launches-major-lobbying-campaign-to-build-support-for-19t-stimulus-package.md",
+      "title": "Joe Biden Launches Major Lobbying Campaign to Build Support for $1.9T Stimulus Package",
+      "excerpt": "Biden and Democratic leaders in Congress want more money and programs, but GOP lawmakers have balked at the legislation's massive price tag.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976",
+      "originalUrl": "https://www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1718429/biden-harris.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-launches-major-lobbying-campaign-build-support-19t-stimulus-package-1564976?amp=1",
+      "publishedDateTime": "2021-01-27T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -613,7 +881,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 166,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -881,58 +1149,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-27-biden-aims-for-most-ambitious-us-effort-on-climate-change.md",
-      "title": "Biden aims for most ambitious US effort on climate change",
-      "excerpt": "President Joe Biden is undertaking undertaking the most ambitious effort ever to cut America’s oil, gas and coal emissions and stave off the worst effects of climate change",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 905,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-27T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-27-mike-pence-wife-karen-reportedly-homeless-couch-surfing-in-indiana.md",
       "title": "Mike Pence, wife Karen reportedly homeless, couch-surfing in Indiana",
       "excerpt": "Reports are that the former Second Family is staying at the Indiana governor's cabin or crashing with kinfolk back in their home state.",
@@ -1116,218 +1332,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.md",
-      "title": "Dr. Scott Atlas fires back at Birx over 'bizarre' claim he gave Trump 'parallel data streams' on COVID",
-      "excerpt": "Former White House coronavirus adviser Dr. Scott Atlas joined \"The Ingraham Angle\" Tuesday to respond to former White House coronavirus response coordinator Dr. Deborah Birx's claim that he provided former President Trump with \"parallel data streams\" about the pandemic. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfIrozKUsas/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zfIrozKUsas/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-fires-back-at-birx-over-bizarre-claim-he-gave-trump-parallel-data-streams-on-covid.amp",
-      "publishedDateTime": "2021-01-26T21:29:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network.md",
-      "title": "Trump economic aide Larry Kudlow to host show on Fox Business Network",
-      "excerpt": "Fox Corp's news division has hired Larry Kudlow, a former top economic adviser to ex-President Donald Trump, as a contributor to Fox News and host of a new weekday show on the Fox Business Network, the company said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-fox-news-kudlow/trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network-idUSKBN29V2K3",
-      "originalUrl": "https://www.reuters.com/article/us-fox-news-kudlow/trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network-idUSKBN29V2K3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549158404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1HY",
-          "width": 706,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V2K3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2K3",
-      "publishedDateTime": "2021-01-26T20:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-biden-addresses-racial-bias-in-housing-directs-doj-to-phase-out-use-of-private-prisons-in-new-executive-orders.md",
-      "title": "Biden addresses racial bias in housing, directs DOJ to phase out use of private prisons in new executive orders",
-      "excerpt": "\"These aren't feel good policies. The evidence is clear. Investing in equity is good for economic growth,\" said Susan Rice, head of the Domestic Policy Council.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/26/joe-biden-sign-new-executive-orders-laying-out-racial-equity-agenda/4259711001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/26/joe-biden-sign-new-executive-orders-laying-out-racial-equity-agenda/4259711001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/26/USAT/a1e186e4-016a-436e-a20a-3567c57bfca6-Biden_pen.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4259711001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4259711001",
-      "publishedDateTime": "2021-01-26T18:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-white-house-says-biden-believes-nord-stream-2-pipeline-is-bad-deal-for-europe.md",
-      "title": "White House says Biden believes Nord Stream 2 pipeline is 'bad deal' for Europe",
-      "excerpt": "President Joe Biden believes the Nord Stream 2 natural gas pipeline is a \"bad deal for Europe\" and his administration will be reviewing restrictions on the project included in a bill that passed during the Trump administration,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-biden-nord-stream/update-1-white-house-says-biden-believes-nord-stream-2-pipeline-is-bad-deal-for-europe-idUSL1N2K12HE",
-      "originalUrl": "https://www.reuters.com/article/usa-biden-nord-stream/update-1-white-house-says-biden-believes-nord-stream-2-pipeline-is-bad-deal-for-europe-idUSL1N2K12HE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549153912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1G9",
-          "width": 806,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V29X",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V29X",
-      "publishedDateTime": "2021-01-26T17:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

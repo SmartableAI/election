@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-04-mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump.md",
+      "title": "Mitt Romney Points Out GOP Wasn't Concerned About Debt, 'Spending Massively' Under Trump",
+      "excerpt": "The Utah Republican highlighted that under GOP leadership the U.S. was \"adding almost a trillion dollars a year to the national debt.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553",
+      "originalUrl": "https://www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1724071/mitt-romney.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553?amp=1",
+      "publishedDateTime": "2021-02-03T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-us-will-not-expel-unaccompanied-migrant-children-under-trump-era-policy-now-being-reviewed.md",
       "title": "U.S. will not expel unaccompanied migrant children under Trump-era policy now being reviewed",
       "excerpt": "President Biden ordered his administration to review a CDC order that allows U.S. border officials to swiftly expel migrants without a court hearing.",
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-claims-idUSKBN2A22MF",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2800,
+      "heat": 2840,
       "tags": null,
       "images": [
         {
@@ -1493,58 +1545,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-oregon-republican-party-falsely-calls-us-capitol-riot-a-false-flag-meant-to-discredit-president-trump.md",
-      "title": "Oregon Republican Party falsely calls U.S. Capitol riot a ‘false flag’ meant to ‘discredit President Trump’",
-      "excerpt": "In a resolution from the Oregon GOP, the party falsely claims that the entire Capitol riot was a “false flag” staged to undermine President Donald Trump and silence his supporters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WHSI4BGFHEI6VKBFQ4RAATSBKA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/?outputType=amp",
-      "publishedDateTime": "2021-01-26T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

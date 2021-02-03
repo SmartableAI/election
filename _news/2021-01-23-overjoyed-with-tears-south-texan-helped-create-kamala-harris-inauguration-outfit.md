@@ -57,31 +57,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "What do Black women in rural NC think of Kamala Harris? | Raleigh News & Observer"
-    excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
-    publishedDateTime: 2021-01-31T04:01:00Z
-    webUrl: "https://www.newsobserver.com/news/article248902064.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/article248902064.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article248902064.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 50
-  - title: "'A visual turning point': Myrtle Beach-area women react to Kamala Harris' inauguration"
-    excerpt: "Kamala Harris' inauguration impacted many women across the country and Grand Strand, symbolizing a new chapter for public life, politics and social justice."
-    publishedDateTime: 2021-01-30T14:00:00Z
-    webUrl: "https://www.postandcourier.com/myrtle-beach/a-visual-turning-point-myrtle-beach-area-women-react-to-kamala-harris-inauguration/article_e1d3147e-60c4-11eb-9daf-f75c8feaecf7.html"
-    type: article
-    provider:
-      name: Post and Courier Charleston
-      domain: postandcourier.com
-    quality: 47
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/0/07/00710fc0-60c6-11eb-a2fb-03e06b985b97/600872e2853cb.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
 
 secured: "eiuKoGkk8FmIIGZn76g8sEVwTSY0VzufeY3PixVEIqxsxMP0BN01GcP9oRSIMzMu6FzBOxUcb5jWvhQ4e8Qcb4GZ7mj7UXha8j5abJygq9XI3spTTnu+QkbbtS/DH5egGfK2bwXXL/u6hnKqrlhNsgQClzLtdZsF9s/9JVri1kz0hLwbyereC8cJrdbYMRe6hOlqKq4Ug8UtFYqJRK11FN6jVRFHFzKxFaBA32tvET4Ggcmqnv8irtK+hgrfa5qzfSo8owh/uiH6W46XRFWF1nTozZwI1WF4Hma5/sPyXxexNvMnpeSj1uZKzdfUJp72RX/PJH0zdzIuDMNOHvOnRm2pngU4TP/Y238ESdxcscRDsJCRUCpik0nxM4byGJafJjuB2WfpEJ6Y5OV+WfkzL+Z+d1MaC7igv3G5AGOA4pENXTuIa+rgRwCqvV1IrXaXQnsrVzZYluydfewlZQiIq6yBxibHH9+H076hMD0zWer5lnWiOBACZh8LdAjeOViILiXa9ryvqntQExd+M0gcqw==;Lm6f/SQZEDvUXICkliTAQA=="
 ---

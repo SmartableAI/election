@@ -143,6 +143,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
+    excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."
+    publishedDateTime: 2021-02-01T20:31:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/biden-to-meet-republicans-on-covid-19-plan-in-test-of-bipartisan-approach-idUSKBN2A12TV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A12TV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A12TV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549878405&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101NY"
+        width: 819
+        height: 545
+        isCached: true
   - title: "What could Democratic control of Senate mean for wages, child care, unions under Biden?"
     excerpt: "With Democrats in control of the White House and Congress, President Joe Biden may reshape the workplace from raising wages to encouraging diversity"
     publishedDateTime: 2021-01-07T07:45:00Z
@@ -232,6 +248,20 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-07-2021/t_95d063d87b3e4ba18a4b8cfaf4d3bb71_name_1___1920x1080___30p_00_02_31_12_Still018.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
+        isCached: true
+  - title: "Biden hopes U.S. reaches 1.5 million COVID-19 vaccinations a day"
+    excerpt: "President Joe Biden has set a goal that the U.S. will eventually roll out 1.5 million COVID-19 vaccines a day, rather than 1 million a day, as previously suggested. Ed O'Keefe reports"
+    publishedDateTime: 2021-01-28T01:33:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-hopes-us-reaches-15-million-covid-19-vaccinations-a-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/c5c40351-05c9-455e-b250-2a454d9b4c96/thumbnail/1200x630/de26ce642b0eba79813d73b9a9b6928f/cbsn-fusion-president-biden-hopes-us-reaches-15-million-covid-19-vaccinations-a-day-thumbnail-633320-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden to nominate Rhode Island governor for Commerce, Boston mayor for Labor"
     excerpt: "President-elect Joe Biden will nominate Rhode Island Governor Gina Raimondo as his Commerce Department secretary and former union official and Boston Mayor Marty Walsh as Labor secretary, his transition team said late on Thursday."

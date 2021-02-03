@@ -2,6 +2,224 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-04-wikipedia-page-for-bidens-new-covid-czar-scrubbed-of-politically-damaging-material.md",
+      "title": "Wikipedia page for Biden's new Covid czar scrubbed of politically damaging material",
+      "excerpt": "A Democratic consulting firm made numerous changes to Jeff Zients' page as he became a more important figure on Biden’s team this summer and fall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "originalUrl": "https://www.politico.com/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/2f/86/c701e1f14b4b8695d6566e23a04f/ap120767208216.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/wikipedia-page-bidens-new-covid-czar-scrubbed-442735",
+      "publishedDateTime": "2020-12-03T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-health-officials-lay-out-wish-list-for-biden-administration-restore-the-cdc-prioritize-health-across-the-globe.md",
+      "title": "Health officials lay out wish list for Biden Administration: Restore the CDC, prioritize health across the globe",
+      "excerpt": "A who's who of health officials published a commentary Wednesday outlining their wish list for the incoming Biden-Harris Administration, starting with their desire for the U.S. to rejoin the global public health community.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2020/12/03/health-experts-call-biden-restore-cdc-prioritize-global-health/3792331001/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2020/12/03/health-experts-call-biden-restore-cdc-prioritize-global-health/3792331001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/505fe506013ba96c4ebd6d67660c8f64967f96f8/c=949-779-4680-2887/local/-/media/2018/02/20/USATODAY/USATODAY/636547234970675887-IMG-0406.JPG?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3792331001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3792331001",
+      "publishedDateTime": "2020-12-03T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-iran-says-it-will-comply-with-nuclear-deal-if-biden-lifts-all-sanctions.md",
+      "title": "Iran says it will comply with nuclear deal if Biden lifts all sanctions",
+      "excerpt": "Foreign minister calls on US to ‘show its good faith’ but appears to rule out renegotiating deal",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions",
+      "originalUrl": "https://www.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d209bfa3a03f58206f01df31391304887c2edad0/501_533_2999_1799/master/2999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a638d3f1e6624eecb32fe34530257b20",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/03/iran-comply-nuclear-deal-biden-lifts-all-sanctions",
+      "publishedDateTime": "2020-12-03T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-watch-live-biden-holds-virtual-roundtable-with-workers-and-small-business-owners.md",
+      "title": "Watch live: Biden holds virtual roundtable with workers and small business owners",
+      "excerpt": "Watch live coverage as President-elect Joe Biden holds a virtual roundtable with struggling workers and small business owners on the impact of the economic crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-live-biden-holds-virtual-roundtable-with-workers-and-small-business-owners-96991813515",
+      "originalUrl": "https://www.nbcnews.com/video/watch-live-biden-holds-virtual-roundtable-with-workers-and-small-business-owners-96991813515",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/biden_afscme_thumb.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo96991813515",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96991813515",
+      "publishedDateTime": "2020-12-02T14:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-the-latest-biden-gives-dire-virus-warning-for-next-2-months.md",
       "title": "The Latest: Biden gives dire virus warning for next 2 months",
       "excerpt": "President-elect Joe Biden has issued a dire warning about the spread of the coronavirus over the next two months, predicting as many as 250,000 deaths",

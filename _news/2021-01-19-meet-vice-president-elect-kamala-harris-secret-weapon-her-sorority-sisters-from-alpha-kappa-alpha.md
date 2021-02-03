@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-sorority-sisters-alph
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/"
 type: article
 quality: 110
-heat: 150
+heat: 230
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Love Kamala Harris? Buy Converse Sneakers And Pearls Like Hers Online"
+    excerpt: "Vice President Kamala Harris' signature #chucksandpearls look has endeared her to so many women across the nation. Here's how you can pull it off without breaking the bank"
+    publishedDateTime: 2021-01-22T22:40:00Z
+    webUrl: "https://www.newsweek.com/amplify/love-kamala-harris-buy-converse-sneakers-pearls-like-hers-online"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 105
+    images:
+      - url: "https://d.newsweek.com/en/full/1686820/kamala-harris-queen-theater-12-11-2020.jpg"
+        width: 2500
+        height: 1712
+        isCached: true
   - title: "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school"
     excerpt: "The sit-in is framed by advocates for reopening schools as a call against \"discrimination in the access of education in California.\""
     publishedDateTime: 2021-01-12T14:34:00Z
@@ -44,6 +58,52 @@ related:
       - url: "https://s.hdnux.com/photos/01/16/05/13/20468433/3/rawImage.jpg"
         width: 2048
         height: 1352
+        isCached: true
+  - title: "Kamala Harris' inauguration dress made by Louisiana designer"
+    excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
+    publishedDateTime: 2021-01-23T14:42:00Z
+    webUrl: "https://www.chron.com/news/article/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Kamala Harris' inauguration dress made by Louisiana designer"
+    excerpt: "The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
+    publishedDateTime: 2021-01-23T21:05:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/23/kamala-harris-inauguration-dress-made-by-louisiana/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/23/kamala-harris-inauguration-dress-made-by-louisiana/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/23/kamala-harris-inauguration-dress-made-by-louisiana/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/21/biden_inauguration_harris_48328_c0-242-5820-3637_s1200x700.jpg?e52f6e140b4040e7519f6080cc14ad0f9ca0b58a"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Inside Kamala Harris' New Home-and Why It's Not Where You Think"
+    excerpt: "Vice presidents usually settle into the Naval Observatory, but for now Kamala Harris is dropping her bags elsewhere. Here's why. While everyone knows that President Joe Biden resides at the White House,"
+    publishedDateTime: 2021-01-25T21:30:00Z
+    webUrl: "https://www.chron.com/realestate/article/Inside-Kamala-Harris-New-Home-and-Why-It-s-Not-15896968.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/24/75/20533103/3/rawImage.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school"
     excerpt: "A group of Berkeley parents are preparing to stage a sit-in at Vice President-elect Kamala Harris' elementary school to demand that schools reopen \"as soon as public health officials deem it safe,\" according to a news release."

@@ -124,6 +124,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden being pushed by aides to the left on COVID relief bill, longtime adviser believes: report"
+    excerpt: "Aides to President Biden and Democrats on the Hill are pushing him to take a harder line for a big coronavirus relief package than he otherwise would, surprising some in the White House orbit, according to a report."
+    publishedDateTime: 2021-02-03T15:19:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-being-pushed-aides-left-covid-relief-bill-adviser-believes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-being-pushed-aides-left-covid-relief-bill-adviser-believes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-being-pushed-aides-left-covid-relief-bill-adviser-believes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Joe-Biden-Oval-Office-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "+gtiwWyqs+J4ABdPDRyfv97OTbY/6RQhrqv2EWAVy7Qw3zgV3P6RqKvKNaYNk1qZ4+GaE2A9vOMxILnWeXagwDrvis/OqcVrkGZS/4cEENA77hLFczOcW2RkOjnLE5XbgJe0S37t7KMY8VrXAC0htvdkbBtELqJ6z3c5F1wg3HIWw84qwAQHK606gfNV6Mz3KSELBuTALuPl1JDjfDMKdkCkOWEVLWKUs42NjsH3TjzdpVeArponloTOrnEPpcLT0ZU0aI8/i9s5mTU6eQwu5RaRxhK1SiwDyGHWF9HbNHvmIvPUn94I0ppKp/UMX+VXljPBqQfj/7k3TKkwCd9evVWn0CRaupLylOwbRsTHzNKQzrRwcBJJsoIdwNti3Lr/QxM6apaGfX3lb2q5jBDDT8V5LGNoU+vNFC3jaBrdhfVQafmSgzu/H+BB6lap94nA95UN3yGlx/hO38l17BJ1GjdlHnnMU+fDaiVeUgaLCGKxu2YnlAuoIzvNyRFo+k5hCS4EjtLxfkO8c/jUtv52Ng==;+CRFoW3KkoevfBxw1RIuGg=="
 ---

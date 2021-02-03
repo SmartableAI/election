@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/twitter-criticism-kamala-harris-wearing-cont
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-criticism-kamala-harris-wearing-controversial-brand-dolce-gabbana-misogyny-3136209?amp=1"
 type: article
 quality: 62
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,40 @@ images:
     width: 1024
     height: 736
     isCached: true
+
+related:
+  - title: "Kamala Harris’ Stepdaughter Ella Emhoff’s Modeling Contract Sparks Melania Trump Comparisons On Twitter"
+    excerpt: "Some Twitter users were not impressed with Kamala Harris' stepdaughter Ella Emhoff signing a modeling contract, while others compared the 22-year-old's situation with that of former first lady Melania Trump,"
+    publishedDateTime: 2021-01-30T09:29:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Kamala Harris’ Stepdaughter Ella Emhoff Convinced ‘Protective’ Family To Accept Modeling Career"
+    excerpt: "After attending the inauguration of President Joe Biden and Vice President Kamala Harris, Ella Emhoff has signed a contract with the modeling agency, IMG. Although the VP’s stepdaughter went viral after wearing an embellished plaid Miu Miu coat to the historic event,"
+    publishedDateTime: 2021-01-28T21:29:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoff-convinced-protective-family-accept-modeling-3132804"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoff-convinced-protective-family-accept-modeling-3132804?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoff-convinced-protective-family-accept-modeling-3132804?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/20/ella-emhoff-the-step-daughter-of-democratic-vice.jpg"
+        width: 1024
+        height: 573
+        isCached: true
 
 secured: "tMUijE7sCDYzBaA5qXQzVms6GU7IPoDwTSA2wbC7HzDQgws6UHEimWYvOx3aJhUzcT1z7Ywc3QJVYSQBEjPNtisShgpaobmeavEfxRxP7piGPe/TEMgzgdya3lxfbdetO/n7Rrz+fNLLlw5CmEcwzXwvH+8IH/TZ3Dwd0o5pnCpJFW8l/W+wxgqYqhjpKKnDTvFu3MPn29xxpqBfRSbkrzFgURYwAEd/RT6+MmmX6q3+wMokhekoyZ+EGqaUes2hqqwXubLld8chW6M9NlV4WgqH+vzJejOqUwdU/1yNaRsy+2uAV/McrUneJKOyUqzc8GHZVGdSTdFxPniTlut86RrXg2jHlyYx+K/4hAiNmGiiOj17mmjw/oDjZZ+Ghh2tXlKqsTjQiqBAzUCzsHQwBGVtjPpWbCH85necuPpUB9WuSngetRtNMH4VJlM1yAqtAEy3fUOLxgzZaOjOoLY23VGrHalBFQKA/YTwhlF2jTA0ir3rwZS0kUkMOFzluQ/9DD9//WZKWKtZo9kkr0YMCw==;tGafbO5+xJ5alTY2Sx+xTw=="
 ---
