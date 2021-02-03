@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pro-Trump Lawyer Lin Wood Is Investigated for Alleged Illegal Voting in Georgia"
+    excerpt: "Georgia officials are investigating whether attorney and pro-Trump activist L. Lin Wood may have voted illegally in Georgia while living in South Carolina. Georgia officials opened the investigation after a news report said that Mr."
+    publishedDateTime: 2021-02-03T03:43:00Z
+    webUrl: "https://www.wsj.com/articles/pro-trump-lawyer-lin-wood-is-investigated-for-alleged-illegal-voting-in-georgia-11612327413"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-lawyer-lin-wood-is-investigated-for-alleged-illegal-voting-in-georgia-11612327413"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-lawyer-lin-wood-is-investigated-for-alleged-illegal-voting-in-georgia-11612327413"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-294135/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
     excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
     publishedDateTime: 2021-01-23T19:39:00Z

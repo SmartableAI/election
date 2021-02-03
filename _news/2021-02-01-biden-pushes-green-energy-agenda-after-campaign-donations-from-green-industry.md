@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Eric Trump blasts 'double standard in this country' amid reports Biden DOJ pick has ties to Hunter attorney"
+    excerpt: "Trump Organization Executive Vice President Eric Trump slammed the Biden administration on \"Hannity\" Tuesday after Fox News reported a new Justice Department appointee has ties to an attorney for the president's beleaguered son Hunter."
+    publishedDateTime: 2021-02-03T04:53:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OFyEAgK9Jw/eric-trump-blasts-double-standard-as-biden-doj-pick-has-ties-to-hunters-attorney"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-blasts-double-standard-as-biden-doj-pick-has-ties-to-hunters-attorney.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-blasts-double-standard-as-biden-doj-pick-has-ties-to-hunters-attorney.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b101c2bc-406d-439e-8607-d0c805f41ade/ca8deed2-0787-4933-aa8b-b0d410b1fb65/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rep. Murphy urges Biden administration to continue Trump approach to Iran: 'These folks are not our friends'"
     excerpt: "North Carolina Republican Rep. Greg Murphy is spearheading an effort to urge President Biden not to reenter the Iran nuclear deal or ease sanctions without verifiable assurances about the country’s nuclear activities."
     publishedDateTime: 2021-01-29T23:10:02Z

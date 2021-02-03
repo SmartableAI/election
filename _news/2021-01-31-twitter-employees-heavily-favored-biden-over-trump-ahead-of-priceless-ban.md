@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-biden-trump-ban-2020-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp"
 type: article
 quality: 188
-heat: 448
+heat: 468
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 172
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78385902-ae74-42db-bd5c-1d8a0d156375/07ce6a83-4adb-4273-a9d2-d9602aa920d3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Eric Trump blasts 'double standard in this country' amid reports Biden DOJ pick has ties to Hunter attorney"
+    excerpt: "Trump Organization Executive Vice President Eric Trump slammed the Biden administration on \"Hannity\" Tuesday after Fox News reported a new Justice Department appointee has ties to an attorney for the president's beleaguered son Hunter."
+    publishedDateTime: 2021-02-03T04:53:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OFyEAgK9Jw/eric-trump-blasts-double-standard-as-biden-doj-pick-has-ties-to-hunters-attorney"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-blasts-double-standard-as-biden-doj-pick-has-ties-to-hunters-attorney.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-blasts-double-standard-as-biden-doj-pick-has-ties-to-hunters-attorney.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b101c2bc-406d-439e-8607-d0c805f41ade/ca8deed2-0787-4933-aa8b-b0d410b1fb65/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

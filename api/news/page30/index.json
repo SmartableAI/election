@@ -2,6 +2,105 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-12-20-navarro-we-are-all-china-hawks-because-of-trump.md",
+      "title": "Navarro: 'We are all China hawks' because of Trump",
+      "excerpt": "As tensions between the U.S. and China rage on, White House trade adviser Peter Navarro told \"Fox & Friends Weekend\" that President Trump has pushed both parties to take a tougher line against China.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFTCahBxRTw/navarro-we-are-all-china-hawks-because-of-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFTCahBxRTw/navarro-we-are-all-china-hawks-because-of-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350698854664.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/navarro-we-are-all-china-hawks-because-of-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/navarro-we-are-all-china-hawks-because-of-trump.amp",
+      "publishedDateTime": "2020-12-20T07:46:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-20-romney-says-trump-has-blind-spot-on-russia-calls-hack-extraordinarily-damaging.md",
+      "title": "Romney says Trump has 'blind spot' on Russia, calls hack 'extraordinarily damaging'",
+      "excerpt": "Republican U.S. Senator Mitt Romney said a widespread data breach across the U.S. government was \"extraordinarily damaging\" and that President Donald Trump has a \"blind spot\" when it comes to Russia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-cyber-breach-idUSL1N2J008N",
+      "originalUrl": "https://www.reuters.com/article/usa-cyber-breach-idUSL1N2J008N",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2J008N",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2J008N",
+      "publishedDateTime": "2020-12-20T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-biden-mulls-punishments-for-russia-over-suspected-role-in-government-hack.md",
       "title": "Biden mulls punishments for Russia over suspected role in government hack",
       "excerpt": "President-elect will consider options for unprecedented hacking of US government agencies",
@@ -1207,119 +1306,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions.md",
-      "title": "Abortion, Guns and Trump: A Church Group Tries to Navigate America’s Divisions",
-      "excerpt": "In suburban Michigan, a group of worshipers from Calvary Christian Reformed Church sought understanding through dialogue. Sometimes it was tough going. ‘My soul is hurting,’ one member lamented.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
-      "originalUrl": "https://www.wsj.com/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-274212/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
-      "publishedDateTime": "2020-12-18T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-bidens-to-receive-first-dose-of-pfizer-vaccine-monday.md",
-      "title": "Bidens to receive first dose of Pfizer vaccine Monday",
-      "excerpt": "President-elect Joe Biden and incoming first lady Jill Biden will receive the first dose of the Pfizer vaccine on Monday in Delaware, transition spokesperson Jen Psaki told reporters on a briefing call Friday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BgS6YiV7RSU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BgS6YiV7RSU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218030711-joe-and-jill-biden-on-late-night-with-stephen-colbert-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/biden-receiving-vaccination/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/biden-receiving-vaccination/index.html",
-      "publishedDateTime": "2020-12-18T10:29:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -383,6 +383,22 @@ related:
         width: 1440
         height: 1059
         isCached: true
+  - title: "Factbox: What has Biden done so far to roll back Trump's immigration policies?"
+    excerpt: "U.S. President Joe Biden on Tuesday plans to order a review of asylum processing and the legal immigration system, part of a major effort to reverse many of the restrictive policies put in place by former President Donald Trump."
+    publishedDateTime: 2021-02-03T03:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-factbox/factbox-what-has-biden-done-so-far-to-roll-back-trumps-immigration-policies-idUSKBN2A231M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A231M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A231M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550082344&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111R5"
+        width: 817
+        height: 545
+        isCached: true
   - title: "McConnell proposes delaying Trump's trial as Biden details Covid strategy – live"
     excerpt: "Fauci says it is ‘liberating’ to work under new administration – follow live"
     publishedDateTime: 2021-01-22T00:20:00Z

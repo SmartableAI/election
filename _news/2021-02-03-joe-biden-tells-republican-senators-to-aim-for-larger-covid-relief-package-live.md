@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden tells Republican senators to aim for larger Covid relief package – live"
 excerpt: "Trump legal team files 14-page brief defending his conduct on day of Capitol riot – follow all the latest politics news"
-publishedDateTime: 2021-02-02T18:41:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019a8348f08da42e4058d0b"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019a8348f08da42e4058d0b"
+publishedDateTime: 2021-02-02T18:53:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019ac418f08c315844c8751"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019ac418f08c315844c8751"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
 type: article
@@ -433,8 +433,8 @@ related:
         isCached: true
   - title: "Biden said Republican proposal for $600 billion in COVID-19 aid 'way too small': Schumer"
     excerpt: "U.S. Senate Democratic Leader Chuck Schumer said President Joe Biden told Democrats the proposal ten Senate Republicans have made for $600 billion in COVID-19 relief is \"way too small.\""
-    publishedDateTime: 2021-02-03T01:19:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUSKBN2A22ND"
+    publishedDateTime: 2021-02-03T02:43:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-democrats/biden-said-republican-proposal-for-600-billion-in-covid-19-aid-way-too-small-schumer-idUSL1N2K82A2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22ND"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22ND"
     type: article
@@ -977,6 +977,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "hvKq3M3VR/mZc1VYptj40t9JxL6Z3hfBUwV2BYI0PrB6DPS6dnxOb2LmEJCPhcZVqqJ9T2kuM1fG1NjuDXVAZaAZefr2LY4Ws0iH6rSZ1g5+wHMm/JKR/5O+j4mP5nQQmxBeZmzeDL8CkmVM4bN+zdB9BNhvtPehWobmACsQaG7FngmyUDZE+cHKfZxw5LViqeu5WvSR62GnigFIwAqI5bDf2e3rF/MKAThIy3PV5SZbi4ZDR/hdSiAJOIGayce2O4CDYqVGYnCtldkJTuRWS0D/ZC1gDl0tpFnW45FfnmR1ARLO812NwGgQLk0RA2IG5lMki1chI931W31WhkSrJfAcnoS+tPlWG4HR9sY08ZI=;x1tEf1VlpbyZKDBs+TZ5Aw=="
+secured: "SXQN0jEjrWIvhyLqfE9JGon+yTDLOqh4o/le4m8/rZL1T2p8sJ68tyLfvFTvBHshaf36XCuAJ4c4LgeWaaHWXEcPB2WJfIo5s0TZSoYADRbeTDakgDpp60uT/umAUWE/js0MDu6b4mEmnaoeryFk6btCTk30wzwN/8KV/5yT7QjsOrdyOJW4bX8AaEYcalhq4s1PP7mJ2kyUo+kiKZiVtWfoh/afWwzW0hF41GZ6LCrb3Z7yOi2HZHTL3krLg3gNqAD1B6pgy86GDj9sAFGj7EyO7XVq9V+MtE5mHZq1IGYbEW5KYA5j3Z3riEXXy6nRukmxwzqKmCYoGXo1btYVkFY5RMcmpzmZALsVnQsTQec=;H1471DXi/bqNY3OtVoeuaQ=="
 ---
 

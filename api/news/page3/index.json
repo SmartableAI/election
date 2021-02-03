@@ -2,6 +2,114 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-31-trump-republicans-raised-207m-amid-push-to-contest-election.md",
+      "title": "Trump, Republicans raised $207M amid push to contest election",
+      "excerpt": "In the weeks following Election Day, President Trump and Republican committees and candidates raised at least $207 million, according to a recent Federal Election Commission (FEC) filing, as Trump and Republican lawmakers contested election results.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HkiTnz91k5E/trump-republican-fundraising-after-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HkiTnz91k5E/trump-republican-fundraising-after-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 570,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-republican-fundraising-after-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-republican-fundraising-after-election.amp",
+      "publishedDateTime": "2021-01-31T10:37:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-biden-presidency-may-herald-new-start-for-saudi-iranian-relations.md",
+      "title": "Biden presidency 'may herald new start for Saudi-Iranian relations'",
+      "excerpt": "Existing quiet cooperation has been under way for months, say authors of Guardian comment article",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations",
+      "originalUrl": "https://www.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6c8daf2981862a54e6d90400e66a7e634c427b33/0_161_4928_2957/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6f3bdbb9c12686d47a4d2c8279692812",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations",
+      "publishedDateTime": "2021-01-31T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-heres-what-to-exect-from-pences-post-vp-life.md",
       "title": "Here's what to exect from Pence's post-VP life",
       "excerpt": "Pence's relationship with former President Donald Trump, which, to put it mildly, faltered after the deadly Jan. 6 Capitol riot, does not appear to have improved over the last few weeks, NBC reports.",
@@ -161,7 +269,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 448,
+      "heat": 468,
       "tags": null,
       "images": [
         {
@@ -1237,118 +1345,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.md",
-      "title": "Cuomo blames nursing home scandal on 'political attack' by Trump admin",
-      "excerpt": "In his first public comments since a scathing attorney general report finding New York Gov. Andrew Cuomo’s administration undercounted nursing home deaths, the governor on Friday argued criticisms of him were a \"political attack\" that began with the Trump administration. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/262Ph4N8eJ8/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/262Ph4N8eJ8/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8026521c-9bdb-469e-89f3-e20f16b14ada/867e4894-5263-4683-bb40-4b9492ddefc6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp",
-      "publishedDateTime": "2021-01-29T10:51:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.md",
-      "title": "Biden reportedly warned family about business dealings before election: 'For Christ’s sake, watch yourself’",
-      "excerpt": "President Biden, before the presidential election, reportedly told his family to \"watch yourself\" about their business dealings, Politico reported, as their various financial entanglements came under scrutiny.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ssYWolxvQ3U/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ssYWolxvQ3U/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reportedly-warned-family-about-business-dealings-before-election-for-christs-sake-watch-yourself.amp",
-      "publishedDateTime": "2021-01-29T08:28:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

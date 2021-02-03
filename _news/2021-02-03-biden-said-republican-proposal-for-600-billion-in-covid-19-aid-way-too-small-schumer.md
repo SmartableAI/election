@@ -2,9 +2,9 @@
 category: news
 title: "Biden said Republican proposal for $600 billion in COVID-19 aid 'way too small': Schumer"
 excerpt: "U.S. Senate Democratic Leader Chuck Schumer said President Joe Biden told Democrats the proposal ten Senate Republicans have made for $600 billion in COVID-19 relief is \"way too small.\""
-publishedDateTime: 2021-02-03T01:19:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUSKBN2A22ND"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUSKBN2A22ND"
+publishedDateTime: 2021-02-03T02:43:00Z
+originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-democrats/biden-said-republican-proposal-for-600-billion-in-covid-19-aid-way-too-small-schumer-idUSL1N2K82A2"
+webUrl: "https://www.reuters.com/article/health-coronavirus-usa-democrats/biden-said-republican-proposal-for-600-billion-in-covid-19-aid-way-too-small-schumer-idUSL1N2K82A2"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22ND"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22ND"
 type: article
@@ -385,8 +385,8 @@ related:
         isCached: true
   - title: "Joe Biden tells Republican senators to aim for larger Covid relief package – live"
     excerpt: "Trump legal team files 14-page brief defending his conduct on day of Capitol riot – follow all the latest politics news"
-    publishedDateTime: 2021-02-02T18:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019a8348f08da42e4058d0b"
+    publishedDateTime: 2021-02-02T18:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019ac418f08c315844c8751"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
     type: article
@@ -977,6 +977,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "RiKg9Udr7L7XKR7lK0mZZT9bvblgjdLdkEyuQsEU/6jNREmlEIHp1Q3/hL2Iv/rBR48NbnUqwV8gWUJhz1EIwN+SGAKvhobJzleIX99cxTLl8efFWR30puoiqGJHIyMe9uUaYI1yJqItEEzUYXkGd/e4rXmdBooLz9aNUj2khrSJ2EvyGx2souyLUeQpQBET/3o0Xo65dRPiB9tW34OLzfuK/c2JWT3olQdgOBAiPWj3oTW1engoV9jzYOxbWuK+3IJKbozuhh7MCAoUkqj/FwlDPmO+wJPXhl9WzRuVk6Y2b492z7pnEw1DyIrWgLoZBSAO/BPIvXPNtExxSKK0b8H8vrX7aJmHm3sH6QWeMcI=;P2PQTASEqtQpYw/msjdmeQ=="
+secured: "CFiRpJQ30CRL7HMTQsz0NFqAsSngo/kB/ZSaArpM+lEl8vHhOViuPW1Y3Hvg0znTQioc7fl6nz1P0TyAKr7KDOcqrswObCAk+jcTJAxvhiObFJnIrF3q6RI1qWOHnJbbWyIhy45gFJrnk/+E1+rp7W6jGDclRsBp4ILH56S6LuswBRLkdUZeIfHh7AkPL3Y5WiSbG0uxcUybTgGJXw9PqCSZPe3yVON/rE2KlJZSyqsnCptEegEOixlM0zoNacCbLdwZKb1728XHYYJalMQV6Ggpk2rbfDHhmLDyclH/syq6zFZPLKU8tokfYwWnX4oWVD4eekz7dLgp7RJLGYF1XgdDBDFIQIPuCxPhM2sJJ0Y=;0QiCAh+ZZKii3EXv9ddByQ=="
 ---
 
