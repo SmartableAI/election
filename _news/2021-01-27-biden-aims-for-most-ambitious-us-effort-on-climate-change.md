@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oi
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 885
+heat: 905
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/fb6f912e-13a7-4545-af8e-5c4d110ebf4c/thumbnail/1200x630/6af22f0125269db1ce7ba18ee72dead2/gettyimages-1230788926.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trade to be part of Biden's China strategy, not driving force: ex-USTR official"
+    excerpt: "Trade will be a part of President Joe Biden's overall negotiation policy with China, but it won't be the driving force in Sino-U.S. relations, as it was under former President Donald Trump, a former official at the Office of the U."
+    publishedDateTime: 2021-02-03T09:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-rcep-gmf-idUSKBN2A30GV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A30GV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A30GV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550105113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1209M"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden's 1st 100 days live updates: FEMA seeks US troops to help with vaccinations"
     excerpt: "A draft request for assistance between FEMA and the Department of Defense is under discussion that would seek as many as 10,000 service members to support administering COVID-19 vaccine shots up to 100 sites nationwide,"

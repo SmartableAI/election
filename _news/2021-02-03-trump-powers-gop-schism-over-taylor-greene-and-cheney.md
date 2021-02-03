@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Trump powers GOP schism over Taylor Greene and Cheney"
-excerpt: "The Republican civil war hits a critical moment on Wednesday over the fate of two prominent lawmakers who represent rival visions for a party torn by the toxic but still powerful influence of Donald Trump."
-publishedDateTime: 2021-02-03T00:19:00Z
-originalUrl: "https://www.cnn.com/2021/02/03/politics/republican-party-marjorie-taylor-greene-liz-cheney/index.html"
-webUrl: "https://www.cnn.com/2021/02/03/politics/republican-party-marjorie-taylor-greene-liz-cheney/index.html"
+excerpt: "The Republican civil war hits a critical moment on Wednesday over the fate of two prominent lawmakers who represent rival visions for a party torn by the toxic but still powerful influence of Donald Trump.\n    \n"
+publishedDateTime: 2021-02-03T12:49:56Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zBw_ZsW74kM/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zBw_ZsW74kM/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/republican-party-marjorie-taylor-greene-liz-cheney/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/republican-party-marjorie-taylor-greene-liz-cheney/index.html"
 type: article
-quality: 135
-heat: 135
+quality: 175
+heat: 195
 published: true
 
 provider:
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
@@ -31,6 +30,24 @@ images:
     height: 619
     isCached: true
 
-secured: "4oPDTvBQ8D8xDhKUB+AwSd8R7dzjjeaQZnGSBr7bwzDJyFxY/yf42p1JxKgOwt7fi5cpbJA5hFXmvN4kQ106q5s3g/C+eKrKKvKfBeKfhYWkifozNiCCt8qQmDZmHbcOeuc/oESY0uzgiTcTqsdqCXYGk6IvkLMP/4eANBif5hlTQsbiG4hsovjDqSHcApg4tC2J3b55goLb6mERyEJHi6GH2ynYRAj82NLY3txJ3o2ShkNspz/OwQj1pGY4TxOygGMnDqHuZ5+4D0RTsqqWVob2T3Cpxq1gEn1UfbO0Aga/tzjadDPqfYMrC/HRGtzOBtm6d/UoeW9mmRkT92VjFvODXoiUJpnnIdjPsHwdZAkd/7wtY6emZgQKLZMO+u7g+xV5t24lW+bzqmX/ISufO5GwXfp+LTl0116u4e3TY40pVZK7cmQbgzXFxdp2I8YptK9u4JSUC5UwfZI7ZGIGcX+9fY80JRA4YpqOxbAeVDd0exLboJF51/uoh/kdc+lUXJXrVq84qptUTAoc1LHSMA==;5/BFNoq5lAlMqGsCOucs+Q=="
+related:
+  - title: "Liz Cheney gets boost from McConnell amid divisive intraparty battle over Trump's impeachment"
+    excerpt: "Rep. Liz Cheney, under fire from former President Donald Trump and his staunchest defenders, is picking up support from some influential Republicans as her allies close ranks and resist the effort to oust her from the third-ranking spot in House GOP leadership.\n    \n"
+    publishedDateTime: 2021-02-02T00:47:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m0ZkBUWu5fo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/liz-cheney-mitch-mcconnell/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/liz-cheney-mitch-mcconnell/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201183429-cheney-mcconnell-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "1w+spyOgT2AimzpBufNLmj+tT3IYPjwDLeYjoUDFkr46VuQGjpC/Aap1MF54KyLOtMytkW8b7wbOMkmnzLf246KQa66je257MgNC/kYJqQXLw47Cm8ZHPobvlmyHRgshr9FI/rCiCNRSB0ZFC1bCWrsrcAQHU8HaAX/FJN3eevzMZIVFdWaJq4pA4AOJu6n0LqVz3AovObg/KEsL0RDL2596PVUQKo3Ccg74fKvrrZgF2grPwVt10SWNPt3wtuSR7AMx9N+9Bj9DmuoU+fw38QSy5AeF9c9lQB0ftdlQBGizGFBX/rp179ZpxQmLg3w+zBdyvE+E3NCJwZvqCc24ei4TONABJTWG9UpzLpbZCYo=;GlRllurvJK4KIVT8Kubveg=="
 ---
 

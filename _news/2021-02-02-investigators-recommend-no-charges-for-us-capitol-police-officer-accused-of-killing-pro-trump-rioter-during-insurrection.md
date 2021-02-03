@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hundreds of congressional staffers sign letter to senators urging them to convict Trump"
+    excerpt: "Hundreds of congressional staffers wrote an open letter to senators urging them to consider the trauma aides experienced during the deadly insurrection at the US Capitol and to convict former President Donald Trump \"for our sake, and the sake of the country.\"\n    \n"
+    publishedDateTime: 2021-02-03T12:40:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fsbReMtBNX0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/congressional-staffers-impeachment-letter/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/congressional-staffers-impeachment-letter/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130323071934-us-capitol-building-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kaine working on Trump censure resolution though other Democrats throw cold water on the idea"
     excerpt: "Democrat Sen. Tim Kaine of Virginia said Wednesday he has drafted a resolution to censure former President Donald Trump for his actions ahead of the January 6 deadly riot at the US Capitol, a method some think would be a faster way to hold Trump accountable than an impeachment trial.\n    \n"
     publishedDateTime: 2021-01-27T17:03:39Z

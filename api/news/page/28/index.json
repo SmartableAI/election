@@ -2,6 +2,223 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-12-24-george-clooney-on-the-midnight-sky-and-donald-trump.md",
+      "title": "George Clooney on ‘The Midnight Sky’ and Donald Trump",
+      "excerpt": "His new movie is on Netflix, but the actor-director says theaters won’t go away and Hollywood will be fine. He’s not so sure about Washington.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/24/arts/23george-clooney2/23george-clooney2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/23/movies/george-clooney-midnight-sky.amp.html",
+      "publishedDateTime": "2020-12-23T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-milwaukee-county-spent-nearly-17-million-on-trump-recount.md",
+      "title": "Milwaukee County spent nearly $1.7 million on Trump recount",
+      "excerpt": "Newly released figures show that the presidential recount in Wisconsin’s Milwaukee County came in slightly under budget, at nearly $1.7 million",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/milwaukee-county-spent-17-million-trump-recount-74881211",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/milwaukee-county-spent-17-million-trump-recount-74881211",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/WNT/201220_wn_abubey_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/milwaukee-county-spent-17-million-trump-recount-74881211",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/milwaukee-county-spent-17-million-trump-recount-74881211",
+      "publishedDateTime": "2020-12-23T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-george-papadopoulos-ecstatic-over-trump-pardon-hints-at-possible-lawsuit.md",
+      "title": "George Papadopoulos 'ecstatic' over Trump pardon, hints at possible lawsuit",
+      "excerpt": "Former Trump 2016 campaign adviser George Papadopoulos celebrated the pardon President Trump granted to him while noting that he may not be done with his accusers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dUmlp3-7NnU/george-papadopoulos-trump-pardon-reaction-possible-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dUmlp3-7NnU/george-papadopoulos-trump-pardon-reaction-possible-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.foxbusiness.com/BrightCove/854081161001/202012/1278/854081161001_6218023626001_6218023729001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/george-papadopoulos-trump-pardon-reaction-possible-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-papadopoulos-trump-pardon-reaction-possible-lawsuit.amp",
+      "publishedDateTime": "2020-12-23T07:27:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-biden-warns-darkest-days-are-ahead-for-us.md",
+      "title": "Biden warns 'darkest days' are ahead for U.S....",
+      "excerpt": "Watch \"President-elect Joe Biden warns of 'darkest days' are ahead for U.S.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20201223163005-president-elect-joe-biden-warns-of-darkest-days-are-ahead-for-u-s/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2020/12/23/story_08244329_1608741244.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-trump-derails-santa-rally-brexit-deal-hopes-lift-pound.md",
       "title": "Trump derails \"Santa rally\", Brexit deal hopes lift pound",
       "excerpt": "World stocks ticked up on Wednesday, as a last-minute intervention by President Donald Trump dampened positive sentiment over a U.S. stimulus deal, while the pound rose on the possibility of a Brexit agreement.",
@@ -1147,227 +1364,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-trump-will-face-different-twitter-rules-when-he-leaves-office.md",
-      "title": "Trump Will Face Different Twitter Rules When He Leaves Office",
-      "excerpt": "As a public official, President Trump tweets with less risk of having his posts taken down or his account suspended. That will change on Jan. 20.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198",
-      "originalUrl": "https://www.wsj.com/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-274855/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-will-face-different-twitter-rules-when-he-leaves-office-11608642198",
-      "publishedDateTime": "2020-12-22T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-televangelist-pat-robertson-says-trump-lives-in-an-alternate-reality-and-should-move-on-from-election-loss.md",
-      "title": "Televangelist Pat Robertson says Trump lives in an 'alternate reality' and should move on from election loss",
-      "excerpt": "Televangelist Pat Robertson, a prominent conservative backer of Donald Trump, said Monday that the President is living in an \"alternate reality\" and should \"move on\" from his 2020 election loss.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AYj73pOQRMo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AYj73pOQRMo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190516000402-pat-robertson-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/22/politics/pat-robertson-trump-2020-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/pat-robertson-trump-2020-election/index.html",
-      "publishedDateTime": "2020-12-22T08:55:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-biden-picks-connecticut-schools-chief-as-education-secretary.md",
-      "title": "Biden picks Connecticut schools chief as education secretary",
-      "excerpt": "President-elect Joe Biden has chosen the education commissioner for Connecticut and a former public school teacher to serve as education secretary",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-picks-connecticut-schools-chief-as-education-secretary/2020/12/22/a8f43760-4467-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-22T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-from-pivotal-endorsement-to-cabinet-advice-jim-clyburn-is-here-for-joe-biden.md",
-      "title": "From pivotal endorsement to Cabinet advice, Jim Clyburn is here for Joe Biden",
-      "excerpt": "Don't call Rep. Jim Clyburn a member of President-elect Joe Biden's inner circle.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M99b9d1VBNk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M99b9d1VBNk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201220222040-02-joe-biden-jim-clyburn-0226-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/22/politics/joe-biden-jim-clyburn/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/joe-biden-jim-clyburn/index.html",
-      "publishedDateTime": "2020-12-22T04:00:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

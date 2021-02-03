@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hundreds of congressional staffers sign letter to senators urging them to convict Trump"
+    excerpt: "Hundreds of congressional staffers wrote an open letter to senators urging them to consider the trauma aides experienced during the deadly insurrection at the US Capitol and to convict former President Donald Trump \"for our sake, and the sake of the country.\"\n    \n"
+    publishedDateTime: 2021-02-03T12:40:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fsbReMtBNX0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/congressional-staffers-impeachment-letter/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/congressional-staffers-impeachment-letter/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130323071934-us-capitol-building-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kaine working on Trump censure resolution though other Democrats throw cold water on the idea"
     excerpt: "Democrat Sen. Tim Kaine of Virginia said Wednesday he has drafted a resolution to censure former President Donald Trump for his actions ahead of the January 6 deadly riot at the US Capitol, a method some think would be a faster way to hold Trump accountable than an impeachment trial.\n    \n"
     publishedDateTime: 2021-01-27T17:03:39Z
@@ -395,6 +411,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "RLAKwzB45NutPBZgen76zkbGWWpYpOgX0GWbHby+BBuVjt6NG40EiEeDF97RBY0pw3URrbPftv9rkJj6PUTB3vtTBp+qre6TxnluxqSx4UzkxtqhBrEpedDJTbGCGLDctsojYE2KQJeMcUdARCIa1GijLxqHlQFH95ABv/vG1aguVAiXgg+e2RMlBmKjrxYzrjFvRKMI1/qq8SJrB2w0tqm6H/lcjlXsZCc3QmnRUlJPWqqk4jQQbIIZEwe6p5cXg3H0MKw43rE8HLqSRVnkxVAOXb0OWRAbmixuU0qNPdMrIFjRZ8krL4o+U35YERCn8KqnRDyA8k/zbcU5XFoyVhwmyM1PS8kmU22RXeO89xg=;UNwFU4MLyjLQkhJdlhGgUg=="
+secured: "SoYpGkCEo63X0bWamftzEKXzI8Mm9Sl+jzbmsuTfdpuRu/VuS/kLfSNhLdfXeDKdGdRTvn060qLwBV3fPpx8EnbbApqywOuN/5vQSvZlsYtnM0B2SkO57ZYq/JMaWzKtv7MlRoItoljLSFsu3KgXly53eVjX9wYUmRW8n6Gsn6IRN0bNR+BuEQ/NKECvHluSp5YQvbewNXwl+PzB/K15bstLEMSBAEWARZeIqenO7MXEhDb3dZ6rn4yN2GTzNGHIapVeKIZSwfF5ruQGtsXZBvH+XVPa4yZBUgpKMYyXqTOsygS4SvJ5nzc/hvGO9mZUviS54JmsMKeZEZT5XOWc+6T8RDWWicVxSNdOQInP5ztOKMKmj3vTj0LSpnX1TvIElERdbaKFVniJJ83CL4x0+Vb2BH6M7I11wO1IRwcGgOA/bYwvtJn3J9z/qrNR9ye6HmU82knvXfd/DZwJDw8J2NEzrItBdQFDBdRRznR1x0Ott6/c0Q4q8IvISs3+BNKGnb6BEAmtuI2bpYqThcVplQ==;bvUqUNCgkzCGj/eGxKRzsw=="
 ---
 

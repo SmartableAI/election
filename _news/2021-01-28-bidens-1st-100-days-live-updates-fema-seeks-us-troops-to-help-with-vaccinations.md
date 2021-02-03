@@ -255,6 +255,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trade to be part of Biden's China strategy, not driving force: ex-USTR official"
+    excerpt: "Trade will be a part of President Joe Biden's overall negotiation policy with China, but it won't be the driving force in Sino-U.S. relations, as it was under former President Donald Trump, a former official at the Office of the U."
+    publishedDateTime: 2021-02-03T09:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-rcep-gmf-idUSKBN2A30GV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A30GV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A30GV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550105113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1209M"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Watch Live: Biden signs executive actions on abortion policy, health care access"
     excerpt: "Mr. Biden has vowed to protect and expand the Affordable Care Act, which was enacted while he was vice president."
     publishedDateTime: 2021-01-28T14:17:00Z

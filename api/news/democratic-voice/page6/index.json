@@ -2,6 +2,118 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-20-romney-trump-has-a-blind-spot-when-it-comes-to-russia.md",
+      "title": "Romney: Trump has a 'blind spot' when it comes to Russia",
+      "excerpt": "Republican Sen. Mitt Romney said Sunday that President Donald Trump has a \"blind spot\" when it comes to dealing with Russia after the President downplayed a massive cyberattack on US federal agencies linked to the country, warning that the aggression \"is a big wake up call for us.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N3E5wS-d15Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N3E5wS-d15Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201217020408-donald-trump-1212-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-trump-russia-cyberattack-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/20/politics/mitt-romney-chris-krebs-trump-russia-cyberattack-cnntv/index.html",
+      "publishedDateTime": "2020-12-20T08:33:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-the-trump-survivors-six-cabinet-officials-who-stuck-it-out.md",
+      "title": "The Trump survivors: Six Cabinet officials who stuck it out",
+      "excerpt": "On Monday, Attorney General Bill Barr became the 12th of Donald Trump's Senate-confirmed Cabinet members either to resign or be fired by the President.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mcPG0ZniXFQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mcPG0ZniXFQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200320112649-01-mnuchin-0317-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/19/politics/trump-cabinet-survivors/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-cabinet-survivors/index.html",
+      "publishedDateTime": "2020-12-19T08:00:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-betsy-devos-stalled-obamas-student-loan-relief-program-borrowers-hope-biden-will-fix-it.md",
       "title": "Betsy DeVos stalled Obama's student loan relief program. Borrowers hope Biden will fix it",
       "excerpt": "Just before President Barack Obama left office, he made it easier for students defrauded by for-profit colleges to apply for the federal debt relief they had long been entitled to.\n    \n",
@@ -1562,119 +1674,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-trump-engages-in-self-sabotage-ahead-of-historic-vaccine-rollout.md",
-      "title": "Trump engages in self-sabotage ahead of historic vaccine rollout ",
-      "excerpt": "As doses of a coronavirus vaccine are being prepared to be shipped to communities across the United States, President Donald Trump has an opportunity to mark a historic milestone for science -- and show some semblance of leadership in curbing the spread of Covid-19 as the number of US cases crosses 16",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wQTJczM9gnQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wQTJczM9gnQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201208205952-trump-file-1113-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/13/politics/donald-trump-william-barr-pfizer-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/13/politics/donald-trump-william-barr-pfizer-vaccine/index.html",
-      "publishedDateTime": "2020-12-12T21:37:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-13-an-opinion-writer-argued-jill-biden-should-drop-the-dr-few-were-swayed.md",
-      "title": "An Opinion Writer Argued Jill Biden Should Drop the ‘Dr.’ (Few Were Swayed.)",
-      "excerpt": "Many women said Joseph Epstein’s suggestion in The Wall Street Journal was blatantly sexist and underscored the way men often dismiss women’s credentials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/12/lens/12xp-drbiden-photo/12xp-drbiden-photo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.amp.html",
-      "publishedDateTime": "2020-12-12T19:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

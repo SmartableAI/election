@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Matt Gaetz to rally Trump faithful to boost MAGA backlash in Liz Cheney's backyard"
-    excerpt: "Republican Rep. Matt Gaetz of Florida will rally the Trump faithful in Wyoming on Thursday, hoping to bring a MAGA backlash to GOP Rep. Liz Cheney's backyard after she voted to impeach the former President for his role in inciting the riot at the Capitol.\n    \n"
-    publishedDateTime: 2021-01-28T11:01:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/47nGUI3BJ_4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/matt-gaetz-wyoming-visit-liz-cheney/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/matt-gaetz-wyoming-visit-liz-cheney/index.html"
+  - title: "Trump powers GOP schism over Taylor Greene and Cheney"
+    excerpt: "The Republican civil war hits a critical moment on Wednesday over the fate of two prominent lawmakers who represent rival visions for a party torn by the toxic but still powerful influence of Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-03T12:49:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zBw_ZsW74kM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/republican-party-marjorie-taylor-greene-liz-cheney/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/republican-party-marjorie-taylor-greene-liz-cheney/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127181848-matt-gaetz-liz-cheney-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'People are angry': House Republicans who voted to impeach Trump face backlash at home"
-    excerpt: "The wave of backlash facing 10 House Republicans who voted to impeach former President Donald Trump has turned their 2022 primaries into tests of how long Trump, now out of office, can hold the stage in Republican politics -- and whether GOP voters are willing to turn the midterms into tests of loyalty"
-    publishedDateTime: 2021-01-29T12:40:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vzUHPg8R6eA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/house-republicans-impeach-trump-backlash/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/house-republicans-impeach-trump-backlash/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128141317-gop-impeachment-vote-house-2021-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131123222-split-marjorie-taylor-greene-liz-cheney-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

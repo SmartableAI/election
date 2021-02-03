@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/manhattan-vance-trump-ba
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/manhattan-vance-trump-banks/index.html"
 type: article
 quality: 170
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_50/3433975/201207-donald-trump-se-333p_55a362a8abac96df2b837ebbdfbe983b.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Manhattan D.A. Is Investigating Bannon, Who Was Pardoned by Trump"
+    excerpt: "Stephen K. Bannon got a last-minute pardon from President Donald J. Trump in a federal fraud case, but now state prosecutors are considering bringing charges."
+    publishedDateTime: 2021-02-03T04:52:00Z
+    webUrl: "https://www.nytimes.com/2021/02/02/nyregion/bannon-vance-fraud-border-wall.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/02/nyregion/bannon-vance-fraud-border-wall.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/02/nyregion/bannon-vance-fraud-border-wall.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/02/us/politics/02bannon/merlin_175958688_b193b6e4-ee38-428c-a0f6-ce830c7dcc01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "J9oqMlrB0Q3NPwJe3TpAaeaCEr9zDnYfWcXkXtzK0C2eAC6XXzIQPuUyiQ4E4wR0vDR8MpehDI4MwYel29wsdGqoN56SqTsBWOtWlTaaz2mlsioJCQqkZS+jVTvE9ibKLVXT9aGw7sA1PM30ir77nwEybmwXv0opfhyUhefmRuBFliE3J2dwQG+y4m0xBGRFzKyQ/Qub7/VvWI9aM6oIATtbdCV7PZzj6IotRt8J7Y86WVJ4XNMVcozm6Jy1tFqGq+ocgRLoziWEIXEVjJLPjTVgBykqXvQuUrkBMFtxPPMQc4awdfmKVLi4xn25H2AaNHlmtswZgJaWV8lwNH16rcsHXxqVPWzgrAlpZmBIE2Q=;4heCHLANtvA7yZRBLlcTHA=="

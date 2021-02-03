@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-responds-to-slain-fbi-agents-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-to-slain-fbi-agents-majority-of-agents-are-decent.amp"
 type: article
 quality: 160
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "FBI agents' slayings in Florida draw Biden's grief: 'A hell of a price to pay'"
+    excerpt: "After the first major law enforcement tragedy of his presidency, Joe Biden expressed condolences to the families of two FBI agents killed Tuesday while trying to serve a warrant in connection with a child pornography and violence against children investigation in Florida."
+    publishedDateTime: 2021-02-03T11:21:00Z
+    webUrl: "https://www.foxnews.com/us/fbi-agents-slayings-in-florida-draw-bidens-grief-a-hell-of-a-price-to-pay"
+    ampWebUrl: "https://www.foxnews.com/us/fbi-agents-slayings-in-florida-draw-bidens-grief-a-hell-of-a-price-to-pay.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/fbi-agents-slayings-in-florida-draw-bidens-grief-a-hell-of-a-price-to-pay.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/FBI-AP-4.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "ZH2YJRREBQ4XjIoxyHzE27dMYqBX49tKEdokztYJHhaJw7aRA16rvGw0X2n7pcYWavKpu4v/a5zsmLacs/fGFqZ3e7ybMPW4HRNbj1DbEAzh1FbrhFLWa297bbHodwKtiVZ+c4RMLkD0+XuYYVfwlY9D6LdrA1ff4et8JaGu82jp5M6O3w3WN5M6CajRSNLTyuQQ2jGX2PgbgnT9qMlYxCzmXvUQzND7F2TuBTSjz5xjH+XQIBpeAsGunrXNSZqUdxhWWsnD4YAh7/hbgfV2pgBYBPVFSy/yf0PF6po/EpxNbq84yPCBOktIfDt6W2281YuO+RbuQNEwlzs+RWMygzzddzS4r5vgUWny2uBtSc0=;bQ+JoMOTCNVwkcKJmfbzhw=="
 ---

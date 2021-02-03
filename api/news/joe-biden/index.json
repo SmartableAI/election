@@ -2,6 +2,167 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-03-biden-pays-respects-to-slain-capitol-police-officer-brian-sicknick.md",
+      "title": "Biden pays respects to slain Capitol Police officer Brian Sicknick",
+      "excerpt": "President Biden and first lady Jill Biden visited the U.S. Capitol on Tuesday to pay their respects to Brian Sicknick, a U.S. Capitol Police officer who was fatally injured during the January 6 insurrection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/brian-sicknick-joe-biden-pays-respects-capitol-police-officer/",
+      "originalUrl": "https://www.cbsnews.com/news/brian-sicknick-joe-biden-pays-respects-capitol-police-officer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/03/8253d8eb-ce37-43e6-964f-385c24b1ca38/thumbnail/1200x630/e1abc469a14472727465ef2e5fa2840d/gettyimages-1230938717.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/brian-sicknick-joe-biden-pays-respects-capitol-police-officer/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/brian-sicknick-joe-biden-pays-respects-capitol-police-officer/",
+      "publishedDateTime": "2021-02-03T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-biden-brothers-role-in-florida-law-firm-complicates-white-house-ethics-message.md",
+      "title": "Biden brother’s role in Florida law firm complicates White House ethics message",
+      "excerpt": "Frank Biden, the president’s younger brother, is working as a senior adviser to a Florida law firm that has sought to attract business by touting the brothers’ connection and the president’s policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/frank-biden-berman-group/2021/02/02/b1cf23a4-63f7-11eb-8c64-9595888caa15_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/frank-biden-berman-group/2021/02/02/b1cf23a4-63f7-11eb-8c64-9595888caa15_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZATX7TFVII6XOVYOB7YO2OXQU.jpg&w=1440",
+          "width": 1440,
+          "height": 1131,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/frank-biden-berman-group/2021/02/02/b1cf23a4-63f7-11eb-8c64-9595888caa15_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/frank-biden-berman-group/2021/02/02/b1cf23a4-63f7-11eb-8c64-9595888caa15_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-03T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-she-was-stunned-by-bidens-inauguration-how-this-south-carolina-mom-escaped-qanon.md",
+      "title": "She was stunned by Biden's inauguration. How this South Carolina mom escaped QAnon",
+      "excerpt": "She was terrified that she would have to go into hiding with her daughter. Many QAnon believers have clear political motives, but Vanderbilt says she is a passive participant in politics. \"I've always been someone that you just tell me what to do and I do it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "originalUrl": "https://www.cnn.com/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210202185142-former-qanon-believer-ashley-3-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/tech/qanon-mom-former-believer/index.html",
+      "publishedDateTime": "2021-02-02T23:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-california-poses-bidens-biggest-test-on-school-reopening.md",
       "title": "California poses Biden's biggest test on school reopening",
       "excerpt": "The state may be the main obstacle in the way of President Joe Biden reopening most of the nation's schools in his first 100 days in office.",
@@ -917,7 +1078,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 885,
+      "heat": 905,
       "tags": null,
       "images": [
         {
@@ -1436,163 +1597,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-fauci-says-bidens-strikingly-different-tone-on-covid-crisis-will-rev-up-vaccination-efforts.md",
-      "title": "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts",
-      "excerpt": "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912",
-      "originalUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1714793/anthony-fauci.jpg",
-          "width": 2500,
-          "height": 1668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1",
-      "publishedDateTime": "2021-01-23T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-biden-says-we-need-to-act-decisively-and-boldly.md",
-      "title": "Biden says we need to act 'decisively and boldly'",
-      "excerpt": "President Joe Biden said on Friday the U.S. economic crisis was deepening and that the government needs to take major action now to help struggling Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUKKBN29R2JV",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUKKBN29R2JV",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548763538&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1HE",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN29R2JV",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29R2JV",
-      "publishedDateTime": "2021-01-22T18:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-georgia-black-women-leaders-on-saving-democracy-by-helping-flip-senate-fueling-biden-harris-win.md",
-      "title": "Georgia Black women leaders on 'saving democracy' by helping flip Senate, fueling Biden-Harris win",
-      "excerpt": "It’s almost like someone has wiped the darkness away and given us new light,” a voter registration organizer said.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
-      "originalUrl": "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 316,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/KamalaHarris-ht-er-210121_1611268223802_hpMain_2_16x9_992.jpg",
-          "width": 992,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
-      "publishedDateTime": "2021-01-21T20:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
       ]
     }
   ],

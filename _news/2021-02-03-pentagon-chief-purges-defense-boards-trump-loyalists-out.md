@@ -671,6 +671,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "New push to rename Donald Trump state park amid complaints"
+    excerpt: "Lawmakers and residents hope name change could spotlight social justice – and encourage donations"
+    publishedDateTime: 2021-02-03T08:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/03/donald-j-trump-state-park-new-york"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/03/donald-j-trump-state-park-new-york"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/03/donald-j-trump-state-park-new-york"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/f2881eee116192651d72eb82eb7b202611896846/0_900_3024_1814/master/3024.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1a4ad5310e535821fa68ede82d8ad57e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump gets an important backer in his bid to live at Mar-a-Lago"
     excerpt: "But former president Donald Trump just found a big ally in his quest to call his Florida club, Mar-a-Lago, home during. According to a memorandum obtained by The Washington Post, an attorney for the town of Palm Beach is recommending that the town’s council allow Trump to live at the club,"
     publishedDateTime: 2021-02-03T05:02:00Z
