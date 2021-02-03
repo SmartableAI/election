@@ -61,22 +61,6 @@ related:
         width: 835
         height: 724
         isCached: true
-  - title: "Trump Impeachment Lawyers Named After 5 Members Of Defense Team Quit"
-    excerpt: "Five of Trump's impeachment lawyers had left his legal team after he refused to steer away from using mass election fraud as his defense strategy."
-    publishedDateTime: 2021-02-01T02:36:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-named-after-5-members-defense-team-quit-3134480"
-    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-named-after-5-members-defense-team-quit-3134480?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-lawyers-named-after-5-members-defense-team-quit-3134480?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
-        width: 1024
-        height: 716
-        isCached: true
 
 secured: "RBj3Ge0OQ3qrq4tLUm/dyPUtSbZ/p4XMyjunFhhzxeY4CVAi8+6gkEZ1IOV9D8CZvBVSh0Z4nHaU/xzwfqu0w8G8owa2OpFkKOi1DfKTdzjZYzwIMTzhPs5akBp7Ah4+vLoboxkeX8DxqSLJwcpc0ZZ4rhY/oj0UqT6IqiMj+tUNjlYQKartZ/rEAk8/iZFTJPXklfND7mtlybtXVUHCvaPbckNXnbtu8C+mPSWBbXcNLZKAgZaDFyAC9KX1bIQfNu+V3yySyMrmdjwz9BX2GCh1jZtEofHNBZsweJ9zA/Gwez9T9k4D5L48PamO6Gw2xgvfMCcZbMy41OpT2+DTgjP0K638lXuSmsJsT9bax7o=;aMJnYnkoK+4B4LtKNpJdKg=="
 ---

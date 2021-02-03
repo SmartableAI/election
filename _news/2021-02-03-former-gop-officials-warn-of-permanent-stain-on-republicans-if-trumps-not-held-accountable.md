@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/former-gop-officials-warn-permanent-stain-r
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/former-gop-officials-warn-permanent-stain-republicans-if-trumps-not-held-accountable-1566253?amp=1"
 type: article
 quality: 114
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1024
     height: 682
     isCached: true
-
-related:
-  - title: "Trump officials moved most Bureau of Land Management positions out of D.C. More than 87 percent quit instead."
-    excerpt: "The decision to relocate BLM headquarters to Colorado and redistribute jobs in the West prompted 287 employees to retire or find other jobs."
-    publishedDateTime: 2021-01-29T04:50:00Z
-    webUrl: "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/"
-    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VC6BWOA4CUI6PBMYTKM5UVM7TY&w=1440"
-        width: 1440
-        height: 684
-        isCached: true
 
 secured: "YWHEXseuSDaHg2y7IlOUooXPG/H2IIumwhKJuT59k5X4llhLQCk85dqNjl08JZj/U7K6XHRJ1SFm+MWq44vBfnuyW3xbjgFrvilNtD/8hLHLe1xKxAYqGLkD92EzJbOITqbQkzbE2tlHYr/Vc97k1pgb5tHtqEthfwOC3kN3Z4OHYvfjE/0b/G2Dw2894ZDnkULuPM+472neOz7L2ptwd2+AJ7GHK5tiA44BWIWt8jL29jB2MFvmhojSGlNDteK+Nqyh/fONCcdJ7Mj25bo954pnKB8rXW0nr2+eprjRDg+/IsR9FbkJsB4r/0WloGnC/ZBsUFmwsmeS2QJHIMMXG+ymtsRatSw3oQ1rDEwPW/0=;kiJqXvgB8rCgVZuTEx8F2A=="
 ---

@@ -157,22 +157,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Senate Republicans unite behind failed effort to challenge Trump impeachment trial"
-    excerpt: "Forty-five Senate Republicans backed a failed effort on Tuesday to halt former President Donald Trump's impeachment trial, in a show of party unity that some cited as a clear sign he will not be convicted of inciting insurrection at the Capitol."
-    publishedDateTime: 2021-01-27T06:53:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idAFKBN29V2JI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN29V2JI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN29V2JI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1FA"
-        width: 817
-        height: 545
-        isCached: true
   - title: "'Trumpocalypse' is over. Why the anti-Trump billboard in downtown Phoenix is coming down"
     excerpt: "Trumpocalypse,' the anti-Donald Trump billboard in downtown Phoenix is being replaced. The controversial Grand Ave. billboard will feature new images"
     publishedDateTime: 2021-01-24T15:07:00Z
@@ -262,6 +246,33 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/25/c97f4332-6590-4643-8683-d132f8c2bfa2/thumbnail/1200x630/5c699f42fa172802dca2b8e49dd7e31d/cbsn-fusion-republicans-face-uncertain-future-in-post-trump-era-thumbnail-632647-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Morgan Lewis can't withhold Trump organization docs in NY AG probe"
+    excerpt: "A Manhattan state judge on Friday ordered Morgan, Lewis & Bockius to turn over documents related to its representation of the Trump Organization, ruling the law firm had marked some of its communications with former U."
+    publishedDateTime: 2021-01-30T01:14:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-trump-morgan-lewis-idUSL1N2K501M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K501M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K501M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Republicans back away from confronting Trump and his loyalists after the Capitol insurrection, embracing them instead"
+    excerpt: "Powerful party leaders are trying to avoid a divisive battle to improve their odds of reclaiming power in 2022."
+    publishedDateTime: 2021-01-28T06:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/riot-republicans-trump-impeachment/2021/01/27/b13633fe-60b6-11eb-9061-07abcc1f9229_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/riot-republicans-trump-impeachment/2021/01/27/b13633fe-60b6-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/riot-republicans-trump-impeachment/2021/01/27/b13633fe-60b6-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QRNMS5Q7VQI6XORB6LYAD4CVJM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump allies and Republican lawmakers lost thousands of followers in Twitter purge after Capitol riots"
     excerpt: "Republican lawmakers lost thousands of followers when Twitter purged QAnon accounts following the violent mob attack on the Capitol stoked by Trump."

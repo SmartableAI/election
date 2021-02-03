@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-congressman-gaetz-trump-jr-u
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-congressman-gaetz-trump-jr-urge-wyomingites-oust/story?id=75544628"
 type: article
 quality: 117
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Liz Cheney Voted to Impeach Trump. Now She's Under Pressure from Her Own Party"
-    excerpt: "The fight for the future of the Republican party is here, and an early proxy battle is playing out in the House of Representatives."
-    publishedDateTime: 2021-01-29T04:47:00Z
-    webUrl: "https://time.com/5934208/liz-cheney-republican-party-battle/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 81
 
 secured: "s7zggSNz9sNGIgSC9cnpqyytd6GdkTvAdbP2c7c9O9NIW9YLruSbZF+sw3AbRiXQcs34Qx1V2pCCm3vTA/d3WR2Dn2sQOk2ftQspe2ckWOzWX8R+SIm1icDVFxjy+2Xy0S984Zn0x4NeO6edSCgsgXGUGJ/a6ANNXsN9L9cbmO7X6kChs2ZKL4jaltvoRVh7jlBlSWYWUuGTuwu7nOb/A+nA6EXci9+pm4qBpczsg17eJaKRXVQgBXcMSQviqagZKc244e2KH0nneO5dwNaIS7aVHxVgkDD5gJ7hXDhO/A8x8r6xjLhMDwOe2a/dSUig/SSc2XblWwgN6VXZPOjBSYB/friqTqNIJoqpwZlg40w=;O9/xvL34aW9IddwCuCR1YA=="
 ---

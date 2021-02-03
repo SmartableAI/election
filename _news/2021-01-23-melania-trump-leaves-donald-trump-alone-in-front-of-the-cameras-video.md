@@ -45,37 +45,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Judge blocks Trump rule to limit health studies in EPA regs"
-    excerpt: "A federal judge has blocked a last-minute rule issued by the Trump administration to limit what evidence the Environmental Protection Agency may consider as it regulates pollutants to protect public h"
-    publishedDateTime: 2021-01-29T19:41:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
+  - title: "Democrats weigh expanding lower courts after Trump blitz"
+    excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
+    publishedDateTime: 2021-01-30T22:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
+    ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_b1408a184fa440d7bfebd39cf4f8f16a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
-    excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
-    publishedDateTime: 2021-01-31T04:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4328811001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4328811001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/06243285-137b-4acb-bb77-6faa007a0a53-AP_Trump_5.jpg?auto=webp&crop=3874,2180,x0,y196&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Morgan Lewis, Trump's longtime tax counsel, prepares for split"
     excerpt: "Morgan, Lewis & Bockius said Wednesday it was stepping away from advising Donald Trump on tax matters, leaving the former president and his businesses further isolated from the country's largest law firms."
@@ -103,20 +87,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Trump Impeachment Lawyers Leave Team: US Media"
-    excerpt: "Several of former US president Donald Trump's impeachment lawyers have left his team a little over a week before his trial, US media reported Saturday. CNN cited unnamed sources as saying that five lawyers -- including two who were thought to be leading the team -- had parted ways with the Republican billionaire after disagreeing over his legal strategy."
-    publishedDateTime: 2021-01-31T04:03:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-leave-team-us-media-3134168"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
-        width: 1024
-        height: 716
         isCached: true
 
 secured: "xdsEMA24EmjisLHesAbT5HSQSttiwNKvLWTryUNMscOUy+urfg8wsZLIt6/pwpdnY5BM2yVH9H2thK4BrINrKbbpvLEM19SZnM9T+wlY3ITlhBEPd4xVniBrOJXXfy14jrpK8bqsOmgc+aLEAXNg/d5Yi880Ha6yjAQfB2IY/OQ7iX8Sx41fjBZrBDO3RY/Zx4ed8Ane2hcA+4VlE2X0YvTRBIwEwj1Xc2ajlZQijAUutFrdUl/07qZWzMvHfXjIZaRRZ6SI7qx/SLVtkOqw3a0T8knAEQY7LB4MS1l41pyDyKHU8uwcuZL7yjxFIWfSJ4B5hKa0neutIAhrhF5ByrgwoxsNmKwg3O4vo2wDVqKujZJ1xQg4pURlD0MeX05ra6hTr09L4N6xJIRp0Ybg4qApKw8fKLyscu4dK/2AIMGEefIsVlx9mPc/mCJHePDchCdZTIwjiGnlsVGnHsfvElx/ksD9Y14PH6s4JxoWZsrVWakYMo8UKrKKL4O9AQryH2k5VtjN2O1XxmIq0I6uvw==;LLnl2KOY1ljFVzZ3sAWG0A=="

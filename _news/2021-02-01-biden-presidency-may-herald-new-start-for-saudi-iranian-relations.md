@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2021/jan/31/biden-presidency-spell
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Biden threatened Myanmar sanctions. What are his options?"
+    excerpt: "Myanmar's military checkpoint is seen on the way to the congress compound in Naypyitaw, Myanmar 1, 2021. REUTERS/Stringer"
+    publishedDateTime: 2021-02-02T22:15:00Z
+    webUrl: "https://www.reuters.com/news/picture/biden-threatened-myanmar-sanctions-what-idUSKBN2A20ES"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549938362&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH11085"
+        width: 810
+        height: 532
+        isCached: true
 
 secured: "Bcoe1qWhVoTgZOYW1QmBorTk+gESrjwgklGnQwgMeXfSnEakCS14ZC+o7rlFllci+8aaOgON8NytyfxijTDL0YLKgNEaLahR7BDFDLu9Fmv1uO7kkjIpwhJ1s8Kf044GYPz7jboOEPdyeCNXh8fx/a88uqgR9YH63W7n8VDYmoDSEC2tFDCvrlxTYf1ng1jlKZIfTmqRCTrrBaGxUBfWcH2703PfmqGF2WOnJkmdbaHiaEjPFCa2D+BtwAT1KhjZvKKnMT0y/YsqB907zsjzm123TH9Vn32Z/0wmU/OL/4O/uMzHJlv+s4Ue9Ip3fdffcd4ya7NnYXNtvnpL9yguHoEhnZw/4qZMmt8nG0GGukDQHXRZdeGdEjmCDlvLNC4YDCl8o/AV9LR24zo+6EoCaxrjmOqNCeGXNZrzrs9Q37MLzZvL1aisy4aT0KCssMS3+X5J+o+CfxM9OcE+qfPzPgYwNX3pCmMnHx7DVQKZ+jgYUP0Q+d4y7SVVWfpcbTRwF8pi0K4dnSQ39i7oqmE+YQ==;5zf23WzXQHhDx7CKc5/wEA=="
 ---

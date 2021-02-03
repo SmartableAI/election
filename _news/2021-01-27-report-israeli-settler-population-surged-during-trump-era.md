@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/middle_east/report-israeli-sett
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Factbox: Five Republicans to watch during Trump's impeachment trial"
-    excerpt: "Former President Donald Trump is the first U.S. president to be impeached twice - and will be the first to face trial after leaving office."
-    publishedDateTime: 2021-02-01T11:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-senators-factbo-idUSKBN2A1284"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A1284"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A1284"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549830808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101B7"
-        width: 901
-        height: 545
-        isCached: true
   - title: "Tim Kaine to Drop Attempt at Censuring Donald Trump Over Lack of Support"
     excerpt: "Senator Kaine said his bipartisan censure resolution, an alternative to the impeachment trial, does not have enough support from either the Democrats or Republicans."
     publishedDateTime: 2021-02-02T18:31:00Z

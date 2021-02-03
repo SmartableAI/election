@@ -47,22 +47,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Factbox: Five Republicans to watch during Trump's impeachment trial"
-    excerpt: "Former President Donald Trump is the first U.S. president to be impeached twice - and will be the first to face trial after leaving office."
-    publishedDateTime: 2021-02-01T11:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-senators-factbo-idUSKBN2A1284"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A1284"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A1284"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549830808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101B7"
-        width: 901
-        height: 545
-        isCached: true
 
 secured: "AEQSG4Dbogit/0W4V9vyUbWzRKGwaQ+tvfvLLp5dp7Tmik/+/pxZ1pA6YaeKoA4ovMn1B32g7idW5oM5s20hpRyMkBb47pmlWH0Me09y8qJG571/zDcx7V7wtI9Dw2e/cxctGBBZZX4C+lnT+4xGrj63lChGsC+BrcV1pqY9FmMK6owF120bHDLrPTxBxWVYzZCOyzWJaLSJiAVe+OgUlTLfynA+9BvbDa/mNiCFKL9SQaoohrdmgzsFKP85iLDsmq9M5+HL5wxhJxnm1Uvs0kqjYTpSBS3QuUHQ3YdXgzJMxeCD97uOja17U/6nDvN191+E/WVjSU962+rP90COW3CQwC7J6gZrlyAM60ZfcDAiRm/P3kbFp4g4VPHoca9+vE/VKkoMr4KXeh+d0tj8Do9608U5UkJ08JAhIWLZa1UrSHrQBGXCsJ8nDA6+CZ0oPG5CcekzRKb3jZJpXSpyDV50Jj//lsdJYXzUb4Wnh7hgrvDH8CB39jrUPmk25/glHyEmPhEx/U9yfMub2tdzMg==;gV3yCqzFbApczBCeOIS9gg=="
 ---

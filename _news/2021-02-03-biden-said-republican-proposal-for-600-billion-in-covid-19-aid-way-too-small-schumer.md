@@ -369,8 +369,8 @@ related:
         isCached: true
   - title: "Joe Biden tells Republican senators to aim for larger Covid relief package – live"
     excerpt: "Trump legal team files 14-page brief defending his conduct on day of Capitol riot – follow all the latest politics news"
-    publishedDateTime: 2021-02-02T18:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019a6818f08c315844c86ef"
+    publishedDateTime: 2021-02-02T18:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019ac418f08c315844c8751"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
     type: article
@@ -972,6 +972,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "TFZFC1Kkm7BVl1vOJORuBWdopEyc05vkPanAr7btVGkfcF/2dANdDdYr0lqjmf+kDLk3zowhELoq/oNGTPY0TRIqcCv86ITw9NdktfHfEk1L6+M3IitAh9f5Yp1gl32xJulQySSF1Sn1/TvArG8q87RuQjX9AQ8s7yUOC5mLumbeLxTnRdBQliALjvUydHYbHdmj6vsHdnQNg73WPS1qkc2e3Mq5K8UnKTWoQgjXpr4hTa9nCNE6ouBJtE3dmja3N1jDvm9EiqFkb9PA/JeyV9WBPDTD+urJsLaH/lO7/JIEhaBTkPNRM0IJlIDzz0A3DroLhV2/XO1qvu8W1qGhc7vLVCro0UzDDPYiEaA6iYU=;B/SS/ZtPOdVFQNodxDwpBw=="
+secured: "mbbrF0r5xuDU1SR4GfBapUq8k/JujSOvudtbs7DGcA/hXhc3RQ5YCcwnG0owgntqttXbeoObe9xgnWZUy3GdEti+X/FS+Cy7guO9WWVKaTfIQUb6ywW92d+1M7h1Tl9hJjx7ezvfXmZsxWsFiLiGuaaKmEb5/cqbYjmHXIKOefsfOMVHFG7TQklwUnHm3Ly3/Hsz+51ECwmtXSkZz2SK6uACVaV3Hm+QoFsemX3WYKT2yrZ2FS/bQbzKqFpB+QOTVgyUnA+jrxH054iYAwIoOO7433KVj7K//7nkWdu81285e6uKQFD910S1UMgV/3BFKC9u46DONbH8EGDyPlKkIAaTg+stp8NHYCTzab3qXt0nABJdlbaNqaQVqSpjQTv/raZttmnYuVisVjGV7awfvPhA+ZcVFYYqd0D9loThgUK9gqGKo684GjP1B7rL7C0ko+nGYgrZu/dkMbU8ts2SsDdZhdAsluJxKAUafADhhtELmkXDonQXRpMHvqmB1NagXiWSQHUrBI6U8AIlZerHkw==;kIx8PhepGZhrVJSSTCmWTQ=="
 ---
 

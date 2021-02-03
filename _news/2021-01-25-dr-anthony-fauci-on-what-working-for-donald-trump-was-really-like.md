@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-cor
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/faucianthony_trumpdonald_101220gn-getty_split_fauci.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "New Pentagon chief praises Germany for hosting U.S. troops, reversing Trump's tack"
+    excerpt: "New U.S. Defense Secretary Lloyd Austin praised Germany for hosting U.S. troops in a call with his German counterpart on Wednesday, fueling speculation that President Joe Biden could overturn a drawdown ordered by his predecessor Donald Trump."
+    publishedDateTime: 2021-01-28T02:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-germany-troops/new-pentagon-chief-praises-germany-for-hosting-u-s-troops-reversing-trumps-tack-idUSKBN29W2VN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2VN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2VN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549297914&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1OW"
+        width: 817
+        height: 545
         isCached: true
   - title: "Dr. Anthony Fauci is the federal government's top-paid employee, and was paid $18,000 more than Trump in 2019"
     excerpt: "Fauci, who leads the National Institute of Allergy and Infectious Diseases, earns more than $430,000 — US presidents have a salary of $400,000."

@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "'Era of small government is over': Leading progressive grants Biden her blessing"
+    excerpt: "Progressive columnist Katrina vanden Heuvel gave President Biden her stamp of approval Tuesday, boldly declaring that in the new administration “the era of small government is over.” "
+    publishedDateTime: 2021-02-03T00:35:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O0k_8pUO7us/era-small-government-over-progressive-columnist-approves-of-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/era-small-government-over-progressive-columnist-approves-of-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/era-small-government-over-progressive-columnist-approves-of-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Joe-Biden-Oval-office.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Pipeline worker slams Biden for canceling Keystone XL Pipeline: 'Like a kick in the stomach'"
     excerpt: "A pipeline worker who has worked in the industry for 53 years is speaking out against President Joe Biden’s cancellation of the Keystone XL Pipeline."
     publishedDateTime: 2021-01-26T15:04:57Z

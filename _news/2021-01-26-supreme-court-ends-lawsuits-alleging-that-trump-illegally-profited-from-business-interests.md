@@ -47,22 +47,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
-    excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."
-    publishedDateTime: 2021-01-24T00:15:00Z
-    webUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "03LFNe2DlbOZghLWPR/8WpiMsnYIxiKBIp+L7Ct8PM3DOvvwM7oEkNHmyYdH4cni1Bqs+Ais12UocG8MTeFvLeHqZS2X/gePmtK86ywEXd1m91VeIdxkV4k/R89fT8fzE/wps3bOTdwUvTxPPsJ1fRu0LtBwza8iVHjqAKc+zUUiFsrlqyAgJUuvapyEaoyAlw5/aPz3yEoiCjUuVxHLM1EZ5Ewk0gn1MiP7hpdHR/J371r3wrKkOXwWQKRu5bn2761VQIUwImfdDqFYz4BomBEoTRSQIqa4uatC4vqvFn998eMoJK7yPodfuFEJB5R5M/MKOKQYDEjuYN0kUsxwwfOGywv0tWX0fDXPBgN9YKk=;XVzf6iGxHwKKXB+T/wTRLw=="
 ---

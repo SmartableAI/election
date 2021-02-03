@@ -352,6 +352,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump doubles down on false election claim in impeachment response"
+    excerpt: "The legal battle over Donald Trump’s impeachment trial kicked off Tuesday, with the House managers arguing the former president bears “unmistakable” responsibility for the deadly Jan. 6 attack on the Capitol,"
+    publishedDateTime: 2021-02-03T00:11:00Z
+    webUrl: "https://www.politico.com/news/2021/02/02/house-impeachment-brief-trump-responsible-capitol-attack-464930"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/cd/0f/706314a84eeab118e9b51e8b4b79/proxy-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "The Real Scandal Is the Pardon Trump Didn’t Give"
     excerpt: "Rufus Rochell checked all the right boxes for clemency: an exemplary record in prison, advocacy out of it, and a friendship with a famous Trump booster. So why didn’t he get it?"
     publishedDateTime: 2021-01-29T09:31:00Z

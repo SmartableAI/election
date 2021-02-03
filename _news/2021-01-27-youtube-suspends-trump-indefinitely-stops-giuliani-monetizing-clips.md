@@ -157,54 +157,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump loses lead impeachment lawyers a week before trial"
-    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers little more than a week before his trial"
-    publishedDateTime: 2021-01-31T02:03:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Trump parts ways with impeachment lawyers: source"
-    excerpt: "Former U.S. President Donald Trump abruptly parted ways on Saturday with two lawyers who had been working on his defense for his Senate impeachment trial in what a source familiar with the situation described as a mutual decision."
-    publishedDateTime: 2021-01-31T06:58:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/trump-parts-ways-with-impeachment-lawyers-source-idUSKBN2A001T?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A001T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A001T"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549697780&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U015"
-        width: 876
-        height: 545
-        isCached: true
-  - title: "Trump parts ways with impeachment lawyers: sources"
-    excerpt: "Former U.S. President Donald Trump abruptly parted ways on Saturday with the two lead lawyers working on his defense for his Senate impeachment trial, a source familiar with the situation said, leaving Trump's legal strategy in disarray."
-    publishedDateTime: 2021-01-31T09:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A001T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A001T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A001T"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549697780&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U015"
-        width: 876
-        height: 545
-        isCached: true
   - title: "U.S. House to deliver Trump charge to Senate, triggering impeachment trial"
     excerpt: "The U.S. House of Representatives on Monday is set to formally deliver to the Senate a charge accusing former President Donald Trump with inciting insurrection in a speech to his supporters before the deadly attack on the Capitol,"
     publishedDateTime: 2021-01-26T02:36:00Z
@@ -269,22 +221,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Pro-Trump lawyer Lin Wood asked by licensing body to undergo mental health evaluation"
-    excerpt: "An attorney licensing body on Friday said it has asked L. Lin Wood, a lawyer who played a key role in Donald Trump's attempts to overturn his election defeat, to undergo a mental health evaluation."
-    publishedDateTime: 2021-01-29T21:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-wood/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation-idUSKBN29Y2CD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y2CD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y2CD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549578848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1CG"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Giuliani wasn’t just a Trump partisan but a shrewd marketer of vitamins, gold, lawsuit says"
     excerpt: "Trump’s personal lawyer sought to turn unfounded conspiracy theories and voter fraud videos into online moneymakers, attorneys said in a lawsuit seeking more than $1.3 billion in damages."
     publishedDateTime: 2021-01-27T01:52:00Z
@@ -326,6 +262,22 @@ related:
         width: 800
         height: 558
         isCached: true
+  - title: "Former FBI lawyer gets probation for altering email during investigation into ties between Russia, 2016 Trump campaign"
+    excerpt: "A former FBI lawyer was sentenced to probation for altering a document the Justice Department relied on during its surveillance of a Donald Trump aide during the Russia investigation."
+    publishedDateTime: 2021-01-29T17:54:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/qTFSIBHni0wRVA9K0csySIUoZrQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2QII4RLQJNTTGT6DI7IS7R3CEE.aspx"
+        width: 1200
+        height: 779
+        isCached: true
   - title: "Dominion Voting Systems Sues Trump Lawyer Giuliani Over Election Claims"
     excerpt: "WASHINGTON (Reuters) - Dominion Voting Systems Inc has filed a lawsuit against former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation for making false claims of fraud about the November 2020 U."
     publishedDateTime: 2021-01-25T12:59:00Z
@@ -362,6 +314,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Special Counsel Appointed Under Trump Seeks Prison for Former FBI Lawyer"
+    excerpt: "A former FBI lawyer who pleaded guilty to falsifying a document during the agency's investigation of contacts between former President Donald Trump's 2016 campaign and Russia is due to be sentenced on Friday,"
+    publishedDateTime: 2021-01-29T11:37:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-29/special-counsel-appointed-under-trump-seeks-prison-for-former-fbi-lawyer"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-29/special-counsel-appointed-under-trump-seeks-prison-for-former-fbi-lawyer?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-29/special-counsel-appointed-under-trump-seeks-prison-for-former-fbi-lawyer?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
 
 secured: "6ujYcePB+DhX6dHChlcg4L/YxkoZiJ5oyEJchywpdcnXQOmps1nRb7gb/mFaLvZAwAXGy5ekdd1W7ifNinTIl7NjFAItp1MNBfQe9kn1IsiqCrxWh+GESz+uZi2bd5M24lO5IUvELAcM4ogL62oHnuTkFzjga8sLa6ZT1m9ihUIjg5Xnk/FI5rSmZ5Vz+nZSsGBspgjUOe9jhsTIp+CWgCNhb8Srlk/AYlE/TX0uF2Hnfx0/Qx9ZQ9/AlEl993XKhOtRRXKMWVpViFx2SHQ8Jl6/paEx43EdmwvEwuwds/urS+qZCQHYcMVWJMKl+4CJbsnChw8DgIvFqbcNf3jSzhRg0J1CVztqVPFArjJoMeI=;izoKUpf25WFsHIv2W/KtPg=="
 ---

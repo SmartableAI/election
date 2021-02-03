@@ -333,20 +333,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "U.S. lawmaker comments on impeachment of President Donald Trump"
-    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."
-    publishedDateTime: 2021-01-13T21:48:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmaker-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547688231&r=LYNXMPEH0C15H&w=800"
-        width: 800
-        height: 540
-        isCached: true
   - title: "After Capitol rampage, Pelosi calls on Trump to resign and Twitter deletes his account"
     excerpt: "House Speaker Nancy Pelosi on Friday called on President Donald Trump to resign and Twitter permanently suspended his account citing a risk that he could incite more violence, two days after a crowd of Trump supporters stormed the U."
     publishedDateTime: 2021-01-09T04:54:00Z
@@ -416,17 +402,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Trump Impeachment Trial to Focus on His Attacks on Election"
-    excerpt: "President Donald Trump’s historic second impeachment could go to trial as soon as Inauguration Day, with U.S. senators serving not only as jurors but as shaken personal witnesses and victims of the deadly siege of the Capitol by a mob of his supporters."
-    publishedDateTime: 2021-01-15T00:33:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Capitol Riot Mob May Have Been Targeting Mike Pence, Chanted To ‘Hang’ Vice President"
     excerpt: "New information has come to light regarding the intents of some members of the mob of Trump supports who rioted at the Capitol."
     publishedDateTime: 2021-01-09T18:15:00Z

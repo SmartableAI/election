@@ -155,38 +155,6 @@ related:
         width: 4270
         height: 2847
         isCached: true
-  - title: "South Carolina GOP censures Rep. Tom Rice for Trump impeachment vote"
-    excerpt: "South Carolina Republicans on Saturday issued a formal censure to U.S. Rep. Tom Rice to show disapproval over his vote in support of the second impeachment of former President Donald Trump. Rice was among 10 GOP representatives who joined Democrats on Jan."
-    publishedDateTime: 2021-01-31T01:58:00Z
-    webUrl: "https://www.al.com/news/2021/01/south-carolina-gop-censures-rep-tom-rice-for-trump-impeachment-vote.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/south-carolina-gop-censures-rep-tom-rice-for-trump-impeachment-vote.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/south-carolina-gop-censures-rep-tom-rice-for-trump-impeachment-vote.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UG3YVSYHJJH3FNDN7UTHETCU6U.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Trump Names New Impeachment Legal Team, One Day After Previous Team Bailed"
-    excerpt: "One of the attorneys is best known for declining to prosecute Bill Cosby. The other represented Roger Stone and planned to represent Jeffrey Epstein."
-    publishedDateTime: 2021-02-01T02:06:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 73
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/9cc/a57/bac7f73e443026b5f23753235d8e964ce1-President-Trump-Wave-Back.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
 
 secured: "EoEQ4TJn1b/tBadNIj7Zz5igidt5xIDT1LR12FZhNHfwRe6qSZ80Jzb2rMrkvp0QFbtymFEc7djPKioO0pf67fFLQjcOmaYC0oUZb8BM3N3Uh8Rm/BHcdkd+AxxIUxsp8r6K2BR7VMxc5aCvwqYeul5XViFwSpDNiOaoLcxsa3UTAlrmbztKGFQjbCIh4RNd0qLC2Lvx2wAfu62iyJ2cZLucKAM8twduBTAVZKOJpYOyPVn8zEPyKFfuJ8N6sKXvHFKWW8Qpi4Kbg7qMNn8yC6+/b/X3YPYNSq8nKruur8G22jcMXkkwJnEInZGZORrrlGTAxiqp0sOrmM3k9nrEMngXc1Rc2e4qzOrk1rGRE/VCHtzii/yWZzRiHwMjCXYus9SfyfE5U95kc/9cf7q/Gv0kSeRqCWLGWizZacESK0TyyKainEWsoyoXRj8+Yq7m8b4S63FJh05SLN90eVXgRSl+qnqThG+l96zoNza9qnaaJbfg6X1AQSwUnx6JTNri9iKccUUah2hJZsmaAu+9Pg==;6JfyJysqVk5JOsWKLjyhDw=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden tells Republican senators to aim for larger Covid relief package – live"
 excerpt: "Trump legal team files 14-page brief defending his conduct on day of Capitol riot – follow all the latest politics news"
-publishedDateTime: 2021-02-02T18:41:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019a6818f08c315844c86ef"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019a6818f08c315844c86ef"
+publishedDateTime: 2021-02-02T18:53:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019ac418f08c315844c8751"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019ac418f08c315844c8751"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
 type: article
@@ -972,6 +972,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "pYyXtYWuIu9HqxAVabhWT8X8TkLOF7B0OUbs/OlV34eIAbzVRXNZV9YrBJuOo6C95S+KH3g14G2BxPOu43FkQMOkdkdO435b9K/HozgtxA/2nw7GJ7gslChu6sbzfyXzKxB1ATh0KOWkMo0m/Pvt/JCiKUoZHZUSMkRShCUjLJX/2aJITkIpzbhjmpMy1nQ0A0tP77MleT8aSaevn+JxGduJ0+gtGe+QMnS+gCDUuCh80tebLN1UtZdFVaZGy3w+k8VZOurHaP2Yb97yI/DAL0dGrIF1htn2GG6VvSqHgwHlIldLRgMPPLSYvXW/5gWAGyYw9rY5lqGQJoua10ZdiGxwcL2ZpLt7RInYeINK8Pc=;60vBlS/hg34rHHXvA4z6eA=="
+secured: "ozNNIISusT5N9otB3SUNebGIVVaeZ8/97k4gUCuXknbSARus8RJ4ik7O0Ak9xAbyf/H7Ex75594oMxm2yRLYFa3SmHhH48z6iIUp9hHv+F37xTUcgNFBDSK/Z1kNe3kvA2FXVQsteTa9TFsEYHZlHQWps/eS32Kkd4xK/jPIwhO3mH5JFgYkFecT49pAQodxxpxN1sfguaMM1aGIvE2DVCt9IfnDXIG7K7byMb75aOjiQPZec91YtKrMDuPE/9CIvZhsm7xvFoshikvAp7WOpMHr95ERiJqC8kioqg0wrgW98ep8Vya9HF2l3szgOcwxiBEKCLPuknrkU/xBzjDqer/AZ2DS167GLZz/iulUC60=;PmHeksObdrTytgM94yD06w=="
 ---
 

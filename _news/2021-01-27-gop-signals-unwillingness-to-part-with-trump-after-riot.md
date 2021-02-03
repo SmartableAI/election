@@ -25,6 +25,22 @@ topics:
   - Donald Trump
 
 related:
+  - title: "Trump uses impeachment response to vent about election defeat"
+    excerpt: "Former President Donald Trump on Tuesday found a new outlet to air his unfounded claims about voter fraud, using his legal response to impeachment charges against him in the U.S. Congress as a vehicle for his conspiracy theory."
+    publishedDateTime: 2021-02-03T00:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-claims-idUSKBN2A22MF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22MF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22MF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550041826&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111GR"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Poor handling of virus cost Trump his reelection, campaign autopsy finds"
     excerpt: "Former president Donald Trump lost the 2020 election largely due to his handling of the coronavirus pandemic, according to a post-election autopsy completed by Trump campaign pollster Tony Fabrizio. The 27-page document shows that voters in 10 key states rated the pandemic as their top voting issue,"
     publishedDateTime: 2021-02-02T10:03:00Z
@@ -73,6 +89,38 @@ related:
         width: 878
         height: 702
         isCached: true
+  - title: "House Democrats deliver Trump impeachment charge to Senate"
+    excerpt: "The U.S. House of Representatives delivered to the Senate on Monday a charge that former President Donald Trump incited insurrection in a speech to supporters before the deadly attack on the Capitol,"
+    publishedDateTime: 2021-01-26T06:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idCAKBN29U13G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29U13G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29U13G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549038682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P012"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Lawyer group: Trump adds ex-prosecutor to impeachment team"
+    excerpt: "Donald Trump is adding another attorney from South Carolina to his impeachment legal team: a former federal prosecutor-turned-defense attorney who specializes in white-collar crime"
+    publishedDateTime: 2021-01-26T08:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-group-trump-adds-prosecutor-impeachment-team-75481369"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d5306b2cfcd64cb696a6ddf36ddcb3b2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Senate receives article of impeachment against Trump"
     excerpt: "The article of impeachment against President Trump has been delivered to the Senate, and House impeachment managers presented, exhibited and read it aloud. The trial is set to begin the week of February 8."
     publishedDateTime: 2021-01-26T12:23:00Z
@@ -89,28 +137,28 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Anti-Trump Republican Adam Kinzinger knows fate is coming for him"
-    excerpt: "One thing to understand about Adam Kinzinger is that he knows how this will end. “The only hope you have is to accept the fact that you’re already dead,” the Republican congressman from Illinois says."
-    publishedDateTime: 2021-01-27T11:08:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YPWG6TSYGMI6XIEL6E4B546SA4.jpg&w=1440"
-        width: 1440
-        height: 968
-        isCached: true
   - title: "City council approves bill condemning Trump for Capitol riot"
     excerpt: "A city council in Maryland unanimously approved a resolution condemning former President Donald Trump for the violent siege of the U.S. Capitol"
     publishedDateTime: 2021-01-26T20:55:00Z
     webUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html"
     ampWebUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Florida’s Trump Plaza residents move to change name"
+    excerpt: "The residents of a South Florida condo complex want former President Donald Trump’s name officially removed from their home following the siege at the U.S. Capitol earlier this month"
+    publishedDateTime: 2021-01-27T00:46:00Z
+    webUrl: "https://www.washingtonpost.com/national/floridas-trump-plaza-residents-move-to-change-name/2021/01/26/ca15ff5e-6038-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/floridas-trump-plaza-residents-move-to-change-name/2021/01/26/ca15ff5e-6038-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/floridas-trump-plaza-residents-move-to-change-name/2021/01/26/ca15ff5e-6038-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -136,6 +184,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_829e8312972b4569a4e084dadcdb1b36_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump impeachment trial faces challenge from Republican Senator Paul"
+    excerpt: "The Senate impeachment trial of Donald Trump on a charge of inciting the deadly Capitol siege could draw its first challenge on Tuesday, with a Republican senator arguing that trying a former president would violate the U."
+    publishedDateTime: 2021-01-26T20:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN29V1UK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V1UK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V1UK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1FA"
+        width: 817
+        height: 545
         isCached: true
   - title: "US House delivers article of impeachment against Donald Trump to Senate"
     excerpt: "Senate trial will be the first-ever of a former US president but the chances that Republicans will convict him are slim"
@@ -185,22 +249,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Analysis: McConnell was done with Trump. His party said not so fast."
-    excerpt: "Mitch McConnell had finally had enough. But with most Republicans rallying around Trump, he sided with his colleagues trying to throw out the impeachment case."
-    publishedDateTime: 2021-01-28T02:51:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/ep6Q1vD4mePB-iDVbF8MWftnQD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MOWKPUEBW73M7CU3NULPPZFH7A.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "GOP largely sides against holding Trump impeachment trial"
     excerpt: "All but five Senate Republicans have voted in favor of an effort to dismiss Donald Trump’s historic second impeachment trial"
     publishedDateTime: 2021-01-28T08:22:00Z
@@ -232,22 +280,6 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_01202021_getty.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Donald Trump and the verdict of history: ANALYSIS"
-    excerpt: "Not yet out of office for a week and still a political force, Donald Trump’s place in history, let alone his sentence, is bound to be debated for years to come."
-    publishedDateTime: 2021-01-28T16:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-fla-20-rt-ml-210120_1611159652714_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "In fight over GOP, state parties stand as firewall for Trump"
     excerpt: "As former President Donald Trump faces an impeachment trial on a charge of inciting insurrection, state and county Republican Party committees have rushed to Trump’s defense"
@@ -313,6 +345,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Judge blocks Trump rule to limit health studies in EPA regs"
+    excerpt: "A federal judge has blocked a last-minute rule issued by the Trump administration to limit what evidence the Environmental Protection Agency may consider as it regulates pollutants to protect public h"
+    publishedDateTime: 2021-01-29T19:41:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/judge-blocks-trump-rule-limit-health-studies-epa-75569582"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_b1408a184fa440d7bfebd39cf4f8f16a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "RNC planning to invite Trump to donor retreat"
     excerpt: "The Republican National Committee is planning to invite former President Trump to their spring donor meeting in April, two sources confirmed to CBS News. The news comes as the RNC tries to figure out its post-Trump future and amid his polarizing impeachment and the loss of two high-profile Senate seats in Georgia,"
     publishedDateTime: 2021-01-30T12:21:00Z
@@ -345,22 +393,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Democrats weigh expanding lower courts after Trump blitz"
-    excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
-    publishedDateTime: 2021-01-30T22:00:00Z
-    webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
-    ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Donald Trump parts with lawyers before impeachment trial"
     excerpt: "Former US President Donald Trump has parted ways with lawyers representing him in his impeachment trial in the Senate, US media report. The departure of Butch Bowers and Deborah Barberi was reportedly a mutual decision."
     publishedDateTime: 2021-01-31T06:01:00Z
@@ -377,21 +409,85 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Top Trump donor funded rally that preceded U.S. Capitol riot - WSJ"
-    excerpt: "An heiress to the Publix Super Markets chain donated about $300,000 to fund a rally that preceded the deadly storming of the U.S. Capitol this month by supporters of former President Donald Trump, the Wall Street Journal reported on Saturday."
-    publishedDateTime: 2021-01-31T04:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-riots-idUSKBN29Z0QP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Z0QP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Z0QP"
+  - title: "Trump appears to be without a legal team as impeachment trial nears"
+    excerpt: "Former President Donald Trump’s legal team is unclear and undefined with just over a week to go before his second impeachment trial begins in the Senate, according to Trump adviser Jason Miller."
+    publishedDateTime: 2021-01-31T14:05:00Z
+    webUrl: "https://www.cnbc.com/2021/01/31/trump-appears-to-be-without-a-legal-team-as-impeachment-trial-nears.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/31/trump-appears-to-be-without-a-legal-team-as-impeachment-trial-nears.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/31/trump-appears-to-be-without-a-legal-team-as-impeachment-trial-nears.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106824226-16105867462021-01-13t233516z_1810006452_rc2b7l9elbhw_rtrmadp_0_usa-trump-remarks.jpeg?v=1610586791"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump loses lead impeachment lawyers a week before trial"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers little more than a week before his trial"
+    publishedDateTime: 2021-01-31T02:03:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-loses-lead-impeachment-lawyers-week-trial-75587359"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Trump parts ways with impeachment lawyers: source"
+    excerpt: "Former U.S. President Donald Trump abruptly parted ways on Saturday with two lawyers who had been working on his defense for his Senate impeachment trial in what a source familiar with the situation described as a mutual decision."
+    publishedDateTime: 2021-01-31T06:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/trump-parts-ways-with-impeachment-lawyers-source-idUSKBN2A001T?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A001T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A001T"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210130&t=2&i=1549678697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0T0HT"
-        width: 817
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549697780&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U015"
+        width: 876
         height: 545
+        isCached: true
+  - title: "Trump parts ways with impeachment lawyers: sources"
+    excerpt: "Former U.S. President Donald Trump abruptly parted ways on Saturday with the two lead lawyers working on his defense for his Senate impeachment trial, a source familiar with the situation said, leaving Trump's legal strategy in disarray."
+    publishedDateTime: 2021-01-31T09:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A001T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A001T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A001T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549697780&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U015"
+        width: 876
+        height: 545
+        isCached: true
+  - title: "Trump parts with impeachment lawyers a week before trial"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his trial"
+    publishedDateTime: 2021-01-31T03:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-parts-impeachment-lawyers-week-trial-75588302"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Donald Trump hires new impeachment defense team after lead lawyers quit"
     excerpt: "Lawyers David Schoen and Bruce L Castor will head up new legal team after Butch Bowers clashed with Trump over strategy, according to reports"
@@ -408,6 +504,38 @@ related:
       - url: "https://i.guim.co.uk/img/media/90d54c23d0e29b77c4957032c2727c8e0c47e140/0_19_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8a54660af1548fed3d269172a76c08c9"
         width: 600
         height: 360
+        isCached: true
+  - title: "Donald Trump's impeachment defence in disarray as lead lawyers quit"
+    excerpt: "Butch Bowers clashed with Trump over strategy, according to reports, and leaves along with Deborah Barberi and three others"
+    publishedDateTime: 2021-01-31T21:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports?from=samsung_news_daily_card"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/90d54c23d0e29b77c4957032c2727c8e0c47e140/0_19_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8a54660af1548fed3d269172a76c08c9"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Factbox: Five Republicans to watch during Trump's impeachment trial"
+    excerpt: "Former President Donald Trump is the first U.S. president to be impeached twice - and will be the first to face trial after leaving office."
+    publishedDateTime: 2021-02-01T11:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-senators-factbo-idUSKBN2A1284"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A1284"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A1284"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549830808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101B7"
+        width: 901
+        height: 545
         isCached: true
   - title: "Trump names 2 lawyers to impeachment defense team"
     excerpt: "Donald Trump has named two lawyers to his impeachment defense team, one day after it was revealed that the former president had parted ways with an earlier set of attorneys"
@@ -473,6 +601,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump lawyer: Impeachment case ‘undemocratic,’ ill-advised"
+    excerpt: "Democrats are using the upcoming Senate impeachment trial of Donald Trump as a political “weapon” to bar the former president from seeking office again, and are pursuing a case that is “undemocratic” and unconstitutional,"
+    publishedDateTime: 2021-02-02T03:47:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/P4EW9jjAnf4pV_GJYksLauHHIco=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QWUMU6JWTDKSHAPSV64S3TOOAA.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump set off Capitol riot 'powder keg', impeachment prosecutors say"
+    excerpt: "House of Representatives officials submit 80-page memo and say ‘Trump’s responsibility for the events of 6 January is unmistakable’"
+    publishedDateTime: 2021-02-02T15:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/fc581ba97fb85a55916e5b6217dc5e92089cf157/0_133_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb5922d739dacae4a012197426171a6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump's new PAC raises over $30 million"
     excerpt: "The cash he raised gives him a considerable war chest to continue to wield political influence after his presidency."
     publishedDateTime: 2021-02-02T12:23:00Z
@@ -489,21 +649,53 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pentagon chief purges defense boards; Trump loyalists out"
-    excerpt: "Defense Secretary Lloyd Austin has ordered hundreds of Pentagon advisory board members to resign this month as part of a broad review of the panels, essentially purging several dozen last-minute appoi"
-    publishedDateTime: 2021-02-02T20:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/pentagon-chief-purges-defense-boards-trump-loyalists-75639627"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pentagon-chief-purges-defense-boards-trump-loyalists-75639627"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pentagon-chief-purges-defense-boards-trump-loyalists-75639627"
+  - title: "Impeachment managers say Trump conduct demands conviction"
+    excerpt: "House Democrats on Tuesday unveiled a thorough outline of their legal case against former President Trump for his role in the Jan. 6 assault on the U.S."
+    publishedDateTime: 2021-02-02T18:26:00Z
+    webUrl: "https://thehill.com/homenews/house/536918-impeachment-managers-say-trump-conduct-demands-conviction"
+    ampWebUrl: "https://thehill.com/homenews/house/536918-impeachment-managers-say-trump-conduct-demands-conviction?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/536918-impeachment-managers-say-trump-conduct-demands-conviction?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_8c3bc39068b44862bfdba539f4bc1bfe_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/sites/default/files/trumpdonald_012021upi2_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Pentagon chief purges defense boards; Trump loyalists out"
+    excerpt: "Defense Secretary Lloyd Austin has ordered hundreds of Pentagon advisory board members to resign this month as part of a broad review of the panels, essentially purging several dozen who were appointe"
+    publishedDateTime: 2021-02-03T00:45:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/pentagon-chief-purges-defense-boards-trump-loyalists-out/2021/02/02/2dabbe2c-658f-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/pentagon-chief-purges-defense-boards-trump-loyalists-out/2021/02/02/2dabbe2c-658f-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/pentagon-chief-purges-defense-boards-trump-loyalists-out/2021/02/02/2dabbe2c-658f-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump lawyers challenge legitimacy of post-presidency impeachment trial"
+    excerpt: "Former President Donald Trump's lawyers said on Tuesday the U.S. Senate lacks the authority to conduct his impeachment trial now that he has left office, while the Democratic lawmakers due to serve as prosecutors called him singularly responsible for the deadly Jan."
+    publishedDateTime: 2021-02-03T00:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A218W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A218W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A218W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550028510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH110OI"
+        width: 813
+        height: 545
         isCached: true
   - title: "Trump lawyers claim U.S. Senate has no authority to put him on trial"
     excerpt: "Lawyers for former President Donald Trump said on Tuesday that the U.S. Senate has no authority to try him as a private citizen on an impeachment charge that he incited an insurrection at the U.S. Capitol on Jan."
@@ -520,6 +712,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550029451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111CQ"
         width: 817
         height: 545
+        isCached: true
+  - title: "YouTube ban: Google extends suspension of former President Trump's channel"
+    excerpt: "YouTube is maintaining its suspension of former President Trump's channel on the video site. Rudy Giuliani's channel also had its revenue nixed."
+    publishedDateTime: 2021-01-27T07:16:00Z
+    webUrl: "https://www.usatoday.com/story/tech/news/2021/01/26/youtube-ban-former-president-trumps-channel-remain-suspended/4265336001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4265336001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4265336001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/96480bcf-d324-4a80-869b-9f23606fdcc3-VPC_TRUMP_FINAL_ADDRESS_IN_OFFICE_DESK.00_00_17_15.Still001.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
@@ -569,21 +777,37 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Twitter permanently bans MyPillow CEO Mike Lindell after he continues to claim Trump won the election, fraud"
-    excerpt: "Twitter decided to ban Mike Lindell, who founded bedding company MyPillow, due to “repeated violations” of its civic integrity policy."
-    publishedDateTime: 2021-01-26T14:06:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2021/01/26/twitter-bans-mypillow-ceo-mike-lindell-election-fraud-claims/4257458001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4257458001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4257458001"
+  - title: "Donald Trump's entire legal team quits week before impeachment trial: Sources"
+    excerpt: "All five of the impeachment lawyers who were expected to represent former President Donald Trump have called it quits, sources told ABC News. The team, led by South Carolina lawyer Butch Bowers, resigned in part because of disagreements over how to mount Trump’s defense,"
+    publishedDateTime: 2021-01-31T09:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trumps-entire-legal-team-quits-week-impeachment/story?id=75591684"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/03/31/USAT/6aff7ab2-44ed-40be-ab33-704a9c36a9c9-lindell.JPG?auto=webp&crop=2967,1669,x668,y102&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/donald-trump_hpMain_20210130-230648_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump's impeachment defence in disarray as lead lawyers quit – reports"
+    excerpt: "Butch Bowers clashed with Trump over strategy, according to reports, and leaves along with Deborah Barberi and three others"
+    publishedDateTime: 2021-01-31T05:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/31/donald-trumps-impeachment-defence-in-disarray-as-lead-lawyers-quit-reports"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/525663cdbd8a103e342d0670c36da19c31b3c287/0_0_1805_1083/master/1805.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ca181bc5a53e969f0eeb51ddd579b5c6"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump is likely to escape conviction in his Senate impeachment trial. Here's why."
     excerpt: "Senate Republicans immediately condemned the Capitol riots, but most have not committed to convicting the former president who dominates their party."
@@ -617,21 +841,37 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "New Pentagon chief praises Germany for hosting U.S. troops, reversing Trump's tack"
-    excerpt: "New U.S. Defense Secretary Lloyd Austin praised Germany for hosting U.S. troops in a call with his German counterpart on Wednesday, fueling speculation that President Joe Biden could overturn a drawdown ordered by his predecessor Donald Trump."
-    publishedDateTime: 2021-01-28T02:59:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-germany-troops/new-pentagon-chief-praises-germany-for-hosting-u-s-troops-reversing-trumps-tack-idUSKBN29W2VN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W2VN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W2VN"
+  - title: "Senate Republicans unite behind failed effort to challenge Trump impeachment trial"
+    excerpt: "Forty-five Senate Republicans backed a failed effort on Tuesday to halt former President Donald Trump's impeachment trial, in a show of party unity that some cited as a clear sign he will not be convicted of inciting insurrection at the Capitol."
+    publishedDateTime: 2021-01-27T06:53:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idAFKBN29V2JI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN29V2JI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN29V2JI"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 119
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549297914&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q1OW"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1FA"
         width: 817
         height: 545
+        isCached: true
+  - title: "Donald Trump Expects Impeachment Trial to Be 'Badge of Honor'—But Rethinks 2024 Run"
+    excerpt: "The ex-president wanted to use the trial to relitigate his claims of election fraud, but Lindsey Graham told him, \"You don't want to go there.\""
+    publishedDateTime: 2021-01-30T12:00:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-expects-impeachment-trial-badge-honor-rethinks-2024-run-1564677"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-expects-impeachment-trial-badge-honor-rethinks-2024-run-1564677?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-expects-impeachment-trial-badge-honor-rethinks-2024-run-1564677?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1720738/donald-trump-impeachment-2024-capitol-riots.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "Who could have predicted the Capitol riot? Plenty of people — including Trump allies."
     excerpt: "Pro-Trump activists stormed the U.S. Capitol in an effort to overturn the results of the 2020 presidential election. Except for many, it was quite thinkable. It was thought aloud in some cases. As former president Donald Trump faces his second impeachment trial,"
@@ -649,6 +889,38 @@ related:
         width: 1440
         height: 878
         isCached: true
+  - title: "Pro-Trump lawyer Lin Wood asked by licensing body to undergo mental health evaluation"
+    excerpt: "An attorney licensing body on Friday said it has asked L. Lin Wood, a lawyer who played a key role in Donald Trump's attempts to overturn his election defeat, to undergo a mental health evaluation."
+    publishedDateTime: 2021-01-29T21:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-wood/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation-idUSKBN29Y2CD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y2CD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y2CD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549578848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1CG"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump changes defense team just over a week before impeachment trial is set to begin"
+    excerpt: "A Trump spokesman confirmed that the previously designated lead attorney and another attorney who had been announced will not be part of the team."
+    publishedDateTime: 2021-01-31T09:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-changes-defense-team-just-over-a-week-before-impeachment-trial-is-set-to-begin/2021/01/30/4259c8a2-6371-11eb-9430-e7c77b5b0297_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-changes-defense-team-just-over-a-week-before-impeachment-trial-is-set-to-begin/2021/01/30/4259c8a2-6371-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-changes-defense-team-just-over-a-week-before-impeachment-trial-is-set-to-begin/2021/01/30/4259c8a2-6371-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ATKAQPDDPEI6XFBQ47DXWWYCS4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Tom Brady dodges question about getting pass for supporting Trump because he is white"
     excerpt: "Quarterback Tom Brady dodged a question about whether he's gotten a pass for sporting a Donald Trump hat in his locker because he is a white athlete."
     publishedDateTime: 2021-02-01T20:13:00Z
@@ -664,6 +936,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/01/USAT/6dff3c5a-fd24-46fd-a938-e1c00301b0d7-USP_NFL__Kansas_City_Chiefs_at_Tampa_Bay_Buccaneer_1.jpg?auto=webp&crop=5471,3077,x1,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump faces Tuesday deadline to deliver formal response to impeachment as trial looms"
+    excerpt: "Former U.S. President Donald Trump's unprecedented second impeachment trial takes shape this week, as Democrats outline their case and Trump scrambles to prepare a defense amid disarray on his legal team."
+    publishedDateTime: 2021-02-01T16:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A125Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A125Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A125Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549830767&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101A5"
+        width: 813
+        height: 545
         isCached: true
   - title: "Trump argues impeachment trial is unconstitutional, denies he violated oath of office"
     excerpt: "Former President Donald Trump has submitted his formal answer to the article of impeachment through his attorneys arguing that the trial is unconstitutional as he is out of office, denied the president violated his oath of office and said insufficient evidence \"exists upon which a reasonable jurist could conclude that the 45th President's statements were accurate or not,"
@@ -681,6 +969,86 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "'Inexcusable' Trump Impeachment Vote Earns Republican Rep. Tom Rice Censure by S.C. GOP"
+    excerpt: "The South Carolina Republican Party said Rice's vote to impeach former President Donald Trump \"betrayed\" his party's constituents and fell in line with \"unprincipled Leftists.\""
+    publishedDateTime: 2021-01-30T22:12:00Z
+    webUrl: "https://www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610"
+    ampWebUrl: "https://www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1720904/tom-rice.jpg"
+        width: 2500
+        height: 1669
+        isCached: true
+  - title: "Pentagon halted political appointments for Trump allies to join defense advisory boards"
+    excerpt: "Among those affected are Corey Lewandowski, Trump's 2016 presidential campaign manager, and David Bossie, a deputy campaign manager for Trump."
+    publishedDateTime: 2021-01-30T16:57:00Z
+    webUrl: "https://www.businessinsider.com/pentagon-advisory-military-boards-lloyd-austin-review-trump-loyalists-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pentagon-advisory-military-boards-lloyd-austin-review-trump-loyalists-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-advisory-military-boards-lloyd-austin-review-trump-loyalists-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/60158b376dfbe10018e00ee9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "With impeachment trial looming, Trump taps new lawyers who drew spotlight in past work"
+    excerpt: "After his previous legal team departed, the former president tapped two solo practitioners to argue his case to the Senate next week."
+    publishedDateTime: 2021-02-02T07:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/david-schoen-bruce-castor/2021/02/01/9393f522-64b0-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SEJA6DDE5II6XCDNKJSNJTVUNU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "U.S. impeachment managers argue Trump pointed mob 'like a loaded cannon' toward Capitol"
+    excerpt: "The U.S. House of Representatives Democrats who will prosecute former President Donald Trump's impeachment trial on charges of inciting insurrection will argue that he pointed a mob \"like a loaded cannon\" toward the Capitol before a deadly rampage."
+    publishedDateTime: 2021-02-02T20:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-managers-idUSKBN2A21ZG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A21ZG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A21ZG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550007006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1113Z"
+        width: 811
+        height: 545
+        isCached: true
+  - title: "Multiple attorneys no longer expected on Trump's impeachment defense team as trial nears"
+    excerpt: "About a week before his Senate trial, former President Donald Trump has no announced legal team and at least five attorneys who were expected to help lead the team are no longer part of it. The remarkable last-minute shifts add fresh uncertainty over Trump's legal strategy and highlight the struggle the former president has had in corralling a legal team after he became the first president in U."
+    publishedDateTime: 2021-01-31T04:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/30/trump-impeachment-butch-bowers-deborah-barbier-not-defense-team/4328811001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4328811001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4328811001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/06243285-137b-4acb-bb77-6faa007a0a53-AP_Trump_5.jpg?auto=webp&crop=3874,2180,x0,y196&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "New Trump PAC raised $31.5 million in the weeks after Election Day, as Trump was making baseless claims of voter fraud"
     excerpt: "Trump left the presidency with tens of millions of dollars he can now use to finance his post-presidential political career."
     publishedDateTime: 2021-02-01T09:43:00Z
@@ -697,21 +1065,37 @@ related:
         width: 1440
         height: 964
         isCached: true
-  - title: "Pentagon suspends work of advisory boards after flurry of last-minute Trump appointments"
-    excerpt: "Defense Secretary Lloyd Austin has suspended the work of dozens of Pentagon advisory boards and asked hundreds of appointees to step down, in what officials described as an effort aimed partly at counteracting a flurry of appointments that took place in the Trump administration’s final days."
-    publishedDateTime: 2021-02-02T22:09:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/pentagon-suspends-advisory-boards-review/2021/02/02/56292368-6589-11eb-bf81-c618c88ed605_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/pentagon-suspends-advisory-boards-review/2021/02/02/56292368-6589-11eb-bf81-c618c88ed605_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/pentagon-suspends-advisory-boards-review/2021/02/02/56292368-6589-11eb-bf81-c618c88ed605_story.html?outputType=amp"
+  - title: "Trump's PAC has over $31 million stockpiled as he heads into his second impeachment trial"
+    excerpt: "There aren't many restrictions on how the donations to the PAC could be spent, so Trump could use the funds for himself."
+    publishedDateTime: 2021-02-01T08:35:00Z
+    webUrl: "https://www.businessinsider.com/trumps-pac-has-over-31-million-stockpiled-ahead-impeachment-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trumps-pac-has-over-31-million-stockpiled-ahead-impeachment-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pac-has-over-31-million-stockpiled-ahead-impeachment-trial-2021-2?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 116
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YFJWMYDFSAI6XDDESWKYRDFKCU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.insider.com/60178f66d6c5e60019c6e29a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Live Updates: Senate rejects GOP motion to declare Trump impeachment trial unconstitutional"
+    excerpt: "Senators were sworn in as jurors on Tuesday in the second impeachment trial of former President Donald Trump for inciting an insurrection, with proceedings scheduled to get underway in two weeks. Senator Patrick Leahy,"
+    publishedDateTime: 2021-01-26T22:06:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/senate-cabinet-confirmation-impeachment-2021-01-26/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/26/d8c6009b-1a41-4bf2-9d5d-627b79829356/thumbnail/1200x630/ed7731eecbd029ac99de9fcf4c3abfeb/screen-shot-2021-01-26-at-2-48-36-pm.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facing a post-Trump world, abortion opponents at March for Life strike a less partisan tone"
     excerpt: "Abortion opponents began facing the post-Trump world Friday at the annual March for Life, divided over whether the past president helped or harmed their cause and shifting towards less partisan language than in the recent past."
@@ -729,6 +1113,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump lawyers to file pretrial documents with U.S. Senate in preview of impeachment defense"
+    excerpt: "Former President Donald Trump faces a deadline on Tuesday to respond to the U.S. House of Representatives' impeachment charging him with inciting insurrection in a fiery speech to supporters before last month's deadly assault on the Capitol."
+    publishedDateTime: 2021-02-02T16:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/trump-lawyers-to-file-pretrial-documents-with-u-s-senate-in-preview-of-impeachment-defense-idUSKBN2A218W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A218W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A218W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549977474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH110OI"
+        width: 813
+        height: 545
+        isCached: true
   - title: "Nearly all GOP senators vote against impeachment trial for Trump, signaling likely acquittal"
     excerpt: "Sen. Rand Paul (R-Ky.) offered a procedural objection questioning the constitutionality of impeaching a former president, and it won the backing of all but 5 Republicans."
     publishedDateTime: 2021-01-27T04:18:00Z
@@ -745,17 +1145,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump campaign's post-election legal spending topped $7M, with Kasowitz in the lead"
-    excerpt: "The Trump campaign paid law firms and other legal providers more than $7 million from Nov. 4 through the end of last year, a Reuters analysis of Federal Election Commission records shows."
-    publishedDateTime: 2021-02-02T02:01:00Z
-    webUrl: "https://www.reuters.com/article/lawyer-trump-spend-idUSL1N2K8025"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K8025"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K8025"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 114
   - title: "Trump legal team argues impeachment trial is unconstitutional, denies inciting Capitol attack"
     excerpt: "In their legal brief responding to the article of impeachment, Trump's lawyers argue the trial is \"in violation of the Constitution.\""
     publishedDateTime: 2021-02-02T18:22:00Z
@@ -771,6 +1160,102 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/31/e6e4b3bf-d221-4e69-9758-c125b8adfeda/thumbnail/1200x630g2/2846660e3574f923ccd0a39f79b733a8/gettyimages-1230689498.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Capitol rioter \"horrendously smitten\" by Trump willing to speak at impeachment trial, lawyer says"
+    excerpt: "The words of Trump supporters who are accused of participating in the riot may end up being used against him in his impeachment trial."
+    publishedDateTime: 2021-01-29T13:09:00Z
+    webUrl: "https://www.cbsnews.com/news/jake-angeli-qanon-shaman-trump-impeachment-trial/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/jake-angeli-qanon-shaman-trump-impeachment-trial/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jake-angeli-qanon-shaman-trump-impeachment-trial/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/07/c20a610b-0e6c-44c2-95a9-f24b8b331ee7/thumbnail/1200x630/f9f69d871719367d2bd5de2e48e67ab9/gettyimages-1294935359.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GOP Sen. Rob Portman says Trump impeachment trial post-presidency could set a dangerous precedent"
+    excerpt: "Republican Sen. Rob Portman of Ohio explains why he joined 44 other Republicans to reject the constitutionality of impeaching former President Donald Trump."
+    publishedDateTime: 2021-01-29T06:54:00Z
+    webUrl: "https://www.cnbc.com/2021/01/28/gop-sen-says-trump-impeachment-trial-could-set-a-dangerous-precedent.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/gop-sen-says-trump-impeachment-trial-could-set-a-dangerous-precedent.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/gop-sen-says-trump-impeachment-trial-could-set-a-dangerous-precedent.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 112
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106829332-1611590056858-gettyimages-1230674125-SENATE_MAYORKAS.jpeg?v=1611590145"
+        width: 6000
+        height: 4000
+        isCached: true
+  - title: "Trump and Rep. Kevin McCarthy discussed 2022 election during Florida meeting as Trump allies target pro-impeachment Republicans"
+    excerpt: "McCarthy meeting takes place less than two weeks before the Senate impeachment trial, and a year before potentially divisive GOP primaries."
+    publishedDateTime: 2021-01-29T07:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/28/donald-trump-meets-kevin-mccarthy-trump-allies-hit-other-republicans/4290454001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4290454001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4290454001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/28/USAT/94b27749-b9aa-4a64-89a0-1e51787f2653-AFP_AFP_1R63QE.JPG?auto=webp&crop=5477,3081,x0,y378&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Capitol rioter \"horrendously smitten\" by Trump willing to speak at impeachment trial, lawyer says"
+    excerpt: "The words of Trump supporters who are accused of participating in the riot may end up being used against him in his impeachment trial."
+    publishedDateTime: 2021-01-30T12:22:00Z
+    webUrl: "https://www.cbsnews.com/news/jake-angeli-qanon-shaman-speak-trump-impeachment-trial/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/jake-angeli-qanon-shaman-speak-trump-impeachment-trial/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jake-angeli-qanon-shaman-speak-trump-impeachment-trial/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/07/c20a610b-0e6c-44c2-95a9-f24b8b331ee7/thumbnail/1200x630/f9f69d871719367d2bd5de2e48e67ab9/gettyimages-1294935359.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "As the numbers suggest a Trump acquittal, Senators explore censure and brace for impeachment trial"
+    excerpt: "Senate Democrats explored how to make their impeachment case against former President Donald Trump a day after a vote suggested he will be acquitted."
+    publishedDateTime: 2021-01-27T22:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/27/trump-impeachment-senators-floating-censure-after-rand-paul-motion/4280256001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4280256001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4280256001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/27/USAT/062d1fae-0a45-404c-8dda-c62f7a87ee96-durbin.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Power Up: And then there were five. Republicans, that is, willing to hold a Trump impeachment trial"
+    excerpt: "Mitch McConnell isn't breaking with Trump, after all, as he voted to dismiss the impeachment trial because, 45 Republicans say, it's unconstitutional to convict a former president."
+    publishedDateTime: 2021-01-27T16:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/27/power-up-then-there-were-five-republicans-that-is-willing-hold-trump-impeachment-trial/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GO2IDXDAIQI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Consumer Financial Protection Bureau, muzzled under Trump, prepares to renew tough industry oversight"
     excerpt: "After taking a largely hands-off approach in the Trump era, the consumer watchdog hatched by Elizabeth Warren is expected to resume issuing tough penalties and rules."
@@ -818,6 +1303,96 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Loaded cannon': House Democrats, Trump team file arguments in impeachment trial as Senate weighs witnesses"
+    excerpt: "House Democrats said Trump \"summoned a mob to Washington, exhorted them into a frenzy, and aimed them like a loaded cannon down Pennsylvania Avenue.”"
+    publishedDateTime: 2021-02-02T20:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/02/02/impeachment-trump-calls-trial-unconstitutional-dems-say-he-incited/4352808001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4352808001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4352808001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/02/USAT/7ea05478-e2a3-4607-b557-bae95323bbae-AP_Trump_Impeachment_3.jpg?auto=webp&crop=5075,2855,x0,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's defense team claims Senate has no grounds to hold trial, asks for dismissal - live politics updates"
+    excerpt: "Donald Trump's attorneys on Tuesday argued his upcoming Senate impeachment trial is unconstitutional and asked for the case to be dismissed."
+    publishedDateTime: 2021-02-02T22:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/02/02/politics-live-updates-trump-impeachment-trial-biden-immigration/4344395001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4344395001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4344395001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/02/USAT/7ea05478-e2a3-4607-b557-bae95323bbae-AP_Trump_Impeachment_3.jpg?auto=webp&crop=5075,2855,x0,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump officials moved most Bureau of Land Management positions out of D.C. More than 87 percent quit instead."
+    excerpt: "The decision to relocate BLM headquarters to Colorado and redistribute jobs in the West prompted 287 employees to retire or find other jobs."
+    publishedDateTime: 2021-01-29T04:50:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VC6BWOA4CUI6PBMYTKM5UVM7TY&w=1440"
+        width: 1440
+        height: 684
+        isCached: true
+  - title: "U.S. lawmaker comments on impeachment of President Donald Trump"
+    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."
+    publishedDateTime: 2021-01-13T21:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmaker-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547688231&r=LYNXMPEH0C15H&w=800"
+        width: 800
+        height: 540
+        isCached: true
+  - title: "Legal analysis of Trump impeachment trial"
+    excerpt: "The House delivered its article of impeachment against former President Trump on Monday. He's charged with inciting the deadly insurrection at the Capitol earlier this month. Jessica Levinson, Loyola Law School professor,"
+    publishedDateTime: 2021-01-26T04:38:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-impeachment-trial-jessica-levinson-analysis-2021-01-25/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/870ea0d8-9185-41f6-bbf5-fc75ad2736d2/thumbnail/1200x630/ead47aa2d8d46155a20fe2c8ae8548f4/cbsn-fusion-trump-impeachment-trial-jessica-levinson-analysis-2021-01-25-thumbnail-633279-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Rand Paul: Impeaching Trump 'antithesis of unity'"
+    excerpt: "Republican Sen. Rand Paul of Kentucky is challenging the legitimacy of Donald Trump's second impeachment trial and forced a Senate vote on whether the impeachment trial of a former president is Constitutional."
+    publishedDateTime: 2021-01-26T20:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/26/rand-paul-impeaching-trump-antithesis-unity/4265609001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4599d219-51e2-4534-9bab-abd1898b1797_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Republicans face uncertain future in post-Trump era"
     excerpt: "The third highest-ranking Republican in the House, Congresswoman Liz Cheney of Wyoming, is facing backlash following her support for impeaching former President Donald Trump. CBS News Capitol Hill producer Rebecca Kaplan joins \"CBSN AM\" to discuss the divisions within the GOP."
     publishedDateTime: 2021-01-27T02:28:00Z
@@ -838,17 +1413,6 @@ related:
     webUrl: "https://www.reuters.com/article/lawyer-moves-jones-day-idUSL1N2K32T2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K32T2"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K32T2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Morgan Lewis can't withhold Trump organization docs in NY AG probe"
-    excerpt: "A Manhattan state judge on Friday ordered Morgan, Lewis & Bockius to turn over documents related to its representation of the Trump Organization, ruling the law firm had marked some of its communications with former U."
-    publishedDateTime: 2021-01-30T01:14:00Z
-    webUrl: "https://www.reuters.com/article/lawyer-trump-morgan-lewis-idUSL1N2K501M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K501M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K501M"
     type: article
     provider:
       name: Reuters
@@ -896,6 +1460,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump gets new legal team as impeachment trial looms"
+    excerpt: "Top News Trump gets new legal team as impeachment trial looms. Posted . Former U.S. President Donald Trump's unprecedented second impeachment trial takes shape this week, as Democ"
+    publishedDateTime: 2021-02-01T17:29:00Z
+    webUrl: "https://www.reuters.com/video/watch/trump-gets-new-legal-team-as-impeachment-id725131661"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210201&i=OVDXTI9CV&r=OVDXTI9CV&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
+    excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
+    publishedDateTime: 2021-02-02T08:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/01/trump-impeachment-trial-new-lawyers-focus-case-constitution/4312721001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4312721001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4312721001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/3ad2862f-87e5-4ffc-9130-18e947c8e357-AP_Trump_Impeachment_Rioters.jpg?auto=webp&crop=4398,2474,x0,y223&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "45 Republican senators vote to dismiss impeachment of Donald Trump – video"
     excerpt: "Procedural objection fails but indicates stiff challenge of persuading 17 Republicans to vote for conviction"
     publishedDateTime: 2021-01-27T07:16:00Z
@@ -909,6 +1503,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0844704df82f4796af80e7f1e6f95cf827963e81/97_0_2806_1684/master/2806.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c41ec6354e9a140528caf6e8d6d93171"
         width: 1200
         height: 630
+        isCached: true
+  - title: "House impeachment managers file pretrial brief tearing into GOP claims that it's unconstitutional to impeach Trump"
+    excerpt: "\"If provoking an insurrectionary riot...after losing an election is not an impeachable offense, it is hard to imagine what would be,\" the brief said."
+    publishedDateTime: 2021-02-02T15:22:00Z
+    webUrl: "https://www.businessinsider.com/house-impeachment-managers-file-brief-trump-senate-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/house-impeachment-managers-file-brief-trump-senate-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-impeachment-managers-file-brief-trump-senate-trial-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "45 Republicans voted to declare Trump's Senate impeachment trial unconstitutional, all but guaranteeing his acquittal"
     excerpt: "Kentucky Sen. Rand Paul forced the upper chamber to vote on the constitutionality of even holding a trial."
@@ -940,51 +1550,47 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "Republicans back away from confronting Trump and his loyalists after the Capitol insurrection, embracing them instead"
-    excerpt: "Powerful party leaders are trying to avoid a divisive battle to improve their odds of reclaiming power in 2022."
-    publishedDateTime: 2021-01-28T06:59:00Z
-    webUrl: "https://www.washingtonpost.com/politics/riot-republicans-trump-impeachment/2021/01/27/b13633fe-60b6-11eb-9061-07abcc1f9229_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/riot-republicans-trump-impeachment/2021/01/27/b13633fe-60b6-11eb-9061-07abcc1f9229_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/riot-republicans-trump-impeachment/2021/01/27/b13633fe-60b6-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+  - title: "House Impeachment Managers: Trump Whipped Mob Into 'Frenzy,' Aimed It At Capitol"
+    excerpt: "Ahead of next week's trial, a brief argues the Jan. 6 riot would not have happened without Trump \"creating a powder keg, striking a match, and then seeking personal advantage from the ensuing havoc.\""
+    publishedDateTime: 2021-02-02T16:32:00Z
+    webUrl: "https://www.npr.org/2021/02/02/963214171/house-impeachment-managers-trump-whipped-mob-into-frenzy-aimed-it-at-capitol"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
+      name: NPR
+      domain: npr.org
+    quality: 100
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QRNMS5Q7VQI6XORB6LYAD4CVJM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://media.npr.org/assets/img/2021/02/02/gettyimages-1294908917_wide-bea1d1b4e5cafd824125f698183816eba3e599a3.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
-  - title: "Former FBI lawyer gets probation for altering email during investigation into ties between Russia, 2016 Trump campaign"
-    excerpt: "A former FBI lawyer was sentenced to probation for altering a document the Justice Department relied on during its surveillance of a Donald Trump aide during the Russia investigation."
-    publishedDateTime: 2021-01-29T17:54:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-kevin-clinesmith-fbi-russia-document-20210129-t3asgxerz5hobkisvoyrfmsvjq-story.html?outputType=amp"
+  - title: "House sends Senate second Trump impeachment for 'gravely' endangering security of US"
+    excerpt: "House Democrats have sent the impeachment charge of “incitement of insurrection” to the Senate, kicking off the trial process."
+    publishedDateTime: 2021-01-27T04:24:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/01/26/house-sends-trump-impeachment-senate-second-time/4254384001/"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 101
-    images:
-      - url: "https://www.chicagotribune.com/resizer/qTFSIBHni0wRVA9K0csySIUoZrQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2QII4RLQJNTTGT6DI7IS7R3CEE.aspx"
-        width: 1200
-        height: 779
-        isCached: true
-  - title: "Donald Trump didn't pardon himself. A massive tsunami of legal peril now awaits him."
-    excerpt: "Trump faces a host of investigations at the federal, state, and local levels involving his presidency, campaign, business interests, and taxes."
-    publishedDateTime: 2021-01-27T11:15:00Z
-    webUrl: "https://www.businessinsider.com/trump-federal-state-local-investigation-prosecution-georgia-call-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: USA Today
+      domain: usatoday.com
     quality: 98
     images:
-      - url: "https://i.insider.com/600865b6e3d62500185fd62e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/b5bb04cf-de38-4aa8-aa89-4e4241e23d11-VPC_IMPEACHMENT_HANDOFF_DESK.00_00_39_27.Still001.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "READ: House Impeachment Managers' Brief Outlines Arguments For Senate Trial Of Trump"
+    excerpt: "The House Democrats prosecuting the case against the former president argue he holds \"singular responsibility\" for the Capitol riot and should be convicted and barred from future office."
+    publishedDateTime: 2021-02-02T16:20:00Z
+    webUrl: "https://www.npr.org/2021/02/02/963206414/read-house-impeachment-managers-brief-outlines-arguments-for-senate-trial-of-tru"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 98
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/02/ap_21026038993310_wide-9776feeebe947aa0c4b930c197eaa56f51ec4654.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Trump White House donated 8,700 ventilators to other nations. Officials now don’t know where many of them are, watchdog finds."
     excerpt: "The GAO was unable to identify how the Trump White House made its decisions on ventilator allocations. Sri Lanka had just three new coronavirus cases per day when it received 200 ventilators. Bangladesh,"
@@ -1002,17 +1608,33 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Donald Trump has these 7 distinct weapons in his arsenal that show he isn't going away anytime soon"
-    excerpt: "Insider has identified 7 weapons in Donald Trump's arsenal — political committees, government facilities, media platforms — for staging a comeback."
-    publishedDateTime: 2021-02-01T10:00:00Z
-    webUrl: "https://www.businessinsider.com/where-is-donald-trump-new-2024-campaign-committee-2021-2"
+  - title: "Presiding senator in Trump impeachment trial hospitalized after senators sworn in as jurors"
+    excerpt: "The Senate is preparing for an unprecedented second impeachment trial for former President Donald Trump. Nikole Killion reports on the developing events inside the chamber and if there is any likelihood to convict."
+    publishedDateTime: 2021-01-27T13:08:00Z
+    webUrl: "https://www.cbsnews.com/video/presiding-senator-in-trump-impeachment-trial-hospitalized-after-senators-sworn-in-as-jurors/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/27/943dc32f-6cc9-4c24-a0e8-aa532c8db235/thumbnail/1200x630/027f3a4c5a04a12013d87b31d1bbe91b/cbsn-fusion-presiding-senator-in-trump-impeachment-trial-hospitalized-after-senators-sworn-in-as-jurors-thumbnail-633981-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Senators are working on a bipartisan resolution to censure Trump as it becomes more likely he'll be acquitted in impeachment trial"
+    excerpt: "Kaine told reporters that there \"maybe a little more interest now\" in the move after an overwhelming majority of Republicans on Tuesday hinted they likely won't convict Trump. The Virginia Democrat argued that a censure resolution could be a better use of the Senate 's time."
+    publishedDateTime: 2021-01-27T18:47:00Z
+    webUrl: "https://www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senators-aim-to-censure-trump-as-he-likely-faces-acquittal-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 91
+    quality: 95
     images:
-      - url: "https://i.insider.com/60149ab66dfbe10018e00e73?width=1200&format=jpeg"
+      - url: "https://i.insider.com/601196896dfbe10018e0040c?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -1032,20 +1654,15 @@ related:
         width: 1024
         height: 794
         isCached: true
-  - title: "Watchdog group accuses the Trump campaign and family members of engaging in 'schemes' that hid massive election spending and likely broke federal law"
-    excerpt: "The updated complaint to the FEC cited Insider's reporting that Donald Trump's son-in-law, Jared Kushner, helped create a secretive shell company that spent hundreds of millions of dollars from the campaign's coffers."
-    publishedDateTime: 2021-01-28T14:02:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-campaign-complaint-legal-law-ammc-kushner-guilfoyle-2021-1"
+  - title: "Liz Cheney Voted to Impeach Trump. Now She's Under Pressure from Her Own Party"
+    excerpt: "The fight for the future of the Republican party is here, and an early proxy battle is playing out in the House of Representatives."
+    publishedDateTime: 2021-01-29T04:47:00Z
+    webUrl: "https://time.com/5934208/liz-cheney-republican-party-battle/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Time
+      domain: time.com
     quality: 81
-    images:
-      - url: "https://i.insider.com/6012b6a96dfbe10018e006c8?width=700"
-        width: 700
-        height: 525
-        isCached: true
   - title: "As Trump's impeachment trial nears, Republicans mull questions on party's future"
     excerpt: "As former president Donald Trump’s second impeachment nears, lawmakers discussed on Jan. 31 whether he should be held accountable for the Capitol breach."
     publishedDateTime: 2021-01-31T18:35:00Z
@@ -1055,6 +1672,22 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 80
+  - title: "Second Donald Trump impeachment: House delivers charge to Senate"
+    excerpt: "Democrats marched the impeachment case against Donald Trump to the Senate Monday night for the start of his historic trial, but Republican senators were easing off their criticism of the former president and shunning calls to convict him over the deadly siege at the U."
+    publishedDateTime: 2021-01-25T23:07:00Z
+    webUrl: "https://www.al.com/politics/2021/01/second-donald-trump-impeachment-house-delivers-charge-to-senate.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/second-donald-trump-impeachment-house-delivers-charge-to-senate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/second-donald-trump-impeachment-house-delivers-charge-to-senate.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q3WCHWBDGJGDXHN5U2NV7WUYZM.jpg"
+        width: 5800
+        height: 3951
+        isCached: true
   - title: "What’s Next For Trump? His Plans As Impeachment Article Hit Senate"
     excerpt: "Former President Donald Trump is opening a new office in Florida on Monday that will carry on his admininstration's administration, an announcement he made as the House delivered a single article of impeachment to the Senate."
     publishedDateTime: 2021-01-26T12:26:00Z
@@ -1103,6 +1736,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "‘QAnon Shaman' Offers To Testify At Trump's Impeachment Trial"
+    excerpt: "A lawyer representing Jacob Chansley, the self-proclaimed \"QAnon Shaman,\" said his client now feels betrayed by former President Donald Trump and is willing to testify at his impeachment trial in the Senate."
+    publishedDateTime: 2021-01-29T15:25:00Z
+    webUrl: "https://www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569"
+    ampWebUrl: "https://www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/qanon-shaman-offers-testify-trumps-impeachment-trial-3133569?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/us-prosecutors-believe-supporters-of-president-donald-trump.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "QAnon Shaman willing to testify at Trump impeachment trial"
     excerpt: "Lawyer Albert Watkins said he hasn’t spoken to any member in the Senate since announcing his offer to have Jacob Chansley testify at Trump’s trial."
     publishedDateTime: 2021-01-29T02:10:00Z
@@ -1119,6 +1768,102 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "South Carolina GOP censures Rep. Tom Rice for Trump impeachment vote"
+    excerpt: "South Carolina Republicans on Saturday issued a formal censure to U.S. Rep. Tom Rice to show disapproval over his vote in support of the second impeachment of former President Donald Trump. Rice was among 10 GOP representatives who joined Democrats on Jan."
+    publishedDateTime: 2021-01-31T01:58:00Z
+    webUrl: "https://www.al.com/news/2021/01/south-carolina-gop-censures-rep-tom-rice-for-trump-impeachment-vote.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/south-carolina-gop-censures-rep-tom-rice-for-trump-impeachment-vote.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/south-carolina-gop-censures-rep-tom-rice-for-trump-impeachment-vote.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UG3YVSYHJJH3FNDN7UTHETCU6U.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump parts with impeachment lawyers as trial nears"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his Senate trial is set to begin, two people familiar with the situation said Saturday. Butch Bowers and Deborah Barbier,"
+    publishedDateTime: 2021-01-31T03:54:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-parts-with-impeachment-lawyers-as-trial-nears.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CFCWJBCEGNBDZJCBFMKGIX5HIM.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump Impeachment Lawyers Named After 5 Members Of Defense Team Quit"
+    excerpt: "Five of Trump's impeachment lawyers had left his legal team after he refused to steer away from using mass election fraud as his defense strategy."
+    publishedDateTime: 2021-02-01T02:36:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-named-after-5-members-defense-team-quit-3134480"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-named-after-5-members-defense-team-quit-3134480?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-lawyers-named-after-5-members-defense-team-quit-3134480?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
+        width: 1024
+        height: 716
+        isCached: true
+  - title: "Trump parts with impeachment lawyers a week before trial"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his Senate trial is set to begin, two people familiar with the situation said Saturday. Butch Bowers and Deborah Barbier,"
+    publishedDateTime: 2021-01-31T16:48:00Z
+    webUrl: "https://www.chron.com/politics/article/Trump-loses-lead-impeachment-lawyers-15912221.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/Trump-loses-lead-impeachment-lawyers-15912221.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Trump-loses-lead-impeachment-lawyers-15912221.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Trump Names New Impeachment Legal Team, One Day After Previous Team Bailed"
+    excerpt: "One of the attorneys is best known for declining to prosecute Bill Cosby. The other represented Roger Stone and planned to represent Jeffrey Epstein."
+    publishedDateTime: 2021-02-01T02:06:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 73
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/9cc/a57/bac7f73e443026b5f23753235d8e964ce1-President-Trump-Wave-Back.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "Trump Previews Impeachment Defense: It Wasn’t Incitement, It Was Free Speech"
+    excerpt: "Donald Trump’s lawyers on Tuesday previewed their defense of the ex-president during next week’s impeachment trial, responding to pre-trial brief filed by House managers accusing him of a “grievous betrayal” of his oath of office for inciting last month’s attack on the Capitol."
+    publishedDateTime: 2021-02-02T18:47:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/02/trump-impeachment-violates-my-right-to-free-speech.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/trump-impeachment-violates-my-right-to-free-speech.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/trump-impeachment-violates-my-right-to-free-speech.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 72
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/296/878/25434125e8951267e3143453e27a549073-trump-jan-6.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump Goes Viral On Twitter After Office Of The Former President Launch"
     excerpt: "Donald Trump has officially launched what's being called the Office of the Former President in Florida to continue his agenda."
     publishedDateTime: 2021-01-26T11:11:00Z
@@ -1134,6 +1879,31 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
         width: 1024
         height: 696
+        isCached: true
+  - title: "Trump Impeachment Trial to Focus on His Attacks on Election"
+    excerpt: "President Donald Trump’s historic second impeachment could go to trial as soon as Inauguration Day, with U.S. senators serving not only as jurors but as shaken personal witnesses and victims of the deadly siege of the Capitol by a mob of his supporters."
+    publishedDateTime: 2021-01-15T00:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Trump Impeachment Article To Be Sent To Senate, Triggering Trial"
+    excerpt: "US House Speaker Nancy Pelosi is set to send the Senate a single article of impeachment Monday accusing Donald Trump of inciting the Capitol riot, formally triggering the first-ever impeachment trial of a former president."
+    publishedDateTime: 2021-01-25T05:45:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-article-be-sent-senate-triggering-trial-3129467"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
+        width: 1024
+        height: 714
         isCached: true
   - title: "Republicans condemned Donald Trump. Now they’re seeking his help"
     excerpt: "House Republican leader Kevin McCarthy declared Donald Trump culpable in the deadly attack on the U.S. Capitol. By Thursday, he was seeking his political support."
@@ -1160,6 +1930,34 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Impeachment Lawyers Leave Team: US Media"
+    excerpt: "Several of former US president Donald Trump's impeachment lawyers have left his team a little over a week before his trial, US media reported Saturday. CNN cited unnamed sources as saying that five lawyers -- including two who were thought to be leading the team -- had parted ways with the Republican billionaire after disagreeing over his legal strategy."
+    publishedDateTime: 2021-01-31T04:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-leave-team-us-media-3134168"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
+        width: 1024
+        height: 716
+        isCached: true
+  - title: "Trump Impeachment Lawyers Quit, Who Will Be Part Of His New Legal Team?"
+    excerpt: "Former President Donald Trump’s second impeachment trial is set to begin on Feb. 9 and he will need a new legal team after five attorneys on Saturday left over a disagreement in his legal strategy. The legal team included attorneys Butch Bowers,"
+    publishedDateTime: 2021-01-31T14:53:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-quit-who-will-be-part-his-new-legal-team-3134264"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/27/social-media-platforms-have-banned-donald-trumps-accounts.jpg"
+        width: 1024
+        height: 696
+        isCached: true
   - title: "Judge Denies Release of Jailed Cowboys for Trump Leader"
     excerpt: "A federal magistrate judge in Washington says Cowboys for Trump leader Couy Griffin should be jailed without bail on a charge involving the Jan. 6 siege of the U.S. Capitol."
     publishedDateTime: 2021-02-02T00:33:00Z
@@ -1171,28 +1969,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Special Counsel Appointed Under Trump Seeks Prison for Former FBI Lawyer"
-    excerpt: "A former FBI lawyer who pleaded guilty to falsifying a document during the agency's investigation of contacts between former President Donald Trump's 2016 campaign and Russia is due to be sentenced on Friday,"
-    publishedDateTime: 2021-01-29T11:37:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-29/special-counsel-appointed-under-trump-seeks-prison-for-former-fbi-lawyer"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-29/special-counsel-appointed-under-trump-seeks-prison-for-former-fbi-lawyer?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-29/special-counsel-appointed-under-trump-seeks-prison-for-former-fbi-lawyer?context=amp"
+  - title: "Trump 'Singularly Responsible' For Riot, Impeachment Trial Brief Claims"
+    excerpt: "Donald Trump was \"singularly responsible\" for the deadly US Capitol riot last month and acquitting the former president could damage American democracy, lawmakers leading the impeachment case said Tuesday,"
+    publishedDateTime: 2021-02-02T18:24:00Z
+    webUrl: "https://www.ibtimes.com/trump-singularly-responsible-riot-impeachment-trial-brief-claims-3135938"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
-  - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
-    excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"
-    publishedDateTime: 2021-02-02T20:04:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 52
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/02/in-the-aftermath-of-the-deadly-us-capitol.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Pro-Trump Lawyer Lin Wood Puts License in Jeopardy by Refusing Mental Health Evaluation"
     excerpt: "L. Lin Wood, a lawyer who played a role in former President Donald Trump's attempts to overturn his election defeat, put his law license in jeopardy on Friday by saying on social media that he would not undergo a mental health evaluation requested by an attorney licensing body."
     publishedDateTime: 2021-01-30T01:40:00Z
@@ -1204,6 +1994,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Louisiana's Cassidy and Kennedy Diverge on Trump Impeachment"
+    excerpt: "Louisiana’s two Republican U.S. senators are taking different approaches to the second impeachment trial against former President Donald Trump."
+    publishedDateTime: 2021-01-26T22:54:00Z
+    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-26/louisianas-cassidy-and-kennedy-diverge-on-trump-impeachment"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "ok7du19h5aR3N15DVENeS/5lvqa9KzRWvo7TL838szITz5ElR6Tp2SFE6O2OXAg6ZCXhyqBtjUMICeIYbzU7NcqjoOwI/UaNpthXjYHUcHaPSiFyiwC+TXeDjBjW7lIe8OGleqEVB4w7HgKk1qfFtcQQcBE+PLuEg/ODBpZdBndYpku99WsizVRaKWWv5scnDwICoUfiM9kLnoeeWK/UtNTtb/qV6M3zTmrqNYR12uRS/1Sd1fvCOVR+KrFmoPXVNzvcGzwEmJJzV6bf2I77eWZG5uXT+UpnMYs2FEzmL0YlS7otldx3R+djMsZPTQ6HkIspuRN9O55k1YziSWtjzB0W3i8aUF3HnIaGvPMr4e0=;XlfapDlbSn9Wf6s2Ko4k5g=="
 ---

@@ -335,6 +335,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump doubles down on false election claim in impeachment response"
+    excerpt: "The legal battle over Donald Trump’s impeachment trial kicked off Tuesday, with the House managers arguing the former president bears “unmistakable” responsibility for the deadly Jan. 6 attack on the Capitol,"
+    publishedDateTime: 2021-02-03T00:11:00Z
+    webUrl: "https://www.politico.com/news/2021/02/02/house-impeachment-brief-trump-responsible-capitol-attack-464930"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/cd/0f/706314a84eeab118e9b51e8b4b79/proxy-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Most Senate Republicans declare Trump's trial unconstitutional. Here's what that means for conviction."
     excerpt: "Forty-five GOP senators voted Tuesday to dismiss the trial as unconstitutional, given Trump's status as the former president."
     publishedDateTime: 2021-01-27T06:33:00Z

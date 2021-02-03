@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/joe-exotic-trump-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/joe-exotic-trump-pardon-list-omits-tiger-king-75366065"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Anti-Trump Republican Adam Kinzinger knows fate is coming for him"
+    excerpt: "One thing to understand about Adam Kinzinger is that he knows how this will end. “The only hope you have is to accept the fact that you’re already dead,” the Republican congressman from Illinois says."
+    publishedDateTime: 2021-01-27T11:08:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/adam-kinzinger-republican-impeach-trump-capitol/2021/01/26/c544cc1e-55fa-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YPWG6TSYGMI6XIEL6E4B546SA4.jpg&w=1440"
+        width: 1440
+        height: 968
+        isCached: true
   - title: "Anti-Trump Republican Adam Kinzinger accepts his fate, whatever it is"
     excerpt: "The GOP congressman spoke out against election conspiracy theories and voted to remove Trump. Can he weather the consequences?"
     publishedDateTime: 2021-01-28T02:17:00Z
