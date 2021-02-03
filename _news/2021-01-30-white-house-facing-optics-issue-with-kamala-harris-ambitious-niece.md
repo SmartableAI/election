@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-optics-issue-kamala-har
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-optics-issue-kamala-harris-niece.amp"
 type: article
 quality: 185
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/manchin-kamala.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The Designer of Kamala Harris’s Inauguration Outfit Crafts a Strategy for the Pandemic"
+    excerpt: "After a high-profile start to 2021, rising fashion star Christopher John Rogers focuses on new ways to do business amid Covid’s disruption."
+    publishedDateTime: 2021-02-03T15:57:00Z
+    webUrl: "https://www.wsj.com/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 127
+    images:
+      - url: "https://images.wsj.net/im-294426/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "L.A. Times’ special Kamala Harris section called out by media critics: 'Blatant PR campaign'"
     excerpt: "The Los Angeles Times’ fawning coverage of Vice President Kamala Harris has been labeled “inappropriate and disappointing” by critics, some comparing it to the way state-run media would treat leaders in authoritarian nations."

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Two Ohio GOP lawmakers are proposing an annual state holiday in honor of Trump"
+    excerpt: "Two Ohio Republican state lawmakers want to designate June 14 as an annual state holiday honoring former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-03T17:38:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dlh2-kum3Fs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/ohio-gop-state-holiday-trump-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/ohio-gop-state-holiday-trump-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Virginia Republicans' search for a standard-bearer is a key test of post-Trump GOP in upcoming governor's race"
     excerpt: "As Republicans search for a path forward following Donald Trump's defeat and the party's loss of power in Washington, many are looking across the Potomac River to Virginia, where voters will select a new governor this November.\n    \n"
     publishedDateTime: 2021-02-01T18:21:29Z

@@ -703,16 +703,16 @@ related:
         height: 630
         isCached: true
   - title: "VP Kamala Harris swears in Pete Buttigieg as Secretary of Transportation"
-    excerpt: "Second gentleman Doug Emhoff poses for photos after United States Vice President Kamala Harris swore in Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3,"
+    excerpt: "United States Vice President Kamela Harris swears in Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington, DC."
     publishedDateTime: 2021-02-03T15:27:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d9fe1c06d94f73ceab13a06bebe78264/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/f9bbc4f82a87418f9e2d0823a778eb24/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d9fe1c06d94f73ceab13a06bebe78264/BUTTIGIEG-TRANSPORTATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/f9bbc4f82a87418f9e2d0823a778eb24/BUTTIGIEG-TRANSPORTATION.jpg"
         width: 650
         height: 433
         isCached: true
@@ -755,6 +755,15 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris Pays Tribute to Officer Sicknick"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff paid tribute to U.S. Capitol Police Officer Brian Sicknick. An urn with the remains of Officer Sicknick lay in honor in the Capitol Rotunda."
+    publishedDateTime: 2021-02-03T16:59:00Z
+    webUrl: "https://www.c-span.org/video/?508541-101/vice-president-kamala-harris-pays-tribute-officer-sicknick"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "1yFciKY/qQqiiDKj0KI1BCvLWdz0QiD46woxTiSHfesA3fB5Tj04uWVxGwnUnrxvwvfxai2P8rc7onu6U8LTDvTmhVh7oiHRBU8D+WrkUMO3IRA7ZCkvwDlp5Rsz77QTlUf5bYDtZlhBvHJUIZIZqbxOTRkc2AfsI9THpTaLU/INwSd/Xf6F4KmROHle9GdW1iTo3oZtzC5VNBAoBOZhh5+uiRXfShXxiFVQ1lEuL0gdZkVFaCf3LIGuxusaozeVWv+6eoci1ImS5aMX5Og0P4BCo3QkWtO2EZISkK/MYkxwKbqDhiIM7Oivb4wIwWYSald8fPETjsD7cDxale1nVbKE+WfViJRmBndYCPDNBTg=;ULbYMoNlt2yDi24YeUOhyA=="
 ---

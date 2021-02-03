@@ -691,16 +691,16 @@ related:
         height: 630
         isCached: true
   - title: "VP Kamala Harris swears in Pete Buttigieg as Secretary of Transportation"
-    excerpt: "Second gentleman Doug Emhoff poses for photos after United States Vice President Kamala Harris swore in Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3,"
+    excerpt: "United States Vice President Kamela Harris swears in Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington, DC."
     publishedDateTime: 2021-02-03T15:27:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d9fe1c06d94f73ceab13a06bebe78264/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/f9bbc4f82a87418f9e2d0823a778eb24/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d9fe1c06d94f73ceab13a06bebe78264/BUTTIGIEG-TRANSPORTATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/f9bbc4f82a87418f9e2d0823a778eb24/BUTTIGIEG-TRANSPORTATION.jpg"
         width: 650
         height: 433
         isCached: true
@@ -751,6 +751,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 35
+  - title: "Vice President Kamala Harris Pays Tribute to Officer Sicknick"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff paid tribute to U.S. Capitol Police Officer Brian Sicknick. An urn with the remains of Officer Sicknick lay in honor in the Capitol Rotunda."
+    publishedDateTime: 2021-02-03T16:59:00Z
+    webUrl: "https://www.c-span.org/video/?508541-101/vice-president-kamala-harris-pays-tribute-officer-sicknick"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
     quality: 35
 
 secured: "+537wevGLyYqFFgtcFhVtjzysBxQlBaaQKLjN1l70YiunFced+L8JhkIjxiHK9EPYmEotieg4LTgehRzAM7omMfqX4pb9eoJ62N2GIUW/YHEbj3R5G8j0laStu1QV8JdFEReAAxhfO+Ws2yJ3aPuc6jVRmllqilN00yhY+f8SqIRHEWBlgPpSlUp5TMU0/f23cR4dX/azR9ObGTnzYMepArnPZRh53JtmPnNgJj5U2imKJbXSzahlJbPrHiXAQzt7UOKPCfYTm8FrYThgbLDxyq/QxKggkUYulqWLYjMWJ6LkSnKT6cMTGie2E8uvmYWh4V12zbKhJkhzlQV74ZsO8uduEdEMZLDdIazvVSXdjy7hg1TWgTVlav7q/RUBNeMz1SyuHuQ5aTAhbjR0I9uEXfAJX++nT+F9vIFsCMJUd0sJRQcxQTSpLW2YLQvNUf/PcR6t5vAZTyFZP4EuvcdkbithMfRA4FnhEhQ6pHxGVHbAhZEAna6XMJT1HDap8D52P1xcPd2fp98KtPPpfmtPw==;M4eiFuIV/FOk8rkesR1ZSg=="

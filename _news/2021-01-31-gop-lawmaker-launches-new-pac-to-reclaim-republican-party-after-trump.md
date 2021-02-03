@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Two Ohio GOP lawmakers are proposing an annual state holiday in honor of Trump"
+    excerpt: "Two Ohio Republican state lawmakers want to designate June 14 as an annual state holiday honoring former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-03T17:38:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dlh2-kum3Fs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/ohio-gop-state-holiday-trump-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/ohio-gop-state-holiday-trump-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

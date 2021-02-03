@@ -60,6 +60,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New Justice Department pick has close ties to Hunter Biden attorney"
+    excerpt: "It doesn't seem to matter to this new radical extreme Democratic Party, and Mr. Unity is not weighing in. They will never miss an opportunity to try to politically bludgeon Donald Trump. They will do anything to prevent him from running again in 2024."
+    publishedDateTime: 2021-02-03T18:38:00Z
+    webUrl: "https://www.foxnews.com/transcript/new-justice-department-pick-has-close-ties-to-hunter-biden-attorney"
+    ampWebUrl: "https://www.foxnews.com/transcript/new-justice-department-pick-has-close-ties-to-hunter-biden-attorney.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/new-justice-department-pick-has-close-ties-to-hunter-biden-attorney.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b101c2bc-406d-439e-8607-d0c805f41ade/ca8deed2-0787-4933-aa8b-b0d410b1fb65/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "6XTncSF2Vh2EIhbiPfJnnAXWjWKAvMmA3/erPoF2S9Rjy/g95SQetO1ogJ/7jgglQxX/fkK915tVCMsWefQV2W4an5eEwAqnxksCSyPHylY5NhWcmLJi/gF+N8UWb2KN2efPAzgqhgI04NrFKWHV6vFpncDz2Odabpm+KO3zONqbNY2Mf3E07XopWKxInDz9IXdAru0tVeG5lvfa7ACucHoRqIGlzOff3Usw3A2UT/VKYgTNbcUqNqpBZGmYQ80H91tX9RSD/zLDaaQxgaAHkIPiBpRUnPkWq8Am022C354fawtHjGsBvTmGVstRBVvO8JxNfd10wVnFlDStVxTxOLAKReoMzxYjDTkaEQizm6dUJYT19o/fd+vLy6bOJ7yerIi5Me6WHQR27eQV2v6RWnffp19K4K0WzKANnmNG6FpD3Bg5DRCdali0NPM1cdZoIm39kEtOgw5pJtVYN4QAFtEsgORvuFuY2HtQT3k82PGFwMNEp/8xVLq8MSH0WgVvX1ept41ZXC1vY5uVenfzhw==;S0YqRbk6OtmeS09lzp08/w=="
 ---

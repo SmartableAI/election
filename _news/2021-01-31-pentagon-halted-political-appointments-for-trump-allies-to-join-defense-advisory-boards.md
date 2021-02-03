@@ -1215,6 +1215,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Matt Gaetz Would Resign to Defend Donald Trump in Impeachment Trial—If The Ex-President Asked"
+    excerpt: "\"If the president called me and wanted me to go defend him on the floor of the Senate, that would be the top priority in my life,\" Gaetz told Steve Bannon during a podcast appearance."
+    publishedDateTime: 2021-02-03T18:56:00Z
+    webUrl: "https://www.newsweek.com/matt-gaetz-would-resign-defend-donald-trump-impeachment-trialif-ex-president-asked-1566610"
+    ampWebUrl: "https://www.newsweek.com/matt-gaetz-would-resign-defend-donald-trump-impeachment-trialif-ex-president-asked-1566610?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/matt-gaetz-would-resign-defend-donald-trump-impeachment-trialif-ex-president-asked-1566610?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1724301/matt-gaetz-rally-against-liz-cheney.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Capitol rioter \"horrendously smitten\" by Trump willing to speak at impeachment trial, lawyer says"
     excerpt: "The words of Trump supporters who are accused of participating in the riot may end up being used against him in his impeachment trial."
     publishedDateTime: 2021-01-29T13:09:00Z

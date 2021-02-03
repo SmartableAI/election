@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/doj-official-former-colleague-hunte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 161
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e6cc050-5e3c-4af3-8996-40045a053ee5/ebbce464-9ae9-4185-a4e5-9485df9d3e95/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rand Paul, in tense exchange, presses Biden’s Education Department nominee on transgender student athletes"
+    excerpt: "President Biden’s nominee for education secretary, Miguel Cardona, faced questions on transgender student athletes during a tense exchange with Sen. Rand Paul, R-Ky., during his confirmation hearing before the Senate Health, Education, Labor and Pensions Committee on Wednesday."
+    publishedDateTime: 2021-02-03T17:59:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mtfJhWQncTs/rand-paul-in-tense-exchange-presses-bidens-education-department-nominee-on-transgender-student-athletes"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-in-tense-exchange-presses-bidens-education-department-nominee-on-transgender-student-athletes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-in-tense-exchange-presses-bidens-education-department-nominee-on-transgender-student-athletes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba2bc4f9-b694-4326-9312-44524e136e49/cf153a2d-9a34-4de7-b7b1-2e2a0236c841/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

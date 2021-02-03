@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 435
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden leans on his Capitol Hill experience while pitching big Covid-19 relief deal"
+    excerpt: "President Joe Biden is relying on his decades as a senator to convince former colleagues to move quickly on his debut legislative effort, waging an intensive push for the sweeping Covid-19 rescue package he hopes can garner Republican support.\n    \n"
+    publishedDateTime: 2021-02-03T18:00:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q_IPb56tpfs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/joe-biden-coronavirus-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/joe-biden-coronavirus-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201203410-03-biden-harris-gop-meeting-0201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Covid telework cuts dozens of Biden national security staff off from classified materials"
     excerpt: "Since President Joe Biden took office last week, many White House national security staffers have been relegated to working from home -- cutting dozens of them off from vital classified materials needed to do their jobs and raising security concerns as most work from unsecure laptops and cell phones"
     publishedDateTime: 2021-01-28T15:17:19Z
@@ -140,6 +156,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131111649-restricted-split-covid-relief-republican-senators-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden tells House Democrats to 'stick together' in Covid-19 relief push, signals willingness to narrow stimulus checks"
+    excerpt: "President Joe Biden told House Democrats on a conference call Wednesday he is open to narrowing the distribution of $1,400 stimulus checks in his Covid-19 relief proposal to focus on poor and middle-class people, according to audio of the call obtained by CNN\n    \n"
+    publishedDateTime: 2021-02-03T17:52:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BpUxTokcgJw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/biden-hill-democrats-stick-together/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/biden-hill-democrats-stick-together/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201152949-01-biden-lincoln-0126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

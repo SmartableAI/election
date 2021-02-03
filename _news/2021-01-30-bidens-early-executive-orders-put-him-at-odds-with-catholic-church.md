@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "New Justice Department pick has close ties to Hunter Biden attorney"
+    excerpt: "It doesn't seem to matter to this new radical extreme Democratic Party, and Mr. Unity is not weighing in. They will never miss an opportunity to try to politically bludgeon Donald Trump. They will do anything to prevent him from running again in 2024."
+    publishedDateTime: 2021-02-03T18:38:00Z
+    webUrl: "https://www.foxnews.com/transcript/new-justice-department-pick-has-close-ties-to-hunter-biden-attorney"
+    ampWebUrl: "https://www.foxnews.com/transcript/new-justice-department-pick-has-close-ties-to-hunter-biden-attorney.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/new-justice-department-pick-has-close-ties-to-hunter-biden-attorney.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b101c2bc-406d-439e-8607-d0c805f41ade/ca8deed2-0787-4933-aa8b-b0d410b1fb65/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's Department of Homeland Sleaze Chief"
     excerpt: "Everything old is new again. The corruptocracy of the Obama administration is back with a vengeance in the White House. Once more, the"
     publishedDateTime: 2021-02-03T10:36:00Z

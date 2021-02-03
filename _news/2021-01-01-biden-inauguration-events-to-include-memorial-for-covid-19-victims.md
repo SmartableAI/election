@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inaugura
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -262,6 +262,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/c5c40351-05c9-455e-b250-2a454d9b4c96/thumbnail/1200x630/de26ce642b0eba79813d73b9a9b6928f/cbsn-fusion-president-biden-hopes-us-reaches-15-million-covid-19-vaccinations-a-day-thumbnail-633320-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden meets with Democrats in Oval on COVID relief"
+    excerpt: "Speaking during a meeting with Democratic Senators, President Joe Biden predicted his COVID relief package \"will have Republican support,\" despite huge gaps between the two parties' proposals and Democratic plans to approve the bill regardless."
+    publishedDateTime: 2021-02-03T18:04:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/03/biden-meets-democrats-oval-covid-relief/4374077001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a8d5d9b1-353b-4dd8-aa98-9c716ea7f333_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden to nominate Rhode Island governor for Commerce, Boston mayor for Labor"
     excerpt: "President-elect Joe Biden will nominate Rhode Island Governor Gina Raimondo as his Commerce Department secretary and former union official and Boston Mayor Marty Walsh as Labor secretary, his transition team said late on Thursday."

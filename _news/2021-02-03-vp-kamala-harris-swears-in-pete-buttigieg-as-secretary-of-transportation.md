@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VP Kamala Harris swears in Pete Buttigieg as Secretary of Transportation"
-excerpt: "Second gentleman Doug Emhoff poses for photos after United States Vice President Kamala Harris swore in Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3,"
+excerpt: "United States Vice President Kamela Harris swears in Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington, DC."
 publishedDateTime: 2021-02-03T15:27:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/d9fe1c06d94f73ceab13a06bebe78264/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/d9fe1c06d94f73ceab13a06bebe78264/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/f9bbc4f82a87418f9e2d0823a778eb24/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/f9bbc4f82a87418f9e2d0823a778eb24/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/d9fe1c06d94f73ceab13a06bebe78264/BUTTIGIEG-TRANSPORTATION.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/f9bbc4f82a87418f9e2d0823a778eb24/BUTTIGIEG-TRANSPORTATION.jpg"
     width: 650
     height: 433
     isCached: true
@@ -752,7 +752,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Vice President Kamala Harris Pays Tribute to Officer Sicknick"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff paid tribute to U.S. Capitol Police Officer Brian Sicknick. An urn with the remains of Officer Sicknick lay in honor in the Capitol Rotunda."
+    publishedDateTime: 2021-02-03T16:59:00Z
+    webUrl: "https://www.c-span.org/video/?508541-101/vice-president-kamala-harris-pays-tribute-officer-sicknick"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "m9IZcwcDPRRDQbvhPKfK1sSiVKHMP0jk1nnAeSIChN244oy13tDF3ah1VrHCcvZGb5xU/MpgZuiNmchjNHHQXlJD9rehUz6+Kspjpve5Fd8WbT7lm9HH3EOl8VwTXWdsWji7NL4Tq/lTAu3xQV82NOG1iwpxrKemA+meqrsO0dbXK78HRv/6Hq6ZLYmqF0XyHP74dK9S/a+Hx2rhwggjwL0HL03Z7Iqega0lPo5ca8UrW9RD7MjhMyhITq3E4DKH1Xk3pyqm7LjW579AmGWmglZsP4pIZ+jUhpXaQTVmyG4SbtWyfp/6cfS38Nam6xpaJ5WmvqrA05QVnK/ZVEI6P4E0O20uYDKc89W4AXe/tn4=;TvOIgckAEVqZiCbXULygfw=="
+secured: "v+Y4i90i3YDBja7FSffQuq9IxwSPH/TtRyJSoTfdttaohIAgAnMBMEjVQ/Zng8iQBFyuctWf3Tikt1dEdHWAXbP+FPzbFXDqg5chygijRrWe74mztMQP6LgOV47E4ytwqj0pW045kOCDw/UYdyRqLUn/56Lrfd9QfBfaTJHmtFezlHz0Lz5hDdgAhMFBxXcUFMTdYs1/SLDH5EQ65N7k66uMCgNS7f80tjQ1W3+jSk/kdTQ7UexqWdZwJ5LzArHR1mo5OVyRvTeUxesF0btfAjRTIhsUN38gBYgprGbPN2YNmLuuopz/cbUBw72bEQSV3afxKcnTk6zFGFLqIekWnSPfqtdRi1rrOCD3GlAlAU8=;am1e66xmMWFAsvDUMKZqtA=="
 ---
 
