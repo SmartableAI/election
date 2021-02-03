@@ -859,6 +859,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to review U.S. access to goods needed to deal with pandemic"
+    excerpt: "President Joe Biden is planning to take an executive action mandating a review of critical U.S. supply chains with an eye to securing U.S. industrial supplies made by competitors including China, according to four people familiar with the matter."
+    publishedDateTime: 2021-02-03T06:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-supply-chains-idUSKBN2A22MW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22MW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22MW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550084917&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111H3"
+        width: 817
+        height: 545
+        isCached: true
   - title: "House Dems make case for conviction; Trump denies charges"
     excerpt: "House Democrats say the Senate should convict former President Donald Trump and bar him from office because he endangered the lives of all members of Congress when he aimed a mob of supporters “like a loaded cannon” at the U."
     publishedDateTime: 2021-02-03T00:25:00Z

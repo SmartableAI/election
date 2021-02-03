@@ -256,6 +256,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "As Biden focuses on policy, are we secretly missing the Trump drama?"
+    excerpt: "It turns out that arguing over issues doesn’t generate quite the same passion as the Trump drama, with its hour-by-hour, hand-to-hand combat, including the aforementioned tweets."
+    publishedDateTime: 2021-02-03T08:03:00Z
+    webUrl: "https://www.foxnews.com/media/as-biden-focuses-on-policy-are-we-secretly-missing-the-trump-drama"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Joe-Biden-Executive-Orders-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Proud of My Vote for Biden"
     excerpt: "I've been getting a lot of mail from critics lately asking if I'm happy with the Biden administration. They point to some of the new president's"
     publishedDateTime: 2021-01-28T10:52:00Z

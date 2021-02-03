@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Mine OK'd in Trump's last days may boost Biden energy plan"
-excerpt: "The Trump administration granted final approval for a proposed Nevada lithium mine in its last days, adding it to a list of energy and mining projects fast-tracked before President Joe Biden took offi"
-publishedDateTime: 2021-01-23T17:27:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
-webUrl: "https://abcnews.go.com/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
+title: "Biden to review U.S. access to goods needed to deal with pandemic"
+excerpt: "President Joe Biden is planning to take an executive action mandating a review of critical U.S. supply chains with an eye to securing U.S. industrial supplies made by competitors including China, according to four people familiar with the matter."
+publishedDateTime: 2021-02-03T06:21:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-supply-chains-idUSKBN2A22MW"
+webUrl: "https://www.reuters.com/article/us-usa-biden-supply-chains-idUSKBN2A22MW"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22MW"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22MW"
 type: article
-quality: 140
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_f72abc37d17c4594be32157c86724158_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550084917&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111H3"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -174,6 +174,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4GCCXVC4ZUI6XC6PHB3YOHEBTU.jpg&w=1440"
         width: 1440
         height: 1008
+        isCached: true
+  - title: "Mine OK'd in Trump's last days may boost Biden energy plan"
+    excerpt: "The Trump administration granted final approval for a proposed Nevada lithium mine in its last days, adding it to a list of energy and mining projects fast-tracked before President Joe Biden took offi"
+    publishedDateTime: 2021-01-23T17:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f72abc37d17c4594be32157c86724158_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "AP source: Biden to drop Trump's military transgender ban"
     excerpt: "President Joe Biden is set to issue an executive order to reverse a Pentagon policy that largely bars transgender individuals from joining the military"
@@ -847,22 +863,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to review U.S. access to goods needed to deal with pandemic"
-    excerpt: "President Joe Biden is planning to take an executive action mandating a review of critical U.S. supply chains with an eye to securing U.S. industrial supplies made by competitors including China, according to four people familiar with the matter."
-    publishedDateTime: 2021-02-03T06:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-supply-chains-idUSKBN2A22MW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22MW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22MW"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550084917&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111H3"
-        width: 817
-        height: 545
-        isCached: true
   - title: "House Dems make case for conviction; Trump denies charges"
     excerpt: "House Democrats say the Senate should convict former President Donald Trump and bar him from office because he endangered the lives of all members of Congress when he aimed a mob of supporters “like a loaded cannon” at the U."
     publishedDateTime: 2021-02-03T00:25:00Z
@@ -1410,6 +1410,6 @@ related:
         height: 649
         isCached: true
 
-secured: "Js+uMstJqevv1h+596tlsfNuecrWOxgztNEzWBfmWghK2L7/TtqHP0dwLi1FrL/DeBNO1f2rlA7AIDyYcZInKfsqoDdGqXchqF4AeSmMKiupeV3as/VpcKqjKWWhHZTCUM7YzsIg+Qp5xl5TaV14CtS72pK+WoM6E70P8IWJ8I3T/m9KWcz9Npd78g5U7aMEbhti3zw2ckM4jaBlVmJlsUK00PADe6JF3Jaha51gT0lF15krnoW7XTUYT6MkfD1qv2Funyh40YKmYHihGCMFwWHvlJkLpJDDE0Y7Stp09ceYlcyqUF2EASizgpfHrlp9p5O0Qc1dx+Wr/gkyqL0JnQ+Bwv8m5DEw0EqJ3CUCrvg+p0YGJvcpD3fUkJcgQkJjO0JVWUcrKRj7lzMhSrTRAZ8UmmrBTwSNqxH7SYOaHStFWuRcVEXbHgiL/aMmuW9qSO5/SFuUrFSaFfNUqQbB8gwc/SrUjNxUInVFlKGdUbQSwSF7sslBJgmMyjFEym2uwrp2PcyrbH1jHYNDSalspQ==;oo+mfzaxaRjYTL62jC4XUA=="
+secured: "LgHM3UJDuxfUnXTi99ZDBiLYOqMiK1Z7AyNCw7KWnK9zGt8etsh92fv1hOJksTBcXBtvMP/Ne2avODnDsGyj+fa932xzY1QUOcY0t49CksL45xuG5AICIKr9Ur5qeXLQjb5tl2xQJrbFPdfqT7+1wVnN2dmltQWy5zRZswiyyj+QP/wFcI3LQ8FkNFyPjGXzRaJ61XNc8+EHCKtauPCrV5DnHqBxWGu32hQswXY53Xt3o6fLXS9B6aD2rarPSTbGpezpTQ/RtL7RCbK53+6TLjRgwRzSkMJO8Ev9VzWQLFFANc569jqXHM6wAanTiYr0mQXWlOlGCSgTi1lG7IoEuF8DgxhkZNuO8o0batdJtL4=;bowMo9DzMrfGkF62ZVrTmA=="
 ---
 

@@ -67,7 +67,7 @@ related:
   - title: "Pro-Trump Lawyer Lin Wood Is Investigated for Alleged Illegal Voting in Georgia"
     excerpt: "Georgia officials are investigating whether attorney and pro-Trump activist L. Lin Wood may have voted illegally in Georgia while living in South Carolina. Georgia officials opened the investigation after a news report said that Mr."
     publishedDateTime: 2021-02-03T03:43:00Z
-    webUrl: "https://www.wsj.com/articles/pro-trump-lawyer-lin-wood-is-investigated-for-alleged-illegal-voting-in-georgia-11612327413"
+    webUrl: "https://www.wsj.com/articles/pro-trump-lawyer-lin-wood-is-investigated-for-alleged-illegal-voting-in-georgia-11612327413?mod=hp_lead_pos12"
     ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-lawyer-lin-wood-is-investigated-for-alleged-illegal-voting-in-georgia-11612327413"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-lawyer-lin-wood-is-investigated-for-alleged-illegal-voting-in-georgia-11612327413"
     type: article

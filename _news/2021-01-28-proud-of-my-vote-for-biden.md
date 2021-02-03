@@ -268,6 +268,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "As Biden focuses on policy, are we secretly missing the Trump drama?"
+    excerpt: "It turns out that arguing over issues doesn’t generate quite the same passion as the Trump drama, with its hour-by-hour, hand-to-hand combat, including the aforementioned tweets."
+    publishedDateTime: 2021-02-03T08:03:00Z
+    webUrl: "https://www.foxnews.com/media/as-biden-focuses-on-policy-are-we-secretly-missing-the-trump-drama"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Joe-Biden-Executive-Orders-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Flawed Thinking Behind Biden's Gun Control Bill"
     excerpt: "The coming years will decide the survival of our Second Amendment, President Trump warned before the election. Trump was right. During the"
     publishedDateTime: 2021-01-29T11:32:00Z

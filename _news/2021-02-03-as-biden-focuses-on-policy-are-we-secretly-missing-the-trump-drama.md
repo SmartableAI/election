@@ -1,30 +1,32 @@
 ---
 category: news
-title: "The Flawed Thinking Behind Biden's Gun Control Bill"
-excerpt: "The coming years will decide the survival of our Second Amendment, President Trump warned before the election. Trump was right. During the"
-publishedDateTime: 2021-01-29T11:32:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.html#!"
-ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.amp.html"
+title: "As Biden focuses on policy, are we secretly missing the Trump drama?"
+excerpt: "It turns out that arguing over issues doesn’t generate quite the same passion as the Trump drama, with its hour-by-hour, hand-to-hand combat, including the aforementioned tweets."
+publishedDateTime: 2021-02-03T08:03:00Z
+originalUrl: "https://www.foxnews.com/media/as-biden-focuses-on-policy-are-we-secretly-missing-the-trump-drama"
+webUrl: "https://www.foxnews.com/media/as-biden-focuses-on-policy-are-we-secretly-missing-the-trump-drama"
 type: article
-quality: 85
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/53/533650_5_.jpg"
-    width: 750
-    height: 494
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Joe-Biden-Executive-Orders-AP.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -268,20 +270,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "As Biden focuses on policy, are we secretly missing the Trump drama?"
-    excerpt: "It turns out that arguing over issues doesn’t generate quite the same passion as the Trump drama, with its hour-by-hour, hand-to-hand combat, including the aforementioned tweets."
-    publishedDateTime: 2021-02-03T08:03:00Z
-    webUrl: "https://www.foxnews.com/media/as-biden-focuses-on-policy-are-we-secretly-missing-the-trump-drama"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Joe-Biden-Executive-Orders-AP.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Proud of My Vote for Biden"
     excerpt: "I've been getting a lot of mail from critics lately asking if I'm happy with the Biden administration. They point to some of the new president's"
     publishedDateTime: 2021-01-28T10:52:00Z
@@ -298,7 +286,23 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "The Flawed Thinking Behind Biden's Gun Control Bill"
+    excerpt: "The coming years will decide the survival of our Second Amendment, President Trump warned before the election. Trump was right. During the"
+    publishedDateTime: 2021-01-29T11:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/29/the_flawed_thinking_behind_bidens_gun_control_bill_145144.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533650_5_.jpg"
+        width: 750
+        height: 494
+        isCached: true
 
-secured: "CqGURiYUbMLNtT/k/KK6CJ44xzSeZkJquyVowdao5lbM+uwfZxcBeDP2UJqXYrcVZVIt/ZunmnG5Rqn7gS2M7IBDtZ1f9UDiIxNE5NQqpzI32cnItIhWuK9EYtCUy6L28HaRzsI7MydUOdr72Myck7Yh65PM+iJssFLyjvhf3yhQzEoRS/harOJTAg5cdEX5Q/+CiLUcb/3xYTjrOotUrzjDUcI6QcdlPScFR3/ookaEAL4lfK090jOPv/uoqUBkOvQcAmL/SE5dTqOFd3j5O+juvFfPDZIIStscGooU3h/r0RjmFJ7IjNSmQTK8KnXlOyGJM5tFVADCBNQ2+y/ME9EA6WrFAdmYCD24x9g+ajE6e6V7UvWVFMbu6Zf/w2OfNf+AFFTLRojEgD6rsNMg9+a3xI4/h19RTYbP6zDsAfJaiHVlNudLMIdaQ0peDC4rcXTrqzDJyiuX/Wh6x6L2u6C4VxkneH0+6N/G1GtIcHyHk/UmZKzGwBnBNvYd6Bxdx6NSlPNqELVj7kWuAVJXqQ==;itL7UjQCqGZNFwGYQpDxHQ=="
+secured: "ButZt4PNbVUTJSKwi8TBTDLRMTXAWJVdrmYNwc5HqJ2jmjypf/AYEQ7NK1C4dGTMZ5MqRuADoJCRBybS2QNwtC4rcCknSmivtvZcD/a3HV+31NGMCknIT2Z56nkYkz6NutaCtcA1Twj/GH65QYnWPa5IyrH+dzhQxS3JBsgZhbwyLxXA2DUjr6ndTkLZqb8gboiWvwMjcrHsbZxN9XMAiODlPa+TX58tTredxCrXVRhJb6iG/c6S5eFmzeteHAeaP+x0whczYtoQDIkDbu3qtrCP4/J16FyVrhNsKgJO8MMLBZw86V09YNkBSEFERaWkazPmHuICHz4joWRe6j7p/K4/ABpRnmuCNLHnwg9LDAE=;NHOojqRb36AYBBDq5QsgjQ=="
 ---
 

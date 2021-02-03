@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration to open overflow shelter for migrant children in Texas"
+    excerpt: "The Biden administration said it plans on reactivating a “temporary Influx Care Facility” in Carrizo Springs, Texas, to potentially accommodate up to 700 migrant children within the next two weeks."
+    publishedDateTime: 2021-02-03T07:57:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HyZHvwUH0sA/biden-administration-to-open-overflow-shelter-for-migrant-children-in-texas"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-to-open-overflow-shelter-for-migrant-children-in-texas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-open-overflow-shelter-for-migrant-children-in-texas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden administration pushes forward with two state solution with Israel, Palestine"
     excerpt: "President Biden has taken steps to reverse Trump-era policies in the Middle East by throwing the administration’s support behind finding a two-state solution between Israel and Palestine."
     publishedDateTime: 2021-01-27T02:21:24Z
