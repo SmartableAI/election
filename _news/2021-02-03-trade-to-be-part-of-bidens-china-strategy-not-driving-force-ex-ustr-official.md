@@ -3,10 +3,10 @@ category: news
 title: "Trade to be part of Biden's China strategy, not driving force: ex-USTR official"
 excerpt: "Trade will be a part of President Joe Biden's overall negotiation policy with China, but it won't be the driving force in Sino-U.S. relations, as it was under former President Donald Trump, a former official at the Office of the U."
 publishedDateTime: 2021-02-03T09:55:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trade-rcep-gmf-idUSKBN2A30GV"
-webUrl: "https://www.reuters.com/article/us-usa-trade-rcep-gmf-idUSKBN2A30GV"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A30GV"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A30GV"
+originalUrl: "https://www.reuters.com/article/us-usa-trade-rcep-gmf-idUKKBN2A30GV"
+webUrl: "https://www.reuters.com/article/us-usa-trade-rcep-gmf-idUKKBN2A30GV"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A30GV"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A30GV"
 type: article
 quality: 121
 heat: -1
@@ -628,6 +628,6 @@ related:
         height: 683
         isCached: true
 
-secured: "Yvwto30r5spplpNif50L3Mwfe/ydrvpdf2VnWSXLQvQpK1iIpY/tfQajo6cpx+dNyT55KfQ1Sx29rhWpuUyboEFKYt3ffwCnZmNLJy+Tauqd3y6fpDFUImvC9lfZXAdQ5Jw3UceJK0rB4Qr3afi3P/4r4zPSoxb82vucqhv/oiByvYvzPy/Q2YyD7bjUIaS53o68I8rfRf+hgHTwn3mRRNqyd+jXjnmvnVRwElo2WZWa2MSbKTGTa9K8nN27uCRBqQUBsOq4axejWykDUMmfhA63djyCR88wbxhjWpyC9ogQhC8KUu6LnqceVF/HG7Z8aH7Bfosdcn28+Mww1V5sTlVFJl1qItGPcAgoJC4BXpI=;vhUYyELZ0NeSMjsCn6NRMA=="
+secured: "rcFcAql2uJ1ObNICggdkIBnekdeA6NFudc7TZQtSJbgdTJIKOyejQOWUe+eeiLTNSAACBvcU2iOWF2ox2cYDiNPCvFx4Ci5xgZvy5UmCU16mfI7jhPcEZNiFpWHv5IxBuO5JYLzunOEJjjR8FQ9nwA5+uiGljSfjfOe5R7l3hTm4X4lIQlBYiC4z1vztngX1rc3WyInmLIQ+vnm0yR0JBOPmet+aXWgSO27SALWybt3lsq8BTJXeVLGt4rVKPKSc2yXn/hhPNZEnSj/nIWNE3b3xWTLsbsB8dSlCb33uZRmhgdqYxCgl0IWL3hfLnamgmWCsknfWnguf/VAmLB/dHvRjvDE3LpuOBDU9qw9bOJ8=;mHT5ieVjrOYLGAIfPKGhHQ=="
 ---
 

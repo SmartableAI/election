@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-electio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-election-2020/index.html"
 type: article
 quality: 169
-heat: 229
+heat: 209
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's impeachment lawyers have a history of being involved in controversial legal matters"
-    excerpt: "The new lawyers who signed on to lead former President Donald Trump's impeachment defense team bring a curious history of experience with them as they prepare to defend the former President in his second Senate trial.\n    \n"
-    publishedDateTime: 2021-02-02T19:43:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-EwiEAfhlUs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/david-schoen-bruce-castor-trump-impeachment-lawyers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/david-schoen-bruce-castor-trump-impeachment-lawyers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201170254-david-schoen-bruce-castor-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Defense Secretary dismisses hundreds of members of Pentagon advisory boards including late Trump picks"
     excerpt: "Defense Secretary Lloyd Austin has dismissed hundreds of members of 42 Pentagon advisory boards, including controversial late appointments by the Trump administration, as the Pentagon announced a review of the boards' memberships Tuesday.\n    \n"
     publishedDateTime: 2021-02-02T21:09:50Z

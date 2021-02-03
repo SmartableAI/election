@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-h
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/29/ella-emhoff-kamala-harris-stepdaughter-signs-with-img-models"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1.CqSJ0CzLI/v1/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Essential Politics: A TV interview backfired for Kamala Harris. It was a small stumble with a big lesson"
+    excerpt: "A brief TV interview backfired on the vice president. It's a reminder that landmines await as she carves out a role in the Biden administration."
+    publishedDateTime: 2021-02-03T14:28:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-02-03/covering-kamala-harris-brushback-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 88
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7d4e478/2147483647/strip/true/crop/3600x1890+0+255/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F07%2F66%2Ffa3e45684358a73da70e94c53114%2Fkamalaharris-horizontal.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Kamala Harris' inauguration dress made by Louisiana designer"
     excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."

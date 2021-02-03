@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden channels Reagan in push for Covid relief"
+    excerpt: "In another time, Joe Biden might have been the emissary explaining to a president what is doable -- and what is not -- on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-02-03T13:59:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sBB1t3eYwec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/borger-column-biden-reagan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/borger-column-biden-reagan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201231633-02-joe-biden-0128-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tech problems kick off Biden administration's first virtual Covid briefing"
     excerpt: "The first Covid-19 briefing of the Biden administration got off to an unfortunate start on Wednesday with multiple technical difficulties. The administration has repeatedly touted their transparency amid the enormous undertaking of getting the pandemic under control, but the briefing, which was conducted"
     publishedDateTime: 2021-01-27T16:39:11Z

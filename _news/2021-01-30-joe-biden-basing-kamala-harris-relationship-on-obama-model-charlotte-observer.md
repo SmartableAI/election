@@ -601,6 +601,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 99
+  - title: "Biden, Harris pay respects to Capitol officer killed in riot"
+    excerpt: "Slain U.S. Capitol Police Officer Brian Sicknick lay in honor Wednesday in the building he died defending as colleagues and the lawmakers he protected paid their respects. Sicknick died after defending the"
+    publishedDateTime: 2021-02-03T14:58:00Z
+    webUrl: "https://www.abqjournal.com/2355662/biden-harris-pay-respects-to-capitol-officer-killed-in-riot.html"
+    ampWebUrl: "https://www.abqjournal.com/2355662/biden-harris-pay-respects-to-capitol-officer-killed-in-riot.html/amp"
+    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/2355662/biden-harris-pay-respects-to-capitol-officer-killed-in-riot.html/amp"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 90
+    images:
+      - url: "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2021/02/03/BC-US-Capitol-Breach-Officer-Killed-IMG-630x420.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "NJ boutique owners hope for a boost from Jill Biden's blues and Kamala Harris' pearls"
     excerpt: "It's been a long 10 months for fashionistas during the pandemic. So the bold colors and styles at last week's inauguration were cause for celebration."
     publishedDateTime: 2021-01-26T15:26:00Z

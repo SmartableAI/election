@@ -1183,6 +1183,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Scotland's Parliament to vote on whether Trump's golf course financing should be investigated"
+    excerpt: "Scotland's parliament was to vote Wednesday on whether the government should pursue a civil investigation into the financing of former U.S. President Donald Trump's Scottish golf courses. The leader of Scotland's Green Party,"
+    publishedDateTime: 2021-02-03T14:31:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-golf-scotland-eric-trump-vote-investigating-finance/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-golf-scotland-eric-trump-vote-investigating-finance/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-golf-scotland-eric-trump-vote-investigating-finance/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2016/07/12/08cb31e5-a5c8-429f-8d1b-e3aa423fdc08/thumbnail/1200x630/8de542c66341c37053fabc837b1579ae/gettyimages-482347624.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Capitol rioter \"horrendously smitten\" by Trump willing to speak at impeachment trial, lawyer says"
     excerpt: "The words of Trump supporters who are accused of participating in the riot may end up being used against him in his impeachment trial."
     publishedDateTime: 2021-01-29T13:09:00Z

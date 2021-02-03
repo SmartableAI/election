@@ -335,6 +335,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden pays respects to Capitol officer as Trump impeachment trial nears"
+    excerpt: "President and first lady attend memorial for Brian Sicknick, who died following injuries in the Capitol riot, days before start of trial"
+    publishedDateTime: 2021-02-03T12:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/03/biden-brian-sicknick-capitol-riot-trump-impeachment-trial"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/03/biden-brian-sicknick-capitol-riot-trump-impeachment-trial"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/03/biden-brian-sicknick-capitol-riot-trump-impeachment-trial"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/4a3d19ca5a24fb7e16eb44a1f764e10804864783/0_232_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4044144bb86d23f367c95284db3dced8"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden promises help to U.S. workers hit by pandemic, Trump hints at 2024 run"
     excerpt: "President-elect Joe Biden on Wednesday promised a group of workers hit by the raging COVID-19 pandemic that more aid would be on the way, while President Donald Trump hinted he may be ready to begin planning another run for the White House in 2024."
     publishedDateTime: 2020-12-03T13:30:00Z
@@ -844,6 +860,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Health/WireAP_321a8d9280fb42d7bc5518fdd77a61a5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden pays respects to Capitol officer as he lies in honor"
+    excerpt: "President Joe Biden and the first lady are among those who have paid their respects to slain Capitol Police Officer Brian Sicknick as he lay in honor in the U.S. Capitol"
+    publishedDateTime: 2021-02-03T14:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pays-respects-capitol-officer-lay-honor-75651547"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pays-respects-capitol-officer-lay-honor-75651547"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pays-respects-capitol-officer-lay-honor-75651547"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dad98b2b607a4ecca8be3c00f1ecd26e_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

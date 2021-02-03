@@ -1167,6 +1167,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Scotland's Parliament to vote on whether Trump's golf course financing should be investigated"
+    excerpt: "Scotland's parliament was to vote Wednesday on whether the government should pursue a civil investigation into the financing of former U.S. President Donald Trump's Scottish golf courses. The leader of Scotland's Green Party,"
+    publishedDateTime: 2021-02-03T14:31:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-golf-scotland-eric-trump-vote-investigating-finance/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-golf-scotland-eric-trump-vote-investigating-finance/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-golf-scotland-eric-trump-vote-investigating-finance/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2016/07/12/08cb31e5-a5c8-429f-8d1b-e3aa423fdc08/thumbnail/1200x630/8de542c66341c37053fabc837b1579ae/gettyimages-482347624.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump legal team argues impeachment trial is unconstitutional, denies inciting Capitol attack"
     excerpt: "In their legal brief responding to the article of impeachment, Trump's lawyers argue the trial is \"in violation of the Constitution.\""
     publishedDateTime: 2021-02-02T18:22:00Z
@@ -2053,6 +2069,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "4JZ3b8mMB11A8YiwlgAs9eH72vDChcNNz3TQDuod9WxV+A/U2CYLPCT1B5f453K8EaRLuJlHEtk12n804L0Z6p93DaX7fG1Rjcpu9NoYxkoee+5r/qDCuiILbyeyCF/zodRDev/h1OdXKo+3w3PsfAIc5rjDO9ppKcr2kKtTJXJzL3CJLYB1UTARhY6zcwsxPZhg+mAhl6ype0AUixCpzj1fspXSvZc9yO5nBeElUhldSdY4kRmp2ElGjSnblQz1BnMnoCLZpDuVy51jcz0ZoG78wAXnEvPzbDE6A890nvxc2LCIGLQP9zTkmJgqD+MYxg3evzu7yGw6gp8jzAWscfJPznGzkJ5v1FMpFAjhnCk=;DM4329VOp+C76e2j8PPdWQ=="
+secured: "XfdXdkRW+DN7go4TivKOLilseUsDmGhrEYUCYaC0PmdOUjhZR9/uN+5m3OpzlETUEjlHW9giwmfwy4wdvH/5kXMtPt9ul0fjhPeOCc+SWNmaZzatEz+U4j6iv+rIwjM2DPFFoRf7DFqqrOwhQrY9YAJSAbFzrwtBWeXIVJF4j5avczlEatuo496tF6Kxh3IsHx/xLXntHHS30WAdONgkDGTaddd2Ip0mc+/pg7mxF3FEJKbUa+mxxjLqmlwAe7aUP0PqTYtvNiDPfS4c5/HWA6abXMiUDpYRNko+cyLhm7Gk3nzYAY00U7SehrNC/lEK5i0S3W43vjd/JlT0SjliDPdGAy8Hmbimto0LK7xDIaG867bYTS4Q9p8v/7ysOg+/Jy9m9RRBCCWWFWoBsUfkbOIbXFDALpCWJ+O9P0J5beuPDb7GFLpXad2wE+/mtNJuIGv1UQTZE7rPKmCmHNcc/KZpvJoODDlOtBmm4RaByoeELBZuyzHRwiVkyRytrgQ+OVY57YzImFJ182fbTR9HLQ==;M7V+6rLX5tBUU0Dx6vwSbw=="
 ---
 

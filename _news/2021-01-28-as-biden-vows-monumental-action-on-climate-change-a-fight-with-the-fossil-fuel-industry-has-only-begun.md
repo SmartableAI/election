@@ -258,9 +258,9 @@ related:
   - title: "Trade to be part of Biden's China strategy, not driving force: ex-USTR official"
     excerpt: "Trade will be a part of President Joe Biden's overall negotiation policy with China, but it won't be the driving force in Sino-U.S. relations, as it was under former President Donald Trump, a former official at the Office of the U."
     publishedDateTime: 2021-02-03T09:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trade-rcep-gmf-idUSKBN2A30GV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A30GV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A30GV"
+    webUrl: "https://www.reuters.com/article/us-usa-trade-rcep-gmf-idUKKBN2A30GV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A30GV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A30GV"
     type: article
     provider:
       name: Reuters

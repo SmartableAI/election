@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden channels Reagan in push for Covid relief"
+    excerpt: "In another time, Joe Biden might have been the emissary explaining to a president what is doable -- and what is not -- on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-02-03T13:59:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sBB1t3eYwec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/borger-column-biden-reagan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/borger-column-biden-reagan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201231633-02-joe-biden-0128-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here's what budget reconciliation is (and why it matters for Biden's stimulus)"
     excerpt: "As President Joe Biden pursues a bipartisan Covid-19 relief deal, Senate Democrats are laying the groundwork for passing relief without any Republican votes using a procedural shortcut known as budget reconciliation.\n    \n"
     publishedDateTime: 2021-02-01T21:09:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden channels Reagan in push for Covid relief"
+    excerpt: "In another time, Joe Biden might have been the emissary explaining to a president what is doable -- and what is not -- on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-02-03T13:59:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sBB1t3eYwec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/borger-column-biden-reagan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/borger-column-biden-reagan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201231633-02-joe-biden-0128-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -108,6 +108,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Man twice bailed out by Kamala Harris-backed fund — gets arrested again"
+    excerpt: "A Minnesota man twice bailed out by a Vice President Kamala Harris-backed nonprofit group has been busted a third time on felony drug charges, authorities said. Thomas Moseley’s latest"
+    publishedDateTime: 2021-02-03T14:19:00Z
+    webUrl: "https://nypost.com/2021/02/03/man-twice-bailed-out-by-harris-supported-fund-arrested-again/"
+    ampWebUrl: "https://nypost.com/2021/02/03/man-twice-bailed-out-by-harris-supported-fund-arrested-again/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/03/man-twice-bailed-out-by-harris-supported-fund-arrested-again/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/kamala-bail-fund.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "L.A. Times’ special Kamala Harris section called out by media critics: 'Blatant PR campaign'"
     excerpt: "The Los Angeles Times’ fawning coverage of Vice President Kamala Harris has been labeled “inappropriate and disappointing” by critics, some comparing it to the way state-run media would treat leaders in authoritarian nations."
     publishedDateTime: 2021-01-27T20:24:00Z

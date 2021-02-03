@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-optics-issue-kamala-har
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-optics-issue-kamala-harris-niece.amp"
 type: article
 quality: 185
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Meena-Harris-GETTY.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Man twice bailed out by Kamala Harris-backed fund — gets arrested again"
+    excerpt: "A Minnesota man twice bailed out by a Vice President Kamala Harris-backed nonprofit group has been busted a third time on felony drug charges, authorities said. Thomas Moseley’s latest"
+    publishedDateTime: 2021-02-03T14:19:00Z
+    webUrl: "https://nypost.com/2021/02/03/man-twice-bailed-out-by-harris-supported-fund-arrested-again/"
+    ampWebUrl: "https://nypost.com/2021/02/03/man-twice-bailed-out-by-harris-supported-fund-arrested-again/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/03/man-twice-bailed-out-by-harris-supported-fund-arrested-again/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/kamala-bail-fund.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Sen. Manchin slams Kamala Harris for pressuring senators to back COVID-19 bill"
     excerpt: "Democratic Sen. Joe Manchin slammed Vice President Kamala Harris ahead of her meeting with a group of Senate Republicans Monday on passing bipartisan COVID-19 relief."
