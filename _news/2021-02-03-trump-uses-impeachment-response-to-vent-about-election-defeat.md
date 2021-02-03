@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22MF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22MF"
 type: article
 quality: 140
-heat: 2860
+heat: 2880
 published: true
 
 provider:
@@ -798,6 +798,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/HYRVWgDsEC13dEU2M7TIyM6oyJI=/1200x0/top/www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650"
         width: 1200
         height: 650
+        isCached: true
+  - title: "U.S. Supreme Court scraps arguments in Trump-era immigration and wall cases"
+    excerpt: "The U.S. Supreme Court on Wednesday canceled upcoming scheduled arguments in appeals filed by Republican former President Donald Trump's administration defending his funding of the U.S.-Mexico border wall and his so-called \"remain in Mexico\" asylum policy."
+    publishedDateTime: 2021-02-03T19:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-immigration-idUSKBN2A3261"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A3261"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A3261"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550177914&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121BD"
+        width: 817
+        height: 545
         isCached: true
   - title: "Senate rejects GOP motion to declare Trump impeachment trial unconstitutional"
     excerpt: "Senators were sworn in as jurors on Tuesday in the second impeachment trial of former President Donald Trump for inciting an insurrection, with proceedings scheduled to get underway in two weeks. Senator Patrick Leahy,"

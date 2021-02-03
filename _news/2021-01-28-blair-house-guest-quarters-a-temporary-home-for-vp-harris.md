@@ -283,6 +283,22 @@ related:
         width: 992
         height: 559
         isCached: true
+  - title: "Lawmakers, Biden pay tribute to Capitol Police officer Brian Sicknick, who was killed in Capitol riot"
+    excerpt: "Calif., praised the officer as a \"hero\" for his efforts Jan. 6 to stop a pro-Trump mob that stormed the Capitol."
+    publishedDateTime: 2021-02-03T20:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/03/brian-sicknick-lawmakers-pay-tribute-fallen-capitol-police-officer/4371121001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4371121001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4371121001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/03/USAT/bf81e21a-74eb-4480-9986-835b39b9ca25-AP_Capitol_Breach_Officer_Killed.jpg?auto=webp&crop=5999,3374,x1,y368&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Hundreds deported under Biden, including witness to massacre"
     excerpt: "President Joe Biden's administration has deported hundreds of immigrants in its early days despite his campaign pledge to stop removing most people in the U.S. illegally at the beginning of his term."
     publishedDateTime: 2021-02-02T10:02:00Z
@@ -445,6 +461,22 @@ related:
       - url: "https://i.insider.com/60133e001d2df20018b717a3?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The Kamala Harris-Joe Manchin dust-up explained - and why it matters to the Biden administration"
+    excerpt: "Vice President Kamala Harris' media appearances in West Virginia didn't go over well with the state's longtime moderate senator, Joe Manchin."
+    publishedDateTime: 2021-02-03T20:23:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/02/03/joe-manchin-and-kamala-harris-sparred-over-west-virginia-interviews/4370364001/"
+    ampWebUrl: "https://amp.freep.com/amp/4370364001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4370364001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/01/USAT/c35c9bb9-bed0-4130-a062-1440af27dee5-AP_Harris_Senate.jpg?auto=webp&crop=2800,1575,x10,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Blair House guest quarters a temporary home for Kamala Harris"
     excerpt: "Harris is living temporarily at Blair House, the president’s official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."

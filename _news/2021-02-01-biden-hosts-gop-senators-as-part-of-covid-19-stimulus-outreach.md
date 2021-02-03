@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -238,6 +238,20 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_05/3446705/210201-murkowski-collins-romney-ew-508p_45ffff7c1409f362b3de31a953dd7399.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "'We need to act fast': Biden, Democrats move to speed up process to pass Covid relief package"
+    excerpt: "The steps taken by Biden and congressional Democrats indicated that they’re not going to wait around to negotiate with Republicans who want a smaller package."
+    publishedDateTime: 2021-02-03T19:08:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/we-need-act-fast-biden-democrats-move-speed-process-pass-n1256636"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_05/3447344/210103-joe-biden-oval-office-ew-1221p_d4f6052b3ed8c8183083587e118158be.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "OYHy3s59Ew50PnEdj/XcmM+qKqUlmpTNsKF2GPm0tgMIpzF/2N4ui0gQIyKckakyDj1vpko9AWBzzxFh2YGDR2Z5THLM3HaLSdwTx95q5W6X7vAhupTT1zuYUWGc3MNlKWdi57yXuJuq5Z6nun1CXjZC7/qCg3TST4qLemys0ccrx+Lxrncrwot5wq10cfg6gN4/qPkLVtsjuKlm3b8FyyGO0vbcP6q3UMBA2+6vykYWkK+VMPD75ra7/UAS3HSMCofivSXRZ3WOjwn75IfTRLH1DxQf4cP3ZR+nQNK8rrPDPFiWZAaxVWRBBDLPyznqcFXulJ4wXg17sr2xG9Dnu8n9MmKikeVF3uxmZaSc+T0=;nvYM0AVini9q37fodbRrKQ=="

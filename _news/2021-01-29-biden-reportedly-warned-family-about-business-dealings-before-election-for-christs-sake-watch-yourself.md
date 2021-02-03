@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Teachers unions' political support for Biden paying off as he takes their side in reopening battle"
+    excerpt: "After spending millions to support President Biden and other Democrats in the 2020 election cycle, teachers unions are finding Biden to be a reliable ally."
+    publishedDateTime: 2021-02-03T20:14:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eD7KOHhlFyM/teachers-unions-support-biden-reopening-schools-political"
+    ampWebUrl: "https://www.foxnews.com/politics/teachers-unions-support-biden-reopening-schools-political.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/teachers-unions-support-biden-reopening-schools-political.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Joe-Biden-Executive-Orders-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden's 'radical left agenda' with no focus on jobs will 'hurt family after family': Scott"
     excerpt: "President Biden showed that he is merely a \"puppet for the radical left\" after ending the Keystone pipeline project, Sen. Rick Scott, R-Fla., told \"The Faulkner Focus\" on Thursday."
     publishedDateTime: 2021-01-28T19:21:00Z

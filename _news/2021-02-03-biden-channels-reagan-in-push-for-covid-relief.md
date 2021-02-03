@@ -239,6 +239,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "'We need to act fast': Biden, Democrats move to speed up process to pass Covid relief package"
+    excerpt: "The steps taken by Biden and congressional Democrats indicated that they’re not going to wait around to negotiate with Republicans who want a smaller package."
+    publishedDateTime: 2021-02-03T19:08:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/we-need-act-fast-biden-democrats-move-speed-process-pass-n1256636"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_05/3447344/210103-joe-biden-oval-office-ew-1221p_d4f6052b3ed8c8183083587e118158be.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "q3awbs9TEnNFw1ZgchFDHHC1C9c5AHmtJRAgnntd1SsNlQt5dYMwyDTF+yjIJmam0AsZNyViLkoWdyhLT9og7jJbw/KtQ08CMtk+NmhAg0fFFDJ2DZ/t3R+06jmGu03TmGlkosy4RUyik1+qVU0LEcghfZZ+XCKaNyLq0uGDbgnp3FDh7jiwZzXHvx4fx+Z4n9jjrvocNPFwBwBhA8Zd4HrTPbsP7HH1zvatMh5l8KiJP/2jTyG5XvItXZ371Oj7VwbwOt/NFLN4a8wWI4/DBY81FQ7B8G6B5tO32tGehPWBUc0kRSzUzyWQKC6VucYpfYFpSkpKgphsSEY+X0A59jhpRJnPaKuWYjkEQIYPpU0=;9B9eWL1F/g3jlEoetaw9Gg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
 type: article
 quality: 125
-heat: 145
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to meet Democratic lawmakers on COVID-19 aid: White House"
+    excerpt: "U.S. President Joe Biden will on Wednesday meet congressional Democrats preparing to advance his $1.9 trillion COVID-19 relief plan despite Republican pushback."
+    publishedDateTime: 2021-02-03T19:29:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/biden-to-meet-democratic-lawmakers-on-covid-19-aid-white-house-idUSKBN2A31Z4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550212723&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1219E"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden brother’s role in Florida law firm complicates White House ethics message"
     excerpt: "Frank Biden, the president’s younger brother, is working as a senior adviser to a Florida law firm that has sought to attract business by touting the brothers’ connection and the president’s policies."
     publishedDateTime: 2021-02-03T11:08:00Z
@@ -46,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZATX7TFVII6XOVYOB7YO2OXQU.jpg&w=1440"
         width: 1440
         height: 1131
+        isCached: true
+  - title: "Biden tells congressional Democrats would consider limits on who gets COVID-19 checks"
+    excerpt: "President Joe Biden told congressional Democrats on Wednesday he would not back down on including $1,400 checks for struggling Americans in his COVID-19 relief plan but would consider tighter limits on who gets them,"
+    publishedDateTime: 2021-02-03T19:28:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A31Z4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550212723&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1219E"
+        width: 817
+        height: 545
         isCached: true
 
 secured: "sUghq/oFVZ2l7P84vomdN8GTuJdM03otuHFkoBco5zjmLJ3STW8B2XtxpPrDvHgVH88fquB6KN/8/5QytI6UAKBLYbwbUAkUh0dXnhBs99JMuBStkwQkRQm8U/0R30NHFiEWWKq2hE8wFogzTXQ1bqhwFopTND1k8BaR+kRKrzJZ4EjcbIJHrcRUoefGzmluE3vk6haOw1FFcGXvox4akxfORzuGcZwht7n/WbRkrywEyeootLaSsK3pF19ga2x68WpP7v5gzlTBHN+oUFF5LqSyctMKDExizN7KMpuT6d3l6fwD1Xy79oO01ed0jNHfA1ouk/8YrmTVP9hrbp0c5986F2MmSbMlA8WyP+cojFc=;bXSQzon4cEtqZsa99HbdJw=="

@@ -349,6 +349,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden set to boost US refugee admissions after Trump cut"
+    excerpt: "The Biden administration is preparing to notify Congress and others that it will dramatically increase U.S. admissions of refugees"
+    publishedDateTime: 2021-02-03T20:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-set-boost-us-refugee-admissions-trump-cut-75665763"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-set-boost-us-refugee-admissions-trump-cut-75665763"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-set-boost-us-refugee-admissions-trump-cut-75665763"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c4cf3a86ef1349d9a18dbc5920930bf4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden revokes Trump's ban on transgender Americans serving in the military"
     excerpt: "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said."
     publishedDateTime: 2021-01-25T16:52:00Z
@@ -1327,6 +1343,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Meet the Republican governor who is already on the attack against President Biden. Democrats have tagged him as 'Trump's errand boy.'"
+    excerpt: "DeSantis is leading the pack of Republicans attacking Joe Biden, a plan that could help his 2022 reelection or, if he runs, 2024 presidential bid."
+    publishedDateTime: 2021-02-03T19:34:00Z
+    webUrl: "https://www.businessinsider.com/ron-desantis-2024-president-biden-florida-governor-2022-covid-plan-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/6018735ad6c5e60019c6e54d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "President Biden already has an antagonist-in-chief. It's Ron DeSantis, the Florida GOP governor Democrats have tagged as 'Trump's errand boy.'"
     excerpt: "DeSantis is leading the pack of Republicans attacking Joe Biden, a plan that could help his 2022 reelection or possible presidential run in 2024."
     publishedDateTime: 2021-02-02T10:41:00Z
@@ -1404,6 +1434,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Why Has Donald Trump Clammed Up?"
+    excerpt: "For five-plus years, Donald Trump dominated American news and — much more than most previous presidents — American life. But since being kicked off his favorite social network (and out of the White House),"
+    publishedDateTime: 2021-02-03T20:14:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/02/why-has-donald-trump-clammed-up.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/why-has-donald-trump-clammed-up.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/why-has-donald-trump-clammed-up.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/b9c/1ed/85d825503793495042273689353d50edb0-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
   - title: "After Trump Bromance, Biden Quickly Shifts Cold On Putin"
     excerpt: "After Donald Trump's four-year flirtation with Russian President Vladimir Putin, Joe Biden is setting a new, colder tone -- unhesitant criticism, despite openness on arms control. Biden in his first week has already taken Moscow to task on its arrest of opposition leader Alexei Navalny as well as its alleged hacking,"

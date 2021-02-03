@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Teachers unions' political support for Biden paying off as he takes their side in reopening battle"
+    excerpt: "After spending millions to support President Biden and other Democrats in the 2020 election cycle, teachers unions are finding Biden to be a reliable ally."
+    publishedDateTime: 2021-02-03T20:14:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eD7KOHhlFyM/teachers-unions-support-biden-reopening-schools-political"
+    ampWebUrl: "https://www.foxnews.com/politics/teachers-unions-support-biden-reopening-schools-political.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/teachers-unions-support-biden-reopening-schools-political.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Joe-Biden-Executive-Orders-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "gAvchwa4JQY7fQ49qc7Guqei9Xr7sJIpb07smNFVondr0OIfOQbXMbVjlwirP2pDG0dYG1E15VmSZQ4fR+Q/Vr8kTtazLx6yDZouyyBEOgId5MnZrok5dmQDbdEWKWaGASOW6TWUE57/VTZJo8aA+o3bvyT6WqxjPE6BBmkOWAwl43uMPm6E+I2uIcyvYLE80uSt275fZJqqYl76L+tBlKDHM+z/FNjx2LOqbu8w3M9+phyTDfFD6KX6FiUdCJLT7QkDMjIKnVSItqYqeX1i5E26QiVBSxJHXyXkKFf5pSXl05CEpsR5jLqeIhnXXG6dVOHB5xhDGkPPHBCW3oj7qljMIiRcdPtKjqoHxBFSAvA=;5vzDbDqntasIKKVkgLwWNw=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "The Designer of Kamala Harris’s Inauguration Outfit Crafts a Strategy for the Pandemic"
 excerpt: "After a high-profile start to 2021, rising fashion star Christopher John Rogers focuses on new ways to do business amid Covid’s disruption."
 publishedDateTime: 2021-02-03T15:57:00Z
-originalUrl: "https://www.wsj.com/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
-webUrl: "https://www.wsj.com/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
+originalUrl: "https://www.wsj.com/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467?mod=hp_listc_pos1"
+webUrl: "https://www.wsj.com/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467?mod=hp_listc_pos1"
 ampWebUrl: "https://www.wsj.com/amp/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
 type: article
@@ -177,6 +177,6 @@ related:
         height: 320
         isCached: true
 
-secured: "PO7q2GRa2OoarHM2hb7L3Ab0MyiqzYa50nCOX7OmCvSPP6PJWdzUuiL2Rz2jaZZ+v0fuseJK2OclKUa1RonFIKmpj0RcRL83NPee0suTf/7tt/wLppKap56IxHYWcU0xgzIt2Lw0rczSRwON1SNyUYQxxgHJxNd7FGHUCNsrusXnIKoBYBcJsmVCmQT0i0UhF+DvBPZOVYSul3rXSmJDe5+6capk7Qvz/WU86bLmUHR8/XwQLvt+76+QJbNruWIUWAq39BKYuacAANc5nOe/41xMTJd3/WnjyUOCF83y4/Q7zCNcE/yHEf2YegFBemJRIrSLixntN9YL86b9XhmVbGXCZX/MbE6PH0qEWMcXxgE=;kvA1lgWN+HxMrFeMEYhy4Q=="
+secured: "Yw9m2fjeF17xD0+NbL1XE5cbzHx3Tzrcg/bxvEmaM9I9JGUjyiaGUOA+sjHI2kGiJWngIOoYClrqzqEXXgdgn0sqIiSRU4PiS8TFSDDnR1rWBKRONhq1tRxFs1KWYpfZkPsqLaWv/9A4fCFmoHCrErAkCaXBGj7C7CxPU+wvLEqWg/FdJpVHnhLogd2RHySv9bBBbkKYnHgrg3Tmv1EISwtp8KUNzZ/QQO60J+5rsJSIAJShMuDyGIRNTQfqEWudXs+m1fWX/K1htn3ytBLbjQ3fYTcrUvIaXUG+XI7sk/zXs1eYs0/Kcxin4A6c6b4JQdssC+9m73Q/NPy+VE5jejZ2Ky1HvyFAqrgbG+RlYlE=;/lb94cDj3ySvtF2308B45w=="
 ---
 
