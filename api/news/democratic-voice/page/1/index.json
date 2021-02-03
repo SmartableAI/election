@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-02-trumps-impeachment-lawyers-have-a-history-of-being-involved-in-controversial-legal-matters.md",
-      "title": "Trump's impeachment lawyers have a history of being involved in controversial legal matters",
-      "excerpt": "The new lawyers who signed on to lead former President Donald Trump's impeachment defense team bring a curious history of experience with them as they prepare to defend the former President in his second Senate trial.\n    \n",
+      "path": "_news/2021-02-03-georgia-secretary-of-state-investigating-whether-pro-trump-attorney-voted-illegally.md",
+      "title": "Georgia secretary of state investigating whether pro-Trump attorney voted illegally",
+      "excerpt": "Georgia Secretary of State Brad Raffensperger has launched an investigation into whether attorney Lin Wood voted as a legal resident in the November election, a source with Raffensperger's office confirmed to CNN.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-EwiEAfhlUs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-EwiEAfhlUs/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nz_oUjeuKmA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nz_oUjeuKmA/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 225,
+      "heat": 229,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210201170254-david-schoen-bruce-castor-split-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210202195002-lin-wood-dec-2020-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/02/politics/david-schoen-bruce-castor-trump-impeachment-lawyers/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/david-schoen-bruce-castor-trump-impeachment-lawyers/index.html",
-      "publishedDateTime": "2021-02-02T11:43:22-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-election-2020/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-election-2020/index.html",
+      "publishedDateTime": "2021-02-02T17:35:24-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -54,6 +54,63 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-california-poses-bidens-biggest-test-on-school-reopening.md",
+      "title": "California poses Biden's biggest test on school reopening",
+      "excerpt": "The state may be the main obstacle in the way of President Joe Biden reopening most of the nation's schools in his first 100 days in office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/02/california-poses-bidens-biggest-test-on-school-reopening-465211",
+      "originalUrl": "https://www.politico.com/news/2021/02/02/california-poses-bidens-biggest-test-on-school-reopening-465211",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/a7/ff/58035ed8413f877fd522c7aefb15/ap21029767118388.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T16:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -318,6 +375,63 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-live-updates-impeachment-managers-call-trump-singularly-responsible-for-riot.md",
+      "title": "Live Updates: Impeachment Managers Call Trump ‘Singularly Responsible’ for Riot",
+      "excerpt": "The nine House impeachment managers presented their case against former President Donald J. Trump in a filing. Mr. Trump has a noon deadline to outline his defense. President Biden will sign executive orders on immigration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2021/02/02/us/biden-administration",
+      "originalUrl": "https://www.nytimes.com/live/2021/02/02/us/biden-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/02/us/politics/02new-washington-briefing-promo2/02new-washington-briefing-promo2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/02/02/us/biden-administration.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/02/02/us/biden-administration.amp.html",
+      "publishedDateTime": "2021-02-02T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1253,7 +1367,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 575,
+      "heat": 595,
       "tags": null,
       "images": [
         {
@@ -1573,120 +1687,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-trump-wants-back-on-facebook-this-star-studded-jury-might-let-him.md",
-      "title": "Trump Wants Back on Facebook. This Star-Studded Jury Might Let Him.",
-      "excerpt": "Trump be permitted to return to Facebook and reconnect with his millions of followers? The decision has major consequences not just for American politics, but also for the way in which social media is regulated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/24/business/media/trump-facebook-oversight-board.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/24/business/media/trump-facebook-oversight-board.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/25/business/24jpBenSmith-print/24BenSmith-02-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/24/business/media/trump-facebook-oversight-board.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/24/business/media/trump-facebook-oversight-board.amp.html",
-      "publishedDateTime": "2021-01-24T17:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-biden-health-officials-express-concern-about-short-term-vaccine-supply-crunch.md",
-      "title": "Biden health officials express concern about short-term vaccine supply crunch",
-      "excerpt": "I think that the supply is probably going to be the most limiting constraint early on,\" the CDC director said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
-      "originalUrl": "https://www.politico.com/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/5e/d0/474a6135462a9b2742bc5b5226f7/210124-murthy-ap773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
-      "publishedDateTime": "2021-01-24T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

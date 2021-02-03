@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Georgia secretary of state investigating whether pro-Trump attorney voted illegally"
+    excerpt: "Georgia Secretary of State Brad Raffensperger has launched an investigation into whether attorney Lin Wood voted as a legal resident in the November election, a source with Raffensperger's office confirmed to CNN.\n    \n"
+    publishedDateTime: 2021-02-03T01:35:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nz_oUjeuKmA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/lin-wood-georgia-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202195002-lin-wood-dec-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's impeachment lawyers have a history of being involved in controversial legal matters"
     excerpt: "The new lawyers who signed on to lead former President Donald Trump's impeachment defense team bring a curious history of experience with them as they prepare to defend the former President in his second Senate trial.\n    \n"
     publishedDateTime: 2021-02-02T19:43:22Z
@@ -46,22 +62,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201170254-david-schoen-bruce-castor-split-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Live Updates: Impeachment Managers Call Trump ‘Singularly Responsible’ for Riot"
-    excerpt: "The nine House impeachment managers presented their case against former President Donald J. Trump in a filing. Mr. Trump has a noon deadline to outline his defense. President Biden will sign executive orders on immigration."
-    publishedDateTime: 2021-02-02T11:46:00Z
-    webUrl: "https://www.nytimes.com/live/2021/02/02/us/biden-administration"
-    ampWebUrl: "https://www.nytimes.com/live/2021/02/02/us/biden-administration.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/02/02/us/biden-administration.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/02/us/politics/02new-washington-briefing-promo2/02new-washington-briefing-promo2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Ex-FBI lawyer spared prison for altering Trump-Russia probe email"
     excerpt: "The only person charged in the Justice Department's investigation into the origins of the probe President Donald Trump's 2016 campaign and its ties to Russia was spared prison time for altering an email used to support a surveillance application."

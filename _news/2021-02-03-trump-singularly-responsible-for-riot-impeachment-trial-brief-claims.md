@@ -1261,6 +1261,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Trump's impeachment team argues case is unconstitutional, falsely says there's 'insufficient evidence' about his election claims"
+    excerpt: "Trump's defense team says he can't be tried after leaving office and that his speech before the Capitol riot was protected under the First Amendment."
+    publishedDateTime: 2021-02-02T21:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-lawyers-say-second-impeachment-trial-is-unconstitutional-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-lawyers-say-second-impeachment-trial-is-unconstitutional-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyers-say-second-impeachment-trial-is-unconstitutional-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5ff6ebd0d184b30018aad765?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Consumer Financial Protection Bureau, muzzled under Trump, prepares to renew tough industry oversight"
     excerpt: "After taking a largely hands-off approach in the Trump era, the consumer watchdog hatched by Elizabeth Warren is expected to resume issuing tough penalties and rules."
     publishedDateTime: 2021-01-27T18:10:00Z
@@ -2005,6 +2021,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "EXOByNTfn9rjLE0h35Xbl7YKmKZfIAxTtNSLYBuicknRk4dZGhMoo6H2ScTcR3KXMBLpd2QIm94P2JoBt++QqLGDCX1gexAsJBVkxnBziYvtO77mWIwu7QYnMkgGuZwy83xsmIJwjrd1i58Np/EeF1o8hrS4YS/B1/tZ+MR5XGXdAruF/lzdlg5nqPY9UlmpofeeIQJ0GYUPvhwYiinKXWZxIA7rIn0wthCA8LIxJSiS+VJ9qxNz/hFNYMfNsleyQ2d69fTFVg2u4NeRRKbuXzRHaGjcTwsgZF5Rr+UNanPItqYPOT9qQ7EoEfJkAMXBEQOVGCGyWIhsyBaaPYskQED9emLqN9MvIFnW34GgTUM=;v+ngfX4ehcJsV8OHGLY9fA=="
+secured: "HTwE/GTS9+OmPIE8TKYgoFY/lHE35v+h48eUdOtH/7N7ce8S/k0RINNArd7CYNrGx4xjlUDVA1ptKdOMrJXCNGRZabWPPU7YHacx3DWoVgAxBBtnmn+BJcS5DRkWGRpH4TxS0+sFR21XtvoXF1m9V+sh3avwaKgHAQb3xs3C3IPf7omVFwBOmJWBGXmzqGs8peeE42CUU7Ik4Av7Cd9qU5UMFrRe9P1frCagrnQXbx5hOWbujLlFeHHWsnqawO3Utz2N1gQmhufON6/UKOS/hqqrAW4Q9ow2DJoZ+06S8caUPdg7yDyRhlTKWOZLnCi/F/ggNxUwczku3yeaCAz3uWcLqMsMrluuzSvbZ0+fyrg7Tkb+6/A9Qat+0bIcj52D5mI/9xsGjJjWfwpu0RW/UhriRdjn4TFfVSqLjcfT9K+BVUQlctAXXFEOv+K81IRj8m6bWg5bU2IC2nYcv6frNgNu+/iJ/NGalRA5IRnrsLReEJVwB/EO9lEHgbUar+QmUTy6gTSQx+8lJ1DWRwhMsw==;04ha58FbWNgHJh6NJO8vMg=="
 ---
 

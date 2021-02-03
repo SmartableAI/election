@@ -1263,6 +1263,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Trump's impeachment team argues case is unconstitutional, falsely says there's 'insufficient evidence' about his election claims"
+    excerpt: "Trump's defense team says he can't be tried after leaving office and that his speech before the Capitol riot was protected under the First Amendment."
+    publishedDateTime: 2021-02-02T21:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-lawyers-say-second-impeachment-trial-is-unconstitutional-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-lawyers-say-second-impeachment-trial-is-unconstitutional-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyers-say-second-impeachment-trial-is-unconstitutional-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5ff6ebd0d184b30018aad765?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump's shaken up legal team hints it will focus on constitutionality of impeaching a former president"
     excerpt: "Former President Donald Trump announced two new attorneys who will lead his impeachment defense team: David Schoen and Bruce Castor"
     publishedDateTime: 2021-02-01T16:57:00Z

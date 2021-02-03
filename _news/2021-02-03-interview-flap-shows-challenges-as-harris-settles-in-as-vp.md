@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Interview flap shows challenges as Harris settles in as VP"
-excerpt: "Vice President Kamala Harris has spent her first two weeks in office working with the president on coronavirus relief, consulting with the head of the World Health Organization and talking with the prime minister of Canada."
-publishedDateTime: 2021-02-02T22:49:00Z
-originalUrl: "https://www.businessinsider.com/interview-flap-shows-challenges-as-harris-settles-in-as-vp-2021-2"
-webUrl: "https://www.businessinsider.com/interview-flap-shows-challenges-as-harris-settles-in-as-vp-2021-2"
-ampWebUrl: "https://www.businessinsider.com/interview-flap-shows-challenges-as-harris-settles-in-as-vp-2021-2?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/interview-flap-shows-challenges-as-harris-settles-in-as-vp-2021-2?amp"
+excerpt: "Vice President Kamala Harris has spent her first two weeks in office working with the president on coronavirus relief, consulting with the head of the World Health Organization and talking with the pr"
+publishedDateTime: 2021-02-03T02:06:00Z
+originalUrl: "https://www.washingtonpost.com/politics/interview-flap-shows-challenges-as-harris-settles-in-as-vp/2021/02/02/8f6651c6-659a-11eb-bab8-707f8769d785_story.html"
+webUrl: "https://www.washingtonpost.com/politics/interview-flap-shows-challenges-as-harris-settles-in-as-vp/2021/02/02/8f6651c6-659a-11eb-bab8-707f8769d785_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/interview-flap-shows-challenges-as-harris-settles-in-as-vp/2021/02/02/8f6651c6-659a-11eb-bab8-707f8769d785_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/interview-flap-shows-challenges-as-harris-settles-in-as-vp/2021/02/02/8f6651c6-659a-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Biden and Harris to meet Republican senators to push for Covid aid package – live updates"
@@ -363,8 +369,8 @@ related:
         isCached: true
   - title: "Joe Biden tells Republican senators to aim for larger Covid relief package – live"
     excerpt: "Trump legal team files 14-page brief defending his conduct on day of Capitol riot – follow all the latest politics news"
-    publishedDateTime: 2021-02-02T18:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019ac418f08c315844c8751"
+    publishedDateTime: 2021-02-02T18:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019a8348f08da42e4058d0b"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
     type: article
@@ -427,8 +433,8 @@ related:
         isCached: true
   - title: "Biden said Republican proposal for $600 billion in COVID-19 aid 'way too small': Schumer"
     excerpt: "U.S. Senate Democratic Leader Chuck Schumer said President Joe Biden told Democrats the proposal ten Senate Republicans have made for $600 billion in COVID-19 relief is \"way too small.\""
-    publishedDateTime: 2021-02-02T19:55:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats/biden-said-republican-proposal-for-600-billion-in-covid-19-aid-way-too-small-schumer-idUSKBN2A22ND?edition-redirect=uk"
+    publishedDateTime: 2021-02-03T01:19:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUSKBN2A22ND"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22ND"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22ND"
     type: article
@@ -971,6 +977,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Pm6aIP2veedkxWPrKkJtTLPhq0OvL4rFExM8YzWkMHpWdxZATdDDbOsMFdPMj1M3nvU3G1wCO9onPzLUV38bia0R/ZtMKRx5Ak/+cGRvx8WFLodpemkfANKeJQp7CCCN8C/jfhhpvtX9P/s0LXCvjAebZxu51zxsgOhaMnokjmnya5jHh3nrVRsySmUYU3hBJsCIUBrCg5OtILxO7x6x/oixrwElQKgF0V2JD+ccbAfspdNPiOhcLE+6xKS0Sq/OP42MaTycS2D2EbVGyS1kQjwsEDLqIzYBcOP7OUijlFx3kXUC2XaSuJ5oZlrmzs/QefQaIFNsZyzTdseAHFRRNvTGrFyTCsN59m/tGnRvgcQ=;IWGzUKMVqqmWq+tzA2DJhQ=="
+secured: "kqJVFJ4b9dfJ3vZUz8M8oAGLs/uBmg/Pq8mrp32XPOXqfbCuhOia1XS/emNzRvSkei7VzGzcF3kIljh/A4Xy544RF/Ur6fCKMOVfO6bjlDaSdaHoeDsK0q3Lii+4bX/nN7lr0LrufpetsczwplN8FoAkPrFgCFHlEiOXhDJahunmX+aGXxICdwupPrCQhLY1JkdfTzQp0z5VkoQDgsQ8HUwtSSHYvfCcfYIdV2RCtgTW1HTKam+CcjUWFe3MRH+nnvhp8so5ehTlSAwaCDO8fkYsadKktWONaow32fij8mJpAdQBsoq1fhMbFAN2NtYCjw9GR0s6+L6DWoPHkl7fnSVch8NY7sccfoS0AutEBxg=;MUe0CiFzOKl7NimVV8iuYA=="
 ---
 

@@ -44,6 +44,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden immigration orders raise COVID-19 concerns at the border"
+    excerpt: "With President Biden relaxing Tuesday some immigration policies bolstered under the Trump administration, U.S. health and immigration officials have been vague about coronavirus testing for people caught crossing the southern border illegally."
+    publishedDateTime: 2021-02-03T01:41:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SxIp7NENuI/biden-immigration-covid-19-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-covid-19-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-covid-19-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/biden-mayorkas.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Hiding Hunter Biden laying low in LA, starting art career with shady dealer"
     excerpt: "As federal prosecutors continue their criminal probes into Hunter Biden’s taxes and international business dealings, the President’s son — shuttling between Washington DC and a sprawling Hollywood Hills home — is lying low, consulting with lawyers and focusing on his new career in art."
     publishedDateTime: 2021-01-31T02:06:03Z

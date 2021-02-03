@@ -319,6 +319,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden treads carefully in unwinding hardline Trump immigration policies"
+    excerpt: "U.S. President Joe Biden on Tuesday ordered a review of asylum processing at the U.S.-Mexico border and the immigration system as he seeks to undo some of former President Donald Trump's hardline policies."
+    publishedDateTime: 2021-02-03T02:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-actions-idUSKBN2A212D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A212D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A212D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550069046&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111R3"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden revokes Trump's ban on transgender Americans serving in the military"
     excerpt: "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said."
     publishedDateTime: 2021-01-25T16:52:00Z
@@ -525,6 +541,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548818183&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0M0BY"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden's White House will look into Trump's visitor logs and whether it can release them"
+    excerpt: "The White House said on Tuesday it would look into whether it can make visitor logs from former President Donald Trump's administration public, a move that will be in line with the Biden administration's vow to release its own records."
+    publishedDateTime: 2021-02-03T02:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-white-house-logs/bidens-white-house-will-look-into-trumps-visitor-logs-and-whether-it-can-release-them-idUSKBN2A22W2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22W2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22W2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550058339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111MN"
+        width: 786
         height: 545
         isCached: true
   - title: "Biden administration halts effort to install Trump loyalists on Pentagon advisory boards"

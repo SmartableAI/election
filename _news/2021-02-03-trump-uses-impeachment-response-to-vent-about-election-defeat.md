@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22MF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22MF"
 type: article
 quality: 140
-heat: 2720
+heat: 2740
 published: true
 
 provider:
@@ -1246,6 +1246,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GO2IDXDAIQI6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Trump's impeachment team argues case is unconstitutional, falsely says there's 'insufficient evidence' about his election claims"
+    excerpt: "Trump's defense team says he can't be tried after leaving office and that his speech before the Capitol riot was protected under the First Amendment."
+    publishedDateTime: 2021-02-02T21:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-lawyers-say-second-impeachment-trial-is-unconstitutional-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-lawyers-say-second-impeachment-trial-is-unconstitutional-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lawyers-say-second-impeachment-trial-is-unconstitutional-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5ff6ebd0d184b30018aad765?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Consumer Financial Protection Bureau, muzzled under Trump, prepares to renew tough industry oversight"
     excerpt: "After taking a largely hands-off approach in the Trump era, the consumer watchdog hatched by Elizabeth Warren is expected to resume issuing tough penalties and rules."

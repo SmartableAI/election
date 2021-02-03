@@ -506,6 +506,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Senate confirms Mayorkas as Biden's homeland security chief"
+    excerpt: "The Senate confirmed Alejandro Mayorkas on Tuesday as President Joe Biden's homeland security secretary, the first Latino to fill a post that will have a central role in the government's response to ,"
+    publishedDateTime: 2021-02-03T02:15:00Z
+    webUrl: "https://www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden pushing for major immigration reforms, but another humanitarian crisis at the border could derail his agenda"
     excerpt: "There are signs that a crisis could be brewing, from migrant caravans forming in Central America to asylum seekers protesting at the U.S. border."
     publishedDateTime: 2021-01-29T21:00:00Z
