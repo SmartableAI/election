@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump appointees to Pentagon boards blocked by Biden defense chief: reports"
+    excerpt: "In a sweeping move this week, Defense Secretary Lloyd Austin blocked hundreds of members from serving on various Pentagon advisory boards – including numerous nominees who were appointed by former President Trump, according to a report."
+    publishedDateTime: 2021-02-03T06:16:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tzJ286bzOjQ/trump-appointees-to-pentagon-boards-blocked-by-biden-defense-chief-reports"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-appointees-to-pentagon-boards-blocked-by-biden-defense-chief-reports.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-appointees-to-pentagon-boards-blocked-by-biden-defense-chief-reports.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Lloyd-Austin.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden signs three immigration orders in latest move to reverse key Trump policies"
     excerpt: "President Biden on Tuesday signed three executive orders on immigration, including one to create a task force to reunify migrants separated under the Trump administration"
     publishedDateTime: 2021-02-02T22:54:56Z
@@ -60,6 +76,22 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6423eb4b-2774-420f-84fe-d9dfac3316b6/5db3f176-689a-4bd2-99ce-1b4d762459d8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden relaxes some immigration policies bolstered under the Trump administration"
+    excerpt: "CBP said it began taking COVID-19 precautions back in March 2020, around the beginning of the pandemic."
+    publishedDateTime: 2021-02-03T05:04:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1NPb-mGG0Mc/live-updates-biden-2-3-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-3-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-3-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88d7f226-3bc5-4dd8-a9c0-7c26ed7a83bc/80764ff6-b759-4d35-baa8-f7a14e3bdd73/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

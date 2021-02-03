@@ -3,8 +3,8 @@ category: news
 title: "Biden said Republican proposal for $600 billion in COVID-19 aid 'way too small': Schumer"
 excerpt: "U.S. Senate Democratic Leader Chuck Schumer said President Joe Biden told Democrats the proposal ten Senate Republicans have made for $600 billion in COVID-19 relief is \"way too small.\""
 publishedDateTime: 2021-02-03T02:43:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-democrats/biden-said-republican-proposal-for-600-billion-in-covid-19-aid-way-too-small-schumer-idUSL1N2K82A2"
-webUrl: "https://www.reuters.com/article/health-coronavirus-usa-democrats/biden-said-republican-proposal-for-600-billion-in-covid-19-aid-way-too-small-schumer-idUSL1N2K82A2"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUSKBN2A22ND"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUSKBN2A22ND"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22ND"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22ND"
 type: article
@@ -977,6 +977,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "CFiRpJQ30CRL7HMTQsz0NFqAsSngo/kB/ZSaArpM+lEl8vHhOViuPW1Y3Hvg0znTQioc7fl6nz1P0TyAKr7KDOcqrswObCAk+jcTJAxvhiObFJnIrF3q6RI1qWOHnJbbWyIhy45gFJrnk/+E1+rp7W6jGDclRsBp4ILH56S6LuswBRLkdUZeIfHh7AkPL3Y5WiSbG0uxcUybTgGJXw9PqCSZPe3yVON/rE2KlJZSyqsnCptEegEOixlM0zoNacCbLdwZKb1728XHYYJalMQV6Ggpk2rbfDHhmLDyclH/syq6zFZPLKU8tokfYwWnX4oWVD4eekz7dLgp7RJLGYF1XgdDBDFIQIPuCxPhM2sJJ0Y=;0QiCAh+ZZKii3EXv9ddByQ=="
+secured: "DL35cKo3NZl918LMOz3IiDAuG9M1ho9CTirb/sMC4eVj/ZZ4esN/i0tNKCDUGmOvUHdFl4fw2iz4m7AhXmP5Bbsbg6nuOkF9Ihmjv2yvgDn13dRfb6bnxE+oKNzz57GgsDB6S/sLQ/rQJwKoxBEHv0qR0O/fw65JSeRMPpzi2lNcxLhYBJ7GiE+YXI6byN2zoeK9qXMIheGZN5zYYFiDTHkj099GAsLgowMjxzjZtd3aQxUQ0RuQwCKbvsVpE0fKOc7Bd/8tLjtMtFAM9cvvyVop9QF7U21gBKnc9eLTBLqR4e/JOausAIwMYakwh/EuEUWv2xISlKAPH8R7gngtAbFuscnZ3t3DT1L3XrihhXE=;OzN2dgGkaZQh1JCNt8SSPQ=="
 ---
 

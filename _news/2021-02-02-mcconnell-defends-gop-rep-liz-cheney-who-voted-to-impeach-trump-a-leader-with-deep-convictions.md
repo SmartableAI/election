@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Live Updates: Graham follows McConnell in defending Cheney after her Trump impeachment vote"
+    excerpt: "Sen. Lindsey Graham, R-S.C., defended Wyoming Rep. Liz Cheney on Tuesday following criticism of her decision to vote in favor of former President Donald Trump’s impeachment, saying that her experience and leadership are \"invaluable to the Republican Party.\""
+    publishedDateTime: 2021-02-03T05:04:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eOnQbWJYVaA/live-updates-trump-impeachment-2-3-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-3-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-3-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bb0473b9-f294-42b5-836c-7ac6646deaa3/39fe54c6-ac50-4642-a163-477bd4e31815/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: McConnell defends Cheney, high profile House Republican who voted to impeach Trump"
     excerpt: "Cheney has faced calls to resign from her post as House GOP conference chair"
     publishedDateTime: 2021-02-02T07:01:08Z

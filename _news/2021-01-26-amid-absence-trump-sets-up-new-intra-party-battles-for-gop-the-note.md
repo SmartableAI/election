@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-pa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 96
+    images:
+      - url: "https://i.insider.com/601818c6d6c5e60019c6e338?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Republicans are reluctant to say who's the new GOP boss with Trump gone from the White House"
+    excerpt: "Some GOP senators said in interviews with Insider they were without a party leader with Democrats in control of the White House and Congress."
+    publishedDateTime: 2021-02-03T06:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-gop-republican-leader-senators-house-party-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
     images:
       - url: "https://i.insider.com/601818c6d6c5e60019c6e338?width=1200&format=jpeg"
         width: 1200

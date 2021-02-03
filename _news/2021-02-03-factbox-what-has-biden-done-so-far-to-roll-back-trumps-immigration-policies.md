@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Factbox: What has Biden done so far to roll back Trump's immigration policies?"
-excerpt: "U.S. President Joe Biden on Tuesday plans to order a review of asylum processing and the legal immigration system, part of a major effort to reverse many of the restrictive policies put in place by former President Donald Trump."
-publishedDateTime: 2021-02-03T03:50:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-immigration-factbox/factbox-what-has-biden-done-so-far-to-roll-back-trumps-immigration-policies-idUSKBN2A231M"
-webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-factbox/factbox-what-has-biden-done-so-far-to-roll-back-trumps-immigration-policies-idUSKBN2A231M"
+excerpt: "U.S. President Joe Biden on Tuesday ordered a review of asylum processing and the legal immigration system, part of a major effort to reverse many of the restrictive policies put in place by former President Donald Trump."
+publishedDateTime: 2021-02-03T06:00:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-immigration-factbox-idUSKBN2A231M"
+webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-factbox-idUSKBN2A231M"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A231M"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A231M"
 type: article
@@ -60,6 +60,22 @@ related:
     quality: 150
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549923755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH11020"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden treads carefully in unwinding hardline Trump immigration policies"
+    excerpt: "U.S. President Joe Biden on Tuesday ordered a review of asylum processing at the U.S.-Mexico border and the immigration system as he seeks to undo some of former President Donald Trump's hardline policies."
+    publishedDateTime: 2021-02-03T02:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-actions-idUSKBN2A212D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A212D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A212D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 150
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550069046&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111R3"
         width: 817
         height: 545
         isCached: true
@@ -318,22 +334,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/a9Gx_d2O1BftEwLpHLaq2FkwQK0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AMKH2W6XRVF6PDZKC3AXPHBQTQ.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Biden treads carefully in unwinding hardline Trump immigration policies"
-    excerpt: "U.S. President Joe Biden on Tuesday ordered a review of asylum processing at the U.S.-Mexico border and the immigration system as he seeks to undo some of former President Donald Trump's hardline policies."
-    publishedDateTime: 2021-02-03T02:18:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-actions-idUSKBN2A212D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A212D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A212D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550069046&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111R3"
-        width: 817
-        height: 545
         isCached: true
   - title: "Biden revokes Trump's ban on transgender Americans serving in the military"
     excerpt: "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said."
@@ -1394,6 +1394,6 @@ related:
         height: 649
         isCached: true
 
-secured: "TLUb5Sjc+RkAupmglOswfpKw9d1lXFmPG+GfALv2CAOwUbEu1Z65ZwQSDgLDtqhIyP6d09tQezaLpzYCfsC/KSykELKY9hg1UhFqmeWLcB/E0I5Avk7Q008IFe5n0rHGA+slNLqyDlhWbh9+XZS/aNFxALjp0ThUyj5zcjPNySOmAztaVAFaAYJNyQZQ0ahL6McuVbnn6ZgqtaR6DwNwExUT4HRYfDB2XYB1BiHYgInWApD2ftyCf46kIg8FZaRVeFAdIIz+Ak0MkSHCeKt56QJRxB8NyMymKCO/huHNzXoUgiEUaG/2cWgXSJxAsmneUX+mbMcnvdM0GFS0NMgXTuOdMKaSUZMQb+HSld79iV4=;j5HPTdjvHPOUPsvNFjXx+A=="
+secured: "+3PXZr3IsQdgb2q78HL2bLoJXAVWEt26rvY/byWvX5S+oirML6ew31SEfRfQRdRE1lfPSdCy+D37/0PVcwJLjUZi6rGoKA+ocHrYrEHM4rb1ShlaU+SmeNFnfMjJvlnv2OTEYJAyQvDh6c9zLJ84MygabUV+5azvwvUT5PTipoEI3CKxzhhgjHHS5Qpms1M6n+CRjhQcDyVRtql/9vjV8/kQPJqHHNKFCUDh5wtRA7Sm3cWmBvp78owhbhznBIQ6qDq9kl7pjTAdpX1xOfJnnex/dFFcod7/LAQVyhF4ERuK0mBlOQVgQW6o1JdUh5uvf01CehmvnQY6N38RNyO0WZ44UnxqNcYv49vqyEYFCyg=;8jmUW2fiDxzmFALpyJeznw=="
 ---
 

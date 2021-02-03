@@ -8,7 +8,7 @@ webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-actions-idUSKB
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A212D"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A212D"
 type: article
-quality: 140
+quality: 150
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550069046&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111R3"
@@ -368,9 +369,9 @@ related:
         height: 1059
         isCached: true
   - title: "Factbox: What has Biden done so far to roll back Trump's immigration policies?"
-    excerpt: "U.S. President Joe Biden on Tuesday plans to order a review of asylum processing and the legal immigration system, part of a major effort to reverse many of the restrictive policies put in place by former President Donald Trump."
-    publishedDateTime: 2021-02-03T03:50:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-factbox/factbox-what-has-biden-done-so-far-to-roll-back-trumps-immigration-policies-idUSKBN2A231M"
+    excerpt: "U.S. President Joe Biden on Tuesday ordered a review of asylum processing and the legal immigration system, part of a major effort to reverse many of the restrictive policies put in place by former President Donald Trump."
+    publishedDateTime: 2021-02-03T06:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-factbox-idUSKBN2A231M"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A231M"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A231M"
     type: article
