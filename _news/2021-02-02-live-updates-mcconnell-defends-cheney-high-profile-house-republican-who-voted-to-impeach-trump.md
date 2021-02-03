@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Senate Republicans will be 'very united' against convicting Trump after he left office: Graham"
+    excerpt: "Sen. Lindsey Graham, R-S.C., predicted Wednesday that Republicans would be \"very united\" against convicting former President Donald Trump of incitement of insurrection in his second impeachment trial, which begins next week."
+    publishedDateTime: 2021-02-03T21:00:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8kvj_6MUA18/lindsey-graham-republicans-very-united-against-trump-impeachment-conviction"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-republicans-very-united-against-trump-impeachment-conviction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-republicans-very-united-against-trump-impeachment-conviction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce0ff8aa-4ebc-4f0a-b188-e29d6303380f/f2169d82-7384-44cf-93f0-ae8b40aab209/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McConnell defends GOP Rep. Liz Cheney, who voted to impeach Trump: 'A leader with deep convictions'"
     excerpt: "Cheney has faced calls to resign from her post as House GOP conference chair since she and nine other Republicans crossed party lines to impeach Trump."
     publishedDateTime: 2021-02-02T01:43:00Z

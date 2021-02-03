@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden open to negotiating terms of $1,400 stimulus checks: Report"
+    excerpt: "President Biden is reportedly open to compromising on the structure of stimulus checks in his proposed $1.9 trillion coronavirus relief package, but he is adamant that they will go out."
+    publishedDateTime: 2021-02-03T22:39:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ji1tVQFQhiU/biden-negotiating-1400-stimulus-checks"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-negotiating-1400-stimulus-checks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-negotiating-1400-stimulus-checks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3eaa2556-18a5-4cdc-8c54-b0e3e6d7383d/87a80014-30fa-4a0a-b247-3cc3f697207c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Press Secretary Jen Psaki briefs reporters ahead of Biden meeting with GOP senators"
     excerpt: "The White House COVID-19 Task Force is scheduled to brief reporters at 11 a.m. ET, ahead of a separate 12:30 p.m. briefing by press secretary Jen Psaki."
     publishedDateTime: 2021-02-01T13:30:21Z

@@ -3,8 +3,8 @@ category: news
 title: "The Designer of Kamala Harris’s Inauguration Outfit Crafts a Strategy for the Pandemic"
 excerpt: "After a high-profile start to 2021, rising fashion star Christopher John Rogers focuses on new ways to do business amid Covid’s disruption."
 publishedDateTime: 2021-02-03T15:57:00Z
-originalUrl: "https://www.wsj.com/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467?mod=hp_listc_pos1"
-webUrl: "https://www.wsj.com/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467?mod=hp_listc_pos1"
+originalUrl: "https://www.wsj.com/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
+webUrl: "https://www.wsj.com/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
 ampWebUrl: "https://www.wsj.com/amp/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-designer-of-kamala-harriss-inauguration-outfit-crafts-a-strategy-for-the-pandemic-11612371467"
 type: article
@@ -177,6 +177,6 @@ related:
         height: 320
         isCached: true
 
-secured: "Yw9m2fjeF17xD0+NbL1XE5cbzHx3Tzrcg/bxvEmaM9I9JGUjyiaGUOA+sjHI2kGiJWngIOoYClrqzqEXXgdgn0sqIiSRU4PiS8TFSDDnR1rWBKRONhq1tRxFs1KWYpfZkPsqLaWv/9A4fCFmoHCrErAkCaXBGj7C7CxPU+wvLEqWg/FdJpVHnhLogd2RHySv9bBBbkKYnHgrg3Tmv1EISwtp8KUNzZ/QQO60J+5rsJSIAJShMuDyGIRNTQfqEWudXs+m1fWX/K1htn3ytBLbjQ3fYTcrUvIaXUG+XI7sk/zXs1eYs0/Kcxin4A6c6b4JQdssC+9m73Q/NPy+VE5jejZ2Ky1HvyFAqrgbG+RlYlE=;/lb94cDj3ySvtF2308B45w=="
+secured: "SF2nj7ZOwghV/g4588CwHnLN8WVDWorM+2rtmE9/tgxFrTA2QmcxFyI1Qboh3+ARcgEwKsPhe8jNI716XllvS9EP50Q1aABPRBvSOoFqUXcKGtIRoNyWlu0Z53Lnyna4HjyRxRyv1IgCbyAFVjQWFlqX9LN4Uouakse0bb3fq/OYsxwffzz2Ffy1jaLfI/OnGLcIbGqLXMr3aUpfZfYGf3NxfTlMXiXm2dVgSPVdhDZM6Uq4Qsh1joJJ2g3iwz+ro8c83E/NGDvE55v4QFfihqzkUmtF64FRMK5T8tLUoCieIWEfgvs1bfmuV9HPTqEY+jzF9TwBwRnlexb3RdEOtVRwgpHrd4mwwdfeCWuB8kg=;CCDt/2Ur4m9ghXT0LnAY7Q=="
 ---
 

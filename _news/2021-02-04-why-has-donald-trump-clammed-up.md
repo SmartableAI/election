@@ -363,6 +363,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden administration drops Trump-era discrimination lawsuit against Yale"
+    excerpt: "Lawsuit had claimed university discriminates against Asian American and white applicants"
+    publishedDateTime: 2021-02-03T20:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/03/yale-discrimination-lawsuit-biden-justice-department"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/03/yale-discrimination-lawsuit-biden-justice-department"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/03/yale-discrimination-lawsuit-biden-justice-department"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/4cadf11194cdd81ab744369965bc503db3a0c77c/0_137_2309_1385/master/2309.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b6773ec0e0a1f0eebac1beb4e81162c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden revokes Trump's ban on transgender Americans serving in the military"
     excerpt: "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said."
     publishedDateTime: 2021-01-25T16:52:00Z
@@ -1103,6 +1119,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "UPDATE 1-Biden's EPA pick assures lawmakers he will listen to states in climate fight"
+    excerpt: "U.S. President Joe Biden's choice to lead the Environmental Protection Agency told lawmakers on Wednesday he will consult with states and other stakeholders as the agency determines how to deliver on the administration's sweeping plans to tackle climate change and"
+    publishedDateTime: 2021-02-03T22:45:00Z
+    webUrl: "https://www.reuters.com/article/usa-epa-regan-idUSL1N2K92KC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31N1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31N1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550236749&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH120ZU"
+        width: 821
+        height: 545
+        isCached: true
   - title: "Biden administration to unveil more climate policies, urges China to toughen emissions target"
     excerpt: "U.S. President Joe Biden's administration next week will release more policies it believes are needed to tackle climate change and is urging China to toughen one of its targets on greenhouse gas emissions,"
     publishedDateTime: 2021-01-24T06:43:00Z
@@ -1484,6 +1516,6 @@ related:
         height: 649
         isCached: true
 
-secured: "sVjAD80vfP8BloTmtP10zKRJuYIao7EeGtN3aTH8HA/YrCdEYdAiqkGhvzbn7NPJTl84UxZfnoVgzoqcIN8rFR1BmBze0gkuI76EGt0uz9ukD5slO8U2mVp0yG5wUcVVepQcwEO2rqcVsR/TCEMCrvG7uXuP6F7NNhDd6eH/WrSBLKYCrNYJttbhOpUy+z7ugkiJ1Hn7SRRWAL68/dWDtGHHyR1fm9rEqLW7sbjUhoeOTsWpMFjjERAGcN/y2lv7ZZekR07P8iemqsv/uxOOgipMBfTwzFzgfrgqYD0bMWLmfc+5cM9k0TsLmNccKnAV6fpJDG9Wgvv0jm3D309iPwXO51/0DEvGWPo5Lu+lpGc=;rI5yM6HB9Gc9x8/xtO6d/Q=="
+secured: "J27/dkiD9m7WVH7THKA7n6ViRrmzdzzxVUwdTNAoIONUdf750f7rdse51aj0vPYfX4Wddfxcxmts8awfS8ACQuaXkie6mz0x+Tk2PLA5mpWleqzLzdTQPueJWtLj5LXd8B3CQeeBc0sS8RST4QP2bDGFZvLhSuZVSTxJ7FPayTjxVvKo9EkB5RbjLBk9OeOhqMIimmoKY/CxMsQb2NYLWAzCpa7+P7yzkvT6vIbiKVtvdf/DDPNSzYwSAiVY4Ntg0oUQNBj03iIgelEV2zV+Ni4XUd0Ju348y15js/6Lg0nArrevXIrSXb5xgSyQmwlmLezznrNR5NtlSxUVtEML2ws6sHiup2L4GAX99gDIYThc6rlqUfOowukut2iOERAUls3+XTb4WsfCj+BSnLGwLr4JKrW9bmKMm5wYDD34DccyxXLrVjEv48uRzBciwR+byg/qYOvk+dpQ6AvHMwZuqGnHUVYXi10uRZVw755DNfj67DcLZ8KH5GPAoSGZM5jla55D2dsLKL6c85oo7z04Ew==;Xk1N62DSU2QdqlvXqpLWKw=="
 ---
 

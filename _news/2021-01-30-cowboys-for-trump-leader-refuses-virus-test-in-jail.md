@@ -89,6 +89,22 @@ related:
         width: 878
         height: 702
         isCached: true
+  - title: "Trump impeachment lawyer says would be 'idiotic,' 'insane' to rehash election fraud claims"
+    excerpt: "A lawyer for Donald Trump on Wednesday said it would be \"idiotic\" and \"insane\" to dispute the legitimacy of the 2020 presidential election during his Senate impeachment trial, adding that the former U."
+    publishedDateTime: 2021-02-03T22:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-lawyer-idUSKBN2A32OC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A32OC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A32OC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 130
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550200116&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121NE"
+        width: 817
+        height: 545
+        isCached: true
   - title: "House Democrats deliver Trump impeachment charge to Senate"
     excerpt: "The U.S. House of Representatives delivered to the Senate on Monday a charge that former President Donald Trump incited insurrection in a speech to supporters before the deadly attack on the Capitol,"
     publishedDateTime: 2021-01-26T06:51:00Z
@@ -936,6 +952,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1720738/donald-trump-impeachment-2024-capitol-riots.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "They took Donald Trump to task. Now they're ready to reshape the justice department"
+    excerpt: "Civil rights lawyers Vanita Gupta and Kristen Clarke are poised for key roles in the Biden administration"
+    publishedDateTime: 2021-02-03T15:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/03/kristen-clarke-vanita-gupta-biden-justice-department"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/03/kristen-clarke-vanita-gupta-biden-justice-department"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/03/kristen-clarke-vanita-gupta-biden-justice-department"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/44e3ed01f816cd692014e0b3b8ff902fdb97b859/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=49f5ee587cfc815f0fb00920f3525dee"
+        width: 600
+        height: 360
         isCached: true
   - title: "Who could have predicted the Capitol riot? Plenty of people — including Trump allies."
     excerpt: "Pro-Trump activists stormed the U.S. Capitol in an effort to overturn the results of the 2020 presidential election. Except for many, it was quite thinkable. It was thought aloud in some cases. As former president Donald Trump faces his second impeachment trial,"
@@ -2111,6 +2143,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Takeaways From Legal Filings for Trump's Impeachment Trial"
+    excerpt: "Legal briefs filed in the impeachment case against former President Donald Trump lay out radically different positions ahead of next week’s Senate trial."
+    publishedDateTime: 2021-02-03T21:20:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-03/takeaways-from-legal-filings-for-trumps-impeachment-trial"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-03/takeaways-from-legal-filings-for-trumps-impeachment-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-03/takeaways-from-legal-filings-for-trumps-impeachment-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Pro-Trump Lawyer Lin Wood Puts License in Jeopardy by Refusing Mental Health Evaluation"
     excerpt: "L. Lin Wood, a lawyer who played a role in former President Donald Trump's attempts to overturn his election defeat, put his law license in jeopardy on Friday by saying on social media that he would not undergo a mental health evaluation requested by an attorney licensing body."
     publishedDateTime: 2021-01-30T01:40:00Z

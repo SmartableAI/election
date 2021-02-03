@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-02-03/pence-establish
 webUrl: "https://www.bloomberg.com/news/articles/2021-02-03/pence-establishes-transition-office-after-vice-presidency-ends"
 type: article
 quality: 105
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former Vice President Pence Opens Arlington Office"
+    excerpt: "Former Vice President Mike Pence is setting up an office in Arlington as he transitions from his time in the White House. \"Pence announced Wednesday that the Office of the Former Vice President will handle correspondence,"
+    publishedDateTime: 2021-02-03T22:33:00Z
+    webUrl: "https://www.arlnow.com/2021/02/03/former-vice-president-pence-opens-arlington-office/"
+    type: article
+    provider:
+      name: ARLnow.com
+      domain: arlnow.com
+    quality: 55
+    images:
+      - url: "https://s26551.pcdn.co/wp-content/uploads/2021/02/5570962.jpg"
+        width: 1600
+        height: 1143
+        isCached: true
   - title: "Pence opens transition office near D.C. before moving to permanent home"
     excerpt: "Former Vice President Mike Pence has opened a transition office in northern Virginia. Pence announced Wednesday that the Office of the Former Vice President will handle correspondence, scheduling requests,"
     publishedDateTime: 2021-02-03T19:57:00Z
@@ -72,6 +86,6 @@ related:
         height: 630
         isCached: true
 
-secured: "bOJ/qsqiXlYi68QwbFmytRlbo0z9rU0NIZWismc4RsVpIenTI4J3E88CHaedrF51K3x1peFOGmaBEXo+L+eb1PNMVGUyZQ3mvtKlZMvJgKH2MoiFEkfw08tPKb1S6ic3rHHILj4T1i4SHHo3fC6zOPOzjiVewhjvUEUenrgnmtBnWucF38gyJvfWDI2Ow78e65A8hsX9ZzDvLZKqzCUo3XPrL2Kb4iLkGz9pVFyBdatiey5xT4RUlEEr3PfxsWk+STVqJphfExBJXSGABh3etr2KV5M6+QWg21bpTD573sHGXoOo73AIj6lEJcKmsBwpsu7JIETTIuo2ldhW/jg6P2FFkaIluTIeVbRBykscz6g=;psbA1cwPHAA551BbYDfUDw=="
+secured: "CTpPp4tR6oA/IID1B5KGkTbK2aWgXDnMEBnc7/5K1sGWTvFN+SM8jN9gSDAL3SvI5Y3sHSqcHu4foU8jTxx2xNd9yX4Kly4GdLDalEjKCH8UDjWnYOaCWYgI8Uwwns+Tp9nQfHu7ewDy7vG1zgwMqZ5tSBGCH6xesL5LcUMu7MTOcezAA2YUhQC7I3gUfBC9ylcC20K+tIzobQaTaQXo39WJRsZ5DQzRXfyNAP/H22a65d1++jvt9FGanRIIWIGKjNJBvKhlmnjRyJYGME2OJultFeLjlzonCCHLcR6WOMvjWn/9QIn//wye3ivVLWQY6KxaUk99pPyiFrXKmV2bV8AbknyEdfNrteBMK6Zpsm8=;VP0cgCOOsMXTJmLc/vc7ow=="
 ---
 

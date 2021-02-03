@@ -365,6 +365,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden administration drops Trump-era discrimination lawsuit against Yale"
+    excerpt: "Lawsuit had claimed university discriminates against Asian American and white applicants"
+    publishedDateTime: 2021-02-03T20:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/03/yale-discrimination-lawsuit-biden-justice-department"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/03/yale-discrimination-lawsuit-biden-justice-department"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/03/yale-discrimination-lawsuit-biden-justice-department"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/4cadf11194cdd81ab744369965bc503db3a0c77c/0_137_2309_1385/master/2309.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b6773ec0e0a1f0eebac1beb4e81162c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden revokes Trump's ban on transgender Americans serving in the military"
     excerpt: "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said."
     publishedDateTime: 2021-01-25T16:52:00Z
@@ -1090,6 +1106,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UL7K33CC5EI6XLBKHLAPFOGO5M.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "UPDATE 1-Biden's EPA pick assures lawmakers he will listen to states in climate fight"
+    excerpt: "U.S. President Joe Biden's choice to lead the Environmental Protection Agency told lawmakers on Wednesday he will consult with states and other stakeholders as the agency determines how to deliver on the administration's sweeping plans to tackle climate change and"
+    publishedDateTime: 2021-02-03T22:45:00Z
+    webUrl: "https://www.reuters.com/article/usa-epa-regan-idUSL1N2K92KC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31N1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31N1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550236749&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH120ZU"
+        width: 821
+        height: 545
         isCached: true
   - title: "Biden administration to unveil more climate policies, urges China to toughen emissions target"
     excerpt: "U.S. President Joe Biden's administration next week will release more policies it believes are needed to tackle climate change and is urging China to toughen one of its targets on greenhouse gas emissions,"

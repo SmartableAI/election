@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden approval under 50% in new national poll"
+    excerpt: "Biden approval under 50% in new national poll"
+    publishedDateTime: 2021-02-03T21:15:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C0gV_9EchTo/biden-approval-under-50-in-new-national-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-under-50-in-new-national-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-under-50-in-new-national-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Dem progressives renew anti-ICE push, despite Biden immigration order"
+    excerpt: "Progressive Democrats are renewing their calls to abolish Immigration and Customs Enforcement (ICE) after an illegal immigrant was deported this week -- days after the Biden administration moved to place a moratorium on deportations."
+    publishedDateTime: 2021-02-03T22:41:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Xzf8ktZhtg/dem-progressives-renew-anti-ice-push-despite-biden-immigration-order"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-progressives-renew-anti-ice-push-despite-biden-immigration-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-progressives-renew-anti-ice-push-despite-biden-immigration-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e8d82c2-273b-4c5c-a9ad-ccd91dbd9bae/62e14652-1b7c-40c3-b0ea-aac58cd458bd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden administration to open overflow shelter for migrant children in Texas"
     excerpt: "The Biden administration said it plans on reactivating a “temporary Influx Care Facility” in Carrizo Springs, Texas, to potentially accommodate up to 700 migrant children within the next two weeks."
     publishedDateTime: 2021-02-03T07:57:24Z

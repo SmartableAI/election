@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Justice Department rescinds two Trump-era voting directives "
+    excerpt: "The Justice Department on Tuesday rescinded two voting-related memos issued by the Trump administration, including one that prompted a public corruption prosecutor to step down from his post because it upended decades of department policy on voter fraud investigations to not interfere in states' vote"
+    publishedDateTime: 2021-02-03T21:17:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F9BDINWbqx0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/justice-department-memo-voting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/justice-department-memo-voting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120094151-monty-wilkinson-justice-department-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate Republicans say Trump should be held accountable for riot -- but not by them"
     excerpt: "To Senate Minority Whip John Thune, former President Donald Trump's actions ahead of the deadly Capitol riot are totally indefensible.\n    \n"
     publishedDateTime: 2021-01-30T02:05:41Z

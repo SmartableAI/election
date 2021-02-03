@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-mee
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128192549-mccarthy-trump-cheney-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Florida town completes legal review of Trump's residency at Mar-a-Lago"
+    excerpt: "The legal review by the town of Palm Beach into the use of Mar-a-Lago as former President Donald Trump's permanent home concluded that the original agreement among the town, the resort and Trump does not expressly prohibit him from residing there.\n    \n"
+    publishedDateTime: 2021-02-03T21:28:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MutU1MpXkpQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/mar-a-lago-trump-legal-review/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/mar-a-lago-trump-legal-review/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209101030-mar-a-lago-resort-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

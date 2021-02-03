@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hundreds of Democratic staff plead with senators to convict Trump in impeachment trial"
+    excerpt: "The staff members said they hope senators will take their trauma from the Capitol riot seriously when they weigh whether to convict the former president."
+    publishedDateTime: 2021-02-03T22:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/hundreds-democratic-staff-plead-senators-convict-trump-upcoming-impeachment-trial-n1256577"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256577"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256577"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_03/3443114/210119-donald-trump-al-0953_ee174f7bc77e10ab1366e5fa4a0f8a3a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "QYSEhMmaKSGGjoMNJBJK8IZ8wraOkoJcpA9zdsfkxM7pTvyLB8ZZOiJFcoOyFSUep8UyDadIxnvxTDK874WEqi4TTwVC6S6t0A/y7ln9544ruXq7RiN8qlFBK4YM++0WmoCAkM1rZB2VAMTJwYfNu8uCRJKB3o/Y2UMRZl1nc0mBQM6d/BYMATPAYcqyfizNFUUTCEoxKHS7Day4yFVq6fKNYLexlOFNr2mQanDAi/ckAEml8THStwmt7RRu7or7bGXRlB9zuiD1U+ITor+8xWSeh8jJhNv4b+qhBommgkWZbGYTT/TKs+spyKK1dYycWRr03UguzNhCXvm9BkwtB3GV0uNsazc8lvGi+DYC79s=;rkvp2IIhRZKG9LAhkfm1ag=="
 ---

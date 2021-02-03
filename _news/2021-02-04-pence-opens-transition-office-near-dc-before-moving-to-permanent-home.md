@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former Vice President Pence Opens Arlington Office"
+    excerpt: "Former Vice President Mike Pence is setting up an office in Arlington as he transitions from his time in the White House. \"Pence announced Wednesday that the Office of the Former Vice President will handle correspondence,"
+    publishedDateTime: 2021-02-03T22:33:00Z
+    webUrl: "https://www.arlnow.com/2021/02/03/former-vice-president-pence-opens-arlington-office/"
+    type: article
+    provider:
+      name: ARLnow.com
+      domain: arlnow.com
+    quality: 55
+    images:
+      - url: "https://s26551.pcdn.co/wp-content/uploads/2021/02/5570962.jpg"
+        width: 1600
+        height: 1143
+        isCached: true
 
 secured: "b64sI59u3za4/duoYYobywD37wjvnnctHMPgcM+N+APwuTNwrHqs+EE6uaV9/4O+SwRXFS+YkhbeW4Nr0NucNOR8pKiZNkNJkXZ+i+4rKL3OT0/sWE+ZDcoqWiOnRTCaCna9V8jXxrVI62YA334JQd5wHOBp0ESrB8NrswajUf+wX0JZIknixb4Eqq+Vt6eQREtM1AjR2Yq4nswYkXFalWFJns9ClFyFY5Tq3sNXddSAYqsBL0TfON5q4mi76HvBX4ZBF4HoXre+upJ73cWDfZ0RxHA7DGYq2RlOIIWlySj7jhzs1p+swTQO78zMrjMfpGA+0hhPxjYEm+EyMCCwdW2EZ5e1WoDrR00YCPInlXs=;56peQTfQ3A/aiEDUTHbGEQ=="
 ---

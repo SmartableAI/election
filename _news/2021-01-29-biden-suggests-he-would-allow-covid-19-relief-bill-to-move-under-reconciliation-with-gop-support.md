@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-he-will-get-covid-relief
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-he-will-get-covid-relief-passed-no-ifs-and-or-buts.amp"
 type: article
 quality: 161
-heat: 201
+heat: 181
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 157
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McConnell: Biden talks 'unity' but White House staff, Dem leadership have different 'playbook' on COVID talks"
-    excerpt: "Senate GOP Leader Mitch McConnell, in comments on the Senate floor Wednesday, alleged that President Biden's staff and Democrats in Congress are preventing the president from making a deal with Republicans on coronavirus relief. "
-    publishedDateTime: 2021-02-03T16:26:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0r3Ynv8QOSE/mcconnell-biden-unity-different-playbook-covid-talks"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-unity-different-playbook-covid-talks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-unity-different-playbook-covid-talks.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
