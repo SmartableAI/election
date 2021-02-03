@@ -1888,6 +1888,22 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "Trump Loyalists Across Homeland Security Could Vex Biden’s Immigration Policies"
+    excerpt: "President Biden and his new secretary of homeland security are already facing resistance from immigration agents empowered by Donald J. Trump to take their gloves off."
+    publishedDateTime: 2021-02-03T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/03/us/politics/biden-trump-immigration.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/03/us/politics/biden-trump-immigration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/us/politics/biden-trump-immigration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 146
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/03/us/politics/03dc-resistance-1/03dc-resistance-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden to take immediate steps to undo key Trump initiatives, unveil immigration plan"
     excerpt: "Joe Biden will sign more than a dozen executive actions Wednesday when he arrives at the White House as the 46th president."
     publishedDateTime: 2021-01-20T10:00:00Z

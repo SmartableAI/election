@@ -34,7 +34,7 @@ related:
   - title: "President Biden, first lady pay respects to Capitol Police Officer Brian Sicknick"
     excerpt: "President Joe Biden and First Lady Jill Biden paid their respects to Officer Sicknick as he lies in honor at the Capitol."
     publishedDateTime: 2021-02-03T04:12:00Z
-    webUrl: "https://www.nbcnews.com/video/president-biden-first-lady-pay-respects-to-capitol-police-officer-brian-sicknick-100437573846?playlist=mmlsnnd_bestofnbc-nnd"
+    webUrl: "https://www.nbcnews.com/video/president-biden-first-lady-pay-respects-to-capitol-police-officer-brian-sicknick-100437573846"
     ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100437573846"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100437573846"
     type: article

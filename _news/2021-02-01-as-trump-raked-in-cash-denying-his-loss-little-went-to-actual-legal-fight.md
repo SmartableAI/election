@@ -380,6 +380,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Pro-Trump lawyer Lin Wood under investigation for possible voter fraud in Georgia"
+    excerpt: "Wood, who claimed the presidential election was stolen, told an Atlanta-based reporter that he has lived in South Carolina \"for several months.\""
+    publishedDateTime: 2021-02-03T09:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/pro-trump-lawyer-lin-wood-under-investigation-potential-voter-fraud-n1256554"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 110
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_05/3447140/210202-lin-wood-ew-700p_bcd00033defb682ac53d3540dde8bc7e.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "gj+lw2gxNsEzytGPIgbvL6pXpsIBWSzS5yZT88pMPZ4lig0VhOUluliBI3NMxJJ5oLvWiSMTffASsmELIFE+KDvRrbEu/x2nY61vUHry0mEZkCcKZuzVH9sfBcfEV9PqHEes0Etj0b8kiBk9DUOtI4YasSY9g7jXRqcVnjeN/H3LD+bpuiqF9f84q1kksc2rS9XVDJz7nL7YQkoLzi0tPkVHMi/4agHFRewu3I6Wd3FFxPHUPMcZ4l1QjBs2F97Z3IvDiyceI+vuH/W3HWGIRzTFLs2RnADK7VXrR98R8rLQU7yGpfoubArslGnAgx/8Ok+s8da/q2Z/HefcP0PIXeE3oX3Un+cetx4W89i/ouY=;sPzOFS435uCJ/szZdTPj6w=="
 ---

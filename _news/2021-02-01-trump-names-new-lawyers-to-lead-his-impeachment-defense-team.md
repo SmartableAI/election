@@ -671,6 +671,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump gets an important backer in his bid to live at Mar-a-Lago"
+    excerpt: "But former president Donald Trump just found a big ally in his quest to call his Florida club, Mar-a-Lago, home during. According to a memorandum obtained by The Washington Post, an attorney for the town of Palm Beach is recommending that the town’s council allow Trump to live at the club,"
+    publishedDateTime: 2021-02-03T05:02:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-residence-legal-dispute/2021/02/02/39cc193c-65a2-11eb-8468-21bc48f07fe5_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-residence-legal-dispute/2021/02/02/39cc193c-65a2-11eb-8468-21bc48f07fe5_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-mar-a-lago-residence-legal-dispute/2021/02/02/39cc193c-65a2-11eb-8468-21bc48f07fe5_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2PEK2TCO3UI6XA7DGITEJWBDKY.jpg&w=1440"
+        width: 1440
+        height: 965
+        isCached: true
   - title: "Trump lawyers challenge legitimacy of post-presidency impeachment trial"
     excerpt: "Former President Donald Trump's lawyers said on Tuesday the U.S. Senate lacks the authority to conduct his impeachment trial now that he has left office, while the Democratic lawmakers due to serve as prosecutors called him singularly responsible for the deadly Jan."
     publishedDateTime: 2021-02-03T00:49:00Z

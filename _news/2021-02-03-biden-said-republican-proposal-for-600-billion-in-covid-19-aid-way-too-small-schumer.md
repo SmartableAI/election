@@ -3,10 +3,10 @@ category: news
 title: "Biden said Republican proposal for $600 billion in COVID-19 aid 'way too small': Schumer"
 excerpt: "U.S. Senate Democratic Leader Chuck Schumer said President Joe Biden told Democrats the proposal ten Senate Republicans have made for $600 billion in COVID-19 relief is \"way too small.\""
 publishedDateTime: 2021-02-03T02:43:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUSKBN2A22ND"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUSKBN2A22ND"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22ND"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22ND"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUKKBN2A22ND"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUKKBN2A22ND"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A22ND"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A22ND"
 type: article
 quality: 116
 heat: -1
@@ -977,6 +977,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "sGiN2nJo29+4X/H+BkmavIvlVV9VLP7VxQRoMAxxjOCoQAKf6xDAH/8cVoXi3SYzQppQGcPz3pPRRGck/qzbxF4VX7Jwc86EGGzRe6oZ2Ib1XPjSJ8i4Gj9PvMscZ+lS0+Ql81RGMFPvTUA5nroFycnU/FaDFQPxcnesNEAzy88Tif64BVVzvTGsF2KZHA3lJAeZTPT3/HEpBGKoh2Q29miFYDqth/zUtu8cNpFhNDFBhN3nQyZMEeiztclASiXgPODdI2y7jwX26KgFm0V17breQlVguhME2Nf2QSBlc3QTiAUKPkuzPMxoPJbOroZ3XFE2hCYNeA0XDuILmJXWersxuazsaeZkvGBjMior2eUXnSm5Rl4Rex6z8XfQttjkxSSMOj8fFBSYLuLpAF67LcIz23P+4LCfWY5dAKQr06oJSb5uu3a9Q1TlXGNQppk3iWwrh1AJ+JhpXnUH7DTI1Zc+vM+EgIdSo8bfUnCRUzds8ZvcIY06avYzZNs7C3mcxFmLGU7t/yO0BQ2XiuxmJA==;edH7J8IMtepu5pJT1vy4wA=="
+secured: "zXb5lJ1Hi2tbDIRxF/szPSV5p0mahu+DHVoqPXGh+eA3iWhvCCgvF9xUgh3lWeDhy0n6jVrAhjcElS/+6+7+5c0IW1km/H/PNS7GU0gqcL4injfezYDpNPj3pouoopkyB5Ja0P0N12IajlzSEvdBc/lPeHX96M0unGtZMIDPyU1WQk2HHT1qXiLtPokPTPDTOXeOxVFz2VLNsGWJThsLR0KWnKGh2KBG4hQ1bQD8k1cniDGDH6hTzQYKL0bcqfy1DIxxYfXckxmJrp6y/xKBnonXptJhHcip8LxAmwFf6bXMauzmZd2RgQor+L5SzhZXw2V0WakHzEsq/IMdgXM7ujXmYXVQyppW86xl+LCViNo=;OiNuLBhBloJMEPYBZDUlBQ=="
 ---
 

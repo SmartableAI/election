@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3510
+heat: 3530
 published: true
 
 provider:
@@ -1870,6 +1870,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3218636/200602-f35-plane-maddowblog-wm_b93c679aadb3319c55403d2f2bc8ce8f.jpg"
         width: 830
         height: 553
+        isCached: true
+  - title: "Trump Loyalists Across Homeland Security Could Vex Biden’s Immigration Policies"
+    excerpt: "President Biden and his new secretary of homeland security are already facing resistance from immigration agents empowered by Donald J. Trump to take their gloves off."
+    publishedDateTime: 2021-02-03T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/03/us/politics/biden-trump-immigration.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/03/us/politics/biden-trump-immigration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/us/politics/biden-trump-immigration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 146
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/03/us/politics/03dc-resistance-1/03dc-resistance-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Mexico’s Leader Forged an Unlikely Bond With Trump. Now He’s Looking Warily at Biden."
     excerpt: "President Andrés Manuel López Obrador came to appreciate President Trump’s hands-off style, and is already making waves with an incoming administration he expects to be more meddlesome."

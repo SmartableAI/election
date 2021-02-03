@@ -3,8 +3,8 @@ category: news
 title: "President Biden, first lady pay respects to Capitol Police Officer Brian Sicknick"
 excerpt: "President Joe Biden and First Lady Jill Biden paid their respects to Officer Sicknick as he lies in honor at the Capitol."
 publishedDateTime: 2021-02-03T04:12:00Z
-originalUrl: "https://www.nbcnews.com/video/president-biden-first-lady-pay-respects-to-capitol-police-officer-brian-sicknick-100437573846?playlist=mmlsnnd_bestofnbc-nnd"
-webUrl: "https://www.nbcnews.com/video/president-biden-first-lady-pay-respects-to-capitol-police-officer-brian-sicknick-100437573846?playlist=mmlsnnd_bestofnbc-nnd"
+originalUrl: "https://www.nbcnews.com/video/president-biden-first-lady-pay-respects-to-capitol-police-officer-brian-sicknick-100437573846"
+webUrl: "https://www.nbcnews.com/video/president-biden-first-lady-pay-respects-to-capitol-police-officer-brian-sicknick-100437573846"
 ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100437573846"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100437573846"
 type: article
@@ -49,6 +49,6 @@ related:
         height: 619
         isCached: true
 
-secured: "qWYBqup6Bd65tQVvU7afGpvOaNqkwXnO+/khVtJlep8LoHQNPRT2faSqxUbOyNKTbMNctCoO64Tn3Jmwk5We1bsJ8JVVTZkVI3Ppf+tO5PJwO//WeIRzexrseL7QOuCt6ySF1SHnV6/l6bPDSlnFhB4Cw0ZIVNKpxp87UodDA16bP5BDd+JIStoqy7ecIvM/sYLUocyKgn7pFvjaHR8xxp7pWmYkVcr3TH+g73QRKISNDUAZaXtQAlRc75zbpWltQryJVfDR9G5Y/g3kf1VWvjP5T/lnksNQs0ADodfHQall+mKFcP9MRJBWjyEzk5sBzFJuWFLl8pFXO/KyPQ9OlGYDlltbxUOfvneZu3WzybFyk2n9DWjr+c5+PcMqAeCSUnHh+3jzJOOo7mHyUVwAZ8dF9anKYdooP9icAhQNM6h4FiM4P6tRICdqAfqEcTU3RldvDz7KK2E7e7VC1xN+2449//rgoksGQt42yalTCT//OjrhjQssdZEP6VxBCcLAP5OezUGR7cX4tW32qNd4Lg==;GNrxxKSPnDXBzaarfhbzHQ=="
+secured: "q6Wh9bWNxepbYjxDHFo+CM9QP4A0K6DErYIsd3/aaUr3h462XBTUchYWzfZiHKyNI+H/qg9elWh07umg13YnOyzZJENgwA2J07rmCE944ffAgjHQkq39Hf8W49+SXOf8PM873io143/siS13GDlqnp3prEB+51dIJJSsR68450pKqWXWVxR6ZRqX2Ahpf1qa0RD5ngPfl/KMcUZqVo1p78G/AvnzLs5PmN418z9wIuTqAHivpl0j8mNtHukwDboZmVlNjw5UO3l2mShWYssusyqeeruoE9aTc6Q0Bh/iEXFyAYhr/GTp5GRF+ua2Cn4ReoHdGxLobyM1JgFSpxKH6LWD8AsZR4x07PwZTeVHve8=;3XX78iJzdsYw3jHcPLy9OA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-lo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-loss-covid/index.html"
 type: article
 quality: 188
-heat: 628
+heat: 648
 published: true
 
 provider:
@@ -378,6 +378,20 @@ related:
       - url: "https://static.politico.com/da/32/751e863c4a1db7364b990ef28e44/lede.Rufus.Rochelle.Wallace.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Pro-Trump lawyer Lin Wood under investigation for possible voter fraud in Georgia"
+    excerpt: "Wood, who claimed the presidential election was stolen, told an Atlanta-based reporter that he has lived in South Carolina \"for several months.\""
+    publishedDateTime: 2021-02-03T09:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/pro-trump-lawyer-lin-wood-under-investigation-potential-voter-fraud-n1256554"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 110
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_05/3447140/210202-lin-wood-ew-700p_bcd00033defb682ac53d3540dde8bc7e.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "GPsERIROwz3NQqQ5UoXPyZMNX++IVUp+c8+aClsOZTzvJZdiQVIxIhiRI69GGtcNhZTYrLe+ymcghNI9led2PNHnRnkpNupy4hr/siL+Nf+zaBlwskTHRgPE5DexGCMfDgqtQ3xLkrhX6Tp9mIZOVntU4V5GvrCYTExv5Zmk/A6JmUl0gEHtJXpSS401fYjTVxXF6OwJ86l68KI57YPkB2EoMYU1LUrvJYe7bNkZfj/up6fId8rGqmcoGw/6rb2FMN1FrecqNxPE3EQLaPVX9E+l3ySixFdj0qHEUJUsO7YbpiaXZXA36YBEHNNfO1JZHFd70nflcn2bE6Fmkp0fSaP+1rn1Bxv9qegSoNE+zxs=;P4JsbEZ6c6Xi3cA0/8GF/g=="
