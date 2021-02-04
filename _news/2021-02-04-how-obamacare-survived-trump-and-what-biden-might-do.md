@@ -3,8 +3,8 @@ category: news
 title: "How Obamacare Survived Trump and What Biden Might Do"
 excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
 publishedDateTime: 2021-02-04T10:51:00Z
-originalUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do/2021/02/04/eca9ee04-66a5-11eb-bab8-707f8769d785_story.html"
-webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do/2021/02/04/eca9ee04-66a5-11eb-bab8-707f8769d785_story.html"
+originalUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do/2021/02/04/eca9ee04-66a5-11eb-bab8-707f8769d785_story.html?amp;amp"
+webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do/2021/02/04/eca9ee04-66a5-11eb-bab8-707f8769d785_story.html?amp;amp"
 type: article
 quality: 120
 heat: -1
@@ -94,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "d0VRJ4rpwHpL21y+92DH0ge/CFhe3yp2N9O6OD2d6QVrndUK2/MBhZ8ZcsbD6jIE18r3YFsOPhHJYJtZIVQndZAAlKyBKioFuFSsehNXjOmfMcB/bX6H5oMa1z4X91GWHmLzLB3cUOtRxZqQi2I7lDJiBBzrI1n22Liav8QnoOHYya3FIlABDZp+p+/PVyT+4vOFVAQ3JDVgRB1RFbe74FLrdQcge0y0rGU58WpVeBv0ioETA8SVcVCslgDi+TI3vzBCF1L0ifQ3MSI3oUV52ICoX1OSdwAZzo/AYNNCXTQisAmEwsg8/ojs1epQE6cNmrkKtDfy/j01/ET9u/E2GR4k85rPoR/uEyVosuOgCjSRjetnhiDZXK0DF1dV5AHoHICgvAHq94c1C36RIq2B3IGJ6r4ODvwHTVM1hIr8I0qwmaUx4v3LlndL8apGQsfRbT8/oz0TmSASxUX+XWNL0F9sZrvDhBVt6or0wZ0NTw/6LC857KnIh9ckhEBrS/HLP88H1dsF3oRXeulvHBva/Q==;B/80DDeaeVecs90ssDAwJg=="
+secured: "sVAc3RrHpoNZZneGxvWEewQZsfztd2UVYGB2oWMTC/kJblQwDiEEoHqUKi3Nv1GBAMFe7R3o63eT/Mo9jm5rbFPpx+2z9yEVFzXaAxczUUzIvmnmupHkCHZkxGsXT6MrXh+k/R0oxDG+duq85ird7UTMYNAZBehgXXBFG/Y42+4lFDsqG1krHbQgbtITy35RLqKhjJSEkrlW25Q43qsgPYedznyQaC2JUEy2aAkbLLmhiVdMnsJotKYUbz2Sde4VQUXHi6ddQ9sLNfHl0GZeWetHEa4up/BPbsDL1QwehiEPCSE7sLhm12Sk3qSsL5qh5fsO2jpMj+680adEfD7QIru4ijrrFnzmfDJELAfGOvY=;/RjH84w55nwu1ULQ/nwUUg=="
 ---
 

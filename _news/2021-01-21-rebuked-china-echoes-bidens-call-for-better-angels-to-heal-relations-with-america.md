@@ -1937,6 +1937,22 @@ related:
         width: 2500
         height: 1659
         isCached: true
+  - title: "GOP's post-Trump rift laid bare, Biden debates sending us all masks and Golden Globe snubs"
+    excerpt: "The Democratic-led House is expected to vote Thursday on whether to strip embattled Rep. Marjorie Taylor Greene of her committee assignments."
+    publishedDateTime: 2021-02-04T14:45:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/gop-s-post-trump-rift-laid-bare-biden-debates-sending-n1256699"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256699"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256699"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 140
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_05/3447561/210204-marjorie_taylor_greene-mc-1257_1ed18066573d65ccac221e6751a5ec39.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "A Trump trial signal, more vaccines on the way and a tense start to the Biden-Putin relationship"
     excerpt: "All but five Senate Republicans voted against moving forward with former President Donald Trump's impeachment trial on Tuesday."
     publishedDateTime: 2021-01-27T13:42:00Z

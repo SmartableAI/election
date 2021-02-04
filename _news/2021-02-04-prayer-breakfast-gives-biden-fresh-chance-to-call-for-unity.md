@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Prayer breakfast gives Biden fresh chance to call for unity"
-excerpt: "President Joe Biden is expected to address the National Prayer Breakfast, a Washington tradition that calls on political combatants to set aside their differences for one morning"
-publishedDateTime: 2021-02-04T05:17:00Z
-originalUrl: "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html"
-webUrl: "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html?outputType=amp"
+excerpt: "President Joe Biden is expected to address the National Prayer Breakfast, a Washington tradition that calls on political combatants to set aside their differences for one morning."
+publishedDateTime: 2021-02-04T05:39:00Z
+originalUrl: "https://www.businessinsider.com/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity-2021-2"
+webUrl: "https://www.businessinsider.com/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity-2021-2"
+ampWebUrl: "https://www.businessinsider.com/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity-2021-2?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Biden pauses Trump policies as Blinken takes diplomatic helm"
@@ -1536,6 +1530,6 @@ related:
         height: 649
         isCached: true
 
-secured: "EmoD5ckH8yH+PUedtRoP7cJIT5afXqzKOTkYsFN11X9uH42A7YwgRUPULsX3UaBWzzC2nPfGBMoiNyq5vY7IDi0d0JqCs50nWU9o47CvnZsYZWHH7ANu6YJiPlIPbu9lyaQgyy0qNkpKDSEPrAt062KaY2NeCVx0oB4wXH9VOw7oTxMybS0H2k32gVvGQn7t4fu4GRqH6fYqSmTurT+cjNvI1ttrI5Pw6cmbR/eBM55DEg1BGtkU8gwlsFPSD5jTJMpdVT9KGmf8SNmhiK5Im4XErUC2w30bR5cogVqy+9paJx091tD8zL6emsf2/jRFrIM/JszNBbt/CUfRggx68Ikb7fn6+2Vkhkt1B7s3VIE=;2E6c4rOEdRMsH9OS8YlvEg=="
+secured: "k7tHdXCfAWVFC9IydY+Mp6ztUOFoPbyK7OrQNXjo6CAvJNEPFXIwVboQl77NBuHxwcn4N0rRJ8Bpu2frcfvZEMMjG7cpHDf5nDE8gukRSLkWxt6H9B71e4900rkuR4ukYJQTzxC6Mh9JJZt27s+Sv2M5c45xm6wmGblnNwWQTc1ntTQTOGYyhiEjTpYYDoY1FKikHtt99T1C/jEhgj3q8VH5EpxLyOW18lTej6pDpp7kTaIu84T7I0hzd8DYbfPu35h3949QAfoEruGJS5lnaOCOeEhonpi881Np2NXK5OxEn64hj8eiq/XJHoRng7J6yY0g4MjqSaiUHPxjbDWedA1p7puvuYapemKT08eZ/lw=;ncbp+CXpcSljF/JS8NDRYw=="
 ---
 

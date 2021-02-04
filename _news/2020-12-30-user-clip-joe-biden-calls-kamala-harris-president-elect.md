@@ -409,6 +409,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden Approval Rating Is Below 50%, Only 45% Find Kamala Harris 'Favorable'"
+    excerpt: "A majority, or 56%, of the poll’s 1,075 respondents say they believe Biden is taking steps toward uniting the country."
+    publishedDateTime: 2021-02-04T00:26:00Z
+    webUrl: "https://www.ibtimes.com/biden-approval-rating-below-50-only-45-find-kamala-harris-favorable-3137156"
+    ampWebUrl: "https://www.ibtimes.com/biden-approval-rating-below-50-only-45-find-kamala-harris-favorable-3137156?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/biden-approval-rating-below-50-only-45-find-kamala-harris-favorable-3137156?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 88
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/us-president-joe-biden-speaking-before-signing-executive.jpg"
+        width: 1024
+        height: 691
+        isCached: true
   - title: "Joe Biden basing Kamala Harris relationship on Obama model | Charlotte Observer"
     excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
     publishedDateTime: 2021-01-29T16:52:00Z

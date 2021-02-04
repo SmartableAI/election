@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Special Report: Stolen election? Republican lawmakers paralyzed by Trump's false fraud claims"
+title: "Special Report: Stolen Election? Republican Lawmakers Paralyzed by Trump's False Fraud Claims"
 excerpt: "U.S. Capitol, 147 Republican lawmakers voted the way then-president Donald Trump and the rioters had demanded - to overturn his election loss, after months of Trump’s baseless claims that the election had been stolen."
-publishedDateTime: 2021-02-04T11:25:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-lawmakers-special-report-idUSKBN2A41CP"
-webUrl: "https://www.reuters.com/article/us-usa-trump-lawmakers-special-report-idUSKBN2A41CP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A41CP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A41CP"
+publishedDateTime: 2021-02-04T11:18:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-02-04/special-report-stolen-election-republican-lawmakers-paralyzed-by-trumps-false-fraud-claims"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-04/special-report-stolen-election-republican-lawmakers-paralyzed-by-trumps-false-fraud-claims"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-04/special-report-stolen-election-republican-lawmakers-paralyzed-by-trumps-false-fraud-claims?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-04/special-report-stolen-election-republican-lawmakers-paralyzed-by-trumps-false-fraud-claims?context=amp"
 type: article
-quality: 129
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550309733&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH130SS"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "Trump uses impeachment response to vent about election defeat"
@@ -2208,6 +2202,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "pO9aS2/7I16V/J9rP00Y3+92XoXzRR2FbdcqLJIYew56Spe0n25DaMv30UtxCud+rGWZqZfpG0zNmUkGN3UQUql2+wjjsmfkH498xFDKeIT3ehODdR2UIWiMDaYP9hejnXrZ0a3cUwIdxmZP4zIe+XvpJmu3InXrUlGyho3DsYBe6mo7zAXZnHNOcWnfFRIiX5Xk/+XFYz8T/AIO3ZDz39euFjV+9YSQTB8l3kkcgIt8jkPiTxQgTmUViBKOzivA0vO9g2hczeqzZNkTKlDbgzNplE43sRiGQOAeDK3pw9C5hvVEF1ivYzEx67P1omj/jpT9FQ4JN3rce0TgLYN4i/2iMZ9i/VxzBM41Mbeq3rc=;xRy3bf+E4zSJPuIWDPs2Eg=="
+secured: "2moh7jnt1K1R2PzNZPWFF352rGIDtqswec/y+sS2qZmNrYe1nWzWKxrzf2vbjPJLkpPHpcWLfQIspDJKT/2aXpDxKiyK2jOsL8X3AOYuPcUnXp2NQSl5fraFamg3+zcjLIPBh2wR4qe3YLFspNRgI9qXkD80HQPV7u9Nq+zN85AgqADZEsEQD7ksVkIqy3MnUIr4ajKwk2v6aKrD34ZYoaN9zQZfpmX7ezHyL/dLWmsSqHtg7Eti+I4pQ0b6ivesjekfG2T5W9R2UwkJbkvouDsZcxSaQfgJQB97Kol12+NZmIGnDtKlapfo96ltqtI5tGAO/1tMdg37ybPimbShVMlGX5eYQKj5dj9Wl7+FYGyHD1Bqpt8kLJin7bX5ikcMa/TCZraRXF+12q8s/s8Q56feNTHL5e4G5Kyj/lZyMqtQsXP5iv3wKthqxhGEEngWkRhw69qdVLQIWva+Z2ocZZY9hr45+zHI2Rm0TBxv7mbWVwvxNeFfzq+ZRy276q0XZ4+pGw1GQPvx4qPivtb8/g==;mQ2T6EePdTp0PCDgArmSxA=="
 ---
 
