@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-impeachment-republicans-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
 type: article
 quality: 175
-heat: 655
+heat: 675
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c82de6-c14d-4137-89d3-071d65d22423/e9007209-f228-4dbe-a90e-c50c3ef80488/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "No apology from Cheney during House GOP showdown over her Trump impeachment vote"
+    excerpt: "No apology from Liz Cheney during House GOP showdown over her Trump impeachment vote"
+    publishedDateTime: 2021-02-04T00:03:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0ymL9ljm4I/no-apology-from-cheney-during-house-gop-showdown-over-her-trump-impeachment-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/no-apology-from-cheney-during-house-gop-showdown-over-her-trump-impeachment-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-apology-from-cheney-during-house-gop-showdown-over-her-trump-impeachment-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Alaska's Murkowski pledges to stay with Senate Republicans despite issues with Trump"
     excerpt: "Moderate GOP Sen. Lisa Murkowski has been very vocal for years that she’s no fan of Donald Trump’s takeover of the Republican Party."

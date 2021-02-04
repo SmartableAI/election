@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inaugura
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
 type: article
 quality: 125
-heat: 705
+heat: 725
 published: true
 
 provider:
@@ -141,6 +141,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549878405&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101NY"
         width: 819
+        height: 545
+        isCached: true
+  - title: "Biden tells Democrats he would consider limits on who gets COVID-19 checks"
+    excerpt: "President Joe Biden told congressional Democrats on Wednesday he would not back down on including $1,400 checks for struggling Americans in his COVID-19 relief plan but would consider tighter limits on who gets them,"
+    publishedDateTime: 2021-02-04T00:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A322X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A322X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A322X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550246455&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1222D"
+        width: 809
         height: 545
         isCached: true
   - title: "Leaders of United, West Monroe Partners, Sidley and Edelman join call for Congress to certify Joe Biden’s election"

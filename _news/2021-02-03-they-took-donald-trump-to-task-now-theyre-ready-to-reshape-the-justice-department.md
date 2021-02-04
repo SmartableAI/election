@@ -783,6 +783,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Takeaways from legal filings for Trump's impeachment trial"
+    excerpt: "Legal briefs filed in the impeachment case against former President Donald Trump lay out radically different positions ahead of next week’s Senate trial"
+    publishedDateTime: 2021-02-03T21:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75667288"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75667288"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75667288"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1d511239c2524999a8bcea05fb26b7e6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "YouTube ban: Google extends suspension of former President Trump's channel"
     excerpt: "YouTube is maintaining its suspension of former President Trump's channel on the video site. Rudy Giuliani's channel also had its revenue nixed."
     publishedDateTime: 2021-01-27T07:16:00Z
@@ -2144,17 +2160,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Takeaways From Legal Filings for Trump's Impeachment Trial"
-    excerpt: "Legal briefs filed in the impeachment case against former President Donald Trump lay out radically different positions ahead of next week’s Senate trial."
-    publishedDateTime: 2021-02-03T21:20:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-03/takeaways-from-legal-filings-for-trumps-impeachment-trial"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-03/takeaways-from-legal-filings-for-trumps-impeachment-trial?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-03/takeaways-from-legal-filings-for-trumps-impeachment-trial?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Pro-Trump Lawyer Lin Wood Puts License in Jeopardy by Refusing Mental Health Evaluation"
     excerpt: "L. Lin Wood, a lawyer who played a role in former President Donald Trump's attempts to overturn his election defeat, put his law license in jeopardy on Friday by saying on social media that he would not undergo a mental health evaluation requested by an attorney licensing body."
     publishedDateTime: 2021-01-30T01:40:00Z
@@ -2176,6 +2181,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "lOih2SvfMRY5hoYgvZtC+lifyjVR9Guh34PQfm/5bLEvQNFgCAyPm8r+qMms1e/1kr+hzV1iHo6rXUABdQ+S0gn/9qt/I8BJnzJ61nxXL+SDtUbSPZbW1IOzVnv1qLOB+n0AoYw+xzaNjqunQAAiA7HZyQ7yRmLS3jNxJNG6b1kpCjn1pXTC8i+rZaiI08cqyQMF1fxn2W9t0e3Ooh+bK5LkfAAML6r7V2pal7qLeno7fKg90zjNgQBSY5x5RFNLRDgXpjgYO/DdEgFfHMYKpmyODuikzaVopFKSjd3oNzIRZ0bVPpbgtcVV2zHgE20sNvmDFF9fh+1JDgukENxz9b86jFad6rDOTAJ5aaCR29E=;4keryBd182hoLJuIWFuV9w=="
+secured: "jwDptH+jpyvDIslUhuDhEdqInZ0y+8MylKpVJNidHKburWEIMu/RyfYuW8+84wXq+MJJXo+cwsjp6HkBftqbQufJFWmG7sFwmQnzQ+nQ0Bq2acS6qA2jLa/vt9lMcvg5gl7d0ojo9UpxsoKQWeMUeDe7/k6LNO2nOP5yflDaIetfgWVC5UNTlVVWNVC33B2Pmzhk4of6HDgQwb6EXqfNlNCf53rn0d10NaVhoNEyJhBYQxCB/v2K7v0PXZfctJk95kKPItHsFS86noUvENWj8N45y7f727o2MhiU8lJq2RT5BmIbBHdn92fiafAE1aMUmHEMLW7I2lClLTespCMHgaCVm9s3Tmk5tnEkNTaGYXa5nMX2eNrqHSkc+x4Jxd2bCdIYNxU0Tyj73N3GP3LvE3t0qlUsUWgOHwBc6LXHnEZ4dOZMf/SGIfR838nvtGSVGn5yQrAzyqvfnAn9UxbslwGPOf6nbUD1rrVyHIQCLUXDfj9NZPqqNmIl2ix4wGY2/RBDFDws/JnTKUaeGN1QWg==;cXBaUFpmTEqGvEHqcdnbGg=="
 ---
 

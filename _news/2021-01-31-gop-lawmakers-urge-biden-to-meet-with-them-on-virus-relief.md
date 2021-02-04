@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 965
         isCached: true
+  - title: "House vote unlocks partisan path for Biden coronavirus relief bill"
+    excerpt: "House Democrats voted Wednesday to set the stage for party-line approval of President Biden’s $1.9 trillion coronavirus relief bill, heeding the president’s calls for swift action on his first big agenda item -- but without the bipartisan unity he promised."
+    publishedDateTime: 2021-02-03T23:03:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/02/03/house-coronavirus-relief-budget-bill/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/02/03/house-coronavirus-relief-budget-bill/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/02/03/house-coronavirus-relief-budget-bill/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VWCKHNTGIMI6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Coronavirus live news: Biden receives vaccine as House passes US aid bill"
     excerpt: "UK warned to expect further restrictions; intensive care beds full in southern California; Denmark bans mink farms for a year"
     publishedDateTime: 2020-12-22T04:00:00Z

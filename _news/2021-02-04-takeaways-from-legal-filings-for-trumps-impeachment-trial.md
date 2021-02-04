@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Takeaways From Legal Filings for Trump's Impeachment Trial"
-excerpt: "Legal briefs filed in the impeachment case against former President Donald Trump lay out radically different positions ahead of next week’s Senate trial."
-publishedDateTime: 2021-02-03T21:20:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-03/takeaways-from-legal-filings-for-trumps-impeachment-trial"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-02-03/takeaways-from-legal-filings-for-trumps-impeachment-trial"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-03/takeaways-from-legal-filings-for-trumps-impeachment-trial?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-03/takeaways-from-legal-filings-for-trumps-impeachment-trial?context=amp"
+title: "Takeaways from legal filings for Trump's impeachment trial"
+excerpt: "Legal briefs filed in the impeachment case against former President Donald Trump lay out radically different positions ahead of next week’s Senate trial"
+publishedDateTime: 2021-02-03T21:43:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75667288"
+webUrl: "https://abcnews.go.com/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75667288"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75667288"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75667288"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_1d511239c2524999a8bcea05fb26b7e6_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Trump uses impeachment response to vent about election defeat"
@@ -2175,6 +2181,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "xMHUHshjnRBzWmJFZurZPWfFmk/tLZ3I4uoMw30rmAy+rqG+AVfibYakxkFGHHqxbNlMlZNIICOfLNmQvBVb5z0c3OvUiWC7/LQ8v7XkZSlJ86eI1r6HwRDsi4e0mJkWqHgdm75oL28XRd9Zba7+ain71he039KFtaIFyOzSeet6bNR6/l8456k2WL/ZKGEo5RYArNUv8WLSsBZtnn/6srw7A/7lRMde5n41hxmYAvANZi0xks4p9xWVHlRz7XIcwSLyLw5qmzTLjxIy35lVh9xRWYkP6D6NdRiYc9iD8Lc66L0vxLgnLomf9+P/lkS7EndmfmrqgsDitZVDMSXUSQWNB2NQVaT8pPY/JsTVoChqa+MCH8D9r4LA3syVckesqB63kdp+BD55ou7vNZUnOFWj7bvS2On1HwBSYL3o+mOA2olmcAL1BRv9M39JhE2KpHPmOCqOddrUDfS2ltmLzeL9DSGl95j7l2h6WGZcKlJZ5vPgE+OhU9KB/U04gHTDLNu3JKmO3yURU3dMURssoQ==;V3poLQqwoJO0+Tr33ZKoqw=="
+secured: "5zFwPitx2GSnUgL38WG9B5DW+TB44TPAFrMbhtTB0jw/okswlGEjYM2UbfA8fILYlVlAanVWZnRzbSX0VQ4/Nt23zXypnw3Iq6hWTPQDXiCSsmMwWWSfv0OSfNI/lk1VdhEXJjPnQdGRIaIdaAr2vOZ+C/Bmx95I/Wpip4lFsrHqoeE10N9frLMOqG7a/5w2doqLPGJFcBsFYia3h26IMiGHTrgNW6tP3iwy/dvUuWiUUuMP2cevL/zrky4qnve3764PkiRfCc/ae0hFaHV5KQkFfw5qAALK8Xn+k4OsDv10te4bSCOBgjwY/LtXM5dnXr0I2RLBk30/E78ueCTkux15Qo5HVpw3WvRcxN4NoNg=;PotfiYCM9K3F3wvNebo3iQ=="
 ---
 

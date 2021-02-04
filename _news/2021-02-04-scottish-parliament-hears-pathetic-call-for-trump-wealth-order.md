@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Scottish Parliament Hears 'Pathetic' Call for Trump Wealth Order"
-excerpt: "The Scottish Green Party said ministers should seek an \"unexplained wealth order\" (UWOs) against Trump over his acquisition of the golf courses and resorts in north and west Scotland. In a debate his party called on the issue,"
-publishedDateTime: 2021-02-03T18:44:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2021-02-03/scottish-parliament-hears-pathetic-call-for-trump-wealth-order"
-webUrl: "https://www.usnews.com/news/world/articles/2021-02-03/scottish-parliament-hears-pathetic-call-for-trump-wealth-order"
-ampWebUrl: "https://www.usnews.com/news/world/articles/2021-02-03/scottish-parliament-hears-pathetic-call-for-trump-wealth-order?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-02-03/scottish-parliament-hears-pathetic-call-for-trump-wealth-order?context=amp"
+title: "Scottish parliament hears 'pathetic' call for Trump wealth order"
+excerpt: "The Scottish government should hold an investigation into how Donald Trump funded his purchase of two golf courses in Scotland, the country's parliament was told on Wednesday, a call one of the former U."
+publishedDateTime: 2021-02-03T23:58:00Z
+originalUrl: "https://www.reuters.com/article/uk-scotland-usa-trump-idUSKBN2A32UD"
+webUrl: "https://www.reuters.com/article/uk-scotland-usa-trump-idUSKBN2A32UD"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A32UD"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A32UD"
 type: article
-quality: 55
-heat: 55
-published: false
+quality: 125
+heat: 125
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,6 +24,12 @@ topics:
   - Election
   - Donald Trump
 
-secured: "1vnSy3qpZblW7WsunCtLep3819e4A31s/3smTG09Td247W9MciP1G2PjHGT5lTGJCzqOq9PSCp/6/tj5gNlL7sfhzoOCDGEXjD4/AQGQ5YKtoc82wKzTDOeT32dvMBWMMORLzqqC2yPhDQ/z3B5p3YfbkZbj9mQvfHO8MdHrGmCuaoOYrM9fcw2eKLTirqNYMk72YwWuNaxBG4SR3U7X1dmFLKQCmf7fM9c3GzpOzWKjq3NgM9A81W25PNtGSFCgHKYowPH6wUR6H368XZR2/ud6FpXqL0BLyC4OOy+3iWUKx0SYG4rT2Kq3IZDTOv2Oo9Niu3VHnJ14niVuhC8AMvXG3LXtnmjnEAE5Nr5c4CKA/OLMj5Q6Gzi8tjWtjECwegapwp+BLPXYRV+fGRDm5Xb3NnLnc4SJ/L8ksC5s3dyLN9hK4NUDRQCA0apFTzzMlUMq+dNo2NeWklBKHgqj5VbIkrJ3Bmw1H9/0Zc40DT/VBNEzY/bxCzwI0dJCxmypGbBFn7+AfM5F6A9mbc+n/w==;uVtuM7Nb8ZCZIvMzlN9ZyA=="
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550209870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121Q4"
+    width: 908
+    height: 545
+    isCached: true
+
+secured: "fEnEad7pS5V8h+l8fD6+V0k/XoqI0gfM63wTrmg3wjxAxL5CBsxkn1KFCZ8H8Yh+/M1jlweQzsbV0t3bmV28QxhqOClQ93rE6y44/2tSplb6LSfXKYpKU3Flh9nEs5B6tGiG2SSbIREZ3IdN8xEHFD8j7+YR8iMFhnx4cEdGfTlzba8VtM+hk7aHkjF0B3QUFSzYI3pRbs9MjGOgQ/OBmGLA0gsWa1if5fDEQLSz8uA7gaTjbUdX/bWsSvu0jhMs+KYWMvSvSOsJO6RqDpcatWJOq+EiYpK/9crw8JLsnuuXOquqUUYFeTudVssSQEJYFY0AepYcfA+BRa0mh39I2lbsCO9nab7FYBRr/nff0hM=;79/xhmnzyinjQD0w9N3D+w=="
 ---
 

@@ -777,6 +777,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Takeaways from legal filings for Trump's impeachment trial"
+    excerpt: "Legal briefs filed in the impeachment case against former President Donald Trump lay out radically different positions ahead of next week’s Senate trial"
+    publishedDateTime: 2021-02-03T21:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75667288"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75667288"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75667288"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1d511239c2524999a8bcea05fb26b7e6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "YouTube ban: Google extends suspension of former President Trump's channel"
     excerpt: "YouTube is maintaining its suspension of former President Trump's channel on the video site. Rudy Giuliani's channel also had its revenue nixed."
     publishedDateTime: 2021-01-27T07:16:00Z
@@ -2154,17 +2170,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Takeaways From Legal Filings for Trump's Impeachment Trial"
-    excerpt: "Legal briefs filed in the impeachment case against former President Donald Trump lay out radically different positions ahead of next week’s Senate trial."
-    publishedDateTime: 2021-02-03T21:20:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-03/takeaways-from-legal-filings-for-trumps-impeachment-trial"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-03/takeaways-from-legal-filings-for-trumps-impeachment-trial?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-03/takeaways-from-legal-filings-for-trumps-impeachment-trial?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Louisiana's Cassidy and Kennedy Diverge on Trump Impeachment"
     excerpt: "Louisiana’s two Republican U.S. senators are taking different approaches to the second impeachment trial against former President Donald Trump."
     publishedDateTime: 2021-01-26T22:54:00Z

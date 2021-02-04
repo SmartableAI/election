@@ -157,6 +157,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "No apology from Cheney during House GOP showdown over her Trump impeachment vote"
+    excerpt: "No apology from Liz Cheney during House GOP showdown over her Trump impeachment vote"
+    publishedDateTime: 2021-02-04T00:03:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0ymL9ljm4I/no-apology-from-cheney-during-house-gop-showdown-over-her-trump-impeachment-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/no-apology-from-cheney-during-house-gop-showdown-over-her-trump-impeachment-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-apology-from-cheney-during-house-gop-showdown-over-her-trump-impeachment-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Alaska's Murkowski pledges to stay with Senate Republicans despite issues with Trump"
     excerpt: "Moderate GOP Sen. Lisa Murkowski has been very vocal for years that she’s no fan of Donald Trump’s takeover of the Republican Party."
     publishedDateTime: 2021-01-22T21:51:02Z

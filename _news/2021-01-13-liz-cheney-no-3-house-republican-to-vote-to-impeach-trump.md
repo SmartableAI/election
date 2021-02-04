@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Cheney refuses to apologize for voting to impeach Trump during closed-door GOP meeting"
+    excerpt: "Rep. Liz Cheney was among the 10 House Republicans who voted in favor of the article of impeachment against Trump for inciting the Jan.6 insurrection at the Capitol."
+    publishedDateTime: 2021-02-04T00:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/cheney-refuses-apologize-voting-impeach-trump-during-closed-door-gop-n1256670"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256670"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256670"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_05/3447436/210203-liz-cheney-ac-609p_41d77b6887f9aa1a433b3d0127783cfe.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "60sZfYg1ej5xJQHDBS20AawtWbIXFN6lM/EQBi4WLQAnz971LjSk3UFNzfrBAulWEUDtel4RYhMKu5doCcKCw5GLtaN+Q/vqiUoT2xcyIMkrkCssjHccAOC8o0SXx/JL6V9toqFV81eDdb0Nx4IZfSZrKmh4DJKEyeXj0YJl7jQtGOEBsRCbJBqAksIdgf21CNFky/XS638647Tain7asqscMrMWiMHG3x0DA657koc6V7sZGfz490pdV1W/2ef48GVghva5iWL4SA6KVybYxYiIa2P8Eee5fzgjGzFDT5VZTu+vKy33yvLY3hl/jyjd87URSPko+hrcHEicxceprjxkWoDIfpygPuRvEoxfA8Y=;G7E7odFNwN6qfkglx/FvlA=="

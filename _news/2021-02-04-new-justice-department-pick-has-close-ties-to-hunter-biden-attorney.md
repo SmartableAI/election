@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's EPA pick says U.S. can't 'regulate our way out of every problem'"
+    excerpt: "President Biden’s pick to head the Environmental Protection Agency (EPA), Michael Regan, tried to assure Republicans their concerns of job loss would be heard under his leadership. "
+    publishedDateTime: 2021-02-04T00:57:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaioKibHW-E/bidens-epa-pick-u-s-cant-regulate-every-problem"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-epa-pick-u-s-cant-regulate-every-problem.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-epa-pick-u-s-cant-regulate-every-problem.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/regan.jpeg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Biden's Department of Homeland Sleaze Chief"
     excerpt: "Everything old is new again. The corruptocracy of the Obama administration is back with a vengeance in the White House. Once more, the"
     publishedDateTime: 2021-02-03T10:36:00Z

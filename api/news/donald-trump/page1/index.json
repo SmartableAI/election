@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-04-scottish-parliament-hears-pathetic-call-for-trump-wealth-order.md",
+      "title": "Scottish parliament hears 'pathetic' call for Trump wealth order",
+      "excerpt": "The Scottish government should hold an investigation into how Donald Trump funded his purchase of two golf courses in Scotland, the country's parliament was told on Wednesday, a call one of the former U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-scotland-usa-trump-idUSKBN2A32UD",
+      "originalUrl": "https://www.reuters.com/article/uk-scotland-usa-trump-idUSKBN2A32UD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550209870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121Q4",
+          "width": 908,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A32UD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A32UD",
+      "publishedDateTime": "2021-02-03T15:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-biden-signs-immigration-executive-orders-to-address-moral-failing-of-trumps-policies.md",
       "title": "Biden signs immigration executive orders to address 'moral failing' of Trump's policies",
       "excerpt": "One executive order will create a task force to reunite children who were separated from their parents under Trump's \"zero tolerance\" policy.",
@@ -1491,58 +1543,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/national-security/douglass-mackey-ricky-vaughn-donald-trump-hillary-clinton/2021/01/27/78a37940-60c8-11eb-afbe-9a11a127d146_story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/douglass-mackey-ricky-vaughn-donald-trump-hillary-clinton/2021/01/27/78a37940-60c8-11eb-afbe-9a11a127d146_story.html?outputType=amp",
       "publishedDateTime": "2021-01-27T21:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-report-israeli-settler-population-surged-during-trump-era.md",
-      "title": "Report: Israeli settler population surged during Trump era",
-      "excerpt": "A pro-settler group says Israel’s West Bank settler population has grown at a far higher rate than the country as a whole over the last four years",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-27T02:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

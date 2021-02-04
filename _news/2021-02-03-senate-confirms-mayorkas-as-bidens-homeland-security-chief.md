@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/senate-confirms-mayorkas-as-bidens-h
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-confirms-mayorkas-as-bidens-homeland-security-chief-2021-2?amp"
 type: article
 quality: 105
-heat: -1
-published: false
+heat: 125
+published: true
 
 provider:
   name: Business Insider
@@ -25,22 +25,15 @@ topics:
   - Joe Biden
 
 related:
-  - title: "As Biden vows monumental action on climate change, a fight with the fossil fuel industry has only begun"
-    excerpt: "President Biden is determined to curb America's carbon output, including oil and gas production. It's not going to come without a fight."
-    publishedDateTime: 2021-01-28T05:50:00Z
-    webUrl: "https://www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/"
-    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/27/biden-climate-change/?outputType=amp"
+  - title: "Senate hearing to consider Alejandro Mayorkas as Biden's head of DHS"
+    excerpt: "The Senate Homeland Security Committee meets to consider Alejandro Mayorkas' nomination as Secretary of Department of Homeland Security for President-elect Joe Biden's administration."
+    publishedDateTime: 2021-01-19T19:45:00Z
+    webUrl: "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5CCJ6GSAVMI6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
+    quality: 85
 
 secured: "TFu4207Yaqtc8Rib/YiyJEgO3eyQn4N6n+sjC7O0iE2ZgXSvgmFZYEON4kolvfv0ugnKpC2WLd1BIRLetO2+gVm99BSzCgEDbYnS37iBHgKA9c+55GYvReeKnWNqnt4Fo9CiDVmAFrCf+HjN3xCmG7Hl+S7GQ6HK9FvklXfjmD8shin7QPLGdtSwN7Yt/yqD5Srp7YkvBDTSgYrFfl/dL58EAKH1zdiOQUmfueZT05bCijLHtI5ZimWt2rm9quDs++7HMPa1EpuAH0JkBE4YRftk7deXhm/9swXtIseZzALXXY59AzTAt8mditBd2F3xcgKK3QGr2hx907y5MXkH6m+7X2AHG627izd2O8OUyEU=;P/9qjP4w5ziS75bKwdlmtQ=="
 ---

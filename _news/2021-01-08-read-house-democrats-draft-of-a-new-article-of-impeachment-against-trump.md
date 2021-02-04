@@ -223,6 +223,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Cheney refuses to apologize for voting to impeach Trump during closed-door GOP meeting"
+    excerpt: "Rep. Liz Cheney was among the 10 House Republicans who voted in favor of the article of impeachment against Trump for inciting the Jan.6 insurrection at the Capitol."
+    publishedDateTime: 2021-02-04T00:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/cheney-refuses-apologize-voting-impeach-trump-during-closed-door-gop-n1256670"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256670"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256670"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_05/3447436/210203-liz-cheney-ac-609p_41d77b6887f9aa1a433b3d0127783cfe.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "+/B/eBnU5LUP28KgNg4FGsswSU7zPJtokclH8LUf6JoA8VzEJmpuvzQnlt6+00LPq5sKe1WQUIt25tniAafxD6/vpFYwJBQB5viFmcprfP2Rvbf31oBH3+JxoPsBl2UdzuUEaXs8eqY9dSpAMOUBKYe8K/OFxBJYkuMNF1Q+M3g1gb2YVx2ZQWqNP4+qbMnIgOdRxwElwfRoc53eTXNupP6g7gTOfWZKiZcOtARNHH+Cj5IfiN1kBeR79Dz69sDGdlK6zgt94Xk74/5oYqq6gwfXeQlIOQ5tWHWvjJHI5/2aA2Tly6V7rV8unPXN7sMiw7MFhyuA2kIDTBEsqYxZL4/LuCuiQyvJIkMv90fevVU=;NwQXBU1/anf73sshHx7J5Q=="
 ---

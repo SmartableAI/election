@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-energy-climate-swat-team-take
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-energy-climate-swat-team-take-out-jobs-cassidy.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a49a324-5f30-4b69-97c2-9d9175f94a48/3d8f7535-62b6-4e2b-b2bf-51ba9ec2f29b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden's EPA pick says U.S. can't 'regulate our way out of every problem'"
+    excerpt: "President Biden’s pick to head the Environmental Protection Agency (EPA), Michael Regan, tried to assure Republicans their concerns of job loss would be heard under his leadership. "
+    publishedDateTime: 2021-02-04T00:57:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaioKibHW-E/bidens-epa-pick-u-s-cant-regulate-every-problem"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-epa-pick-u-s-cant-regulate-every-problem.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-epa-pick-u-s-cant-regulate-every-problem.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/regan.jpeg"
+        width: 1000
+        height: 666
         isCached: true
   - title: "New Justice Department pick has close ties to Hunter Biden attorney"
     excerpt: "It doesn't seem to matter to this new radical extreme Democratic Party, and Mr. Unity is not weighing in. They will never miss an opportunity to try to politically bludgeon Donald Trump. They will do anything to prevent him from running again in 2024."

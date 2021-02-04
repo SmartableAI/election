@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden is expected to announce increase in amount of refugees admitted into US"
+    excerpt: "The Biden administration plans to announce on Thursday that it will increase the number of refugees who can come to the United States, a move toward building up refugee admissions after years of historic low arrivals under former President Donald Trump, according to two sources familiar with the plans.\n"
+    publishedDateTime: 2021-02-04T00:16:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X9k9JiHjBmc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/biden-refugee-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/biden-refugee-announcement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'It's frustrating': Thousands of migrants sit in Mexico desperate for answers from the Biden administration"
     excerpt: "Within the span of a year and a half, a Cuban couple living on the US-Mexico border were repeatedly threatened, attacked and lost a baby after being assaulted, as they waited for their next immigration court date in the United States under a Trump-era policy.\n    \n"
     publishedDateTime: 2021-01-28T21:09:03Z
@@ -94,6 +110,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3445907/210128-central-valley-modified-correctional-facility-geo-group-exterior-2019-ac-1023p_aaedf1a26689356ce88b2c83acaacee0.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "9-year-old boy begs Biden administration to stop his father's deportation to Guatemala"
+    excerpt: "\"They're choosing to keep a parent and child separated that they had already separated before and traumatized,\" said the attorney for Fernando Ochoa's dad."
+    publishedDateTime: 2021-02-04T00:05:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/9-year-old-boy-begs-biden-administration-stop-his-father-n1256640"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256640"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256640"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_05/3447378/210203-2x1-ubaldo-ochoa-lopez-ew-155p_d44262e2038a7807bc23a982a47c2d73.jpg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "CP/rPYxzze8BQEfmZf22IxuXPytnou7JYbjuTIW9Xt3LVHjG7zX5h52u81rVP21t2yC6lCxdBpijFAHZNH/XOM3Ffem2M7xYdeaJy1+ge7ti8t5kpaTUlcmfUrmkpf3CJo8dJpWYUvSBDgoYNLr6nEBtTXPsb8kaUFikCkhKMNSwVfLXwLYHHfuODBj505cuZ8fmzA1UJ9JZ9UaWTHP9/yIWZanqJjTUuJOZ2J4pvYXUNwJOQCRvp0oSIDctBXko35NBooolcPtd4zSDNBJI9H9NJwWZRIq55hzN291i7Cs/G46GwhVW1JKRbwXA4KDGnapFhYIl8OrGbikx7LmNWzfoaWkccH29kftLkoZ6nQk=;lPpupDGXOYcnxNUaWoIfng=="

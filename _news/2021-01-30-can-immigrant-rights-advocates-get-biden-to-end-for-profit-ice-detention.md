@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden is expected to announce increase in amount of refugees admitted into US"
+    excerpt: "The Biden administration plans to announce on Thursday that it will increase the number of refugees who can come to the United States, a move toward building up refugee admissions after years of historic low arrivals under former President Donald Trump, according to two sources familiar with the plans.\n"
+    publishedDateTime: 2021-02-04T00:16:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X9k9JiHjBmc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/biden-refugee-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/biden-refugee-announcement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration takes cautious approach as it touts using Defense Production Act"
     excerpt: "The Biden administration has repeatedly touted its plans to aggressively use the Defense Production Act as it combats the coronavirus pandemic, but behind the scenes, a slower, more painstaking effort is underway.\n    \n"
     publishedDateTime: 2021-01-27T23:34:13Z
@@ -95,6 +111,22 @@ related:
       - url: "https://static.politico.com/df/45/bc1dfde84d87ac4f1faf5cb8a5b1/gettyimages-1299740192-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "9-year-old boy begs Biden administration to stop his father's deportation to Guatemala"
+    excerpt: "\"They're choosing to keep a parent and child separated that they had already separated before and traumatized,\" said the attorney for Fernando Ochoa's dad."
+    publishedDateTime: 2021-02-04T00:05:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/9-year-old-boy-begs-biden-administration-stop-his-father-n1256640"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256640"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256640"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_05/3447378/210203-2x1-ubaldo-ochoa-lopez-ew-155p_d44262e2038a7807bc23a982a47c2d73.jpg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "lAWH5s7BfpEEbEQGpt5BdpJQnC+TgG/bplKpgrgStXNQ/DZvA1eaUeP2iYpzTVxRgm9PFgZCd8aLAMkYxq3hMmd9XHcbzNJ0lDnwhQ3ESfNTG5uunLZYdeX9T62DbFqrTnzXVaYcVa5s+AR7bFD6SFBRSaB1C3JGSX6IkXIY0xJ7HU19oRj1/gr3WVMO0o/0Ov0z3cASv9fYArObUa1LfyBR+CU5UV99GiitwqCOTdu72cyxYhJtlB5eDVTjWU9gF6RxNRY0k20EO+Wa9L7yvPOPG/I+wUkukUZbe9ZGUGSkc76Xq2/Vaq5IIN3ez6G8yNulQjtpuV+KYOoRNAVRdqNiJPLrk2RNTtfLjGKkbMI=;eFSfSHxGpfjRCnyepnBvwg=="

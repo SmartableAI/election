@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-16-dustin-higgs-becomes-13th-and-final-federal-prisoner-executed-under-trump.md",
+      "title": "Dustin Higgs becomes 13th and final federal prisoner executed under Trump",
+      "excerpt": "Higgs, 48, had been sentenced to death over the killings of three women in Maryland",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/28d4f022ffdec2869fadccc989f853f3ed58c31b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a8d45662da15656a3487f3214818728d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump",
+      "publishedDateTime": "2021-01-15T21:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-ny-prosecutors-interview-michael-cohen-about-trump-finances.md",
       "title": "NY prosecutors interview Michael Cohen about Trump finances",
       "excerpt": "New York prosecutors conducted an hours-long interview Thursday of Michael Cohen, President Donald Trump’s former attorney",
@@ -1513,58 +1565,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-trump-to-honor-belichick-with-presidential-medal-of-freedom.md",
-      "title": "Trump to honor Belichick with Presidential Medal of Freedom",
-      "excerpt": "President Donald Trump will present one of the nation’s highest civilian honors to Bill Belichick, the football coach of the New England Patriots and the only coach to win six Super Bowl titles",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-10T22:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
