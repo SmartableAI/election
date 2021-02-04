@@ -2,19 +2,19 @@
 category: news
 title: "The Kamala Harris-Joe Manchin dust-up explained - and why it matters to the Biden administration"
 excerpt: "Vice President Kamala Harris' media appearances in West Virginia didn't go over well with the state's longtime moderate senator, Joe Manchin."
-publishedDateTime: 2021-02-03T20:23:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2021/02/03/joe-manchin-and-kamala-harris-sparred-over-west-virginia-interviews/4370364001/"
-webUrl: "https://www.freep.com/story/news/politics/2021/02/03/joe-manchin-and-kamala-harris-sparred-over-west-virginia-interviews/4370364001/"
-ampWebUrl: "https://amp.freep.com/amp/4370364001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4370364001"
+publishedDateTime: 2021-02-04T03:29:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/2021/02/03/joe-manchin-and-kamala-harris-sparred-over-west-virginia-interviews/4370364001/"
+webUrl: "https://www.azcentral.com/story/news/politics/2021/02/03/joe-manchin-and-kamala-harris-sparred-over-west-virginia-interviews/4370364001/"
+ampWebUrl: "https://amp.azcentral.com/amp/4370364001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4370364001"
 type: article
 quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -723,16 +723,16 @@ related:
         height: 630
         isCached: true
   - title: "VP Kamala Harris swears in Pete Buttigieg as Secretary of Transportation"
-    excerpt: "United States Vice President Kamela Harris swears in Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington, DC."
+    excerpt: "Pete Buttigieg hugs his husband his husband Chasten after he is sworn in as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington,"
     publishedDateTime: 2021-02-03T15:27:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/f9bbc4f82a87418f9e2d0823a778eb24/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/42f19e08b4e3ce36d02a52e9fa26491c/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/f9bbc4f82a87418f9e2d0823a778eb24/BUTTIGIEG-TRANSPORTATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/42f19e08b4e3ce36d02a52e9fa26491c/BUTTIGIEG-TRANSPORTATION.jpg"
         width: 650
         height: 433
         isCached: true
@@ -794,6 +794,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "CfusHFIjC4PWCC/tRZUVtX1HVa73BoRWiCdGSxaT2XlKlDR6e/MwOr2TFAegE4yn8pvcES4liLkvKyiC4xQCD7trkUmf7/6p+UtCFcJaCAZA1GQ8aS7FcK0Ja0e9C08zqoGQ7/1WRs3dwpQMUX9TdvdOCsONnE28Yot74WwPRzHRjUz/wUEawZDHkzfsyCuRBf6Z8PCGTmmyWf6vnTsIn5hKqdBHtqqBIwIbw2Xrvt6nxD0zw2fxkW6cttsT7YWD0DpLCOGCycidsPJMaMrGJta6b92WiQrsnOFHhffmVeJm77I7HfpFt+GSta/L25vH9mV5n+8lqU5cDajHoIeRqNNlJAPFTXEHdd0C2x7bZ5Y=;VJKvBg+emuG6jdbwB7VaGg=="
+secured: "/NPDAHONGwq7JuN5Fpz3ZAApccyT4QxI7Zn+4HJXdltpX8y1q/zh5x5D0GQnVgoPNy8/np/TS7mYa2WDDxTT3/1Bnfo9qknVlWi4pwEAS/gdGjiELIHm9NS7mGQQx2qserLl0BkdcacXhluvftJNM2shSXh0+h5nTMUmLI/yhhrw7CbXBzr5qYBARBXDeABWRBEavL4Gs8nnd5Bjn8dYlUQbaDjR1ye3QpF0sG5NtVuQVCS9ALN1Q0prt3Tw3+tqVNfpomeJ+Rg2COhAMQdRx9cr8iIo1h68NIsQo6n+XrTRiErztKV1rv1Ogb2AJqUlw2rNxNiC5debnLZWqvzjv7Ai1x6Fd0ol8kzlpXlVtQg=;gQlGMcIGedVRl+497w9mSA=="
 ---
 

@@ -3,26 +3,22 @@ category: news
 title: "What happens to Mike Pence now?"
 excerpt: "Former Vice President Mike Pence was thrust into the spotlight during the final days of Donald Trump's presidency. Now that the pair lost their reelection bid, though, what does Pence's"
 publishedDateTime: 2021-01-26T15:31:00Z
-originalUrl: "https://www.djournal.com/news/national/what-happens-to-mike-pence-now/video_ca2d2ae0-9b22-58fc-9e2c-e14e6c340339.html"
-webUrl: "https://www.djournal.com/news/national/what-happens-to-mike-pence-now/video_ca2d2ae0-9b22-58fc-9e2c-e14e6c340339.html"
+originalUrl: "https://madison.com/video/cnn/news/what-happens-to-mike-pence-now/video_e3762027-7e90-5cec-95c7-3ffaa6510094.html"
+webUrl: "https://madison.com/video/cnn/news/what-happens-to-mike-pence-now/video_e3762027-7e90-5cec-95c7-3ffaa6510094.html"
+ampWebUrl: "https://madison.com/video/cnn/news/what-happens-to-mike-pence-now/video_e3762027-7e90-5cec-95c7-3ffaa6510094.amp.html"
+cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/video/cnn/news/what-happens-to-mike-pence-now/video_e3762027-7e90-5cec-95c7-3ffaa6510094.amp.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/a2/ca2d2ae0-9b22-58fc-9e2c-e14e6c340339/60103d80575e7.image.jpg?resize=576%2C324"
-    width: 576
-    height: 324
-    isCached: true
 
 related:
   - title: "Here's what to exect from Pence's post-VP life"
@@ -42,6 +38,6 @@ related:
         height: 300
         isCached: true
 
-secured: "+W7k9AVNji8da1pIVO67tjq9WLK9Q5dpPb2VY/B98I5V+0NXPCRs0uJZsurMoz9if9Pk34CpQgOVAKPm8q43eQBLUNHGojMwRINElKBDwAWMTxoA7Z7yFPBAUsoJ7+wz7o0pYPvwWZ26CWVyBayJcXpNV6Xio8SVmJaGlSwlrM/20m36e2B+VHFtjioBPPt/pxRlhdM2lYXrZFVaXMKOQ/Ljw9KlrgtAFRo7WDIIl4D2Bq782vaJEKZXvaOqRpBikEmeCtrNLugATPUGymeh0wXn4aIAmtW54fBa4jA0nFyl3zlhM2WFlDmK4LEPTdhdxTAXbEPD0cynl8caDGFHh0HqEs/KfoM5gyuCKIyhqwM=;mhBnnY8bw9wwL97Qb/HSlQ=="
+secured: "jVZCDbZDQ/IiLjaryMqgeLEcJRfHEjb7KtHyKMyTz0ol+xJCrReGZM2RkViKad4Lx3APUQRlnOVg0ebTEJ0oXnqADCO6PjJrQ9YQRdFK03EW1er6tu/Q0cxs3QEENzFqahSmUROFE6l6WQ7bSBCrJILxTTRQly1F+gtAxmS7+D00JUe4m81Lad86QuA7swCLHfXQ7LFxo2JKwnrQWWku4Vw0PthWmFdlGnHcHDypvi4x8tHb7fBRl1PI61PVzhATMA+dcSY+uslU93q3+vaTluD4MAPIzw0UpKY9jgkSjlqZhyV9agDx2Crtvvkod6tlyrU6zg0PpsdSGqgScO9wN8Txp8Eu2bx36Bgy8jyl8Z8=;uhuNXmWO22Lese9C7oktSw=="
 ---
 

@@ -30,17 +30,14 @@ related:
   - title: "What happens to Mike Pence now?"
     excerpt: "Former Vice President Mike Pence was thrust into the spotlight during the final days of Donald Trump's presidency. Now that the pair lost their reelection bid, though, what does Pence's"
     publishedDateTime: 2021-01-26T15:31:00Z
-    webUrl: "https://www.djournal.com/news/national/what-happens-to-mike-pence-now/video_ca2d2ae0-9b22-58fc-9e2c-e14e6c340339.html"
+    webUrl: "https://madison.com/video/cnn/news/what-happens-to-mike-pence-now/video_e3762027-7e90-5cec-95c7-3ffaa6510094.html"
+    ampWebUrl: "https://madison.com/video/cnn/news/what-happens-to-mike-pence-now/video_e3762027-7e90-5cec-95c7-3ffaa6510094.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/video/cnn/news/what-happens-to-mike-pence-now/video_e3762027-7e90-5cec-95c7-3ffaa6510094.amp.html"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
+      name: Madison.com
+      domain: madison.com
     quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/a2/ca2d2ae0-9b22-58fc-9e2c-e14e6c340339/60103d80575e7.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
 
 secured: "tbNbqxXZ63+Def/EJH0/rRejR8RqeY9VhtRpsvAN4QllB77C+tpxZZnVoy05dB8E6pWz1seM+GpaWXAntnvJaoA48hJF5a1fmA9uMjQMDwpXTOek12MnsUwOHnUjb8QDluPdL9qOut9rUr1p1jaq74BdPeQs3+VbqvECBUUXT1+J1sCrtKgshB5fV9BN/lXoVACMEapApb3gJsfl1R220PRkm2cdVSb5jyFauUyZJMJv/sk1mZwVgwptDmfJNvEyJsyPjrx+hleozEKtS1g1JURk4iiUa113dZBGP3XYBTAh/WOIxX1ZEwBOR5W4XuygbnGSY4lcwJ8gXyRZZSIosm+QQ0WtYaK7dOXHkkBX75rOlhNUL1uBZUEM0NvtwW9j/uy0fQMWp6AEX/3I02JXgakbd7lEeyQSmtPm9fmZwDGMqF8gvtwuNq0Tlj+3Iq7vLvJOacSsOjt3SLPGl1d8yYGzYTA2q6Dyqsm1qDmOmtjbGtcLoPBYw/9zniXWQwi9PDQj1jL1qq9rTgsyQ/yn+w==;GoAffAmiIKFCgTq+TdwKYQ=="
 ---

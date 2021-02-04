@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-biden-trump-ban-2020-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp"
 type: article
 quality: 188
-heat: 568
+heat: 588
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Lloyd-Austin.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump appointee suing Biden admin over allegedly illegal termination threat"
+    excerpt: "One of former President Trump's more controversial appointees, Roger Severino, is suing the Biden administration, alleging that it illegally threatened to terminate his position on a regulatory council."
+    publishedDateTime: 2021-02-04T03:21:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7Pa9n5BgvAU/roger-severino-suing-biden-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/roger-severino-suing-biden-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-severino-suing-biden-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a281bae0-0916-4e61-8337-c46dc3757485/4ef8c046-554e-4d9b-8102-1a19dd4519d3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden signs three immigration orders in latest move to reverse key Trump policies"
     excerpt: "President Biden on Tuesday signed three executive orders on immigration, including one to create a task force to reunify migrants separated under the Trump administration"

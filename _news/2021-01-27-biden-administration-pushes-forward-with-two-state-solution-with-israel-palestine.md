@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration reopening Texas holding facility for migrant children"
+    excerpt: "The Biden administration plans to reopen a holding center for migrant children detained at the country’s Southwest border, the administration confirmed in a statement to Fox News on Wednesday."
+    publishedDateTime: 2021-02-04T03:15:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pbY3nd4Zi2k/biden-administration-texas-holding-facility-migrant-children"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-texas-holding-facility-migrant-children.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-texas-holding-facility-migrant-children.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f8d6f71-27fa-4c95-b98e-3089e93344d2/9a7c8817-02ec-4867-8b87-cd65b441d9e6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "What about COVID? Biden aide says climate change ‘most significant public health challenge of our time’"
     excerpt: "White House domestic climate adviser Gina McCarthy said Tuesday that climate change poses the “most significant public health challenge of our time.” "
     publishedDateTime: 2021-01-27T21:27:02Z

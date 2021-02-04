@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump appointee suing Biden admin over allegedly illegal termination threat"
+    excerpt: "One of former President Trump's more controversial appointees, Roger Severino, is suing the Biden administration, alleging that it illegally threatened to terminate his position on a regulatory council."
+    publishedDateTime: 2021-02-04T03:21:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7Pa9n5BgvAU/roger-severino-suing-biden-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/roger-severino-suing-biden-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-severino-suing-biden-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a281bae0-0916-4e61-8337-c46dc3757485/4ef8c046-554e-4d9b-8102-1a19dd4519d3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to issue new immigration orders as part of push to roll back Trump-era policies"
     excerpt: "President Biden on Tuesday will sign three executive orders on illegal and legal immigration -- as part of an aggressive push in the early days of his presidency to roll back many of his predecessor’s policies."
     publishedDateTime: 2021-02-02T14:07:13Z

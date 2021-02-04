@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VP Kamala Harris swears in Pete Buttigieg as Secretary of Transportation"
-excerpt: "United States Vice President Kamela Harris swears in Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington, DC."
+excerpt: "Pete Buttigieg hugs his husband his husband Chasten after he is sworn in as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington,"
 publishedDateTime: 2021-02-03T15:27:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/f9bbc4f82a87418f9e2d0823a778eb24/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/f9bbc4f82a87418f9e2d0823a778eb24/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/42f19e08b4e3ce36d02a52e9fa26491c/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/42f19e08b4e3ce36d02a52e9fa26491c/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/f9bbc4f82a87418f9e2d0823a778eb24/BUTTIGIEG-TRANSPORTATION.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/42f19e08b4e3ce36d02a52e9fa26491c/BUTTIGIEG-TRANSPORTATION.jpg"
     width: 650
     height: 433
     isCached: true
@@ -462,14 +462,14 @@ related:
         isCached: true
   - title: "The Kamala Harris-Joe Manchin dust-up explained - and why it matters to the Biden administration"
     excerpt: "Vice President Kamala Harris' media appearances in West Virginia didn't go over well with the state's longtime moderate senator, Joe Manchin."
-    publishedDateTime: 2021-02-03T20:23:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2021/02/03/joe-manchin-and-kamala-harris-sparred-over-west-virginia-interviews/4370364001/"
-    ampWebUrl: "https://amp.freep.com/amp/4370364001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4370364001"
+    publishedDateTime: 2021-02-04T03:29:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/02/03/joe-manchin-and-kamala-harris-sparred-over-west-virginia-interviews/4370364001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4370364001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4370364001"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 77
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/02/01/USAT/c35c9bb9-bed0-4130-a062-1440af27dee5-AP_Harris_Senate.jpg?auto=webp&crop=2800,1575,x10,y0&format=pjpg&width=1200"
@@ -794,6 +794,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "4F0HAFjstyWrVdxFFqppIMJaq5UA5qsPrfcA/azTkMdrnvTNtRxinB0YXKbM9Ddx+h43m2BAhEbqAU/0gdWOpc38hD9BfkkBnStITiE5iebZ3L9atkVCubnMYs5mohohofx5baH1jrfGPFmJo+y0UgLf/r4eVGcWewPRCAW64mPOQvx27IrbNRO7t7boVpWVqOUzhTTAtDdNSsuXroCACZHZOFKfBATywoYcTqp2TMkbZAiFJ0Iq7jcNXAuOwNyirvAQes1nFKRD0MMhbTHD1ZlaSUzo7UBMj+62X2H8Lh4rPXyCNa1RmsYgLqm2RpOsDoU2189S6VfG5Qb58dGkK8PFBdRaYgou6QT709Gt6r89WZmRUOSDd/OadQt5Y4wrZ8XLRuNjciR9eMbG44+juWaphe1Mo1G0hoLlVuusvT56cz9HpE3Y4Yuq9InVK4p/nughywMGngdPi9zjNafVWmaCAvKD14B92txwezds94WOfzuES4lo46GIuvlRwUExTk11/5nSMWCi7ojPgoM1zw==;5QjaM9qRutDeZkioSve09A=="
+secured: "h+Ul2MQMyogfCEY6hLLZkXBxdIyHM6U6KYM/7TVFVAUgDVge/aIwWRE9FzC/cIGlsdfTejI0klinus3eKS48JU4RuS4uBM1zqvlBtzhPYp1SFQA90+C5WVJGW3tFcf3dnqH4AEEUJAcRGVqV5pVZSk7r30C+gETkddnHFYUuvuLRYIP9Uvyoam77rGWnjE0B4JeffOXWt9bGf+AFCYdV0ekKbIjtFQW6KZVR1KXN/ferVLEOZH01RFRfXgou3Kw0I3H6rCvDDfszD9rhZIF+FOzWdBYnPSFsDFPWpjf09+Or+A6onV80mAxYk1eZinksMq6eQw3Us8Ss1bzsZ/n+eeMkSgTVf5jcoE1D3C1Ahj8=;F1YbQN94EboUI4rLHyHO9Q=="
 ---
 

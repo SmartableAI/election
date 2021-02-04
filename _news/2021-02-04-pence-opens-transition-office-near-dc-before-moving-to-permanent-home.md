@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former VP Pence opens transition office in northern Virginia"
+    excerpt: "Former Vice President Mike Pence has opened a transition office in northern Virginia. Pence announced Wednesday that the Office of the Former Vice President will handle correspondence, scheduling requests,"
+    publishedDateTime: 2021-02-04T00:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Pence Establishes Transition Office After Vice Presidency Ends"
     excerpt: "Former Vice President Mike Pence said he’s opening a transition office and plans to move back to Indiana this summer."
     publishedDateTime: 2021-02-03T20:20:00Z
@@ -53,20 +69,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Pence made principled choice (letter)"
-    excerpt: "A plea to evangelical Christians who have supported former President Donald Trump and former Vice President Mike Pence: I ask you to prayerfully consider whether, as an evangelical Christian ..."
-    publishedDateTime: 2021-01-27T10:12:00Z
-    webUrl: "https://lancasteronline.com/opinion/letters_to_editor/pence-made-principled-choice-letter/article_0c920034-5ff9-11eb-90b1-7be83c6a591a.html"
-    type: article
-    provider:
-      name: Lancaster Online
-      domain: lancasteronline.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/custom/image/8fc155f0-3596-11eb-8545-1f55c9186da9.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Former Vice President Pence Opens Arlington Office"
     excerpt: "Former Vice President Mike Pence is setting up an office in Arlington as he transitions from his time in the White House. \"Pence announced Wednesday that the Office of the Former Vice President will handle correspondence,"
     publishedDateTime: 2021-02-03T22:33:00Z
@@ -81,17 +83,6 @@ related:
         width: 1600
         height: 1143
         isCached: true
-  - title: "Former VP Pence Opens Transition Office in Northern Virginia"
-    excerpt: "Former Vice President Mike Pence has opened a transition office in northern Virginia. Pence announced Wednesday that the Office of the Former Vice President will handle correspondence, scheduling requests,"
-    publishedDateTime: 2021-02-03T19:15:00Z
-    webUrl: "https://www.usnews.com/news/best-states/virginia/articles/2021-02-03/former-vp-pence-opens-transition-office-in-northern-virginia"
-    ampWebUrl: "https://www.usnews.com/news/best-states/virginia/articles/2021-02-03/former-vp-pence-opens-transition-office-in-northern-virginia?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/virginia/articles/2021-02-03/former-vp-pence-opens-transition-office-in-northern-virginia?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "b64sI59u3za4/duoYYobywD37wjvnnctHMPgcM+N+APwuTNwrHqs+EE6uaV9/4O+SwRXFS+YkhbeW4Nr0NucNOR8pKiZNkNJkXZ+i+4rKL3OT0/sWE+ZDcoqWiOnRTCaCna9V8jXxrVI62YA334JQd5wHOBp0ESrB8NrswajUf+wX0JZIknixb4Eqq+Vt6eQREtM1AjR2Yq4nswYkXFalWFJns9ClFyFY5Tq3sNXddSAYqsBL0TfON5q4mi76HvBX4ZBF4HoXre+upJ73cWDfZ0RxHA7DGYq2RlOIIWlySj7jhzs1p+swTQO78zMrjMfpGA+0hhPxjYEm+EyMCCwdW2EZ5e1WoDrR00YCPInlXs=;56peQTfQ3A/aiEDUTHbGEQ=="
 ---
