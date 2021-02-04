@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Former VP Pence opens transition office in northern Virginia"
-excerpt: "Former Vice President Mike Pence has opened a transition office in northern Virginia. Pence announced Wednesday that the Office of the Former Vice President will handle correspondence, scheduling requests,"
-publishedDateTime: 2021-02-04T00:10:00Z
-originalUrl: "https://www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html"
-webUrl: "https://www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html?outputType=amp"
+excerpt: "Former Vice President Mike Pence has opened a transition office in northern Virginia."
+publishedDateTime: 2021-02-04T06:15:00Z
+originalUrl: "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2"
+webUrl: "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2"
+ampWebUrl: "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp"
 type: article
-quality: 125
-heat: 225
+quality: 105
+heat: 205
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Pence Establishes Transition Office After Vice Presidency Ends"
@@ -102,6 +96,6 @@ related:
         height: 630
         isCached: true
 
-secured: "sZTlgvZXshhhF5SWqNI9/Bvz03PMwMIinlM9utfqKPJc3MbKsIF/ScaoM/HZd3//BijZ1ToV+rN+Hr9tWlBc4ukLQNH1jdsGX72C0YNx2SVOpiRs1dAfmt7tdXBqQc7OKpozSlYsvcJca/sW+RHaihEZIjjKutsRCS4g5Bf82MKTTudTaXgz0Hubett16QcZjC7qsPK+6sHTycskOAXzu4AyiQesGFKp2eN/33LFJm5Cal+l3FApFyrqOtCJJ/0s74fk74EWttFLhdTVXUMF0u3ysVuzkkoYMFiYJc63a7VLlwpoDAnhoN3/s9PejoPBWkFCMm5Y+D+/x/9iGCugzEWDIayQeT2EdGL7GihWssU=;3lgwy/30aqOTj2HEKKmPow=="
+secured: "HWIjBMnxntnDd9Qu2RIwgvzHKvGSoSJ17pResENser3gpQ1+YhKuLnz/wCqqLXHa6eYo56ehqw1XtFegOBRx91/hw0MfuYEqmg5FWFWSxpDgcVvZFZgyVDioUMZRjwE0xKz9NWh/0fgnM7OSRN7NWi90p/CmlyiRfH9p23eZXQQ9muafipOL8e4s5X5w/31+gwso2fNdJyubN7188FhtRRgLWaPB5pcEZ6h3nq34bJO0UbRmedgB9li8xA+Enqej4K4FitmxTmjKbUKYw05isau4F6fssBW0u0vJSfOadfTq4NishysRWrOFS2ofNBMXNx0aawtesJJobBRTgS+9gSMw5np2oBpg/itsqjbUWpI=;ceapTHHWYcGHUVoB9yxzrw=="
 ---
 

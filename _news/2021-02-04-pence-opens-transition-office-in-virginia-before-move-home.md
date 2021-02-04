@@ -26,21 +26,16 @@ images:
 
 related:
   - title: "Former VP Pence opens transition office in northern Virginia"
-    excerpt: "Former Vice President Mike Pence has opened a transition office in northern Virginia. Pence announced Wednesday that the Office of the Former Vice President will handle correspondence, scheduling requests,"
-    publishedDateTime: 2021-02-04T00:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    excerpt: "Former Vice President Mike Pence has opened a transition office in northern Virginia."
+    publishedDateTime: 2021-02-04T06:15:00Z
+    webUrl: "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Pence Establishes Transition Office After Vice Presidency Ends"
     excerpt: "Former Vice President Mike Pence said he’s opening a transition office and plans to move back to Indiana this summer."
     publishedDateTime: 2021-02-03T20:20:00Z
@@ -98,6 +93,6 @@ related:
         height: 630
         isCached: true
 
-secured: "jgj68oePFa+1iz21U0MuiQxX3ac9fM60oi4s6ArnMkwfenlUmpXuoYwPoepxCFupwLexpTljzAJNo2eSib2TwO0DE4hcxsGy3wZB2Nx+OI8d+DIOATtTCJCEoTDNKHnV9A/T8PYONjskp2uzKsw2rzuKdcEyOZ+JY7GVoSWpfQhrcKVTK26FOAWQGpjmf15L0ytNl4IF0Y5+jPw6wCzzXm6v0zIOagAJQA2ESt8T8apRXJupIwM1OVza6fBD3aqFsqCs88/H4WdI7eixgacQOe6buIIeMqU7QaBxd9UZaO87SSXXvIy1xM4F4VO3V0UYVqkxpamUZotL8kIbzM9xnzicrPWxvxbG5XD4LVMGBCo=;ODofOt74UVmi008K8tHSEw=="
+secured: "7YatNiQErP81UK2nI0C/MeS+Qfaicf95vjJ7i1LDofFQmXOSVTsUdxwppTZf9j0RE5acJ45x6ZWAZyi3LSwSPH+q097b83NpDjZbIprUe8xH1SOEEbT1VAqfk9Y9OD84pPtAde4pckqJ0DzSll8cePuV2pCmajo6jERuJdmtFm6e8Wdg83s5gcaXXxeAanEZsFseM/9Knl9T07tzDpzF/a3O1XQEGqusouRbeV6MH6pIgg4uvDRh7XleQa0XV0k1DSTpMdaIQKn8vfmMNFJqS8wYUIE//qTkw/c+Nqt66zh2z54wUS4cmKaK8VcYH6j/FqTCQUvoOquFsoAJaN7c1DjBzaeQbdnkuN9YozW9BjZ89JFiZ/N5aBlv6LhsVch7+hYEZ2l80vxqqyHZkq7yMGrRATYl/5UUQGXcfUvsNE8G2uxpQ4DbbLNd3mYJWLKMkuXnqml7QdrhrghPMq/0OwWWs9Yea6pVwXHyO7T9c6mdt0+GItOwvm4M4T6UfM5IF9utaG24k1EaQu3rClRmnQ==;0oMgThNR+gl2DnUYrP7vww=="
 ---
 

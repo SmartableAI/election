@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-31-nunes-russia-hoaxers-at-top-echelons-of-biden-administration.md",
+      "title": "Nunes: 'Russia hoaxers' at 'top echelons' of Biden administration",
+      "excerpt": "Trump-Russia probe promoters are now being recognized as top Biden administration officials, Rep. Devin Nunes alleged on \"Sunday Morning Futures.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynS2xT5e1IY/nunes-peter-strozk-wife-sec-appointment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynS2xT5e1IY/nunes-peter-strozk-wife-sec-appointment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-book.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/nunes-peter-strozk-wife-sec-appointment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nunes-peter-strozk-wife-sec-appointment.amp",
+      "publishedDateTime": "2021-01-31T12:00:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-31-trump-republicans-raised-207m-amid-push-to-contest-election.md",
       "title": "Trump, Republicans raised $207M amid push to contest election",
       "excerpt": "In the weeks following Election Day, President Trump and Republican committees and candidates raised at least $207 million, according to a recent Federal Election Commission (FEC) filing, as Trump and Republican lawmakers contested election results.",
@@ -538,62 +594,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp",
       "publishedDateTime": "2021-01-29T16:13:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-democrats-outraged-as-anti-cuomo-troll-uses-maxine-waters-quote-that-had-targeted-trump-aides.md",
-      "title": "Democrats outraged as anti-Cuomo troll uses Maxine Waters quote that had targeted Trump aides",
-      "excerpt": "Democrats have been riled up on Twitter after a troll account altered a quote by Rep. Maxine Waters, D-Calif., to go after Gov. Andrew Cuomo.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XapNwoUtNSg/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XapNwoUtNSg/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize.amp",
-      "publishedDateTime": "2021-01-29T14:23:14-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

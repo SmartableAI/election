@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-31-twitter-employees-heavily-favored-biden-over-trump-ahead-of-priceless-ban.md",
+      "title": "Twitter employees heavily favored Biden over Trump ahead of 'priceless' ban",
+      "excerpt": "President Biden was the clear favorite of Twitter employees when it came to campaign donations during the 2020 election cycle.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9wq-8x5938/twitter-biden-trump-ban-2020-election-donations",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9wq-8x5938/twitter-biden-trump-ban-2020-election-donations",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 588,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20322568207291-e1605632911601.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp",
+      "publishedDateTime": "2021-01-31T05:45:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-31-trump-loyalists-in-south-dakota-turn-on-home-state-senator.md",
       "title": "Trump loyalists in South Dakota turn on home state senator",
       "excerpt": "Longtime South Dakota Republican voter Jim Thompson is ready to leave the GOP, hoping that an exodus of Donald Trump supporters like him will punish the state's preeminent politician, Sen. John Thune,",
@@ -946,62 +1002,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp",
       "publishedDateTime": "2021-01-29T16:13:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-democrats-outraged-as-anti-cuomo-troll-uses-maxine-waters-quote-that-had-targeted-trump-aides.md",
-      "title": "Democrats outraged as anti-Cuomo troll uses Maxine Waters quote that had targeted Trump aides",
-      "excerpt": "Democrats have been riled up on Twitter after a troll account altered a quote by Rep. Maxine Waters, D-Calif., to go after Gov. Andrew Cuomo.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XapNwoUtNSg/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XapNwoUtNSg/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize.amp",
-      "publishedDateTime": "2021-01-29T14:23:14-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

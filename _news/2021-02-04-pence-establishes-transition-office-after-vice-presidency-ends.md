@@ -30,21 +30,16 @@ images:
 
 related:
   - title: "Former VP Pence opens transition office in northern Virginia"
-    excerpt: "Former Vice President Mike Pence has opened a transition office in northern Virginia. Pence announced Wednesday that the Office of the Former Vice President will handle correspondence, scheduling requests,"
-    publishedDateTime: 2021-02-04T00:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    excerpt: "Former Vice President Mike Pence has opened a transition office in northern Virginia."
+    publishedDateTime: 2021-02-04T06:15:00Z
+    webUrl: "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Pence Opens Transition Office in Northern Virginia"
     excerpt: "Former Vice President Mike Pence has opened a transition office in northern Virginia. Pence announced Wednesday that the Office of the Former Vice President will handle correspondence, scheduling requests,"
     publishedDateTime: 2021-02-03T19:12:00Z

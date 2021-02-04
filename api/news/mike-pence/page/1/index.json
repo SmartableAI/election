@@ -4,36 +4,27 @@
     {
       "path": "_news/2021-02-04-former-vp-pence-opens-transition-office-in-northern-virginia.md",
       "title": "Former VP Pence opens transition office in northern Virginia",
-      "excerpt": "Former Vice President Mike Pence has opened a transition office in northern Virginia. Pence announced Wednesday that the Office of the Former Vice President will handle correspondence, scheduling requests,",
+      "excerpt": "Former Vice President Mike Pence has opened a transition office in northern Virginia.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html",
+      "webUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2",
+      "originalUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-03T16:10:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp",
+      "publishedDateTime": "2021-02-03T22:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
