@@ -95,6 +95,22 @@ related:
         width: 878
         height: 702
         isCached: true
+  - title: "Special Report: Stolen election? Republican lawmakers paralyzed by Trump's false fraud claims"
+    excerpt: "U.S. Capitol, 147 Republican lawmakers voted the way then-president Donald Trump and the rioters had demanded - to overturn his election loss, after months of Trump’s baseless claims that the election had been stolen."
+    publishedDateTime: 2021-02-04T11:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-lawmakers-special-report-idUSKBN2A41CP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A41CP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A41CP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 129
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550309733&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH130SS"
+        width: 817
+        height: 545
+        isCached: true
   - title: "House Democrats deliver Trump impeachment charge to Senate"
     excerpt: "The U.S. House of Representatives delivered to the Senate on Monday a charge that former President Donald Trump incited insurrection in a speech to supporters before the deadly attack on the Capitol,"
     publishedDateTime: 2021-01-26T06:51:00Z

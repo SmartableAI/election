@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-04-biden-makes-slow-but-steady-progress-on-covid-relief-the-note.md",
+      "title": "Biden makes slow but steady progress on COVID relief: The Note",
+      "excerpt": "The White House has managed to stay in the center of negotiations, despite forces in both parties that have an interest in pulling talks to the Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575",
+      "originalUrl": "https://abcnews.go.com/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/the-note-president-joe-biden-covid-relief-schools-01-rt-llr-210203_1612400855123_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575",
+      "publishedDateTime": "2021-02-04T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-us-treasury-says-more-time-needed-to-decide-on-trump-tax-returns-bloomberg-news.md",
       "title": "U.S. Treasury says more time needed to decide on Trump tax returns - Bloomberg News",
       "excerpt": "The U.S. Treasury said it needs more time to decide whether to fight House Democrats in their effort to get former President Donald Trump's personal and business tax returns, Bloomberg News reported on Wednesday.",
@@ -648,58 +700,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-04-biden-to-meet-democratic-lawmakers-on-covid-19-aid-white-house.md",
-      "title": "Biden to meet Democratic lawmakers on COVID-19 aid: White House",
-      "excerpt": "U.S. President Joe Biden will on Wednesday meet congressional Democrats preparing to advance his $1.9 trillion COVID-19 relief plan despite Republican pushback.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-biden/biden-to-meet-democratic-lawmakers-on-covid-19-aid-white-house-idUSKBN2A31Z4",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-biden/biden-to-meet-democratic-lawmakers-on-covid-19-aid-white-house-idUSKBN2A31Z4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550212723&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1219E",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4",
-      "publishedDateTime": "2021-02-03T11:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-02-03-iranian-resistance-leader-says-regime-at-its-weakest-point-urges-biden-to-hold-it-to-account.md",
       "title": "Iranian resistance leader says regime 'at its weakest point,' urges Biden to hold it to account",
       "excerpt": "EXCLUSIVE: The leader of the main Iranian resistance group tells Fox News that the regime in Tehran is at its \"weakest point\" in its history, and is calling on the Biden administration to hold the regime accountable for its human rights violations.",
@@ -928,7 +928,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1190,
+      "heat": 1210,
       "tags": null,
       "images": [
         {
@@ -1253,6 +1253,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-03-biden-brothers-role-in-florida-law-firm-complicates-white-house-ethics-message.md",
+      "title": "Biden brother’s role in Florida law firm complicates White House ethics message",
+      "excerpt": "Frank Biden, the president’s younger brother, is working as a senior adviser to a Florida law firm that has sought to attract business by touting the brothers’ connection and the president’s policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/frank-biden-berman-group/2021/02/02/b1cf23a4-63f7-11eb-8c64-9595888caa15_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/frank-biden-berman-group/2021/02/02/b1cf23a4-63f7-11eb-8c64-9595888caa15_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZATX7TFVII6XOVYOB7YO2OXQU.jpg&w=1440",
+          "width": 1440,
+          "height": 1131,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/frank-biden-berman-group/2021/02/02/b1cf23a4-63f7-11eb-8c64-9595888caa15_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/frank-biden-berman-group/2021/02/02/b1cf23a4-63f7-11eb-8c64-9595888caa15_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-03T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-trade-to-be-part-of-bidens-china-strategy-not-driving-force-ex-ustr-official.md",
       "title": "Trade to be part of Biden's China strategy, not driving force: ex-USTR official",
       "excerpt": "Trade will be a part of President Joe Biden's overall negotiation policy with China, but it won't be the driving force in Sino-U.S. relations, as it was under former President Donald Trump, a former official at the Office of the U.",
@@ -1302,63 +1354,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-she-was-stunned-by-bidens-inauguration-how-this-south-carolina-mom-escaped-qanon.md",
-      "title": "She was stunned by Biden's inauguration. How this South Carolina mom escaped QAnon",
-      "excerpt": "She was terrified that she would have to go into hiding with her daughter. Many QAnon believers have clear political motives, but Vanderbilt says she is a passive participant in politics. \"I've always been someone that you just tell me what to do and I do it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/02/03/tech/qanon-mom-former-believer/index.html",
-      "originalUrl": "https://www.cnn.com/2021/02/03/tech/qanon-mom-former-believer/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210202185142-former-qanon-believer-ashley-3-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/03/tech/qanon-mom-former-believer/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/tech/qanon-mom-former-believer/index.html",
-      "publishedDateTime": "2021-02-02T23:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Biden to visit State Department staff"
+    excerpt: "President Biden and Vice President Kamala Harris are scheduled to visit the Department of State Thursday afternoon to speak with staff and meet with Secretary Antony Blinken."
+    publishedDateTime: 2021-02-04T12:52:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g9V3yAmwxyY/live-updates-biden-white-house-feb-4-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-feb-4-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house-feb-4-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76df30e9-35cc-477c-86d9-2e4b10436390/9097aebc-c283-4908-a7e6-139948f8d6b2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live updates: Biden mocks questions about Hunter, mainstream media looks away"
     excerpt: "President-elect Joe Biden on Tuesday laughed off a question about the federal investigation of his son Hunter, in what's become part of a pattern for him to mock or belittle reporters who broach the topic."
     publishedDateTime: 2020-12-24T06:32:11Z

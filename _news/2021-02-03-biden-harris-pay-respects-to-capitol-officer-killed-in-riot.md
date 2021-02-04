@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1190
+heat: 1210
 published: true
 
 provider:
@@ -223,6 +223,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden follows in recent presidential footsteps with Super Bowl interview"
+    excerpt: "When U.S. President Joe Biden appears for a CBS interview this Super Bowl Sunday, he will be following a recent White House tradition of using the country's most-watched sporting event to reach a national audience in the tens of millions."
+    publishedDateTime: 2021-02-04T04:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-superbowl/biden-follows-in-recent-presidential-footsteps-with-super-bowl-interview-idUSKBN2A33AM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A33AM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A33AM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550244322&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1221Q"
+        width: 768
+        height: 545
         isCached: true
   - title: "Biden to reopen Obamacare markets to offer medical coverage during pandemic"
     excerpt: "President Biden plans to reopen the HealthCare.gov markets for a special sign-up opportunity for people without medical coverage in the pandemic."

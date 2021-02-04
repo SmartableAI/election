@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to signal commitment to US diplomats and allies with State Department visit"
+    excerpt: "President Joe Biden will visit the State Department Thursday to thank a workforce repeatedly maligned under the previous administration and present his broad vision for a foreign policy re-grounded in alliances and multilateral institutions.\n    \n"
+    publishedDateTime: 2021-02-04T11:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-jdlbhVi-0I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/biden-state-department-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/biden-state-department-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126105306-02-biden-0125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden leans on his Capitol Hill experience while pitching big Covid-19 relief deal"
     excerpt: "President Joe Biden is relying on his decades as a senator to convince former colleagues to move quickly on his debut legislative effort, waging an intensive push for the sweeping Covid-19 rescue package he hopes can garner Republican support.\n    \n"
     publishedDateTime: 2021-02-03T18:00:05Z
@@ -285,6 +301,20 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_05/3446705/210201-murkowski-collins-romney-ew-508p_45ffff7c1409f362b3de31a953dd7399.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden plunges fully into Covid relief talks"
+    excerpt: "The president knows his presidency rides on swift action on the $1.9 trillion package. On Wednesday, he showed it."
+    publishedDateTime: 2021-02-04T11:28:00Z
+    webUrl: "https://www.politico.com/news/2021/02/03/biden-covid-relief-465758"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/80/16/8e16b10e4f0aba2ad52afe74b2d6/ap21034605737948-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "BXgcCzv2WX1AhM3VuT5tl5fCjI7d0yC28kwZN3vD+shBrXq4iH0kMnArVITyWNJEj1cSwC5c4PoDQ8JJtgDarcT3nZhgXSuA5Fct9/+rUz4IBE2wTZVJtEXV6171DPPtRQwTcU/zeKB9kmU59sE8IsuYKKALXK584Vv40p+HNB4dcZbO5pt09XuaJB0Axgy5AhPQNOsvIzr7McZO90iMZ1Nfh/a/146P+EACcOxftobgFMFM2CdfZcX4vvbmPBj8lHna0gbuIbKEIxHIlb1aWT6iRVKrj7GZg0eKfTVFcEcs3GtQo3m6p6TLs0UxWoS0EjI03uk2me4ektrfe4mBSEChJKvpGLYut0Os3yOdh319XGnB3whlNZUfgitR4QHbAE5EI/wNvS1T56TuSs585j7bx4OHoY/glJ+d2fZWscV/v3aAVkMbZGyg8MZxxGXfN4PWfouPpgzrCzCk8bGuMs/ToSvNrFTJtkumHkGv6/QJJkfrJ3ae2MlrHI1mKpSlsToZiPPsqqEWFwSSJ9FZqg==;JgOtMNiieAQXrX2TGLFIEQ=="

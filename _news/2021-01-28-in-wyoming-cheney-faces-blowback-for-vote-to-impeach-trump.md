@@ -41,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump's backers failed to take down Liz Cheney, but the Republican 'civil war' isn't near over"
+    excerpt: "House Republicans vote to keep Liz Cheney in leadership role, despite her impeachment vote; Trump backers vowed to defeat her in a 2022 GOP primary."
+    publishedDateTime: 2021-02-04T11:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/04/donald-trump-backers-didnt-oust-liz-cheney-but-republican-civil-war-goes/4362276001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4362276001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4362276001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/04/USAT/c504d799-03af-495e-b0b4-98042333bc1c-Liz_Cheney_1.jpg?auto=webp&crop=5087,2862,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "8HKZ+3OepYy6NSP2G5dzoTNIu6jBk75v5OjlKX8Zmiw3ulBHimm1ye7U2muUzLzaVVADsrjD1DZ8dAXtNNahSWa9uOLVfKIujPE0XxIs50xiHtb0jHsmTITU/DVVTMMtIJcCyH2XTKU8sI6Dacz94Cbz4vc9zRhR235jMTLDM76xK8B1BI0J3LU6RJ5YAV/3si/ZHiyw71dyr1Z2XK4LRVvox7CsSEi1zgljtjfxzlUl5BKKKefEbfd03oMWK2Y42uA+7Kr8l5EXTc0yrRncGMZfnydQAR1ezLM4gJBuu0tLdDSZH4a0omYPN1yHIil9XimHaP04J0FhnPVP3iMu1GS14RgTFPeuhqRkgV3RA78=;6BmEalWvCJQq8qQH/2T3+Q=="
 ---
