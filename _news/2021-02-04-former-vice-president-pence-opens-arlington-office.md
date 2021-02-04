@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pence opens transition office in Virginia before move home"
+    excerpt: "WASHINGTON – Former Vice President Mike Pence has opened a transition office in northern Virginia. Pence announced Wednesday that the Office of"
+    publishedDateTime: 2021-02-04T06:00:00Z
+    webUrl: "https://www.journalgazette.net/news/politics/20210204/pence-opens-transition-office-in-virginia-before-move-home"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 55
+    images:
+      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210204/ARTICLE/302049931/AR/0/AR-302049931.jpg"
+        width: 395
+        height: 600
+        isCached: true
   - title: "Pence opens transition office near D.C. before moving to permanent home"
     excerpt: "Former Vice President Mike Pence has opened a transition office in northern Virginia. Pence announced Wednesday that the Office of the Former Vice President will handle correspondence, scheduling requests,"
     publishedDateTime: 2021-02-03T19:57:00Z

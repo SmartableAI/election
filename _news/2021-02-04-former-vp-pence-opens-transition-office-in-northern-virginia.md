@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/former-vp-pence-opens-transi
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/former-vp-pence-opens-transition-office-in-northern-virginia/2021/02/03/75f92aba-6653-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://s26551.pcdn.co/wp-content/uploads/2021/02/5570962.jpg"
         width: 1600
         height: 1143
+        isCached: true
+  - title: "Pence opens transition office in Virginia before move home"
+    excerpt: "WASHINGTON – Former Vice President Mike Pence has opened a transition office in northern Virginia. Pence announced Wednesday that the Office of"
+    publishedDateTime: 2021-02-04T06:00:00Z
+    webUrl: "https://www.journalgazette.net/news/politics/20210204/pence-opens-transition-office-in-virginia-before-move-home"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 55
+    images:
+      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210204/ARTICLE/302049931/AR/0/AR-302049931.jpg"
+        width: 395
+        height: 600
         isCached: true
   - title: "Pence opens transition office near D.C. before moving to permanent home"
     excerpt: "Former Vice President Mike Pence has opened a transition office in northern Virginia. Pence announced Wednesday that the Office of the Former Vice President will handle correspondence, scheduling requests,"

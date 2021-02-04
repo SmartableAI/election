@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden set to boost US refugee admissions after Trump cut"
-excerpt: "The Biden administration is preparing to notify Congress and others that it will dramatically increase U.S. admissions of refugees"
-publishedDateTime: 2021-02-03T20:40:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-set-boost-us-refugee-admissions-trump-cut-75665763"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-set-boost-us-refugee-admissions-trump-cut-75665763"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-set-boost-us-refugee-admissions-trump-cut-75665763"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-set-boost-us-refugee-admissions-trump-cut-75665763"
+excerpt: "The Biden administration is preparing to notify Congress and others that it will dramatically increase U.S. admissions of refugees."
+publishedDateTime: 2021-02-04T06:19:00Z
+originalUrl: "https://www.businessinsider.com/biden-set-to-boost-us-refugee-admissions-after-trump-cut-2021-2"
+webUrl: "https://www.businessinsider.com/biden-set-to-boost-us-refugee-admissions-after-trump-cut-2021-2"
+ampWebUrl: "https://www.businessinsider.com/biden-set-to-boost-us-refugee-admissions-after-trump-cut-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-set-to-boost-us-refugee-admissions-after-trump-cut-2021-2?amp"
 type: article
-quality: 140
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_c4cf3a86ef1349d9a18dbc5920930bf4_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden pauses Trump policies as Blinken takes diplomatic helm"
@@ -959,6 +953,22 @@ related:
         width: 823
         height: 545
         isCached: true
+  - title: "Prayer breakfast gives Biden fresh chance to call for unity"
+    excerpt: "President Joe Biden is expected to address the National Prayer Breakfast, a Washington tradition that calls on political combatants to set aside their differences for one morning"
+    publishedDateTime: 2021-02-04T05:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Texas attorney general files lawsuit to block Biden's deportation freeze"
     excerpt: "The Texas attorney general filed a lawsuit on Friday that seeks to block U.S. President Joe Biden's move to pause certain deportations for 100 days, a controversial opening-move by the Democratic president that has provoked blowback from some Republicans."
     publishedDateTime: 2021-01-22T21:40:00Z
@@ -1520,6 +1530,6 @@ related:
         height: 649
         isCached: true
 
-secured: "72EvNPOkHlEWK4saH1KTu3cZrKBeEEal/8ToCk89p/WYVsd4e0r4YsYQ/IfTdJocZxBOSWCDeqsezAwbpnurdmpUYhPP4uMa7JLlh0FUn4rPS6oFHinJ8klNt2hQ5qOCtCxq45Z3Aum8dbE+8Jtj4lKk7irRBsXmVBiCwmX5NJaEHc5DO1ealrg969iDpBpddU7kpqwgTUzmH9T6wrx9ps9SEPHaH9Rm4Rp2SiWFUHI4RlXhaLTbK1B7Bm69i/Evz+00qo9UEt55ti+8AZYn9J7DQEO+USKYxVgOgsv0/TzfPZeu6YZOGDmui/cm1Z/aL3tgYYDcLCjzlNJcAaXtbSykX8j78v8rlh4KVLUFA5cUb34DC8THRNbsBg7CDwpx8ogZwksbNjToiIzDbZoB/LdfsuYVrOu5a2DktjM6fxYHpdWCMyZndvxL3S+q6nc9eJkY0a9dYQgtmJKFvNvajJCsdURONhJ9oZs4l+RdVPZ9CuIjmXTC7561+5Zhn3iZ5BmeWd2edmATWffnS/jyfA==;gVHSGj+bJtyPqXmBp4K35A=="
+secured: "xjk+vcnl0PNFta77hx8momvSRHKE1hueUL2edzIHKLDRdFMYfMATrZS81/b1nZlQnWXdgrW8N7KsvAUEBgX/J54rzxGfNZcSehXTleabiWYcAoQopvuH7w6Fu1z9/UIajLXFu13Wu3BohFw5ttajhvJGW9mx3ljLf1QK5z2VEZ47igI3hTGYXiBJklLBKjZLv8bBJcBNUe4Z5xTyTQJV+qptIgDUj+BPKue6wA6pp5zj7D1TZsBbPP4wzT7JKwUZWipK9DkqqMc3axgJqvgVEpzkwpZ4M4dkdgG00p7g9hrws4x3+qGV3Ga9u0AbuAW1rncdstYfwXKiSz46FjXFlpaBhlA2/3gEDwXMrVPbqB8=;1F8nHrRDpHemIDzlxMnkng=="
 ---
 
