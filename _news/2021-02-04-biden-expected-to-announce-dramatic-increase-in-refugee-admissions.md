@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration vows to free Americans being held hostage abroad"
+    excerpt: "Secretary of State Antony Blinken held a call with the families of Americans held hostage or unlawfully detained overseas."
+    publishedDateTime: 2021-02-04T22:03:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F6QAxxHs-WA/biden-administration-americans-hostage-abroad-james-foley-paul-whelan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-americans-hostage-abroad-james-foley-paul-whelan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-americans-hostage-abroad-james-foley-paul-whelan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/James-Foley-Congress.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden administration to open overflow shelter for migrant children in Texas"
     excerpt: "The Biden administration said it plans on reactivating a “temporary Influx Care Facility” in Carrizo Springs, Texas, to potentially accommodate up to 700 migrant children within the next two weeks."
     publishedDateTime: 2021-02-03T07:57:24Z

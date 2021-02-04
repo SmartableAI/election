@@ -61,6 +61,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden OKs disaster declaration related to tropical storm"
+    excerpt: "President Joe Biden has approved a disaster declaration for Maryland and ordered federal assistance for recovery efforts in areas affected by Tropical Storm Isaias in August"
+    publishedDateTime: 2021-02-04T21:06:00Z
+    webUrl: "https://www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "How Obamacare Survived Trump and What Biden Might Do Next"
     excerpt: "Joe Biden’s arrival in the White House could blunt any impact of the latest danger -- a case now before the Supreme Court -- and give Obamacare (more formally, the Affordable Care Act) a chance to grow beyond its initial scope."
     publishedDateTime: 2021-02-04T16:06:00Z

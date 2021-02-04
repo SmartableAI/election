@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration vows to free Americans being held hostage abroad"
+    excerpt: "Secretary of State Antony Blinken held a call with the families of Americans held hostage or unlawfully detained overseas."
+    publishedDateTime: 2021-02-04T22:03:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F6QAxxHs-WA/biden-administration-americans-hostage-abroad-james-foley-paul-whelan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-americans-hostage-abroad-james-foley-paul-whelan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-americans-hostage-abroad-james-foley-paul-whelan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/James-Foley-Congress.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden expected to announce dramatic increase in refugee admissions"
     excerpt: "President Biden on Thursday is expected to announce a dramatic increase in the number of admissions of refugees into the U.S. -- the latest significant shift in immigration policy in his administration."
     publishedDateTime: 2021-02-04T19:54:40Z

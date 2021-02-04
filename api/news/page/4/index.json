@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-01-white-house-reached-out-to-manchin-after-harris-west-virginia-interview.md",
+      "title": "White House reached out to Manchin after Harris' West Virginia interview",
+      "excerpt": "The White House called Democratic Sen. Joe Manchin after Vice President Kamala Harris conducted interviews with West Virginia media, according to a person with knowledge of the conversation.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WK9xAdK4zls/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WK9xAdK4zls/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210201165657-manchin-harris-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/01/politics/joe-manchin-white-house-call/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-manchin-white-house-call/index.html",
+      "publishedDateTime": "2021-02-01T10:24:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-up-for-democracy.md",
       "title": "Joe Biden Threatens Sanctions Following Myanmar Coup, Says U.S. Will 'Stand Up For Democracy'",
       "excerpt": "\"In a democracy, force should never seek to overrule the will of the people or attempt to erase the outcome of a credible election,\" the president said in his first statement on the issue.",
@@ -66,7 +123,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 475,
+      "heat": 515,
       "tags": null,
       "images": [
         {
@@ -615,7 +672,7 @@
       "originalUrl": "https://www.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -766,7 +823,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 608,
+      "heat": 628,
       "tags": null,
       "images": [
         {
@@ -974,7 +1031,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-administration-goals-20210131-hixvijvamfbjlfeszmsqnpzuzm-story.html?outputType=amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1255,62 +1312,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/rep-jim-banks-chair-largest-house-conservative-caucus-previews-gop-post-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jim-banks-chair-largest-house-conservative-caucus-previews-gop-post-trump.amp",
       "publishedDateTime": "2021-01-30T11:33:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-former-trump-dhs-officials-wolf-cuccinelli-morgan-join-heritage-foundation.md",
-      "title": "Former Trump DHS officials Wolf, Cuccinelli, Morgan join Heritage Foundation",
-      "excerpt": "Three former Trump-era Homeland Security officials, including former acting Secretary Chad Wolf, have joined the Heritage Foundation as fellows -- the latest move to a think tank by ex-Trump officials since leaving office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n3F5E3Ol7Qc/trump-dhs-officials-heritage-foundation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n3F5E3Ol7Qc/trump-dhs-officials-heritage-foundation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/469c3199-7d3a-4668-8d97-4817e9754965/1781159c-2ecc-42a4-a4f3-a154aa678ffc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-dhs-officials-heritage-foundation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-heritage-foundation.amp",
-      "publishedDateTime": "2021-01-30T06:41:48-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

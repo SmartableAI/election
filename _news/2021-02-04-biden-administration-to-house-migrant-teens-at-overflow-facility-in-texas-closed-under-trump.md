@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4378699001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4378699001"
 type: article
 quality: 129
-heat: 249
+heat: 269
 published: true
 
 provider:
@@ -37,6 +37,22 @@ related:
     webUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html"
     ampWebUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden OKs disaster declaration related to tropical storm"
+    excerpt: "President Joe Biden has approved a disaster declaration for Maryland and ordered federal assistance for recovery efforts in areas affected by Tropical Storm Isaias in August"
+    publishedDateTime: 2021-02-04T21:06:00Z
+    webUrl: "https://www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

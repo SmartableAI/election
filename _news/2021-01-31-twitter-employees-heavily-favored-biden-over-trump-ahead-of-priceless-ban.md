@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-biden-trump-ban-2020-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp"
 type: article
 quality: 188
-heat: 608
+heat: 628
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/biden-aluminum.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden Vows to Revive Alliances After ‘Years of Neglect’ Under Trump"
+    excerpt: "Faced with a range of early foreign-policy challenges, the president described his vision for an expansion of multilateral engagement with the world and an emphasis on human rights."
+    publishedDateTime: 2021-02-04T22:37:00Z
+    webUrl: "https://www.wsj.com/articles/biden-to-outline-foreign-policy-objectives-during-state-department-visit-11612443535"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-to-outline-foreign-policy-objectives-during-state-department-visit-11612443535"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-to-outline-foreign-policy-objectives-during-state-department-visit-11612443535"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-295125/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Biden Orders Review of Trump Health-Care Policies, but Move Likely Faces Bumps"
     excerpt: "President Biden signed executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."

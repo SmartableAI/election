@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131111649-restricted-split-covid-relief-republican-senators-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: 10 Senate Republicans lay out concerns in letter to Biden after meeting on Covid-19 relief proposal"
+    excerpt: "\n    \n"
+    publishedDateTime: 2021-02-04T21:48:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DlTcTgUXRoc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/senate-republicans-biden-letter-covid-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/senate-republicans-biden-letter-covid-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201172723-01-biden-meets-gop-senators-0201-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

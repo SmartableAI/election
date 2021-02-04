@@ -44,6 +44,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "'Donald J. Trump Week' declared in Florida city 1st week of February"
+    excerpt: "The city of Frostproof, Fla., has declared the first week of February “Donald J. Trump Week” in honor of the former president, who remains a popular figure in the area."
+    publishedDateTime: 2021-02-04T21:50:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/liZLx9Fjd34/donald-trump-week-frostproof-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-week-frostproof-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-week-frostproof-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trumpfrimobile.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Florida Republicans welcome Trump’s political activity in area: ‘He is our hometown president’"
     excerpt: "Florida Republicans are welcoming former President Trump -- and his political activity -- to the Sunshine State since leaving office, dubbing him their \"hometown president.\""
     publishedDateTime: 2021-01-29T15:54:15Z
@@ -107,6 +123,22 @@ related:
       - url: "https://images.wsj.net/im-291733/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "'Donald J. Trump Week' declared in Florida city 1st week of February"
+    excerpt: "The city of Frostproof, Fla., has declared the first week of February “Donald J. Trump Week” in honor of the former president, who remains a popular figure in the area."
+    publishedDateTime: 2021-02-04T21:53:00Z
+    webUrl: "https://www.foxnews.com/politics/donald-trump-week-frostproof-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-week-frostproof-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-week-frostproof-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trumpfrimobile.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Ana Navarro calls McCarthy's visit to Trump 'white slavery': He looks like he's 'owned by his master'"
     excerpt: "Ana Navarro panned House Minority Leader Kevin McCarthy's recent meeting with President Trump at Mar-a-Lago, saying the GOP congressman is a \"slave\" to the former commander-in-chief."

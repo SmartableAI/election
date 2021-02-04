@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "US warship crosses through Taiwan Strait for first time in Biden presidency"
+    excerpt: "The USS John S. McCain sailed through the Taiwan Strait on Thursday, its first such operation since Joe Biden took office."
+    publishedDateTime: 2021-02-04T22:22:00Z
+    webUrl: "https://www.foxnews.com/world/us-warship-taiwan-strait-first-time-biden-presidency"
+    ampWebUrl: "https://www.foxnews.com/world/us-warship-taiwan-strait-first-time-biden-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/us-warship-taiwan-strait-first-time-biden-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/USS-John-Mccain-iStock.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden Wants to Kill 80% of America's Energy"
     excerpt: "When giving speeches and talking to audiences, I've often been struck by how few Americans, even those who are highly educated, have any idea where the"
     publishedDateTime: 2021-02-02T11:40:00Z

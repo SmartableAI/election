@@ -2,6 +2,62 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-19-trump-rebuts-ny-times-1619-project-with-1776-report-urging-schools-to-reject-ideological-poison.md",
+      "title": "Trump rebuts NY Times '1619 Project' with '1776 Report' urging schools to reject 'ideological poison'",
+      "excerpt": "The Trump-backed panel released a 45-page report on the state of American education in what the White House described as a \"rebuttal\" to \"reckless\" historical accounts of the country's founding.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g22oZoGTwJs/trump-1776-commission-report-schools-should-reject-activist-proganda",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g22oZoGTwJs/trump-1776-commission-report-schools-should-reject-activist-proganda",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03fa13ed-e368-4b5a-9522-1142491d3d4f/2a5aaae2-3ae4-4701-974e-0cfcab852a88/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-1776-commission-report-schools-should-reject-activist-proganda.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-1776-commission-report-schools-should-reject-activist-proganda.amp",
+      "publishedDateTime": "2021-01-18T18:03:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino.md",
       "title": "Carl Icahn nixes charity bid to blow up ex-Trump casino",
       "excerpt": "An auction house seeking bids to blow up a former casino once owned by President Donald Trump has canceled the effort after receiving a cease-and-desist letter from conservative billionaire Carl Icahn",
@@ -1269,58 +1325,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-christine-priola-capitol-rioter-seen-at-mike-pences-desk-quits-school-job-in-qanon-rant.md",
-      "title": "Christine Priola, Capitol Rioter Seen At Mike Pence's Desk, Quits School Job In QAnon Rant",
-      "excerpt": "A former schools therapist has been charged with multiple criminal counts over the storming of the U.S. Capitol after she quit her job, citing several conspiracy theories as the reason behind her decision. Holding a placard that read \"THE CHILDREN CRY OUT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188",
-      "originalUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1710120/us-capitol-riots.jpg",
-          "width": 3422,
-          "height": 2281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188?amp=1",
-      "publishedDateTime": "2021-01-17T01:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

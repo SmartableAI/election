@@ -76,6 +76,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Impeachment trial: How many Senate votes does it take to convict Trump?"
+    excerpt: "The Senate impeachment trial will begin on February 9. "
+    publishedDateTime: 2021-02-04T22:46:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QDJ9u253MV8/impeachment-trial-how-many-senate-votes-convict-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/impeachment-trial-how-many-senate-votes-convict-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/impeachment-trial-how-many-senate-votes-convict-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "What is Trump being accused of in the Senate impeachment trial?"
     excerpt: "The upcoming impeachment trial for former President Donald Trump is set to be highly politicized, and decisions by senators on both sides about how they vote are almost certain to be made more fundamentally on political calculations rather than on the facts. "
     publishedDateTime: 2021-02-04T16:36:05Z
@@ -233,6 +249,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-impeachment.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Impeachment trial: How many Senate votes does it take to convict Trump?"
+    excerpt: "The Senate impeachment trial will begin Feb. 9. How many votes would it take to convict the president? Sixty-seven. The Constitution stipulates that a two-thirds majority must vote for the measure to convict."
+    publishedDateTime: 2021-02-04T22:51:00Z
+    webUrl: "https://www.foxnews.com/politics/impeachment-trial-how-many-senate-votes-convict-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/impeachment-trial-how-many-senate-votes-convict-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/impeachment-trial-how-many-senate-votes-convict-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Matt Gaetz says he’d resign House seat to defend Trump at impeachment trial"
     excerpt: "Matt Gaetz said he would resign if called on by former President Donald Trump to defend him in his upcoming impeachment trial, saying it’d be the “top priority in my life.” The Florida congressman made the comment in an interview with the Steve Bannon-hosted podcast “War Room Pandemic."

@@ -61,6 +61,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden declares 'diplomacy is back' as he outlines foreign policy agenda at state department – live"
+    excerpt: "President reiterated in speech the need for America to strengthen its global alliances – follow the latest"
+    publishedDateTime: 2021-02-04T22:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates?page=with:block-601bca0d8f08c3a6ff7fb6ca"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 91
 
 secured: "0UgWRUtE5qlW/tZZsXG5ueuYbbkA8WLSBXekQ61L0FfUyvtdbutnz5XDzYJNB4LTmqRJ4rjRCD8m+BHBY98mlrq1iMq/ypo2fIatPYn2xar85bCE7aCzmzxoSquYGTpeyB+N+ZOtcstbgSN7XBON+tJS9zDetfiMmQm+bdgw+SDAYUs0HfxVErjzpAIcTlQ8ItBHZTawrK25TPzSV3L8Ar++P9OQJvmuRqqrfQExMElvtdKDcikwZx8AeIxS2QqIBqILF2XQJyN0mYC/3uvsi6jHPmaYAzcvEYbedFbZH3npRtdJGwM9M/m4kkEKAGBSOCbpSObrC5zKomyqm1RUDYgJVn3ihZgt5zUT3ljX+xs=;N8mBI1V6Pz5aMm+h8Ad0ew=="
 ---

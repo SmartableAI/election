@@ -95,6 +95,22 @@ related:
         width: 878
         height: 702
         isCached: true
+  - title: "Voting company sues Fox and Trump lawyers for $2.7bn over false claims of election fraud"
+    excerpt: "Smartmatic lawsuit charges that the defendants conspired to spread false claims that the company helped ‘steal’ the US election"
+    publishedDateTime: 2021-02-04T20:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 131
+    images:
+      - url: "https://i.guim.co.uk/img/media/e2fc6385843fd40dcbfd069855a5575972c1af6a/0_190_5694_3416/master/5694.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ea2e2a58f97d190fdaa497cc2a39031"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump impeachment lawyer says would be 'idiotic,' 'insane' to rehash election fraud claims"
     excerpt: "A lawyer for Donald Trump on Wednesday said it would be \"idiotic\" and \"insane\" to dispute the legitimacy of the 2020 presidential election during his Senate impeachment trial, adding that the former U."
     publishedDateTime: 2021-02-03T22:34:00Z
@@ -927,6 +943,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump rejects Dems' request to testify at impeachment trial"
+    excerpt: "Former President Donald Trump is rejecting a request by House Democrats to testify under oath for his Senate impeachment trial"
+    publishedDateTime: 2021-02-04T22:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "YouTube ban: Google extends suspension of former President Trump's channel"
     excerpt: "YouTube is maintaining its suspension of former President Trump's channel on the video site. Rudy Giuliani's channel also had its revenue nixed."
     publishedDateTime: 2021-01-27T07:16:00Z
@@ -1036,6 +1068,22 @@ related:
     quality: 122
     images:
       - url: "https://i.guim.co.uk/img/media/525663cdbd8a103e342d0670c36da19c31b3c287/0_0_1805_1083/master/1805.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ca181bc5a53e969f0eeb51ddd579b5c6"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Donald Trump will refuse to testify at Senate impeachment trial, lawyers say"
+    excerpt: "Democrats had challenged Trump to explain in next week’s proceedings why he disputed factual allegations"
+    publishedDateTime: 2021-02-04T21:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/04/trump-senate-impeachment-trial-testify-house-democrats"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/04/trump-senate-impeachment-trial-testify-house-democrats"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/04/trump-senate-impeachment-trial-testify-house-democrats"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/3ee49f7e2bb1ff93bf8727cfac079e3f54459eae/0_244_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=35b409975f63ff3337de766f8bef15ae"
         width: 600
         height: 360
         isCached: true
@@ -2353,6 +2401,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Asked To Testify In Senate Impeachment Trial"
+    excerpt: "Democratic lawmakers leading the impeachment case against Donald Trump requested Thursday the former president to testify in his looming trial for allegedly inciting insurrection in the attack on the US Capitol last month."
+    publishedDateTime: 2021-02-04T20:56:00Z
+    webUrl: "https://www.ibtimes.com/trump-asked-testify-senate-impeachment-trial-3137943"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/04/former-us-president-donald-trump-goes-on-trial.jpg"
+        width: 1024
+        height: 649
+        isCached: true
   - title: "Pro-Trump Lawyer Lin Wood Puts License in Jeopardy by Refusing Mental Health Evaluation"
     excerpt: "L. Lin Wood, a lawyer who played a role in former President Donald Trump's attempts to overturn his election defeat, put his law license in jeopardy on Friday by saying on social media that he would not undergo a mental health evaluation requested by an attorney licensing body."
     publishedDateTime: 2021-01-30T01:40:00Z
@@ -2374,6 +2436,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "yNz/WjeBxgUPV717sXS7KYLf+5V3T5MmglDFTG2mWmai3OnGHpGe/sbIQKh5cyESJ+RBZZiBEyF4wj0rtb4N3tauU965rjTydsyiZavfnxJAlgKus6V1VwJMBPuUL5vw3i1/m/mrahXZV9u9ita3dz4uZwp9Ng2O0H8WjH8cdzDsssG8JkPQ619vylVcZosgHfP7cpCjNX8wIeWdpZUcelzBUsjdotYLF8JppwTZpXDRC5+/nCIJeF/gQlZnzXZ1aCXaCFGdCmXKZ8fG8HHRBI6GeF+T9X15/OzKY6qtI5jEW3aRmxUd0FulhcB5xbTw0DC1hQS/jgknpBpQAhcCRDIm8fr11yIfWiqfhfCStuM=;+etOsL1p57aObhrPCdsr+A=="
+secured: "x0CAQuzZmEleQ9F9S6QcPoJz/zABZuyNVCY7WsASc6D8zNB3CK3vPLLz/siKfnTOne+iNHs/nXXnyTxsU2LlubuHy6iwxhWqc/eyQ4PqwJaA7x8yyILE0WgMDUdyvcZNYaHAq9+FEVqhXCyHEcyo0141Icg3wma3aY/QRaVxcS4b7JVez5pGdshwROOJohioTp+WBDZH8emAM1W4tjIpnNpEJAukpiQUBNewkQCMsbYuOE56JbmCAT4cphjni27psXliZMWfzyt3gJ4qlWHbedM4bPcNI+3aop3qJVR4r84PcjSW//wUwAiHfTxeRvWwBBQ9EdIgRkRElFInxDj782A6Pc9jbRSXp/UnnIvvGlFVyhqQhWGeloLl7jLLuyioFOfXFIvjdP/Qa3iCgLBj5UZcnKlrkGV50IaeMzkGZJmDHLxLvwR+7Hc5Nz8MKigpVe7W4jB29zbJ9bovMO3sk9GrnQCLnQktfC1X2pQXwZBhH9Sy6Nl1faiQf5jfjUCUHKxzF22DM6VvFvpnmXRtLg==;oUq5bQVJsx/C2XKH+wAbHg=="
 ---
 

@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "READ: 10 Senate Republicans lay out concerns in letter to Biden after meeting on Covid-19 relief proposal"
+    excerpt: "\n    \n"
+    publishedDateTime: 2021-02-04T21:48:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DlTcTgUXRoc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/senate-republicans-biden-letter-covid-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/senate-republicans-biden-letter-covid-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201172723-01-biden-meets-gop-senators-0201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Betrayed': Republicans urge Biden to change course on stimulus"
     excerpt: "When a bipartisan Senate coalition helped clinch a coronavirus relief bill last year after months of gridlock, it was supposed to be a model for governing in the Biden era. But now Democrats’ surprise takeover of the Senate threatens to leave the group behind."
     publishedDateTime: 2021-01-29T00:16:00Z

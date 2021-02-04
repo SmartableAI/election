@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-30-former-trump-dhs-officials-wolf-cuccinelli-morgan-join-heritage-foundation.md",
+      "title": "Former Trump DHS officials Wolf, Cuccinelli, Morgan join Heritage Foundation",
+      "excerpt": "Three former Trump-era Homeland Security officials, including former acting Secretary Chad Wolf, have joined the Heritage Foundation as fellows -- the latest move to a think tank by ex-Trump officials since leaving office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n3F5E3Ol7Qc/trump-dhs-officials-heritage-foundation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n3F5E3Ol7Qc/trump-dhs-officials-heritage-foundation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/469c3199-7d3a-4668-8d97-4817e9754965/1781159c-2ecc-42a4-a4f3-a154aa678ffc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-dhs-officials-heritage-foundation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-heritage-foundation.amp",
+      "publishedDateTime": "2021-01-30T06:41:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-comparisons-on-twitter.md",
       "title": "Kamala Harris’ Stepdaughter Ella Emhoff’s Modeling Contract Sparks Melania Trump Comparisons On Twitter",
       "excerpt": "Some Twitter users were not impressed with Kamala Harris' stepdaughter Ella Emhoff signing a modeling contract, while others compared the 22-year-old's situation with that of former first lady Melania Trump,",
@@ -1304,62 +1360,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-pro-trump-social-media-influencer-charged-in-2016-scheme-to-suppress-votes-for-hillary-clinton.md",
-      "title": "Pro-Trump social media influencer charged in 2016 scheme to suppress votes for Hillary Clinton",
-      "excerpt": "A pro-Trump social media influencer was arrested in Florida Wednesday after prosecutors say he purposely spread disinformation online in an effort to suppress votes for Hillary Clinton in the 2016 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LIyuVcI6Fec/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LIyuVcI6Fec/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-social-media-influencer-2016-disinformation-scheme-hillary-clinton-votes-florida-new-york.amp",
-      "publishedDateTime": "2021-01-28T13:40:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

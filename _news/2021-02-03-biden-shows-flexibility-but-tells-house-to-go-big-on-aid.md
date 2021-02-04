@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden OKs disaster declaration related to tropical storm"
+    excerpt: "President Joe Biden has approved a disaster declaration for Maryland and ordered federal assistance for recovery efforts in areas affected by Tropical Storm Isaias in August"
+    publishedDateTime: 2021-02-04T21:06:00Z
+    webUrl: "https://www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "How Obamacare Survived Trump and What Biden Might Do"
     excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
     publishedDateTime: 2021-02-04T10:51:00Z

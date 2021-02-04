@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2021/jan/31/biden-presidency-spell
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden ending US support for Saudi-led offensive in Yemen"
+    excerpt: "President Joe Biden announced Thursday the United States was ending support for a grinding five-year Saudi-led military offensive in Yemen that has deepened suffering in the Arabian peninsula’s poorest country,"
+    publishedDateTime: 2021-02-04T21:17:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/ap-source-biden-picks-longtime-us-diplomat-as-yemen-envoy/2021/02/04/72854132-6704-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/ap-source-biden-picks-longtime-us-diplomat-as-yemen-envoy/2021/02/04/72854132-6704-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/ap-source-biden-picks-longtime-us-diplomat-as-yemen-envoy/2021/02/04/72854132-6704-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden threatened Myanmar sanctions. What are his options?"
     excerpt: "Myanmar's military checkpoint is seen on the way to the congress compound in Naypyitaw, Myanmar 1, 2021. REUTERS/Stringer"
     publishedDateTime: 2021-02-02T22:15:00Z

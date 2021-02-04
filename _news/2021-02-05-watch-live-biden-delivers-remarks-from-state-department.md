@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/video/in-the-news/537340-watch-live-president-bi
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -61,6 +61,17 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "Biden declares 'diplomacy is back' as he outlines foreign policy agenda at state department – live"
+    excerpt: "President reiterated in speech the need for America to strengthen its global alliances – follow the latest"
+    publishedDateTime: 2021-02-04T22:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates?page=with:block-601bca0d8f08c3a6ff7fb6ca"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 91
 
 secured: "yG6Pqbz2ZYMQTyLYLruhLEzK5cOfGyHiKR0sOUifdezew2IY3soFNu73h3fRGEY1iKTgCVEIZgI7zIvcGC0tn3I7Os26mwRaLv1UjDi3uQdDuYukkx970L0GD+XKDUDmeNDP42OF13X5i9gfgArW73U5M4BijfUp3tUxJVSq1CYKX3wGY/LNJcciG+vxoeSLwIySYuKgmzMLDeXa154fSSxdBOimYx4527RGjvxtd8uITuhsdIuHeHRZ4YBO1IWTuYQ+7hYhpDvNZPIKRZ4K4Gkdksavodg9Fe+m0JR4TvsgV2KKbkkmlqwn5MJ3Cz6cSzmprnjAW1kNfxbfJTYdUg8pEb0EKJF/sD6s55sMTepIWUE8nE+SXOqyjarUXRAHD15D7l5SuPzSO6Dvxhu1LYqbCohgc1GMkxgdX3kIrWJsWC41QgK7Gyu6IT422bwZn8qE/zDFugbop+zh3MP8isIvLInEikBkkmT+IOLXZNpr0ezuMx9tPJngyCKAZ07+x4nPsjVxCHReUe5iJrut4A==;f3DcOSQVWjq1LUXgh2RFpw=="
 ---
