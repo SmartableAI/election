@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-lo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-loss-covid/index.html"
 type: article
 quality: 188
-heat: 688
+heat: 708
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128150149-03-kevin-mccarthy-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'He lost my vote': Trump supporter on GOP lawmaker's impeachment vote"
+    excerpt: "CNN's Kyung Lah speaks with Trump supporters in Washington state who say they feel betrayed after Rep. Dan Newhouse (R-WA) voted yes on the articles of impeachment of President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-03T23:12:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S1tu_0xcpho/donald-trump-supporters-dan-newhouse-impeachment-vote-lah-pgk-vpx-lead.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/03/donald-trump-supporters-dan-newhouse-impeachment-vote-lah-pgk-vpx-lead.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/03/donald-trump-supporters-dan-newhouse-impeachment-vote-lah-pgk-vpx-lead.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203173851-lah-voters-pkg-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

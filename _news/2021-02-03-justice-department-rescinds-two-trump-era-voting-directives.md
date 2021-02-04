@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'He lost my vote': Trump supporter on GOP lawmaker's impeachment vote"
+    excerpt: "CNN's Kyung Lah speaks with Trump supporters in Washington state who say they feel betrayed after Rep. Dan Newhouse (R-WA) voted yes on the articles of impeachment of President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-03T23:12:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S1tu_0xcpho/donald-trump-supporters-dan-newhouse-impeachment-vote-lah-pgk-vpx-lead.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/03/donald-trump-supporters-dan-newhouse-impeachment-vote-lah-pgk-vpx-lead.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/03/donald-trump-supporters-dan-newhouse-impeachment-vote-lah-pgk-vpx-lead.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203173851-lah-voters-pkg-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "South Carolina GOP censures Rep. Tom Rice after his vote to impeach Trump"
     excerpt: "The South Carolina Republican Party voted Saturday to formally censure Rep. Tom Rice, who represents the state's 7th Congressional District, for his vote to impeach former President Donald Trump in the House of Representatives.\n    \n"
     publishedDateTime: 2021-01-30T19:41:47Z

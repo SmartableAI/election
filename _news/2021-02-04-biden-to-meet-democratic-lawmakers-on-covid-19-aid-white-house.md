@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
 type: article
 quality: 125
-heat: 185
+heat: 225
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 1131
         isCached: true
+  - title: "Biden's 1st 100 days live updates: House proceeding with COVID relief without GOP"
+    excerpt: "Wyo., is keeping her place in House GOP leadership after Republicans voted 145-61 to keep her in the No. 3 position, despite her vote to impeach former President Donald Trump last month.  Trump's most ardent supporters in the House waged a weeks-long campaign to oust Cheney from her post,"
+    publishedDateTime: 2021-02-04T01:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/us-capitol-dome-reut_hpMain_20210203-184644_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Biden tells congressional Democrats would consider limits on who gets COVID-19 checks"
     excerpt: "President Joe Biden told congressional Democrats on Wednesday he would not back down on including $1,400 checks for struggling Americans in his COVID-19 relief plan but would consider tighter limits on who gets them,"
     publishedDateTime: 2021-02-03T19:28:00Z
@@ -78,6 +94,20 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550212723&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1219E"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden has a 'mandate' to deliver COVID-19 relief: White House deputy press secretary"
+    excerpt: "White House deputy press secretary Karine Jean-Pierre joined ABC News' \"Powerhouse Politics\" podcast to discuss COVID-19 relief."
+    publishedDateTime: 2021-02-04T00:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-mandate-deliver-covid-19-relief-white-house/story?id=75659343"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 98
+    images:
+      - url: "https://s.abcnews.com/images/Politics/karine-rt-er-210203_1612388213842_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "QXAt1WP3aul1OewqW6gmtGYp5b8UCFwANj02rYrp1/VL+THcQ944JCG/dQAE1XYYoguf4QC07x+LBAbR9K2LXJ0z+aknyAHIdT9fIZ+iOYxXbT9RN+PiGoIe/bjKaBST0GbiMKXf1GFNHI0GuzzJe3IqbLkOzUL+WM5I+LBxMCuwVcUzscZblJQPXzW6hNbBaAQtC3N9mdn6gp2nPbv7WAiiKAHhaR0eawtUz9zCXPvtoMMk4a/HPUXpzXYaiKxsVmu2SfnfaEAim7z4zie9451Kq8V0VvepV9xegzY9WGgNnWJ7XWZ72RtPR6uR8PFj20v40j8tQDU5oUpWshgMZ7NlE9r/8z8lJTDeN48LaxA=;GHZUvoyJOGn6w83p+UJpfQ=="

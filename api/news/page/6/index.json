@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-27-european-commission-president-twitters-trump-ban-a-serious-interference-with-freedom-of-expression.md",
+      "title": "European Commission president: Twitter's Trump ban a 'serious interference with freedom of expression'",
+      "excerpt": "European Commission president Ursula von der Leyen said regulators in the U.S. and abroad should work together to develop a “framework of laws for such far-reaching decisions.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ES6J2Mgmy7I/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ES6J2Mgmy7I/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb68ffc8-6b3e-4f50-8aa8-fbd4121d32e4/ec0272e1-91d1-4361-9227-e9df659a3a30/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression.amp",
+      "publishedDateTime": "2021-01-27T14:21:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-gop-blasts-bidens-climate-gambit-its-a-full-out-assault-on-the-oil-and-gas-industry.md",
       "title": "GOP blasts Biden's climate gambit: 'It's a full-out assault on the oil and gas industry'",
       "excerpt": "Republicans on Capitol Hill came out swinging Wednesday against President Biden's latest energy policies, claiming his efforts to combat the climate crisis are killing American jobs.",
@@ -182,7 +238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1300,62 +1356,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-fact-checking-7-statistical-claims-from-bidens-quite-factual-economic-speech.md",
-      "title": "Fact-checking 7 statistical claims from Biden's (quite factual) economic speech ",
-      "excerpt": "President Joe Biden recited a flurry of figures in a Friday speech in which he urged Congress to pass the $1.9 trillion pandemic relief package he calls the American Rescue Plan.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wNw5Fwfuu0g/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wNw5Fwfuu0g/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122151617-03-biden-economy-0122-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/fact-check-biden-economic-stats-pandemic-rescue-plan/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/fact-check-biden-economic-stats-pandemic-rescue-plan/index.html",
-      "publishedDateTime": "2021-01-26T06:31:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

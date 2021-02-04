@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'He lost my vote': Trump supporter on GOP lawmaker's impeachment vote"
+    excerpt: "CNN's Kyung Lah speaks with Trump supporters in Washington state who say they feel betrayed after Rep. Dan Newhouse (R-WA) voted yes on the articles of impeachment of President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-03T23:12:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S1tu_0xcpho/donald-trump-supporters-dan-newhouse-impeachment-vote-lah-pgk-vpx-lead.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/03/donald-trump-supporters-dan-newhouse-impeachment-vote-lah-pgk-vpx-lead.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/03/donald-trump-supporters-dan-newhouse-impeachment-vote-lah-pgk-vpx-lead.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203173851-lah-voters-pkg-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Justice Department rescinds two Trump-era voting directives "
     excerpt: "The Justice Department on Tuesday rescinded two voting-related memos issued by the Trump administration, including one that prompted a public corruption prosecutor to step down from his post because it upended decades of department policy on voter fraud investigations to not interfere in states' vote"
     publishedDateTime: 2021-02-03T21:17:54Z

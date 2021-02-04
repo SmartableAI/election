@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden call for unity lost in the noise of political combat"
+    excerpt: "President Biden’s call for unity has so far failed to curtail disputes between Democrats and their Republican rivals."
+    publishedDateTime: 2021-02-04T02:50:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5KspafeCcw4/dem-lawmakers-rip-gop-rivals-despite-biden-call-for-unity"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-lawmakers-rip-gop-rivals-despite-biden-call-for-unity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-lawmakers-rip-gop-rivals-despite-biden-call-for-unity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26f847b1-f450-422c-81bc-097a9a89d19c/71bc8dd3-def7-425a-85be-ea19d10b279f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "New Justice Department pick has close ties to Hunter Biden attorney"
     excerpt: "It doesn't seem to matter to this new radical extreme Democratic Party, and Mr. Unity is not weighing in. They will never miss an opportunity to try to politically bludgeon Donald Trump. They will do anything to prevent him from running again in 2024."
     publishedDateTime: 2021-02-03T18:38:00Z

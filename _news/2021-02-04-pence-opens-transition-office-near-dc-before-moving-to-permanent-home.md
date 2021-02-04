@@ -81,6 +81,17 @@ related:
         width: 1600
         height: 1143
         isCached: true
+  - title: "Former VP Pence Opens Transition Office in Northern Virginia"
+    excerpt: "Former Vice President Mike Pence has opened a transition office in northern Virginia. Pence announced Wednesday that the Office of the Former Vice President will handle correspondence, scheduling requests,"
+    publishedDateTime: 2021-02-03T19:15:00Z
+    webUrl: "https://www.usnews.com/news/best-states/virginia/articles/2021-02-03/former-vp-pence-opens-transition-office-in-northern-virginia"
+    ampWebUrl: "https://www.usnews.com/news/best-states/virginia/articles/2021-02-03/former-vp-pence-opens-transition-office-in-northern-virginia?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/virginia/articles/2021-02-03/former-vp-pence-opens-transition-office-in-northern-virginia?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "b64sI59u3za4/duoYYobywD37wjvnnctHMPgcM+N+APwuTNwrHqs+EE6uaV9/4O+SwRXFS+YkhbeW4Nr0NucNOR8pKiZNkNJkXZ+i+4rKL3OT0/sWE+ZDcoqWiOnRTCaCna9V8jXxrVI62YA334JQd5wHOBp0ESrB8NrswajUf+wX0JZIknixb4Eqq+Vt6eQREtM1AjR2Yq4nswYkXFalWFJns9ClFyFY5Tq3sNXddSAYqsBL0TfON5q4mi76HvBX4ZBF4HoXre+upJ73cWDfZ0RxHA7DGYq2RlOIIWlySj7jhzs1p+swTQO78zMrjMfpGA+0hhPxjYEm+EyMCCwdW2EZ5e1WoDrR00YCPInlXs=;56peQTfQ3A/aiEDUTHbGEQ=="
 ---
