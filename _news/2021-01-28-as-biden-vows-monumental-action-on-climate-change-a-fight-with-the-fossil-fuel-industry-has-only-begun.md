@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden EPA nominee vows 'sense of urgency' on climate change"
+    excerpt: "President Joe Biden’s nominee to run the Environmental Protection Agency has pledged to act with “a sense of urgency” on climate change and other priorities, while working with lawmakers from both par"
+    publishedDateTime: 2021-02-04T19:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/correction-biden-cabinet-epa-story-75688629"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/correction-biden-cabinet-epa-story-75688629"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/correction-biden-cabinet-epa-story-75688629"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5e77a61f92c34286b16f7893409372d9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "jcXhfU3BAuyshJQTsOZCHAUsvfBGQ7QmZo2IBLa0o994jlYFOXWzC0Jq1nSe7NgfPvau5bAwCMYrebYLenNQjezX1sxL9x9oevB6HC31uSgoaJ6A5isCMtW8Ezo9ruHzDpGqNk+Cq4TtfGLNwRmXWlNNzGzUcdGTjhb2uj1N9scc0iIbDJBW1pHJyxj7C4yjByqZMbP20o9PywTD8Hk21e02Gl3evlccnnrVCsbSEA63ncrQbwUGh02v6polUZu5GJMCj9eLBQVYb+1EQZpS6tUIjkqTffaHARBWLjin715Hghdh05G9J5KR4MNaEZxdwFZVArRaGPQC49LwJfGS62XpENxHTByQu7AHkuA0aoabZdvRqKuU3MRdat848McZvhPlboHBOIDsX0jvVVBEgjNTf6EUZ2J4+T+5Jdg1nydQXZVd4gypGZowAe4e4gA+13mbkTE/8t7jAeuEccC55YiHFlRqJa9RZnT6bS+Xqsw3wTSXTVvcRN++wcKqUUaAmrZHIR84RCNpGjMDOuObEA==;zfU4B6Rk/FsCqmPZLNPNIw=="
 ---

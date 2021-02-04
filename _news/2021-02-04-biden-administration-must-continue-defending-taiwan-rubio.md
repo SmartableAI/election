@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden expected to announce dramatic increase in refugee admissions"
+    excerpt: "President Biden on Thursday is expected to announce a dramatic increase in the number of admissions of refugees into the U.S. -- the latest significant shift in immigration policy in his administration."
+    publishedDateTime: 2021-02-04T19:54:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3rRgaEGeAT4/biden-dramatic-increase-in-refugee-admissions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dramatic-increase-in-refugee-admissions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dramatic-increase-in-refugee-admissions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ccc80402-1f0f-4951-b077-6701a86ada5f/7714e77c-0770-463b-aa9a-092286513796/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden administration to open overflow shelter for migrant children in Texas"
     excerpt: "The Biden administration said it plans on reactivating a “temporary Influx Care Facility” in Carrizo Springs, Texas, to potentially accommodate up to 700 migrant children within the next two weeks."
     publishedDateTime: 2021-02-03T07:57:24Z

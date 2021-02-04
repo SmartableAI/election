@@ -255,6 +255,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden White House settles into a rhythm amid pandemic hurdles"
+    excerpt: "While Covid-19 precautions have kept many staff members at home, Biden has established a free-ranging style so far."
+    publishedDateTime: 2021-02-04T20:00:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-white-house-settles-rhythm-amid-pandemic-hurdles-n1256729"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256729"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256729"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_05/3447690/210204-joe-biden-oval-office-ew-227p_f2317b2a5c9d3511855ce828c814f930.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Covid live updates: Biden raises Covid vaccine goal, UK passes 100,000 deaths"
     excerpt: "President Biden increased his Covid vaccine goal to 1.5 million shots administered a day, deemed more likely due to states ramping up vaccine distribution."
     publishedDateTime: 2021-01-26T20:20:00Z

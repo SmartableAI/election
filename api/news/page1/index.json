@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-04-pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage.md",
+      "title": "Pelosi rejects Trump impeachment acquittal, says Senate will reveal 'cowards or courage'",
+      "excerpt": "House Speaker Nancy Pelosi, D-Calif., rejected any notion that former President Trump is headed for a second acquittal in the Senate during his impeachment trial. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EZpJNfqhVj4/pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EZpJNfqhVj4/pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage.amp",
+      "publishedDateTime": "2021-02-04T12:03:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-pence-joins-heritage-foundation-as-visiting-fellow-to-promote-conservative-policies.md",
+      "title": "Pence joins Heritage Foundation as visiting fellow to promote conservative policies",
+      "excerpt": "Former Vice President Mike Pence is joining the conservative Heritage Foundation as a visiting fellow. He and former second lady Karen Pence plan to move back to Indiana this summer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/01/20/pence-indiana_return_41688_c0-209-5770-3574_s1200x700.jpg?8a97340ee4b856c83dadb26ef2416bc3d05aa465",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/",
+      "publishedDateTime": "2021-02-04T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-mike-pence-to-join-heritage-foundation-as-distinguished-visiting-fellow.md",
       "title": "Mike Pence to join Heritage Foundation as distinguished visiting fellow",
       "excerpt": "Former Vice President Mike Pence is joining the Heritage Foundation as a distinguished visiting fellow, according to a press release from the conservative think tank. \n    \n",
@@ -1088,7 +1187,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-epa-nominee-vows-to-preserve-resources-boost-economy/2021/02/03/7ff2a466-6652-11eb-bab8-707f8769d785_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1237,119 +1336,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-psakis-resurfaced-tweets-slam-trump-sanders-supporters-severely-undercutting-unity-message.md",
-      "title": "Psaki's resurfaced tweets slam Trump, Sanders supporters, severely undercutting 'unity' message",
-      "excerpt": "President Biden often invoked a message of national unity on the 2020 campaign trail and since taking office last month – but did his top spokesperson get the message?",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s3ELqsc4c-I/psakis-resurfaced-tweets-trump-sanders-unity-message",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s3ELqsc4c-I/psakis-resurfaced-tweets-trump-sanders-unity-message",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21034688188622-e1612386247366.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psakis-resurfaced-tweets-trump-sanders-unity-message.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psakis-resurfaced-tweets-trump-sanders-unity-message.amp",
-      "publishedDateTime": "2021-02-03T13:44:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-biden-signs-immigration-executive-orders-to-address-moral-failing-of-trumps-policies.md",
-      "title": "Biden signs immigration executive orders to address 'moral failing' of Trump's policies",
-      "excerpt": "One executive order will create a task force to reunite children who were separated from their parents under Trump's \"zero tolerance\" policy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/immigration/biden-sign-executive-orders-immigration-including-family-reunification-n1256431",
-      "originalUrl": "https://www.nbcnews.com/politics/immigration/biden-sign-executive-orders-immigration-including-family-reunification-n1256431",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_05/3443371/210119-joe-biden-ac-949p_6cc3217a532cb2a7374b288ca74a1dfc.jpg",
-          "width": 2500,
-          "height": 1659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1256431",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256431",
-      "publishedDateTime": "2021-02-03T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

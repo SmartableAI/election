@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-republican-fundraising-after-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-republican-fundraising-after-election.amp"
 type: article
 quality: 190
-heat: 590
+heat: 610
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump will not testify in 'unconstitutional' Senate impeachment trial"
+    excerpt: "Former President Trump's legal team fired back at Impeachment Manager Jamie Raskin's request for the former president to testify as part of the Senate impeachment trial, calling it a \"public relations stunt\" and saying they \"cannot prove\" the allegations against him."
+    publishedDateTime: 2021-02-04T20:45:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-lz7RfutAek/trump-response-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-response-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-response-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Rand Paul to trigger Senate vote on whether Trump impeachment trial is constitutional"
     excerpt: "Sen. Rand Paul on Tuesday afternoon is expected to force a vote on whether or not the Senate impeachment trial of former President Trump is unconstitutional now that he is out of office. "

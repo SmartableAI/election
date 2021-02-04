@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-epa-nominee-vows-to-pr
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-epa-nominee-vows-to-preserve-resources-boost-economy/2021/02/03/7ff2a466-6652-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden EPA nominee vows 'sense of urgency' on climate change"
+    excerpt: "President Joe Biden’s nominee to run the Environmental Protection Agency has pledged to act with “a sense of urgency” on climate change and other priorities, while working with lawmakers from both par"
+    publishedDateTime: 2021-02-04T19:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/correction-biden-cabinet-epa-story-75688629"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/correction-biden-cabinet-epa-story-75688629"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/correction-biden-cabinet-epa-story-75688629"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5e77a61f92c34286b16f7893409372d9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "As Biden vows monumental action on climate change, a fight with the fossil fuel industry has only begun"
     excerpt: "President Biden is determined to curb America's carbon output, including oil and gas production. It's not going to come without a fight."
     publishedDateTime: 2021-01-28T05:50:00Z

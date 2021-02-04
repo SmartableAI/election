@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://static.politico.com/c3/1c/d92bc77e479e8437bde8fc281405/gettyimages-1230855431-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden White House settles into a rhythm amid pandemic hurdles"
+    excerpt: "While Covid-19 precautions have kept many staff members at home, Biden has established a free-ranging style so far."
+    publishedDateTime: 2021-02-04T20:00:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-white-house-settles-rhythm-amid-pandemic-hurdles-n1256729"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256729"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256729"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_05/3447690/210204-joe-biden-oval-office-ew-227p_f2317b2a5c9d3511855ce828c814f930.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Covid live updates: Biden raises Covid vaccine goal, UK passes 100,000 deaths"
     excerpt: "President Biden increased his Covid vaccine goal to 1.5 million shots administered a day, deemed more likely due to states ramping up vaccine distribution."

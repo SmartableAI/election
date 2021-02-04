@@ -176,6 +176,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump impeachment trial sees wide partisan divide: polls"
+    excerpt: "By a slight majority, Americans want the Senate to convict former President Trump in his upcoming impeachment trial, according to two new national polls. But both surveys show an extremely wide partisan divide over whether Trump should be convicted."
+    publishedDateTime: 2021-02-04T19:40:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cz_CdWRpD3I/trump-impeachment-trial-sees-wide-partisan-divide-polls"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/a84aa83d-TrumpfriBT.jpg"
+        width: 1280
+        height: 533
+        isCached: true
   - title: "Trump, House Democrats to Lay Out Impeachment Trial Strategies"
     excerpt: "Under rules sketched out for the trial, the parties must answer whether Donald Trump can be tried in the Senate for acts committed when he was president, and how they respond to the charge of incitement of insurrection."
     publishedDateTime: 2021-02-02T11:54:00Z

@@ -239,6 +239,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden says he will seek to raise refugee cap to 125,000"
+    excerpt: "U.S. President Joe Biden will seek to raise the annual refugee cap to 125,000, he said during a speech at the U.S. State Department on Thursday."
+    publishedDateTime: 2021-02-04T20:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees/biden-says-he-will-seek-to-raise-refugee-cap-to-125000-idUSKBN2A42RK?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42RK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42RK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550369480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131NO"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden follows in recent presidential footsteps with Super Bowl interview"
     excerpt: "When U.S. President Joe Biden appears for a CBS interview this Super Bowl Sunday, he will be following a recent White House tradition of using the country's most-watched sporting event to reach a national audience in the tens of millions."
     publishedDateTime: 2021-02-04T04:24:00Z

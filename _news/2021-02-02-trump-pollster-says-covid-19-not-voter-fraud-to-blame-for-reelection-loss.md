@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-lo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-loss-covid/index.html"
 type: article
 quality: 188
-heat: 708
+heat: 728
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120094151-monty-wilkinson-justice-department-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Donald Trump is no longer part of SAG-AFTRA"
+    excerpt: "He didn't want to be fired, so he quit.\n    \n"
+    publishedDateTime: 2021-02-04T19:48:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RLbUfx-CA14/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/entertainment/donald-trump-sag-aftra/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/entertainment/donald-trump-sag-aftra/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929005555-donald-trump-the-apprentice-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

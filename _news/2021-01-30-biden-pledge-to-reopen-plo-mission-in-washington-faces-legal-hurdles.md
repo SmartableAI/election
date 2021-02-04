@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y1FB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y1FB"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden prepares to lift cap on refugees by eight times previous level"
+    excerpt: "Sources say that Biden is set to lift the cap on the number of refugees allowed entry within a budgetary year. In one of the sharpest pivots from Trump administration policies, President Biden will reportedly notify Congress that he will begin increasing the amount of admissions the U."
+    publishedDateTime: 2021-02-04T20:44:00Z
+    webUrl: "https://thehill.com/changing-america/respect/accessibility/537405-biden-prepares-to-lift-cap-on-refugees-by-eight-times"
+    ampWebUrl: "https://thehill.com/changing-america/respect/accessibility/537405-biden-prepares-to-lift-cap-on-refugees-by-eight-times?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/accessibility/537405-biden-prepares-to-lift-cap-on-refugees-by-eight-times?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_biden_123120getty_1.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "In first lawsuit against Biden administration, Texas AG Paxton challenges deportation freeze"
     excerpt: "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days."
     publishedDateTime: 2021-01-22T22:48:00Z

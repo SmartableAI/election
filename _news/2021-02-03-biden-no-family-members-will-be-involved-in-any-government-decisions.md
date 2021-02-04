@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/biden-people-magazine-fa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/biden-people-magazine-family-members-government/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Joe Biden's Cabinet: Who’s in, and who voted against them"
+    excerpt: "President Joe Biden has assembled, by some accounts, a history-making Cabinet: If all members are approved, it will be the most diverse array of presidential counselors ever. But can he get them confirmed by the Senate?"
+    publishedDateTime: 2021-02-04T15:41:00Z
+    webUrl: "https://www.politico.com/interactives/2021/joe-biden-cabinet-members-confirmations-list/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://politico.com/interactives/2021/joe-biden-cabinet-members-confirmations-list/media/share.jpg"
+        width: 600
+        height: 324
+        isCached: true
 
 secured: "Vi8L0c71i9vGgMZvqjF3kZ1sVL48NvGA4cL1U1dOdw+jXLv3saIr/Wq8wwaAUpIwVT8FMubKqjZijI3ak9JPq7uY+SFF3tcYAOja1NEOw14DYGwjFDLcdrv9boNVOKvRpsGdiB8Tb5xEIZixztm3yvxHDWhun89ggb9sjY7SJv0WsIKfh5rMotvrCYMMltRHczDIp++d9Ll52bc6lzq1rJpadUSTA+dKui0StmvUUDMfBRRQDRaoKpW1odogl3uqzT8zYMWt7+Ttiq633Enf+XvshGHJTCLkYZzcJlMraAwZI5a8pJUmxlQMVCQsCvPc212Zeyhg43fAgYPLCaQSs0/L2PkE8JMZ/0SyEeF+1mA=;x6k95tbs+LyQV81hLKPgFw=="
 ---

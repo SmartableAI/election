@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-secu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/5fce824d46cd54ea2d3e48e3cc07aa6727c9b174/0_14_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7b4c6ce0b8bc7919f3fda6c3355e002a"
         width: 600
         height: 360
+        isCached: true
+  - title: "U.S. Senate committee backs Biden nominee to be U.N. ambassador"
+    excerpt: "The U.S. Senate Foreign Relations Committee on Thursday backed President Joe Biden's nomination of veteran diplomat Linda Thomas-Greenfield to be the U.S. ambassador to the United Nations, steering her toward confirmation by the full Senate."
+    publishedDateTime: 2021-02-04T20:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-un/u-s-senate-committee-backs-biden-nominee-to-be-u-n-ambassador-idUSKBN2A426C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A426C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A426C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550341840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131CV"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden tells Democrats he's open to negotiating who can get a $1,400 stimulus check"
     excerpt: "Calls to target a fresh wave of $1,400 stimulus checks to lower-income households are gaining steam in Congress."

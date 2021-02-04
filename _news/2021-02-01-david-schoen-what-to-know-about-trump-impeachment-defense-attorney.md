@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/david-schoen-what-to-know-about-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -158,6 +158,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2adcd31-e609-4af1-adfe-ce307fc62459/5ea8672c-eaba-4fc3-8b0c-ba4148c3e1fb/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump impeachment trial sees wide partisan divide: polls"
+    excerpt: "By a slight majority, Americans want the Senate to convict former President Trump in his upcoming impeachment trial, according to two new national polls. But both surveys show an extremely wide partisan divide over whether Trump should be convicted."
+    publishedDateTime: 2021-02-04T19:40:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cz_CdWRpD3I/trump-impeachment-trial-sees-wide-partisan-divide-polls"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/a84aa83d-TrumpfriBT.jpg"
+        width: 1280
+        height: 533
         isCached: true
   - title: "Bruce Castor: What to know about Trump impeachment defense attorney"
     excerpt: "Former President Donald Trump on Sunday announced his new legal team for his upcoming Senate impeachment trial, featuring attorney Bruce Castor."

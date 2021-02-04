@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1250
+heat: 1270
 published: true
 
 provider:
@@ -223,6 +223,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden says he will seek to raise refugee cap to 125,000"
+    excerpt: "U.S. President Joe Biden will seek to raise the annual refugee cap to 125,000, he said during a speech at the U.S. State Department on Thursday."
+    publishedDateTime: 2021-02-04T20:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees/biden-says-he-will-seek-to-raise-refugee-cap-to-125000-idUSKBN2A42RK?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42RK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42RK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550369480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131NO"
+        width: 817
+        height: 545
         isCached: true
   - title: "Immigrants in sanctuary in churches hope Biden offers relief"
     excerpt: "Dozens of immigrants from Massachusetts to Colorado who have taken sanctuary as a last resort to stay in the U.S. are newly hopeful under President Joe Biden"

@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump will not testify in 'unconstitutional' Senate impeachment trial"
+    excerpt: "Former President Trump's legal team fired back at Impeachment Manager Jamie Raskin's request for the former president to testify as part of the Senate impeachment trial, calling it a \"public relations stunt\" and saying they \"cannot prove\" the allegations against him."
+    publishedDateTime: 2021-02-04T20:45:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-lz7RfutAek/trump-response-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-response-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-response-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rand Paul to trigger Senate vote on whether Trump impeachment trial is constitutional"
     excerpt: "Sen. Rand Paul on Tuesday afternoon is expected to force a vote on whether or not the Senate impeachment trial of former President Trump is unconstitutional now that he is out of office. "
     publishedDateTime: 2021-01-26T17:01:20Z
@@ -338,6 +354,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "klIdwwg9cYvDChAVtWObnr5cgpis68ia/bu/y/zZ83cDS5Iv6RbOLyGlO07kYC1CK4za0JXSV+ck1FZwk3fgZB4krGuUlgIkIhVyuVPLx8vjpSCQKNybuPoXfhkl1uhTCVZ0jBWymgOfYFkJ/HebZRlMiu99PRQ8ju4yi+VtMtlYFFkyvsFEuAQxphlbF7NNfc85zeJHRTndKuUVXGP6dfWPHCzLNdHVraPEUOvWuNEuX3oYlkNd0NDO14a2npHGya7OMOEtoHAM0D4KpT4g+qApBNLMabXc8ojQcuFGonILWLg56W8AUL/mPWQd96syfLAn+Zrq2U9kvEj0iUWvBFCOmD7rIH5cq1j6VBt0YAA=;CSL4qptTreNgDQ2daWnOPw=="
+secured: "/MZP/FAbzCtbzSxiXAkhUVC3YhzFNbUL/Z9MNT81DTfk39DmKIr2h0ZOtjcbpR+q20AAyUtwZiPiQTGEKT6cNkArHAYaF3p+pwHaP0SYyb6W12yOyJug8Id88W9ebcKcH6nF5QpsGtyhbA31uay/nZEEiJ6zJDigupDDGrt8bqfZ4CXMhuV2ak1ViJiRcYX9RJtshBKY/sbtxF1lI8hR1zEYLNT6+BkuYFhbPlHzQLYECj84p5mBXzVnPz3EuO4g2uZY8BpZnTtikM4sMK+Z96vIVtbViMf3mBp7mHUZvXeS1KkCmDUlhvbHJ1tIPACqXVqUhkAdwOkyCMlh9bbgjErfWmmKdnXXXO5+VRixMB0yS4c6ZDzHjWHUrYVxR/iindnlokQOZNnKDA1NOPFXDMaxMXAiSdNgxX4H+tEyhf4bDJrkBct//TyCtnMKBe6OxZbbdpSy/fEbv24hoQBEW6afkZvnhVmPKvBnyGIRw1BVNqjFuxMwsim1iWKrwUSn7cvENkjZU8pPuVqnmsRNlQ==;l5E5LOE0xaoJCw9Z4lg6gA=="
 ---
 

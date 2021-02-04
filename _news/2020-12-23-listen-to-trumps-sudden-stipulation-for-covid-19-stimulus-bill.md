@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Donald Trump is no longer part of SAG-AFTRA"
+    excerpt: "He didn't want to be fired, so he quit.\n    \n"
+    publishedDateTime: 2021-02-04T19:48:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RLbUfx-CA14/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/entertainment/donald-trump-sag-aftra/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/entertainment/donald-trump-sag-aftra/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929005555-donald-trump-the-apprentice-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "South Carolina GOP censures Rep. Tom Rice after his vote to impeach Trump"
     excerpt: "The South Carolina Republican Party voted Saturday to formally censure Rep. Tom Rice, who represents the state's 7th Congressional District, for his vote to impeach former President Donald Trump in the House of Representatives.\n    \n"
     publishedDateTime: 2021-01-30T19:41:47Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 415
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP base rewards Trump loyalists with campaign cash and media appearances"
+    excerpt: "The Republicans who have remained aligned with former President Donald Trump have become lightning rods in Washington -- but are being rewarded with fundraising surges from Republican small-dollar donors and bookings on right-wing media outlets who could steer the party's future.\n    \n"
+    publishedDateTime: 2021-02-04T20:38:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lngdwh3-fO0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/hawley-greene-fundraising-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/hawley-greene-fundraising-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204151431-hawley-greene-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -174,6 +190,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_05/3447408/210203-2x1-marjorie-taylor-greene-liz-cheney-ew-336p_ecadd80ffda389f9dff9c44761f02ec8.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "GOP Rep. Anthony Gonzalez risked his career to impeach Trump. He's not sorry."
+    excerpt: "Under fire back home, the Ohio lawmaker may have lost his chance at a Senate seat and could face a House primary challenge next year."
+    publishedDateTime: 2021-02-04T19:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/republican-anthony-gonzalez-voted-impeach-trump-he-wants-rid-gop-n1256291"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256291"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256291"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_05/3447117/210202-anthony-gonzalez-main-an_c7fc91c1c1739ba61a9001d302fe47ed.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Virginia Republicans' search for a standard-bearer is a key test of post-Trump GOP in upcoming governor's race"
     excerpt: "As Republicans search for a path forward following Donald Trump's defeat and the party's loss of power in Washington, many are looking across the Potomac River to Virginia, where voters will select a new governor this November."

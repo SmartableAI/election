@@ -272,6 +272,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden White House settles into a rhythm amid pandemic hurdles"
+    excerpt: "While Covid-19 precautions have kept many staff members at home, Biden has established a free-ranging style so far."
+    publishedDateTime: 2021-02-04T20:00:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-white-house-settles-rhythm-amid-pandemic-hurdles-n1256729"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256729"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256729"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_05/3447690/210204-joe-biden-oval-office-ew-227p_f2317b2a5c9d3511855ce828c814f930.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden meets with GOP senators in 'frank' discussion about slimmed-down Covid relief"
     excerpt: "Ten Republican senators wrote a letter Sunday requesting a meeting with President Joe Biden to discuss a slimmed-down coronavirus relief plan that they say can win bipartisan support. The Republicans propose a relief package that is much smaller than Biden's $1."
     publishedDateTime: 2021-02-02T01:15:00Z

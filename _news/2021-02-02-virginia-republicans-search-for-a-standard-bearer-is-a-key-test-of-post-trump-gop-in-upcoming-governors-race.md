@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP base rewards Trump loyalists with campaign cash and media appearances"
+    excerpt: "The Republicans who have remained aligned with former President Donald Trump have become lightning rods in Washington -- but are being rewarded with fundraising surges from Republican small-dollar donors and bookings on right-wing media outlets who could steer the party's future.\n    \n"
+    publishedDateTime: 2021-02-04T20:38:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lngdwh3-fO0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/hawley-greene-fundraising-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/hawley-greene-fundraising-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204151431-hawley-greene-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Two Ohio GOP lawmakers are proposing an annual state holiday in honor of Trump"
     excerpt: "Two Ohio Republican state lawmakers want to designate June 14 as an annual state holiday honoring former President Donald Trump.\n    \n"
     publishedDateTime: 2021-02-03T17:38:07Z
@@ -191,6 +207,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_05/3447408/210203-2x1-marjorie-taylor-greene-liz-cheney-ew-336p_ecadd80ffda389f9dff9c44761f02ec8.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "GOP Rep. Anthony Gonzalez risked his career to impeach Trump. He's not sorry."
+    excerpt: "Under fire back home, the Ohio lawmaker may have lost his chance at a Senate seat and could face a House primary challenge next year."
+    publishedDateTime: 2021-02-04T19:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/republican-anthony-gonzalez-voted-impeach-trump-he-wants-rid-gop-n1256291"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256291"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256291"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_05/3447117/210202-anthony-gonzalez-main-an_c7fc91c1c1739ba61a9001d302fe47ed.jpg"
+        width: 2500
+        height: 1250
         isCached: true
 
 secured: "bcEdwbDRhK1crRporwqSVRZtTzDuk7Rckje5xW/M4Mw2ASTVIS3p8N+tj2cppXI0FUnHX1Q15GJ3jtsUoq5ZZJYdlD2ad61mK5AH5EeGWq6QyN/OyovVaSvGOne7a8f/elG8oCdr44Sh0xLlD6SNmRciznJPkf7Wh4HRq/Ff+IKqIa+WyP3Fmk0KU+U/2g48whHlD6ISDPP8GrcZy1Hxkn0PwN+xxqwPSrt/fhN8bjEEkvIgoPJCBMGec91t5fJK9QCHNzFDa5IyteMtGBTqbsMe5mkc9VgLmNdayb2bHvEhxhBNEFpRIFVuvy59IK1/UlMAozbDj7JPq67xPRyPxWcsGwnNXgKTGjyonledjpe2pnz1ze2bYpcLUCgy8REHZQvdyY0825uOPVtGe/T0vGYe+eZlm1zxUg2cz3r9Z1vtDf8we9HFyTs6lnvpop/zFCZIJRnw8wn/TYafmfQzGq9SUW8jKLz1iTLXF2EaAMroCt4ICm9vY+xoyv4GFyH7oXZwafGJs3nTMsgfGdRz5Q==;/sFKkoaNK5BhxY5/eXbK8g=="

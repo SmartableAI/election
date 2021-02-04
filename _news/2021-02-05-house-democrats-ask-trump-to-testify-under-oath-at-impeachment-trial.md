@@ -1,12 +1,12 @@
 ---
 category: news
 title: "House Democrats ask Trump to testify under oath at impeachment trial"
-excerpt: "The House Democrats who will present the case against former President Donald Trump in his Senate impeachment trial are requesting the former president testify under oath during proceedings next week."
-publishedDateTime: 2021-02-04T18:27:00Z
-originalUrl: "https://www.cbsnews.com/news/trump-impeachment-trial-house-managers-trump-testify/"
-webUrl: "https://www.cbsnews.com/news/trump-impeachment-trial-house-managers-trump-testify/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-trial-house-managers-trump-testify/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-trial-house-managers-trump-testify/"
+excerpt: "The House Democrats who will prosecute the case against former President Donald Trump in his Senate impeachment trial are requesting the former president testify under oath during proceedings next week."
+publishedDateTime: 2021-02-04T19:29:00Z
+originalUrl: "https://www.cbsnews.com/news/house-democrats-ask-trump-to-testify-in-impeachment-trial/"
+webUrl: "https://www.cbsnews.com/news/house-democrats-ask-trump-to-testify-in-impeachment-trial/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/house-democrats-ask-trump-to-testify-in-impeachment-trial/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/house-democrats-ask-trump-to-testify-in-impeachment-trial/"
 type: article
 quality: 125
 heat: -1
@@ -815,6 +815,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump resigns from SAG-AFTRA after union moves to expel him"
+    excerpt: "SAG-AFTRA announced on Jan. 19 that it would hold a hearing on whether to expel the former president. In a statement responding to Trump’s resignation, the union said simply: “Thank you.” Trump had been a member of the guild since 1989,"
+    publishedDateTime: 2021-02-04T19:18:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/movies/ct-ent-donald-trump-resigns-sag-aftra-20210204-dm3l2giilbbbzlcbnayhvdsuti-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/entertainment/movies/ct-ent-donald-trump-resigns-sag-aftra-20210204-dm3l2giilbbbzlcbnayhvdsuti-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/movies/ct-ent-donald-trump-resigns-sag-aftra-20210204-dm3l2giilbbbzlcbnayhvdsuti-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/21s9dAXlKuWpS11kM1-cGwP2c2M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CDHO7SKDMBCIFGLXYONRDKNHXE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "House Democrats ask Trump to testify at Senate impeachment trial"
     excerpt: "House Democrats on Thursday asked former President Donald Trump to testify under oath for his Senate impeachment trial."
     publishedDateTime: 2021-02-04T18:44:00Z
@@ -892,6 +908,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_1d511239c2524999a8bcea05fb26b7e6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump, facing expulsion, resigns from Screen Actors Guild"
+    excerpt: "Donald Trump has resigned from the Screen Actors Guild after the union threatened to expel him for his role in the Capitol riot in January"
+    publishedDateTime: 2021-02-04T19:45:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-facing-expulsion-resigns-screen-actors-guild-75689408"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-facing-expulsion-resigns-screen-actors-guild-75689408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-facing-expulsion-resigns-screen-actors-guild-75689408"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_fc559bb29d0a449c826c3fcb4d3e237c_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -1779,6 +1811,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "House Democrats ask Trump to testify at Senate impeachment trial – live"
+    excerpt: "House impeachment manager Jamie Raskin asks Trump to testify under oath, saying former president ‘denied many factual allegations’ – follow the latest"
+    publishedDateTime: 2021-02-04T20:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates?page=with:block-601c3c1f8f08cad295da678d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
   - title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
     excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
     publishedDateTime: 2021-02-02T08:26:00Z
@@ -2331,6 +2374,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "dRQWYbsJa67riAnt9+59qJ6eKCHeYznKZaPD0rLEJy1Kr1nb4GsS5fXpaoEBLcCgIZCaNAgyaBc/NoF+OTK0E+jptLx/StOhHy9wpVjooSofR19abA65q1v9n1EyqODdTzwbSUX8af8UY1kq97gyaqesuVqnM+cGmttuilKWDiTigig8d89ahVAzHKhKEnBjADeF2uzgIVeka42t1Hx9aMfMaUAfsQU+UuSPS2mNkozMLjhxUO/JcPakZbLgYrHRoYkZrtSY1iDlLQ3wBn3VDrpI7BWusXRYKoPYbZzXUgiM8w/F3sODVGNzlCFfcRStIJoGgY0JiJBsKJjb+FevwGShuXWW7gxiebaFf1y5RBE=;7qK+0wUZTytkTm2Zc4ZK7Q=="
+secured: "g10sh8QGrW2P6gUBtjAApTL7qu6azgWh3DEdzjuF3FAl7duuaY+rtDAWRi6mQU0Djw5trQBg6VetfYP50EQMwLZth4dXMoSBHMyuOAyHlL/vCvLMb+tjSwDYPTOmWRhRfcMaq5g/d99XLEYDMc5WEhCnHyh4/3iEUuwtgqfEaRRF0fEVjwVsBc030XjzyZnI4rFbG1MmYWafetcfkflYj/W3Cub0lCDwDkJLorkcllTu+bvcF1jrqxmE4iSjBQBbkb4KFN2fxBjWLGy/MxTep1CW8bH6mmwyzleGrqM8lDQX1zjxnlNkMZix+vESxCjr8El5bKWnvVSY5hO7c421EVer4oSgW8+0yfMzQ7FPc2w=;E1/Piuz1KOb2gbmQw4Pv5g=="
 ---
 
