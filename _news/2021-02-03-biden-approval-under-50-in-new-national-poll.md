@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration must continue defending Taiwan: Rubio"
+    excerpt: "The U.S. Navy’s Seventh Fleet said in a statement this is the first time a U.S. warship has sailed through the strait between mainland China and Taiwan during the Biden administration."
+    publishedDateTime: 2021-02-04T16:19:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_iAE3n624OM/bidens-foreign-policy-taiwan-sen-rubio"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-foreign-policy-taiwan-sen-rubio.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-foreign-policy-taiwan-sen-rubio.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden administration to open overflow shelter for migrant children in Texas"
     excerpt: "The Biden administration said it plans on reactivating a “temporary Influx Care Facility” in Carrizo Springs, Texas, to potentially accommodate up to 700 migrant children within the next two weeks."
     publishedDateTime: 2021-02-03T07:57:24Z

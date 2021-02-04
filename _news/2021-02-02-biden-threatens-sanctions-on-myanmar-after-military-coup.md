@@ -55,20 +55,6 @@ related:
         width: 810
         height: 532
         isCached: true
-  - title: "U.S. will act after sanctions law review in wake of Myanmar coup: Biden"
-    excerpt: "U.S. President-elect Joe Biden delivers remarks on the U.S. response to the coronavirus disease (COVID-19) outbreak, at his transition headquarters in Wilmington, Delaware, U.S., December"
-    publishedDateTime: 2021-02-01T22:48:00Z
-    webUrl: "https://www.reuters.com/news/picture/us-will-act-after-sanctions-law-review-i-idUSKBN2A137O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549875458&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH101V4"
-        width: 810
-        height: 540
-        isCached: true
 
 secured: "umedaBviqumRUNRxvvE8hVGpvV4S5KdWKn0fEZwhz13xtv3Bhkz9g9cnZrz6Vb5q/iiLligKlcsGzmAiqa6DaMbBfhsBKWHu85UkwL+XrUleoS5CKny/OUmwth2fMov3pQk5RfR3pV6L9CZTx7UFGfWyg/vnfyEIzhD93tHk0MY4Hal0zltGqwBIrglFfUYSMpTkfGj0Un28b5kOy30V2QNL1rC4JUGboRonETH/0YLRG3r1uBg7uFSXsd3/8LPASuSLGqAOgo9co40yU6QjHQcDAOKk0ktBadKdxqPMSOAfOqrZ+08G/qkmfHsvJiSInfKV1fNLDK7YUyQleFH1Nr9EZs5oHgDaT6oPwcoxg34=;dDdxLy/VBGsCApI7cmNLuA=="
 ---

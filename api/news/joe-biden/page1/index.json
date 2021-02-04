@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-05-watch-live-biden-delivers-remarks-from-state-department.md",
+      "title": "Watch live: Biden delivers remarks from State Department",
+      "excerpt": "President Joe Biden will deliver a public address on Thursday afternoon. The remarks will come after the president and Vice President Harris visit with the Secretary of State and State Department officials.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks",
+      "originalUrl": "https://thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/1230bidenlede02022021.jpg",
+          "width": 580,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks?amp",
+      "publishedDateTime": "2021-02-04T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-biden-makes-slow-but-steady-progress-on-covid-relief-the-note.md",
       "title": "Biden makes slow but steady progress on COVID relief: The Note",
       "excerpt": "The White House has managed to stay in the center of negotiations, despite forces in both parties that have an interest in pulling talks to the Capitol.",
@@ -34,6 +86,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-biden-at-prayer-breakfast-calls-out-political-extremism.md",
+      "title": "Biden, at prayer breakfast, calls out ‘political extremism’",
+      "excerpt": "President Joe Biden has called for a confrontation of the “political extremism” that inspired the U.S. Capitol riot in remarks at the National Prayer Breakfast",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-04T02:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -485,7 +589,7 @@
       "originalUrl": "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -745,7 +849,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -797,7 +901,7 @@
       "originalUrl": "https://www.reuters.com/article/us-palestinians-usa-idUSKBN29Y1FB",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -947,58 +1051,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-bidens-pandemic-problem-politics-weekly-extra-podcast.md",
-      "title": "Biden's pandemic problem: Politics Weekly Extra podcast",
-      "excerpt": "Jonathan Freedland speaks to the Pulitzer prize-winning author and journalist Laurie Garrett about what Joe Biden needs to do to get a grip on the Covid crisis in the US",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/politics/audio/2021/jan/29/biden-pandemic-problem-politics-weekly-extra-podcast",
-      "originalUrl": "https://www.theguardian.com/politics/audio/2021/jan/29/biden-pandemic-problem-politics-weekly-extra-podcast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9bf19b42569b77c3f28a41a3742231fc1e1e8f22/0_2_2843_1707/master/2843.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09516b1de2db107a68ece6b91c8273cb",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1502,58 +1554,6 @@
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V29X",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V29X",
       "publishedDateTime": "2021-01-26T17:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-biden-speaks-to-putin-for-first-time-since-taking-power-white-house.md",
-      "title": "Biden speaks to Putin for first time since taking power: White House",
-      "excerpt": "U.S. President Joe Biden spoke to Russian President Vladimir Putin on Tuesday for the first time since taking office and raised concerns about Russian activities including the treatment of jailed Kremlin critic Alexei Navalny,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-russia-usa-biden-putin-idUSKBN29V2AJ",
-      "originalUrl": "https://www.reuters.com/article/us-russia-usa-biden-putin-idUSKBN29V2AJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549143451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1CN",
-          "width": 844,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V2AJ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2AJ",
-      "publishedDateTime": "2021-01-26T16:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",

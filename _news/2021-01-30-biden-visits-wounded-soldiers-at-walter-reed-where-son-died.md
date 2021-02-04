@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-sold
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 880
         height: 545
         isCached: true
+  - title: "Biden expected to name veteran diplomat as special envoy for Yemen - source"
+    excerpt: "U.S. President Joe Biden was expected to announce on Thursday the appointment of a veteran U.S. diplomat as his special envoy for Yemen, a person familiar with the issue said."
+    publishedDateTime: 2021-02-04T16:12:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-yemen-int/biden-expected-to-name-veteran-diplomat-as-special-envoy-for-yemen-source-idUSKBN2A4268"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A4268"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A4268"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
 
 secured: "cnJm5VzESO11epmMiu9qySXn7ZFyuCIY4k+B1PD7SYWkqqcXIoRXrcEAer7VG8Noqu96Pr+HVsbytzQsyVePfhdagwVXCE1WGlerooWVRnerX0KA01B78hFkcBukli0etZRrgtMgpIb9JcHEpyRHgZ7Bjit+wDej8QkQ4mFld8sNp52ILQnCCmryHrrdN+gYcztt78a2viIbu+7vvQ0lesaSiRYdzYX7MEWUZ7I1F7PiNUaC8o4HHqJ1qvDscSmPMbxoCrvxQ7IdHWWdZ32ZgsyvNDsTcU/+slatVVgQdZor5ulatuUxzBO/8Qr1FcBhTXTqF5z7ODhS7rEBSYJEYhl1o/lXRXMo9pUqpcYGqNGEV76mY93YlBttQhaozAy2v6Hh7PEM8Vfa0Eycr1TN6j9i7BPPNq6fBi1v9TUHUUhk/4lFAvG/8NlWdmGQxnKjfr3u9/WTte+PnFB4aD2gOcSvaegXvYWo40TXUe3s5DH5uBgEl9snULI89dGhgFa4bwdyeZSbHUlZ7jF6qL2sqQ==;4m3p6unVZyCGRJSv/OBVWw=="
 ---

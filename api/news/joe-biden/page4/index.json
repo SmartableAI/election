@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-29-how-joe-bidens-cold-war-experience-will-shape-his-approach-to-russia.md",
+      "title": "How Joe Biden’s cold war experience will shape his approach to Russia",
+      "excerpt": "President-elect’s formative years of going toe-to-toe with the USSR on arms control hint at how he may deal with Putin",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/874f7bf1c2a60b5e92d5ba0b61e5c77539550373/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=168c42250400e9089455a630c0cb98d5",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia",
+      "publishedDateTime": "2020-12-28T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-biden-repeats-call-for-full-visibility-during-transition.md",
       "title": "Biden repeats call for 'full visibility' during transition",
       "excerpt": "President-elect Joe Biden said Dec. 28 that his transition team has encountered political roadblocks from the Trump administration and called it irresponsible.",
@@ -34,58 +86,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-watch-live-joe-biden-delivers-remarks-after-briefing-from-national-security-teams.md",
-      "title": "Watch Live: Joe Biden delivers remarks after briefing from national security teams",
-      "excerpt": "Mr. Biden's comments will follow a briefing from members of his national security and foreign policy agency review teams \"on their findings and key challenges that the Biden-Harris administration will inherit,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
-      "originalUrl": "https://www.cbsnews.com/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/28/af11f1c6-2d69-40e3-bfd5-033879d99f30/thumbnail/1200x630/6cfef30a2d4d96a452691ce7ca18d8a6/gettyimages-1230276263.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
-      "publishedDateTime": "2020-12-28T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

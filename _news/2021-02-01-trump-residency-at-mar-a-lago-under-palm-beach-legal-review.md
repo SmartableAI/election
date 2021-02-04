@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/florida-palm-beach-legal-review-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Colorado officials want to keep Space Command in state, ask Pentagon to reconsider Trump's relocation"
+    excerpt: "Colorado Gov. Jared Polis and a group of bipartisan state officials are urging Defense Secretary Lloyd Austin to reconsider and \"pause\" former President Donald Trump's decision to move U.S. Space Command from Colorado Springs to Alabama, saying it will \"undermine\" the country's ability to respond to"
+    publishedDateTime: 2021-02-04T15:41:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTW63eWBOOQ/colorado-officials-pentagon-reconsider-trump-decision-space-command-location"
+    ampWebUrl: "https://www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump impeachment managers file pre-trial brief against former president: 'Evidence is overwhelming'"
     excerpt: "The House impeachment managers on Tuesday morning filed their pre-trial brief in their case against former President Donald Trump, previewing the argument they will make against him in the Senate trial set to start in one week."
     publishedDateTime: 2021-02-02T15:25:16Z

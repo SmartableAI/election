@@ -2,6 +2,170 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-01-08-nikki-haley-says-trumps-post-election-actions-will-be-judged-harshly-by-history.md",
+      "title": "Nikki Haley says Trump's post-election actions will be 'judged harshly by history'",
+      "excerpt": "Former UN ambassador Nikki Haley distanced herself from her onetime boss, President Donald Trump, in a closed-door speech on Thursday night, telling members of the Republican National Committee that the President's actions after the election \"will be judged harshly by history.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j2xNrHsRxXk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j2xNrHsRxXk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200824224949-nikki-haley-rnc-speech-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/08/politics/nikki-haley-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/nikki-haley-trump/index.html",
+      "publishedDateTime": "2021-01-08T12:10:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-why-trumps-response-to-capitol-siege-evokes-memories-of-charlottesville.md",
+      "title": "Why Trump's response to Capitol siege evokes memories of Charlottesville",
+      "excerpt": "Trump groups violently stormed the U.S. Capitol, the surreal images took many back to a dark chapter when white supremacists openly descended upon Charlottesville.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
+      "originalUrl": "https://abcnews.go.com/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/washington-dc-capitol-riot-charlottesville-donald-trump-election-01-gty-llr-210106_1609982976596_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
+      "publishedDateTime": "2021-01-08T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-clyburn-accuses-resigning-trump-cabinet-members-of-running-away-from-25th-amendment-duty.md",
+      "title": "Clyburn accuses resigning Trump Cabinet members of 'running away' from 25th Amendment duty",
+      "excerpt": "House Majority Whip James Clyburn said former Trump Cabinet members Elaine Chao and Betsy DeVos, who resigned in protest of the Capitol riots, were \"running away\" from their responsibility to invoke the 25th Amendment. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fgRgxoCoRZY/clyburn-trump-cabinet-members-resigning-without-invoking-25th-running-away",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fgRgxoCoRZY/clyburn-trump-cabinet-members-resigning-without-invoking-25th-running-away",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/206f8c4f-47a2-4931-a671-51ef1202a41a/c8e28499-4e7b-4b07-80a1-8bec3460192e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/clyburn-trump-cabinet-members-resigning-without-invoking-25th-running-away.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-trump-cabinet-members-resigning-without-invoking-25th-running-away.amp",
+      "publishedDateTime": "2021-01-08T11:54:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-josh-hawleys-ploy-to-be-a-pro-trump-hero-results-in-withering-blowback.md",
       "title": "Josh Hawley's ploy to be a pro-Trump hero results in withering blowback",
       "excerpt": "Missouri Sen. Josh Hawley offered pro-Trump demonstrators who stood outside the Capitol a raised fist salute as he walked into the Senate early on Wednesday, buoyant about his leading role in objecting to President Donald Trump's electoral defeat.\n    \n",
@@ -1181,174 +1345,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-ex-israeli-ambassador-danons-big-idea-biden-should-maintain-strong-stance-on-iran-partner-with-allies.md",
-      "title": "Ex-Israeli Ambassador Danon's Big Idea: Biden should maintain strong stance on Iran, partner with allies",
-      "excerpt": "The Big Idea is a series of Q&As with top lawmakers and figures.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WYsYWr-r1Fo/the-big-idea-amb-danny-danon-calls-for-tough-stance-on-iran",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WYsYWr-r1Fo/the-big-idea-amb-danny-danon-calls-for-tough-stance-on-iran",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d2194d7-a447-4874-868b-6eb84de45ed9/b0113322-850b-41f4-b461-f5ee78507af3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/the-big-idea-amb-danny-danon-calls-for-tough-stance-on-iran.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-big-idea-amb-danny-danon-calls-for-tough-stance-on-iran.amp",
-      "publishedDateTime": "2021-01-07T13:56:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-de-blasio-accuses-trump-of-treason-says-he-should-be-removed.md",
-      "title": "De Blasio accuses Trump of ‘treason,’ says he should be removed",
-      "excerpt": "New York City Mayor Bill de Blasio on Thursday said President Trump should be removed from office -- and accused him of committing \"treason\" with his remarks to supporters who went on to storm the Capitol building.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNmwqyqwGbo/capitol-rioting-de-blasio-trump-treason",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hNmwqyqwGbo/capitol-rioting-de-blasio-trump-treason",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49ec057a-e6ee-477e-8053-5e7977e20493/3f278e79-1c49-4c6a-9ccb-d72b8a89ca6b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/capitol-rioting-de-blasio-trump-treason.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioting-de-blasio-trump-treason.amp",
-      "publishedDateTime": "2021-01-07T13:47:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-capitol-rioting-overshadowed-trumps-accomplishments-pavlich.md",
-      "title": "Capitol rioting 'overshadowed' Trump's accomplishments: Pavlich",
-      "excerpt": "The Capitol Hill rioting and looting after President Trump addressed supporters Wednesday is \"overshadowing\" his accomplishments of the past four years, Fox News contributor Katie Pavlich argued Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AQcW58-pJQ8/capitol-rioting-overshadowed-trumps-accomplishments-pavlich",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AQcW58-pJQ8/capitol-rioting-overshadowed-trumps-accomplishments-pavlich",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/capitol-rioting-overshadowed-trumps-accomplishments-pavlich.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioting-overshadowed-trumps-accomplishments-pavlich.amp",
-      "publishedDateTime": "2021-01-07T12:21:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

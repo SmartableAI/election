@@ -144,6 +144,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "LIVE UPDATES: Psaki gives press briefing as Biden visits State Department staff"
+    excerpt: "President Biden and Vice President Kamala Harris are scheduled to visit the Department of State Thursday afternoon to speak with staff and meet with Secretary Antony Blinken."
+    publishedDateTime: 2021-02-04T16:45:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-feb-4-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-feb-4-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house-feb-4-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aab6f155-6f87-4878-9f01-cec5af454dcc/40112ff6-dfe7-4d19-b4d8-e9d3cd5e8358/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Uighur Advocates: Will Biden Actions Match Words on 'Genocide'?"
     excerpt: "One day before President Bidens inauguration, Secretary of State Mike Pompeo made the determination that Chinas treatment of Muslim Uighurs and"
     publishedDateTime: 2021-01-27T10:29:00Z

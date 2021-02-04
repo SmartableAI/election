@@ -45,6 +45,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Colorado officials want to keep Space Command in state, ask Pentagon to reconsider Trump's relocation"
+    excerpt: "Colorado Gov. Jared Polis and a group of bipartisan state officials are urging Defense Secretary Lloyd Austin to reconsider and \"pause\" former President Donald Trump's decision to move U.S. Space Command from Colorado Springs to Alabama, saying it will \"undermine\" the country's ability to respond to"
+    publishedDateTime: 2021-02-04T15:41:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTW63eWBOOQ/colorado-officials-pentagon-reconsider-trump-decision-space-command-location"
+    ampWebUrl: "https://www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Congress set to override Trump veto for first time in presidency"
     excerpt: "SMITH: OK, Steve Harrigan live from Atlanta for us, thank you. President Trump and President Joe Biden both expected to make appearances in Georgia on the eve of the election. To Peter Doocy now in Augusta, Georgia, for us on that -- Peter. something ..."
     publishedDateTime: 2021-02-01T18:42:00Z

@@ -29,47 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden Threatens Sanctions Following Myanmar Coup, Says U.S. Will 'Stand Up For Democracy'"
-    excerpt: "\"In a democracy, force should never seek to overrule the will of the people or attempt to erase the outcome of a credible election,\" the president said in his first statement on the issue."
-    publishedDateTime: 2021-02-01T18:17:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870?amp=1"
+  - title: "Watch live: Biden delivers remarks from State Department"
+    excerpt: "President Joe Biden will deliver a public address on Thursday afternoon. The remarks will come after the president and Vice President Harris visit with the Secretary of State and State Department officials."
+    publishedDateTime: 2021-02-04T16:35:00Z
+    webUrl: "https://thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks"
+    ampWebUrl: "https://thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 114
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1721873/joe-biden-statement-myanmar-coup.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://thehill.com/sites/default/files/1230bidenlede02022021.jpg"
+        width: 580
+        height: 326
         isCached: true
-  - title: "Analysis: Biden threatened Myanmar sanctions. What are his options?"
-    excerpt: "Myanmar's military checkpoint is seen on the way to the congress compound in Naypyitaw, Myanmar 1, 2021. REUTERS/Stringer"
-    publishedDateTime: 2021-02-02T10:07:00Z
-    webUrl: "https://www.reuters.com/news/picture/analysis-biden-threatened-myanmar-sancti-idUSKBN2A20ES"
+  - title: "Watch Live: Joe Biden delivers remarks after briefing from national security teams"
+    excerpt: "Mr. Biden's comments will follow a briefing from members of his national security and foreign policy agency review teams \"on their findings and key challenges that the Biden-Harris administration will inherit,"
+    publishedDateTime: 2020-12-28T14:50:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-speech-watch-live-stream-today-2020-12-28/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549938362&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH11085"
-        width: 810
-        height: 532
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/28/af11f1c6-2d69-40e3-bfd5-033879d99f30/thumbnail/1200x630/6cfef30a2d4d96a452691ce7ca18d8a6/gettyimages-1230276263.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Biden threatens sanctions on Myanmar after military coup"
-    excerpt: "President Joe Biden is threatening to slap new sanctions on Myanmar after a coup that saw the military arrest the civilian leaders of its government."
-    publishedDateTime: 2021-02-02T01:46:00Z
-    webUrl: "https://www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "0UgWRUtE5qlW/tZZsXG5ueuYbbkA8WLSBXekQ61L0FfUyvtdbutnz5XDzYJNB4LTmqRJ4rjRCD8m+BHBY98mlrq1iMq/ypo2fIatPYn2xar85bCE7aCzmzxoSquYGTpeyB+N+ZOtcstbgSN7XBON+tJS9zDetfiMmQm+bdgw+SDAYUs0HfxVErjzpAIcTlQ8ItBHZTawrK25TPzSV3L8Ar++P9OQJvmuRqqrfQExMElvtdKDcikwZx8AeIxS2QqIBqILF2XQJyN0mYC/3uvsi6jHPmaYAzcvEYbedFbZH3npRtdJGwM9M/m4kkEKAGBSOCbpSObrC5zKomyqm1RUDYgJVn3ihZgt5zUT3ljX+xs=;N8mBI1V6Pz5aMm+h8Ad0ew=="
 ---

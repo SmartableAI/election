@@ -47,6 +47,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Can the Senate stop Trump running for president again?"
+    excerpt: "Former President Donald Trump's second impeachment trial is set to begin next week as he faces allegations of inciting an insurrection at the Capitol that took place on Jan. 6, the same day Trump spoke at a massive rally and encouraged a protest, claiming there was fraud in the 2020 election."
+    publishedDateTime: 2021-02-04T15:10:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p4nU4Fp26Rg/can-senate-stop-trump-running-for-president-again"
+    ampWebUrl: "https://www.foxnews.com/politics/can-senate-stop-trump-running-for-president-again.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/can-senate-stop-trump-running-for-president-again.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "What is Trump being accused of in the Senate impeachment trial?"
+    excerpt: "The upcoming impeachment trial for former President Donald Trump is set to be highly politicized, and decisions by senators on both sides about how they vote are almost certain to be made more fundamentally on political calculations rather than on the facts. "
+    publishedDateTime: 2021-02-04T16:36:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HS96LHxta-g/what-is-trump-being-accused-of-in-the-senate-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/what-is-trump-being-accused-of-in-the-senate-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/what-is-trump-being-accused-of-in-the-senate-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Schumer says Dems could censure Trump if impeachment trial ends in acquittal"
     excerpt: "Few Senate Republicans have indicated a willingness to vote against Trump, making the 67-vote threshold required to convict him a dim proposition for Democratic leaders."
     publishedDateTime: 2021-02-02T21:30:15Z
@@ -158,6 +190,22 @@ related:
       - url: "https://images.wsj.net/im-293464/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Matt Gaetz says he’d resign House seat to defend Trump at impeachment trial"
+    excerpt: "Matt Gaetz said he would resign if called on by former President Donald Trump to defend him in his upcoming impeachment trial, saying it’d be the “top priority in my life.” The Florida congressman made the comment in an interview with the Steve Bannon-hosted podcast “War Room Pandemic."
+    publishedDateTime: 2021-02-04T15:31:00Z
+    webUrl: "https://nypost.com/2021/02/04/matt-gaetz-says-hed-resign-to-defend-trump-at-impeachment-trial/"
+    ampWebUrl: "https://nypost.com/2021/02/04/matt-gaetz-says-hed-resign-to-defend-trump-at-impeachment-trial/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/04/matt-gaetz-says-hed-resign-to-defend-trump-at-impeachment-trial/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/matt-gaetz-trump-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump denies inciting Capitol riot, says Senate can’t hold impeachment trial"
     excerpt: "Former President Donald Trump denied Tuesday that he encouraged his supporters to storm the US Capitol last month — and argued that the Senate doesn’t have the authority to hold a"

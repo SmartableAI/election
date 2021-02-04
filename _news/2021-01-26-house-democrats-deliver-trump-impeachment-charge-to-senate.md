@@ -111,6 +111,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Special Report: Stolen election? Republican lawmakers paralyzed by Trump's false fraud claims"
+    excerpt: "U.S. Capitol, 147 Republican lawmakers voted the way then-president Donald Trump and the rioters had demanded - to overturn his election loss, after months of Trump’s baseless claims that the election had been stolen."
+    publishedDateTime: 2021-02-04T16:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-lawmakers-special-report-idUSKBN2A41CP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A41CP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A41CP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 129
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550322202&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH130SS"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Lawyer group: Trump adds ex-prosecutor to impeachment team"
     excerpt: "Donald Trump is adding another attorney from South Carolina to his impeachment legal team: a former federal prosecutor-turned-defense attorney who specializes in white-collar crime"
     publishedDateTime: 2021-01-26T08:07:00Z
@@ -773,6 +789,38 @@ related:
     webUrl: "https://abcnews.go.com/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75667288"
     ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75667288"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75667288"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1d511239c2524999a8bcea05fb26b7e6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Media grapples with how to cover Trump after White House"
+    excerpt: "Two weeks into his post-presidency, Donald Trump has managed the counter-intuitive trick of dominating the news despite being nearly silent publicly"
+    publishedDateTime: 2021-02-04T16:35:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/media-grapples-cover-trump-white-house-75684922"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/media-grapples-cover-trump-white-house-75684922"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/media-grapples-cover-trump-white-house-75684922"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_110d279eaa27459fab243fc7ee18c735_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Takeaways from legal filings for Trump's impeachment trial"
+    excerpt: "Legal briefs filed in the impeachment case against former President Donald Trump lay out radically different positions ahead of next week’s Senate trial"
+    publishedDateTime: 2021-02-04T16:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75675713"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75675713"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/takeaways-legal-filings-trumps-impeachment-trial-75675713"
     type: article
     provider:
       name: ABC

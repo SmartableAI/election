@@ -2,6 +2,170 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-12-29-give-mike-pence-exclusive-authority-on-which-electoral-college-votes-to-count-lawsuit.md",
+      "title": "Give Mike Pence 'Exclusive Authority' on Which Electoral College Votes to Count: Lawsuit",
+      "excerpt": "A group of Republican Trump supporters, including one Texas congressman, have filed a new lawsuit in a last-ditch attempt to overturn the election results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/give-mike-pence-exclusive-authority-which-electoral-college-votes-count-lawsuit-1557596",
+      "originalUrl": "https://www.newsweek.com/give-mike-pence-exclusive-authority-which-electoral-college-votes-count-lawsuit-1557596",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1694055/mike-pence.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/give-mike-pence-exclusive-authority-which-electoral-college-votes-count-lawsuit-1557596?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/give-mike-pence-exclusive-authority-which-electoral-college-votes-count-lawsuit-1557596?amp=1",
+      "publishedDateTime": "2020-12-28T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-walter-reed-doctor-who-criticized-trumps-hospital-drive-by-works-last-shift-after-being-removed-from-schedule.md",
+      "title": "Walter Reed doctor who criticized Trump's hospital drive-by works last shift after being removed from schedule",
+      "excerpt": "Dr. James Phillips, an emergency room doctor at Walter Reed National Military Medical Center, has been removed from his duty after publicly criticizing President Donald Trump's drive-by around the hospital after his coronavirus diagnosis.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JgGn5ony8s4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JgGn5ony8s4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201228094707-dr-james-phillips-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/28/politics/james-phillips-walter-reed-last-shift/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/james-phillips-walter-reed-last-shift/index.html",
+      "publishedDateTime": "2020-12-28T10:29:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-tennessee-governor-expects-trump-to-sign-emergency-declaration-request-were-very-grateful.md",
+      "title": "Tennessee governor expects Trump to sign emergency declaration request: 'We're very grateful'",
+      "excerpt": "After speaking with President Trump Sunday, Tennessee Gov. Bill Lee said it \"appears\" Trump will agree to an emergency declaration request after a Christmas Day bombing destroyed buildings and businesses in downtown Nashville.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4iezUUky3o/tennessee-governor-trump-emergency-declaration-request",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4iezUUky3o/tennessee-governor-trump-emergency-declaration-request",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/e19b8d1d-AP20362658350296-e1609170004261.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tennessee-governor-trump-emergency-declaration-request.amp",
+      "publishedDateTime": "2020-12-28T10:20:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-biden-to-deliver-remarks-on-foreign-policy-and-national-security-monday.md",
       "title": "Biden to deliver remarks on foreign policy and national security Monday",
       "excerpt": "President-elect Joe Biden is expected to deliver remarks on Monday afternoon after receiving a briefing from members of his national security and foreign policy agency review teams.\n    \n",
@@ -55,58 +219,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-watch-live-joe-biden-delivers-remarks-after-briefing-from-national-security-teams.md",
-      "title": "Watch Live: Joe Biden delivers remarks after briefing from national security teams",
-      "excerpt": "Mr. Biden's comments will follow a briefing from members of his national security and foreign policy agency review teams \"on their findings and key challenges that the Biden-Harris administration will inherit,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
-      "originalUrl": "https://www.cbsnews.com/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/28/af11f1c6-2d69-40e3-bfd5-033879d99f30/thumbnail/1200x630/6cfef30a2d4d96a452691ce7ca18d8a6/gettyimages-1230276263.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/",
-      "publishedDateTime": "2020-12-28T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1230,110 +1342,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster.md",
-      "title": "Sidney Powell’s secret intelligence contractor witness is a pro-Trump podcaster",
-      "excerpt": "Lindeman, whose credentials were questioned in a recent civil fraud case, confirmed that she wrote the affidavit and said she viewed it as her contribution to a fight against the theft of the election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ASCOY2SFLQI6XLBKHLAPFOGO5M.jpg&w=1440",
-          "width": 1440,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-24T18:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-for-gods-sakes-get-out-of-the-way-trumps-former-national-security-adviser-urges-him-to-fund-the-us-military.md",
-      "title": "'For God's sakes, get out of the way': Trump's former national security adviser urges him to fund the US military",
-      "excerpt": "Former national security adviser John Bolton told Trump to \"get out of the way\" and said he was \"not a conservative.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12",
-      "originalUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe4e2caa644880018193562?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12?amp",
-      "publishedDateTime": "2020-12-24T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

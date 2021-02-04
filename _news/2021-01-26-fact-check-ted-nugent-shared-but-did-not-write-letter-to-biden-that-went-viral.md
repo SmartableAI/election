@@ -63,6 +63,17 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden expected to name veteran diplomat as special envoy for Yemen - source"
+    excerpt: "U.S. President Joe Biden was expected to announce on Thursday the appointment of a veteran U.S. diplomat as his special envoy for Yemen, a person familiar with the issue said."
+    publishedDateTime: 2021-02-04T16:12:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-yemen-int/biden-expected-to-name-veteran-diplomat-as-special-envoy-for-yemen-source-idUSKBN2A4268"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A4268"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A4268"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
 
 secured: "xYm89SsxxugOb84Lo+w7gRVu+pHz9ywtgGz0D2kW4JV+cKYTo2AHjMSFks2fjLTz3Saf86XEzHblcdE+Fpo5g4Y6uQDoxed96ZpvpzP0yJ/8hx0o8Rsqyh4ZuYNjUPRcnc5APfL53HOSd0O2+DIc6a5lmteJO0XCoMHkmzWXGzkhNAeI/optR8/uyTLIvDi1XyYlKCSh0RxZQMo4EWkutbDNdHSiMduysM+9hYb6k2XyL5KKaVBVTVqyIn8EjdvDh5I4egiz/KDpg3lJtdyzvmjGkv14Eu8dPv0EjSAgWc2rYw46i3NNUwKbL6MN1BZpC9oJF0M4ijWUW4Y9K6K0XaPHcJuGcv92RXauqPe+Gyc=;zAoRy29f5oMGU50iO4Xx6Q=="
 ---

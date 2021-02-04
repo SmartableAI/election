@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hunter Biden is writing a book about his struggle with addiction"
+    excerpt: "President Joe Biden's son Hunter is publishing a memoir about his struggle with addiction that will be released in April.\n    \n"
+    publishedDateTime: 2021-02-04T16:46:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x2h59WCsaZc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/hunter-biden-book-addiction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/hunter-biden-book-addiction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209204808-hunter-biden-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden is expected to announce increase in amount of refugees admitted into US"
     excerpt: "The Biden administration plans to announce on Thursday that it will increase the number of refugees who can come to the United States, a move toward building up refugee admissions after years of historic low arrivals under former President Donald Trump, according to two sources familiar with the plans.\n"
     publishedDateTime: 2021-02-04T00:16:30Z
