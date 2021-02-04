@@ -62,22 +62,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Michigan Republican defends Trump impeachment vote to upset voters"
-    excerpt: "Michigan Rep. Peter Meijer, one of just 10 Republicans who voted to impeach then-President Donald Trump over the deadly attack on the Capitol, defended his decision while taking pointed criticism from voters Wednesday night."
-    publishedDateTime: 2021-02-04T14:54:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uBWS6iaonMs/michigan-republican-meijer-defends-trump-impeachment-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-republican-meijer-defends-trump-impeachment-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-republican-meijer-defends-trump-impeachment-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Peter-Meijer-Getty.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Rand Paul to trigger Senate vote on whether Trump impeachment trial is constitutional"
     excerpt: "Sen. Rand Paul on Tuesday afternoon is expected to force a vote on whether or not the Senate impeachment trial of former President Trump is unconstitutional now that he is out of office. "
     publishedDateTime: 2021-01-26T17:01:20Z
@@ -203,6 +187,22 @@ related:
       - url: "https://images.wsj.net/im-292044/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Michigan Republican defends Trump impeachment vote to upset voters"
+    excerpt: "Michigan Rep. Peter Meijer, one of just 10 Republicans who voted to impeach then-President Donald Trump over the deadly attack on the Capitol, defended his decision while taking pointed criticism from voters Wednesday night."
+    publishedDateTime: 2021-02-04T14:57:00Z
+    webUrl: "https://www.foxnews.com/politics/michigan-republican-meijer-defends-trump-impeachment-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-republican-meijer-defends-trump-impeachment-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-republican-meijer-defends-trump-impeachment-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Peter-Meijer-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Ohio Republicans propose state holiday honoring ex-President Donald Trump"
     excerpt: "A pair of lawmakers from Ohio want to set aside a day to honor former President Trump. The proposal from two Republican state legislators would make June 14 every year President Donald Trump Day"

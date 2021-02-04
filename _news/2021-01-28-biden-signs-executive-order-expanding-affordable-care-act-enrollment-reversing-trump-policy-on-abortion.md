@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden backs son Hunter's book deal"
+    excerpt: "White House Press Secretary Jen Psaki said Thursday that President Biden supports his son Hunter's recently announced book, which will be published in April and focus on his history of substance abuse. "
+    publishedDateTime: 2021-02-04T18:21:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-z3GKbL90J4/biden-backs-son-hunters-book-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-backs-son-hunters-book-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-son-hunters-book-deal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden team denies requests from Trump appointees to extend parental leave benefits at end of term: report"
     excerpt: "Trump administration officials promised three months’ paid maternity leave were hoping to receive their full benefits after the Biden administration took over, but were disappointed to have their requests denied, according to a new report."
     publishedDateTime: 2021-02-03T16:26:40Z

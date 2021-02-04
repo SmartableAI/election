@@ -68,6 +68,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Senate committee advances Biden UN pick despite controversy over China speech"
+    excerpt: "The Senate Foreign Relations Committee on Thursday approved President Biden’s U.N. ambassador nominee, Linda Thomas-Greenfield, but only after objections and a delay in the vote due to concerns raised by Republicans about a pro-China speech she once gave in 2019."
+    publishedDateTime: 2021-02-04T17:52:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sEIGE6t0k3g/senate-biden-un-pick-china-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-biden-un-pick-china-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-biden-un-pick-china-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b072103f-ac02-41ea-b778-f4d9e143bb32/842a50a2-60e7-49f6-ae5b-5bd52e8fe220/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden DOJ pick Kristen Clarke railed against Sessions task force protecting religious liberty"
     excerpt: "Kristen Clarke, President Biden's choice to run the Justice Department's Civil Rights Division, has previously taken issue with the Justice Department's Religious Liberty Task Force."
     publishedDateTime: 2021-01-28T20:20:40Z
@@ -99,6 +115,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e6cc050-5e3c-4af3-8996-40045a053ee5/ebbce464-9ae9-4185-a4e5-9485df9d3e95/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "White House voices support for moon exploration by 2024, after concerns Biden would nix Artemis Program"
+    excerpt: "White House press secretary Jen Psaki on Thursday voiced support for NASA's Artemis Program, which aims to land the first woman and next man on the moon by 2024."
+    publishedDateTime: 2021-02-04T18:49:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ncXmgiSs0pU/white-house-supports-moon-exploration-by-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-supports-moon-exploration-by-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-supports-moon-exploration-by-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Rand Paul, in tense exchange, presses Biden’s Education Department nominee on transgender student athletes"
     excerpt: "President Biden’s nominee for education secretary, Miguel Cardona, faced questions on transgender student athletes during a tense exchange with Sen. Rand Paul, R-Ky., during his confirmation hearing before the Senate Health, Education, Labor and Pensions Committee on Wednesday."

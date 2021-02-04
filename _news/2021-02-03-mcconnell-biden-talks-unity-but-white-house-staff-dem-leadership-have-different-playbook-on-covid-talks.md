@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's remarks about 'vast majority' of law enforcement being 'decent' shows fear of far left: McFarland"
+    excerpt: "President Biden’s remark that the \"vast majority\" of law enforcement officers are \"decent\" this week demonstrated he's worried about offending the far-left flank of his party, KT McFarland said on Thursday."
+    publishedDateTime: 2021-02-04T17:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-7y4sGnJxEg/bidens-remarks-vast-majority-law-enforcement-decent-far-left-mcfarland"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-remarks-vast-majority-law-enforcement-decent-far-left-mcfarland.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-remarks-vast-majority-law-enforcement-decent-far-left-mcfarland.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5733c9b-0b81-4e59-a908-4f4020250c0a/1565313a-4aa1-4755-b995-15c553859b2b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Space Force 'absolutely' has 'full support' of Biden administration, Psaki says after controversial comments"
     excerpt: "White House Press Secretary Jen Psaki on Wednesday said the U.S. Space Force \"absolutely\" has the \"full support\" of the Biden administration, and said they are \"not revisiting the decision\" to establish the sixth branch of the U.S. military as she cleaned up comments from a day earlier."
     publishedDateTime: 2021-02-03T19:41:26Z

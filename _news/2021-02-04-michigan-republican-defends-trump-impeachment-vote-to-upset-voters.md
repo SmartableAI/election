@@ -2,13 +2,13 @@
 category: news
 title: "Michigan Republican defends Trump impeachment vote to upset voters"
 excerpt: "Michigan Rep. Peter Meijer, one of just 10 Republicans who voted to impeach then-President Donald Trump over the deadly attack on the Capitol, defended his decision while taking pointed criticism from voters Wednesday night."
-publishedDateTime: 2021-02-04T14:54:55Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uBWS6iaonMs/michigan-republican-meijer-defends-trump-impeachment-vote"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uBWS6iaonMs/michigan-republican-meijer-defends-trump-impeachment-vote"
+publishedDateTime: 2021-02-04T14:57:00Z
+originalUrl: "https://www.foxnews.com/politics/michigan-republican-meijer-defends-trump-impeachment-vote"
+webUrl: "https://www.foxnews.com/politics/michigan-republican-meijer-defends-trump-impeachment-vote"
 ampWebUrl: "https://www.foxnews.com/politics/michigan-republican-meijer-defends-trump-impeachment-vote.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-republican-meijer-defends-trump-impeachment-vote.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -337,6 +338,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "nzFmhKuamI4XUYWvkgXwPsoO2PYdqO75IkXK5uZt54lY7fvBcuLOwo+XO7qGL9rOF+v7DO2g5OJ+iFTwdkwHAijLEdx0OHWj9eTxkdHiO7RPTfU6YMtNoLsiiMtFUvAvHx+SIUJSgxOJ6b3Jv0YNV3PSn5npvqqOkE8045pb6pm9QWjL2yRA/uoHaMx8Tpom5PLRjU0XCq3y6u99nBdmkFrOP/jley6fcAA3x4/QpnznmiWVMtBSfwd8Kk2wCRbM7EFPUI30OGx8ILeq503GNtcjyGR3FAs1bdLDLXJnustNTRdzxS5oUPxQZDHy6gqJskMzDRGjaKrOV+hFCDMXflQ7hVwdy4Wu5VF/JBxBkrI=;7a4Wykytvv0kR4KrXDKD0A=="
+secured: "klIdwwg9cYvDChAVtWObnr5cgpis68ia/bu/y/zZ83cDS5Iv6RbOLyGlO07kYC1CK4za0JXSV+ck1FZwk3fgZB4krGuUlgIkIhVyuVPLx8vjpSCQKNybuPoXfhkl1uhTCVZ0jBWymgOfYFkJ/HebZRlMiu99PRQ8ju4yi+VtMtlYFFkyvsFEuAQxphlbF7NNfc85zeJHRTndKuUVXGP6dfWPHCzLNdHVraPEUOvWuNEuX3oYlkNd0NDO14a2npHGya7OMOEtoHAM0D4KpT4g+qApBNLMabXc8ojQcuFGonILWLg56W8AUL/mPWQd96syfLAn+Zrq2U9kvEj0iUWvBFCOmD7rIH5cq1j6VBt0YAA=;CSL4qptTreNgDQ2daWnOPw=="
 ---
 

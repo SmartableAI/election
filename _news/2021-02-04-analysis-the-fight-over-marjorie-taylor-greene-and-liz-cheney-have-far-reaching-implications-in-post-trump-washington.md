@@ -64,6 +64,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Greene admits 9/11 ‘happened,’ Dems seek Trump under oath"
+    excerpt: "JAMIE RASKIN (D-Md.), the lead House impeachment manager, sent a letter to former President DONALD TRUMP “requesting that he provide testimony under oath, either before or during the Senate impeachment trial,"
+    publishedDateTime: 2021-02-04T18:23:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/02/04/greene-admits-9-11-happened-dems-seek-trump-under-oath-491640"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b0/2f/26b3ac3a4fda823db3ce22fa28ce/210204-greene-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "5LPbYU2YzeCeLKhfSlxJQ3HMbaPcrqmwjedGHOSwtztbDviOF5imqySb4ZU/e0op+tYWEZcrjvZvE++YT3ig46TJLiD0EK0S+rB0x+9jhFWqUu9VxwLilbY39czLyOoxMPD2Y5oqN8oT8I6uYBSTgDNgfZSEy3TU0KV+zgdTD6SKGt5xNkLc6fNKbvR1H34iXIb5hJ8PBC0XaFUwoMV7F35I5Cw301RpsBPsGrCpITLL753tSYqfpOSxrhHk4dnxE6lN6FLogf7MM4ItXrakTKvICyauMSvLvtgDlYbWp8NVF7oU/VKorXxZZypvZcFsHTzfRrXEsuyLeypksffgnJIKH4YI8ZRxAhPadp60D2w=;TKusIc63LAN055PKNPQj6Q=="
 ---

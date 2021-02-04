@@ -807,6 +807,70 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "House Democrats ask Trump to testify at Senate impeachment trial"
+    excerpt: "House Democrats on Thursday asked former President Donald Trump to testify under oath for his Senate impeachment trial."
+    publishedDateTime: 2021-02-04T18:44:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-senate-trial-20210204-xpet4cftkjefhjil3ghbaynhca-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-senate-trial-20210204-xpet4cftkjefhjil3ghbaynhca-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-senate-trial-20210204-xpet4cftkjefhjil3ghbaynhca-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/L9v2wGWNahp3FLeEkZnFVp0qgBY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/D5CPQ23ZZFDSVCBXPQWDFDDMBM.jpg"
+        width: 1200
+        height: 779
+        isCached: true
+  - title: "House Democrats ask Trump to testify under oath at impeachment trial"
+    excerpt: "The House Democrats who will present the case against former President Donald Trump in his Senate impeachment trial are requesting the former president testify under oath during proceedings next week."
+    publishedDateTime: 2021-02-04T18:27:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-impeachment-trial-house-managers-trump-testify/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-trial-house-managers-trump-testify/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-trial-house-managers-trump-testify/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/04/7f42fc92-268f-4a48-b34c-3c1d31d5442d/thumbnail/1200x630/09ad5d8cf9147a3f144d1f6db06922e7/gettyimages-1230689138.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "House Democrats ask Trump to testify under oath in Senate trial"
+    excerpt: "The Senate impeachment trial begins next week. The former president is charged with inciting a mob of supporters that stormed the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-04T18:35:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-02-04/house-democrats-ask-trump-to-testify-senate-trial"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-04/house-democrats-ask-trump-to-testify-senate-trial?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-04/house-democrats-ask-trump-to-testify-senate-trial?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/c305e9a/2147483647/strip/true/crop/3632x2372+140+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9c%2Fa1%2F41e2b51b9504308204fd94a04568%2Fb2367ffc6e1f46dfb91482ae0d186dde"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "House Dems ask Trump to testify oath for impeachment case"
+    excerpt: "House Democrats have asked former President Donald Trump to testify under oath for his Senate impeachment trial"
+    publishedDateTime: 2021-02-04T18:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Media grapples with how to cover Trump after White House"
     excerpt: "Two weeks into his post-presidency, Donald Trump has managed the counter-intuitive trick of dominating the news despite being nearly silent publicly"
     publishedDateTime: 2021-02-04T16:35:00Z
@@ -1350,6 +1414,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1724301/matt-gaetz-rally-against-liz-cheney.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Politics updates: Impeachment managers request Trump testify under oath in impeachment trial"
+    excerpt: "The Rules Committee voted to bring the matter to the full House for a vote that will decide whether Greene can stay on her committees."
+    publishedDateTime: 2021-02-04T18:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/04/live-updates-house-to-vote-on-marjorie-taylor-greene-committee-seats/4383759001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4383759001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4383759001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/03/USAT/b517b428-a09c-4621-8f59-4828296b0235-AP_Capitol_Breach_Baked_Alaska_Arrest.jpg?auto=webp&crop=4104,2309,x0,y273&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Capitol rioter \"horrendously smitten\" by Trump willing to speak at impeachment trial, lawyer says"
     excerpt: "The words of Trump supporters who are accused of participating in the riot may end up being used against him in his impeachment trial."
