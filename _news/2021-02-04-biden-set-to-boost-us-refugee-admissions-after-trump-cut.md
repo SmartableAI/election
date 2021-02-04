@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Biden set to boost US refugee admissions after Trump cut"
-excerpt: "The Biden administration is preparing to notify Congress and others that it will dramatically increase U.S. admissions of refugees."
-publishedDateTime: 2021-02-04T06:19:00Z
-originalUrl: "https://www.businessinsider.com/biden-set-to-boost-us-refugee-admissions-after-trump-cut-2021-2"
-webUrl: "https://www.businessinsider.com/biden-set-to-boost-us-refugee-admissions-after-trump-cut-2021-2"
-ampWebUrl: "https://www.businessinsider.com/biden-set-to-boost-us-refugee-admissions-after-trump-cut-2021-2?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-set-to-boost-us-refugee-admissions-after-trump-cut-2021-2?amp"
+excerpt: "The Biden administration is preparing to notify Congress and others that it will dramatically increase U.S. admissions of refugees"
+publishedDateTime: 2021-02-04T04:18:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-set-boost-us-refugee-admissions-trump-cut-75665763"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-set-boost-us-refugee-admissions-trump-cut-75665763"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-set-boost-us-refugee-admissions-trump-cut-75665763"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-set-boost-us-refugee-admissions-trump-cut-75665763"
 type: article
-quality: 120
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_c4cf3a86ef1349d9a18dbc5920930bf4_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden pauses Trump policies as Blinken takes diplomatic helm"
@@ -1530,6 +1536,6 @@ related:
         height: 649
         isCached: true
 
-secured: "xjk+vcnl0PNFta77hx8momvSRHKE1hueUL2edzIHKLDRdFMYfMATrZS81/b1nZlQnWXdgrW8N7KsvAUEBgX/J54rzxGfNZcSehXTleabiWYcAoQopvuH7w6Fu1z9/UIajLXFu13Wu3BohFw5ttajhvJGW9mx3ljLf1QK5z2VEZ47igI3hTGYXiBJklLBKjZLv8bBJcBNUe4Z5xTyTQJV+qptIgDUj+BPKue6wA6pp5zj7D1TZsBbPP4wzT7JKwUZWipK9DkqqMc3axgJqvgVEpzkwpZ4M4dkdgG00p7g9hrws4x3+qGV3Ga9u0AbuAW1rncdstYfwXKiSz46FjXFlpaBhlA2/3gEDwXMrVPbqB8=;1F8nHrRDpHemIDzlxMnkng=="
+secured: "YjV71i+YWJRd6PMEkyTbzNZ5s5u2pdj4i+DJ6n15rJUKm0uMhIyv++mv16+HUrfbUgGQMFExBToeNzclTjjnJVFhva2UTOZC60YbhNCTGPehA5AmNy/CsXQs2ZUnW6ft2cSLBtAt5ecilJpSWJYjk4QAzUsVqZMqMpnLBjLS29eFu32CRhkJ/SwDvgenu5g3DehS80LnORczDozKX8Q9fBnOj4ao4NA3hKxveLxv4Oti8Xvj7orUZDVgl8tZf46yttvlrhHZ2qgwz+/jd0g0toY0w6mJx1LVIRjJS65YJcV2UUir9qctcQBEv3YUpsPCdBDqiYiakaWCCaKyqjbP00Yyt76NTFsKe3iViq5zAy0=;oqg/fBN3qkzE5YH/Q6CucQ=="
 ---
 

@@ -159,22 +159,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Women call on Congress, Biden administration to help moms during the coronavirus pandemic"
-    excerpt: "Charlize Theron, Amy Schumer, Gabrielle Union and Eva Longoria are among a group of moms, including non-celebrities, calling on Congress and the Biden administration to offer more support for working moms amid the coronavirus pandemic."
-    publishedDateTime: 2021-02-03T09:20:00Z
-    webUrl: "https://abcnews.go.com/GMA/Living/women-call-congress-biden-administration-moms-coronavirus-pandemic/story?id=75618999"
-    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/women-call-congress-biden-administration-moms-coronavirus-pandemic-75618999"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/women-call-congress-biden-administration-moms-coronavirus-pandemic-75618999"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 116
-    images:
-      - url: "https://s.abcnews.com/images/GMA/work-gty-er-210111_1610396075632_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden to release all coronavirus doses- CNN"
     excerpt: "President-elect Joe Biden will aim to release every available dose of coronavirus vaccine when he takes office, a departure from Trump administration strategy of holding back doses to make sure second doses are available,"
     publishedDateTime: 2021-01-08T20:50:00Z

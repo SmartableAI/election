@@ -47,21 +47,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden shows flexibility but tells House to ‘go big’ on aid"
-    excerpt: "President Joe Biden is telling House Democrats he’s not married to all the specifics of the $1.9 trillion COVID rescue plan"
-    publishedDateTime: 2021-02-03T10:22:00Z
-    webUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
+  - title: "Biden to set out his foreign policy in state dept speech – live updates"
+    excerpt: "President has promised US will re-engage globally after isolationist Trump era"
+    publishedDateTime: 2021-02-04T10:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates?page=with:block-601bca0d8f08c3a6ff7fb6ca"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://i.guim.co.uk/img/media/5fce824d46cd54ea2d3e48e3cc07aa6727c9b174/0_14_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7b4c6ce0b8bc7919f3fda6c3355e002a"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden tells Democrats he's open to negotiating who can get a $1,400 stimulus check"
     excerpt: "Calls to target a fresh wave of $1,400 stimulus checks to lower-income households are gaining steam in Congress."

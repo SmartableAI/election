@@ -2,6 +2,110 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-01-05-trumps-epa-finalizes-last-minute-limits-on-science-used-in-rulemaking.md",
+      "title": "Trump's EPA finalizes last minute limits on science used in rulemaking",
+      "excerpt": "The U.S. Environmental Protection Agency (EPA) chief said on Monday he has finalized a rule to limit what scientific research the agency can use to formulate regulations, in a concession to big business weeks before President Donald Trump leaves office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-science-idUSKBN29A0BY",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-science-idUSKBN29A0BY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546614096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0405C",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29A0BY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A0BY",
+      "publishedDateTime": "2021-01-05T00:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-one-state-can-chart-the-course-biden-rallies-in-georgia-on-eve-of-senate-runoffs.md",
+      "title": "'One state can chart the course': Biden rallies in Georgia on eve of Senate runoffs",
+      "excerpt": "President-elect speaks at Atlanta rally alongside Democratic candidates Jon Ossoff and the Rev Raphael Warnock",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies?fbclid=IwAR04dNRcXmbyCYDopmtLee754mYFPaxY9BtnJA24B6ZFIDMKVnxDEQXa7Yg",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies?fbclid=IwAR04dNRcXmbyCYDopmtLee754mYFPaxY9BtnJA24B6ZFIDMKVnxDEQXa7Yg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ff660c0bf5f9e314ad581ab5f09ccf159f026916/0_169_5083_3050/master/5083.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=495cdcf4a59e96a0b43afc9340c2cf00",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies",
+      "publishedDateTime": "2021-01-05T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-politico-reporter-tells-journalists-call-gopers-objecting-to-biden-win-radicals-extremists.md",
       "title": "Politico reporter tells journalists: Call GOPers objecting to Biden win 'radicals', 'extremists'",
       "excerpt": "Politico chief political correspondent Tim Alberta is urging other journalists to refrain from characterizing any Republican who supports President Trump's ongoing efforts to challenge the results of the 2020 presidential election as a \"conservative.",
@@ -1212,115 +1316,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes.md",
-      "title": "Audio: Trump berates Ga. secretary of state, urges him to ‘find’ votes",
-      "excerpt": "In a one-hour phone call on Saturday with Georgia election officials, President Trump insisted he won the state and threatened vague legal consequences if the officials did not act. These are excerpts from the call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2021/t_7559a1b0b2cc4f258d1c1605bcb3cd2e_name_TRUMPAUDIOv2_thumbnail.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-03T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-pence-welcomes-congressional-republicans-bid-to-challenge-electoral-votes.md",
-      "title": "Pence 'welcomes' congressional Republicans' bid to challenge electoral votes",
-      "excerpt": "Vice President Mike Pence on Saturday signaled his support for a bid by Republicans lawmakers to challenge electoral votes when Congress is expected to certify President-elect Joe Biden's victory in a meeting this week.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5A_PrrqLuRM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5A_PrrqLuRM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 242,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201229110145-01-mike-pence-1216-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/03/politics/pence-republicans-congress-electoral-college/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/pence-republicans-congress-electoral-college/index.html",
-      "publishedDateTime": "2021-01-03T08:26:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

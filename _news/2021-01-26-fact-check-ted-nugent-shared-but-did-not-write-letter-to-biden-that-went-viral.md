@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden flexible on who gets aid, tells lawmakers to ‘go big’"
+    excerpt: "President Joe Biden is encouraging Democratic lawmakers to “act fast” on his $1.9 trillion COVID-19 rescue plan but also signaling he’s open to changes, including limiting the proposed $1,400 direct p"
+    publishedDateTime: 2021-02-04T10:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-flexible-on-who-gets-aid-tells-lawmakers-to-go-big/2021/02/04/9ad441da-66a8-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-flexible-on-who-gets-aid-tells-lawmakers-to-go-big/2021/02/04/9ad441da-66a8-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-flexible-on-who-gets-aid-tells-lawmakers-to-go-big/2021/02/04/9ad441da-66a8-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "xYm89SsxxugOb84Lo+w7gRVu+pHz9ywtgGz0D2kW4JV+cKYTo2AHjMSFks2fjLTz3Saf86XEzHblcdE+Fpo5g4Y6uQDoxed96ZpvpzP0yJ/8hx0o8Rsqyh4ZuYNjUPRcnc5APfL53HOSd0O2+DIc6a5lmteJO0XCoMHkmzWXGzkhNAeI/optR8/uyTLIvDi1XyYlKCSh0RxZQMo4EWkutbDNdHSiMduysM+9hYb6k2XyL5KKaVBVTVqyIn8EjdvDh5I4egiz/KDpg3lJtdyzvmjGkv14Eu8dPv0EjSAgWc2rYw46i3NNUwKbL6MN1BZpC9oJF0M4ijWUW4Y9K6K0XaPHcJuGcv92RXauqPe+Gyc=;zAoRy29f5oMGU50iO4Xx6Q=="
 ---

@@ -31,53 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Biden faces calls to secure release of US man in Afghanistan"
-    excerpt: "Relatives and supporters of an American contractor who was abducted a year ago in Afghanistan and is believed to be in the custody of a Taliban-linked militant group are pressing the new Biden adminis"
-    publishedDateTime: 2021-01-30T21:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502"
+  - title: "Biden administration to house migrant teens at overflow facility in Texas closed under Trump"
+    excerpt: "The Biden administration is reopening an overflow facility to house unaccompanied migrant teens amid a possible surge in apprehensions at the border."
+    publishedDateTime: 2021-02-04T09:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/03/biden-house-migrant-children-texas-facility-closed-under-trump/4378699001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4378699001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4378699001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/07/10/PSAT/a955008a-3f90-44c9-a4b7-49fbc2d7c18e-Carrizo_Springs_population_sign.JPG?auto=webp&crop=4031,2268,x0,y603&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Obamacare Survived Trump and What Biden Might Do"
+    excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
+    publishedDateTime: 2021-02-04T10:51:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do/2021/02/04/eca9ee04-66a5-11eb-bab8-707f8769d785_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5OFR74TGUUI6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 952
+        isCached: true
+  - title: "Women call on Congress, Biden administration to help moms during the coronavirus pandemic"
+    excerpt: "Charlize Theron, Amy Schumer, Gabrielle Union and Eva Longoria are among a group of moms, including non-celebrities, calling on Congress and the Biden administration to offer more support for working moms amid the coronavirus pandemic."
+    publishedDateTime: 2021-02-03T09:20:00Z
+    webUrl: "https://abcnews.go.com/GMA/Living/women-call-congress-biden-administration-moms-coronavirus-pandemic/story?id=75618999"
+    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/women-call-congress-biden-administration-moms-coronavirus-pandemic-75618999"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/women-call-congress-biden-administration-moms-coronavirus-pandemic-75618999"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 116
     images:
-      - url: "https://s.abcnews.com/images/General/afghanistan-abuducted-american-mark-frerichs-01-ap-llr-210130_1612035203754_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/GMA/work-gty-er-210111_1610396075632_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden tells Democrats he's open to negotiating who can get a $1,400 stimulus check"
-    excerpt: "Calls to target a fresh wave of $1,400 stimulus checks to lower-income households are gaining steam in Congress."
-    publishedDateTime: 2021-02-03T18:32:00Z
-    webUrl: "https://www.businessinsider.com/biden-democrats-negotiating-stimulus-check-income-thresholds-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/biden-democrats-negotiating-stimulus-check-income-thresholds-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-democrats-negotiating-stimulus-check-income-thresholds-2021-2?amp"
+  - title: "U.S. will not expel unaccompanied migrant children under Trump-era policy now being reviewed"
+    excerpt: "President Biden ordered his administration to review a CDC order that allows U.S. border officials to swiftly expel migrants without a court hearing."
+    publishedDateTime: 2021-02-03T12:19:00Z
+    webUrl: "https://www.cbsnews.com/news/migrant-children-biden-administration-will-not-expel-trump-policy/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/migrant-children-biden-administration-will-not-expel-trump-policy/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/migrant-children-biden-administration-will-not-expel-trump-policy/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
     images:
-      - url: "https://i.insider.com/60146dfdd6c5e60019c6e03e?width=1200&format=jpeg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/03/2dbd5416-7ea2-4822-b01b-fc1c2a06e5eb/thumbnail/1200x630/0fce3e81e3bc33b285288b90be4dd94b/gettyimages-1228909458.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers"
-    excerpt: "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,"
-    publishedDateTime: 2021-01-25T04:24:00Z
-    webUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026"
-    ampWebUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1714910/biden-harris-white-house.jpg"
-        width: 2500
-        height: 1667
+        height: 630
         isCached: true
 
 secured: "KZr0dizAZi9M/cYpLtTndmoVmDjSB/Ioxv8UtLRwTwrJGihNDEtWSORvLPPNs0EsGWa8y+r4r2fbW6DUAn6S61Zozj8Creg87EXU0XRLMzu510TXyrOX8eBk8trNJck0WroD/zx/LhPX9QewFux7yiGLQooMeUNMYeMRkOZc/aIZL97OlonIpt2ZRyAbhA1NFJQRowYJjcVzHLf7qOG/5XCLSgo3+QEC5hUu+aZPzkS5AyhASBppQS58W2THj9o8WHicmqqL3b9O7HFrlwd9yc0+Vjz2ghUUr/b7Iz4C2Pz4DCEqQpaszMgTnO6xvrhuWbYg55CIOXMwiyNQhPcnUrknMUOMC/C/EztIYag1bHQ=;aVCPpsasC+YPGcQt3Ywh9g=="

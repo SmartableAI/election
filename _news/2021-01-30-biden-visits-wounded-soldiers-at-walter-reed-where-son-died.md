@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-sold
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden flexible on who gets aid, tells lawmakers to ‘go big’"
+    excerpt: "President Joe Biden is encouraging Democratic lawmakers to “act fast” on his $1.9 trillion COVID-19 rescue plan but also signaling he’s open to changes, including limiting the proposed $1,400 direct p"
+    publishedDateTime: 2021-02-04T10:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-flexible-on-who-gets-aid-tells-lawmakers-to-go-big/2021/02/04/9ad441da-66a8-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-flexible-on-who-gets-aid-tells-lawmakers-to-go-big/2021/02/04/9ad441da-66a8-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-flexible-on-who-gets-aid-tells-lawmakers-to-go-big/2021/02/04/9ad441da-66a8-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Fact check: Ted Nugent shared but did not write ‘letter to Biden’ that went viral"
     excerpt: "Social media posts, shared thousands of times, show a text attributed to Ted Nugent which is addressed to President Joe Biden that says: “This Trump supporter will be giving you the same respect you gave my President Trump."
     publishedDateTime: 2021-01-25T23:24:00Z

@@ -2,6 +2,115 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-12-13-this-is-a-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-at-rally.md",
+      "title": "'This Is a Phony Pandemic': GOP Congressman-Elect Praises Maskless Trump Supporters at Rally",
+      "excerpt": "\"This looks like a group of people that get that this is a phony pandemic,\" Bob Good of Virginia told \"Stop the Steal\" rallygoers Saturday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365",
+      "originalUrl": "https://www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1685454/bob-good-phony-pandemic-maskless.jpg",
+          "width": 768,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/this-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-rally-1554365?amp=1",
+      "publishedDateTime": "2020-12-12T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-trump-supporters-counterprotesters-clash-in-olympia-wash.md",
+      "title": "Trump supporters, counterprotesters clash in Olympia, Wash.",
+      "excerpt": "Protests are raging on for another weekend in Olympia, Wash. Trump supporters and members of the Proud Boys gathered at Washington's state Capitol, along with leftist counterprotesters. There was at least one street brawl between the groups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa",
+      "originalUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/protest-cropped-417a.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-supporters-counterprotesters-clash-olympia-wa.amp",
+      "publishedDateTime": "2020-12-12T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-trump-raised-firing-barr-in-white-house-meeting-on-friday.md",
       "title": "Trump raised firing Barr in White House meeting on Friday",
       "excerpt": "President Donald Trump raised the prospect of firing Attorney General William Barr in a meeting on Friday, but it's unclear whether he'll choose to dismiss Barr before the end of his term next month.\n    \n",
@@ -1241,110 +1350,6 @@
         "Donald Trump",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-in-leaked-audio-joe-biden-says-defund-the-police-was-used-to-beat-the-living-hell-out-of-democrats.md",
-      "title": "In leaked audio, Joe Biden says 'defund the police' was used to 'beat the living hell' out of Democrats",
-      "excerpt": "WASHINGTON — President-elect Joe Biden told civil rights leaders in a meeting on Tuesday he thought Republicans used the \"defund the police\" movement to defeat Democrats in down",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-said-gop-used-defund-police-against-dems-leaked-audio/3887911001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/10/biden-said-gop-used-defund-police-against-dems-leaked-audio/3887911001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/04/USAT/9fac5866-b3ae-48b6-a692-862b958b0386-AP20339752338738.jpg?auto=webp&crop=5626,3165,x0,y318&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3887911001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3887911001",
-      "publishedDateTime": "2020-12-10T17:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-biden-facing-pressure-to-pick-congresswoman-deb-haaland-as-interior-secretary.md",
-      "title": "Biden facing pressure to pick Congresswoman Deb Haaland as Interior Secretary",
-      "excerpt": "Tribal leaders, progressives and prominent women have called for Biden to pick Haaland as his interior secretary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/b2eecec4-b9a3-4c93-86db-a3f95fb27228/thumbnail/1200x630/90609bf67298dd0107ed148f9f4142a1/gettyimages-1044568894.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/",
-      "publishedDateTime": "2020-12-10T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

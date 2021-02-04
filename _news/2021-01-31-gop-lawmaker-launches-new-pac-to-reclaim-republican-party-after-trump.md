@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 375
 published: true
 
 provider:
@@ -142,6 +142,38 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_04/3445654/210128-marjorie-taylor-greene-mc-1347_fd64080340f25d655b1dd436b608e961.JPG"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "A Trump-Loving Congresswoman Stands Her Ground in New York City"
+    excerpt: "Rep. Nicole Malliotakis represents Staten Island, where new Republican voters out-registered Democrats during the Trump administration."
+    publishedDateTime: 2021-02-04T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/04/nyregion/malliotakis-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/04/nyregion/malliotakis-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/04/nyregion/malliotakis-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/14/nyregion/00nymalliotakis1/00nymalliotakis1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "QAnon fight, impeachment fallout expose Republicans' post-Trump rift"
+    excerpt: "After having kept Liz Cheney in leadership, Republicans are faced with questions about Marjorie Taylor Greene's future in the caucus."
+    publishedDateTime: 2021-02-04T09:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/qanon-fight-impeachment-fallout-expose-republicans-post-trump-rift-n1256627"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256627"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256627"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_05/3447408/210203-2x1-marjorie-taylor-greene-liz-cheney-ew-336p_ecadd80ffda389f9dff9c44761f02ec8.jpg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Virginia Republicans' search for a standard-bearer is a key test of post-Trump GOP in upcoming governor's race"
     excerpt: "As Republicans search for a path forward following Donald Trump's defeat and the party's loss of power in Washington, many are looking across the Potomac River to Virginia, where voters will select a new governor this November."

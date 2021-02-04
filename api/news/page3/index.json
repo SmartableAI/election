@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-02-trumps-oval-office-meeting-with-4-election-conspiracists-spiraled-into-a-chaotic-multi-hour-screaming-match.md",
+      "title": "Trump's Oval Office meeting with 4 election conspiracists spiraled into a chaotic multi-hour screaming match",
+      "excerpt": "\"Are you out of your f---ing mind?,\" White House advisor Eric Herschmann told conspiracy-wielding layer Sidney Powell at one point, Axios reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2",
+      "originalUrl": "https://www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff8b9cdd184b30018aadd87?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2?amp",
+      "publishedDateTime": "2021-02-02T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-live-updates-biden-meets-with-republican-senators-on-coronavirus-aid.md",
       "title": "Live Updates: Biden meets with Republican senators on coronavirus aid",
       "excerpt": "President Joe Biden on Monday night said that he's unwilling to settle on an insufficient coronavirus aid package.",
@@ -374,6 +426,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-trumps-access-to-intel-briefings-under-review-white-house.md",
+      "title": "Trump's access to intel briefings 'under review': White House",
+      "excerpt": "White House. Posted . A decision about whether to grant access to intelligence briefings to former Republican President",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVDXTIJMN",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVDXTIJMN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210201&i=OVDXTIJMN&r=OVDXTIJMN&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T13:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -999,7 +1103,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 335,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -1256,101 +1360,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-heres-what-to-exect-from-pences-post-vp-life.md",
-      "title": "Here's what to exect from Pence's post-VP life",
-      "excerpt": "Pence's relationship with former President Donald Trump, which, to put it mildly, faltered after the deadly Jan. 6 Capitol riot, does not appear to have improved over the last few weeks, NBC reports.",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/speedreads/964190/heres-what-exect-from-pences-postvp-life",
-      "originalUrl": "https://theweek.com/speedreads/964190/heres-what-exect-from-pences-postvp-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230702122.jpg?itok=9TsIXNEV&resize=450x300",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theweek.com/speedreads-amp/964190/heres-what-expect-from-pences-postvp-life",
-      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/964190/heres-what-expect-from-pences-postvp-life",
-      "publishedDateTime": "2021-01-31T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.md",
-      "title": "Pence plans to form political group as he moves beyond time with Trump and Capitol riot",
-      "excerpt": "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused political committee that would help him maintain a relationship with donors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 432,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106820378-1609982678273-AP21007045774819.jpg?v=1612099871",
-          "width": 1997,
-          "height": 1331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html",
-      "publishedDateTime": "2021-01-31T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

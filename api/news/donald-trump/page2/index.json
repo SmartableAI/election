@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-29-former-trump-aides-deere-hahn-hired-by-us-senator-from-tennessee.md",
+      "title": "Former Trump aides Deere, Hahn hired by U.S. senator from Tennessee",
+      "excerpt": "Two of former President Donald Trump's communications aides, Judd Deere and Julia Hahn, have been hired by U.S. Senator Bill Hagerty, a newly elected Tennessee Republican, Hagerty's office said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-deere/former-trump-aides-deere-hahn-hired-by-u-s-senator-from-tennessee-idUSKBN29X2MM",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-deere/former-trump-aides-deere-hahn-hired-by-u-s-senator-from-tennessee-idUSKBN29X2MM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210128&t=2&i=1549430118&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0R1LT",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29X2MM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29X2MM",
+      "publishedDateTime": "2021-01-28T15:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-biden-pauses-trump-policies-as-blinken-takes-diplomatic-helm.md",
+      "title": "Biden pauses Trump policies as Blinken takes diplomatic helm",
+      "excerpt": "The Biden administration has paused or put under review a wide swath of Trump-era foreign policies as America's new top diplomat takes the helm of the State Department",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_422b8d5714fc41d48d28e76caf1444a1_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
+      "publishedDateTime": "2021-01-27T22:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-trump-supporter-charged-in-2016-twitter-scheme-to-undermine-hillary-clinton.md",
       "title": "Trump supporter charged in 2016 Twitter scheme to undermine Hillary Clinton",
       "excerpt": "A far-right social media influencer was arrested Wednesday and accused of interfering in the 2016 election through an organized campaign to boost Donald Trump's candidacy by conning supporters of his opponent,",
@@ -1481,115 +1586,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-a-total-failure-the-proud-boys-now-mock-trump.md",
-      "title": "‘A Total Failure’: The Proud Boys Now Mock Trump",
-      "excerpt": "Members of the far-right group, who were among Donald Trump’s staunchest fans, are calling him “weak,” in a sign of fraying support.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/20/business/20noproudboys1/20noproudboys1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html",
-      "publishedDateTime": "2021-01-20T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-donald-trump-grants-clemency-to-legendary-las-vegas-gambler-billy-walters.md",
-      "title": "Donald Trump grants clemency to legendary Las Vegas gambler Billy Walters",
-      "excerpt": "Famed sports gambler Billy Walters was among the 143 people to which outgoing President Donald Trump granted clemency in his final day in office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/2t16n8Mz9CcYaGATnLGU-glOYJs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KOZBWRJWBJHHPENSR4ZSMVOI4M.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/gambling/sns-actnet-donald-trump-clemency-las-vegas-gambler-billy-walters-20210120-5gdsjalegjbsdjbtizyqf6c7qq-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-20T09:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
