@@ -975,6 +975,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump won't testify at Senate impeachment trial, his lawyers say"
+    excerpt: "Trump's lawyers said he will not testify at his coming impeachment trial, hours after Democrats said that his refusal could be used against him."
+    publishedDateTime: 2021-02-05T02:03:00Z
+    webUrl: "https://www.cnbc.com/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106124788-1568235708066rts2q6zs.jpg?v=1612462873"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "YouTube ban: Google extends suspension of former President Trump's channel"
     excerpt: "YouTube is maintaining its suspension of former President Trump's channel on the video site. Rudy Giuliani's channel also had its revenue nixed."
     publishedDateTime: 2021-01-27T07:16:00Z
@@ -2496,6 +2512,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "AgCaykV245J6L5fklrcQ17PClvMhaCPnc6WYl8ILuWYsg2nBNSQDd9vRSfRwFbvuRghIx14XBptqiYKG9GWFr/D/vjdOaYZy+eXc18yjAb/94p1oe3P7c7zGQ7VeoVDie4LeLcwV+o5AKZp3Mu855Yyc01386JSk2TxOywdnnZqZH+zwyJe6vwQF2JE8h+AAQ6j9bI5DD/wYEDpZbzrB7W/GXPym2wz8vyiij8ST6VZlq3jApJV9ObfrN0M88VIQLe73arJDLatQOgrNxNM5qXpH+2Ss2/WmN1NEXjkFR88m6ScHxmL0eTmIWnf4+OMjBMgFFZNQYMyizFTV54/Lsqbh8e0fZpstfCZ+iLgDZmc=;oHmIqaWIA5LfeiLh6KT+9g=="
+secured: "Ln1Ofr5pm045v5f7Sh6VdZaVIwr2q/VRKnpRPptGWWx4S1ssS8zHDuRhivfnhA2WcSUwOjigkmien9olSvYXhSxkYUXFSzBvnIBtP13LStyKVl/abZHf8iw84rXK9QOfx0mYT2z/8IhyjlUAtVlQnnFc4cqun98We8ITtQ/tFBG+shcmMmtXyj3GN1kIwGAu4krbxdcKUHMQhN+DlMD+Q0RcX8J70NsWEeZVSfefyrGT31Ji9tBufegX/R1kEbnwYFqh88XQt3klmdSJY5ndyFcbGW3LQre72ovRWOi7JGoBX8GZ31D+M8kwxQiqp0FSfeJ7ZbgnpiXOD+r3P6KfnQEwI5SOt1QM+Ddxo2LxLl1g9Yz681dcOEGvh2faP/ovixvIx1H/Cvpeg+dJqOL8TJdQt7ZfxP10qh0PCvhXR53fvphEDEdxypJmT+Ztt05OGMe7KWobpcXueTkq7amAVS1uFeQiDK8flU0QlVsszSZVzYOK8bhqbcuLoJv/OW2VgGtRqtzw45gDc2GlXIatHQ==;HYTDeaJpvivBq/525qvMuQ=="
 ---
 

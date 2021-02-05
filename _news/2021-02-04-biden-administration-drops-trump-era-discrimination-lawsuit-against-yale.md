@@ -367,6 +367,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden delays Trump rule that weakened wild bird protections"
+    excerpt: "The Biden administration is delaying a rule finalized in former President Donald Trump’s last days in office that would have drastically weakened the government’s power to enforce a century-old law pr"
+    publishedDateTime: 2021-02-04T18:56:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-delays-trump-rule-weakened-wild-bird-protections-75688007"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-delays-trump-rule-weakened-wild-bird-protections-75688007"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-delays-trump-rule-weakened-wild-bird-protections-75688007"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_aac90932e5114bd897dd9aab079074cf_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden revokes Trump's ban on transgender Americans serving in the military"
     excerpt: "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said."
     publishedDateTime: 2021-01-25T16:52:00Z

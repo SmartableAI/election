@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump quickly rejects impeachment managers' request for testimony at impeachment trial"
+    excerpt: "The House impeachment managers are seeking former President Donald Trump's testimony before or during his Senate impeachment trial, making the request in a letter Wednesday that raises the stakes of the trial scheduled to begin next week.\n    \n"
+    publishedDateTime: 2021-02-05T02:11:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gF_YFYqSPRI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/impeachment-trial-trump-testify/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/impeachment-trial-trump-testify/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Refuses Surprise Call to Testify in His Impeachment Trial"
     excerpt: "The former president’s lawyers wasted little time in swatting away the invitation to testify, saying the trial was “unconstitutional” and the request to testify a “public relations stunt.”"
     publishedDateTime: 2021-02-05T00:39:00Z

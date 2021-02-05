@@ -991,6 +991,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump won't testify at Senate impeachment trial, his lawyers say"
+    excerpt: "Trump's lawyers said he will not testify at his coming impeachment trial, hours after Democrats said that his refusal could be used against him."
+    publishedDateTime: 2021-02-05T02:03:00Z
+    webUrl: "https://www.cnbc.com/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106124788-1568235708066rts2q6zs.jpg?v=1612462873"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
     publishedDateTime: 2021-01-30T06:21:00Z

@@ -266,6 +266,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Dismisses House Impeachment Managers’ Request That He Testify"
+    excerpt: "Former President Donald Trump spurned a request from House impeachment managers that he testify next week as part of the Senate trial on a charge that he incited an insurrection last month at the U.S."
+    publishedDateTime: 2021-02-05T02:39:00Z
+    webUrl: "https://www.wsj.com/articles/house-impeachment-managers-ask-trump-to-testify-11612463900"
+    ampWebUrl: "https://www.wsj.com/amp/articles/house-impeachment-managers-ask-trump-to-testify-11612463900"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/house-impeachment-managers-ask-trump-to-testify-11612463900"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-295057/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump denies inciting Capitol riot, says Senate can’t hold impeachment trial"
     excerpt: "Former President Donald Trump denied Tuesday that he encouraged his supporters to storm the US Capitol last month — and argued that the Senate doesn’t have the authority to hold a"
     publishedDateTime: 2021-02-02T20:07:00Z

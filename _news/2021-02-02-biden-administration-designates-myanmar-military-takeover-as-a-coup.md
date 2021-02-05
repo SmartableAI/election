@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/myanmar-state-department
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/myanmar-state-department-coup-determination/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_05/3447378/210203-2x1-ubaldo-ochoa-lopez-ew-155p_d44262e2038a7807bc23a982a47c2d73.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Biden Cabinet members: List of confirmations so far"
+    excerpt: "President Joe Biden has assembled, by some accounts, a history-making Cabinet: If all members are approved, it will be the most diverse array of presidential counselors ever. But can he get them confirmed by the Senate?"
+    publishedDateTime: 2021-02-05T01:23:00Z
+    webUrl: "https://www.politico.com/interactives/2021/joe-biden-cabinet-members-confirmations-list/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://politico.com/interactives/2021/joe-biden-cabinet-members-confirmations-list/media/share.jpg"
+        width: 600
+        height: 324
         isCached: true
 
 secured: "2tegN22fbjcUFd9Wq28j0rqJRY65x/GBNdK7VwrCh7fYbvsA66p6X8MZpNKz15GRL8UPFcSwNAYyHMDBCYYsXQ1vmwdVRv4SkPVHab99I1wRAkcNMXXkYopjPvpeal9RrjtQ7nc7S4m/p0vzg4rj5y6KiR01JNRmttw7J4UPeXeed3U1apsxyXWuqtnWbBObqHmTFLWSKwnoQziOK/gGf6dv3QwVHuBVOJNjETjfnJR6Yfo0Hs0gW4uWOOt6hcpEAAkrUmXxWsCeoafHLMPNfMV981xveAerxDeqj3oUjotB7hQ+ygxmh72FkcoZ5tnVJM/AMlNlM0ZYtYA6AnEjUlJql4SCQSgLbD9rO4OAy0w=;lTqELO++5aRdBfLc8m8tew=="

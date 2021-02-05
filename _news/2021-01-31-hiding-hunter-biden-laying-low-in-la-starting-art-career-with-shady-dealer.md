@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Hunter Biden likely paid big bucks for deal on soon-to-be-released book"
+    excerpt: "Though the numbers aren’t public, sources say Hunter Biden was likely paid big bucks for his new book deal. "
+    publishedDateTime: 2021-02-05T00:59:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fouwa46LLAg/sources-say-hunter-biden-likely-paid-big-bucks-for-new-book-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/sources-say-hunter-biden-likely-paid-big-bucks-for-new-book-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sources-say-hunter-biden-likely-paid-big-bucks-for-new-book-deal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Hunter-memoir2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Senate committee advances Biden UN pick despite controversy over China speech"
     excerpt: "The Senate Foreign Relations Committee on Thursday approved President Biden’s U.N. ambassador nominee, Linda Thomas-Greenfield, but only after objections and a delay in the vote due to concerns raised by Republicans about a pro-China speech she once gave in 2019."
     publishedDateTime: 2021-02-04T17:52:28Z

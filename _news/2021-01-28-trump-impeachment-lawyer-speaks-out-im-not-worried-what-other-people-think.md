@@ -270,6 +270,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Dismisses House Impeachment Managers’ Request That He Testify"
+    excerpt: "Former President Donald Trump spurned a request from House impeachment managers that he testify next week as part of the Senate trial on a charge that he incited an insurrection last month at the U.S."
+    publishedDateTime: 2021-02-05T02:39:00Z
+    webUrl: "https://www.wsj.com/articles/house-impeachment-managers-ask-trump-to-testify-11612463900"
+    ampWebUrl: "https://www.wsj.com/amp/articles/house-impeachment-managers-ask-trump-to-testify-11612463900"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/house-impeachment-managers-ask-trump-to-testify-11612463900"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-295057/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Matt Gaetz says he’d resign House seat to defend Trump at impeachment trial"
     excerpt: "Matt Gaetz said he would resign if called on by former President Donald Trump to defend him in his upcoming impeachment trial, saying it’d be the “top priority in my life.” The Florida congressman made the comment in an interview with the Steve Bannon-hosted podcast “War Room Pandemic."
     publishedDateTime: 2021-02-04T15:31:00Z

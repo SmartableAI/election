@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Indians burn images of Kamala Harris' niece after she backs farm protests"
+    excerpt: "Vice President Kamala Harris’ niece defended her support for Indian farmers locked in a standoff with the government after pro-Parliament supporters burned photos of her on the streets of New Delhi Thursday."
+    publishedDateTime: 2021-02-05T02:51:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8RLEdM-lLwE/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests"
+    ampWebUrl: "https://www.foxnews.com/politics/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54258d7e-1687-4624-9f26-c873254ef60c/4bafd7a9-84b0-49f9-b06f-27d273544961/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'Saturday Night Live' critics say show avoided Joe Biden, Kamala Harris in first show of 2021"
     excerpt: "Live” returned from its winter break with a slightly different approach to covering politics that many critics immediately noticed."
     publishedDateTime: 2021-02-01T13:41:00Z

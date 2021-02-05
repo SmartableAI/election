@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-02-brad-parscale-accuses-d-level-talking-heads-around-trump-for-forcing-him-out-of-2020-campaign.md",
+      "title": "Brad Parscale accuses 'D-level' 'talking heads' around Trump for forcing him out of 2020 campaign",
+      "excerpt": "Former Trump 2020 campaign manager Brad Parscale has accused \"D-level\" \"talking heads\" in the president's orbit of starting a whisper campaign that forced him out earlier this year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7R_46I7Tv-w/brad-parscale-blasts-d-level-talking-heads-trump-2020-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7R_46I7Tv-w/brad-parscale-blasts-d-level-talking-heads-trump-2020-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bc71753-778e-4f60-ad87-1c50cfa1104f/36f89332-d7c5-4524-ab7f-191e86a4ecc4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/brad-parscale-blasts-d-level-talking-heads-trump-2020-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brad-parscale-blasts-d-level-talking-heads-trump-2020-campaign.amp",
+      "publishedDateTime": "2020-12-01T18:40:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-gop-senators-find-bodybags-with-anti-trump-notes-on-their-front-porches.md",
       "title": "GOP senators find bodybags with anti-Trump notes on their front porches",
       "excerpt": "Several GOP Senators were bombarded with dozens of bodybags at their homes on Tuesday by angry protesters pushing for COVID-19 relief after months of gridlock over negotiations in Congress. ",

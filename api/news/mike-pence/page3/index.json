@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-29-uss-nimitz-reaches-africa-takes-call-from-pence.md",
+      "title": "USS Nimitz reaches Africa; takes call from Pence",
+      "excerpt": "The Bremerton-based aircraft carrier departed Sinclair Inlet in April and there's been no announcement as to when it might come home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kitsapsun.com/story/news/2020/12/28/uss-nimitz-reaches-africa-takes-call-pence/4063674001/",
+      "originalUrl": "https://www.kitsapsun.com/story/news/2020/12/28/uss-nimitz-reaches-africa-takes-call-pence/4063674001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/28/PBKS/c7ca05f9-2f68-4df2-b0b2-aa5f450be227-nimitz_carrier_strike_group_supports_operation_octave_quartz_2.jpg?auto=webp&crop=985,555,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kitsapsun.com/amp/4063674001",
+      "cdnAmpWebUrl": "https://amp-kitsapsun-com.cdn.ampproject.org/c/s/amp.kitsapsun.com/amp/4063674001",
+      "publishedDateTime": "2020-12-28T14:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kitsap Sun",
+        "domain": "kitsapsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-give-mike-pence-exclusive-authority-on-which-electoral-college-votes-to-count-lawsuit.md",
       "title": "Give Mike Pence 'Exclusive Authority' on Which Electoral College Votes to Count: Lawsuit",
       "excerpt": "A group of Republican Trump supporters, including one Texas congressman, have filed a new lawsuit in a last-ditch attempt to overturn the election results.",
@@ -1501,49 +1544,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-vice-president-pence-announces-official-name-change-of-patrick-space-force-base.md",
-      "title": "Vice President Pence announces official name change of Patrick Space Force Base",
-      "excerpt": "One year after the U.S. Space Force was created by President Trump and Patrick Air Force Base was designated a space force base, Vice President Mike Pence made the name change to Patrick Space Force Base official.",
-      "sourceUrl": null,
-      "webUrl": "https://www.floridatoday.com/story/tech/science/space/2020/12/09/vice-president-pence-announces-official-name-change-patrick-space-force-base/6506564002/",
-      "originalUrl": "https://www.floridatoday.com/story/tech/science/space/2020/12/09/vice-president-pence-announces-official-name-change-patrick-space-force-base/6506564002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/09/PBRE/b361ae31-26de-47bf-adcd-6538f9e1acc9-SpaceForce2.jpg?auto=webp&crop=4031,2268,x0,y604&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.floridatoday.com/amp/6506564002",
-      "cdnAmpWebUrl": "https://amp-floridatoday-com.cdn.ampproject.org/c/s/amp.floridatoday.com/amp/6506564002",
-      "publishedDateTime": "2020-12-09T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Florida Today",
-        "domain": "floridatoday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

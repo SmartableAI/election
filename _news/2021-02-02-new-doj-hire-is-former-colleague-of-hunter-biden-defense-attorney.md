@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/doj-official-former-colleague-hunte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/biden-mayorkas.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Hunter Biden likely paid big bucks for deal on soon-to-be-released book"
+    excerpt: "Though the numbers aren’t public, sources say Hunter Biden was likely paid big bucks for his new book deal. "
+    publishedDateTime: 2021-02-05T00:59:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fouwa46LLAg/sources-say-hunter-biden-likely-paid-big-bucks-for-new-book-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/sources-say-hunter-biden-likely-paid-big-bucks-for-new-book-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sources-say-hunter-biden-likely-paid-big-bucks-for-new-book-deal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Hunter-memoir2.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Hiding Hunter Biden laying low in LA, starting art career with shady dealer"
     excerpt: "As federal prosecutors continue their criminal probes into Hunter Biden’s taxes and international business dealings, the President’s son — shuttling between Washington DC and a sprawling Hollywood Hills home — is lying low, consulting with lawyers and focusing on his new career in art."

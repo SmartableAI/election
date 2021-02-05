@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-optics-issue-kamala-har
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-optics-issue-kamala-harris-niece.amp"
 type: article
 quality: 185
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Indians burn images of Kamala Harris' niece after she backs farm protests"
+    excerpt: "Vice President Kamala Harris’ niece defended her support for Indian farmers locked in a standoff with the government after pro-Parliament supporters burned photos of her on the streets of New Delhi Thursday."
+    publishedDateTime: 2021-02-05T02:51:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8RLEdM-lLwE/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests"
+    ampWebUrl: "https://www.foxnews.com/politics/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54258d7e-1687-4624-9f26-c873254ef60c/4bafd7a9-84b0-49f9-b06f-27d273544961/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "White House calls Manchin a 'key partner' after he took issue with Harris local interview"
     excerpt: "White House Press Secretary Jen Psaki said Democratic Sen. Joe Manchin is a “key partner” for the administration after Vice President Harris made appearances on a local West Virginia television station to discuss President Biden’s “critical” coronavirus relief plan"
     publishedDateTime: 2021-02-01T20:10:54Z

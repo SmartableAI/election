@@ -144,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump quickly rejects impeachment managers' request for testimony at impeachment trial"
+    excerpt: "The House impeachment managers are seeking former President Donald Trump's testimony before or during his Senate impeachment trial, making the request in a letter Wednesday that raises the stakes of the trial scheduled to begin next week.\n    \n"
+    publishedDateTime: 2021-02-05T02:11:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gF_YFYqSPRI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/impeachment-trial-trump-testify/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/impeachment-trial-trump-testify/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's impeachment lawyers have a history of being involved in controversial legal matters"
     excerpt: "The new lawyers who signed on to lead former President Donald Trump's impeachment defense team bring a curious history of experience with them as they prepare to defend the former President in his second Senate trial.\n    \n"
     publishedDateTime: 2021-02-02T19:43:22Z
@@ -225,6 +241,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "ndRR/9OaE8ueMV4aZ6i3V6eI45TOkpZEXQEpOPu6SfyHKyhQwYyW4pPgQ83QqhE8JdemQTPqnRKjRztJmwOZyVNx2PKhnxjiqcTGPaNDthhueZFZPQq7fxzWhuuzxFRfmkyvWgY7tjg+ZgMYUw480Z6TbxQ2Dh0DTQa4I/ZHzxP0stFHig9NTmmpApdy4zSgtHH/hgqbW/8cH9GJkL05O9VrZXJETNGYIvuoq0LeIYT11GEShiNI4PHTImMUkRPirwIMJkCtX5+htoETrCWEBG7g5G+K2ovHDS3CfnKOrOl4lOvNt9K8v8cV5K1PKVZ5/7emvulwDwNIB0MBQmXIotWNvua1bjVOob07JcXUVZU=;CfZ3KDUWyUZMMQKcNfDbzQ=="
+secured: "n0rINi4hbPRjmmkHJGyX3ekJvK8F4If5h27buQ3nkwlVOkN3ditXo5gj0W61pJk9ZOXOkV6JC9PBO8tZCY093Q4w4MS0+Nv81QtXieMSA/oOxb6jKJGkJQ/L/jS8LcltRH6ODCE5fJOqUcThBCOiRtO5lqWnPRpSUqzhsblDjkuBAuStFN5tJJJG8om1Ks31qaig1RutsxveFxYT2aSuB/xVpnhWAy/Nd7SHBIx5cX7HQWCHWw42AKT6FJqTyVV48eiV34BOwSlCnqMrz3HMCnfD56fvR6LhxG4PuFiusqAi7ttQZrSNCI1Anx8dHnFOyuEu7oPicthaDh5Nh4v1Go8JVGTg33g6xfjqfq4Zcs/XH3kTsLtiXHURIfuZz8QCX3ZpIqtuSuGhuYM/FVmXJzQUwu0RYOzIzy20jUiqLDAjjGcFpJjenxIJRahUrPGTng2EAuLtVu2mBUeB3lb5szrZLKP13p2mnY2YXcTeC4LnDQ+GRmenOkKejxk0t1DuOQ3PM2jOZVO9PnTs4OSMmQ==;EovlRYHwWRNhmV0xcZ93fg=="
 ---
 

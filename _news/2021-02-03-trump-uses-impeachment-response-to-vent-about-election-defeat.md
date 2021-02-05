@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22MF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22MF"
 type: article
 quality: 140
-heat: 3360
+heat: 3380
 published: true
 
 provider:
@@ -974,6 +974,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump won't testify at Senate impeachment trial, his lawyers say"
+    excerpt: "Trump's lawyers said he will not testify at his coming impeachment trial, hours after Democrats said that his refusal could be used against him."
+    publishedDateTime: 2021-02-05T02:03:00Z
+    webUrl: "https://www.cnbc.com/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/04/trump-impeachment-democrats-call-for-testimony-under-oath-from-ex-president.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106124788-1568235708066rts2q6zs.jpg?v=1612462873"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "YouTube ban: Google extends suspension of former President Trump's channel"
     excerpt: "YouTube is maintaining its suspension of former President Trump's channel on the video site. Rudy Giuliani's channel also had its revenue nixed."

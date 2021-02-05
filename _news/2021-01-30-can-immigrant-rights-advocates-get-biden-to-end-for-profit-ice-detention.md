@@ -144,6 +144,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden Cabinet members: List of confirmations so far"
+    excerpt: "President Joe Biden has assembled, by some accounts, a history-making Cabinet: If all members are approved, it will be the most diverse array of presidential counselors ever. But can he get them confirmed by the Senate?"
+    publishedDateTime: 2021-02-05T01:23:00Z
+    webUrl: "https://www.politico.com/interactives/2021/joe-biden-cabinet-members-confirmations-list/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://politico.com/interactives/2021/joe-biden-cabinet-members-confirmations-list/media/share.jpg"
+        width: 600
+        height: 324
+        isCached: true
 
 secured: "lAWH5s7BfpEEbEQGpt5BdpJQnC+TgG/bplKpgrgStXNQ/DZvA1eaUeP2iYpzTVxRgm9PFgZCd8aLAMkYxq3hMmd9XHcbzNJ0lDnwhQ3ESfNTG5uunLZYdeX9T62DbFqrTnzXVaYcVa5s+AR7bFD6SFBRSaB1C3JGSX6IkXIY0xJ7HU19oRj1/gr3WVMO0o/0Ov0z3cASv9fYArObUa1LfyBR+CU5UV99GiitwqCOTdu72cyxYhJtlB5eDVTjWU9gF6RxNRY0k20EO+Wa9L7yvPOPG/I+wUkukUZbe9ZGUGSkc76Xq2/Vaq5IIN3ez6G8yNulQjtpuV+KYOoRNAVRdqNiJPLrk2RNTtfLjGKkbMI=;eFSfSHxGpfjRCnyepnBvwg=="
 ---

@@ -227,6 +227,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden officials considering action on student debt relief"
+    excerpt: "The Biden administration is reviewing whether it can take steps to provide student debt relief through executive action, even as it continues to call on Congress to pass legislation to help borrowers"
+    publishedDateTime: 2021-02-05T01:45:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-officials-considering-action-on-student-debt-relief/2021/02/04/f190b932-6729-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-officials-considering-action-on-student-debt-relief/2021/02/04/f190b932-6729-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-officials-considering-action-on-student-debt-relief/2021/02/04/f190b932-6729-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden says he will seek to raise refugee cap to 125,000"
     excerpt: "U.S. President Joe Biden will seek to raise the annual refugee cap to 125,000, he said during a speech at the U.S. State Department on Thursday."
     publishedDateTime: 2021-02-04T20:28:00Z
@@ -798,6 +814,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "US Vice President Kamala Harris walks to mock swearing in"
+    excerpt: "United States Vice President Kamala Harris walks to a mock swearing in of the new US Senators on Capitol Hill in Washington, DC on Thursday, February 4, 2021. Photo by Ken Cedeno/UPI ."
+    publishedDateTime: 2021-02-05T01:23:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d1e438775bd6ff4033618bfb218eced9/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d1e438775bd6ff4033618bfb218eced9/HARRIS-SWEARS-IN-SENATORS.jpg"
+        width: 650
+        height: 650
+        isCached: true
   - title: "Kamala Harris to receive shot in bid to boost U.S. confidence in vaccines"
     excerpt: "American, will become the second high-profile person from an ethnic minority background to receive the vaccine after Surgeon General Jerome Adams on Dec. 18."
     publishedDateTime: 2020-12-29T16:22:00Z

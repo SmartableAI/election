@@ -304,6 +304,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Signals Break With Trump Foreign Policy in a Wide-Ranging State Dept. Speech"
+    excerpt: "The president said that he would end support for Saudi Arabia in its intervention in Yemen and that the U.S. would no longer be “rolling over in the face of Russia’s aggressive actions.”"
+    publishedDateTime: 2021-02-05T01:48:00Z
+    webUrl: "https://www.nytimes.com/2021/02/04/us/politics/biden-foreign-policy.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/04/us/politics/biden-foreign-policy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/04/us/politics/biden-foreign-policy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 144
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/04/us/politics/04dc-prexy-1/merlin_182842254_e91194e3-3922-4139-804f-00ef93ae8ed3-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump and the Foiled Plot at the Justice Dept."
     excerpt: "Readers are shocked by what one calls “the most stunning episode” in the former president’s efforts to overturn the election."
     publishedDateTime: 2021-01-26T18:14:00Z
