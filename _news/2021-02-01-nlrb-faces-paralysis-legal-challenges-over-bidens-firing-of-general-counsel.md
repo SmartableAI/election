@@ -41,22 +41,6 @@ related:
         width: 825
         height: 545
         isCached: true
-  - title: "Biden prepares to lift cap on refugees by eight times previous level"
-    excerpt: "Sources say that Biden is set to lift the cap on the number of refugees allowed entry within a budgetary year. In one of the sharpest pivots from Trump administration policies, President Biden will reportedly notify Congress that he will begin increasing the amount of admissions the U."
-    publishedDateTime: 2021-02-04T20:44:00Z
-    webUrl: "https://thehill.com/changing-america/respect/accessibility/537405-biden-prepares-to-lift-cap-on-refugees-by-eight-times"
-    ampWebUrl: "https://thehill.com/changing-america/respect/accessibility/537405-biden-prepares-to-lift-cap-on-refugees-by-eight-times?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/accessibility/537405-biden-prepares-to-lift-cap-on-refugees-by-eight-times?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_biden_123120getty_1.jpg"
-        width: 1440
-        height: 880
-        isCached: true
   - title: "In first lawsuit against Biden administration, Texas AG Paxton challenges deportation freeze"
     excerpt: "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days."
     publishedDateTime: 2021-01-22T22:48:00Z
@@ -99,6 +83,20 @@ related:
       - url: "https://i.insider.com/600f59ec67a6bc0019d9af25?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Mike Pence forced to wander the streets of Washington after coming out as un-reelected"
+    excerpt: "HUMOR: “Don’t get me wrong, I don’t hate people who lose elections but watching it grosses me out. I like lots of election losers. My cousin lost an election once in college!"
+    publishedDateTime: 2021-02-05T04:53:00Z
+    webUrl: "https://www.stanforddaily.com/2021/02/04/mike-pence-forced-to-wander-the-streets-of-washington-after-coming-out-as-un-reelected/"
+    type: article
+    provider:
+      name: Stanford Daily
+      domain: stanforddaily.com
+    quality: 47
+    images:
+      - url: "https://wp.stanforddaily.com/wp-content/uploads/2021/02/Pence-Home-ophobic.jpg"
+        width: 1700
+        height: 1084
         isCached: true
 
 secured: "9LuiNCqM84N8zqq4twsTeTQmMf59ZQDYe2QrGRRh+On0js3Ut2cyVz1vPNKCy21OGq4NCbxLVD3s/KV7E976Pdn8bO3x/WuGIlU77BmrwwXwm0euwKrbfJ07QVPx6KaZ6jMw2z5bc40/U8sr2o2nf4C3cz50K5Ftt4XRGIzHmjbUGaz2eLa7ngw4tRHDPtF5Hb031T+IBjsDB0Axcce0CofHJdQhDvXl/zEe2U/gjLOELu1oK4RWxgFyXHoLZ/cQHDFXGd+J8rhh/9Zxsd5AmXkbM4h1YrNe5WIAsME7DjkBNKkzNQZeptHo/EFqOQaws7TZzO47kdvsgIwgt7a/fBLYBKwfjj6tx09TcP7eQsY=;VhOsZiRAbukkR1kRoROrLA=="

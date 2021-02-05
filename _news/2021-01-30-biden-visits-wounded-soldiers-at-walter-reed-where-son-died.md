@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-sold
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "Biden takes actions to protect LGBTQ rights worldwide, allow more refugees in US"
+    excerpt: "The possible impacts of President Biden's pathway to citizenship plan President Joe Biden on Thursday delivered his first major foreign policy speech during a visit to the State Department where he signaled he would place diplomacy at the center of U."
+    publishedDateTime: 2021-02-05T04:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-signs-memo-protecting-lgbtq-rights-worldwide-set/story?id=75682189"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 100
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-01-gty-iwb-210204_1612465276910_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "cnJm5VzESO11epmMiu9qySXn7ZFyuCIY4k+B1PD7SYWkqqcXIoRXrcEAer7VG8Noqu96Pr+HVsbytzQsyVePfhdagwVXCE1WGlerooWVRnerX0KA01B78hFkcBukli0etZRrgtMgpIb9JcHEpyRHgZ7Bjit+wDej8QkQ4mFld8sNp52ILQnCCmryHrrdN+gYcztt78a2viIbu+7vvQ0lesaSiRYdzYX7MEWUZ7I1F7PiNUaC8o4HHqJ1qvDscSmPMbxoCrvxQ7IdHWWdZ32ZgsyvNDsTcU/+slatVVgQdZor5ulatuUxzBO/8Qr1FcBhTXTqF5z7ODhS7rEBSYJEYhl1o/lXRXMo9pUqpcYGqNGEV76mY93YlBttQhaozAy2v6Hh7PEM8Vfa0Eycr1TN6j9i7BPPNq6fBi1v9TUHUUhk/4lFAvG/8NlWdmGQxnKjfr3u9/WTte+PnFB4aD2gOcSvaegXvYWo40TXUe3s5DH5uBgEl9snULI89dGhgFa4bwdyeZSbHUlZ7jF6qL2sqQ==;4m3p6unVZyCGRJSv/OBVWw=="
 ---

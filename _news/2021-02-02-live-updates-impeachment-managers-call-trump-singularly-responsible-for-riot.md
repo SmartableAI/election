@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Impeachment manager requests Trump testify under oath at Senate trial"
+    excerpt: "The head Democratic impeachment manager requested on Thursday that former President Donald Trump testify under oath next week at his own impeachment trial. Though Trump is not required to appear, Rep."
+    publishedDateTime: 2021-02-05T03:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/trump-impeachment-inquiry/impeachment-managers-request-trump-testify-under-oath-senate-trial-n1256751"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256751"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256751"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_03/3444361/210122-donald-trump-al-1405_c94071c5009019d8b6a364c44dfe16f0.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump Refuses Surprise Call to Testify in His Impeachment Trial"
     excerpt: "The former president’s lawyers wasted little time in swatting away the invitation to testify, saying the trial was “unconstitutional” and the request to testify a “public relations stunt.”"
     publishedDateTime: 2021-02-05T00:39:00Z

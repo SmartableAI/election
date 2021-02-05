@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden set to accept more refugees after years of Trump restrictions"
+    excerpt: "U.S. President Joe Biden will seek to raise annual refugee admissions to 125,000 in the coming fiscal year, he said on Thursday, a more than eight-fold increase after former President Donald Trump slashed levels to historic lows."
+    publishedDateTime: 2021-02-05T04:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees-order-idUSKBN2A42HN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550411081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1406U"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Poor handling of virus cost Trump his reelection, campaign autopsy finds"
     excerpt: "Former president Donald Trump lost the 2020 election largely due to his handling of the coronavirus pandemic, according to a post-election autopsy completed by Trump campaign pollster Tony Fabrizio. The 27-page document shows that voters in 10 key states rated the pandemic as their top voting issue,"
     publishedDateTime: 2021-02-02T10:03:00Z
@@ -1615,6 +1631,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump says he won't testify at impeachment trial, denying Democrats' request he answer questions"
+    excerpt: "Democratic prosecutors in the impeachment trial of Donald Trump requested he testify under oath either before or during the Senate trial."
+    publishedDateTime: 2021-02-05T04:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/04/impeachment-house-democrats-request-trump-testify-senate-trial/4391152001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4391152001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4391152001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/03/USAT/09ff2c96-2839-4b4d-abc2-de91ca65db84-AP_Trump_Impeachment_Trial.jpg?auto=webp&crop=2330,1311,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Power Up: And then there were five. Republicans, that is, willing to hold a Trump impeachment trial"
     excerpt: "Mitch McConnell isn't breaking with Trump, after all, as he voted to dismiss the impeachment trial because, 45 Republicans say, it's unconstitutional to convict a former president."
     publishedDateTime: 2021-01-27T16:21:00Z
@@ -1906,6 +1938,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210201&i=OVDXTI9CV&r=OVDXTI9CV&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Donald Trump's second impeachment: will the Senate convict him?"
+    excerpt: "Donald Trump’s second impeachment trial begins in the Senate next week. Lawrence Douglas explains the process and politics of the spectacle ahead"
+    publishedDateTime: 2021-02-05T03:00:00Z
+    webUrl: "https://www.theguardian.com/news/audio/2021/feb/05/donald-trumps-second-impeachment-will-the-senate-convict-him?share=twitter"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/40c414ba3fdeeeb93277d80939de0150a0bce47b/0_0_5153_3094/master/5153.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8363d1c31191bc7fcddc9f6293bed530"
+        width: 1200
+        height: 630
         isCached: true
   - title: "House Democrats ask Trump to testify at Senate impeachment trial – live"
     excerpt: "House impeachment manager Jamie Raskin asks Trump to testify under oath, saying former president ‘denied many factual allegations’ – follow the latest"

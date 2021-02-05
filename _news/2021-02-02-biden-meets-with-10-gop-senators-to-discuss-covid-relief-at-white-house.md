@@ -288,6 +288,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "House votes to speed stimulus passage after Biden meets with Dems"
+    excerpt: "The House took the first step toward pushing Biden's relief package through Congress without GOP support. President Joe Biden makes brief remarks in the Oval Office at the White House. | Doug Mills-Pool/ President Joe Biden met with Democrats on Wednesday as the House took its first step toward passing his sprawling $1."
+    publishedDateTime: 2021-02-05T02:28:00Z
+    webUrl: "https://www.politico.com/news/2021/02/03/biden-dems-call-stimulus-checks-465484"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/03/biden-dems-call-stimulus-checks-465484"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/03/biden-dems-call-stimulus-checks-465484"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/66/2c/a53be1d1454e9d39efafb5736eee/gettyimages-1300042122-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Covid live updates: Biden raises Covid vaccine goal, UK passes 100,000 deaths"
     excerpt: "President Biden increased his Covid vaccine goal to 1.5 million shots administered a day, deemed more likely due to states ramping up vaccine distribution."
     publishedDateTime: 2021-01-26T20:20:00Z

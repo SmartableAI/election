@@ -73,6 +73,20 @@ related:
         width: 880
         height: 545
         isCached: true
+  - title: "Biden takes actions to protect LGBTQ rights worldwide, allow more refugees in US"
+    excerpt: "The possible impacts of President Biden's pathway to citizenship plan President Joe Biden on Thursday delivered his first major foreign policy speech during a visit to the State Department where he signaled he would place diplomacy at the center of U."
+    publishedDateTime: 2021-02-05T04:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-signs-memo-protecting-lgbtq-rights-worldwide-set/story?id=75682189"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 100
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-01-gty-iwb-210204_1612465276910_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "5G2odVNPS3M3KxAkxI9S9OdPmFyKj66pST3Q4hQG4TdyZrcEEkTCq1C9Ou5gCtOwAoK6r8LccobZelEJQf3pZ2AjjRGyI6WkP4Z64W6++fUEYH2NB3yekJ0q91+yHZXLXgYdF6QZ02tdKB9C7VNhpwMj0vmLQVPL8WcRvIkXfCcWI7kcIEj2XJWnKMBCgy4eyzzTbA15VEeFzL1/31+8Q5k4qk8f/RD0ZzUs/pPzuvVGun3Q6yAU3BYZ70Xyzu6ivl1ekhrUN+Hvatv8HMJ+OS5Dxn/GPbjc8Lj+rSZtu1LOdU2+tBj5CLmhfZCYrt6oyZ12FgMsCSQOs4SO9PuGymiN0AjvZfumK2W74IYHYtM=;El9eYICLqnx8Ys2KMVkpRg=="
 ---

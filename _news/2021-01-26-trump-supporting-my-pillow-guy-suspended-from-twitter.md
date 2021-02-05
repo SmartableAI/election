@@ -61,17 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
-    excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"
-    publishedDateTime: 2021-02-02T20:04:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 52
 
 secured: "1hqcWHrmcCAQ8ocv1xIqGrjH7EGNxczE/xI373UF4e3EMUdePF9W6R+H3IlnW/cX3UmmJEVtz1RAr/CPG9GckSeMCUy6Ks9X2VupzA3HQON2U6avdPpr7V0oFLQPoy36CJMThO62mUNyX2Wp10iIgq6lfAloLDjuNVWu93Gk3ZEJKT4boxnmXmxffzskcQmxdEgNFpcjCrTHWWv5E9VcIODHbpJVCiXXQKT74fbv6Zl2MfuP+5mvaiI06kyHO6/UFUoZHxAtLeTHSjpLgCOHthuW6DkdZvgMVF234wfBZiE45PjwItK3kH9F4S1I+I/NeIfNWqKsPDd69l3xIz1PzbbGioW9d6fNR0G3IZFRtLM=;sAr1t7H3W23F8kNUmI+X6A=="
 ---

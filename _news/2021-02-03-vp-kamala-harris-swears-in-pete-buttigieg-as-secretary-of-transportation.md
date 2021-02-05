@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VP Kamala Harris swears in Pete Buttigieg as Secretary of Transportation"
-excerpt: "Pete Buttigieg hugs his husband his husband Chasten after he is sworn in as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington,"
+excerpt: "United States Vice President Kamela Harris arrives for the swearing-in of Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington,"
 publishedDateTime: 2021-02-03T15:27:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/42f19e08b4e3ce36d02a52e9fa26491c/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/42f19e08b4e3ce36d02a52e9fa26491c/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/27f76f666fed31d9f10ed29c365797bf/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/27f76f666fed31d9f10ed29c365797bf/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/42f19e08b4e3ce36d02a52e9fa26491c/BUTTIGIEG-TRANSPORTATION.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/27f76f666fed31d9f10ed29c365797bf/BUTTIGIEG-TRANSPORTATION.jpg"
     width: 650
     height: 433
     isCached: true
@@ -251,8 +251,8 @@ related:
         isCached: true
   - title: "Biden says he will seek to raise refugee cap to 125,000"
     excerpt: "U.S. President Joe Biden will seek to raise the annual refugee cap to 125,000, he said during a speech at the U.S. State Department on Thursday."
-    publishedDateTime: 2021-02-04T20:28:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees/biden-says-he-will-seek-to-raise-refugee-cap-to-125000-idUSKBN2A42RK?edition-redirect=in"
+    publishedDateTime: 2021-02-05T01:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees-idUSKBN2A42RK"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42RK"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42RK"
     type: article
@@ -261,23 +261,7 @@ related:
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550369480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131NO"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden to call for protecting LGBTQ rights globally in memo"
-    excerpt: "U.S. President Joe Biden will announce a presidential memorandum on Thursday protecting the rights of lesbian, gay, bisexual, transgender and queer (LGBTQ) people worldwide, national security adviser Jake Sullivan said."
-    publishedDateTime: 2021-02-05T00:01:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-lgbt-idUSKBN2A42KF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42KF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42KF"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550362734&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131JW"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550390311&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131NO"
         width: 817
         height: 545
         isCached: true
@@ -571,6 +555,22 @@ related:
       - url: "https://i.insider.com/60133e001d2df20018b717a3?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The Kamala Harris-Joe Manchin dust-up explained - and why it matters to the Biden administration"
+    excerpt: "Vice President Kamala Harris' media appearances in West Virginia didn't go over well with the state's longtime moderate senator, Joe Manchin."
+    publishedDateTime: 2021-02-03T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/02/03/joe-manchin-and-kamala-harris-sparred-over-west-virginia-interviews/4370364001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4370364001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4370364001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/01/USAT/c35c9bb9-bed0-4130-a062-1440af27dee5-AP_Harris_Senate.jpg?auto=webp&crop=2800,1575,x10,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The Kamala Harris-Joe Manchin dust-up explained - and why it matters to the Biden administration"
     excerpt: "Vice President Kamala Harris' media appearances in West Virginia didn't go over well with the state's longtime moderate senator, Joe Manchin."
@@ -920,6 +920,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "f5IVFuPbUB2T1J9lXJUGmPj8Zyl149GfrHQfODut73XWdWxrATLhoRjhAzkN+gxUU6xGAmyz2Y10zdpu0gi9sle5MqbFF6EisCpaDRdrLBHMLZCbg0qLrs9jc+ZZX5nyC4LfGkjkOBfFZehc1lRUvJiOJxMF6WiWVWESYjEdZziZBQ0rMDubD2gzncUb5zXR6ci2llYWVrmnvp7t4c1be0PVoiLmLyMkGo/ChUGaJTpMtcUlnNeHtdYjgsUydwjgvYpkYJzhzN07FpqSbKwkSVLzlR5nrbZY7LnWlaB4NF4uzYLWWIOFbTXCoMNA4LEaczihi/kP7Cxu1ZsEtkLpXV4gP+NTnsB0DPuR8BQsl5sJTSAStq8fgEp6awwX8pUTCnsDOLwdHHrc5ZjcBvrVLVuv0thMcAAPmUuF8Ct3BiAu0fGyJRfq/6PcgIUtj4zrohLUUt5rtH+b1HsqIcDDeL7trxMpOZsMEb0vcDv5mZWsLlOS/Rkc0OQ+W+OLlo8jy945c5xzWVxlUdtWxv6YKg==;m7hWumYPFil/foR0/gdlbA=="
+secured: "lB+BJod56uzPh0rH9sOuTBhItI41uNmYlkE6nTySWST7VChf1tUUVL9vqqTkniPxgYj3FprP6PE9irOSgG/8XBRsEmoXA7XucUTg5rdldJufQ/l/CrhyfM5EcIFa4jJXxp6w+K/ze1BWMIo2aMOTSHafs/8E6RhDeRC5Pyb7177es22TY9YR1YPGf0mc75WEKgWa/s/N2Pw8Rak4uwZGjkHCSCy/wDjx3hbAWt0bzDhpdAnzm8xOLFRkjlJtqvb2LBKoGvtUsIXm/haJaUbBHb5I9sqLCPFNpJmLUmQ5ebgwcEZDkQ4UX6FlPntHNbnHwEKJ630wB2SGbw2HlpVkEV/TAY5XKolpRyYE1A0Pi1A=;hiqGaDZBN8XYUFVICwpnJw=="
 ---
 

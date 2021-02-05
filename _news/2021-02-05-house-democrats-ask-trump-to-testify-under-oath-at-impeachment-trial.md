@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden set to accept more refugees after years of Trump restrictions"
+    excerpt: "U.S. President Joe Biden will seek to raise annual refugee admissions to 125,000 in the coming fiscal year, he said on Thursday, a more than eight-fold increase after former President Donald Trump slashed levels to historic lows."
+    publishedDateTime: 2021-02-05T04:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees-order-idUSKBN2A42HN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550411081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1406U"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Poor handling of virus cost Trump his reelection, campaign autopsy finds"
     excerpt: "Former president Donald Trump lost the 2020 election largely due to his handling of the coronavirus pandemic, according to a post-election autopsy completed by Trump campaign pollster Tony Fabrizio. The 27-page document shows that voters in 10 key states rated the pandemic as their top voting issue,"
     publishedDateTime: 2021-02-02T10:03:00Z
@@ -1599,6 +1615,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump says he won't testify at impeachment trial, denying Democrats' request he answer questions"
+    excerpt: "Democratic prosecutors in the impeachment trial of Donald Trump requested he testify under oath either before or during the Senate trial."
+    publishedDateTime: 2021-02-05T04:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/04/impeachment-house-democrats-request-trump-testify-senate-trial/4391152001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4391152001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4391152001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/03/USAT/09ff2c96-2839-4b4d-abc2-de91ca65db84-AP_Trump_Impeachment_Trial.jpg?auto=webp&crop=2330,1311,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "As the numbers suggest a Trump acquittal, Senators explore censure and brace for impeachment trial"
     excerpt: "Senate Democrats explored how to make their impeachment case against former President Donald Trump a day after a vote suggested he will be acquitted."
     publishedDateTime: 2021-01-27T22:05:00Z
@@ -1906,6 +1938,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210201&i=OVDXTI9CV&r=OVDXTI9CV&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Donald Trump's second impeachment: will the Senate convict him?"
+    excerpt: "Donald Trump’s second impeachment trial begins in the Senate next week. Lawrence Douglas explains the process and politics of the spectacle ahead"
+    publishedDateTime: 2021-02-05T03:00:00Z
+    webUrl: "https://www.theguardian.com/news/audio/2021/feb/05/donald-trumps-second-impeachment-will-the-senate-convict-him?share=twitter"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/40c414ba3fdeeeb93277d80939de0150a0bce47b/0_0_5153_3094/master/5153.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8363d1c31191bc7fcddc9f6293bed530"
+        width: 1200
+        height: 630
         isCached: true
   - title: "House Democrats ask Trump to testify at Senate impeachment trial – live"
     excerpt: "House impeachment manager Jamie Raskin asks Trump to testify under oath, saying former president ‘denied many factual allegations’ – follow the latest"
@@ -2512,6 +2558,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "g10sh8QGrW2P6gUBtjAApTL7qu6azgWh3DEdzjuF3FAl7duuaY+rtDAWRi6mQU0Djw5trQBg6VetfYP50EQMwLZth4dXMoSBHMyuOAyHlL/vCvLMb+tjSwDYPTOmWRhRfcMaq5g/d99XLEYDMc5WEhCnHyh4/3iEUuwtgqfEaRRF0fEVjwVsBc030XjzyZnI4rFbG1MmYWafetcfkflYj/W3Cub0lCDwDkJLorkcllTu+bvcF1jrqxmE4iSjBQBbkb4KFN2fxBjWLGy/MxTep1CW8bH6mmwyzleGrqM8lDQX1zjxnlNkMZix+vESxCjr8El5bKWnvVSY5hO7c421EVer4oSgW8+0yfMzQ7FPc2w=;E1/Piuz1KOb2gbmQw4Pv5g=="
+secured: "+whBviNgL9DEhf01F1CgbOf5WtXv14Ctz2CdFsVHpydTcscGbsn0qopB1p3DtZ4z6JtXKBP/R29jcNkdtb1gHlCdTFA775DDCSXwg7ZVHFMKj/g5JHprC1rdfpW9sbhp6wGUHvHKH1IrDpCNlbn+lsmZ4aAIWBHyDUjrzzACZEABe1zdYWnFnDB7k+Zh1CV+qEf8iEBKtL0h6HmwruKYcBSlig9pKyIaBQfPK46983aJ7JelEwem2018HE92XJSh7QXyB2R+rpVZl/ZpYZwxnINQ5rAt67XNIb/1zHidn5D8QLtAVJIkHWvnPT/aIgqIG0KGBycEsEIP9hkCcn4DKZ1BerJZWWlmNfcespeFmAt6/HwomSCtvu1Ft6Ynle1vZ05zUIitvvPNucmxQfgwlUxIbSKy6Gfnc+obdI0x3mDNz6L2KN3Fi1ytYRTDy8MLOyZB3LEbhZPeoMOKLxcINXPvuSRSMKXg9LUhVIf96DDbuZ7wutKU5AF5KNNczJwN16ToGyM6/WmdIyyzZbqC2w==;Sg8z5hgG8yoIg6jz5d5k5A=="
 ---
 

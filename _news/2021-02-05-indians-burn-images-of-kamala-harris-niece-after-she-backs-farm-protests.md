@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Indians burn images of Kamala Harris' niece after she backs farm protests"
-excerpt: "Vice President Kamala Harris’ niece defended her support for Indian farmers locked in a standoff with the government after pro-Parliament supporters burned photos of her on the streets of New Delhi Thursday."
+excerpt: "Vice President Kamala Harris’ niece defended her support for Indian farmers locked in a standoff with the government after pro-Parliament supporters burned photos of her on the streets of New Delhi on Thursday."
 publishedDateTime: 2021-02-05T02:51:53Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8RLEdM-lLwE/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8RLEdM-lLwE/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests"
@@ -209,6 +209,6 @@ related:
         height: 320
         isCached: true
 
-secured: "rLLxK7d8c6tYmPW/VmdEjXjpiELbZP/HydbFmJx4cS8269koHKZ9YSD+/+fJ3xPkEKCwfD4fqJSKq1/shgjhj4OPOUQQy7B3BuWylDp9vXqHsQ6MH5Pd8PhnLMvep9/tes00wU+foZaT71rnWYOee4KXcbIS6HLHzXbIOO+A2+U+GCVzO4nhf549YuiqXjWSaXxoHtRGvPxmSnGSKMwaMzBf7qBIQyboINwCyIxnI1IGVs/dRHEsw491UkkHJrnxWkQB7CvVSKYnfiSgZWuDLiuB/2CfpnB3I64V7/Jr2P6COmoI0Po0lOA7mnKxksNMr7nJnwpR0FtmJrMzrCMWpx54u00+w17DXHsLAvge6sM=;hiSQJxw9AWy1Fk7iJKKGgw=="
+secured: "XI8A4p52KNG+HjhNzK+ZPo2+gKztfxtU/TuPPWiMY8D6dXzUN2/o9cy2AnD/rAYWm8JF4fdWhtTE9kPV3jD/SiK3yoZTHSYchaVdpsLlTYW4fhJEocAivf1ymCEZvCnJcEXudUjWufc7HbtOkv8b0ta12tUvLbLUsyMAKG30clCAPZDTBy1b8iQ1GAiX1lvDVMu3MOKZQFMAxeE/9NVbhPhzIam2XJRCp+ZMGR5S5OHM7G9LfL3UVopy+4tYS4JtA91IXzD33bCL5z4dA/yMf4MdG0m3aoibJDlkjjd6EnAiR8XCVcl5lzBGjcVQluJLYu/CmfS3Q0nfFY8w7sbWmaHZrvi4fG3F05HGqXN5RjQ=;QqOqWoWTMOTvq9weQY3DXA=="
 ---
 

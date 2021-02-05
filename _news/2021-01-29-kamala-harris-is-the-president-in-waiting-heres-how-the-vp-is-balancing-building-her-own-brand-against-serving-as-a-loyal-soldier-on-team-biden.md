@@ -255,8 +255,8 @@ related:
         isCached: true
   - title: "Biden says he will seek to raise refugee cap to 125,000"
     excerpt: "U.S. President Joe Biden will seek to raise the annual refugee cap to 125,000, he said during a speech at the U.S. State Department on Thursday."
-    publishedDateTime: 2021-02-04T20:28:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees/biden-says-he-will-seek-to-raise-refugee-cap-to-125000-idUSKBN2A42RK?edition-redirect=in"
+    publishedDateTime: 2021-02-05T01:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees-idUSKBN2A42RK"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42RK"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42RK"
     type: article
@@ -265,23 +265,7 @@ related:
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550369480&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131NO"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden to call for protecting LGBTQ rights globally in memo"
-    excerpt: "U.S. President Joe Biden will announce a presidential memorandum on Thursday protecting the rights of lesbian, gay, bisexual, transgender and queer (LGBTQ) people worldwide, national security adviser Jake Sullivan said."
-    publishedDateTime: 2021-02-05T00:01:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-lgbt-idUSKBN2A42KF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42KF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42KF"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550362734&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131JW"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550390311&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131NO"
         width: 817
         height: 545
         isCached: true
@@ -561,6 +545,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/20/NWKL/165ec70c-805f-4fae-9c56-6d70c4d425e7-biden.png?auto=webp&crop=1019,574,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "The Kamala Harris-Joe Manchin dust-up explained - and why it matters to the Biden administration"
+    excerpt: "Vice President Kamala Harris' media appearances in West Virginia didn't go over well with the state's longtime moderate senator, Joe Manchin."
+    publishedDateTime: 2021-02-03T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/02/03/joe-manchin-and-kamala-harris-sparred-over-west-virginia-interviews/4370364001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4370364001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4370364001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/01/USAT/c35c9bb9-bed0-4130-a062-1440af27dee5-AP_Harris_Senate.jpg?auto=webp&crop=2800,1575,x10,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The Kamala Harris-Joe Manchin dust-up explained - and why it matters to the Biden administration"
     excerpt: "Vice President Kamala Harris' media appearances in West Virginia didn't go over well with the state's longtime moderate senator, Joe Manchin."
@@ -853,16 +853,16 @@ related:
         height: 630
         isCached: true
   - title: "VP Kamala Harris swears in Pete Buttigieg as Secretary of Transportation"
-    excerpt: "Pete Buttigieg hugs his husband his husband Chasten after he is sworn in as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington,"
+    excerpt: "United States Vice President Kamela Harris arrives for the swearing-in of Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington,"
     publishedDateTime: 2021-02-03T15:27:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/42f19e08b4e3ce36d02a52e9fa26491c/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/27f76f666fed31d9f10ed29c365797bf/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/42f19e08b4e3ce36d02a52e9fa26491c/BUTTIGIEG-TRANSPORTATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/27f76f666fed31d9f10ed29c365797bf/BUTTIGIEG-TRANSPORTATION.jpg"
         width: 650
         height: 433
         isCached: true

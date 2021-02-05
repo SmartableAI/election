@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national-security/douglass-mackey-ric
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/douglass-mackey-ricky-vaughn-donald-trump-hillary-clinton/2021/01/27/78a37940-60c8-11eb-afbe-9a11a127d146_story.html?outputType=amp"
 type: article
 quality: 123
-heat: 183
+heat: 163
 published: true
 
 provider:
@@ -61,17 +61,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
-    excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"
-    publishedDateTime: 2021-02-02T20:04:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 52
 
 secured: "9nlfkLegEL5Ebbohh0jNOCPjqNUVBDfiEaJSS1O+nmeyd/1ISwkC7wDd03tgfxRmH5GnCWJHB7y5MmtU/9YY2mbs4q/+ByWNs92+Qc26L5gptw5cYjHTmv0Ekhdkt/mGb1Cqm9KSlFRdY+NSHnO5X/mFZIw+JxP8y7So5uU2UrZb9ixNe/jK2CIYO3F/erGV4ajOSMWrmz2SAuDcq33zRSSkET8MD4nyoFHQqLcc3GDZ9mVI+n7CZGER6QM0titjMrVJ5fYcFrdLLmT9uzl1XKg6Ydrz8lDgngiA6VJ2bL5Jv6T2Q4OUAhWBg+hKm/l5gwEoRl/oX5rEOwZQlKtGlkv/nqGvLQCbcsWSSJqpOSyLxzOAkc+4koTEabBr4WxbbeQvYtFoIFHhD0ZQkQEIE+jYweSpamOpjJGqkTXO1LxmxGg2kyc32o8fzMhRSxoIXpPsJs/RQnP/9zET+BhAmiY6qeVCdD7zuWphYQgH2vZYG6MWsN+prHabzKRXd5JmERU+yqnDQBNVLjMwnMUpjw==;8mm54IjmPD83ujBevoiN3w=="
 ---
