@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
     quality: 105
     images:
       - url: "https://i.guim.co.uk/img/media/9bf19b42569b77c3f28a41a3742231fc1e1e8f22/0_2_2843_1707/master/2843.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09516b1de2db107a68ece6b91c8273cb"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden to welcome more refugees: Politics Weekly Extra"
-    excerpt: "Jonathan Freedland speaks to David Miliband about Joe Biden’s plans to resettle thousands of refugees in the US"
-    publishedDateTime: 2021-02-05T05:00:00Z
-    webUrl: "https://www.theguardian.com/politics/audio/2021/feb/05/biden-to-welcome-more-refugees-politics-weekly-extra"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/670a019d4b90593ed9ef111c773140439748cffc/0_230_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65a4a14769be4428ee1a23179c273e05"
         width: 1200
         height: 630
         isCached: true

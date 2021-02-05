@@ -77,21 +77,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Democrats weigh expanding lower courts after Trump blitz"
-    excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
-    publishedDateTime: 2021-01-30T22:00:00Z
-    webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
-    ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+  - title: "Trump team hires 2 ex-prosecutors with ethics experience"
+    excerpt: "Donald Trump has added two more former federal prosecutors from South Carolina to his impeachment legal team, according to one of the lawyers. “It is confirmed,” Greg Harris, an attorney in the capital city of Columbia,"
+    publishedDateTime: 2021-01-29T02:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/WireAP_99dde2878a054f718926d2e0a62bcdf9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Morgan Lewis, Trump's longtime tax counsel, prepares for split"
     excerpt: "Morgan, Lewis & Bockius said Wednesday it was stepping away from advising Donald Trump on tax matters, leaving the former president and his businesses further isolated from the country's largest law firms."
@@ -119,6 +119,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Trump Impeachment Lawyers Leave Team: US Media"
+    excerpt: "Several of former US president Donald Trump's impeachment lawyers have left his team a little over a week before his trial, US media reported Saturday. CNN cited unnamed sources as saying that five lawyers -- including two who were thought to be leading the team -- had parted ways with the Republican billionaire after disagreeing over his legal strategy."
+    publishedDateTime: 2021-01-31T04:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-leave-team-us-media-3134168"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
+        width: 1024
+        height: 716
         isCached: true
 
 secured: "xdsEMA24EmjisLHesAbT5HSQSttiwNKvLWTryUNMscOUy+urfg8wsZLIt6/pwpdnY5BM2yVH9H2thK4BrINrKbbpvLEM19SZnM9T+wlY3ITlhBEPd4xVniBrOJXXfy14jrpK8bqsOmgc+aLEAXNg/d5Yi880Ha6yjAQfB2IY/OQ7iX8Sx41fjBZrBDO3RY/Zx4ed8Ane2hcA+4VlE2X0YvTRBIwEwj1Xc2ajlZQijAUutFrdUl/07qZWzMvHfXjIZaRRZ6SI7qx/SLVtkOqw3a0T8knAEQY7LB4MS1l41pyDyKHU8uwcuZL7yjxFIWfSJ4B5hKa0neutIAhrhF5ByrgwoxsNmKwg3O4vo2wDVqKujZJ1xQg4pURlD0MeX05ra6hTr09L4N6xJIRp0Ybg4qApKw8fKLyscu4dK/2AIMGEefIsVlx9mPc/mCJHePDchCdZTIwjiGnlsVGnHsfvElx/ksD9Y14PH6s4JxoWZsrVWakYMo8UKrKKL4O9AQryH2k5VtjN2O1XxmIq0I6uvw==;LLnl2KOY1ljFVzZ3sAWG0A=="

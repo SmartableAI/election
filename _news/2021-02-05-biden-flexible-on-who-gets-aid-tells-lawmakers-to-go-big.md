@@ -79,31 +79,6 @@ related:
         width: 880
         height: 545
         isCached: true
-  - title: "Biden expected to name veteran diplomat as special envoy for Yemen - source"
-    excerpt: "U.S. President Joe Biden was expected to announce on Thursday the appointment of a veteran U.S. diplomat as his special envoy for Yemen, a person familiar with the issue said."
-    publishedDateTime: 2021-02-04T16:12:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-yemen-int/biden-expected-to-name-veteran-diplomat-as-special-envoy-for-yemen-source-idUSKBN2A4268"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A4268"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A4268"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
-  - title: "Biden takes actions to protect LGBTQ rights worldwide, allow more refugees in US"
-    excerpt: "The possible impacts of President Biden's pathway to citizenship plan President Joe Biden on Thursday delivered his first major foreign policy speech during a visit to the State Department where he signaled he would place diplomacy at the center of U."
-    publishedDateTime: 2021-02-05T04:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-signs-memo-protecting-lgbtq-rights-worldwide-set/story?id=75682189"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 100
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-biden-01-gty-iwb-210204_1612465276910_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "WNiK3TqMAdGS8kzNwCPZDO316UcQCpTzUrDZ0hAc4zDZQkr2dMX3SLZjblBlDjhU8QIAUTF4FnW28eumGwPKgUCSp/OkWZXkmFus8PTBgIzPBDGNGSJnNEDc4hV1GzljvGw0IkN6dPzyGdIhun06zUo9eWJJlwjsE0ilZpOoWlo1dekhn6gKjyig5xa87USAG5S/seEEy/Q+37N/FEv67RMLm+36OaUKkWeU+uITQIiF/HexJD4/lZiv0dK05UkrqTD3o9bPpv2nWEPPW9MNUzyILGqtqaR2W3vNSePEy2fWqDo18msfgTY2tB+EPyYOldGXydQ0LShTUqwGOJCi28IPjCW+TnoqpuP00a7X9u/qP9RVRDSdH2LLNOHOU0zp9NMhgvKweyhFKzVxonX7Eh5P56HQAhE+B7mqYOyoqqYKRipCazxPsU7kkf90wx7RB3DSR1xlDEBtG3zkiQEQWbXxadEccgn+y8zDquon5NWMpA6iQ+k5aja7hKwIjpj53kC2Nw1a3lItJ5CHC3nJOQ==;UgKhZZoPs+IOFVVJM8/dZw=="
 ---

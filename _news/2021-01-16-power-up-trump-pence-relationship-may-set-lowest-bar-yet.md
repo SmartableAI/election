@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pe
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp"
 type: article
 quality: 140
-heat: 1280
+heat: 1240
 published: true
 
 provider:
@@ -335,22 +335,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Historians rail against Trump administration's 1776 Commission"
-    excerpt: "Experts call report released by former administration a ‘puerile, politically reactionary document’"
-    publishedDateTime: 2021-01-22T08:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/22/1776-commission-report-trump-administration-historians"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/22/1776-commission-report-trump-administration-historians"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/22/1776-commission-report-trump-administration-historians"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/6c8012c5df62883049cde364538dd50c9452cf7a/0_265_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c7942ae2ece3d22caec50a5c44e7136f"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Top Iran leader posts Trump-like golfer image, vows revenge"
     excerpt: "The Twitter account of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone, vowing revenge over the killing of a top Iranian general in a U."
     publishedDateTime: 2021-01-22T08:17:00Z
@@ -430,22 +414,6 @@ related:
       - url: "https://i.insider.com/5fff59d2fe7e140019f7ec8d?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump administration announces 11th-hour rewrite of desert conservation plan"
-    excerpt: "The Bureau of Land Management on Wednesday announced proposed changes to the Desert Renewable Energy Conservation Plan."
-    publishedDateTime: 2021-01-16T02:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/environment/2021/01/15/trump-administration-announces-rewrite-desert-conservation-plan/4145109001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4145109001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4145109001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/30/PPAS/81147857-fffa-4df4-bad2-2b6ba9e7fc50-Accident.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Donald Trump's Most Powerful Post-Presidential Talking Point Could Be Immigration"
     excerpt: "On his way out of office, Trump's administration added 28 new questions to the U.S. citizenship test. His hardline views never stopped appealing to his most fervent supporters."

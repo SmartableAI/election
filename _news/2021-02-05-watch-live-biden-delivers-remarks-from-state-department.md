@@ -47,19 +47,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "U.S. will act after sanctions law review in wake of Myanmar coup: Biden"
-    excerpt: "U.S. President-elect Joe Biden delivers remarks on the U.S. response to the coronavirus disease (COVID-19) outbreak, at his transition headquarters in Wilmington, Delaware, U.S., December"
-    publishedDateTime: 2021-02-01T22:48:00Z
-    webUrl: "https://www.reuters.com/news/picture/us-will-act-after-sanctions-law-review-i-idUSKBN2A137O"
+  - title: "Biden has a 'mandate' to deliver COVID-19 relief: White House deputy press secretary"
+    excerpt: "White House deputy press secretary Karine Jean-Pierre joined ABC News' \"Powerhouse Politics\" podcast to discuss COVID-19 relief."
+    publishedDateTime: 2021-02-04T00:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-mandate-deliver-covid-19-relief-white-house/story?id=75659343"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: ABC
+      domain: abcnews.go.com
+    quality: 98
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549875458&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH101V4"
-        width: 810
-        height: 540
+      - url: "https://s.abcnews.com/images/Politics/karine-rt-er-210203_1612388213842_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden declares 'diplomacy is back' as he outlines foreign policy agenda at state department – live"
     excerpt: "President reiterated in speech the need for America to strengthen its global alliances – follow the latest"

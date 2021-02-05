@@ -62,6 +62,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Kamala Harris Casts Her First Tie-Breaking Vote"
+    excerpt: "It was, somehow, a setting simultaneously dramatic and anticlimactic for Vice President Kamala Harris’s first tiebreaking vote in the Senate: just before dawn in a sparsely filled chamber, at the end of a 15-hour session in which senators voted on dozens of amendments to one of the largest stimulus packages in American history."
+    publishedDateTime: 2021-02-05T15:12:00Z
+    webUrl: "https://www.nytimes.com/2021/02/05/us/kamala-harris-senate-vote.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/05/us/kamala-harris-senate-vote.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/kamala-harris-senate-vote.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/05/us/politics/05vid-kamala-harris-senate/05vid-kamala-harris-senate-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris became the first Black, South Asian VP with 'firsts' surrounding her"
     excerpt: "Harris, a former California attorney general and U.S. senator, is used to breaking barriers. Her swearing in as vice president was no different."
     publishedDateTime: 2021-01-20T20:48:00Z

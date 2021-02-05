@@ -418,6 +418,17 @@ related:
         width: 810
         height: 539
         isCached: true
+  - title: "Biden says Congress can do more to help troubled economy"
+    excerpt: "As part of a blitz of appearances Friday in which he pushed for the passage of his $1.9 trillion economic rescue plan, President Joe Biden said what Republicans have proposed doing to help the economy is not enough to help those in need because of the pandemic."
+    publishedDateTime: 2021-02-05T22:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-economy-gop/biden-says-congress-can-do-more-to-help-troubled-economy-idUSW1N2JO05E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2JO05E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2JO05E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Kamala Harris uses casting vote to pass Covid relief budget resolution – video"
     excerpt: "Vice-president’s Senate intervention means Biden’s $1.9tn package can pass without Republican support"
     publishedDateTime: 2021-02-05T10:25:00Z

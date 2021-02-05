@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/twitter-reacts-donald-trumps-angry-letter-re
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-donald-trumps-angry-letter-resigning-screen-actors-guild-what-loser-3138356?amp=1"
 type: article
 quality: 62
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1024
     height: 649
     isCached: true
-
-related:
-  - title: "Facing expulsion, Trump resigns from the Screen Actors Guild: ‘You have done nothing for me’"
-    excerpt: "Former president Donald Trump has resigned from the Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) after its national leadership voted to consider expelling him over his role in inciting the January mob attack on the U."
-    publishedDateTime: 2021-02-05T00:57:00Z
-    webUrl: "https://www.washingtonpost.com/arts-entertainment/2021/02/04/trump-resigns-screen-actors-guild/"
-    ampWebUrl: "https://www.washingtonpost.com/arts-entertainment/2021/02/04/trump-resigns-screen-actors-guild/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2021/02/04/trump-resigns-screen-actors-guild/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3HBE7SU54I6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "j/0T1dEJ7NiTJUIUYudWYcFuo+SROY4XceuNIP8prWReIcr0MoyqOJZPheGUFJ6Vz3q4lZ3kaI8/Med29HNXqvQ/Lg0cFDVSbM3gHnR1OxgPbzsV1q/v9DOZlX2HRNtrQ9SfX62yzug2zaTPkCd8t8Kok7enkko7GXRbZlYFkqeWldDCcxxIZTqCBEdOtUO0M/RWnqhcbtUqICz2UM8Zneo8JvP7TdBsQMGURQUImfLaNPuJ0wvzvq16Mmueeemslnkww5+/iRmHuo5Rfb5n35D2NSOIlYWvlhQ+VH3Q/W/ggW04GMs7R97rTMuy4dwurI4dXq8q/ctDOLHsVjhcjsyK6AfF6TZPVkXDlLrvQCvqaqeKnRA4JHnhvQo1OfuSsUGLlyPgNZrE2lln+gffa7CQjUsqBHfnfpETi5b/aDe1yAjesVRKIjqJnQ58aAUEG8YvhS9LWslCVGOyVuz8kTC9nyV9rvt9CWG0O3niUIV8rFKvOsN735mmT8L1w2uoAl9sLOPciTnslXwKFTPGNQ==;JxIgo1OBhENYPXJdjHSs0w=="
 ---

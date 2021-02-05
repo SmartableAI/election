@@ -79,21 +79,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Democrats weigh expanding lower courts after Trump blitz"
-    excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
-    publishedDateTime: 2021-01-30T22:00:00Z
-    webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
-    ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+  - title: "Trump team hires 2 ex-prosecutors with ethics experience"
+    excerpt: "Donald Trump has added two more former federal prosecutors from South Carolina to his impeachment legal team, according to one of the lawyers. “It is confirmed,” Greg Harris, an attorney in the capital city of Columbia,"
+    publishedDateTime: 2021-01-29T02:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-team-hires-prosecutors-ethics-experience-75554682"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/WireAP_99dde2878a054f718926d2e0a62bcdf9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Morgan Lewis, Trump's longtime tax counsel, prepares for split"
     excerpt: "Morgan, Lewis & Bockius said Wednesday it was stepping away from advising Donald Trump on tax matters, leaving the former president and his businesses further isolated from the country's largest law firms."
@@ -119,6 +119,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/13ed5203f77124a21f8ff6fb41659c1b30762c44/30_76_1673_1004/master/1673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a04315508afc531e643ca3e642bb5c0"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump Impeachment Lawyers Leave Team: US Media"
+    excerpt: "Several of former US president Donald Trump's impeachment lawyers have left his team a little over a week before his trial, US media reported Saturday. CNN cited unnamed sources as saying that five lawyers -- including two who were thought to be leading the team -- had parted ways with the Republican billionaire after disagreeing over his legal strategy."
+    publishedDateTime: 2021-01-31T04:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-lawyers-leave-team-us-media-3134168"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/former-us-president-donald-trump-appears-increasingly-likely.jpg"
+        width: 1024
+        height: 716
         isCached: true
 
 secured: "wtAeM6+/2CMQs5erifwJbqkmpwOYNbt14euOKiAKEMCacSE+wQm2ccPEY3G7ib7zA2WseT85K1FtEZMrxuxIPP/HXBYGovNp99AiclX8fzaryI8dsB0MfbdNe6foIJNkH8t04LjiCmL7C6WudpRtKiwk9VjBqy24jka1ThiPa77k7AZU1TN0GGCq4zTGCXs0EPMoqUbYP9gr6u4c/xqdt/+aICTGcUIC28m8KoOapGf2j2KMvTcwYzncJwJnGt8vGmigprsSuRUjZxt+uPwv5GjXnhep6o9GiYlO+UKpGqVt6ZqilWzQQwgtJ3LsXHmj98wOxZ3x4GbgoA7q9j1+Xk6mVbIR2c+bQTY6fVt+uQQL/sOqC0fhKTnWRysd0VDBG9mbUngfqwMH+3zr3YTWXvGI0AelmooWnFt/MVyycEXC0X7eFDbejDi/q/Mdw0yJqYeeU1h3tlDRyin+MK0ib+Ek53iuvRfyYqNRCNCjb44GR5dhimwJp7claeiLjCF/P5hNfM/wfRiMvbWsipvunw==;VvZ2x3UyUROI8flpuapZaA=="

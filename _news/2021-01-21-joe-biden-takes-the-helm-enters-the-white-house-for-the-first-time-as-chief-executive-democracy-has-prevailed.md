@@ -105,22 +105,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
-    excerpt: "President Joe Biden is making his first major foray outside the White House, to visit wounded soldiers at Walter Reed Hospital, just outside Washington"
-    publishedDateTime: 2021-01-29T15:36:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_c332139ef1dc440aaaa9f6ee89d4095f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Fox News's primetime ratings took a dive during Biden's inauguration"
     excerpt: "Fox News took a hit during inauguration week after setting records for Trump's in 2017. A similar shift happened in 2013 for Obama's second inaugural."
     publishedDateTime: 2021-01-29T01:17:00Z
@@ -345,22 +329,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Legislators, Online Petition Put Pressure on Biden to Support Recurring Stimulus Checks"
-    excerpt: "Kamala Harris supported recurring payments, and restaurant owner Stephanie Bodin, a creator of a Change.org petition, called for people to maintain pressure on legislators."
-    publishedDateTime: 2021-02-01T16:41:00Z
-    webUrl: "https://www.newsweek.com/legislators-online-petition-put-pressure-biden-support-recurring-stimulus-checks-1565829"
-    ampWebUrl: "https://www.newsweek.com/legislators-online-petition-put-pressure-biden-support-recurring-stimulus-checks-1565829?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/legislators-online-petition-put-pressure-biden-support-recurring-stimulus-checks-1565829?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1721509/stimulus-checks-recurring-biden-2000.jpg"
-        width: 3000
-        height: 2003
-        isCached: true
   - title: "Biden is expected reinstate federal funding for abortions in an upcoming executive order"
     excerpt: "As part of a series of healthcare actions, President Joe Biden plans to back ending provisions that bar federal funds from being used for abortions."
     publishedDateTime: 2021-01-28T16:08:00Z
@@ -469,17 +437,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
-    excerpt: "President Joe Biden is making his first major foray outside the White House on Friday, to visit wounded soldiers at Walter Reed National Military Medical Center."
-    publishedDateTime: 2021-01-29T23:33:00Z
-    webUrl: "https://www.businessinsider.com/biden-to-visit-wounded-soldiers-at-walter-reed-hospital-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/biden-to-visit-wounded-soldiers-at-walter-reed-hospital-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-visit-wounded-soldiers-at-walter-reed-hospital-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Legal Lookahead: Biden readies new orders on immigration"
     excerpt: "Biden readies new orders on immigration. Posted . President Joe Biden plans to take further steps moving away from his predecessor's policies on immigr"
     publishedDateTime: 2021-01-30T21:11:00Z

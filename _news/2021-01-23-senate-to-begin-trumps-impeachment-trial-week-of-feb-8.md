@@ -109,6 +109,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "House Democrats deliver Trump impeachment charge to Senate"
+    excerpt: "The U.S. House of Representatives delivered to the Senate on Monday a charge that former President Donald Trump incited insurrection in a speech to supporters before the deadly attack on the Capitol,"
+    publishedDateTime: 2021-01-26T06:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idCAKBN29U13G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29U13G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29U13G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549038682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P012"
+        width: 817
+        height: 545
+        isCached: true
   - title: "U.S. House lawmakers carry article of impeachment against Trump to Senate"
     excerpt: "U.S. House of Representatives officials and lawmakers on Monday hand-carried an article of impeachment against former President Donald Trump to the Senate for trial on accusations of inciting the deadly Jan."
     publishedDateTime: 2021-01-26T00:41:00Z
@@ -140,6 +156,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/16/PREN/52f86d3b-ff52-4b49-8f0e-92801026d8d7-REN_CARSON_PROTEST_011621_05.jpg?auto=webp&crop=1477,831,x0,y74&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Legal analysis of Trump impeachment trial"
+    excerpt: "The House delivered its article of impeachment against former President Trump on Monday. He's charged with inciting the deadly insurrection at the Capitol earlier this month. Jessica Levinson, Loyola Law School professor,"
+    publishedDateTime: 2021-01-26T04:38:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-impeachment-trial-jessica-levinson-analysis-2021-01-25/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/870ea0d8-9185-41f6-bbf5-fc75ad2736d2/thumbnail/1200x630/ead47aa2d8d46155a20fe2c8ae8548f4/cbsn-fusion-trump-impeachment-trial-jessica-levinson-analysis-2021-01-25-thumbnail-633279-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Analysis: Chronicling Donald Trump’s 10 worst abuses of power"
     excerpt: "Former President Donald Trump flouted the limits of presidential power unlike any of his recent predecessors, leaving behind a legacy of unmatched abuses that range from violations of longstanding"

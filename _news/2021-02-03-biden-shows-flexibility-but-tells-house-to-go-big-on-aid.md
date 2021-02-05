@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-a
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 325
+published: true
 
 provider:
   name: Washington Post
@@ -31,37 +31,133 @@ images:
     isCached: true
 
 related:
-  - title: "Biden faces calls to secure release of US man in Afghanistan"
-    excerpt: "Relatives and supporters of an American contractor who was abducted a year ago in Afghanistan and is believed to be in the custody of a Taliban-linked militant group are pressing the new Biden adminis"
-    publishedDateTime: 2021-01-30T21:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502"
+  - title: "Biden makes slow but steady progress on COVID relief: The Note"
+    excerpt: "The White House has managed to stay in the center of negotiations, despite forces in both parties that have an interest in pulling talks to the Capitol."
+    publishedDateTime: 2021-02-04T11:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/General/afghanistan-abuducted-american-mark-frerichs-01-ap-llr-210130_1612035203754_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/the-note-president-joe-biden-covid-relief-schools-01-rt-llr-210203_1612400855123_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to set out his foreign policy in state dept speech – live updates"
-    excerpt: "President has promised US will re-engage globally after isolationist Trump era"
-    publishedDateTime: 2021-02-04T11:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates?page=with:block-601bd3618f08287e584686a6"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates"
+  - title: "Biden to meet Democratic lawmakers on COVID-19 aid: White House"
+    excerpt: "U.S. President Joe Biden will on Wednesday meet congressional Democrats preparing to advance his $1.9 trillion COVID-19 relief plan despite Republican pushback."
+    publishedDateTime: 2021-02-03T19:29:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/biden-to-meet-democratic-lawmakers-on-covid-19-aid-white-house-idUSKBN2A31Z4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550212723&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1219E"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden to meet with Democratic lawmakers on COVID-19 aid: White House"
+    excerpt: "U.S. President Joe Biden will meet with fellow Democrats in Congress on Wednesday to discuss ongoing efforts to pass COVID-19 relief legislations, the White House said in a statement."
+    publishedDateTime: 2021-02-03T18:55:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A31Z4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550196440&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121LW"
+        width: 832
+        height: 545
+        isCached: true
+  - title: "Biden calls for expanded efforts to protect LGBTQ rights globally"
+    excerpt: "U.S. President Joe Biden on Thursday issued a presidential memorandum aimed at expanding protection of the rights of lesbian, gay, bisexual, transgender and queer and intersex (LGBTQI) people worldwide,"
+    publishedDateTime: 2021-02-05T09:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-lgbt-idUSKBN2A42KF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42KF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42KF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550362734&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131JW"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden to meet House Democrats to push Covid relief plans – live updates"
+    excerpt: "President will meet leaders and committee chairs ahead of monthly jobs report release"
+    publishedDateTime: 2021-02-05T10:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates?page=with:block-601d17f68f08ab4f3b771e53"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/5fce824d46cd54ea2d3e48e3cc07aa6727c9b174/0_14_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7b4c6ce0b8bc7919f3fda6c3355e002a"
+      - url: "https://i.guim.co.uk/img/media/c8c38a259def9f99b805bdbec04b95e9b5731e2c/0_53_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10eae5c70c9474a7d00623a441fbe2f3"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden meets with House Democrats in push for $1.9T plan"
+    excerpt: "President Joe Biden is meeting with the House Democratic committee chairs who aim to put his $1.9 trillion coronavirus relief package on a fast track to becoming law"
+    publishedDateTime: 2021-02-05T16:45:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/senate-oks-fast-track-covid-aid-harris-casts-75707130"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/senate-oks-fast-track-covid-aid-harris-casts-75707130"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/senate-oks-fast-track-covid-aid-harris-casts-75707130"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_78f74ccaa556425c94c6bf206d2aea53_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden brother’s role in Florida law firm complicates White House ethics message"
+    excerpt: "Frank Biden, the president’s younger brother, is working as a senior adviser to a Florida law firm that has sought to attract business by touting the brothers’ connection and the president’s policies."
+    publishedDateTime: 2021-02-03T11:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/frank-biden-berman-group/2021/02/02/b1cf23a4-63f7-11eb-8c64-9595888caa15_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/frank-biden-berman-group/2021/02/02/b1cf23a4-63f7-11eb-8c64-9595888caa15_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/frank-biden-berman-group/2021/02/02/b1cf23a4-63f7-11eb-8c64-9595888caa15_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZATX7TFVII6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 1131
+        isCached: true
+  - title: "U.S. Senate passes budget plan to advance Biden's $1.9 trillion COVID aid package"
+    excerpt: "President Joe Biden's drive to enact a $1.9 trillion coronavirus aid bill gained momentum early on Friday as the U.S. Senate narrowly approved a budget blueprint allowing Democrats to push the legislation through Congress in coming weeks with or without Republican support."
+    publishedDateTime: 2021-02-05T15:59:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/us-senate-passes-budget-plan-to-advance-bidens-19-trillion-covid-aid-package-idUSKBN2A514V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A514V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A514V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550502789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH140MZ"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden tells Democrats he's open to negotiating who can get a $1,400 stimulus check"
     excerpt: "Calls to target a fresh wave of $1,400 stimulus checks to lower-income households are gaining steam in Congress."
@@ -79,21 +175,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers"
-    excerpt: "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,"
-    publishedDateTime: 2021-01-25T04:24:00Z
-    webUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026"
-    ampWebUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
+  - title: "U.S. senators look to back up Biden administration over Myanmar coup"
+    excerpt: "U.S. Senator Ben Cardin (D-MD) asks a question to Secretary of State Mike Pompeo during a Senate Foreign Relations Committee hearing in Washington, DC, U.S. July 30, 2020. Greg Nash/Pool v"
+    publishedDateTime: 2021-02-05T03:07:00Z
+    webUrl: "https://www.reuters.com/news/picture/us-senators-look-to-back-up-biden-admini-idUSKBN2A42O8"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://d.newsweek.com/en/full/1714910/biden-harris-white-house.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550380543&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH131M5"
+        width: 810
+        height: 539
         isCached: true
 
 secured: "KZr0dizAZi9M/cYpLtTndmoVmDjSB/Ioxv8UtLRwTwrJGihNDEtWSORvLPPNs0EsGWa8y+r4r2fbW6DUAn6S61Zozj8Creg87EXU0XRLMzu510TXyrOX8eBk8trNJck0WroD/zx/LhPX9QewFux7yiGLQooMeUNMYeMRkOZc/aIZL97OlonIpt2ZRyAbhA1NFJQRowYJjcVzHLf7qOG/5XCLSgo3+QEC5hUu+aZPzkS5AyhASBppQS58W2THj9o8WHicmqqL3b9O7HFrlwd9yc0+Vjz2ghUUr/b7Iz4C2Pz4DCEqQpaszMgTnO6xvrhuWbYg55CIOXMwiyNQhPcnUrknMUOMC/C/EztIYag1bHQ=;aVCPpsasC+YPGcQt3Ywh9g=="

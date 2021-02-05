@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_53d43a22043a40ef874c8eb064a0a328_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Florida’s Trump Plaza residents move to change name"
+    excerpt: "The residents of a South Florida condo complex want former President Donald Trump’s name officially removed from their home following the siege at the U.S. Capitol earlier this month"
+    publishedDateTime: 2021-01-27T00:46:00Z
+    webUrl: "https://www.washingtonpost.com/national/floridas-trump-plaza-residents-move-to-change-name/2021/01/26/ca15ff5e-6038-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/floridas-trump-plaza-residents-move-to-change-name/2021/01/26/ca15ff5e-6038-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/floridas-trump-plaza-residents-move-to-change-name/2021/01/26/ca15ff5e-6038-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "As Trump leaves office, South Florida is poised to become his new ‘MAGA’ capital"
     excerpt: "Everyone’s leaving. They’re moving to Florida,\" President Donald Trump says. South Florida is poised to become Trump's new MAGA capital after he leaves the White House."

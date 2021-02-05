@@ -767,22 +767,6 @@ related:
         width: 819
         height: 545
         isCached: true
-  - title: "Judge: Trump administration must take new DACA applications"
-    excerpt: "The Trump administration must accept new applications for the Deferred Action for Childhood Arrivals program that protects some young immigrants from deportation"
-    publishedDateTime: 2020-12-05T05:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-trump-administration-daca-applications-74549321"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-trump-administration-daca-applications-74549321"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-trump-administration-daca-applications-74549321"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/daca-protesters_hpMain_20201204-202430_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "AP FACT CHECK: Trump floods rally with groundless grievances"
     excerpt: "President Donald Trump flooded his first postelection political rally with grievances rooted in his defeat by Democrat Joe Biden"
     publishedDateTime: 2020-12-06T02:28:00Z
@@ -1944,20 +1928,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/03/df15d6e8-a197-437e-a0f3-7865b37d6913/thumbnail/1200x630/c5d88b341c61ac4ff3fc03c4a9d587a8/tracy-600139-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Latest on the Trump administration"
-    excerpt: "Watch \"Latest on the Trump administration; Trump's 46-minute video, FDA admin. Stephen Hahn meeting\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-12-03T18:42:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201203181408-latest-on-the-trump-administration-trumps-46-minute-video-fda-admin-stephen-hahn-meeting/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/12/03/story_07962328_1607020144.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Pentagon installs 2 Trump allies on defense advisory board"
     excerpt: "The Pentagon has appointed two close allies of President Donald Trump to a defense advisory board, continuing a post-election purge in the final weeks of the administration."

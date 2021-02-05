@@ -111,22 +111,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Parents loved Taking Cara Babies' sleep tips. Then they found out she donated to Trump"
-    excerpt: "Cara Dumaplin's sleep tips for babies were \"life-changing.\" Then her followers learned she donated to Donald Trump. Here's how the drama unfolded."
-    publishedDateTime: 2021-01-29T21:01:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/media/2021/01/29/taking-cara-babies-trump-donations/4276997001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4276997001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4276997001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/28/PPHX/987a56a3-98e0-4333-95ee-1099d7e324b3-Cara_Dumaplin_video_screenshot.png?auto=webp&crop=1142,642,x165,y13&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Republicans reluctant to say who's the new GOP boss with Trump gone from the White House"
     excerpt: "GOP senators acknowledged in interviews with Insider that they are without a party leader while Democrats control the White House and Congress."
     publishedDateTime: 2021-02-01T21:03:00Z
@@ -201,21 +185,37 @@ related:
         width: 4270
         height: 2847
         isCached: true
-  - title: "'Cult Of Trump': Why These Politicians Are Leaving The GOP"
-    excerpt: "Traditional Republicans are turning away from the party over its blind loyalty to former President Donald Trump."
-    publishedDateTime: 2021-02-01T13:39:00Z
-    webUrl: "https://www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916"
-    ampWebUrl: "https://www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916?amp=1"
+  - title: "South Carolina GOP censures Rep. Tom Rice for Trump impeachment vote"
+    excerpt: "South Carolina Republicans on Saturday issued a formal censure to U.S. Rep. Tom Rice to show disapproval over his vote in support of the second impeachment of former President Donald Trump. Rice was among 10 GOP representatives who joined Democrats on Jan."
+    publishedDateTime: 2021-01-31T01:58:00Z
+    webUrl: "https://www.al.com/news/2021/01/south-carolina-gop-censures-rep-tom-rice-for-trump-impeachment-vote.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/south-carolina-gop-censures-rep-tom-rice-for-trump-impeachment-vote.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/south-carolina-gop-censures-rep-tom-rice-for-trump-impeachment-vote.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: al.com
+      domain: al.com
     quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/us-president-donald-trump-waves-as-he-boards.jpg"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UG3YVSYHJJH3FNDN7UTHETCU6U.jpg"
         width: 1024
-        height: 682
+        height: 683
+        isCached: true
+  - title: "Trump Names New Impeachment Legal Team, One Day After Previous Team Bailed"
+    excerpt: "One of the attorneys is best known for declining to prosecute Bill Cosby. The other represented Roger Stone and planned to represent Jeffrey Epstein."
+    publishedDateTime: 2021-02-01T02:06:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-new-impeachment-legal-team-after-previous-team-leaves.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 73
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/9cc/a57/bac7f73e443026b5f23753235d8e964ce1-President-Trump-Wave-Back.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
 
 secured: "F0dwSolW0WSeBCufp8stMPYfH9faGFwV7vwtokI9fwo03Jo9c5+wcoitZBV0dHtTJZyJeRkiM9JKLEkFSxFZKRXAVMwxau+z3IswTRP5H9pzTdyEhcEsc3iPrAXfREG4NYFEu34M6P05n6xmx+htNqOv2yBVL3fZD0/3egL6KLyCgYAmP+ByjNrrTwGVS/ostxJVRNIDRxWLVEWBl7aMbEEK2cXzF6IEjMwxodYKm2VoGR54ZSwXM9aXZokLIs6m6u/ip+imISW9kzG+SkjplvCh3ot7qAUGI46Gs8URr0XSKIjzWUIpy5ZHgMp/A3sF8S7efRTOvvhJpnxy/h1edEnVJDWV2iclVGo9euFvndM=;AodETJ4aWINVJ8izDo6ewg=="

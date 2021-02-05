@@ -31,115 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Biden makes slow but steady progress on COVID relief: The Note"
-    excerpt: "The White House has managed to stay in the center of negotiations, despite forces in both parties that have an interest in pulling talks to the Capitol."
-    publishedDateTime: 2021-02-04T11:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575"
+  - title: "Biden's 1st 100 days live updates: FEMA seeks US troops to help with vaccinations"
+    excerpt: "A draft request for assistance between FEMA and the Department of Defense is under discussion that would seek as many as 10,000 service members to support administering COVID-19 vaccine shots up to 100 sites nationwide,"
+    publishedDateTime: 2021-01-28T02:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/the-note-president-joe-biden-covid-relief-schools-01-rt-llr-210203_1612400855123_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden to meet Democratic lawmakers on COVID-19 aid: White House"
-    excerpt: "U.S. President Joe Biden will on Wednesday meet congressional Democrats preparing to advance his $1.9 trillion COVID-19 relief plan despite Republican pushback."
-    publishedDateTime: 2021-02-03T19:29:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/biden-to-meet-democratic-lawmakers-on-covid-19-aid-white-house-idUSKBN2A31Z4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550212723&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1219E"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden to meet with Democratic lawmakers on COVID-19 aid: White House"
-    excerpt: "U.S. President Joe Biden will meet with fellow Democrats in Congress on Wednesday to discuss ongoing efforts to pass COVID-19 relief legislations, the White House said in a statement."
-    publishedDateTime: 2021-02-03T18:55:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A31Z4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550196440&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121LW"
-        width: 832
-        height: 545
-        isCached: true
-  - title: "Biden to meet House Democrats to push Covid relief plans – live updates"
-    excerpt: "President will meet leaders and committee chairs ahead of monthly jobs report release"
-    publishedDateTime: 2021-02-05T10:51:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates?page=with:block-601d17f68f08ab4f3b771e53"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/c8c38a259def9f99b805bdbec04b95e9b5731e2c/0_53_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10eae5c70c9474a7d00623a441fbe2f3"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "U.S. Senate passes budget plan to advance Biden's $1.9 trillion COVID aid package"
-    excerpt: "President Joe Biden's drive to enact a $1.9 trillion coronavirus aid bill gained momentum early on Friday as the U.S. Senate narrowly approved a budget blueprint allowing Democrats to push the legislation through Congress in coming weeks with or without Republican support."
-    publishedDateTime: 2021-02-05T15:59:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/us-senate-passes-budget-plan-to-advance-bidens-19-trillion-covid-aid-package-idUSKBN2A514V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A514V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A514V"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
     quality: 120
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550502789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH140MZ"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/national-guard-vaccine-reut_hpMain_20210127-205858_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Biden tells congressional Democrats would consider limits on who gets COVID-19 checks"
-    excerpt: "President Joe Biden told congressional Democrats on Wednesday he would not back down on including $1,400 checks for struggling Americans in his COVID-19 relief plan but would consider tighter limits on who gets them,"
-    publishedDateTime: 2021-02-03T19:28:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A31Z4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+  - title: "FEMA would operate up to 100 federally run mass vaccination sites under Biden plan"
+    excerpt: "A draft FEMA document envisions four different models for sites, with the largest capable of handling 6,000 doses a day."
+    publishedDateTime: 2021-01-23T04:28:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550212723&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1219E"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FAYNVVS3KMI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1005
         isCached: true
-  - title: "Biden has a 'mandate' to deliver COVID-19 relief: White House deputy press secretary"
-    excerpt: "White House deputy press secretary Karine Jean-Pierre joined ABC News' \"Powerhouse Politics\" podcast to discuss COVID-19 relief."
-    publishedDateTime: 2021-02-04T00:48:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-mandate-deliver-covid-19-relief-white-house/story?id=75659343"
+  - title: "Coronavirus updates: Single-dose vaccine from Johnson & Johnson could be 'game changer'; Biden to require masks on planes"
+    excerpt: "A COVID vaccine being developed by New Jersey-based Johnson & Johnson could dramatically speed up the fight against the pandemic. Latest COVID news."
+    publishedDateTime: 2021-01-21T18:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/01/21/covid-news-vaccine-shortages-us-response-joe-biden-california/4237433001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4237433001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4237433001"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 98
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
     images:
-      - url: "https://s.abcnews.com/images/Politics/karine-rt-er-210203_1612388213842_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/a6d17a2c-5ef4-4acf-87f9-b26f62b41bc4-AP21020686218912.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Politics live updates: Biden predicts vaccine available to general public in spring; Sen. Leahy to preside over impeachment"
+    excerpt: "House Democrats will carry their article of impeachment against Donald Trump across the Capitol to the Senate Monday. The trial will start Feb. 9."
+    publishedDateTime: 2021-01-25T22:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/25/politics-live-updates-trump-impeachment-article-goes-senate/6698416002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6698416002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6698416002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 99
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/9fdef51e-e789-4520-94dd-a4236d4d57cb-AP21025782104966_2.jpg?auto=webp&crop=1023,575,x1,y91&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Inauguration Day security live updates: Vice President Mike Pence among early arrivals at Capitol as security remains tight"
+    excerpt: "The inauguration of Joe Biden was set to kick off at 11 a.m. in a sun-splashed but chilly nation's capital-turned armed camp."
+    publishedDateTime: 2021-01-20T15:55:00Z
+    webUrl: "https://www.indystar.com/story/news/nation/2021/01/20/inauguration-day-security-washington-updates-protests-arrests/4214845001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4214845001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4214845001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 49
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/8322a60b-ed63-49cb-be25-0d2823e56ed9-XXX_TH__DC_security_measures700.JPG?auto=webp&crop=6474,3642,x0,y409&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "PwSa+0wENTOS3o5a4a0PNTFKOu2BzcjwgmUfrDhuYrNwfRGv+zbolRYxamaOJZtG9DRK80Caxn0ubS2TFKswLCcWQuqCONFm7xk1e0kGf21PNl3n+LBceJGsklaeXJ1HTfNYgWbJ24Q2hFpXoj7p0I5GyVsbLmZeuTJR1kuvkKtWOzzsZ8ZB2tBXe8y3ve6sOOiszhKtqmnc7F5bMqAX9FEB1bUlGzqqjMDZ1pbxdXcknLpH/YkfPHNzgGq688QdccFs5KHqdaBqwR1GCbd4KaFsJtYKybrihfJ37cUqSjLaFZmcW+Aw3BfbLBshQWStooU1yjOkyEbo1qV+azHBzbk5C2Lfc2IbGCTtrIMaEIY=;pzuPoBtzj3J3nk0x4aT4FQ=="

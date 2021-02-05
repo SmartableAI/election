@@ -412,6 +412,17 @@ related:
         width: 810
         height: 539
         isCached: true
+  - title: "Biden says Congress can do more to help troubled economy"
+    excerpt: "As part of a blitz of appearances Friday in which he pushed for the passage of his $1.9 trillion economic rescue plan, President Joe Biden said what Republicans have proposed doing to help the economy is not enough to help those in need because of the pandemic."
+    publishedDateTime: 2021-02-05T22:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-economy-gop/biden-says-congress-can-do-more-to-help-troubled-economy-idUSW1N2JO05E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2JO05E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2JO05E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
     excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
     publishedDateTime: 2020-12-30T13:58:00Z

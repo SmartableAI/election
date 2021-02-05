@@ -399,6 +399,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Politics updates: Impeachment managers request Trump testify under oath in impeachment trial"
+    excerpt: "The Rules Committee voted to bring the matter to the full House for a vote that will decide whether Greene can stay on her committees."
+    publishedDateTime: 2021-02-04T18:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/04/live-updates-house-to-vote-on-marjorie-taylor-greene-committee-seats/4383759001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4383759001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4383759001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/03/USAT/b517b428-a09c-4621-8f59-4828296b0235-AP_Capitol_Breach_Baked_Alaska_Arrest.jpg?auto=webp&crop=4104,2309,x0,y273&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Second stimulus check updates: House Democrats to vote on $2,000 relief checks that Trump demanded"
     excerpt: "The Democratic-led House Monday is set to vote to boost the $600 payments to $2,000, sending a new bill to the Senate. There, Republicans have the majority and are likely to defeat the effort."
     publishedDateTime: 2020-12-28T17:31:00Z

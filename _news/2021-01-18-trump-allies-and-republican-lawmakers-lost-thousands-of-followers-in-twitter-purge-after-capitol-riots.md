@@ -125,6 +125,70 @@ related:
         width: 1440
         height: 981
         isCached: true
+  - title: "U.S. Senate blocks constitutional challenge to Trump impeachment trial"
+    excerpt: "The U.S. Senate voted 55-45 on Tuesday to block a Republican effort to upend plans for former President Donald Trump's impeachment trial on a charge that he incited the deadly Jan. 6 assault on the U."
+    publishedDateTime: 2021-01-27T02:25:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idUKKBN29V2JI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29V2JI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29V2JI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1FA"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "U.S. Senate kills Republican move to upend Trump impeachment trial"
+    excerpt: "The U.S. Senate on Tuesday rejected a Republican effort to stop former President Donald Trump's upcoming impeachment trial on a charge that he incited the deadly Jan. 6 assault on the U.S. Capitol."
+    publishedDateTime: 2021-01-26T20:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-republican-idUSKBN29V2FL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V2FL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2FL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1F9"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump censure faces tough odds in Senate"
+    excerpt: "Senators are discussing a long-shot, bipartisan effort to censure former President Trump over the Jan. 6 Capitol attack."
+    publishedDateTime: 2021-01-27T23:47:00Z
+    webUrl: "https://thehill.com/homenews/senate/536210-trump-censure-faces-tough-odds-in-senate"
+    ampWebUrl: "https://thehill.com/homenews/senate/536210-trump-censure-faces-tough-odds-in-senate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536210-trump-censure-faces-tough-odds-in-senate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_01202021_getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Republicans condemned Trump. Now they’re seeking his help."
+    excerpt: "President Donald Trump culpable in the attack on the nation’s Capitol as Washington leaders recoiled from the violence"
+    publishedDateTime: 2021-01-29T05:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/republicans-condemned-trump-now-theyre-seeking-his-help/2021/01/29/d0c3d1f4-61f1-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/republicans-condemned-trump-now-theyre-seeking-his-help/2021/01/29/d0c3d1f4-61f1-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/republicans-condemned-trump-now-theyre-seeking-his-help/2021/01/29/d0c3d1f4-61f1-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Chaos of Trump's last days in office reverberates with fresh 'plot' report"
     excerpt: "Ex-president, whose Senate impeachment trial will start in two weeks, reportedly planned to oust acting attorney general in bid to overturn election"
     publishedDateTime: 2021-01-23T13:28:00Z
@@ -157,6 +221,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Bipartisan Senate duo crafts censure resolution that might bar Trump from office"
+    excerpt: "With the outcome of former President Donald Trump’s second impeachment trial all but certain to end without a conviction, a bipartisan pair of senators is working on a resolution that for just the second time in history would censure a U."
+    publishedDateTime: 2021-01-27T22:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bipartisan-senate-duo-crafts-censure-resolution-bar-trump/story?id=75518145"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/susan-collins-ap-jef-210127_1611784510838_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Senate Republicans unite behind failed effort to challenge Trump impeachment trial"
+    excerpt: "Forty-five Senate Republicans backed a failed effort on Tuesday to halt former President Donald Trump's impeachment trial, in a show of party unity that some cited as a clear sign he will not be convicted of inciting insurrection at the Capitol."
+    publishedDateTime: 2021-01-27T06:53:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idAFKBN29V2JI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN29V2JI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN29V2JI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1FA"
+        width: 817
+        height: 545
+        isCached: true
   - title: "'Trumpocalypse' is over. Why the anti-Trump billboard in downtown Phoenix is coming down"
     excerpt: "Trumpocalypse,' the anti-Donald Trump billboard in downtown Phoenix is being replaced. The controversial Grand Ave. billboard will feature new images"
     publishedDateTime: 2021-01-24T15:07:00Z
@@ -188,6 +284,36 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R4WSECC3KMI6XKCJN6KCHJ277U.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Consumer Financial Protection Bureau, muzzled under Trump, prepares to renew tough industry oversight"
+    excerpt: "After taking a largely hands-off approach in the Trump era, the consumer watchdog hatched by Elizabeth Warren is expected to resume issuing tough penalties and rules."
+    publishedDateTime: 2021-01-27T18:10:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/01/27/cfpb-rohit-chopra-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/27/cfpb-rohit-chopra-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/27/cfpb-rohit-chopra-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JUAYV5KBDJEV7EUUGUMF2FCIFQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Manhattan DA unlikely to run for reelection, as office investigates former President Donald Trump"
+    excerpt: "It looks as though Manhattan's District Attorney Cy Vance Jr. is not making plans to run for reelection. State financial records reveal he has only raised just over $4,000 ahead of the Democratic primary in June."
+    publishedDateTime: 2021-01-27T20:26:00Z
+    webUrl: "https://www.cbsnews.com/video/manhattan-district-attorney-cyrus-vance-reelection-investigation-donald-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/27/e8ca6456-7cbb-4b3d-a779-ca29fba02469/thumbnail/1200x630/ea1b5fda3766cc9c687f4bc9a56f1f3e/cbsn-fusion-manhattan-district-attorney-cyrus-vance-reelection-investigation-donald-trump-thumbnail-634350-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Hundreds of publishing industry figures have signed an open letter in opposition to a potential Trump memoir"
     excerpt: "Hundreds of authors, editors, and agents signed an open letter asking the world's publishers to skip a post-presidency memoir from Donald Trump."
@@ -261,6 +387,31 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "GOP signals unwillingness to part with Trump after riot"
+    excerpt: "Donald Trump has lost his social media megaphone, the power of government and the unequivocal support of his party's elected leaders. But a week after leaving the White House in disgrace, a large-scale Republican defection that would ultimately purge him from the party appears unlikely."
+    publishedDateTime: 2021-01-27T11:26:00Z
+    webUrl: "https://www.businessinsider.com/gop-signals-unwillingness-to-part-with-trump-after-riot-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/gop-signals-unwillingness-to-part-with-trump-after-riot-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-signals-unwillingness-to-part-with-trump-after-riot-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Republicans face uncertain future in post-Trump era"
+    excerpt: "The third highest-ranking Republican in the House, Congresswoman Liz Cheney of Wyoming, is facing backlash following her support for impeaching former President Donald Trump. CBS News Capitol Hill producer Rebecca Kaplan joins \"CBSN AM\" to discuss the divisions within the GOP."
+    publishedDateTime: 2021-01-27T02:28:00Z
+    webUrl: "https://www.cbsnews.com/video/republican-party-post-trump-divisions-rebecca-kaplan-analysis-2021-01-25/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/25/c97f4332-6590-4643-8683-d132f8c2bfa2/thumbnail/1200x630/5c699f42fa172802dca2b8e49dd7e31d/cbsn-fusion-republicans-face-uncertain-future-in-post-trump-era-thumbnail-632647-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Morgan Lewis can't withhold Trump organization docs in NY AG probe"
     excerpt: "A Manhattan state judge on Friday ordered Morgan, Lewis & Bockius to turn over documents related to its representation of the Trump Organization, ruling the law firm had marked some of its communications with former U."
     publishedDateTime: 2021-01-30T01:14:00Z
@@ -272,6 +423,50 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "45 Republican senators vote to dismiss impeachment of Donald Trump – video"
+    excerpt: "Procedural objection fails but indicates stiff challenge of persuading 17 Republicans to vote for conviction"
+    publishedDateTime: 2021-01-27T07:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/27/45-republican-senators-vote-to-dismiss-impeachment-of-donald-trump-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 103
+    images:
+      - url: "https://i.guim.co.uk/img/media/0844704df82f4796af80e7f1e6f95cf827963e81/97_0_2806_1684/master/2806.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c41ec6354e9a140528caf6e8d6d93171"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "45 Republicans voted to declare Trump's Senate impeachment trial unconstitutional, all but guaranteeing his acquittal"
+    excerpt: "Kentucky Sen. Rand Paul forced the upper chamber to vote on the constitutionality of even holding a trial."
+    publishedDateTime: 2021-01-26T22:30:00Z
+    webUrl: "https://www.businessinsider.com/republicans-democrats-clash-over-trump-impeachment-constitutional-senate-trial-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/republicans-democrats-clash-over-trump-impeachment-constitutional-senate-trial-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-democrats-clash-over-trump-impeachment-constitutional-senate-trial-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5fc98aa8b6a3a800199b682b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How Trump could mount a presidential campaign even if he's banned from office"
+    excerpt: "A Senate vote to bar former President Trump from public office may not be enough to stop him from running another White House campaign in 2024 — at least for awhile."
+    publishedDateTime: 2021-01-27T15:08:00Z
+    webUrl: "https://www.businessinsider.com/trump-2024-presidential-campaign-despite-impeachment-trial-conviction-banned-office-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/60109b811d2df20018b7106e?width=700"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Republicans back away from confronting Trump and his loyalists after the Capitol insurrection, embracing them instead"
     excerpt: "Powerful party leaders are trying to avoid a divisive battle to improve their odds of reclaiming power in 2022."
     publishedDateTime: 2021-01-28T06:59:00Z
@@ -301,6 +496,22 @@ related:
       - url: "https://i.insider.com/60168014d6c5e60019c6e1dd?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "GOP to stay neutral should Donald Trump run again"
+    excerpt: "The head of the Republican National Committee on Wednesday declined to encourage former President Donald Trump to run for the White House in 2024, saying the GOP would stay “neutral” in its next presidential primary."
+    publishedDateTime: 2021-01-27T22:33:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/gop-to-stay-neutral-should-donald-trump-run-again.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/gop-to-stay-neutral-should-donald-trump-run-again.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/gop-to-stay-neutral-should-donald-trump-run-again.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AT5FBR475NGFHB2ZYFQMPUZA7I.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trump Mulled Replacing Attorney General Over Election Results: US Media"
     excerpt: "Donald Trump considered replacing then-acting US attorney general Jeffrey A. Rosen with a Justice Department lawyer who would help him force Georgia officials to overturn the state's election result,"

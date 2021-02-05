@@ -89,38 +89,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to meet with Republican senators to discuss COVID-19 relief plan"
-    excerpt: "U.S. President Joe Biden has invited Maine Senator Susan Collins along with other Republican senators to the White House to discuss a COVID-19 relief plan, the White House said on Sunday."
-    publishedDateTime: 2021-02-01T07:09:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A112Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A112Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A112Y"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549767816&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH100MF"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Republicans press Biden to downsize $1.9 trillion COVID-19 relief plan"
-    excerpt: "Ten moderate Republican U.S. senators urged President Joe Biden on Sunday to significantly downsize his sweeping $1.9 trillion COVID-19 relief package to win bipartisan support as Democrats in Congress prepared to push ahead with his plan this week."
-    publishedDateTime: 2021-02-01T00:16:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A00H8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A00H8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A00H8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549731076&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U0C7"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Biden faces 'unity' test in meeting with GOP senators on COVID relief"
     excerpt: "With a group of 10 Republican senators officially offering a counterproposal to President Joe Biden's COVID-19 relief bill, the president on Monday was set to face a real test of his campaign promise to work across the aisle and bring unity back to a politically fractured Washington."
     publishedDateTime: 2021-02-02T01:30:00Z
@@ -151,38 +119,6 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549108836&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P0XP"
         width: 856
-        height: 545
-        isCached: true
-  - title: "Biden to meet with Senate Republicans offering covid relief counter-proposal"
-    excerpt: "The GOP proposal would significantly narrow eligibility for a new round of $1,400 stimulus checks Biden wants to send to individual Americans."
-    publishedDateTime: 2021-01-31T19:03:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5QSCURTBVAI6XILXO5S7FGUVEQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Congresswoman urges Biden team to involve more distributors in COVID vaccine shipments"
-    excerpt: "A Democratic U.S. lawmaker urged the Biden administration to involve additional major healthcare distributors in the shipment of COVID-19 vaccines to speed vaccinations, according to a letter seen by Reuters."
-    publishedDateTime: 2021-01-30T07:31:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29Z05E?edition-redirect=in"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Z05E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Z05E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210130&t=2&i=1549634941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0T035"
-        width: 817
         height: 545
         isCached: true
   - title: "Biden said Republican proposal for $600 billion in COVID-19 aid 'way too small': Schumer"
@@ -260,20 +196,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Biden set to hold COVID-19 relief talks with Republican senators today"
-    excerpt: "President Joe Biden's call for unity will face its first major test Monday when he holds COVID-19 relief talks with Senate Republicans. This comes as lawmakers prepare for former President Donald Trump's second impeachment trial,"
-    publishedDateTime: 2021-02-01T16:48:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-set-to-hold-covid-19-relief-talks-with-republican-senators-today/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/01/65013ac8-04c7-4171-9085-170430d58532/thumbnail/1200x630/f72e570764608831ec16051611de9df8/0201-cbsn-eekeem-bidencovidtrumpimpeachment-637179-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden says covid relief bill 'has to pass' with or without Republican support"
     excerpt: "President Joe Biden on Jan. 29 said the covid relief bill “has to pass” but did not say whether he is for budget reconciliation."
     publishedDateTime: 2021-01-29T19:53:00Z

@@ -79,6 +79,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Senate receives article of impeachment against Trump"
+    excerpt: "The article of impeachment against President Trump has been delivered to the Senate, and House impeachment managers presented, exhibited and read it aloud. The trial is set to begin the week of February 8."
+    publishedDateTime: 2021-01-26T12:23:00Z
+    webUrl: "https://www.cbsnews.com/news/senate-articles-of-impeachment-donald-trump/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/senate-articles-of-impeachment-donald-trump/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/senate-articles-of-impeachment-donald-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/0fdec909-ae2b-411c-8627-853e30a4ec11/thumbnail/1200x630/71356b076f82a4707fdd684483bfcce5/gettyimages-1298447143.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'We will be back in some form,' Trump vows at end of tumultuous presidency"
     excerpt: "President Donald Trump disappeared on Wednesday behind the walls of his club in Palm Beach, Florida, ending a tumultuous presidency stained by two impeachments, deep political divisions and a pandemic that has caused 400,"
     publishedDateTime: 2021-01-21T04:22:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548466641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J18I"
         width: 818
         height: 545
+        isCached: true
+  - title: "YouTube ban: Google extends suspension of former President Trump's channel"
+    excerpt: "YouTube is maintaining its suspension of former President Trump's channel on the video site. Rudy Giuliani's channel also had its revenue nixed."
+    publishedDateTime: 2021-01-27T07:16:00Z
+    webUrl: "https://www.usatoday.com/story/tech/news/2021/01/26/youtube-ban-former-president-trumps-channel-remain-suspended/4265336001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4265336001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4265336001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/96480bcf-d324-4a80-869b-9f23606fdcc3-VPC_TRUMP_FINAL_ADDRESS_IN_OFFICE_DESK.00_00_17_15.Still001.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency"
     excerpt: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
@@ -182,6 +214,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/outgoing-us-president-donald-trump-is-seeking-to.jpg"
         width: 1024
         height: 716
+        isCached: true
+  - title: "Donald Trump Goes Viral On Twitter After Office Of The Former President Launch"
+    excerpt: "Donald Trump has officially launched what's being called the Office of the Former President in Florida to continue his agenda."
+    publishedDateTime: 2021-01-26T11:11:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-goes-viral-twitter-after-office-former-president-launch-3130713"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-goes-viral-twitter-after-office-former-president-launch-3130713?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-goes-viral-twitter-after-office-former-president-launch-3130713?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
+        width: 1024
+        height: 696
         isCached: true
   - title: "Donald Trump grants clemency to 143 people (not himself or family members) in final hours"
     excerpt: "President Donald Trump, who has repeatedly used his clemency authority as a political tool rather than an act of mercy, issued a final wave of pardons and commutations on his last night in office, delivering relief for a mix of beneficiaries that included former strategist Stephen Bannon ,"

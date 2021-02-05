@@ -25,85 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence Joins Other Trump Administration Alumni At Heritage Foundation Post-VP"
-    excerpt: "Pence is not the only displaced member of the Trump administration to land at the Heritage Foundation. The think tank announced in late January that it had broug"
-    publishedDateTime: 2021-02-04T18:22:00Z
-    webUrl: "https://www.forbes.com/sites/jemimamcevoy/2021/02/04/mike-pence-joins-other-trump-administration-alumni-at-heritage-foundation-post-vp/"
-    ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2021/02/04/mike-pence-joins-other-trump-administration-alumni-at-heritage-foundation-post-vp/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2021/02/04/mike-pence-joins-other-trump-administration-alumni-at-heritage-foundation-post-vp/amp/"
+  - title: "Mike Pence to join Heritage Foundation to 'lead the conservative movement into the future'"
+    excerpt: "Former Vice President Mike Pence is joining a think tank, the first official step on how he plans to stay active in public and political life."
+    publishedDateTime: 2021-02-04T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/02/04/think-tank-pence-wants-lead-conservatives-into-future/4389431001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4389431001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4389431001"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 135
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 65
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c29b832ce85decbe6075f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4969%26cropY1%3D152%26cropY2%3D2946"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/c81436e0-3d7b-4731-aaa3-94b9139346e5-01202021_Pence_GH_003.jpg?auto=webp&crop=3730,2099,x0,y565&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Pence plans to form political group as he moves beyond time with Trump and Capitol riot"
-    excerpt: "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused political committee that would help him maintain a relationship with donors,"
-    publishedDateTime: 2021-01-31T13:59:00Z
-    webUrl: "https://www.cnbc.com/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 132
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106820378-1609982678273-AP21007045774819.jpg?v=1612099871"
-        width: 1997
-        height: 1331
-        isCached: true
-  - title: "Pence Plans to Form Fundraising Group as He Moves Beyond Trump, Capitol Riot"
-    excerpt: "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused fundraising committee that would help him maintain a relationship with donors,"
-    publishedDateTime: 2021-02-01T00:26:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 87
-    images:
-      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1230692263-edited.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Melania Trump Snubbing Husband Donald In Public Allegedly Just For ‘Distraction’"
-    excerpt: "Melania Trump snubbed her husband Donald Trump in public to distract the crowd, according to her former aide, Stephanie Winston Wolkoff."
-    publishedDateTime: 2021-01-29T02:51:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-snubbing-husband-donald-public-allegedly-just-distraction-3132996"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-snubbing-husband-donald-public-allegedly-just-distraction-3132996?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-snubbing-husband-donald-public-allegedly-just-distraction-3132996?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-and-his-wife-melania-left-washington.jpg"
-        width: 1024
-        height: 668
-        isCached: true
-  - title: "Pence joins Heritage Foundation as visiting fellow to promote conservative policies"
-    excerpt: "Former Vice President Mike Pence is joining the conservative Heritage Foundation as a visiting fellow. He and former second lady Karen Pence plan to move back to Indiana this summer."
-    publishedDateTime: 2021-02-04T18:41:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 69
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/20/pence-indiana_return_41688_c0-209-5770-3574_s1200x700.jpg?8a97340ee4b856c83dadb26ef2416bc3d05aa465"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Mike Pence to join Heritage Foundation to 'lead the conservative movement into the future'"
     excerpt: "Former Vice President Mike Pence is joining a think tank, the first official step on how he plans to stay active in public and political life."
@@ -135,17 +71,6 @@ related:
         width: 1024
         height: 573
         isCached: true
-  - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
-    excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"
-    publishedDateTime: 2021-02-02T20:04:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 52
   - title: "Vice President Mike Pence Joins Heritage Foundation as Distinguished Visiting Fellow"
     excerpt: "The Heritage Foundation announced today that former Vice President Mike Pence will join the organization as a distinguished visiting fellow."
     publishedDateTime: 2021-02-04T17:07:00Z

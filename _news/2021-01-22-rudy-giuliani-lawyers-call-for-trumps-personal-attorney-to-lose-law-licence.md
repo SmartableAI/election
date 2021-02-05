@@ -159,6 +159,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump parts ways with impeachment lawyers: source"
+    excerpt: "Former U.S. President Donald Trump abruptly parted ways on Saturday with two lawyers who had been working on his defense for his Senate impeachment trial in what a source familiar with the situation described as a mutual decision."
+    publishedDateTime: 2021-01-31T06:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/trump-parts-ways-with-impeachment-lawyers-source-idUSKBN2A001T?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A001T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A001T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549697780&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U015"
+        width: 876
+        height: 545
+        isCached: true
+  - title: "Trump parts ways with impeachment lawyers: sources"
+    excerpt: "Former U.S. President Donald Trump abruptly parted ways on Saturday with the two lead lawyers working on his defense for his Senate impeachment trial, a source familiar with the situation said, leaving Trump's legal strategy in disarray."
+    publishedDateTime: 2021-01-31T09:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A001T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A001T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A001T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549697780&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U015"
+        width: 876
+        height: 545
+        isCached: true
   - title: "U.S. House to deliver Trump charge to Senate, triggering impeachment trial"
     excerpt: "The U.S. House of Representatives on Monday is set to formally deliver to the Senate a charge accusing former President Donald Trump with inciting insurrection in a speech to his supporters before the deadly attack on the Capitol,"
     publishedDateTime: 2021-01-26T02:36:00Z
@@ -207,6 +239,54 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Who could have predicted the Capitol riot? Plenty of people — including Trump allies."
+    excerpt: "Pro-Trump activists stormed the U.S. Capitol in an effort to overturn the results of the 2020 presidential election. Except for many, it was quite thinkable. It was thought aloud in some cases. As former president Donald Trump faces his second impeachment trial,"
+    publishedDateTime: 2021-01-28T19:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/28/who-could-have-predicted-capitol-siege-plenty-people/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/28/who-could-have-predicted-capitol-siege-plenty-people/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/28/who-could-have-predicted-capitol-siege-plenty-people/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHQOJMC24EI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 878
+        isCached: true
+  - title: "Pro-Trump lawyer Lin Wood asked by licensing body to undergo mental health evaluation"
+    excerpt: "An attorney licensing body on Friday said it has asked L. Lin Wood, a lawyer who played a key role in Donald Trump's attempts to overturn his election defeat, to undergo a mental health evaluation."
+    publishedDateTime: 2021-01-29T21:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-wood/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation-idUSKBN29Y2CD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y2CD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y2CD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549578848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1CG"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "New Trump PAC raised $31.5 million in the weeks after Election Day, as Trump was making baseless claims of voter fraud"
+    excerpt: "Trump left the presidency with tens of millions of dollars he can now use to finance his post-presidential political career."
+    publishedDateTime: 2021-02-01T09:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-raised-315-million-in-the-weeks-after-election-day-for-his-new-leadership-pac-filing-shows/2021/01/31/1847c75a-63f1-11eb-8468-21bc48f07fe5_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-raised-315-million-in-the-weeks-after-election-day-for-his-new-leadership-pac-filing-shows/2021/01/31/1847c75a-63f1-11eb-8468-21bc48f07fe5_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-raised-315-million-in-the-weeks-after-election-day-for-his-new-leadership-pac-filing-shows/2021/01/31/1847c75a-63f1-11eb-8468-21bc48f07fe5_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7H52OUTEIEI6XBDIEG6ER4D74U.jpg&w=1440"
+        width: 1440
+        height: 964
+        isCached: true
   - title: "Giuliani wasn’t just a Trump partisan but a shrewd marketer of vitamins, gold, lawsuit says"
     excerpt: "Trump’s personal lawyer sought to turn unfounded conspiracy theories and voter fraud videos into online moneymakers, attorneys said in a lawsuit seeking more than $1.3 billion in damages."
     publishedDateTime: 2021-01-27T01:52:00Z
@@ -233,6 +313,17 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 105
+  - title: "Jones Day hires top homeland security lawyer from Trump administration"
+    excerpt: "Chad Mizelle, who served as acting general counsel at the U.S. Department of Homeland Security during the Trump administration, has joined Jones Day as of counsel in its government regulation practice in Miami and Washington,"
+    publishedDateTime: 2021-01-28T21:17:00Z
+    webUrl: "https://www.reuters.com/article/lawyer-moves-jones-day-idUSL1N2K32T2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K32T2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K32T2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 105
   - title: "Trump clemency likely for Lil Wayne, no pardons for Giuliani or Bannon: sources"
     excerpt: "U.S. President Donald Trump is likely to grant clemency to rapper Lil Wayne on Tuesday in a final wave of pardons and commutations that is not expected to include lawyer Rudy Giuliani or ex-aide Steve Bannon,"
@@ -263,6 +354,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/qTFSIBHni0wRVA9K0csySIUoZrQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2QII4RLQJNTTGT6DI7IS7R3CEE.aspx"
         width: 1200
         height: 779
+        isCached: true
+  - title: "What’s Next For Trump? His Plans As Impeachment Article Hit Senate"
+    excerpt: "Former President Donald Trump is opening a new office in Florida on Monday that will carry on his admininstration's administration, an announcement he made as the House delivered a single article of impeachment to the Senate."
+    publishedDateTime: 2021-01-26T12:26:00Z
+    webUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hit-senate-3130886"
+    ampWebUrl: "https://www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hit-senate-3130886?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-next-trump-his-plans-impeachment-article-hit-senate-3130886?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
+        width: 1024
+        height: 696
         isCached: true
   - title: "Dominion Voting Systems Sues Trump Lawyer Giuliani Over Election Claims"
     excerpt: "WASHINGTON (Reuters) - Dominion Voting Systems Inc has filed a lawsuit against former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation for making false claims of fraud about the November 2020 U."
@@ -325,6 +432,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
+  - title: "Pro-Trump Lawyer Lin Wood Puts License in Jeopardy by Refusing Mental Health Evaluation"
+    excerpt: "L. Lin Wood, a lawyer who played a role in former President Donald Trump's attempts to overturn his election defeat, put his law license in jeopardy on Friday by saying on social media that he would not undergo a mental health evaluation requested by an attorney licensing body."
+    publishedDateTime: 2021-01-30T01:40:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-29/pro-trump-lawyer-lin-wood-asked-by-licensing-body-to-undergo-mental-health-evaluation?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "6lnGa1JJM89lJUxb198/RzDSqqIvBQcL2J6CHwNnIlP2AJQIpQ9sYmV51LmPPGqNhY/s4lvDAbzCgBGtEvm6ymZWBnpuu6G6vmI+SAyqG8sr9pnzQFCo7MTgdt/xh4+WqggoW4THizNvq2QSf8HyQwHbQd4g1exGeSX3pPVE5qvGaGHcTEeK/FjanK6/7IsII9yAeiiAZMqJ2qikyRz6+OQYk8Ry8WIsRgXmyqYIwDEIA8LXCyHpl2mj+AAnp1qDTR3klzVVOC5eofwUpk20iaJm9W47B/lXKZLqLQ2bro2to3plZgYRdchc2UTNKLIQymnu03yZ07z7PFOFrmDXlK554ml+0VcRi8vWYG/l9/ENQSYKs6csOnk1vp3TW13O5yHuBFrzKH4KmRcIq7NClyrqUaqyoaiFm8/xmqvMujj4BDRsKhy/sQQaf2M59qfjaacgzHDdpacApS0GSM+3EBAI5PnMHwJuFZiQGHET9pGbGRvOnIlhcmrgMns/wtbx0Ni4f9UN0EQGlM7hG8V7IQ==;OVacy66MOUTKusUQhu0mOQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/dunes-trumps-scot
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/dunes-trumps-scottish-golf-lose-protected-status-74624436"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Scottish Parliament Rejects Call for Trump Wealth Order"
+    excerpt: "The Scottish Green Party brought forward a motion calling on ministers to seek an \"unexplained wealth order\" (UWO) against Trump over his acquisition of the golf courses and resorts in north and west Scotland."
+    publishedDateTime: 2021-02-04T03:25:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-02-03/scottish-parliament-hears-pathetic-call-for-trump-wealth-order"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-02-03/scottish-parliament-hears-pathetic-call-for-trump-wealth-order?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-02-03/scottish-parliament-hears-pathetic-call-for-trump-wealth-order?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "jFq86jenWPcq3/bELVox4vPZpcvjV7cfjeudBAW5HPrwNASnhYJiOzmDZ72Kz6S8YaqdwvqzUs6+7XSROf6E5gzJapvOU0mAL2qGvo7TA5J+ZE0+A2prbRbtQU6IBpMwT5I4GPLHBlcn8cEmwDndtV1af4U/gvsKvf8tq/9K0k3oR3COBHFCdWlpotTG5bz+LfVjqA6MBCSNsZq5hYC74EK0O+eZG6dkGcyMh1idVznWG/e6lKWkkPvDgKWsgI3TgWaefEeuMa9PcfgJn/nGMj+zl2YTm9hHhPSQeKd9EK6JpAlGuYZEeVnHPpxFMN+3xTUZbUDx9MtrvftBqIxizFj1PAuPXAjKb5++naunfCU=;axrjP2mTKbcU97WvP5Mz3A=="
 ---

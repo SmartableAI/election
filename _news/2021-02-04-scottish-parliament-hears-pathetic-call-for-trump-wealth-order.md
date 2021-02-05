@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A32UD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A32UD"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 908
     height: 545
     isCached: true
+
+related:
+  - title: "Scotland's Parliament to vote on whether Trump's golf course financing should be investigated"
+    excerpt: "Scotland's parliament was to vote Wednesday on whether the government should pursue a civil investigation into the financing of former U.S. President Donald Trump's Scottish golf courses. The leader of Scotland's Green Party,"
+    publishedDateTime: 2021-02-03T14:31:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-golf-scotland-eric-trump-vote-investigating-finance/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-golf-scotland-eric-trump-vote-investigating-finance/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-golf-scotland-eric-trump-vote-investigating-finance/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2016/07/12/08cb31e5-a5c8-429f-8d1b-e3aa423fdc08/thumbnail/1200x630/8de542c66341c37053fabc837b1579ae/gettyimages-482347624.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Z7cQ/sES4vG21FMC6vyMT30+Hg4c6Uezyg+YM8CuEKj+Wr0Ow8y1e19NTMjE8TdOfYGquxOuEBOvZCK0Ad/zFHsGJKzKTXPu5xppO4EvqmAq8Q2/6VK1pCgSpoR30buEzMPe78dQtoUW2QuPRmoos+JutpNkg4GaY3btepASAHNkxydQ0d0DZCWMeIfvHeeEjXsfMG4T6zOrE+bEC6yV3n7d4gSuqFXcHhD8Tt3D79/d0z2KGkLQESIIl/THNJR3la4TlXCu1SOrpkhr+fg4RKAIjGgh2+WdfzADqXojF17+HbO1sOmEKKQKyExjAvCQMvoCmRFHe3mZe6OB42RaRNzC2uIQDoREs4F1swK40/DRO44z+bRVnlg8AjPLnqeGQwFc68bcfNsITSQ1I1iA+hlXqq6XdlwCzJU8MwomisqeJZ6btrlYE7vHESEAYcmSRw9bOp3eUsT9ESP4t0Q9bVrOiJljZZVb3ARlxp1wzvtwBFVA5lJ1zmjNRBH4cQPU3qZse9rbqs6ohy2lSOKdaw==;sf+gS6QnUrOPLFlY943N+Q=="
 ---

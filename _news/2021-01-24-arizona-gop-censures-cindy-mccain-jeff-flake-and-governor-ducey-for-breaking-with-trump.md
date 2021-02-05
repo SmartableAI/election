@@ -47,6 +47,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "'Inexcusable' Trump Impeachment Vote Earns Republican Rep. Tom Rice Censure by S.C. GOP"
+    excerpt: "The South Carolina Republican Party said Rice's vote to impeach former President Donald Trump \"betrayed\" his party's constituents and fell in line with \"unprincipled Leftists.\""
+    publishedDateTime: 2021-01-30T22:12:00Z
+    webUrl: "https://www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610"
+    ampWebUrl: "https://www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/inexcusable-trump-impeachment-vote-earns-republican-rep-tom-rice-censure-sc-gop-1565610?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1720904/tom-rice.jpg"
+        width: 2500
+        height: 1669
+        isCached: true
+  - title: "Trump and Rep. Kevin McCarthy discussed 2022 election during Florida meeting as Trump allies target pro-impeachment Republicans"
+    excerpt: "McCarthy meeting takes place less than two weeks before the Senate impeachment trial, and a year before potentially divisive GOP primaries."
+    publishedDateTime: 2021-01-29T07:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/28/donald-trump-meets-kevin-mccarthy-trump-allies-hit-other-republicans/4290454001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4290454001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4290454001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/28/USAT/94b27749-b9aa-4a64-89a0-1e51787f2653-AFP_AFP_1R63QE.JPG?auto=webp&crop=5477,3081,x0,y378&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Arizona GOP narrowly reelects Trump loyalist Kelli Ward; censures Cindy McCain, Gov. Doug Ducey, ex-Sen. Jeff Flake"
     excerpt: "The closely watched result offers an early, state-level indication that Trump retains sway over the activist GOP base, though it is more tenuous."
     publishedDateTime: 2021-01-24T18:27:00Z
@@ -62,22 +94,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/07/PPHX/f063a3d8-bbc8-4d8b-9728-245e41c58cf1-cent02-7dyzmbiscdh80zdihle_original.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Publix Supermarkets Under Fire After Heiress Reportedly Donates $300,000 To Trump Rally"
-    excerpt: "The Publix supermarket chain is facing backlash after a bombshell report revealed the chain's heiress donated money to the infamous Trump rally that preceded the Capitol riots."
-    publishedDateTime: 2021-01-30T17:38:00Z
-    webUrl: "https://www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985"
-    ampWebUrl: "https://www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/publix-supermarkets-under-fire-after-heiress-reportedly-donates-300000-trump-rally-3133985?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/30/publix.jpg"
-        width: 1200
-        height: 847
         isCached: true
 
 secured: "exWo4+tfzkGSGpszR2GKpWh0QSQAG+TeOa3pcCXH9ZtQigMrg2fkIgqsBvByB+RG1TwqZUFrHZg32S8AJWTp3THSeru4QeZ7NSFumwrYhLpbiia5HNwfwBNgY/FgSMi8L2lMF8WnuVTdyk1OrBJLL73pE4iOR/XTvh3WGTi6iUm8lOGariqfczIgc+tndQbrR1VEJ1PUDBi7LSJ+9zY1jqyoGk5zuvjCx9I9Coq+NJHDaWU4nlfp//klnBd/Pw61uHtL6pUrYvW1pXiLkXsKhGatuScP6inXX5rfEz0+KJ2hWot2sZCarGS6+sf3agEta+ZY4CSqS2cn0ZAnt7Vi/8SsfSmKFiictQ1fvRwkmbQ=;EgF7hWwoBRzXht/O8ua0tw=="
