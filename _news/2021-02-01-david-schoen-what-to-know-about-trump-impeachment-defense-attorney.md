@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/david-schoen-what-to-know-about-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -300,6 +300,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "House Democratic Impeachment Managers Want Donald Trump To Testify Under Oath At Impeachment Trial Monday"
+    excerpt: "CNN congressional correspondent Manu Raju reports that House Democrats want former President Trump to testify in person, under oath, at his second impeachment trial as early as Monday."
+    publishedDateTime: 2021-02-04T18:57:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/04/house_democratic_impeachment_managers_want_donald_trump_to_testify_under_oath_at_impeachment_trial_monday.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 48
+    images:
+      - url: "https://assets.realclear.com/images/53/534301.jpg"
+        width: 5648
+        height: 3765
         isCached: true
 
 secured: "JjoOSmVrXdc1EAlIpXlwJWMeaQbdrism4iNRG+PgeO/SS4Hf4ZGEXF3lg+X+5QkNodD2cZas52M3nW/wKBFtYKQmOn7z5Ht+/bGi2Duzyltfs4cC8Xk7J21VzO38hFtCYxz39t4wJ1sH+139CXzPV2HU2xMr6h5hL9uSS6UAKTPpwLLBCci9mYPyWUfvuNEL69epRrOlZEz7r0r9lMyhOpKUFgk/Rgrn58tITxu4N+4Jy4RoA+M2JXzRz7mepsKU76mZlKfwV3pezOGDOc+ysu+tgN3w+ip3FhA0SuRjZkcXa9CthcLiDWeKICXRVIhBWjiLftaUfhXFGsFUmQ8BQd95BdnJaaD3rk32KGuCHE8=;0ONR7FLFOlu6zxns3fbzcA=="

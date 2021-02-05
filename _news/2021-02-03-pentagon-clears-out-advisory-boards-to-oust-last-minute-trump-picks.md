@@ -126,6 +126,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Colorado officials want to keep Space Command in state, ask Pentagon to reconsider Trump's relocation"
+    excerpt: "Colorado Gov. Jared Polis and a group of bipartisan state officials are urging Defense Secretary Lloyd Austin to reconsider and \"pause\" former President Donald Trump's decision to move U.S. Space Command from Colorado Springs to Alabama,"
+    publishedDateTime: 2021-02-05T00:17:00Z
+    webUrl: "https://www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location"
+    ampWebUrl: "https://www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Space-force.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "6lRcam55PvxkyxYtHuaMN7X48ketKTVOdiSrE44OjNXuHnHn22EE2etvmWFJ9K4JL/usTjgBKvDIDtKQzABBPftJHqQNIX4KKWAq8fuzN6thdZ5Znl+SjyIfkDRJR9/OAssiaf/9MD5jrO2hj/8DQz0GymkP7hvHAExlCzEvp7R1NNGVqtfanHBw+SSMjZORj4uIfKnsTiB205fW9lOogEAm2+3zLJ2ZOjqOtdouBeZTPDZ/7mea78zos62uRKC4R71+3+Jo/cwlwzQTGbncFTvj8qfMotHK87jwn/qU0WCVKEvGmzYRwpAtyvHkF5IXL1aDbeF7HmMCJqpoUuoqmb7EuYDFMsR7BAx+yKiU3xU=;l8AatKXTPRxHGJJeeD5Hog=="
 ---

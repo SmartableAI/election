@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -332,6 +332,20 @@ related:
       - url: "https://static.politico.com/80/16/8e16b10e4f0aba2ad52afe74b2d6/ap21034605737948-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "One of Biden’s biggest problems in his first 100 days comes from an unlikely place"
+    excerpt: "The president wants to reopen the nation’s schools during the dawn of his term, but labor-strong California is putting such hopes in serious jeopardy."
+    publishedDateTime: 2021-02-04T22:59:00Z
+    webUrl: "https://www.politico.com/news/2021/02/02/california-poses-bidens-biggest-test-on-school-reopening-465211"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/a7/ff/58035ed8413f877fd522c7aefb15/ap21029767118388.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "'We need to act fast': Biden, Democrats move to speed up process to pass Covid relief package"
     excerpt: "The steps taken by Biden and congressional Democrats indicated that they’re not going to wait around to negotiate with Republicans who want a smaller package."

@@ -301,6 +301,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "House Democratic Impeachment Managers Want Donald Trump To Testify Under Oath At Impeachment Trial Monday"
+    excerpt: "CNN congressional correspondent Manu Raju reports that House Democrats want former President Trump to testify in person, under oath, at his second impeachment trial as early as Monday."
+    publishedDateTime: 2021-02-04T18:57:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/04/house_democratic_impeachment_managers_want_donald_trump_to_testify_under_oath_at_impeachment_trial_monday.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 48
+    images:
+      - url: "https://assets.realclear.com/images/53/534301.jpg"
+        width: 5648
+        height: 3765
+        isCached: true
 
 secured: "H8jP3sZx23k4h2k05vmdQmujqSuenYIfFDG8wCjcQyrJ+hRysHxMFb2iLQf70RXRnWRRKS3QwsdfJkmzHYCs+9O5u1aDVAX0NtyCgmIjnKceiE+2HahAb4pMnh1ooQCM8Be7neL3CrINrIBfMrbja7f3rifjwdN5vRcVTGx7XwvC9af8qIZ+q16X+e4hlel5xxz4zLowk8d/ITjzOJ6u8zn9aizpBGJCfDMZJoI6Q4Pv91D6E7411zEQALHYOWmCyqvN59eJM/EP4OUN3s7vKyZ5/Kd94fswZxIEcTVItTxaaND0sFFR83AEvCow4CRAilCbReZ+7wTNCjokp7w4REjhOz3sgxmg2W8QIH2CNHo=;+sRLA8Dd8C9LzeodQKChNg=="
 ---

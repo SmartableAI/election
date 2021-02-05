@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/florida-palm-beach-legal-review-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/vanilla-ice.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Colorado officials want to keep Space Command in state, ask Pentagon to reconsider Trump's relocation"
+    excerpt: "Colorado Gov. Jared Polis and a group of bipartisan state officials are urging Defense Secretary Lloyd Austin to reconsider and \"pause\" former President Donald Trump's decision to move U.S. Space Command from Colorado Springs to Alabama,"
+    publishedDateTime: 2021-02-05T00:17:00Z
+    webUrl: "https://www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location"
+    ampWebUrl: "https://www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Space-force.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "oWiFn5itxgp1n//Pydq6bY1jb6/K8E6n9YUQlg43zgJ/85qikc46ghGvj66CaE1GSLr7FIJPnT7D9M275vDW6Uh3XqHc/SKUYBiWo11h9vScGTzHa6015T/PMJCKu4SL+xZvb7JO0/JM2G3vfc9GpZXeQ6SZd7iULjdRneWP3Jp8s9hyFEJd3D5DesC3iL8Un2cvZvLyr5RR8vSDlqBdonnMKfmsNZfIjR9+ovPEgqDhGvTU82/qYgIkQdc/FNU+wv2/rvGqdMmCXqYOIGrRd/cfAjMM9MfXpUeVSm1cDbd7nOWZGqqpWrgQBovP8EOhXATWoJ9+Ila8dCLzl8oK23gHdq/5l6bU2KvYxmBiQeA=;xHDJ/kxGcLbG28sUmL1ySQ=="

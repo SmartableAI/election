@@ -243,6 +243,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to call for protecting LGBTQ rights globally in memo"
+    excerpt: "U.S. President Joe Biden will announce a presidential memorandum on Thursday protecting the rights of lesbian, gay, bisexual, transgender and queer (LGBTQ) people worldwide, national security adviser Jake Sullivan said."
+    publishedDateTime: 2021-02-05T00:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-lgbt-idUSKBN2A42KF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42KF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42KF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550362734&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131JW"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Immigrants in sanctuary in churches hope Biden offers relief"
     excerpt: "Dozens of immigrants from Massachusetts to Colorado who have taken sanctuary as a last resort to stay in the U.S. are newly hopeful under President Joe Biden"
     publishedDateTime: 2021-02-04T18:06:00Z
@@ -393,6 +409,22 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Kamala Harris's historic election celebrated in cracked glass portrait"
+    excerpt: "Two weeks after Kamala Harris was sworn in as the first woman to be vice president , her barrier-breaking career has been memorialized in a portrait that depicts her face emerging from the cracks in a massive sheet of glass."
+    publishedDateTime: 2021-02-05T00:35:00Z
+    webUrl: "https://www.chron.com/politics/article/kamala-harris-election-cracked-glass-art-15924878.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/kamala-harris-election-cracked-glass-art-15924878.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/kamala-harris-election-cracked-glass-art-15924878.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
     excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."

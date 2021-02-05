@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden brings back old claim he was ‘shot at’ overseas"
+    excerpt: "President Biden Thursday revived an old claim that he’d once been \"shot at\" overseas. "
+    publishedDateTime: 2021-02-05T00:46:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkV11mG1zXY/biden-claim-shot-at-overseas"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-claim-shot-at-overseas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claim-shot-at-overseas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ae5c1f0-8aef-40be-9fea-75f03468f27b/1debc5d6-d078-46de-9f47-6bf7d11c7774/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Catholic bishops slam Biden’s 'grievous' executive order funding overseas abortion providers"
     excerpt: "Roman Catholic bishops are condemning President Biden's decision to reverse a policy that blocks funding for overseas abortion providers, calling a recent executive order on the issue \"incompatible with Catholic teaching.\""
     publishedDateTime: 2021-01-28T23:57:21Z

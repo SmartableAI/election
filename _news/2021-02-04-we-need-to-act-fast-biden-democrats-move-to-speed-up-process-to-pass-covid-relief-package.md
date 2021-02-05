@@ -348,6 +348,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "One of Biden’s biggest problems in his first 100 days comes from an unlikely place"
+    excerpt: "The president wants to reopen the nation’s schools during the dawn of his term, but labor-strong California is putting such hopes in serious jeopardy."
+    publishedDateTime: 2021-02-04T22:59:00Z
+    webUrl: "https://www.politico.com/news/2021/02/02/california-poses-bidens-biggest-test-on-school-reopening-465211"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/a7/ff/58035ed8413f877fd522c7aefb15/ap21029767118388.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "BXgcCzv2WX1AhM3VuT5tl5fCjI7d0yC28kwZN3vD+shBrXq4iH0kMnArVITyWNJEj1cSwC5c4PoDQ8JJtgDarcT3nZhgXSuA5Fct9/+rUz4IBE2wTZVJtEXV6171DPPtRQwTcU/zeKB9kmU59sE8IsuYKKALXK584Vv40p+HNB4dcZbO5pt09XuaJB0Axgy5AhPQNOsvIzr7McZO90iMZ1Nfh/a/146P+EACcOxftobgFMFM2CdfZcX4vvbmPBj8lHna0gbuIbKEIxHIlb1aWT6iRVKrj7GZg0eKfTVFcEcs3GtQo3m6p6TLs0UxWoS0EjI03uk2me4ektrfe4mBSEChJKvpGLYut0Os3yOdh319XGnB3whlNZUfgitR4QHbAE5EI/wNvS1T56TuSs585j7bx4OHoY/glJ+d2fZWscV/v3aAVkMbZGyg8MZxxGXfN4PWfouPpgzrCzCk8bGuMs/ToSvNrFTJtkumHkGv6/QJJkfrJ3ae2MlrHI1mKpSlsToZiPPsqqEWFwSSJ9FZqg==;JgOtMNiieAQXrX2TGLFIEQ=="
 ---

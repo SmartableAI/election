@@ -831,6 +831,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Democrats call Trump to testify in upcoming impeachment trial"
+    excerpt: "Democrats had been weighing for weeks whether to seek Trump's testimony in his second impeachment trial, multiple sources familiar with the matter told ABC News -- a move that could force the 45th president to defend his comments on Jan."
+    publishedDateTime: 2021-02-04T23:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/democrats-call-trump-testify-upcoming-impeachment-trial/story?id=75687873"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/democrats-call-trump-testify-upcoming-impeachment-trial/story?id=75687873"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/democrats-call-trump-testify-upcoming-impeachment-trial/story?id=75687873"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump7-ap-ml-210120_1611150293247_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump resigns from SAG-AFTRA after union moves to expel him"
     excerpt: "SAG-AFTRA announced on Jan. 19 that it would hold a hearing on whether to expel the former president. In a statement responding to Trump’s resignation, the union said simply: “Thank you.” Trump had been a member of the guild since 1989,"
     publishedDateTime: 2021-02-04T19:18:00Z
@@ -1647,6 +1663,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Shape of Senate impeachment trial remains unclear as Trump rejects House Democratic request to testify"
+    excerpt: "House leaders have called for witness testimony, but many in the Senate are reluctant to prolong the proceedings."
+    publishedDateTime: 2021-02-05T00:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-testimony-impeachment-trial/2021/02/04/b910fcc0-6715-11eb-8c64-9595888caa15_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-testimony-impeachment-trial/2021/02/04/b910fcc0-6715-11eb-8c64-9595888caa15_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-testimony-impeachment-trial/2021/02/04/b910fcc0-6715-11eb-8c64-9595888caa15_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2DSI6ODHHUI6XBDIEG6ER4D74U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Manhattan DA unlikely to run for reelection, as office investigates former President Donald Trump"
     excerpt: "It looks as though Manhattan's District Attorney Cy Vance Jr. is not making plans to run for reelection. State financial records reveal he has only raised just over $4,000 ahead of the Democratic primary in June."
     publishedDateTime: 2021-01-27T20:26:00Z
@@ -1870,6 +1902,34 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 105
+  - title: "Trump impeachment: The Republicans' dilemma"
+    excerpt: "As Donald Trump’s second impeachment trial approaches, Ros Atkins looks at the decisions that Republicans face over the former US president’s role in the storming of the Capitol, and in the future of their party."
+    publishedDateTime: 2021-02-05T00:17:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55944177"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0963fs5.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "U.S. court upholds Trump's national security tariffs on steel imports"
+    excerpt: "The U.S. Court of International Trade on Wednesday upheld former president Donald Trump's \"Section 232\" national security tariffs on steel imports into the United States, issuing a decision denying a steel importer's challenge to the duties."
+    publishedDateTime: 2021-02-05T00:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-steel/u-s-court-upholds-trumps-national-security-tariffs-on-steel-imports-idUSKBN2A42MN?edition-redirect=in"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210204&t=2&i=1550364339&r=LYNXMPEH131L7&w=800"
+        width: 800
+        height: 535
+        isCached: true
   - title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
     excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
     publishedDateTime: 2021-02-02T08:26:00Z
