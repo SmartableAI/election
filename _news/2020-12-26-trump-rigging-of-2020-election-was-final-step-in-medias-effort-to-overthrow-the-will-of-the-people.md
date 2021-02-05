@@ -186,6 +186,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump won't testify at impeachment trial"
+    excerpt: "House impeachment managers requested that Trump provide testimony under oath either before or during the Senate impeachment trial about \"his conduct\" on Jan. 6."
+    publishedDateTime: 2021-02-05T05:54:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LSr6xCVGtKY/live-updates-trump-impeachment-2-5-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-5-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-5-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/395c1b78-1ac4-4f72-9a64-5329fa2896e3/26d7f438-3030-433c-b7f0-092766e5cdaa/1280x720/match/image.jpg"
+        width: 1279
+        height: 720
+        isCached: true
   - title: "McConnell: Pelosi, Schumer could have had COVID aid bill months ago, but wanted to damage Trump campaign"
     excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., praised the coronavirus stimulus bill that's poised to pass Congress Monday after months of stalled negotiations, but added that Democrats could have had the same deal months ago had they not prioritized damaging President Trump's reelection hopes."
     publishedDateTime: 2020-12-21T20:26:26Z

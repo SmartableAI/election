@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-12-1-2020.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-12-1-2020.amp"
 type: article
 quality: 190
-heat: 390
+heat: 410
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a39e09bf-a243-4496-a40b-1582ccd2b67a/dd93c6ff-576c-4cdf-973d-cc48ba4571ee/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden will sign order to increase refugee admissions"
+    excerpt: "President Biden announced Thursday he plans to increase refugee admissions into the US -- the latest significant shift in immigration policy in his administration."
+    publishedDateTime: 2021-02-05T05:54:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XzQZerR2dK8/live-updates-biden-2-5-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-5-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-5-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/396b64a2-471e-40bd-bb0b-c040c4f40da9/80479a6d-fd38-4bc5-9787-afbd1c40a392/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

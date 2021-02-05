@@ -1215,6 +1215,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump resigns from SAG-AFTRA: Read his full letter, actors' guild's response"
+    excerpt: "Donald Trump is resigning from SAG-AFTRA after facing expulsion from the actors' union for inciting the Capitol riots Jan. 6."
+    publishedDateTime: 2021-02-05T04:16:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/movies/2021/02/04/donald-trump-resigns-sag-read-his-resignation-letter-union-response/4392136001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4392136001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4392136001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/03/USAT/09ff2c96-2839-4b4d-abc2-de91ca65db84-AP_Trump_Impeachment_Trial.jpg?auto=webp&crop=2330,1311,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Who could have predicted the Capitol riot? Plenty of people — including Trump allies."
     excerpt: "Pro-Trump activists stormed the U.S. Capitol in an effort to overturn the results of the 2020 presidential election. Except for many, it was quite thinkable. It was thought aloud in some cases. As former president Donald Trump faces his second impeachment trial,"
     publishedDateTime: 2021-01-28T19:56:00Z
@@ -1942,7 +1958,7 @@ related:
   - title: "Donald Trump's second impeachment: will the Senate convict him?"
     excerpt: "Donald Trump’s second impeachment trial begins in the Senate next week. Lawrence Douglas explains the process and politics of the spectacle ahead"
     publishedDateTime: 2021-02-05T03:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2021/feb/05/donald-trumps-second-impeachment-will-the-senate-convict-him?share=twitter"
+    webUrl: "https://www.theguardian.com/news/audio/2021/feb/05/donald-trumps-second-impeachment-will-the-senate-convict-him"
     type: article
     provider:
       name: The Guardian
@@ -2558,6 +2574,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ERO7b1L0FeTz/yb/0/5cF0q7fFLTJNz05GDYOTA9H1u0fFJXjL59Q8m3LEW1/omZIVMq/itaMsP+EEN5wDnRVklfy36yIaS3VSJ1g8UzmZas/9ZHtJncuThy0Ifqi58h47UsKNi5yPGPm95m8YENhpiQEv/lMhZ7nwbn2fN4sk5XYR2jNp6kIcck0W12ZoDF42uOTK2IPe7YNSXAxcGaXMKzdjZ1hO+9PRgsM4ZS+jBDKvC0g8hJZV8adjpFnuQjVf+Pyhtjt2cPDO1qAJUGKaGbMI1hltQky/ntOG8CQ+9VHAHmvNQZSxk3PCHw/a1CRJ138XMpDl1/FYQ9NogWtfvj1Fmzq8VJi3iZO7+cAfE=;GGc9STAecUM3NJ48WEVOxA=="
+secured: "9Lx0cRO4gMkNkQ1PqLnX9Nm8olPDv1JFh4RumVgIf4waR/L6gAqGrQSth3huauCkNQjGugcPKnHzALaazv8dx2cVxY6GTeKQH7cxhKdbZ/+vIKcM09jDHb0/T5OI9GH44srb+IBJbLeu/gePtFFQS2uzVVi0rEUi0dx0v/A0sA6f8Es4xmg+XLkyK91NRn29pdxDhfRvFFoqZs56uHeOMD6qfZB7JtI2GmGdtvBnEB9jeVUzaRV9fdv4wHzbYn8vKLTwMvtvKjTGgJf9ij6Ei/PJsP/r5wsf+jjchl+YfcQg1cQKUbb21tcrK29w9Y6/lo7VmttMYhy0Nj/Wl5U0PsrSprgQ4VkAiHnY7ETHs8UGf11my58/HMdfTOmfBLZJb+FLSvObDti2Y3IkAsVXjcfE+zhfOWLpAqz2amvKlDIZcJX87DKWsTwfijVjhcrHI7Q1Z1a3sUaAfZztzSrKwrR70nCDu48MnKClHVhNEfMUs899ZwpA4dS33s4o31LPTMQanJokz9G6EAtYdjwT+Q==;8JLBXyVbW3ga0Ya6XP7pQw=="
 ---
 

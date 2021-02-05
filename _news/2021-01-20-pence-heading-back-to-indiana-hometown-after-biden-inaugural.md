@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indian
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 4490
+heat: 4510
 published: true
 
 provider:
@@ -2821,6 +2821,22 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2021/01/AP21020614828389.jpg?w=1024&h=710"
         width: 1024
         height: 710
+        isCached: true
+  - title: "Mike Pence announces he will return to live in Indiana"
+    excerpt: "COLUMBUS, Ind. — Former Vice President Mike Pence concluded his four years in President Donald Trump’s administration with a farewell address in his hometown and a promise that he was moving ..."
+    publishedDateTime: 2021-01-21T01:43:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/01/20/former-vice-president-mike-pence-says-returning-live-indiana/4218568001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4218568001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4218568001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/116d7f69-005b-4bcb-900f-1f3ae7af5bb7-cent02-7e5pjkkuzrd171k0zhjs_original.jpg?auto=webp&crop=2356,1326,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Mike Pence returns to Indiana hometown as vice presidency ends"
     excerpt: "COLUMBUS, Ind. >> Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."

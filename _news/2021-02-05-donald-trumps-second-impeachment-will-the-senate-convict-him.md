@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump's second impeachment: will the Senate convict him?"
 excerpt: "Donald Trump’s second impeachment trial begins in the Senate next week. Lawrence Douglas explains the process and politics of the spectacle ahead"
 publishedDateTime: 2021-02-05T03:00:00Z
-originalUrl: "https://www.theguardian.com/news/audio/2021/feb/05/donald-trumps-second-impeachment-will-the-senate-convict-him?share=twitter"
-webUrl: "https://www.theguardian.com/news/audio/2021/feb/05/donald-trumps-second-impeachment-will-the-senate-convict-him?share=twitter"
+originalUrl: "https://www.theguardian.com/news/audio/2021/feb/05/donald-trumps-second-impeachment-will-the-senate-convict-him"
+webUrl: "https://www.theguardian.com/news/audio/2021/feb/05/donald-trumps-second-impeachment-will-the-senate-convict-him"
 type: article
 quality: 105
 heat: -1
@@ -1228,6 +1228,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/44e3ed01f816cd692014e0b3b8ff902fdb97b859/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=49f5ee587cfc815f0fb00920f3525dee"
         width: 600
         height: 360
+        isCached: true
+  - title: "Donald Trump resigns from SAG-AFTRA: Read his full letter, actors' guild's response"
+    excerpt: "Donald Trump is resigning from SAG-AFTRA after facing expulsion from the actors' union for inciting the Capitol riots Jan. 6."
+    publishedDateTime: 2021-02-05T04:16:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/movies/2021/02/04/donald-trump-resigns-sag-read-his-resignation-letter-union-response/4392136001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4392136001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4392136001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/03/USAT/09ff2c96-2839-4b4d-abc2-de91ca65db84-AP_Trump_Impeachment_Trial.jpg?auto=webp&crop=2330,1311,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Who could have predicted the Capitol riot? Plenty of people — including Trump allies."
     excerpt: "Pro-Trump activists stormed the U.S. Capitol in an effort to overturn the results of the 2020 presidential election. Except for many, it was quite thinkable. It was thought aloud in some cases. As former president Donald Trump faces his second impeachment trial,"
@@ -2558,6 +2574,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "l2jFrAljwb56CzfnSrEKBGNEfxvwCxpAWXAot0aFRT4iXCfbvvA562v1xQkU0z83WYoitu6Ajxo9rHK/NYeZU1AKhYL2ZzJHz57WCoUqYknTJYmzlW1ClVGErv/8MITt5ia41yPpcSzLQnHxbm/oMKk++COVRSlpb/FaZ45CvB18/tzXGuBMdA18uPavf2bZnke/klesjYrKkJ9BqFI1TrhwR4soyvpm55/61G/fuoPjRwsw+XraFAkF+ZWzxbLlnTyDau0S58De3k3+aquLxwUi+1bSrMwDk9yxpAtbVubYKz3uTiVapS8UMv/37n/OFypqaDx9EXAciV50Pbwm0NPrX/4USHkLH48fUj/QAhY=;xHNkxqC7Rmp1qoQ6yrJR2w=="
+secured: "ZxgYHK67UIfObnvt5b8EmGlaeDWEh5Q7u+Uey+rA/DjiqVWXe0SrMmG/WVAq0TzLSdU46W4wAZORGLkFp2emg2XgS4Y2m6V1v+FMkQiNG8LbgrRCp2mT9TJgvlGAN332Zufa/I/L5eFTIRyFATfJBWAfuzdRI8WcafNsCY8IicGddcZWcnGjQdaXEQg0/grgi4nucZmPODM/En3b0N7w2PuymfFQRSoLtQIDbuPrpAI+tR/neK9oL+bL+F6f9eFuYm5VDvZn0EY6Xb5AZfKXe/CfC9kOAofEdPdxxapMhqbA93xnn8A3ZIcF+iGwgS9ungL6bLdW/ZOFW7fHZhtBdmUqA8unbA9QoAPqLiEtaiQ=;mylyDB4rHeIIc4zx63JXzw=="
 ---
 

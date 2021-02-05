@@ -191,6 +191,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump won't testify at impeachment trial"
+    excerpt: "House impeachment managers requested that Trump provide testimony under oath either before or during the Senate impeachment trial about \"his conduct\" on Jan. 6."
+    publishedDateTime: 2021-02-05T05:54:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LSr6xCVGtKY/live-updates-trump-impeachment-2-5-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-5-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-5-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/395c1b78-1ac4-4f72-9a64-5329fa2896e3/26d7f438-3030-433c-b7f0-092766e5cdaa/1280x720/match/image.jpg"
+        width: 1279
+        height: 720
+        isCached: true
   - title: "Supreme Court in no hurry to hear Trump campaign case, sets response deadline two days after inauguration"
     excerpt: "The latest Trump campaign appeal to the Supreme Court won't see any action from the justices until after the inauguration. The justices this week set a reply deadline for Pennsylvania Secretary of State Kathy Boockvar and the other respondents named in the case of Jan. 22."
     publishedDateTime: 2020-12-24T18:13:04Z

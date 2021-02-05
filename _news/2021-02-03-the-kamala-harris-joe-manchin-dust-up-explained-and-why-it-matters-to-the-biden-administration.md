@@ -254,7 +254,7 @@ related:
   - title: "Biden says he will seek to raise refugee cap to 125,000"
     excerpt: "U.S. President Joe Biden will seek to raise the annual refugee cap to 125,000, he said during a speech at the U.S. State Department on Thursday."
     publishedDateTime: 2021-02-05T01:14:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees-idUSKBN2A42RK"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees/biden-says-he-will-seek-to-raise-refugee-cap-to-125000-idUSKBN2A42RK?edition-redirect=in"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42RK"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42RK"
     type: article
@@ -280,6 +280,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Lifestyle/WireAP_ee698b0ca3b44dffa73b6f76fb968f49_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "India has high hopes ties with US will deepen under Biden"
+    excerpt: "India has high hopes its ties with the United States will deepen under President Joe Biden NEW DELHI -- Key officials in Biden's administration have already begun dialing their Indian counterparts. Last week,"
+    publishedDateTime: 2021-02-05T05:34:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/india-high-hopes-ties-us-deepen-biden-75700759"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/india-high-hopes-ties-us-deepen-biden-75700759"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/india-high-hopes-ties-us-deepen-biden-75700759"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_3391acd422bd407f81cd8ad11875b560_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -920,6 +936,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "MIjgbQwZB68yjJmC5CU+aj2dPuAG2QrkwFoRo9FfMQ7EGZSWnZIpNqlvy19ISUqI7EIkd5DNRP8W+IEnE2UOVu5ip6wV6x5N7ykMZuXTyqmgCnEypn3tLUCUr9DnhtvuZwDFdqkoW1fOIcItmgNTpXSIuJk+jF+F6at+CfuAm5LAEILkqsnzCP8O88nU7Kn4v2y0BeccmtfRAJ7pcO+QnPjzzN+Kgfg0+AT2acDZQ3AFgEMwb6ofMlZsNfH1nXxSUT8za2xIFtULyfWeH74Lm/UVnfKM8ztREzZv1BTX8Hi97jiRnkZrxnzD5B9owAX3kQXOtSNzDYAbPVpGDOD++6P9Mj+dLRNjQIemFAxs5jU=;CNOav2DlqnRZGZQdov4gdA=="
+secured: "yfggaF+oEQJPUye/hAtW9PIEZwWNIqBtOWaUiraufUtfXn2ymTCqtsKD8vVS4qtwqHPjZoQNl96UMU4BaWFx/LhC4ZnQpIHBhQ6Jhe+ucgsA9i2Lw79C/gV4cpemIUiJJ0sZRorRMKtvvQM+N1uxsmzF6CezBvKNwtrr/UOtneOD36caWQmFlUOxABap7p8nHrXWQHVocBAjSZag0fnPJVuzM4sjPIFPXsfZDAdhpMvz4ApKozp/WqNOdsjD8tLoWOhQvtUy5iUCe63lPyPlcx9gcd4hr1PvBq2AUd8ciI0UJigXK7r8W4yVdcm8xj8ggvO94VPRzaNSAeW5gi/peJ2ZC4qGHjTj3ylQSDh3VLG6d8UTIhpnGDn1ePdrzQ0aulD5YLL/4AXKxSiavNrMA7Junn90fFtWCbLNEhl4pTFz1A3mk5GGjFTl48P1qCCsedYyHImyZuJtqgiDAoWWnlMmqa0IPB/JpNt9fJsr6YmtT1mU6QJWNiL4bjOtRYSPvEIqA2nTI2mbq/hcidJdQw==;09bPN+suXr6M/PjDSVgRVQ=="
 ---
 

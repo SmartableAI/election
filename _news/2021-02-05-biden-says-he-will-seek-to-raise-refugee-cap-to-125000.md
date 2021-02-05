@@ -3,8 +3,8 @@ category: news
 title: "Biden says he will seek to raise refugee cap to 125,000"
 excerpt: "U.S. President Joe Biden will seek to raise the annual refugee cap to 125,000, he said during a speech at the U.S. State Department on Thursday."
 publishedDateTime: 2021-02-05T01:14:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-refugees-idUSKBN2A42RK"
-webUrl: "https://www.reuters.com/article/us-usa-biden-refugees-idUSKBN2A42RK"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-refugees/biden-says-he-will-seek-to-raise-refugee-cap-to-125000-idUSKBN2A42RK?edition-redirect=in"
+webUrl: "https://www.reuters.com/article/us-usa-biden-refugees/biden-says-he-will-seek-to-raise-refugee-cap-to-125000-idUSKBN2A42RK?edition-redirect=in"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42RK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42RK"
 type: article
@@ -268,6 +268,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Lifestyle/WireAP_ee698b0ca3b44dffa73b6f76fb968f49_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "India has high hopes ties with US will deepen under Biden"
+    excerpt: "India has high hopes its ties with the United States will deepen under President Joe Biden NEW DELHI -- Key officials in Biden's administration have already begun dialing their Indian counterparts. Last week,"
+    publishedDateTime: 2021-02-05T05:34:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/india-high-hopes-ties-us-deepen-biden-75700759"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/india-high-hopes-ties-us-deepen-biden-75700759"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/india-high-hopes-ties-us-deepen-biden-75700759"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_3391acd422bd407f81cd8ad11875b560_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -924,6 +940,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "gOGbypiJ9rIob2cBsEgM6e9JWE1YMMfvnSROj+KEwGvbNnIPjU3kEXe2TZQtREi51h7vtvaf/0VJMda5/wVJ6yN08GrgtGZF1/HlOTsqXToWM02xR1gy5KlUcKY2JZrhXby5FOZUSBHUGywDS1GjkCROVYsA7Kuw6nL2gHpgFLsWafbugXpSXq5Mg6x1UYCfRT+zs1w9nsWJ0O8sc9uchYmgwdtcLbHa3A0FVeYIEi63RpUjjJ1u1rX92QVDsWOtccN98/9X/+PtsWxGnj6ojfhUzM6GFwZ1YQzW0rNBh7pEQkVYOuSyVfGFsRrY1Wx8kmY5r6LLlxgDDlLs+gu/aacSlTANMhIUal8nliQZhrY=;FUFsWEsTEEiv6eiCpKLVVA=="
+secured: "9ZOtJhwHcAKi2j5qHV0ObcVR4TAZZx9OFrhlhXT1EiGXW++3YxB8N90QM38P+UF5v0LGR8403YIQpHNmkPMqlE/kV/ZEjLkYEJpyyJX/nU/f+LT8kzPNtBjxXBR7dqSOUtG2kZ6q3D9WYQ9oIwXBTqRJQO+0Fm64dzWe2vkH/DxQ6y6kMN5ocxjLSCx13laChSaFlDEKcZaYfviGk5lKfVMHnc3fSvnPfZD4kw32qK4SpcAp3FAXxuWgg1mWzXjENMmDs0nHO7PzIwFNGFnUdlaajpZdLKxc8ZtJfwHw7BO/lM61xHO7PLkvrM97Mgw536gOwT/AMLKmKUyMux1/iKoj1WtRqLVNVyqlP9STakg=;Yk7SCjRM4Ryh7CtjO198+g=="
 ---
 

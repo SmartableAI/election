@@ -247,7 +247,7 @@ related:
   - title: "Biden says he will seek to raise refugee cap to 125,000"
     excerpt: "U.S. President Joe Biden will seek to raise the annual refugee cap to 125,000, he said during a speech at the U.S. State Department on Thursday."
     publishedDateTime: 2021-02-05T01:14:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees-idUSKBN2A42RK"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees/biden-says-he-will-seek-to-raise-refugee-cap-to-125000-idUSKBN2A42RK?edition-redirect=in"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42RK"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42RK"
     type: article
@@ -273,6 +273,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Lifestyle/WireAP_ee698b0ca3b44dffa73b6f76fb968f49_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "India has high hopes ties with US will deepen under Biden"
+    excerpt: "India has high hopes its ties with the United States will deepen under President Joe Biden NEW DELHI -- Key officials in Biden's administration have already begun dialing their Indian counterparts. Last week,"
+    publishedDateTime: 2021-02-05T05:34:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/india-high-hopes-ties-us-deepen-biden-75700759"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/india-high-hopes-ties-us-deepen-biden-75700759"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/india-high-hopes-ties-us-deepen-biden-75700759"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_3391acd422bd407f81cd8ad11875b560_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

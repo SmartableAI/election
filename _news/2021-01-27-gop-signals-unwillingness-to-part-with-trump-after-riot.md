@@ -1225,6 +1225,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump resigns from SAG-AFTRA: Read his full letter, actors' guild's response"
+    excerpt: "Donald Trump is resigning from SAG-AFTRA after facing expulsion from the actors' union for inciting the Capitol riots Jan. 6."
+    publishedDateTime: 2021-02-05T04:16:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/movies/2021/02/04/donald-trump-resigns-sag-read-his-resignation-letter-union-response/4392136001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4392136001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4392136001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/03/USAT/09ff2c96-2839-4b4d-abc2-de91ca65db84-AP_Trump_Impeachment_Trial.jpg?auto=webp&crop=2330,1311,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Who could have predicted the Capitol riot? Plenty of people — including Trump allies."
     excerpt: "Pro-Trump activists stormed the U.S. Capitol in an effort to overturn the results of the 2020 presidential election. Except for many, it was quite thinkable. It was thought aloud in some cases. As former president Donald Trump faces his second impeachment trial,"
     publishedDateTime: 2021-01-28T19:56:00Z
@@ -1941,7 +1957,7 @@ related:
   - title: "Donald Trump's second impeachment: will the Senate convict him?"
     excerpt: "Donald Trump’s second impeachment trial begins in the Senate next week. Lawrence Douglas explains the process and politics of the spectacle ahead"
     publishedDateTime: 2021-02-05T03:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2021/feb/05/donald-trumps-second-impeachment-will-the-senate-convict-him?share=twitter"
+    webUrl: "https://www.theguardian.com/news/audio/2021/feb/05/donald-trumps-second-impeachment-will-the-senate-convict-him"
     type: article
     provider:
       name: The Guardian
