@@ -1761,6 +1761,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden to Revive Weekly Address That Faded Under Trump"
+    excerpt: "A White House seeking to advance its agenda introduces a format that includes the president speaking with handpicked citizens."
+    publishedDateTime: 2021-02-05T17:28:00Z
+    webUrl: "https://www.nytimes.com/2021/02/05/business/media/biden-weekly-radio-address.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/05/business/media/biden-weekly-radio-address.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/business/media/biden-weekly-radio-address.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/05/business/05Biden-Radio-01/05Biden-Radio-01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Arizona governor becomes latest Trump target after certifying Biden's win"
     excerpt: "Arizona Gov. Doug Ducey, a Republican and close ally of President Donald Trump throughout the 2020 election, found himself in the president's Twitter crosshairs on Monday when he signed off on the state's election certification."
     publishedDateTime: 2020-12-02T01:07:00Z

@@ -2,13 +2,13 @@
 category: news
 title: "Who are the Democratic Trump impeachment managers?"
 excerpt: "The House Democratic impeachment managers include Jamie Raskin, Diana DeGette, David Cicilline, Joaquin Castro, Eric Swalwell, Ted Lieu, Stacey Plaskett, Madeleine Dean and Joe Neguse."
-publishedDateTime: 2021-02-05T12:45:38Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNE7lz7sSjY/who-are-the-democratic-trump-impeachment-managers"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNE7lz7sSjY/who-are-the-democratic-trump-impeachment-managers"
+publishedDateTime: 2021-02-05T12:51:00Z
+originalUrl: "https://www.foxnews.com/politics/who-are-the-democratic-trump-impeachment-managers"
+webUrl: "https://www.foxnews.com/politics/who-are-the-democratic-trump-impeachment-managers"
 ampWebUrl: "https://www.foxnews.com/politics/who-are-the-democratic-trump-impeachment-managers.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-are-the-democratic-trump-impeachment-managers.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/trump-raskin.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -412,6 +413,6 @@ related:
         height: 3765
         isCached: true
 
-secured: "k9r5wyB2JIV3/PKLorkJ3RYGVGYh0UyDZoaqF4s4DMRMySYT1XVSR2y2KOGGslJ/k8FusMmbomqnWgYaT0N2NKN/6DoJcQHfPbqZ/zXUH1/gi/ZdTP0NXgSJFSEvv7XitumUGktdeYIusJsYEr+hPIDQpUy0lNH/K3rsC2iNM0pjbzflUkFVX8OPmHvVDERoUTUd7zInSL+Qre20kjyXwtAOgjARUC76Urx5cnR10nUBTZoG1yb5jTVyl11liTWsXmtiyMbTjZupgakmyNO9XhLwlGELFiAfDge1RMtyb/nO9vaKf1No0oeXxlg3SfpNuauMgVXDgCmjcxgD154avZNWwzQUtk1MTHPJVijdnPU=;s+ZohrglEEXlIjIIM6u4cg=="
+secured: "wpgPlgCFtcqBSHCF84GOHAKLDw1ttJDB8+XIDvxzO0Q/pseis1jGHUE6vU3jmZQc7jWjJPac+B2PpKJDlBdVAP0dVZtDp3j7ekh458VgoXmZUO7O3ANmqaESzctmXSeNb94nDw6/3XIHz2F+hN+Ykpu/lfoedCByq4pcOobkZuWLrSv1Wu22CNJs8IjVACGXkaT8b7mfO70MUAkpuj7DhGmUrTcsgx1orf60jZn8oNKV6b0e1f0Uh5wMnIkn6cTW3ydq4994GWgkeyWlzS/CLyZUEzx1VqmzthP+wPokdisH/3mfc4r1M/Z5J07A1K0xOTgUgOoTDjVc8SaKSg/hKail4riUyzNqV5x+H5D82PA=;Y7ElaNLJR2StdIBmMsQtFA=="
 ---
 

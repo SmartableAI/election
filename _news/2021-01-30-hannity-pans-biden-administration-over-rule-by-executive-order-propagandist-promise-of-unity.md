@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Hannity says Biden’s policies will 'fail’ while media takes ‘sycophantic vacation’"
-    excerpt: "\"Hannity\" host Sean Hannity criticizes President Biden's beginnings in office and forecasts a disastrous end."
-    publishedDateTime: 2021-01-26T09:55:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H9xJIy4mBMA/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation"
-    ampWebUrl: "https://www.foxnews.com/politics/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation.amp"
+  - title: "Angel dad slams Joe Biden's immigration orders: 'Insanity on steroids'"
+    excerpt: "A California father, whose son was killed in a car accident with an illegal immigrant slammed President Joe Biden’s move to halt deportations of undocumented migrants on Friday, calling the administration's actions “insanity on steroids.”"
+    publishedDateTime: 2021-02-05T18:53:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqjtEWa62Sg/biden-immigration-insanity-steroids-california-angel-dad"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-insanity-steroids-california-angel-dad.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-insanity-steroids-california-angel-dad.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c4487de-9432-4b11-85ec-6465e3cf5347/6b3ff08b-0f57-40d9-b1d2-1ae5bc8eab17/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Angel dad rips Biden's immigration policies: 'I don't know how they can justify it'"
+    excerpt: "A man whose son was killed by an illegal immigrant is very upset with President Biden's immigration policies."
+    publishedDateTime: 2021-02-02T15:50:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KtWZ_GDl6e8/angel-dad-rips-biden-immigration-policies-jamiel-shaw"
+    ampWebUrl: "https://www.foxnews.com/politics/angel-dad-rips-biden-immigration-policies-jamiel-shaw.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/angel-dad-rips-biden-immigration-policies-jamiel-shaw.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41141ae6-77e2-4f49-b7e0-2669ff9cbe70/a12142e6-4d90-4d19-98c7-5e790e97839a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Migrant numbers increase along US-Mexico border as they await Biden's immigration action"
+    excerpt: "The number of migrants along parts of the U.S.-Mexico border is increasing as they await what they hope are dramatic liberalizations in border security and immigration policy from President Biden – who has already taken significant action to reverse Trump-era policies."
+    publishedDateTime: 2021-02-02T17:54:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lud2mwFcAtg/migrant-numbers-us-mexico-border-bidens-immigration-action"
+    ampWebUrl: "https://www.foxnews.com/politics/migrant-numbers-us-mexico-border-bidens-immigration-action.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-numbers-us-mexico-border-bidens-immigration-action.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "kk61Kh96eRBNAMrQ8QmXvrNaUpwmARck2YvzwkzgwyRRP2GYrnoKaIzh4Hg7K4ldTUz9Qozr6eW5lYAOLJoqJRyh04oVQilUC9FTTNrdBy1F9C2OvLgBlN35T1V0HrEFblcE2VX7vTAG2DFJd4BO/2GSjahOb95DNORFrGYFDPdqqdl//mLEG+Ray9HATXgVyakFC6WtyRpWwb6kaMbJGmteKYratTSu43NM65pyXDQP4zMw45anC1sNNdMaiEWPQeq2nE8Lp2MX8lZ1gGyfx0T8Y0f6LafxCQFMOPfEugGsp2HjmchgjxCOuefLznqXVPB7qoH3PFaqVMUo94QnRMjWmlo5XOdHrQm3pqz0/ww=;r6zsEFws/2wy2/BBqaAMcA=="

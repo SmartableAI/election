@@ -96,9 +96,9 @@ related:
         height: 900
         isCached: true
   - title: "U.S. Senate passes budget plan to advance Biden's $1.9 trillion COVID aid package"
-    excerpt: "The U.S. Senate early on Friday passed a budget plan that would allow for passage of President Joe Biden's $1.9 trillion COVID-19 relief package in coming weeks without Republican support."
-    publishedDateTime: 2021-02-05T15:48:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/u-s-senate-passes-budget-plan-to-advance-bidens-1-9-trillion-covid-aid-package-idUSKBN2A514V"
+    excerpt: "President Joe Biden's drive to enact a $1.9 trillion coronavirus aid bill gained momentum early on Friday as the U.S. Senate narrowly approved a budget blueprint allowing Democrats to push the legislation through Congress in coming weeks with or without Republican support."
+    publishedDateTime: 2021-02-05T15:59:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/us-senate-passes-budget-plan-to-advance-bidens-19-trillion-covid-aid-package-idUSKBN2A514V"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A514V"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A514V"
     type: article
@@ -107,7 +107,7 @@ related:
       domain: reuters.com
     quality: 120
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550459610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH140MZ"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550502789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH140MZ"
         width: 817
         height: 545
         isCached: true

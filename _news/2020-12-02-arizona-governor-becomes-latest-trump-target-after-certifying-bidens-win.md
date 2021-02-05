@@ -1776,6 +1776,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden to Revive Weekly Address That Faded Under Trump"
+    excerpt: "A White House seeking to advance its agenda introduces a format that includes the president speaking with handpicked citizens."
+    publishedDateTime: 2021-02-05T17:28:00Z
+    webUrl: "https://www.nytimes.com/2021/02/05/business/media/biden-weekly-radio-address.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/05/business/media/biden-weekly-radio-address.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/business/media/biden-weekly-radio-address.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/05/business/05Biden-Radio-01/05Biden-Radio-01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden Criticizes Trump on Vaccine Distribution and Pledges to Pick Up Pace"
     excerpt: "Three weeks from taking office, Joe Biden called vaccinating Americans “the greatest operational challenge we’ve ever faced as a nation” and offered a bleak assessment of the months ahead."
     publishedDateTime: 2020-12-30T00:44:00Z

@@ -112,22 +112,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Who are the Democratic Trump impeachment managers?"
-    excerpt: "The House Democratic impeachment managers include Jamie Raskin, Diana DeGette, David Cicilline, Joaquin Castro, Eric Swalwell, Ted Lieu, Stacey Plaskett, Madeleine Dean and Joe Neguse."
-    publishedDateTime: 2021-02-05T12:45:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNE7lz7sSjY/who-are-the-democratic-trump-impeachment-managers"
-    ampWebUrl: "https://www.foxnews.com/politics/who-are-the-democratic-trump-impeachment-managers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-are-the-democratic-trump-impeachment-managers.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Raskin says Trump’s refusal to testify at impeachment supports ‘his guilt’"
     excerpt: "Rep. Jamie Raskin, D-Md., took former President Trump to task for refusing to testify at his second impeachment trial that many Republicans and Trump’s legal team have called a farce."
     publishedDateTime: 2021-02-05T09:20:08Z
@@ -350,6 +334,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Who are the Democratic Trump impeachment managers?"
+    excerpt: "The House Democratic impeachment managers include Jamie Raskin, Diana DeGette, David Cicilline, Joaquin Castro, Eric Swalwell, Ted Lieu, Stacey Plaskett, Madeleine Dean and Joe Neguse."
+    publishedDateTime: 2021-02-05T12:51:00Z
+    webUrl: "https://www.foxnews.com/politics/who-are-the-democratic-trump-impeachment-managers"
+    ampWebUrl: "https://www.foxnews.com/politics/who-are-the-democratic-trump-impeachment-managers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-are-the-democratic-trump-impeachment-managers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/trump-raskin.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Matt Gaetz says he’d resign House seat to defend Trump at impeachment trial"
     excerpt: "Matt Gaetz said he would resign if called on by former President Donald Trump to defend him in his upcoming impeachment trial, saying it’d be the “top priority in my life.” The Florida congressman made the comment in an interview with the Steve Bannon-hosted podcast “War Room Pandemic."
     publishedDateTime: 2021-02-04T15:31:00Z
@@ -413,6 +413,6 @@ related:
         height: 3765
         isCached: true
 
-secured: "yrmhkjxQqroruDLVQi6mhZpvZCLSA+bWm0+RbwqxH/D0XwcNNNnDuWJL6Qq9xjchWSsEiLDtPFvip4HqIOTHznIOIuqZ7UfBJjMKDTNXeVH7TeurTGTrY8Rt0XRnlpueo+r9u6w404hlFm95PjGQp6t2uxGyAo1vK6PcoCNlG4NLsQbF8Gu8jOso9+5VWIbmOyf6XhJVB/RgrQjBxpT5LULu2Zew0T8rCFEtHDqI/vk9dBZV2Y3akUO594uAhaOkdOTcmia8Sv7OMTJsLKK3YsHC0+m1xDSey4YNpCG8DVASWhx6bG4ds/1Mf5cvqU6kYepR1FN1wCa4R8oopIKiJS58z3JZ1bRcemdnp6C5aEM=;12nR2TePNgw9GfASI6gmPw=="
+secured: "BCZWZSKFpXBbuZYF73f+OIiz8XKnCywWPYac/UeP3vQCs0eFfFqy5CrUJ6cvjpXXP1VGnOeMaRAqNh0lgf+wE4VevtdTyi3JkJr00fIXurVyo0O/X/oyr8VXzitlvB8CmGc7ToHNEQ3C5uMq0/Vb/62IFgpxT7D0+oVMClT9BntKR1GDkhMNlqXNI7VKykO+GEIBdcygMgd0bXReG/31ho3uYtbKlkT3uJDQ8Go/yBbAIId3RIQL49JeokrBfiDDU12DaUWIgX3ghaGll88bt4dDFg5F7ndDaBSEnWcWD4lfOwZ3FskWqBpRP0d6kWkakxJ4Us+5AN6FpnJ5CkjYEfxCIHV9MIbid1tAdQENF4uDADvAifeBCkBpb6nYmGJE2UmVzBkpzOMrjxn/hQ1qiMMfAETiKgUdNbZua6N5KaXcbqaYjUG+SglU/gocrpURVVspbkrIyE5qe9DV4GuQt+ABo/y4epY7FlcuVHghCr1nWJUj7m+0IEJm8Vm0+oODqP2lPwVk1xr9Xxhn6DUhWQ==;rtHBk+yGv6/9LTa0hwRLdA=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. Senate passes budget plan to advance Biden's $1.9 trillion COVID aid package"
-excerpt: "The U.S. Senate early on Friday passed a budget plan that would allow for passage of President Joe Biden's $1.9 trillion COVID-19 relief package in coming weeks without Republican support."
-publishedDateTime: 2021-02-05T15:48:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/u-s-senate-passes-budget-plan-to-advance-bidens-1-9-trillion-covid-aid-package-idUSKBN2A514V"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/u-s-senate-passes-budget-plan-to-advance-bidens-1-9-trillion-covid-aid-package-idUSKBN2A514V"
+excerpt: "President Joe Biden's drive to enact a $1.9 trillion coronavirus aid bill gained momentum early on Friday as the U.S. Senate narrowly approved a budget blueprint allowing Democrats to push the legislation through Congress in coming weeks with or without Republican support."
+publishedDateTime: 2021-02-05T15:59:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/us-senate-passes-budget-plan-to-advance-bidens-19-trillion-covid-aid-package-idUSKBN2A514V"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/us-senate-passes-budget-plan-to-advance-bidens-19-trillion-covid-aid-package-idUSKBN2A514V"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A514V"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A514V"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550459610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH140MZ"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550502789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH140MZ"
     width: 817
     height: 545
     isCached: true
@@ -142,6 +142,6 @@ related:
         height: 558
         isCached: true
 
-secured: "qJyR50/FMV2XNw+jXUUQ2V15IjbIsX3b+0OhdRe8tH3rT3v8F4+x1uGLVpW74XhhDO4aLkFE8mERtmy5nm6qnjuRHQkNqw+aorLGZ1lHz2NMeKV7/+ZJoMIj2iGoaAxaRW/sSvAl3FHZ0ib+1z8BsXXLkDjQNY+B+XBON3Lzg1s/BQnR/WeUR4oG3SYnwXsNJ4MPBa8EjWrxgpxypZheY3Tgk/1zWEnzFuz3NgRuqc2AuwhIG0qJ8uGiwhcmYG6HTRYJ+aXXXHm8Z/mNjs4s3nUxQCJRcvmkS4GjOjZPUH+QlqoG2vJbVvr5/HnVIas0fcpDkX6lc829Nt/r9yOJORwj1guLhEH+HTgIVTASxJ0=;3U4JdgXpMLBCDJAUmtOcNg=="
+secured: "gpjgu4FJwnYi7Icufdk0gZg7tT28YQWq74UQTkNQWxgpcaxdTFmLtU4FkQp0gOr0LsLY8U9VRKKnCZg56IQIbPKEsXk7bhNqpzuq3o406vooPsLDkDSiNXgcnV6Ad9uO/2yywsQ6GXeJAjOSY4sZJ2VSinAd5fDOtGMHXPVdDvhaVwsraCGmhrGvXoKVCTMF6/yu1Spi9MXxSqovG6bBLAhlQG72RX+PASalLIFEDoPgMglGWYPJz+SAbISlfFdWw4xGDoG088ikkUH9S3GH8y8BHcXWLiko8+V3FZMBh5EH0Wv0R3sIWPEaSgYDFxl0RLe9vvt8oW7d9zxmyFblKPQ7wIz3qdhquW7kYpQbVUI=;jEGA2P4cTowpzoPLPoveKQ=="
 ---
 

@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden makes case for $1.9T coronavirus relief plan, calls bypassing Republicans 'an easy choice'"
+    excerpt: "President Biden on Friday made the case for Congress to quickly pass his nearly $2 trillion coronavirus relief package even if it means abandoning Republican support, warning of an economy that's still in the grips of the pandemic."
+    publishedDateTime: 2021-02-05T18:43:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MON3ktXpuyc/biden-makes-case-for-1-9t-coronavirus-relief-plan-calls-bypassing-republicans-an-easy-choice"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-makes-case-for-1-9t-coronavirus-relief-plan-calls-bypassing-republicans-an-easy-choice.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-makes-case-for-1-9t-coronavirus-relief-plan-calls-bypassing-republicans-an-easy-choice.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b07e757-d035-4b72-a806-a50755a6e9f5/1a78b80c-313f-47f3-a14a-7ac6a76531df/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden believes coronavirus stimulus can be 'bipartisan,' says 'risk' is a bill 'not big enough,' Psaki says"
     excerpt: "White House press secretary Jen Psaki said President Biden is \"open to engaging\" with both Democrats and Republicans in Congress ahead of his meeting with GOP senators Monday in the Oval Office to discuss a potential compromise on a coronavirus relief plan, adding that, in his view, the \"risk\" would"
     publishedDateTime: 2021-02-01T19:25:08Z

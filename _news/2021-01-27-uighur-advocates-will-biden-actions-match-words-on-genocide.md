@@ -92,6 +92,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden makes case for $1.9T coronavirus relief plan, calls bypassing Republicans 'an easy choice'"
+    excerpt: "President Biden on Friday made the case for Congress to quickly pass his nearly $2 trillion coronavirus relief package even if it means abandoning Republican support, warning of an economy that's still in the grips of the pandemic."
+    publishedDateTime: 2021-02-05T18:43:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MON3ktXpuyc/biden-makes-case-for-1-9t-coronavirus-relief-plan-calls-bypassing-republicans-an-easy-choice"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-makes-case-for-1-9t-coronavirus-relief-plan-calls-bypassing-republicans-an-easy-choice.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-makes-case-for-1-9t-coronavirus-relief-plan-calls-bypassing-republicans-an-easy-choice.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b07e757-d035-4b72-a806-a50755a6e9f5/1a78b80c-313f-47f3-a14a-7ac6a76531df/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House starts work on coronavirus relief Tuesday after Psaki warns Biden won't 'slow down' for Republicans"
     excerpt: "The House Rules Committee will meet Tuesday afternoon to start work on the coronavirus budget reconciliation package after House Speaker Nancy Pelosi and Senate Majority Leader Chuck Schumer each filed budget resolutions in their respective chambers on Monday -- setting up a process for Democrats to"
     publishedDateTime: 2021-02-02T12:15:12Z
