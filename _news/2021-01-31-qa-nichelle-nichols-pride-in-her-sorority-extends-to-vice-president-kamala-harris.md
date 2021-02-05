@@ -686,6 +686,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "JD Greear urges pastors not to call VP Kamala Harris ‘Jezebel,' but to pray for her"
+    excerpt: "Southern Baptist Convention President J.D. Greear is urging pastors in the denomination to refrain from calling Vice President Kamala Harris “Jezebel” due to the racist connotations of the moniker. He is calling on them to honor and pray for her as an elected leader instead."
+    publishedDateTime: 2021-02-04T21:48:00Z
+    webUrl: "https://www.christianpost.com/news/jd-greear-urges-pastors-not-to-call-vp-kamala-harris-jezebel.html"
+    ampWebUrl: "https://www.christianpost.com/amp/jd-greear-urges-pastors-not-to-call-vp-kamala-harris-jezebel.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/jd-greear-urges-pastors-not-to-call-vp-kamala-harris-jezebel.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 69
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/13/73/137363_w_450_300.jpg"
+        width: 450
+        height: 299
+        isCached: true
   - title: "Here's what Vice President Kamala Harris told The Republic about COVID-19 relief plans"
     excerpt: "Vice President Kamala Harris advocated for the Biden administration's American Rescue Plan legislation in a virtual meeting with The Arizona Republic."
     publishedDateTime: 2021-01-28T23:36:00Z

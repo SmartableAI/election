@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden set to accept more refugees after years of Trump restrictions"
-    excerpt: "U.S. President Joe Biden will seek to raise annual refugee admissions to 125,000 in the coming fiscal year, he said on Thursday, a more than eight-fold increase after former President Donald Trump slashed levels to historic lows."
-    publishedDateTime: 2021-02-05T04:48:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees-order-idUSKBN2A42HN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550411081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1406U"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Poor handling of virus cost Trump his reelection, campaign autopsy finds"
     excerpt: "Former president Donald Trump lost the 2020 election largely due to his handling of the coronavirus pandemic, according to a post-election autopsy completed by Trump campaign pollster Tony Fabrizio. The 27-page document shows that voters in 10 key states rated the pandemic as their top voting issue,"
     publishedDateTime: 2021-02-02T10:03:00Z
@@ -1166,6 +1150,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/susan-collins-ap-jef-210127_1611784510838_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden set to accept more refugees after years of Trump restrictions"
+    excerpt: "U.S. President Joe Biden said on Thursday he plans to raise annual refugee admissions to 125,000 in the coming fiscal year, a more than eight-fold increase after former President Donald Trump slashed levels to historic lows."
+    publishedDateTime: 2021-02-05T08:53:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-refugees-order/update-7-biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSL1N2KA23K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210205&t=2&i=1550411081&r=LYNXMPEH1406U&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Senate Republicans unite behind failed effort to challenge Trump impeachment trial"
     excerpt: "Forty-five Senate Republicans backed a failed effort on Tuesday to halt former President Donald Trump's impeachment trial, in a show of party unity that some cited as a clear sign he will not be convicted of inciting insurrection at the Capitol."
@@ -2574,6 +2572,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "VNwoj8XWf442Azzx64BlwNSON0pK0zRdtv3YHcFIaUkc/hyzxEtK9fU4aAKRcidcZJQSI79rRlqlminNBCzKhO6Eb8sa5BGRTQYqaBmUbzaVUo/A1g7nW2PutUn5sKvtFpDeb0XZ/Wk8w8VwOwXgxQ4+fvqQMU596psynw52xS8kIkQBqNco39FdV37ccZ6LtnQotu2+Dd2W2EUjpWAGNGpDVPsvEie80J7+ONULKSr66HLgBpoCDOJ4QGShOaWKyfx6K1p7JVAodWme35mwTruv90MB/QWvipyQPqpLGIlNI9LnVWbAAlGtkERGQy5qoJzVlVchNx+mrcmkTJPrO7JH5iJwj5TM8Ga0llxnx0Q=;4QgM837qTa7HpMl+g/Vp4g=="
+secured: "SQr/nrF+9QRfGJIwzM2k0VwcpWmNc+P325N+CMzXt5OsEsovWBZ4qxdjseWjEOvEt3uQHrqYyVQ5yM98CcnjzBHt42YV4CeYsueeKjT34ykYsOHKxpUFneDZ/OcjHe1dQ/mj39f6pWUjhu3QkSbq6qJuCQsmaUN3Ikc1dqfjQ1p7ZAYvqeuTGA5skh4GUC29CVDJ7czRd9kPvhn+KR5S9qvpuvbYrxmEkQ7QivENT0ucVNjnEKQbiID2ZmcJ9y9iTGOrBQjc3AkA0NrhPV+bPXfpDCvbWfT7ATalggFO+SXQExjnZz0q62sISQwrfzpFopCc00g8i//C6mG3j6PfNKTrfFkZeNxw8dAWIdN5NYo7ARcNR6p5+J2vh0E3Aq8qCpGKwaBRT/5sm89ZnNaWrC15hpu8P0bNHWDC7XkjjWvjMzztauwVCXxy4mFy5eEYzdnE4vxarcrzACfpt0/JTI/kJbOHdDP2/goVRNk536xq/TBmFjytMsSc4IubbW8hks8UejqnwOCg9oMxjQKUKA==;4VpVPMHZyxMx4WN51ZWldg=="
 ---
 

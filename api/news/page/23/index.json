@@ -2,49 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2021-01-06-no-the-us-constitution-does-not-allow-mike-pence-to-reject-electoral-votes.md",
-      "title": "No, the U.S. Constitution does not allow Mike Pence to reject electoral votes",
-      "excerpt": "As many as 140 House members and over a dozen senators have said they will challenge some of the state results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/local/michigan/2021/01/06/mike-pence-fraudulent-electors-fact-check/6557057002/",
-      "originalUrl": "https://www.freep.com/story/news/local/michigan/2021/01/06/mike-pence-fraudulent-electors-fact-check/6557057002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/06/PDTF/a3ecaf89-f9bd-4401-a3a6-e1d88005e2df-0ed0efbfaa59f790bd1af878eca5c4d5.jpg?auto=webp&crop=1023,576,x0,y2&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/6557057002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6557057002",
-      "publishedDateTime": "2021-01-06T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-01-06-trump-biden-transition-live-updates-pence-told-trump-he-doesnt-have-power-to-reverse-election.md",
       "title": "Trump-Biden transition live updates: Pence told Trump he doesn't have power to reverse election",
       "excerpt": "During their weekly lunch Tuesday, Vice President Mike Pence told President Donald Trump he does not have the power to reverse the outcome of the November election when he preside",
@@ -995,6 +952,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-kamala-harris-we-are-going-to-be-inaugurated.md",
+      "title": "Kamala Harris: 'We are going to be inaugurated'",
+      "excerpt": "Vice President-elect Kamala Harris on Monday night emphasized that she and President-elect Joe Biden will be inaugurated on January 20th. She was responding to a question about efforts by some Republicans to contest the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/05/USAT/e9f154b5-0846-4da4-a08a-0022190056a2-d795040e-4df7-428e-955d-7feb21a4554c_thumbnail.png?quality=10",
+          "width": 852,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T02:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {

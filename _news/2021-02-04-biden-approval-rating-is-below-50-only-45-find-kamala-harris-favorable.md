@@ -674,6 +674,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "JD Greear urges pastors not to call VP Kamala Harris ‘Jezebel,' but to pray for her"
+    excerpt: "Southern Baptist Convention President J.D. Greear is urging pastors in the denomination to refrain from calling Vice President Kamala Harris “Jezebel” due to the racist connotations of the moniker. He is calling on them to honor and pray for her as an elected leader instead."
+    publishedDateTime: 2021-02-04T21:48:00Z
+    webUrl: "https://www.christianpost.com/news/jd-greear-urges-pastors-not-to-call-vp-kamala-harris-jezebel.html"
+    ampWebUrl: "https://www.christianpost.com/amp/jd-greear-urges-pastors-not-to-call-vp-kamala-harris-jezebel.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/jd-greear-urges-pastors-not-to-call-vp-kamala-harris-jezebel.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 69
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/13/73/137363_w_450_300.jpg"
+        width: 450
+        height: 299
+        isCached: true
   - title: "Q&A: Nichelle Nichols' pride in her sorority extends to Vice President Kamala Harris"
     excerpt: "Nichols first joined Alpha Kappa Alpha as an undergraduate at Morgan State University and is now the president of its local graduate, or alumni, chapter."
     publishedDateTime: 2021-01-31T12:30:00Z
@@ -940,6 +956,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "YRnnwkjtTNydu8qLdFP9lRHmHGQ4wjWaT9ouV6+mBPt/kYIbAX85/zKloKYt5t+lCq25fSAxg7ntDdF92wtPlDpMqgMaHtM+/ZKpdVQzJhn/oZpR8RssWbCKWIWQayd39BeZt5+mcWiZTcIHhBN0Iep0QJYZm/74rLyyrDU0a93MsUv9XwATA6uoaxCj3xfHHukYqwPTrH795RfgH68v6qXx7hsJ6QHzr2ja/97MlfT/wn7Mt3us9LecckuETxyVymyzVg/WTYS+h6ZZ7syOH0Ob0UF6Mg2zxnSfzOx7zLThlcD2IsDtyvciIvnCIZjSuqKYc9Ju5M0K7b+FLGNpSJtdRCTq9A1JGkTDYeZuios=;nrNos0TqAOBfx3AOsLVtBw=="
+secured: "lRugMBjFrce+FVlEowR9gTPMy/Kox2cwmSvcyg/v8WGGfU2MSCM4DzVe6ZHPK3ZeDv5NoQm7O78tuxY5BV3zNgzySzvUeBilDQxDqF53U/edrUi/ztCzYngVZ9PQSdeFyO0rDz96RrxHKZGu37jWK08ySYsmp8ntqr0lk5q7obxggJjCs6cLDdjYSDMAve0lcyfTQa5aIksGXXMz8AySYmTI1tFp0/8zBXHirXWxB6gfBpq0atpBBz+texqjzzz2dzYmMp4WjIU9ccQcjyGpd7ZDUnMlikWD1LZ6RX+fUng94z6I5J3T3gDKoCZO1BJ2MZA1youNmsPYJiwkvCoFIAAjIFWIu2JubwNfXy/lIvO5alT9vWWyLlqUI0dqaVtZm1UP9NHNM0AhRshQG6g89iQnS1s8Ef7d0dp7MhmVct1mJop8AfznETqBCqs4z3hU1djkTD1At0ihcpwflm4hEgwr0AlLKyOzzdSacvchDtFut43PYMdppqzujweO6APdxozIuAgbFbOhagNU6L1HRw==;1+m+55YUf2RJnfuSqO3I/w=="
 ---
 

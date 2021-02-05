@@ -27,97 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "As Kamala Harris Makes History, Twitter Creates @SecondGentleman Account"
-    excerpt: "The microblogging platform will archive the Trump Administration's tweets, but a major dispute over Donald Trump's followers remains between the platform and President-elect Joe Biden."
-    publishedDateTime: 2021-01-15T04:41:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1"
+  - title: "Kamala Harris: 'We are going to be inaugurated'"
+    excerpt: "Vice President-elect Kamala Harris on Monday night emphasized that she and President-elect Joe Biden will be inaugurated on January 20th. She was responding to a question about efforts by some Republicans to contest the election."
+    publishedDateTime: 2021-01-05T10:33:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1708768/secondgentleman-douglas-emhoff-twitter-account-kamala-harris.jpg"
-        width: 2500
-        height: 1787
-        isCached: true
-  - title: "For friends and allies of Kamala D. Harris, deadly Capitol attacks prompt fresh fears"
-    excerpt: "Pride in the achievement of Harris, soon to be the first Black woman sworn in as vice president, is now mixed with concern for her safety"
-    publishedDateTime: 2021-01-14T16:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/harris-fears-safety/2021/01/13/bbd3d31a-54ff-11eb-a817-e5e7f8a406d6_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/harris-fears-safety/2021/01/13/bbd3d31a-54ff-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/harris-fears-safety/2021/01/13/bbd3d31a-54ff-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WJYTDSCR6MI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Twitter launched a @SecondGentleman account for Vice President-elect Kamala Harris' husband"
-    excerpt: "DOW S&P 500 NASDAQ 100 Twitter has added @SecondGentleman to its roster of official political handles as the husband of Vice President-elect Kamala Harris prepares to become the first male second spouse in US history. President-elect Joe Biden touted the ..."
-    publishedDateTime: 2021-01-16T17:22:00Z
-    webUrl: "https://www.businessinsider.com/twitter-launches-secondgentleman-for-vp-harris-husband-doug-emhoff-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/twitter-launches-secondgentleman-for-vp-harris-husband-doug-emhoff-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-launches-secondgentleman-for-vp-harris-husband-doug-emhoff-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/60018f2ee4db430018933a94?width=1200&format=jpeg"
-        width: 619
-        height: 309
-        isCached: true
-  - title: "Kamala D. Harris’s most trusted adviser: her sister Maya"
-    excerpt: "Kennedy had Bobby, Joe Biden’s sister Valerie once ran his campaigns and Ivanka Trump has been one of the president’s most visible advisers. Kamala D. Harris has her younger sister, Maya Harris. The two are not only extremely close;"
-    publishedDateTime: 2021-01-11T17:55:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/2021/01/11/maya-kamala-harris-sister/?arc404=true"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: USA Today
+      domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/resizer/k3ZQvOTLDBZO9_bKaTcrxAw1380=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MEDDNWFIAUI6TEQUERXFSTPF2U.jpg"
-        width: 1484
-        height: 989
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/e9f154b5-0846-4da4-a08a-0022190056a2-d795040e-4df7-428e-955d-7feb21a4554c_thumbnail.png?quality=10"
+        width: 852
+        height: 480
         isCached: true
-  - title: "Howard University rallied around Kamala Harris. Now the community will watch her take office as vice president."
-    excerpt: "Amid threats of violence and an explosion of coronavirus cases, Howard University students and professors celebrate Harris’s ascent."
-    publishedDateTime: 2021-01-16T12:06:00Z
-    webUrl: "https://www.washingtonpost.com/local/education/howard-university-kamala-harris-inauguration/2021/01/15/52414b3e-5762-11eb-a08b-f1381ef3d207_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/education/howard-university-kamala-harris-inauguration/2021/01/15/52414b3e-5762-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/education/howard-university-kamala-harris-inauguration/2021/01/15/52414b3e-5762-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+  - title: "'It’s a lot of pressure.' As Kamala Harris visits Georgia, voters brace for a Senate runoff that is riveting the nation"
+    excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah just days before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
+    publishedDateTime: 2021-01-04T12:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/4124373001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124373001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ARXQTHBYCEI6PKYDVIU7MVXRHY.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/40d7eacb-8ee7-4152-bc0d-e67001ba07ce-Kamala3.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Kamala Harris' Alpha Kappa Alpha line sisters talk about early years of the future vice president"
-    excerpt: "Vice President-elect Kamala Harris has never been shy about sharing her love for her sorority, Alpha Kappa Alpha Sorority, Inc. Three of her line sisters joined \"CBS The Morning: Saturday\" co-host Michelle Miller at Howard University to talk about the early days of the future vice president of the United States."
-    publishedDateTime: 2021-01-18T14:49:00Z
-    webUrl: "https://www.cbsnews.com/video/kamala-harris-alpha-kappa-alpha-line-sisters-talk-about-early-years-of-the-future-vice-president/"
+  - title: "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school"
+    excerpt: "The sit-in is framed by advocates for reopening schools as a call against \"discrimination in the access of education in California.\""
+    publishedDateTime: 2021-01-12T14:34:00Z
+    webUrl: "https://www.houstonchronicle.com/bayarea/article/Berkeley-parents-sit-in-Kamala-Harris-elementary-15864609.php"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Houston Chronicle
+      domain: houstonchronicle.com
     quality: 92
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/18/8ac05a46-726e-453a-b591-78b522a8cf2c/thumbnail/1200x630/e76aea1af920dcde609f99ae7a08020b/cbsn-fusion-kamala-harris-alpha-kappa-alpha-line-sisters-talk-about-early-years-of-the-future-vice-president-thumbnail-628541-640x360.jpg"
+      - url: "https://s.hdnux.com/photos/01/16/05/13/20468433/3/rawImage.jpg"
+        width: 2048
+        height: 1352
+        isCached: true
+  - title: "Kamala Harris' 'Fweedom' story mirrors MLK account"
+    excerpt: "Vice President-elect Kamala D. Harris told a story about her participation as a little girl in a civil rights march that mirrors an account told by the Rev. Martin Luther King."
+    publishedDateTime: 2021-01-04T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/4/kamala-harris-fweedom-story-mirrors-mlk-account/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/4/kamala-harris-fweedom-story-mirrors-mlk-account/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/4/kamala-harris-fweedom-story-mirrors-mlk-account/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/24/biden_12584_c0-144-6000-3644_s1200x700.jpg?27e50771f2f943659768081f91235199f3ce7ce5"
         width: 1200
-        height: 630
+        height: 700
         isCached: true
   - title: "Oakland Restaurant Week returns — with Kamala Harris specials"
     excerpt: "Oakland Restaurant Week is back, with a new emphasis for this coronavirus era and some specials honoring native daughter Kamala Harris. With the pandemic hitting the food industry hard, the Visit Oakland organizers of the 11th annual event have added a new focus on the broader culinary community — roundups of caterers,"
@@ -135,38 +103,6 @@ related:
         width: 1024
         height: 781
         isCached: true
-  - title: "Kamala Harris Says Police ‘Let Extremists Storm the United States Capitol’"
-    excerpt: "We don’t need another rhetorical arsonist at work in Washington. Our country is in a bad enough situation as it is."
-    publishedDateTime: 2021-01-07T21:54:00Z
-    webUrl: "https://www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/"
-    ampWebUrl: "https://www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 73
-    images:
-      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/kamala-harris-transition-headquarters.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "From Howard to VP: Kamala Harris' Alpha Kappa Alpha Sisters Keep Her Centered"
-    excerpt: "She was a Howard University senior working toward a career in public service, mature thanks to her four years on campus and committed to strengthening the bond with her line sisters. She was none other than Vice President-elect Kamala Harris."
-    publishedDateTime: 2021-01-19T17:57:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-alpha-kappa-alpha-sorority-sisters-keep-her-centered-from-howard-university-to-the-vice-presidency/2838228/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-alpha-kappa-alpha-sorority-sisters-keep-her-centered-from-howard-university-to-the-vice-presidency/2838228/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/kamala-harris-alpha-kappa-alpha-sorority-sisters-keep-her-centered-from-howard-university-to-the-vice-presidency/2838228/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 72
-    images:
-      - url: "https://media.nbcnewyork.com/2021/01/AKA-group-photo.jpg?crop=0px%2C662px%2C4032px%2C2268px&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "In a 50-50 Senate, Kamala Harris can sign off on $2,000 stimulus checks and more"
     excerpt: "Kamala Harris suddenly has been handed all kinds of power to get people $2,000 stimulus checks, provide money to fight climate change and win confirmation of President-elect Joe Biden’s nominees. Because Georgia Democratic Senate candidates Ralph Warnock and Jon Ossoff won Tuesday,"
     publishedDateTime: 2021-01-07T13:00:00Z
@@ -183,63 +119,34 @@ related:
         width: 1197
         height: 720
         isCached: true
-  - title: "Pokin Around: Galena city Facebook page posts, then removes hateful meme of Kamala Harris"
-    excerpt: "Galena's FB page boasts, \"Galena is the definition of Small Town America.\" After seeing a screenshot of the meme, I pray that's not true."
-    publishedDateTime: 2021-01-13T00:00:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/local/ozarks/2021/01/13/galena-removes-hateful-kamala-harris-meme-city-facebook-page/4149598001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/4149598001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4149598001"
+  - title: "Democrats sweep Georgia runoffs, taking Senate control with Kamala Harris’ tie-breaking vote"
+    excerpt: "The result was a massive blow to Republicans, who have controlled both of Georgia’s Senate seats for 15 years."
+    publishedDateTime: 2021-01-06T14:57:00Z
+    webUrl: "https://bangordailynews.com/2021/01/05/national-politics/democrats-win-1st-of-2-georgia-runoffs-but-need-a-sweep-for-senate-control/"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 66
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 44
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/13/PSPR/11dada89-2bdc-4efd-80d8-47d7ac243385-desktop.JPG?auto=webp&crop=548,309,x0,y56&format=pjpg&width=1200"
-        width: 1200
-        height: 677
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/01/Biden-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Will Kamala Harris as vice president finally change how corporate America sees and treats Black women?"
-    excerpt: "Kamala Harris is the first Black and South Asian woman elected to the nation's second-highest office. Advocates hope corporate America takes note."
-    publishedDateTime: 2021-01-20T09:35:00Z
-    webUrl: "https://www.desmoinesregister.com/story/money/2021/01/20/kamala-harris-corporate-america-black-women/4213945001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/4213945001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4213945001"
+  - title: "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school"
+    excerpt: "A group of Berkeley parents are preparing to stage a sit-in at Vice President-elect Kamala Harris' elementary school to demand that schools reopen \"as soon as public health officials deem it safe,\" according to a news release."
+    publishedDateTime: 2021-01-12T18:39:00Z
+    webUrl: "https://www.chron.com/bayarea/article/Berkeley-parents-sit-in-Kamala-Harris-elementary-15864609.php"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 59
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 42
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/b3fd0232-3ab3-4b12-a045-181f80234537-AP_Biden.jpg?auto=webp&crop=3106,1748,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.hdnux.com/photos/01/16/05/13/20468433/3/rawImage.jpg"
+        width: 2048
+        height: 1352
         isCached: true
-  - title: "Trailblazer Kamala Harris: America's First Woman Vice President"
-    excerpt: "Kamala Harris smashed through one of America's highest glass ceilings Wednesday, becoming the first woman, first Black American and first person of Asian heritage to be appointed vice president, blazing a trail in the most diverse White House ever."
-    publishedDateTime: 2021-01-20T23:06:00Z
-    webUrl: "https://www.ibtimes.com/trailblazer-kamala-harris-americas-first-woman-vice-president-3126954"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/former-vice-president-and-democratic-presidential-nominee-joe.jpg"
-        width: 1024
-        height: 701
-        isCached: true
-  - title: "I’m an American teenager of South Indian descent. Here’s what Kamala Harris means to me"
-    excerpt: "Seeing Kamala Harris about to become U.S. vice president has largely fulfilled a childhood dream of mine, writes 15-year-old Disha Cattamanchi. \"Although I only see her through a TV screen, I see so much of myself and what I"
-    publishedDateTime: 2021-01-14T14:00:00Z
-    webUrl: "https://www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/"
-    ampWebUrl: "https://www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 47
 
 secured: "ifRKBZXd7dI8UG/uh9x956CxtAnBn64GN68deKAvRKlcW3L1zvZ3j2u9EKioq0M2s/fDTqE3hhF+vhdZiu24hi3uR/akUdbsAzjSlrPT2uY2XKcD26WX5OP/Zom0lTNso6biqppL4MubQpMcvL9dk5mqEH3yXZBt/JDV/nRAWofks0y41ilQlQLoPIxjO5LxU3D1Xm1PmN5WgjE3rRd6vxr2/P1uL0oAgNdu1e6+gP289bMnj2uJXwHkDF1N+xhYGmbA4Axcy4mYWKjBOWXR6fvdM+t2veYqhiC2QqjtIClpfZqXFb77bff8ywYWETNmWWEysnglYHkfTvhgse25xvxE6x5TmpEcTAPQH6pv00tAvdpppXC+JkGFBoTBqoiqd/Po14cSgPcZ8WjpN7JoZlKCQKvn3RBBZI5v8A/ef5/TaVPacNBRz0Tf1e0uDlIun5LWK3frghPR2vVUieCgnstNeVY4r6hDReWq+wL3iMNNQOKmsWzhwnJoA0fKbuqgHbiVS7QKnMUpszyvg8giAg==;wX9gY5Pk3O8adcldd9V8ww=="
 ---

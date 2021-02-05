@@ -66,7 +66,7 @@ related:
   - title: "U.S. Senate committee backs Biden nominee to be U.N. ambassador"
     excerpt: "The U.S. Senate Foreign Relations Committee on Thursday backed President Joe Biden's nomination of veteran diplomat Linda Thomas-Greenfield to be the U.S. ambassador to the United Nations, steering her toward confirmation by the full Senate."
     publishedDateTime: 2021-02-04T20:52:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-un/u-s-senate-committee-backs-biden-nominee-to-be-u-n-ambassador-idUSKBN2A426C"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-un-idUSKBN2A426C"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A426C"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A426C"
     type: article
@@ -75,7 +75,7 @@ related:
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550341840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131CV"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550395148&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131CV"
         width: 817
         height: 545
         isCached: true

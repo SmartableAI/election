@@ -2,115 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2021-01-13-watch-rep-torres-emotional-plea-to-mike-pence.md",
-      "title": "Watch Rep. Torres' emotional plea to Mike Pence",
-      "excerpt": "Rep. Norma Torres (D-CA) makes an emotional plea to Vice President Mike Pence during a House debate on a bill which would call for President Trump to be removed by the 25th Amendment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/politics/2021/01/12/norma-torres-mike-pence-attack-on-democracy-nr-vpx.cnn",
-      "originalUrl": "https://www.cnn.com/videos/politics/2021/01/12/norma-torres-mike-pence-attack-on-democracy-nr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210112122951-rep-norma-torres-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/01/12/norma-torres-mike-pence-attack-on-democracy-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/12/norma-torres-mike-pence-attack-on-democracy-nr-vpx.cnn",
-      "publishedDateTime": "2021-01-12T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-bette-midler-says-donald-trump-will-burn-down-the-white-house-before-he-leaves.md",
-      "title": "Bette Midler Says Donald Trump Will 'Burn Down' The White House Before He Leaves",
-      "excerpt": "\"How many more will die in the service of this mediocrity? And watch, he'll burn the WH down before he goes,\" Midler tweeted Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892",
-      "originalUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1673938/bette-midler.jpg",
-          "width": 3000,
-          "height": 2023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1",
-      "publishedDateTime": "2021-01-12T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-12-easy-for-joe-biden-to-heal-country-with-opposition-silenced-on-social-media-dave-rubin.md",
       "title": "Easy for Joe Biden to 'heal' country with opposition silenced on social media: Dave Rubin",
       "excerpt": "Big Tech censorship of President Trump and conservatives needs to be addressed now, or soon everyone will be silenced, Dave Rubin warned Tuesday.",
@@ -879,6 +770,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-12-kamala-d-harriss-most-trusted-adviser-her-sister-maya.md",
+      "title": "Kamala D. Harris’s most trusted adviser: her sister Maya",
+      "excerpt": "Kennedy had Bobby, Joe Biden’s sister Valerie once ran his campaigns and Ivanka Trump has been one of the president’s most visible advisers. Kamala D. Harris has her younger sister, Maya Harris. The two are not only extremely close;",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/2021/01/11/maya-kamala-harris-sister/?arc404=true",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/2021/01/11/maya-kamala-harris-sister/?arc404=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/k3ZQvOTLDBZO9_bKaTcrxAw1380=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MEDDNWFIAUI6TEQUERXFSTPF2U.jpg",
+          "width": 1484,
+          "height": 989,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-washington-monument-closes-through-bidens-inauguration-due-to-credible-threats.md",
       "title": "Washington monument closes through Biden's inauguration due to 'credible threats'",
       "excerpt": "The National Park Service said Monday it is suspending tours of the Washington Monument until Jan. 24 or longer due to \"credible threats\" from groups involved in the violence at the U.S. Capitol on Jan. 6.",
@@ -1361,6 +1304,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-trumps-search-for-online-outlet-just-got-tougher-parler-has-gone-dark.md",
+      "title": "Trump's search for online outlet just got tougher: Parler has gone dark",
+      "excerpt": "Site popular with far-right went down, at least for now, after it was yanked by Google, Apple and Amazon in wake of the siege of gthe Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/parler-down-aws-web-hosting-trump/",
+      "originalUrl": "https://www.cbsnews.com/news/parler-down-aws-web-hosting-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/11/b27e4e69-acf8-4d8e-8e6b-445025ba0a4f/thumbnail/1200x630/3995c5476ca7ad949ef9c36c8489aaf5/gettyimages-1230529588.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/parler-down-aws-web-hosting-trump/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/parler-down-aws-web-hosting-trump/",
+      "publishedDateTime": "2021-01-11T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

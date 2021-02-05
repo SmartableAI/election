@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Biden set to accept more refugees after years of Trump restrictions"
-excerpt: "U.S. President Joe Biden will seek to raise annual refugee admissions to 125,000 in the coming fiscal year, he said on Thursday, a more than eight-fold increase after former President Donald Trump slashed levels to historic lows."
-publishedDateTime: 2021-02-05T04:48:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-refugees-order-idUSKBN2A42HN"
-webUrl: "https://www.reuters.com/article/us-usa-biden-refugees-order-idUSKBN2A42HN"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
+excerpt: "U.S. President Joe Biden said on Thursday he plans to raise annual refugee admissions to 125,000 in the coming fiscal year, a more than eight-fold increase after former President Donald Trump slashed levels to historic lows."
+publishedDateTime: 2021-02-05T08:53:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-refugees-order/update-7-biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSL1N2KA23K"
+webUrl: "https://www.reuters.com/article/usa-biden-refugees-order/update-7-biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSL1N2KA23K"
 type: article
-quality: 140
+quality: 120
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550411081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1406U"
-    width: 818
-    height: 545
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210205&t=2&i=1550411081&r=LYNXMPEH1406U&w=800"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -2574,6 +2572,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "6CR1Mvj2n3//hyQ4ain1cHfX9stbgqWMP+76kGoWkdfhYaScgUvLbPPJQ6yGS7cc/k2FrA4jpsh8c/CdAGVoDGZm6lObKqjGIUz8CXw5/0ypLSlIG8n06akfgv4yvDpSDQrxhnmPYKVYMx5T1d2F8cFUjCaAOSOWtD7iYpl/aqRQx9wIkYEVmJDWYSDfn9OZA2ZO5JEEmtYgqIRPvj67HH1z8R3Dic5ZEkYFVaHrNgMdG3hbs4mgbHJmiJ428d6TJM/xNVwyEzQyo5s1o+EiNlxeKzFkydvczHuUI79ifNIseUXEAV7cGa1y7NFRgJYMki8eyAtuHAPXxBNpLQD2LRNTsfttjTQN7Tq0MMCjtiY=;FjKawxSuinN7aonRfC+xAA=="
+secured: "Wa28h41rCdDErhKHBXGJgHdtlzcOSamwAlm1Q2wfUyHs+QesYbCnK/Uim6DcqMF3XgRn5QizUFzrmUCPAhbC0Aq8cy3rgHBgy/iEa8hE7Bv6N6peSQDtE8eYIXbZy5l9QqBKylJ9wESCftr1KQ4KR9A6/7o3RRyKZRKKRfIUS1id7zWNV+WeKsvaLe3HGyrwz+WqWCZSas2GkesaYX5eVZdnf0RqUoiRiim3KTG+g75p4NYg93ZUBSr6jjArfmFf3B3sSfhTr9bd5LMlMZhgLo+oqmZjtb+vrJtwhpDSS02l7osPmnsipDkZyHeJYaASlTyxpu8QvB+yyd7imCbfTJOAgE0rYYliUmEfoxDYHTA=;KyQqOvURMJcbXXx5ogsWlw=="
 ---
 

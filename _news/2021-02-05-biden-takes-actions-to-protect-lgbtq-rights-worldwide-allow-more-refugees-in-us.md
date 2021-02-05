@@ -61,6 +61,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden flexible on who gets aid, tells lawmakers to 'go big'"
+    excerpt: "President Joe Biden is encouraging Democratic lawmakers to “act fast” on his $1.9 trillion COVID-19 rescue plan but also signaling he’s open to changes, including limiting the proposed $1,400 direct p"
+    publishedDateTime: 2021-02-04T17:30:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-flexible-aid-tells-lawmakers-big-75675714"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-flexible-aid-tells-lawmakers-big-75675714"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-flexible-aid-tells-lawmakers-big-75675714"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_747ba5ac4dcd410db074d67237b45fbb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fact check: Ted Nugent shared but did not write ‘letter to Biden’ that went viral"
     excerpt: "Social media posts, shared thousands of times, show a text attributed to Ted Nugent which is addressed to President Joe Biden that says: “This Trump supporter will be giving you the same respect you gave my President Trump."
     publishedDateTime: 2021-01-25T23:24:00Z

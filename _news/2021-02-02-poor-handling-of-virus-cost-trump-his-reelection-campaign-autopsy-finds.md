@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden set to accept more refugees after years of Trump restrictions"
-    excerpt: "U.S. President Joe Biden will seek to raise annual refugee admissions to 125,000 in the coming fiscal year, he said on Thursday, a more than eight-fold increase after former President Donald Trump slashed levels to historic lows."
-    publishedDateTime: 2021-02-05T04:48:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees-order-idUSKBN2A42HN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550411081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1406U"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Trump raised $255.4 million in 8 weeks as he sought to overturn election result"
     excerpt: "President Donald Trump and the Republican Party raised $255.4 million in the eight-plus weeks following the Nov. 3 election, new federal filings show, as he sought to undermine and overturn the results with unfounded accusations of fraud."
     publishedDateTime: 2021-01-31T21:42:00Z
@@ -1166,6 +1150,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/susan-collins-ap-jef-210127_1611784510838_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden set to accept more refugees after years of Trump restrictions"
+    excerpt: "U.S. President Joe Biden said on Thursday he plans to raise annual refugee admissions to 125,000 in the coming fiscal year, a more than eight-fold increase after former President Donald Trump slashed levels to historic lows."
+    publishedDateTime: 2021-02-05T08:53:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-refugees-order/update-7-biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSL1N2KA23K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210205&t=2&i=1550411081&r=LYNXMPEH1406U&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Senate Republicans unite behind failed effort to challenge Trump impeachment trial"
     excerpt: "Forty-five Senate Republicans backed a failed effort on Tuesday to halt former President Donald Trump's impeachment trial, in a show of party unity that some cited as a clear sign he will not be convicted of inciting insurrection at the Capitol."

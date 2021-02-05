@@ -27,35 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "'Representation is important:' Local South Asian-Americans react to Kamala Harris' inauguration as vice president"
-    excerpt: "Kamala Harris may be the first woman to serve as vice president of the United States, but her inauguration last week also marked the first time an American of South Asian descent was elected to such a high national office."
-    publishedDateTime: 2021-01-26T23:37:00Z
-    webUrl: "https://www.chicagotribune.com/suburbs/park-ridge/ct-prh-kamala-harris-south-asian-community-tl-0128-20210126-cndkdij3rrgqfnw32eiohe6qzq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/suburbs/park-ridge/ct-prh-kamala-harris-south-asian-community-tl-0128-20210126-cndkdij3rrgqfnw32eiohe6qzq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/park-ridge/ct-prh-kamala-harris-south-asian-community-tl-0128-20210126-cndkdij3rrgqfnw32eiohe6qzq-story.html?outputType=amp"
+  - title: "Progressive Indian bistro Aurum opens in Los Altos with a Kamala Harris tribute feast"
+    excerpt: "Now in Los Altos, he has teamed up with Anupam Bhatia, the restaurateur who founded Broadway Masala in Redwood City, to open a contemporary Indian bistro called Aurum. After a soft opening, Aurum — the name,"
+    publishedDateTime: 2021-01-18T20:05:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/amp/"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 104
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 68
     images:
-      - url: "https://www.chicagotribune.com/resizer/UPr6Q60l0I58--VyC8AgXhAxoWk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZFT3MU6F6VBK7LNE3T4HL6RCQU.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-AURUM-0118.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "'Overjoyed with tears': South Texan helped create Kamala Harris' Inauguration outfit"
-    excerpt: "The purple outfit Vice President Kamala Harris wore on Inauguration Day had a South Texas connection. Arturo Castaneda Contreras, a Rio Grande Valley native, helped make the pattern and sewed the top coat Harris wore Wednesday for the historic day."
-    publishedDateTime: 2021-01-22T16:02:00Z
-    webUrl: "https://www.sfchronicle.com/news/local/article/Rio-Grande-Valley-native-helped-create-Vice-15889911.php"
+  - title: "‘We’re very proud’: Locals in Indian community say VP Kamala Harris is opening new doors"
+    excerpt: "Chella Mudhusam was born in Chennai, India, a small Indian village where Vice President Kamala Harris has ancestral roots. As the village chanted and celebrated her taking the oath for the U.S. office,"
+    publishedDateTime: 2021-01-24T22:12:00Z
+    webUrl: "https://www.nj.com/hudson/2021/01/were-very-proud-locals-in-indian-community-say-vp-kamala-harris-is-opening-new-doors.html"
+    ampWebUrl: "https://www.nj.com/hudson/2021/01/were-very-proud-locals-in-indian-community-say-vp-kamala-harris-is-opening-new-doors.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/hudson/2021/01/were-very-proud-locals-in-indian-community-say-vp-kamala-harris-is-opening-new-doors.html?outputType=amp"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 48
+      name: NJ.com
+      domain: nj.com
+    quality: 66
     images:
-      - url: "https://s.hdnux.com/photos/01/16/20/25/20514135/7/rawImage.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CQJXDL4EVFCLPP5QSU7D6YC4NM.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "8rO1GwbKxt4ejX1K0OSt/XoWeAfD2ctVZi5SgQj0lsRLHaENPLdgqbV9XehPRrOZD7hKygobWX4Y+N4qUjy+oYDm37f/d2GVFDU3QAL4gPi6DUTx4PQWrski+jZzfyRAslJLt1sox8b90DN3p+LLoE57LZho830JUNLAa0hwziR8kMz3L62RvvPyKxJE3tfk8T8Bg56LGiE9ahPpn6PwRmhr0pNOEgLYajPC4gaxnLUJJiIv7Ji/YoQWFnktNQeIiXRh8V1iI8N0Rflbukqjgzc/0J8l8pSGUlouEIkdSVLIpxY9zuqeke+4ve1Dyu7BI8kWLY40XX+EBpuMAWShZZqSXaiJygJhT6yB5a6Wbt6d9GRITrWHoTuzgxu0XkYbU/NkQus0zYw8kdkZy7E2mM+H4lG09/sijycypLrn/ppcFW1krfVRAIMCJNc9Ms070IJrB75gmEb/u3MRwAgzghJyZu4Dy/Iafd3xU3Elb/gNRwGf4D1ENVh7xSQ51v78yUNL81fnJ2K2gzwdR4YLaw==;l/umcda/BxfSsUcNDuyIUA=="

@@ -559,7 +559,7 @@
       "originalUrl": "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -647,58 +647,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-meet-vice-president-elect-kamala-harris-secret-weapon-her-sorority-sisters-from-alpha-kappa-alpha.md",
-      "title": "Meet Vice President-elect Kamala Harris' \"secret weapon\": Her sorority sisters from Alpha Kappa Alpha",
-      "excerpt": "Members of the country's first Black sorority, which the vice president-elect joined while at Howard University, discuss what Harris' success means to them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/",
-      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/18/0dcb3852-3893-4eea-aba2-b17aef12f5c2/thumbnail/1200x630/d0d2191d24775284db4e7ab5385a0414/alpha-kappa-alpha-sorority.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/",
-      "publishedDateTime": "2021-01-18T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -1336,6 +1284,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-health-of-the-nation-is-literally-at-stake-biden-vows-swift-action-on-vaccine-sites-supplies-100-million-shots.md",
+      "title": "'Health of the nation is literally at stake': Biden vows swift action on vaccine sites, supplies; 100 million shots",
+      "excerpt": "BIden will add clinics, bolster the public health workforce and invoke a wartime production law to ensure adequate vaccine supplies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2021/01/15/biden-add-clinics-and-supplies-complete-100-million-vaccine-shots/4174175001/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2021/01/15/biden-add-clinics-and-supplies-complete-100-million-vaccine-shots/4174175001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/12/USAT/4836ad86-bdf1-496c-b913-038525820561-Day_in_pictures_Jan._12_2021_03.JPG?auto=webp&crop=4862,2735,x1,y36&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4174175001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4174175001",
+      "publishedDateTime": "2021-01-17T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

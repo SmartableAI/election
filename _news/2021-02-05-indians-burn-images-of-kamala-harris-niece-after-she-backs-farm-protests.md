@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Indians burn images of Kamala Harris' niece after she backs farm protests"
-excerpt: "Vice President Kamala Harris’ niece defended her support for Indian farmers locked in a standoff with the government after pro-Parliament supporters burned photos of her on the streets of New Delhi on Thursday."
-publishedDateTime: 2021-02-05T02:51:53Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8RLEdM-lLwE/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8RLEdM-lLwE/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests"
+excerpt: "Vice President Kamala Harris’ niece defended her support for Indian farmers locked in a standoff with the government after pro-Parliament supporters burned photos of her on the streets of New Delhi Thursday."
+publishedDateTime: 2021-02-05T02:54:00Z
+originalUrl: "https://www.foxnews.com/politics/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests"
+webUrl: "https://www.foxnews.com/politics/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests"
 ampWebUrl: "https://www.foxnews.com/politics/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/indians-burn-images-of-kamala-harris-niece-after-she-backs-farm-protests.amp"
 type: article
-quality: 184
+quality: 134
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54258d7e-1687-4624-9f26-c873254ef60c/4bafd7a9-84b0-49f9-b06f-27d273544961/1280x720/match/image.jpg"
@@ -209,6 +209,6 @@ related:
         height: 320
         isCached: true
 
-secured: "BWF1Hhz7wV+elTVFopFU9Z3usiafa60IRE2GnyT4857tSsxgTu5Cl05O2JdGpkOXxX75/54uWORPwDNAFhyrHFUioIX9rbiXAL+N/tnqRaI1r8YWVmzPAnc+1wydW55X5fuj0Ot6iP8o+QxoXc4kiNfOXSbInWhDaXTcuLrnjD/A1KJlUiOFTYXEJTrVrRmiu9qXoHv7Hh0Ke+xS++SC+OXIawnBhhXu+KCaNnHkEFiR8Gg/odA9YU6m97tg7aCg4ynn5ZwG5coTLufML2C1RDJopPUcaLLwqQyRiimJmX56M3v1l/M77HbVL2D4Oy4g/K0wlvS5oQlsTExdgBV9tOnPl1tjUmOohG1wvTqYThU=;LzGbsl0PokpcCnPDXdy5eQ=="
+secured: "8ay71OY60mD4hnJqZLezM6Lzmc+75+yuo0pE47aZvCVFKWyoexpRNQH5Kyomze5rWYjlQ1B+k+DLGRT1VxcfB+DknFR0Eou5SL72znzEe5+rR1icLdHIOdct7fCS5LfGwo9Oac5OaVEVpq3jbs9OVsKRlNdGtj/zSWJsxJTClBzNqi5B5C/TsOebyj0ln2PwuKfT1jcr4bOG6fj9/514UuIbCETM2Xo0m40mLhGpTZMzU3SV8Z10DO7MXRVbzGOCL/kf2NX2x8U1ifb2KWqYUQIifmlQJbcFnKWoU6w4hIf/uVsPIup3JPlllFRdKhge7W8gsCz+TUogRVhJlRq3BZOvox725awASiMiT+BGjb4=;DxpRcEWxMotk/rl23rHUUQ=="
 ---
 

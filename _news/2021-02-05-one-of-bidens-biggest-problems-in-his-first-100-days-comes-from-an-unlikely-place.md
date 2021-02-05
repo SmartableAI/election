@@ -364,6 +364,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden urges Congress to pick up the pace"
+    excerpt: "President Joe Biden is stepping up his personal involvement in the Covid aid push, urging Democrats to quickly finalize the massive relief package. — Longtime Democratic health policy expert Chiquita Brooks-LaSure has emerged as the top contender to be Biden's CMS chief."
+    publishedDateTime: 2021-02-04T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/02/04/biden-urges-congress-to-pick-up-the-pace-793177"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "'We need to act fast': Biden, Democrats move to speed up process to pass Covid relief package"
     excerpt: "The steps taken by Biden and congressional Democrats indicated that they’re not going to wait around to negotiate with Republicans who want a smaller package."
     publishedDateTime: 2021-02-03T19:08:00Z

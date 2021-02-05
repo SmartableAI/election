@@ -3,8 +3,8 @@ category: news
 title: "U.S. Senate committee backs Biden nominee to be U.N. ambassador"
 excerpt: "The U.S. Senate Foreign Relations Committee on Thursday backed President Joe Biden's nomination of veteran diplomat Linda Thomas-Greenfield to be the U.S. ambassador to the United Nations, steering her toward confirmation by the full Senate."
 publishedDateTime: 2021-02-04T20:52:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-un/u-s-senate-committee-backs-biden-nominee-to-be-u-n-ambassador-idUSKBN2A426C"
-webUrl: "https://www.reuters.com/article/us-usa-biden-un/u-s-senate-committee-backs-biden-nominee-to-be-u-n-ambassador-idUSKBN2A426C"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-un-idUSKBN2A426C"
+webUrl: "https://www.reuters.com/article/us-usa-biden-un-idUSKBN2A426C"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A426C"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A426C"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550341840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131CV"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550395148&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131CV"
     width: 817
     height: 545
     isCached: true
@@ -112,6 +112,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "l0b9tWYkVlOqCB6wyJ+2STZd9r4JlBdaXzaNZyZgQN0CgeCRIhIbGKx8hwis+dhYgerScz0KVoWBL9R8PytS4u8PwZkHwN1avom9yhKgPxFb5zNpTkEP1hddzkbKYwW7EFyLR6qwsvRGHAt7O4Q2kpPTfb51gJHWqfMPlt3eHib/1aX7K1drfkGQjaDCrSqCs89dSVDaoxmMsWvK4i4qh+37GZbbfnFqJelRg//lckV96sD05kCJr+BN58grvuZATpm1V2CYeeOwSCXiVDYNhh0xKEQoyGx2ufp8QSziuFwNeFygB5vCjZQKE4q9uVWD48SzZW/u9DwPA5LfJHxRIC8TNO1N30w6oM9P7vHjnzY=;EEhr9ctlJhIeirP92NdHrA=="
+secured: "pOLWOURqwZMSbRopfpgWYbiG2SpIxwtcA9RNrVthj9Dop5WLhAt13PYWti6UnsRVW1SCVZtZhFBIlyZvQeFyLRDB2xQkuAVSoBzZJfRMSdAIAgO94Vy/mwv14GHLwMpWiQI34d/lu/TZ/vSrVWDaYMkdWqbHdRd2L+Ox+DNNUstWaWuKgqlFxcZSTwiTi+jqdjGOtQwSeK46V4Hib2zQ539uhTw2zj8tL3tliuitsBA338yVrUmckV8OgBXnFjspgt9ZMzJ5yl+UCpjgMhGJBQWJVbOqf2emum8qoT9X9F7o+ul9Vpt6AFiuLZ8Fx69hs9hWMwKx6PRxSNjegpNksvTV+1PtKMQAxB+Eno4vwD8=;X9wL8JBNO35/LEnXLJNTBQ=="
 ---
 

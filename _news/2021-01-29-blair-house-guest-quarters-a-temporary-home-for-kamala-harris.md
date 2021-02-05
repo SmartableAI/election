@@ -670,6 +670,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "JD Greear urges pastors not to call VP Kamala Harris ‘Jezebel,' but to pray for her"
+    excerpt: "Southern Baptist Convention President J.D. Greear is urging pastors in the denomination to refrain from calling Vice President Kamala Harris “Jezebel” due to the racist connotations of the moniker. He is calling on them to honor and pray for her as an elected leader instead."
+    publishedDateTime: 2021-02-04T21:48:00Z
+    webUrl: "https://www.christianpost.com/news/jd-greear-urges-pastors-not-to-call-vp-kamala-harris-jezebel.html"
+    ampWebUrl: "https://www.christianpost.com/amp/jd-greear-urges-pastors-not-to-call-vp-kamala-harris-jezebel.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/jd-greear-urges-pastors-not-to-call-vp-kamala-harris-jezebel.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 69
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/13/73/137363_w_450_300.jpg"
+        width: 450
+        height: 299
+        isCached: true
   - title: "Q&A: Nichelle Nichols' pride in her sorority extends to Vice President Kamala Harris"
     excerpt: "Nichols first joined Alpha Kappa Alpha as an undergraduate at Morgan State University and is now the president of its local graduate, or alumni, chapter."
     publishedDateTime: 2021-01-31T12:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1370
+heat: 1390
 published: true
 
 provider:
@@ -674,6 +674,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/b519aa9c-2e56-419d-b46c-228a6887a74d/dd47c3d3-0d54-48fc-a407-5613900967df/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "JD Greear urges pastors not to call VP Kamala Harris ‘Jezebel,' but to pray for her"
+    excerpt: "Southern Baptist Convention President J.D. Greear is urging pastors in the denomination to refrain from calling Vice President Kamala Harris “Jezebel” due to the racist connotations of the moniker. He is calling on them to honor and pray for her as an elected leader instead."
+    publishedDateTime: 2021-02-04T21:48:00Z
+    webUrl: "https://www.christianpost.com/news/jd-greear-urges-pastors-not-to-call-vp-kamala-harris-jezebel.html"
+    ampWebUrl: "https://www.christianpost.com/amp/jd-greear-urges-pastors-not-to-call-vp-kamala-harris-jezebel.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/jd-greear-urges-pastors-not-to-call-vp-kamala-harris-jezebel.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 69
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/13/73/137363_w_450_300.jpg"
+        width: 450
+        height: 299
         isCached: true
   - title: "Q&A: Nichelle Nichols' pride in her sorority extends to Vice President Kamala Harris"
     excerpt: "Nichols first joined Alpha Kappa Alpha as an undergraduate at Morgan State University and is now the president of its local graduate, or alumni, chapter."
