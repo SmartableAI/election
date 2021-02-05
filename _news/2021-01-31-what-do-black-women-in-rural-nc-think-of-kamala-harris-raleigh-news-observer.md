@@ -245,22 +245,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden says he will seek to raise refugee cap to 125,000"
-    excerpt: "U.S. President Joe Biden will seek to raise the annual refugee cap to 125,000, he said during a speech at the U.S. State Department on Thursday."
-    publishedDateTime: 2021-02-05T01:14:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees/biden-says-he-will-seek-to-raise-refugee-cap-to-125000-idUSKBN2A42RK?edition-redirect=in"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42RK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42RK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550390311&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131NO"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Immigrants in sanctuary in churches hope Biden offers relief"
     excerpt: "Dozens of immigrants from Massachusetts to Colorado who have taken sanctuary as a last resort to stay in the U.S. are newly hopeful under President Joe Biden"
     publishedDateTime: 2021-02-04T18:06:00Z
@@ -397,6 +381,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1.CqSJ0CzLI/v1/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden says he will seek to raise refugee cap to 125,000"
+    excerpt: "U.S. President Joe Biden delivers a foreign policy address as Vice President Kamala Harris listens during a visit to the State Department in Washington, U.S. 4, 2021. REUTERS/Tom Brenner"
+    publishedDateTime: 2021-02-05T04:48:00Z
+    webUrl: "https://www.reuters.com/news/picture/biden-says-he-will-seek-to-raise-refugee-idUSKBN2A42RK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550390311&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH131NO"
+        width: 810
+        height: 539
         isCached: true
   - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
     excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
@@ -851,14 +849,14 @@ related:
   - title: "US Vice President Kamala Harris walks to mock swearing in"
     excerpt: "United States Vice President Kamala Harris walks to a mock swearing in of the new US Senators on Capitol Hill in Washington, DC on Thursday, February 4, 2021. Photo by Ken Cedeno/UPI ."
     publishedDateTime: 2021-02-05T01:23:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d1e438775bd6ff4033618bfb218eced9/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3a5a1fc635097f8ba33ed5213d22c6b0/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d1e438775bd6ff4033618bfb218eced9/HARRIS-SWEARS-IN-SENATORS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/3a5a1fc635097f8ba33ed5213d22c6b0/HARRIS-SWEARS-IN-SENATORS.jpg"
         width: 650
         height: 650
         isCached: true

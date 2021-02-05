@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Raskin says Trump’s refusal to testify at impeachment supports ‘his guilt’"
+    excerpt: "Rep. Jamie Raskin, D-Md., took former President Trump to task for refusing to testify at his second impeachment trial that many Republicans and Trump’s legal team have called a farce."
+    publishedDateTime: 2021-02-05T09:20:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dVW-EPfeaEc/raskin-says-trumps-refusal-to-testify-at-impeachment-supports-his-guilt"
+    ampWebUrl: "https://www.foxnews.com/politics/raskin-says-trumps-refusal-to-testify-at-impeachment-supports-his-guilt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/raskin-says-trumps-refusal-to-testify-at-impeachment-supports-his-guilt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
     excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."
     publishedDateTime: 2021-01-27T18:48:34Z

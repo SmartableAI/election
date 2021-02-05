@@ -109,6 +109,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Raskin says Trump’s refusal to testify at impeachment supports ‘his guilt’"
+    excerpt: "Rep. Jamie Raskin, D-Md., took former President Trump to task for refusing to testify at his second impeachment trial that many Republicans and Trump’s legal team have called a farce."
+    publishedDateTime: 2021-02-05T09:20:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dVW-EPfeaEc/raskin-says-trumps-refusal-to-testify-at-impeachment-supports-his-guilt"
+    ampWebUrl: "https://www.foxnews.com/politics/raskin-says-trumps-refusal-to-testify-at-impeachment-supports-his-guilt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/raskin-says-trumps-refusal-to-testify-at-impeachment-supports-his-guilt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Schumer says Dems could censure Trump if impeachment trial ends in acquittal"
     excerpt: "Few Senate Republicans have indicated a willingness to vote against Trump, making the 67-vote threshold required to convict him a dim proposition for Democratic leaders."
     publishedDateTime: 2021-02-02T21:30:15Z

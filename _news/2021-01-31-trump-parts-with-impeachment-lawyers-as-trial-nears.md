@@ -973,10 +973,10 @@ related:
         isCached: true
   - title: "Trump rejects Dems' request to testify at impeachment trial"
     excerpt: "Former President Donald Trump is rejecting a request by House Democrats to testify under oath for his Senate impeachment trial"
-    publishedDateTime: 2021-02-04T22:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    publishedDateTime: 2021-02-05T10:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
     type: article
     provider:
       name: ABC

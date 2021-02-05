@@ -45,6 +45,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "U.S. senators look to back up Biden administration over Myanmar coup"
+    excerpt: "U.S. Senator Ben Cardin (D-MD) asks a question to Secretary of State Mike Pompeo during a Senate Foreign Relations Committee hearing in Washington, DC, U.S. July 30, 2020. Greg Nash/Pool v"
+    publishedDateTime: 2021-02-05T03:07:00Z
+    webUrl: "https://www.reuters.com/news/picture/us-senators-look-to-back-up-biden-admini-idUSKBN2A42O8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550380543&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH131M5"
+        width: 810
+        height: 539
+        isCached: true
 
 secured: "/0vI6oqVGN7pz6ALPMq3Uh/67vLmb+K9KZyCFp2iTuVzGBMT8htGLkyqcGRLGmxZIWz7gxnqfLfLZLwBOMEQ3Pyj7Ls0JdidhO7JwxnsDcQfi6iUch23FsoZRJ0Hk6K62wYzmAmpE8pTD7dhrRm0pdEgrbwTu27iQmspL9G/PHdDKM3mGC2QS+8WDPQQT+rtalTWH64bi8XGnHJBbVpJA2/1XV3+ikLCpUZykNqqxhpiBKIapbwcXlGcBHoYp/X4BOehfJpbl5XFZhITgINhHn64kpZutnclXnVQZ1h1YlbbKzM+Q0RcCWzIs4aEpbyXWdQvAhhixcT/iuzI2lSU3ruuHR/aCZECoiMq2mZJ0v0ZZSUgXF+f1TmwoLBDQp96OW18fJrLeqzeXtZUU9nBqR+CpGxNz/8WsLz8LggeEPTAesBoGZRfiUguUcrQ6LbUyr4939TJbbBFl1Yjq8d6XajkqueGE3d2hYg5vfpCCsM115tIrUfcve5z08UtZEKcLCo+9px4zxZiwTlLKbryjQ==;IGVxlO1PPVPmkrJEAjxoaw=="
 ---

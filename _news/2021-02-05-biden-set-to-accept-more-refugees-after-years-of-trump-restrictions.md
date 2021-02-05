@@ -975,10 +975,10 @@ related:
         isCached: true
   - title: "Trump rejects Dems' request to testify at impeachment trial"
     excerpt: "Former President Donald Trump is rejecting a request by House Democrats to testify under oath for his Senate impeachment trial"
-    publishedDateTime: 2021-02-04T22:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+    publishedDateTime: 2021-02-05T10:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
     type: article
     provider:
       name: ABC
@@ -2572,6 +2572,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Wa28h41rCdDErhKHBXGJgHdtlzcOSamwAlm1Q2wfUyHs+QesYbCnK/Uim6DcqMF3XgRn5QizUFzrmUCPAhbC0Aq8cy3rgHBgy/iEa8hE7Bv6N6peSQDtE8eYIXbZy5l9QqBKylJ9wESCftr1KQ4KR9A6/7o3RRyKZRKKRfIUS1id7zWNV+WeKsvaLe3HGyrwz+WqWCZSas2GkesaYX5eVZdnf0RqUoiRiim3KTG+g75p4NYg93ZUBSr6jjArfmFf3B3sSfhTr9bd5LMlMZhgLo+oqmZjtb+vrJtwhpDSS02l7osPmnsipDkZyHeJYaASlTyxpu8QvB+yyd7imCbfTJOAgE0rYYliUmEfoxDYHTA=;KyQqOvURMJcbXXx5ogsWlw=="
+secured: "vymVxl2fBuM/HOFS/b2bpuYPnBu8R2atIxA6GYjOahyvM/r9npyYwSF3zrRLO5ClITdRxnmcY1dhhkwF1bgXrIb1xpR71QTHvKAvJVTp82NyYwH7OizYC4aFL37fR1c+sR/NLIrt+L6bKd64gUL/TSF4Y5jyCi7n8xL6XNV6ig6iHd2HvqANjuGcGqSNn6g///Ghnev1XMSoX96weEr+RU0cjqJguTCueA30XGVPAIZB23Xx2AeLGE91PjZtT4Na0hk/fby0qPk5HKbLteuCNTbzGhW/Lqui76102EnuKYrsDyFQaOZed83QvPkYrKw+OU7oRTatsPqNgz1ia4uvpD1rG3Gom9Os5F7qHjK3Mv8jlaZ74VDFuzuCRzgZZieI5UEstLoIa6siNUBeZq0e1pLlXQ/5qH50nahrSpOPQdd54PkTjvwrK3+i4wtah1vLyYc2yWl6JmMJaLpujhAs5Tr5ympRJKL6GyuLied0rfzMCuYQhrNwhWHL1+5NLK8PLyK5GRF7YlrNgY/Yi0bSJA==;L8lQwoiGzlbnCYgcM8O81w=="
 ---
 

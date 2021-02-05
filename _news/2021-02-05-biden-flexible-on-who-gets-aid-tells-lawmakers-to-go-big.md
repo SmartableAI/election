@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Biden flexible on who gets aid, tells lawmakers to 'go big'"
-excerpt: "President Joe Biden is encouraging Democratic lawmakers to “act fast” on his $1.9 trillion COVID-19 rescue plan but also signaling he’s open to changes, including limiting the proposed $1,400 direct p"
-publishedDateTime: 2021-02-04T17:30:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/biden-flexible-aid-tells-lawmakers-big-75675714"
-webUrl: "https://abcnews.go.com/Health/wireStory/biden-flexible-aid-tells-lawmakers-big-75675714"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-flexible-aid-tells-lawmakers-big-75675714"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-flexible-aid-tells-lawmakers-big-75675714"
+excerpt: "President Joe Biden is encouraging Democratic lawmakers to “act fast” on his $1.9 trillion COVID rescue plan but also signaling he’s open to changes, including limiting the proposed $1,400 direct paym"
+publishedDateTime: 2021-02-05T09:19:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/biden-yellen-gop-virus-aid-small-democrats-push-75651487"
+webUrl: "https://abcnews.go.com/Health/wireStory/biden-yellen-gop-virus-aid-small-democrats-push-75651487"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-yellen-gop-virus-aid-small-democrats-push-75651487"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-yellen-gop-virus-aid-small-democrats-push-75651487"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_747ba5ac4dcd410db074d67237b45fbb_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Health/WireAP_7be30a67cac145898a470f09494d88ed_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -105,6 +105,6 @@ related:
         height: 558
         isCached: true
 
-secured: "AikSyyawNXqDaoTBoBgPHhk2VLEtoyyqm4Y6u1ztZH8k6SxKfzQyyYaOlzIDlyeOM+7mGqNE1eBD4Cn7C58Ei53h4XGFegCHIxMqhZ7r0mru3M/4X9cXSnl5989wAf9gmlX4mxvzb3bQHgIW+4KkSTdj+SN3nlb4KaIIvtEIq6MVHr4QeDpu3BOg9hchRHYvnjLxS8n9d7X1OzhOOGgtU7FSMfHTpwtwgp5LCo3+B+Y4KeiWGRir31xEw7d8hfpMwMeNncQA9Ao50bYXpRGLbsUoGaFfSXEPwP93ZWbyCQPY+Ug3o7Abmrquda0Vjpmx70+HWZIxN0gzjKhNiC4Pbvgt/6dHWBAnrMoG8oAD+/Q=;vtWIEQUCZx5ecQFYcHmryw=="
+secured: "+QLJw203WDNKCb3U3pFFfOmIMCs5vOVoi6Ai0aL+EfVB2ZqZiC4ZhQPHnCnh+Z8Qo3rCxe2e4dq+b9IIRbuN7vYYfsW9RjEstsyMm8dtEyS2JPZjklG1Tv8EgGSXd3jlr7zrYbERH0gVl5m9Tnvsw8Tz9R23RCh9iwv7nW3NEQjgGFo2OSwdD3klMolN8Ett9g/VOsg4WkgezJcM+ky4vIgKjkDo04HkjFGDz/hE4NIyWRn/6WZ3ImdHaT0M8lt2cAKLy7sOjEz1arkUNg6ZXN8snSLamkOGrEnWnjz4eidUZg4LZeYukTbluAyF6r6yJ4G3r8TSgUAr4X9vdtW0a/ONAQPdZ/MafqoghvLiAOY=;T5skJWl8A+Ze8J3NDDZwzA=="
 ---
 

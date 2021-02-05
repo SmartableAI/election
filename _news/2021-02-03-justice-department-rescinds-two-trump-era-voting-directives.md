@@ -459,6 +459,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Big Trump donors converge on Newsom recall"
+    excerpt: "The campaign to recall California Gov. Gavin Newsom is gaining money and momentum in-state and beyond, with more GOP donors jumping aboard."
+    publishedDateTime: 2021-02-05T09:36:00Z
+    webUrl: "https://www.politico.com/news/2021/02/05/gavin-newsom-recall-donors-466069"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/89/79/67fb23974e06b8c109493de83d14/210204-newsom-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Pro-Trump lawyer Lin Wood under investigation for possible voter fraud in Georgia"
     excerpt: "Wood, who claimed the presidential election was stolen, told an Atlanta-based reporter that he has lived in South Carolina \"for several months.\""
     publishedDateTime: 2021-02-03T09:17:00Z

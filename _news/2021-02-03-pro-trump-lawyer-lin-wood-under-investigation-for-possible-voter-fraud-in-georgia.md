@@ -474,6 +474,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Big Trump donors converge on Newsom recall"
+    excerpt: "The campaign to recall California Gov. Gavin Newsom is gaining money and momentum in-state and beyond, with more GOP donors jumping aboard."
+    publishedDateTime: 2021-02-05T09:36:00Z
+    webUrl: "https://www.politico.com/news/2021/02/05/gavin-newsom-recall-donors-466069"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/89/79/67fb23974e06b8c109493de83d14/210204-newsom-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "SoYpGkCEo63X0bWamftzEKXzI8Mm9Sl+jzbmsuTfdpuRu/VuS/kLfSNhLdfXeDKdGdRTvn060qLwBV3fPpx8EnbbApqywOuN/5vQSvZlsYtnM0B2SkO57ZYq/JMaWzKtv7MlRoItoljLSFsu3KgXly53eVjX9wYUmRW8n6Gsn6IRN0bNR+BuEQ/NKECvHluSp5YQvbewNXwl+PzB/K15bstLEMSBAEWARZeIqenO7MXEhDb3dZ6rn4yN2GTzNGHIapVeKIZSwfF5ruQGtsXZBvH+XVPa4yZBUgpKMYyXqTOsygS4SvJ5nzc/hvGO9mZUviS54JmsMKeZEZT5XOWc+6T8RDWWicVxSNdOQInP5ztOKMKmj3vTj0LSpnX1TvIElERdbaKFVniJJ83CL4x0+Vb2BH6M7I11wO1IRwcGgOA/bYwvtJn3J9z/qrNR9ye6HmU82knvXfd/DZwJDw8J2NEzrItBdQFDBdRRznR1x0Ott6/c0Q4q8IvISs3+BNKGnb6BEAmtuI2bpYqThcVplQ==;bvUqUNCgkzCGj/eGxKRzsw=="
 ---

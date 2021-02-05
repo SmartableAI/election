@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Biden says he will seek to raise refugee cap to 125,000"
-excerpt: "U.S. President Joe Biden will seek to raise the annual refugee cap to 125,000, he said during a speech at the U.S. State Department on Thursday."
-publishedDateTime: 2021-02-05T01:14:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-refugees/biden-says-he-will-seek-to-raise-refugee-cap-to-125000-idUSKBN2A42RK?edition-redirect=in"
-webUrl: "https://www.reuters.com/article/us-usa-biden-refugees/biden-says-he-will-seek-to-raise-refugee-cap-to-125000-idUSKBN2A42RK?edition-redirect=in"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42RK"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42RK"
+excerpt: "U.S. President Joe Biden delivers a foreign policy address as Vice President Kamala Harris listens during a visit to the State Department in Washington, U.S. 4, 2021. REUTERS/Tom Brenner"
+publishedDateTime: 2021-02-05T04:48:00Z
+originalUrl: "https://www.reuters.com/news/picture/biden-says-he-will-seek-to-raise-refugee-idUSKBN2A42RK"
+webUrl: "https://www.reuters.com/news/picture/biden-says-he-will-seek-to-raise-refugee-idUSKBN2A42RK"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550390311&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131NO"
-    width: 817
-    height: 545
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550390311&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH131NO"
+    width: 810
+    height: 539
     isCached: true
 
 related:
@@ -845,14 +843,14 @@ related:
   - title: "US Vice President Kamala Harris walks to mock swearing in"
     excerpt: "United States Vice President Kamala Harris walks to a mock swearing in of the new US Senators on Capitol Hill in Washington, DC on Thursday, February 4, 2021. Photo by Ken Cedeno/UPI ."
     publishedDateTime: 2021-02-05T01:23:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d1e438775bd6ff4033618bfb218eced9/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3a5a1fc635097f8ba33ed5213d22c6b0/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d1e438775bd6ff4033618bfb218eced9/HARRIS-SWEARS-IN-SENATORS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/3a5a1fc635097f8ba33ed5213d22c6b0/HARRIS-SWEARS-IN-SENATORS.jpg"
         width: 650
         height: 650
         isCached: true
@@ -956,6 +954,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "9ZOtJhwHcAKi2j5qHV0ObcVR4TAZZx9OFrhlhXT1EiGXW++3YxB8N90QM38P+UF5v0LGR8403YIQpHNmkPMqlE/kV/ZEjLkYEJpyyJX/nU/f+LT8kzPNtBjxXBR7dqSOUtG2kZ6q3D9WYQ9oIwXBTqRJQO+0Fm64dzWe2vkH/DxQ6y6kMN5ocxjLSCx13laChSaFlDEKcZaYfviGk5lKfVMHnc3fSvnPfZD4kw32qK4SpcAp3FAXxuWgg1mWzXjENMmDs0nHO7PzIwFNGFnUdlaajpZdLKxc8ZtJfwHw7BO/lM61xHO7PLkvrM97Mgw536gOwT/AMLKmKUyMux1/iKoj1WtRqLVNVyqlP9STakg=;Yk7SCjRM4Ryh7CtjO198+g=="
+secured: "i9TJ73QS/vKGXn/xLeuHPTJonWdu/eWKTKZWXfDq+EP0g+VlZI8VB8xObiwQudeVqeQ9jWu4DzW0Q15AqGK6ZuLAB+GqO4igZfR8AN25i9Lk9XO9vZkjta6HsC9+ex26+0fBr+6f524TX5c0axQpzVxw/Hda+rfnzBYDnj5Rc+/wY5gRiKSAGX2nWA8Q3LtTL/cosqBhW8K03aw7a6hXzNQzwg5GRFr0KqCZh26CGhwludw4N9iY1gI4i7DShcitH6otVgl9oX3dtMsiUOljI/qJM6Lvuztef81GD3KcNM55jZcQKwCYdFSA/6Qx+ok/Jz4ABCKF+pvMOIF/LEjp7OCM3mfPtnhOb85B0kAnZJs=;E66br6Ydw6eUUQZbpGKd1A=="
 ---
 

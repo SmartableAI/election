@@ -2,11 +2,11 @@
 category: news
 title: "Trump rejects Dems' request to testify at impeachment trial"
 excerpt: "Former President Donald Trump is rejecting a request by House Democrats to testify under oath for his Senate impeachment trial"
-publishedDateTime: 2021-02-04T22:33:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-webUrl: "https://abcnews.go.com/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-dems-trump-testify-oath-impeachment-case-75687371"
+publishedDateTime: 2021-02-05T10:47:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
 type: article
 quality: 125
 heat: -1
@@ -2572,6 +2572,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9Lx0cRO4gMkNkQ1PqLnX9Nm8olPDv1JFh4RumVgIf4waR/L6gAqGrQSth3huauCkNQjGugcPKnHzALaazv8dx2cVxY6GTeKQH7cxhKdbZ/+vIKcM09jDHb0/T5OI9GH44srb+IBJbLeu/gePtFFQS2uzVVi0rEUi0dx0v/A0sA6f8Es4xmg+XLkyK91NRn29pdxDhfRvFFoqZs56uHeOMD6qfZB7JtI2GmGdtvBnEB9jeVUzaRV9fdv4wHzbYn8vKLTwMvtvKjTGgJf9ij6Ei/PJsP/r5wsf+jjchl+YfcQg1cQKUbb21tcrK29w9Y6/lo7VmttMYhy0Nj/Wl5U0PsrSprgQ4VkAiHnY7ETHs8UGf11my58/HMdfTOmfBLZJb+FLSvObDti2Y3IkAsVXjcfE+zhfOWLpAqz2amvKlDIZcJX87DKWsTwfijVjhcrHI7Q1Z1a3sUaAfZztzSrKwrR70nCDu48MnKClHVhNEfMUs899ZwpA4dS33s4o31LPTMQanJokz9G6EAtYdjwT+Q==;8JLBXyVbW3ga0Ya6XP7pQw=="
+secured: "TEltaJ1dzBL9qgK3cW8F3Ebos9IrNPcNokdcC8d0HcNBwGs9LCbuB0CqPGl0S2pBoypAAw1HVLcLmHcbdBx9sj/xFibrKURJjGocnjJHTWejLhDYV7hI6ylgg7Z5aKbsBvyEoSORuEKo7qs6OvsXjqCeqmLBFGlx3NsMZpgIm1Njm5cprnQRkNFdI2HmsulTituC2h4GmcURNUTdbqBogK1jWOgY19JaOPMTr4iz7IeDgRIZY8VO4zq52aufHWE6uAIxhCE1AdfFFMYZA+Jui6Lmolf9NqTIfk5dkkFsiAcyErQjHjB8EZjXoie/X2h8WoklhlD1gKOj7bUgKUxtpJi1VqSu7gmPF3XPXjQlwj4=;2/0w44yCebI/ZI/IA4xtuw=="
 ---
 

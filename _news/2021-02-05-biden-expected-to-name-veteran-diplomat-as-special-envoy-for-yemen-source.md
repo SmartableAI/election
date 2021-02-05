@@ -58,18 +58,18 @@ related:
         height: 779
         isCached: true
   - title: "Biden flexible on who gets aid, tells lawmakers to 'go big'"
-    excerpt: "President Joe Biden is encouraging Democratic lawmakers to “act fast” on his $1.9 trillion COVID-19 rescue plan but also signaling he’s open to changes, including limiting the proposed $1,400 direct p"
-    publishedDateTime: 2021-02-04T17:30:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-flexible-aid-tells-lawmakers-big-75675714"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-flexible-aid-tells-lawmakers-big-75675714"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-flexible-aid-tells-lawmakers-big-75675714"
+    excerpt: "President Joe Biden is encouraging Democratic lawmakers to “act fast” on his $1.9 trillion COVID rescue plan but also signaling he’s open to changes, including limiting the proposed $1,400 direct paym"
+    publishedDateTime: 2021-02-05T09:19:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-yellen-gop-virus-aid-small-democrats-push-75651487"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-yellen-gop-virus-aid-small-democrats-push-75651487"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-yellen-gop-virus-aid-small-democrats-push-75651487"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_747ba5ac4dcd410db074d67237b45fbb_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_7be30a67cac145898a470f09494d88ed_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

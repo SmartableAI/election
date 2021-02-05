@@ -3,8 +3,8 @@ category: news
 title: "US Vice President Kamala Harris walks to mock swearing in"
 excerpt: "United States Vice President Kamala Harris walks to a mock swearing in of the new US Senators on Capitol Hill in Washington, DC on Thursday, February 4, 2021. Photo by Ken Cedeno/UPI ."
 publishedDateTime: 2021-02-05T01:23:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/d1e438775bd6ff4033618bfb218eced9/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/d1e438775bd6ff4033618bfb218eced9/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/3a5a1fc635097f8ba33ed5213d22c6b0/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/3a5a1fc635097f8ba33ed5213d22c6b0/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/d1e438775bd6ff4033618bfb218eced9/HARRIS-SWEARS-IN-SENATORS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/3a5a1fc635097f8ba33ed5213d22c6b0/HARRIS-SWEARS-IN-SENATORS.jpg"
     width: 650
     height: 650
     isCached: true
@@ -249,22 +249,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden says he will seek to raise refugee cap to 125,000"
-    excerpt: "U.S. President Joe Biden will seek to raise the annual refugee cap to 125,000, he said during a speech at the U.S. State Department on Thursday."
-    publishedDateTime: 2021-02-05T01:14:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees/biden-says-he-will-seek-to-raise-refugee-cap-to-125000-idUSKBN2A42RK?edition-redirect=in"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42RK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42RK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550390311&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131NO"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Immigrants in sanctuary in churches hope Biden offers relief"
     excerpt: "Dozens of immigrants from Massachusetts to Colorado who have taken sanctuary as a last resort to stay in the U.S. are newly hopeful under President Joe Biden"
     publishedDateTime: 2021-02-04T18:06:00Z
@@ -401,6 +385,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1.CqSJ0CzLI/v1/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden says he will seek to raise refugee cap to 125,000"
+    excerpt: "U.S. President Joe Biden delivers a foreign policy address as Vice President Kamala Harris listens during a visit to the State Department in Washington, U.S. 4, 2021. REUTERS/Tom Brenner"
+    publishedDateTime: 2021-02-05T04:48:00Z
+    webUrl: "https://www.reuters.com/news/picture/biden-says-he-will-seek-to-raise-refugee-idUSKBN2A42RK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550390311&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH131NO"
+        width: 810
+        height: 539
         isCached: true
   - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
     excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
@@ -952,6 +950,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "pzXYpFw4yeSKn9p1LBAZwpD2Hn7RYVu2lOAIRQiX7yHC550h3o5d17tHbdvNDBfja47iVJWE9HCRLgwPDkTEXUQPSFQ+n/u4XGqPhG/s4Tb60K2NXJVihsqGeiPZJbL09LbtoZw0GRH46ts4wH1KiCX4F3BzwbeagN4TYSh1ADDzvU4uI/njVsH9708I9qWOHTcXQg32KWoTK1qAgS55AXHDZlc3HMNUaf3wBBfIVlCqGWQOhPwceuRe1ixqVExo3hGg0nJsUiwh6xqFp/5hnP9JHqhH396FXhda/7/szRy+YzPjEI/evOguFVjraKh7wboIsFDOFpaWo5BF3egwUAtnCdJxWaSOTTySIQx1SisOIQMoZCwCheZt3tL3K6ujc5QZplvOVrtgPrOq8SW7+/B+oqNB/htLOSlnJpxBPDRhFPAboxp5G8dfO3NHrLRrmHexvji2WGLAFCDqsY4nsbNbsfpndi22DoH2jtd1ySs2r3Pow2gm8COr5kSoAXTHSCE3Q+n1BdQ00YLj7uSuvg==;KwOlNUMl+uYwzCGM69WXIQ=="
+secured: "0eR+tOF3bET8sjUTgItag/kY6QYj+GA0Hb0+DLKKq87xCi/mn3yi1xvM5rO2tzeP3Ozav9WCiJHEaxKB1QduQa/1WdAmI730qbjl4BdX2VIRpa4AlOk/xDodSKJZq1bcfn/6tr0jw5S3NO0N9D97ivlU++jL0emi95vs+CGEMQ03ovKfySXrmy8t1J9MhWWGVWicPZIZ/uCC7CjgQm5JHsbJi+VH3MUe3zCRYg0UKgru4CpGrRJOVJ3JcofMzZtQBbFlKIHZ5wZJukImWJE34HjylgWPA/9nNpZ/lKU1d9OTcn4rP9EZSN+ZsANKrcqP358Mf9Gp5N9Y6Ggg+k9DtpWhIEH02fxfnQTlzHHOBDU=;SgpjVju80yxYYpb6RjbdnQ=="
 ---
 
