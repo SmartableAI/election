@@ -831,6 +831,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP-NORC poll: Americans are split on Trump's impeachment"
+    excerpt: "About half of Americans say the Senate should vote to convict former President Donald Trump at the end of his impeachment trial"
+    publishedDateTime: 2021-02-05T13:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-americans-split-trumps-impeachment-75705408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-americans-split-trumps-impeachment-75705408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-americans-split-trumps-impeachment-75705408"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_089ac61ea1894086af10c800f34c3f09_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Democrats call Trump to testify in upcoming impeachment trial"
     excerpt: "Democrats had been weighing for weeks whether to seek Trump's testimony in his second impeachment trial, multiple sources familiar with the matter told ABC News -- a move that could force the 45th president to defend his comments on Jan."
     publishedDateTime: 2021-02-04T23:48:00Z

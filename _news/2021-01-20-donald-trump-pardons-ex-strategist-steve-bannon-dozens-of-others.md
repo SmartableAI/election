@@ -209,6 +209,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump’s presidency comes to an end: ‘We will be back in some form’"
+    excerpt: "1:01 ‘Have a good life, see you soon’: Trump offers final remarks as president before departing on Air Force One Donald Trump pumped his fist and waved as he departed the White House on Marine ..."
+    publishedDateTime: 2021-01-20T16:46:00Z
+    webUrl: "https://globalnews.ca/news/7587673/donald-trump-leaves-white-house-last-time-us-president/"
+    ampWebUrl: "https://globalnews.ca/news/7587673/donald-trump-leaves-white-house-last-time-us-president/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7587673/donald-trump-leaves-white-house-last-time-us-president/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 55
   - title: "'It Was a Non-Event': Pro-Trump Protests Quiet Amid Massive Police Presence Across U.S."
     excerpt: "Trump Protests Quiet Amid Massive Police Presence Across U.S. HARRISBURG, Pa./LANSING, Mich. (Reuters) - Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
     publishedDateTime: 2021-01-19T04:13:00Z

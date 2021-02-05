@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1410
+heat: 1430
 published: true
 
 provider:
@@ -718,6 +718,22 @@ related:
     quality: 68
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/1/e2/1e2238fa-56c6-5772-9315-297ada382a4d/60162bbd9f213.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "U.S. Senate OKs fast-tracking coronavirus aid; Kamala Harris casts tie-breaking vote"
+    excerpt: "The Senate early Friday approved a measure that would let Democrats muscle President Joe Biden’s $1.9 trillion coronavirus relief plan through the chamber without Republican support. Vice President Kamala Harris was in the chai."
+    publishedDateTime: 2021-02-05T14:32:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_a9cc45b2-67ba-11eb-afca-27ef760e39f6.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_a9cc45b2-67ba-11eb-afca-27ef760e39f6.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_a9cc45b2-67ba-11eb-afca-27ef760e39f6.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 68
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/d/3d/d3d6da62-67be-11eb-b804-c756a4cefca6/601d56ef898c3.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
         isCached: true

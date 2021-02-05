@@ -340,6 +340,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Why Are Democrats Still So Scared of Trump?"
+    excerpt: "So why are the Democrats still afraid of him? Acco"
+    publishedDateTime: 2021-02-05T12:46:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/05/why_are_democrats_still_so_scared_of_trump_535200.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/533498_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Why the Trump Impeachment Trial Is Crucial"
     excerpt: "Frida Ghitis writes that Donald Trump's impeachment trial will help establish the record of fact for when willingness to face the truth arrives. Read Full Article »"
     publishedDateTime: 2021-01-26T12:39:00Z

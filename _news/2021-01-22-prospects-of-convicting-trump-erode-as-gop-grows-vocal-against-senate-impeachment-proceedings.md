@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump departs Washington a pariah as his era in power ends"
-    excerpt: "Donald Trump's era in Washington is over.\n    \n"
-    publishedDateTime: 2021-01-20T11:30:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-pAaA84YMu4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/donald-trump-leaves-white-house/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/donald-trump-leaves-white-house/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118170345-01-trump-era-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "New York Times: Trump allies have collected tens of thousands of dollars from pardon seekers"
     excerpt: "Allies and associates of President Donald Trump have collected tens of thousands of dollars in fees from those seeking pardons from the President, The New York Times reported Sunday.\n    \n"
     publishedDateTime: 2021-01-17T22:17:05Z

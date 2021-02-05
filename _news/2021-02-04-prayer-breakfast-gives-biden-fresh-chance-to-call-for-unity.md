@@ -1387,6 +1387,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden Makes It Clear He Won't Commit This Huge Trump Mistake"
+    excerpt: "Biden won't appoint his relatives to any position in the administration The president's children and grandchildren will not be given their own office The White House on Wednesday revealed new transparency and accountability measures In their first interview together at the White House,"
+    publishedDateTime: 2021-02-05T05:21:00Z
+    webUrl: "https://www.ibtimes.com/biden-makes-it-clear-he-wont-commit-huge-trump-mistake-3138281"
+    ampWebUrl: "https://www.ibtimes.com/biden-makes-it-clear-he-wont-commit-huge-trump-mistake-3138281?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/biden-makes-it-clear-he-wont-commit-huge-trump-mistake-3138281?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/19/us-president-elect-joe-biden-has-pledged-that.jpg"
+        width: 1024
+        height: 680
+        isCached: true
   - title: "Meet the Republican governor who is already on the attack against President Biden. Democrats have tagged him as 'Trump's errand boy.'"
     excerpt: "DeSantis is leading the pack of Republicans attacking Joe Biden, a plan that could help his 2022 reelection or, if he runs, 2024 presidential bid."
     publishedDateTime: 2021-02-03T19:34:00Z

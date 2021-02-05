@@ -348,6 +348,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Why Are Democrats Still So Scared of Trump?"
+    excerpt: "So why are the Democrats still afraid of him? Acco"
+    publishedDateTime: 2021-02-05T12:46:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/05/why_are_democrats_still_so_scared_of_trump_535200.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/533498_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "CWI357lQco8DI8hUU+k/kwi2OpX0TR3fCn1IrhY0AaPUgP0mXIm8LNKBkdaf26fUFukCsW2/d+o/8hoFikgY/qJAZ4PbSEFI37d1NRdsQmEYW2lHPfOUPXv0B6KBXQFEWRbp4gxJnKwEQ1MxCPBwYOQAHoYBHlMTACnP47+uqAmgaAZtsjlc/KYPU49iUcwLHGfuUCwDuIk63Km0bbNTFi7vJmehuL750yItx75kSX+wvhXWigToOhYaIzsYOs5RONmfRkZKzQWInyC9OXW5R/kBplgzJiKpUFV4EJ9ww9Srwjp18xWmupV1pnF0ISv3hfUreXProfDMCg2dl/XIn8hl1Y0bNf2gH3tfXQvYy1o=;Yer5AxEy8eX2kxJIa09kUw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A22MF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A22MF"
 type: article
 quality: 140
-heat: 3460
+heat: 3480
 published: true
 
 provider:
@@ -828,6 +828,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_1d511239c2524999a8bcea05fb26b7e6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "AP-NORC poll: Americans are split on Trump's impeachment"
+    excerpt: "About half of Americans say the Senate should vote to convict former President Donald Trump at the end of his impeachment trial"
+    publishedDateTime: 2021-02-05T13:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-americans-split-trumps-impeachment-75705408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-americans-split-trumps-impeachment-75705408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-americans-split-trumps-impeachment-75705408"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_089ac61ea1894086af10c800f34c3f09_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

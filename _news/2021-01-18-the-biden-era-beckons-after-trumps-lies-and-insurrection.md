@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3550
+heat: 3570
 published: true
 
 provider:
@@ -2222,6 +2222,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/15/multimedia/00xp-bible1/merlin_65105444_2a8500fc-dade-4f37-9959-f850dac31b59-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump departs Washington a pariah as his era in power ends"
+    excerpt: "(CNN)Donald Trump's era in Washington is over. The all-consuming, camera-hungry, truth-starved era that fixated the nation and exposed its darkest recesses officially concludes at noon Wednesday."
+    publishedDateTime: 2021-01-20T11:11:00Z
+    webUrl: "https://edition.cnn.com/2021/01/20/politics/donald-trump-leaves-white-house/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/donald-trump-leaves-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/donald-trump-leaves-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118170345-01-trump-era-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Biden Inaugurated as the 46th President Amid a Cascade of Crises"
     excerpt: "Joseph Robinette Biden Jr. and Kamala Devi Harris took the oath of office at a Capitol still reeling from the attack of a violent mob at a time when a deadly pandemic is still ravaging the country."

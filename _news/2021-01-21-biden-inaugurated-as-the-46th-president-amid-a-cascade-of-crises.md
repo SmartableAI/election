@@ -2240,6 +2240,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump departs Washington a pariah as his era in power ends"
+    excerpt: "(CNN)Donald Trump's era in Washington is over. The all-consuming, camera-hungry, truth-starved era that fixated the nation and exposed its darkest recesses officially concludes at noon Wednesday."
+    publishedDateTime: 2021-01-20T11:11:00Z
+    webUrl: "https://edition.cnn.com/2021/01/20/politics/donald-trump-leaves-white-house/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/donald-trump-leaves-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/donald-trump-leaves-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118170345-01-trump-era-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Joe Biden Became a Steady Hand Amid So Much Chaos"
     excerpt: "In recent months, Mr. Biden’s restraint with words and his refusal to take the political bait laid by President Trump show a level of discipline as the 46th president faces a cascade of crises."
     publishedDateTime: 2021-01-20T16:50:00Z

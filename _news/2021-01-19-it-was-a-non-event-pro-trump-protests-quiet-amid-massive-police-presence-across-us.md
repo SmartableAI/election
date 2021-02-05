@@ -223,6 +223,17 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Trump’s presidency comes to an end: ‘We will be back in some form’"
+    excerpt: "1:01 ‘Have a good life, see you soon’: Trump offers final remarks as president before departing on Air Force One Donald Trump pumped his fist and waved as he departed the White House on Marine ..."
+    publishedDateTime: 2021-01-20T16:46:00Z
+    webUrl: "https://globalnews.ca/news/7587673/donald-trump-leaves-white-house-last-time-us-president/"
+    ampWebUrl: "https://globalnews.ca/news/7587673/donald-trump-leaves-white-house-last-time-us-president/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7587673/donald-trump-leaves-white-house-last-time-us-president/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 55
 
 secured: "moMAfG+kJ32D8Vv+dnY703vemIELE2d22q5j3KX0lDRygGuHNiS20DV39EgWYzu+B3aN6rKeDIc2evlflgni5kS/3fYh/beLAPLIG1WzHw13fqN6JgWGBZGPx5l56fN/Io3nitE1KgJCiaN5V9DncHKtX8pyFxl/r62bqHIZX57eYK1MXpPj/xRDoexfFAij2Y+t361/7ZVA/7kM4TaTfkW0J651oGJDIrIaGVOwygvjpNWUZGDPNMW/iz3KGPctO0KMqmwY3B9bNGOqvsNAQpC8IrWm+whNBQznMnmgAs5RUPWtWB3ehir1z+UfdMf0auxnXgFZYzJFMqvV5S186qP08E+86Mi76sKGaJuyycVgNZDmzLReYQx2XQwWOFSbh4MXbynS+vZ+CrsUn65vAUfym4AaVfP7i8TWqje8MtA0t1IlbMNDE86bfpnVBsWdL0lcLuxN0MhUzoeKhhilk4X0WyB0RSD5rc0cV7MaALH6SQQVQyLaDsnpkcvZO3SgXhtx+SgBd2KU727I0OgQPQ==;jxZhOldxhzjRf11vE6XAEw=="
 ---

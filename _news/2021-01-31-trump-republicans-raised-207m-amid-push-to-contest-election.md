@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-republican-fundraising-after-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-republican-fundraising-after-election.amp"
 type: article
 quality: 190
-heat: 610
+heat: 630
 published: true
 
 provider:
@@ -340,6 +340,20 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/53/532922_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Why Are Democrats Still So Scared of Trump?"
+    excerpt: "So why are the Democrats still afraid of him? Acco"
+    publishedDateTime: 2021-02-05T12:46:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/05/why_are_democrats_still_so_scared_of_trump_535200.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/533498_5_.jpg"
         width: 750
         height: 500
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-admin-calls-climate-change-is
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden Must Fire Psaki"
+    excerpt: "Progressives demand that conservatives practice tolerance -- at all times -- and if they dare to say or post anything on social media that strays"
+    publishedDateTime: 2021-02-05T12:15:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/534354_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "JIMnJgwTDO9JdtjAAWuP0HVAv+1rYBEJPtIMBf3YUYak0dR1AcQAdZJcvJ7UznNUEyiKPBq9sBRA0OBuzdwudPGdTwWBSZxTBfmF4ookow6j8nVmSsHJRvS/GEoVPRXQcZIjS4SmM0hr8QtnVu8raUfZzZBriUqnrzghKy66HK93KD4K+5FBgT/5S6Q0fpVCAaSBFgjjriDtd6mOte2KtTVaLGThAInTWIl56UxY40X0X9dkPqaC/DHUDJ6FkjYKeB9zS4knYn2z8IW1zXz+Nkoe6PsGBqKn/kJBX4ADTvthhGVIj8uJLeALfsRmJCK3ovbadV7V/gjfvJyGVf+spAvrrYJ2Di8Mb98DGQhaygs=;0Arzk9o/v0uK1fo++8UzWw=="

@@ -847,6 +847,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP-NORC poll: Americans are split on Trump's impeachment"
+    excerpt: "About half of Americans say the Senate should vote to convict former President Donald Trump at the end of his impeachment trial"
+    publishedDateTime: 2021-02-05T13:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-americans-split-trumps-impeachment-75705408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-americans-split-trumps-impeachment-75705408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-americans-split-trumps-impeachment-75705408"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_089ac61ea1894086af10c800f34c3f09_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump resigns from SAG-AFTRA after union moves to expel him"
     excerpt: "SAG-AFTRA announced on Jan. 19 that it would hold a hearing on whether to expel the former president. In a statement responding to Trump’s resignation, the union said simply: “Thank you.” Trump had been a member of the guild since 1989,"
     publishedDateTime: 2021-02-04T19:18:00Z

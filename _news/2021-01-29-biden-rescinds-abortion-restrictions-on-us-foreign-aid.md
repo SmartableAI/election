@@ -280,6 +280,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Germany Hails Biden's Move to Halt Trump-Ordered Troop Cuts"
+    excerpt: "The German government has welcomed President Joe Biden’s decision to formally halt the planned withdrawal of U.S. troops from Germany."
+    publishedDateTime: 2021-02-05T12:16:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-02-05/germany-hails-bidens-move-to-halt-trump-ordered-troop-cuts"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-05/germany-hails-bidens-move-to-halt-trump-ordered-troop-cuts?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-05/germany-hails-bidens-move-to-halt-trump-ordered-troop-cuts?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
     excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"
     publishedDateTime: 2021-02-02T20:04:00Z

@@ -208,6 +208,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "VP Kamala Harris Breaks 50-50 Tie To Pass Budget, COVID-19 Relief Bill In Senate"
+    excerpt: "Vice President Harris cast her first tie-breaking votes early Friday morning helping Senate Democrats pass a budget resolution that greenlights them passing coronavirus relief without GOP support."
+    publishedDateTime: 2021-02-05T14:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/05/vp_kamala_harris_breaks_50-50_tie_to_pass_budget_covid-19_relief_bill.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+    images:
+      - url: "https://assets.realclear.com/images/53/534405.jpg"
+        width: 1676
+        height: 1117
+        isCached: true
 
 secured: "2Mf28vGQmYuCSPAMZKtB5q4OIzKCIv7Z4RlnV0ezaxtref0021ZAR4mGZcPsm5Q/fQ4PtCwc8PeZGEERqVgFsznK8Ssw4nB52JJKHsFuK3tMohhPHgDgSKyTVA1KOBNvfMc+g5AW0ppZdUmUpP24lbO9o5u3V7ldUEqTx6e42wh5ZfmGoe6zVUqzapQNH5VvJkGmqdh6cjShzCkcpWOf2iJR7dbd1QInw573VSzjrMQK1P88Pz5x2KVj7tRR4RnpkAUeOIjNYbDhKNwsGZKfjxtMQJn3kq71I9WHVEkHRUVpzREM8gaWbepfhncW08ywWKNEgf9Oe13hdwlT4dMMCqnZPk+ezk2rB2MFNCdvdTh49TkJZT8ObJ+1crDZ0tJLjFpN2dUxxIV7Y5iObEt7LwPRYANKu+BSEdchr0+aVyGj9YNAeXmWvF13Nh9tY/b5Cm9pT05aEdKs+mn5WSushOv+/nR/TO5i6HtVqgpXNd7l0gUOOxtHOthhs8J0ET6hoj98m/WfJCqp1cdCoEQGww==;7u/3npn/pw874nRsCuhvIg=="
 ---

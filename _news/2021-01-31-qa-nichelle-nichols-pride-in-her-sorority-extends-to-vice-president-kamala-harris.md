@@ -716,6 +716,22 @@ related:
         width: 450
         height: 299
         isCached: true
+  - title: "U.S. Senate OKs fast-tracking coronavirus aid; Kamala Harris casts tie-breaking vote"
+    excerpt: "The Senate early Friday approved a measure that would let Democrats muscle President Joe Biden’s $1.9 trillion coronavirus relief plan through the chamber without Republican support. Vice President Kamala Harris was in the chai."
+    publishedDateTime: 2021-02-05T14:32:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_a9cc45b2-67ba-11eb-afca-27ef760e39f6.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_a9cc45b2-67ba-11eb-afca-27ef760e39f6.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_a9cc45b2-67ba-11eb-afca-27ef760e39f6.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 68
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/d/3d/d3d6da62-67be-11eb-b804-c756a4cefca6/601d56ef898c3.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Here's what Vice President Kamala Harris told The Republic about COVID-19 relief plans"
     excerpt: "Vice President Kamala Harris advocated for the Biden administration's American Rescue Plan legislation in a virtual meeting with The Arizona Republic."
     publishedDateTime: 2021-01-28T23:36:00Z

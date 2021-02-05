@@ -185,6 +185,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Ohio Republicans after Donald Trump: Where does the GOP go from here?"
+    excerpt: "COLUMBUS – After four-and-a-half years of red \"Make America Great Again\" caps, raucous rallies and news-making tweets, the Republican party no longer belongs to former President Donald Trump."
+    publishedDateTime: 2021-01-22T09:22:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2021/01/20/ohio-republicans-after-donald-trump-where-do-they-go-here/4180075001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4180075001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4180075001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/NCOD/ab823e34-7c14-402b-8182-209be57029dd-Election_2020_Trump_57553.j.JPG?auto=webp&crop=5102,2870,x0,y259&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "GOP to stay neutral if Trump runs in 2024, but wants his help in 2022"
     excerpt: "\"What I really do want to see him do, though, is help us win back majorities in 2022,” said RNC Chair Ronna McDaniel."
     publishedDateTime: 2021-01-28T03:57:00Z

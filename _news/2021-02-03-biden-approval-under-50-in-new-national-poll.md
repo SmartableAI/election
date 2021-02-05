@@ -175,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden Must Fire Psaki"
+    excerpt: "Progressives demand that conservatives practice tolerance -- at all times -- and if they dare to say or post anything on social media that strays"
+    publishedDateTime: 2021-02-05T12:15:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/534354_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "4I6kuBExuY5BECKgmrwCdUM3IV3V88eTWzfMeqD+hF4FzfYBFayyZXkRPH9MKlLpzF6byQMasexJptjaRIffcBzmXaK6OP1BoaSAW2nu+CXgX3+q13Eqr8IQjwr3mIxvi37p5HnBs639p/oJ4WZ2pd8umr4ksclGvbJxCR8dEm/gMZIe2EaaWoHMvJx2XC8sv6kLIIkQz6EiRiVoUE6CAUeJwa1QCSnvR9JaUBTSd0LAtdP8kPgqr7mGs3UDpQqjCDrq/MLdefYxto92On/ljomeFXZyXzLP0WQiWGia9+SG993NKYGCIWV1LOGLH+zL92mSQOFOMe7uzV601ZjyFPS1SKtlMp/rHdutldF8pcI=;bpSqf2f22pOLF9eWY2xgkA=="
 ---

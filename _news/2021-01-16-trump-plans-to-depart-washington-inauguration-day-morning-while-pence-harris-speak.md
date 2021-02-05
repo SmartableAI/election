@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-in
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
 type: article
 quality: 158
-heat: 4158
+heat: 4178
 published: true
 
 provider:
@@ -2279,6 +2279,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/2781611146989/2021/1/cf996d31798bff5bddd38c61db337836/v1.5/Kamala-Harris-reflects-on-women-who-paved-the-way-for-historic-inauguration.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Joe Biden, Kamala Harris Inauguration Day updates | Biden vows to defeat ‘domestic terror, white supremacy’"
+    excerpt: "At age 78, he was the oldest President inaugurated. More history was made at his side, as Kamala Harris became the first woman to be Vice-President. The former U.S. Senator from California is also ..."
+    publishedDateTime: 2021-01-21T12:10:00Z
+    webUrl: "https://www.thehindu.com/news/international/joe-biden-inauguration-day-2021-kamala-harrisunited-states-live-updates/article33615652.ece"
+    ampWebUrl: "https://www.thehindu.com/news/international/joe-biden-inauguration-day-2021-kamala-harrisunited-states-live-updates/article33615652.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/joe-biden-inauguration-day-2021-kamala-harrisunited-states-live-updates/article33615652.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 72
+    images:
+      - url: "https://www.thehindu.com/news/international/7zqikl/article33620433.ece/ALTERNATES/LANDSCAPE_615/bidenjpg"
+        width: 615
+        height: 384
         isCached: true
   - title: "Fact check: Vice President Kamala Harris used 2 Bibles when she was sworn in"
     excerpt: "After the vice president's swearing-in ceremony, some claimed Harris refused to rest a hand on the Bible while taking the oath of office. That is false."

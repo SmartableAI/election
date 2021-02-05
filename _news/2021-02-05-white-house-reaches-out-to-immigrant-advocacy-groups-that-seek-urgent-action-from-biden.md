@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden White House wants to use the Super Bowl to advance message on Covid, vaccines "
+    excerpt: "President Joe Biden's urgent goal of tackling the Covid-19 pandemic depends heavily on persuading Americans to get the vaccine as quickly as possible and educating the public about the virus -- and his top aides have been eyeing this weekend's Super Bowl as an opportunity to score some points.\n    \n"
+    publishedDateTime: 2021-02-05T13:48:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqRDiFIlRks/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/biden-white-house-super-bowl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/biden-white-house-super-bowl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204214958-super-bowl-tampla-florida-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Covid telework cuts dozens of Biden national security staff off from classified materials"
     excerpt: "Since President Joe Biden took office last week, many White House national security staffers have been relegated to working from home -- cutting dozens of them off from vital classified materials needed to do their jobs and raising security concerns as most work from unsecure laptops and cell phones"
     publishedDateTime: 2021-01-28T15:17:19Z

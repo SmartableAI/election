@@ -720,6 +720,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "U.S. Senate OKs fast-tracking coronavirus aid; Kamala Harris casts tie-breaking vote"
+    excerpt: "The Senate early Friday approved a measure that would let Democrats muscle President Joe Biden’s $1.9 trillion coronavirus relief plan through the chamber without Republican support. Vice President Kamala Harris was in the chai."
+    publishedDateTime: 2021-02-05T14:32:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_a9cc45b2-67ba-11eb-afca-27ef760e39f6.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_a9cc45b2-67ba-11eb-afca-27ef760e39f6.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_a9cc45b2-67ba-11eb-afca-27ef760e39f6.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 68
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/d/3d/d3d6da62-67be-11eb-b804-c756a4cefca6/601d56ef898c3.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Here's what Vice President Kamala Harris told The Republic about COVID-19 relief plans"
     excerpt: "Vice President Kamala Harris advocated for the Biden administration's American Rescue Plan legislation in a virtual meeting with The Arizona Republic."
     publishedDateTime: 2021-01-28T23:36:00Z
@@ -970,6 +986,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "FrkCNL8MQrShyKMC51a4uoA20aJCZ7eazc11Lzg/Qn25EJWrMoD1cHIiYWZT/HMm512k0rxuYjMJHZ2r0aUYWiDyXow3Ai6Vz1zE23sanwjYGNi5lIlzxDJIbj5yX3VEK3owMHftCnWT9uavWj6n6nCpRqQgbImuKQy8hFAOPFY07xVp/BrRuNPkCDBYbuWlhVzf7DSox6GP4bRtvmfN08523dX+znUMWP63CbJGQ6TxNwLz19bdaRsSSFLp8Mw4ClqvDFirOi0lOe8dZ5CNhfUAGrS4E/xcw1bC2Z0+kfMB2GjKk//8wQjpVR5eCVPpTFAZtYuPWyjIV5KGp+uXO6pt4nqWw8wFVMnltMsRmxY=;ZzS/wyMkJNXJp8zhFRFd6w=="
+secured: "fZWm5i59hehC7DVLnf8pnyAZS/HbHPyfwqxtw93eUPhmpQaJPHbvAZOu2iYGalOpweL9acbJ7nWEWZkyl+9IbT076HxZLjwZ4X4Gh7bixuZy6gt0VJIvcwpkkT+HR4Ig1zYrtUKQbAfnaIPFsH1mFkama+JrrfuhjPhSBZlyOfmdowAUbZ8MtbBlnf8OIwVPI/xS5W+JuhvpGlkSf99Y5/IGtPpt8lLAxG4deDmiiW7co+jyEDRKfvlCWpebkFwCGRq6oeknBRgmcGH5v6Lo1ASVCRWD1imW6jZp/zAdSV5K95/Op3hHEcv/wPW0Km5S+9MN7EiC64mADIW8V4dK3k4Qt3Kgno630Wcn2MVFHvkg9uyKsi/R1RyzurbMbx0Vqb0ANRYA9ikDuEv3sFG8r8kQncXv7pxwsI8KfqbGVL6Zc7JehOICQ2/7WdZizYfl/FeYGkp8w1hRAMSlLHfsFratd1HFwC5cBfhFvWwZYveOrjo3m20KognE2vyIBvua9ZoRRvBT9Xxwj9VhyObq9w==;cYf+3kEINTp348J5vqOLrg=="
 ---
 

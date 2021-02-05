@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-optics-issue-kamala-har
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-optics-issue-kamala-harris-niece.amp"
 type: article
 quality: 185
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -207,6 +207,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020678397504.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "VP Kamala Harris Breaks 50-50 Tie To Pass Budget, COVID-19 Relief Bill In Senate"
+    excerpt: "Vice President Harris cast her first tie-breaking votes early Friday morning helping Senate Democrats pass a budget resolution that greenlights them passing coronavirus relief without GOP support."
+    publishedDateTime: 2021-02-05T14:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/05/vp_kamala_harris_breaks_50-50_tie_to_pass_budget_covid-19_relief_bill.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+    images:
+      - url: "https://assets.realclear.com/images/53/534405.jpg"
+        width: 1676
+        height: 1117
         isCached: true
 
 secured: "NwbcemSdh5qQDBO0MevpUdFGW5ZM90POqLgx2k0z5DnLWgxu23sQbjoN3koVOO8O6UHoxVdKx2m8bFr0zDkekYxNNKPEbHG0SikQeNPIT2yrzykIoAs/aiKTGkGmONLYtka8hCTm2yPsPEXiysfxOi3kJkID0ntO6f94OKtl4zkAmeR1cJ3+/NdP4pCKBjM/qEnC7WD8qeJWTwrXLug6e9JURywtKhD6QfVHA1PmbWF3wAaQIJTwZIaeMhONPx495Xk4OPWCDwTGi3rzCkEmQLGfZAhfozm+q3nm2Q6NyPMIST7sgGIPvGNrDPFundqrspH+tIK4/P6uodQVmf1NwZtYDBA6UOQ44k2sAV80NVo=;kl/6g1Mom5fUV872fpQKqA=="

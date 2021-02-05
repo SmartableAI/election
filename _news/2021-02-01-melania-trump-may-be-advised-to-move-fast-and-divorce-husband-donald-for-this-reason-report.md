@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/melania-trump-may-be-advised-move-fast-divor
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-may-be-advised-move-fast-divorce-husband-donald-reason-report-3134439?amp=1"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 83
+published: true
 
 provider:
   name: International Business Times
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 668
     isCached: true
+
+related:
+  - title: "Melania Trump 'Dominates' In Her Relationship With Husband Donald, Couple Has Well-Established Bond"
+    excerpt: "Melania Trump dominates in her relationship with husband Donald Trump, and she has always been there to remind him of the rules."
+    publishedDateTime: 2021-02-05T03:03:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-dominates-her-relationship-husband-donald-couple-has-well-established-3138149"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-dominates-her-relationship-husband-donald-couple-has-well-established-3138149?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-dominates-her-relationship-husband-donald-couple-has-well-established-3138149?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 61
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-and-his-wife-melania-left-washington.jpg"
+        width: 1024
+        height: 668
+        isCached: true
 
 secured: "nP6GOFmFqgu9IW7XNgr9d+UVlvgOfEau4eE5xOxjG+TwGUqEUYTmLm8eCaYRMKKrkm5bcnTYLcOi1B4Z7/eXl1gA1zhZLi/hCYDCdL+j5Wna/YFsO4GiomB52x7J2XQ9gQL48DDGHC2fzrBcmgXskZl4oXpt1esV+7aGx+5r1vhJQjhJMlJMYeM3Tj7L70EX1RhsakQQ4nl6SGyZIuhEHiVplmZoyA8ko133ovotlf7ZWO0viI5Wqyg9zceQ6ksxcqxJBmGGxRFUWa9fctGlDjlfKRxkCU9wN2+qRjtuyOwTVMZnZ2Wdzc2OMvk12Z2i8qd+Ldgz/NMuZ01Zbi66GjcTcHJf7BlrI0TDxoNHS+jSKFWux438ZMlx4GOW9El8U6ZLRJRldYnShl3d3FEPepSDsGzhhnwkKjGOXtCOJe1G+9XOiHVnLomyEd1X+0iXbCbvpZXLPR13dRaFdJt7sM3V/wHS5NW7PQSi0Pbxzavm5LHLtY5DoJE6kEONTy4CM9M2rn/GDVFedwaanBBrLA==;ueL5jcz3gzug/9wLCNbcHg=="
 ---

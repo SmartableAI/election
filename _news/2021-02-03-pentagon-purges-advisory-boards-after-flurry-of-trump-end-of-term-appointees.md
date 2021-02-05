@@ -290,6 +290,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Germany Hails Biden's Move to Halt Trump-Ordered Troop Cuts"
+    excerpt: "The German government has welcomed President Joe Biden’s decision to formally halt the planned withdrawal of U.S. troops from Germany."
+    publishedDateTime: 2021-02-05T12:16:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-02-05/germany-hails-bidens-move-to-halt-trump-ordered-troop-cuts"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-05/germany-hails-bidens-move-to-halt-trump-ordered-troop-cuts?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-05/germany-hails-bidens-move-to-halt-trump-ordered-troop-cuts?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
 
 secured: "3Mm1bHWY4eaBdhH8gLz01UPJI/8qV0dDgJH+rcbk9LMFa/wLhk9dR+UNkRZRAmSGSf58ow1k7MND55wGSIPM5PK4FD30v9Ign4Putfg68mDee1d4I9riNMFbduDt5IQIu61OgeB1Ljm89APnXn49+17IJ7yRtAOHbdeTqnNAzX63fnxvTCJ97bP4ZJ6xuK7jORN8gj6XAUmKj2RpX9W2ZH2noS/gjVpFuBZdLNuh3ieT9jt+2sLbenJKa/pvcXIYLnRuMnDBlQO5pvU5PqvyM4bec1m49mMQTGP9syoEN5A9GmNA/c+qXi1brbaTaBC81mNd7HBfuYESu5U0tDhq+0tnSzKoCwjWuYQJkMQvUg2x1/76zIOXz/w6jrEjHSgIvvaPrDPMWPB3isRdWOldvsrVA/lAkxiwLFcLVjDXffpitCBu5WSS/2WlrtoTbNzEbh6v4t/iQjfnKPMv3xALoD2UY93LTrYMrujzQUQzAShplStJuGMXdtll8LDz0h+dv8B18sRSgaRsgITSeXJpTQ==;OZKbIx5qikVYP/WS2+VDfQ=="
 ---
