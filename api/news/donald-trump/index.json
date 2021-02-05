@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-05-biden-returns-prayer-breakfast-to-lofty-tone-after-disruption-of-trump-years.md",
-      "title": "Biden returns prayer breakfast to lofty tone after disruption of Trump years",
-      "excerpt": "Biden spoke at the National Prayer Breakfast on Thursday about unity and faith — a year after Trump, at the same event, brandished newspaper headlines and took shots at his adversaries.",
+      "path": "_news/2021-02-05-germany-hails-bidens-move-to-halt-trump-ordered-troop-cuts.md",
+      "title": "Germany hails Biden's move to halt Trump-ordered troop cuts",
+      "excerpt": "The German government has welcomed President Joe Biden’s decision to formally halt the planned withdrawal of U.S. troops from Germany",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-prayer-breakfast-trump/2021/02/04/0d0479bc-66fb-11eb-886d-5264d4ceb46d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-prayer-breakfast-trump/2021/02/04/0d0479bc-66fb-11eb-886d-5264d4ceb46d_story.html",
+      "webUrl": "https://abcnews.go.com/International/wireStory/germany-hails-bidens-move-halt-trump-ordered-troop-75704395",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/germany-hails-bidens-move-halt-trump-ordered-troop-75704395",
       "featuredContent": null,
       "highlight": null,
-      "heat": 517,
+      "heat": 280,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JCGG3KCHY4I6XLBKHLAPFOGO5M.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://s.abcnews.com/images/Politics/WireAP_f29e1ef193c246ae82a994393a6eb404_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-prayer-breakfast-trump/2021/02/04/0d0479bc-66fb-11eb-886d-5264d4ceb46d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-prayer-breakfast-trump/2021/02/04/0d0479bc-66fb-11eb-886d-5264d4ceb46d_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-04T20:49:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/germany-hails-bidens-move-halt-trump-ordered-troop-75704395",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/germany-hails-bidens-move-halt-trump-ordered-troop-75704395",
+      "publishedDateTime": "2021-02-05T04:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -114,7 +114,7 @@
       "originalUrl": "https://www.washingtonpost.com/arts-entertainment/2021/02/04/trump-resigns-screen-actors-guild/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -644,7 +644,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-claims-idUSKBN2A22MF",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3480,
+      "heat": 3520,
       "tags": null,
       "images": [
         {

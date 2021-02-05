@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-threatens-sanctions-following-mya
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870?amp=1"
 type: article
 quality: 114
-heat: 154
+heat: 174
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 810
         height: 532
         isCached: true
+  - title: "Biden threatens sanctions on Myanmar after military coup"
+    excerpt: "President Joe Biden is threatening to slap new sanctions on Myanmar after a coup that saw the military arrest the civilian leaders of its government."
+    publishedDateTime: 2021-02-02T01:46:00Z
+    webUrl: "https://www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "U.S. senators look to back up Biden administration over Myanmar coup"
     excerpt: "U.S. Senator Ben Cardin (D-MD) asks a question to Secretary of State Mike Pompeo during a Senate Foreign Relations Committee hearing in Washington, DC, U.S. July 30, 2020. Greg Nash/Pool v"
     publishedDateTime: 2021-02-05T03:07:00Z

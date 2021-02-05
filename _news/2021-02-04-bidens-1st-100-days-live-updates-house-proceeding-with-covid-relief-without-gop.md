@@ -82,7 +82,7 @@ related:
   - title: "Biden to meet House Democrats to push Covid relief plans – live updates"
     excerpt: "President will meet leaders and committee chairs ahead of monthly jobs report release"
     publishedDateTime: 2021-02-05T10:51:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates?page=with:block-601d1f638f0820c6099e97cf"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates?page=with:block-601d17f68f08ab4f3b771e53"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates"
     type: article
@@ -91,9 +91,25 @@ related:
       domain: theguardian.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/4a12b20f08bdc8b52fd416e260b541f616fa0021/1741_173_3317_1990/master/3317.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ec31e3c2bf6ece2be544cea67fb4213"
+      - url: "https://i.guim.co.uk/img/media/c8c38a259def9f99b805bdbec04b95e9b5731e2c/0_53_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10eae5c70c9474a7d00623a441fbe2f3"
         width: 600
         height: 360
+        isCached: true
+  - title: "U.S. Senate passes budget plan to advance Biden's $1.9 trillion COVID aid package"
+    excerpt: "The U.S. Senate early on Friday passed a budget plan that would allow for passage of President Joe Biden's $1.9 trillion COVID-19 relief package in coming weeks without Republican support."
+    publishedDateTime: 2021-02-05T15:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/u-s-senate-passes-budget-plan-to-advance-bidens-1-9-trillion-covid-aid-package-idUSKBN2A514V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A514V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A514V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550459610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH140MZ"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden tells congressional Democrats would consider limits on who gets COVID-19 checks"
     excerpt: "President Joe Biden told congressional Democrats on Wednesday he would not back down on including $1,400 checks for struggling Americans in his COVID-19 relief plan but would consider tighter limits on who gets them,"

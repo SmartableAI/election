@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-m
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 125
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549767816&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH100MF"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Republicans press Biden to downsize $1.9 trillion COVID-19 relief plan"
+    excerpt: "Ten moderate Republican U.S. senators urged President Joe Biden on Sunday to significantly downsize his sweeping $1.9 trillion COVID-19 relief package to win bipartisan support as Democrats in Congress prepared to push ahead with his plan this week."
+    publishedDateTime: 2021-02-01T00:16:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A00H8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A00H8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A00H8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549731076&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U0C7"
         width: 817
         height: 545
         isCached: true

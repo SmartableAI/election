@@ -186,6 +186,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Who is Senate pro tempore Patrick Leahy and why is he presiding over Trump impeachment trial?"
+    excerpt: "Supreme Court Chief Justice John Roberts presided over former President Trump's first impeachment trial a year ago for abuse of power and obstruction of Congress. "
+    publishedDateTime: 2021-02-05T16:27:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/50ddO2InFK4/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/leahy.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Gaetz offers to represent Trump in second impeachment trial, resign House seat 'if the law requires it'"
     excerpt: "Republican Rep. Matt Gaetz on Wednesday offered to represent former President Trump in his second impeachment trial, telling Fox News he would resign from his seat in the House of Representatives if asked to join the Trump legal team."
     publishedDateTime: 2021-02-03T18:55:13Z
@@ -375,6 +391,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Who is Senate pro tempore Patrick Leahy and why is he presiding over Trump impeachment trial?"
+    excerpt: "Supreme Court Chief Justice John Roberts presided over former President Trump's first impeachment trial a year ago for abuse of power and obstruction of Congress."
+    publishedDateTime: 2021-02-05T16:29:00Z
+    webUrl: "https://www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/leahy.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "xjvYSp8hd1lzzu/FviWeh3kPr+ZDM/QU/R2CK28SQ0TJG7Wx9FNAd2syDV82xcupE80NAacSL4VI8E/vJA+mpthuwwyoPWXFWtZrgOyGgMq8hpVgtS04qoXV3GRwW4++5APS3nzA+osFUCnGtEfRDNfAUNJ8nMte5b3eQ5JL8o2d3lT25dEMGwYD9i/8dHUhoKYmmlQ3h99z7xwdjovyYwPuKtSddSFv+mngzp859py7a+lUdVlE06YeUAoXbZ9VaswfwkY4HUVvV9lS3jMsCvI84lsErfdPFuOH+IL1XfCJuD6Rdh7/3GSXIx9Mcnw0ApK7pjRjaPCRos5n4PyUb5a9GN1d7K/OaihaGSow+FU=;FEiNDyqOgtBmap2JJPiU5w=="

@@ -192,6 +192,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Who is Senate pro tempore Patrick Leahy and why is he presiding over Trump impeachment trial?"
+    excerpt: "Supreme Court Chief Justice John Roberts presided over former President Trump's first impeachment trial a year ago for abuse of power and obstruction of Congress. "
+    publishedDateTime: 2021-02-05T16:27:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/50ddO2InFK4/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/leahy.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Gaetz offers to represent Trump in second impeachment trial, resign House seat 'if the law requires it'"
     excerpt: "Republican Rep. Matt Gaetz on Wednesday offered to represent former President Trump in his second impeachment trial, telling Fox News he would resign from his seat in the House of Representatives if asked to join the Trump legal team."
     publishedDateTime: 2021-02-03T18:55:13Z
@@ -365,6 +381,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/capitol-riot-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Who is Senate pro tempore Patrick Leahy and why is he presiding over Trump impeachment trial?"
+    excerpt: "Supreme Court Chief Justice John Roberts presided over former President Trump's first impeachment trial a year ago for abuse of power and obstruction of Congress."
+    publishedDateTime: 2021-02-05T16:29:00Z
+    webUrl: "https://www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/leahy.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "House Democratic Impeachment Managers Want Donald Trump To Testify Under Oath At Impeachment Trial Monday"
     excerpt: "CNN congressional correspondent Manu Raju reports that House Democrats want former President Trump to testify in person, under oath, at his second impeachment trial as early as Monday."

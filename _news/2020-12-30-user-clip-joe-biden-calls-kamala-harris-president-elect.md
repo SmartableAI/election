@@ -427,6 +427,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Kamala Harris uses casting vote to pass Covid relief budget resolution – video"
+    excerpt: "Vice-president’s Senate intervention means Biden’s $1.9tn package can pass without Republican support"
+    publishedDateTime: 2021-02-05T10:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/feb/05/kamala-harris-uses-casting-vote-to-pass-covid-relief-budget-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 101
+    images:
+      - url: "https://i.guim.co.uk/img/media/6811ad30035b29631a76bf3087a6b7653b35f39a/0_100_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03b76298ea397eb0320ab1bbb5773fa1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "CompTIA Congratulates President Joe Biden and Vice President Kamala Harris, Supports Administration’s Tech Workforce Goals"
     excerpt: "CompTIA, the nonprofit association for the information technology (IT) industry, today released this statement by its President and CEO, Todd Thibodeaux, on the inauguration of President Joe Biden and Vice President Kamala Harris."
     publishedDateTime: 2021-01-22T16:35:00Z
@@ -911,16 +925,16 @@ related:
         height: 630
         isCached: true
   - title: "VP Kamala Harris swears in Pete Buttigieg as Secretary of Transportation"
-    excerpt: "United States Vice President Kamela Harris arrives for the swearing-in of Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington,"
+    excerpt: "Second gentleman Doug Emhoff poses for photos after United States Vice President Kamala Harris swore in Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3,"
     publishedDateTime: 2021-02-03T15:27:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/27f76f666fed31d9f10ed29c365797bf/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d9fe1c06d94f73ceab13a06bebe78264/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/27f76f666fed31d9f10ed29c365797bf/BUTTIGIEG-TRANSPORTATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/d9fe1c06d94f73ceab13a06bebe78264/BUTTIGIEG-TRANSPORTATION.jpg"
         width: 650
         height: 433
         isCached: true

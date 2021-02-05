@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
 type: article
 quality: 175
-heat: 675
+heat: 695
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131111649-restricted-split-covid-relief-republican-senators-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to deploy approximately 1,000 troops to assist with Covid vaccination effort"
+    excerpt: "The Biden administration is expected to announce Friday that it will deploy approximately 1000 troops across the United States to assist with coronavirus vaccination efforts.\n    \n"
+    publishedDateTime: 2021-02-05T16:39:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NWGkydXSapk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/pentagon-covid-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/pentagon-covid-vaccines/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203202245-administers-a-pfizer-covid-19-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

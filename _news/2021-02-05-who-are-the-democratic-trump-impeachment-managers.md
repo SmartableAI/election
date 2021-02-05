@@ -175,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Who is Senate pro tempore Patrick Leahy and why is he presiding over Trump impeachment trial?"
+    excerpt: "Supreme Court Chief Justice John Roberts presided over former President Trump's first impeachment trial a year ago for abuse of power and obstruction of Congress. "
+    publishedDateTime: 2021-02-05T16:27:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/50ddO2InFK4/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/leahy.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Gaetz offers to represent Trump in second impeachment trial, resign House seat 'if the law requires it'"
     excerpt: "Republican Rep. Matt Gaetz on Wednesday offered to represent former President Trump in his second impeachment trial, telling Fox News he would resign from his seat in the House of Representatives if asked to join the Trump legal team."
     publishedDateTime: 2021-02-03T18:55:13Z
@@ -365,6 +381,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Who is Senate pro tempore Patrick Leahy and why is he presiding over Trump impeachment trial?"
+    excerpt: "Supreme Court Chief Justice John Roberts presided over former President Trump's first impeachment trial a year ago for abuse of power and obstruction of Congress."
+    publishedDateTime: 2021-02-05T16:29:00Z
+    webUrl: "https://www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/leahy.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "House Democratic Impeachment Managers Want Donald Trump To Testify Under Oath At Impeachment Trial Monday"
     excerpt: "CNN congressional correspondent Manu Raju reports that House Democrats want former President Trump to testify in person, under oath, at his second impeachment trial as early as Monday."
     publishedDateTime: 2021-02-04T18:57:00Z
@@ -380,6 +412,6 @@ related:
         height: 3765
         isCached: true
 
-secured: "fDAyXVCWFAcgUvdQFZVcLTd6ptMzG6yV+SkeFygzkZdlJbMhMkZxZocUxnFf2ekDK+vAQavrcMcufpPsCVxe4EYM8WdPHKR6awtGHbZmPi/BIZ5P/EYpshQsaQHcXKsmYiHe8gSreVsmHAeKJNmTZ29tVO6XdzO7f+oPYNVTxf7kJPjCIVkqtl/gEyTPm+iF0a7Wb7UibY7cNmxX/FlmXzBIpLxHmUujR2LsEeT9R+96svQ9QYazICYCDrrbhdK9jHu/TTmCowm31Hudv56K72xXSYuKs2qPrWoZKKOmWltOUKumy1pEkqUXO/V79Gpls6yJA0aMLNZPvMdpxG9ZbAfGQmdtECT2+TOeOIRMyCw=;HsiWPduH5/gM0+/ywCxlrA=="
+secured: "k9r5wyB2JIV3/PKLorkJ3RYGVGYh0UyDZoaqF4s4DMRMySYT1XVSR2y2KOGGslJ/k8FusMmbomqnWgYaT0N2NKN/6DoJcQHfPbqZ/zXUH1/gi/ZdTP0NXgSJFSEvv7XitumUGktdeYIusJsYEr+hPIDQpUy0lNH/K3rsC2iNM0pjbzflUkFVX8OPmHvVDERoUTUd7zInSL+Qre20kjyXwtAOgjARUC76Urx5cnR10nUBTZoG1yb5jTVyl11liTWsXmtiyMbTjZupgakmyNO9XhLwlGELFiAfDge1RMtyb/nO9vaKf1No0oeXxlg3SfpNuauMgVXDgCmjcxgD154avZNWwzQUtk1MTHPJVijdnPU=;s+ZohrglEEXlIjIIM6u4cg=="
 ---
 

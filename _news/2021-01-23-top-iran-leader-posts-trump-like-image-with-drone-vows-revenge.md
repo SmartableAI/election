@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R1YU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R1YU"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-13-gty-ml-210120_1611152722603_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Democrats weigh expanding lower courts after Trump blitz"
+    excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
+    publishedDateTime: 2021-01-30T22:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
+    ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Morgan Lewis, Trump's longtime tax counsel, prepares for split"
     excerpt: "Morgan, Lewis & Bockius said Wednesday it was stepping away from advising Donald Trump on tax matters, leaving the former president and his businesses further isolated from the country's largest law firms."

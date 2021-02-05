@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Democrats weigh expanding lower courts after Trump blitz"
+    excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
+    publishedDateTime: 2021-01-30T22:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
+    ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Morgan Lewis, Trump's longtime tax counsel, prepares for split"
     excerpt: "Morgan, Lewis & Bockius said Wednesday it was stepping away from advising Donald Trump on tax matters, leaving the former president and his businesses further isolated from the country's largest law firms."
     publishedDateTime: 2021-01-21T04:07:00Z

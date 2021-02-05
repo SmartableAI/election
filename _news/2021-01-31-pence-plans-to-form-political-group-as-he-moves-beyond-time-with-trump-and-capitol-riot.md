@@ -125,6 +125,17 @@ related:
         width: 1024
         height: 573
         isCached: true
+  - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
+    excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"
+    publishedDateTime: 2021-02-02T20:04:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-02/pentagon-purges-advisory-boards-after-flurry-of-trump-end-of-term-appointees?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 52
   - title: "Former VP Mike Pence joining Heritage Foundation as distinguished fellow – Jaweb"
     excerpt: "Former Vice President Mike Pence will be joining the Heritage Foundation as a distinguished visiting fellow, the conservative think tank said Thursday. Pence, 61, will advise the influential organization’s experts on public policy issues and “and ensure Heritage remains the leading conservative voice on solutions to America’s biggest challenges,"
     publishedDateTime: 2021-02-05T05:03:00Z

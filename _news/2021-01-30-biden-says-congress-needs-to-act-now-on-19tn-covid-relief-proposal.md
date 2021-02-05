@@ -63,6 +63,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden visits with wounded soldiers at Walter Reed"
+    excerpt: "President Joe Biden made his first major foray outside the White House Friday, to visit wounded soldiers at Walter Reed Hospital. Biden thanked hospital officials for taking care of his on Beau in his final days \"with great grace and dignity."
+    publishedDateTime: 2021-01-29T20:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/29/biden-visits-wounded-soldiers-walter-reed/4314384001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/26419840-4e1c-4c70-aa8d-6bf9686ef490_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Y+RQ0fkiHjKkPNIRp4MHno91OGL197xEINP8qKG0askMM9dIA+sWWhMofPzmDkwyTXa0cYUEGhYntOmXjIWxqXpfo7QVDP/jPw26vG0OZ9n+7DK4846tcD4RTybcdnJG6Tfu0+FwKBXNzbEgmQHckTiEe4Y/BAR0k/Bw6RlpGy5Ry2ie2BfdYyg5+eRsg6zLJqEuk+IHMe62w2FZQuF/9CDUMd5/IMHbYgz/g5IeZ/2QDzTXr9wDdIHjgnBt3kuM9HkhTMcFT+81+3x60lu24IR774QrHODoF0/SlMVC+jjo6nyy3dlLlfAkiuAdqlcw5TZl7YDsUwi7k9EpBNTadbIsSYV8NaYC2oIOHJAtUuY=;884/qZBqhiRxjCnoV5sPWQ=="
 ---

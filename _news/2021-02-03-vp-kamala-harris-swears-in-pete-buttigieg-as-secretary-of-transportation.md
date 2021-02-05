@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VP Kamala Harris swears in Pete Buttigieg as Secretary of Transportation"
-excerpt: "United States Vice President Kamela Harris arrives for the swearing-in of Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington,"
+excerpt: "Second gentleman Doug Emhoff poses for photos after United States Vice President Kamala Harris swore in Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3,"
 publishedDateTime: 2021-02-03T15:27:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/27f76f666fed31d9f10ed29c365797bf/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/27f76f666fed31d9f10ed29c365797bf/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/d9fe1c06d94f73ceab13a06bebe78264/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/d9fe1c06d94f73ceab13a06bebe78264/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/27f76f666fed31d9f10ed29c365797bf/BUTTIGIEG-TRANSPORTATION.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/d9fe1c06d94f73ceab13a06bebe78264/BUTTIGIEG-TRANSPORTATION.jpg"
     width: 650
     height: 433
     isCached: true
@@ -431,6 +431,20 @@ related:
       - url: "https://media.khou.com/assets/WXIA/images/538ffc43-e730-4b70-933e-ec6bde3a4846/538ffc43-e730-4b70-933e-ec6bde3a4846_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Kamala Harris uses casting vote to pass Covid relief budget resolution – video"
+    excerpt: "Vice-president’s Senate intervention means Biden’s $1.9tn package can pass without Republican support"
+    publishedDateTime: 2021-02-05T10:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/feb/05/kamala-harris-uses-casting-vote-to-pass-covid-relief-budget-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 101
+    images:
+      - url: "https://i.guim.co.uk/img/media/6811ad30035b29631a76bf3087a6b7653b35f39a/0_100_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03b76298ea397eb0320ab1bbb5773fa1"
+        width: 1200
+        height: 630
         isCached: true
   - title: "CompTIA Congratulates President Joe Biden and Vice President Kamala Harris, Supports Administration’s Tech Workforce Goals"
     excerpt: "CompTIA, the nonprofit association for the information technology (IT) industry, today released this statement by its President and CEO, Todd Thibodeaux, on the inauguration of President Joe Biden and Vice President Kamala Harris."
@@ -982,6 +996,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "bZIR5By0+HQnREs3R5vc4cbyQO5Y0xgjJws+W65S9Hu3wWccxNlemhd7FkDx+T7QbrWANEik4M6oimjJedpo+3dZbwvs7FMI6zxBXB9LdaTzmipJop6mdItju988ilK5RHy5P23UISMyNAOUH0A6ion8GQUyH0vLhz7CX5sE5V+VNxLa+bHJOjRGvnSg2MDFb25t3Qmfwx5kG2u3WoQn8B42ZIyizEX/jpWbAMc1IeVAg+lisu9NKQtYSC9zTVlHaizLIqqb4zR7bUQ2c9WleYVbEarX2nBUyscTvKdd7rtzYfdczjvtka2RPb72A0vz3+0wI2XO60QupJybcoueaNTujrUV8tkO9hG0CBSMbBLTB0d691Cy2E2Ea2K4ZOX/BkKJ1Sf2AoFKGHS47Fp5A3t9SkfCApblDOZzYrYvQfPYIliqNDfyifcLOuyzQ2+VdiK9UKxwPpXfBp9pel5C7E0UMKkxwgOkKO8+LYrr/oDA+sHeZjww+Xmg4PDdXQKgLiVZq6JcffOcucwn2Evb8w==;rXbyvmft7iWXXSCxiT3lDQ=="
+secured: "44t+8XkthEG6AdXTw/5UkPV1rwNlJP4/xzoZJSs5Xva1V+9APEANIzJY238WGu31ItBE1G+IbBhL8kgAT1bUgQxGVHCL6bjsdBMeasNx1rCHqwQI5Ju04UrsAQF/Dttynu/ZvVf+O+HCsMNttKxHZLBqR4yLPCksiLgEH99uM2KwqH77EqYb2xOaU0sIh90NtW+dNNAgLM14pExOjs2eSMib4meInm48x0tI/1fMX7lwVdI+TVOZjc/Pfkwu7XVHC3891l+kK0d+aEht8WdDytiwce7n/N1fC305VxFIP8byxaTQosUcr/TtPwj/ME3mK49WcO/NNyL+RRWow/SOGrUtoRrae/IcsiD5CUrMytg=;mkiYTpzRJNcvB2Ox2/kEzg=="
 ---
 

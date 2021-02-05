@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-01-biden-administration-cites-climate-change-as-a-racial-justice-issue.md",
+      "title": "Biden administration cites climate change as a 'racial justice issue'",
+      "excerpt": "Climate Adviser Gina McCarthy explained that challenges are exacerbated in communities that haven't been invested in.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQjA3MJAeuI/biden-admin-calls-climate-change-is-a-racial-justice-issue",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQjA3MJAeuI/biden-admin-calls-climate-change-is-a-racial-justice-issue",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2948c6c3-ebed-4fa1-b506-498478699919/13ae4fb4-3aad-4947-bbe5-bd6a698c6e05/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp",
+      "publishedDateTime": "2021-02-01T13:57:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-biden-state-dept-spokeswoman-called-police-largest-threat-to-us-national-security-report.md",
       "title": "Biden State Dept. spokeswoman called police 'largest threat to US national security': Report",
       "excerpt": "Jalina Porter, who has been named deputy spokesperson for the U.S. State Department under President Biden, wrote that U.S. cops posed the largest national security threat because of attacks against Blacks",
@@ -182,7 +238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 615,
+      "heat": 655,
       "tags": null,
       "images": [
         {
@@ -1043,62 +1099,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp",
       "publishedDateTime": "2021-01-29T16:13:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-biden-suggests-he-would-allow-covid-19-relief-bill-to-move-under-reconciliation-with-gop-support.md",
-      "title": "Biden suggests he would allow COVID-19 relief bill to move under 'reconciliation' with GOP support",
-      "excerpt": "President Biden told reporters Thursday that coronavirus relief will be passed with or without the support of congressional Republicans.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2uBTG67udY8/biden-says-he-will-get-covid-relief-passed-no-ifs-and-or-buts",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2uBTG67udY8/biden-says-he-will-get-covid-relief-passed-no-ifs-and-or-buts",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-he-will-get-covid-relief-passed-no-ifs-and-or-buts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-he-will-get-covid-relief-passed-no-ifs-and-or-buts.amp",
-      "publishedDateTime": "2021-01-29T13:23:24-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

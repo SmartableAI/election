@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/rob-malley-iran-envoy/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/rob-malley-iran-envoy/index.html"
 type: article
 quality: 163
-heat: 223
+heat: 203
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Live Updates: Biden Hopes to Win G.O.P. Support on $1.9 Trillion Relief Package"
-    excerpt: "But some Democrats see a path forward unilaterally. The administration named Robert Malley as a special envoy who must persuade Tehran to rein in its nuclear program."
-    publishedDateTime: 2021-01-29T08:42:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/29/us/biden-trump-impeachment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/29/world/29new-washington-briefing-stimulus/29new-washington-briefing-stimulus-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Biden taps Iran envoy to face challenges of confronting both Tehran and polarized views at home"
     excerpt: "The Biden administration has tapped Robert Malley, a progressive foreign policy expert who served on the Obama administration's negotiating team for the Iran nuclear deal, as its new top envoy for Iran."
     publishedDateTime: 2021-01-29T16:24:00Z

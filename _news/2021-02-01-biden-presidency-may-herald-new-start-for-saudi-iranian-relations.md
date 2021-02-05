@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2021/jan/31/biden-presidency-spell
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Congressional Democrats propose up to $50,000 in debt cancelation, Biden not sold"
+    excerpt: "Congressional Democrats renewed calls Thursday for President Joe Biden to cancel up to $50,000 in federal student loans per individual."
+    publishedDateTime: 2021-02-05T04:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Warren-gty-er-210204_1612469502494_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden threatened Myanmar sanctions. What are his options?"
     excerpt: "Myanmar's military checkpoint is seen on the way to the congress compound in Naypyitaw, Myanmar 1, 2021. REUTERS/Stringer"

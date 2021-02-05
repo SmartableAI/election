@@ -31,28 +31,60 @@ images:
     isCached: true
 
 related:
-  - title: "Biden faces calls to secure release of US man in Afghanistan"
-    excerpt: "Relatives and supporters of an American contractor who was abducted a year ago in Afghanistan and is believed to be in the custody of a Taliban-linked militant group are pressing the new Biden adminis"
-    publishedDateTime: 2021-01-30T21:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-secure-release-us-man-afghanistan-75579502"
+  - title: "Germany hails Biden's move to halt Trump-ordered troop cuts"
+    excerpt: "The German government has welcomed President Joe Biden’s decision to formally halt the planned withdrawal of U.S. troops from Germany"
+    publishedDateTime: 2021-02-05T12:10:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/germany-hails-bidens-move-halt-trump-ordered-troop-75704395"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/germany-hails-bidens-move-halt-trump-ordered-troop-75704395"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/germany-hails-bidens-move-halt-trump-ordered-troop-75704395"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/General/afghanistan-abuducted-american-mark-frerichs-01-ap-llr-210130_1612035203754_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f29e1ef193c246ae82a994393a6eb404_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden shows flexibility but tells House to ‘go big’ on aid"
-    excerpt: "President Joe Biden is telling House Democrats he’s not married to all the specifics of the $1.9 trillion COVID rescue plan"
-    publishedDateTime: 2021-02-03T10:22:00Z
-    webUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
+  - title: "Biden returns prayer breakfast to lofty tone after disruption of Trump years"
+    excerpt: "Biden spoke at the National Prayer Breakfast on Thursday about unity and faith — a year after Trump, at the same event, brandished newspaper headlines and took shots at his adversaries."
+    publishedDateTime: 2021-02-05T04:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-prayer-breakfast-trump/2021/02/04/0d0479bc-66fb-11eb-886d-5264d4ceb46d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-prayer-breakfast-trump/2021/02/04/0d0479bc-66fb-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-prayer-breakfast-trump/2021/02/04/0d0479bc-66fb-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 137
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JCGG3KCHY4I6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden administration to house migrant teens at overflow facility in Texas closed under Trump"
+    excerpt: "The Biden administration is reopening an overflow facility to house unaccompanied migrant teens amid a possible surge in apprehensions at the border."
+    publishedDateTime: 2021-02-04T09:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/03/biden-house-migrant-children-texas-facility-closed-under-trump/4378699001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4378699001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4378699001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/07/10/PSAT/a955008a-3f90-44c9-a4b7-49fbc2d7c18e-Carrizo_Springs_population_sign.JPG?auto=webp&crop=4031,2268,x0,y603&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden OKs disaster declaration related to tropical storm"
+    excerpt: "President Joe Biden has approved a disaster declaration for Maryland and ordered federal assistance for recovery efforts in areas affected by Tropical Storm Isaias in August"
+    publishedDateTime: 2021-02-04T21:06:00Z
+    webUrl: "https://www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -63,53 +95,47 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden to set out his foreign policy in state dept speech – live updates"
-    excerpt: "President has promised US will re-engage globally after isolationist Trump era"
-    publishedDateTime: 2021-02-04T11:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates?page=with:block-601bd3618f08287e584686a6"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates"
+  - title: "How Obamacare Survived Trump and What Biden Might Do"
+    excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
+    publishedDateTime: 2021-02-04T10:51:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do/2021/02/04/eca9ee04-66a5-11eb-bab8-707f8769d785_story.html?amp;amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
     images:
-      - url: "https://i.guim.co.uk/img/media/5fce824d46cd54ea2d3e48e3cc07aa6727c9b174/0_14_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7b4c6ce0b8bc7919f3fda6c3355e002a"
-        width: 600
-        height: 360
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5OFR74TGUUI6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 952
         isCached: true
-  - title: "Biden tells Democrats he's open to negotiating who can get a $1,400 stimulus check"
-    excerpt: "Calls to target a fresh wave of $1,400 stimulus checks to lower-income households are gaining steam in Congress."
-    publishedDateTime: 2021-02-03T18:32:00Z
-    webUrl: "https://www.businessinsider.com/biden-democrats-negotiating-stimulus-check-income-thresholds-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/biden-democrats-negotiating-stimulus-check-income-thresholds-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-democrats-negotiating-stimulus-check-income-thresholds-2021-2?amp"
+  - title: "How Obamacare Survived Trump and What Biden Might Do Next"
+    excerpt: "Joe Biden’s arrival in the White House could blunt any impact of the latest danger -- a case now before the Supreme Court -- and give Obamacare (more formally, the Affordable Care Act) a chance to grow beyond its initial scope."
+    publishedDateTime: 2021-02-04T16:06:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do-next/2021/02/04/eca9ee04-66a5-11eb-bab8-707f8769d785_story.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
     images:
-      - url: "https://i.insider.com/60146dfdd6c5e60019c6e03e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5OFR74TGUUI6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 952
         isCached: true
-  - title: "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers"
-    excerpt: "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,"
-    publishedDateTime: 2021-01-25T04:24:00Z
-    webUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026"
-    ampWebUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
+  - title: "How Obamacare Survived Trump and What Biden Might Do"
+    excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
+    publishedDateTime: 2021-02-04T17:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do/2021/02/04/eca9ee04-66a5-11eb-bab8-707f8769d785_story.html"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
     images:
-      - url: "https://d.newsweek.com/en/full/1714910/biden-harris-white-house.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5OFR74TGUUI6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 952
         isCached: true
 
 secured: "pOLWOURqwZMSbRopfpgWYbiG2SpIxwtcA9RNrVthj9Dop5WLhAt13PYWti6UnsRVW1SCVZtZhFBIlyZvQeFyLRDB2xQkuAVSoBzZJfRMSdAIAgO94Vy/mwv14GHLwMpWiQI34d/lu/TZ/vSrVWDaYMkdWqbHdRd2L+Ox+DNNUstWaWuKgqlFxcZSTwiTi+jqdjGOtQwSeK46V4Hib2zQ539uhTw2zj8tL3tliuitsBA338yVrUmckV8OgBXnFjspgt9ZMzJ5yl+UCpjgMhGJBQWJVbOqf2emum8qoT9X9F7o+ul9Vpt6AFiuLZ8Fx69hs9hWMwKx6PRxSNjegpNksvTV+1PtKMQAxB+Eno4vwD8=;X9wL8JBNO35/LEnXLJNTBQ=="

@@ -61,6 +61,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Congressional Democrats propose up to $50,000 in debt cancelation, Biden not sold"
+    excerpt: "Congressional Democrats renewed calls Thursday for President Joe Biden to cancel up to $50,000 in federal student loans per individual."
+    publishedDateTime: 2021-02-05T04:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Warren-gty-er-210204_1612469502494_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "9YMbt4O5rrz+08Im3pxRsj7DojSrzlM2VhcCyO7CT8gYmRJGVBhnBR/CytIKK+nA6L05gQxQ4dxv/v32ylVepkzNeVR+A6MqyziusHqotK8Oq+4ItCbnDRexKeyB++ounWXTc826D59DioVDoc3eLyYtz3lrY6zn0eSGh68Hnasl+X7BdNxpt5spAF1JNt99CIuN8RNVPWOa9JTom1Wb3m5Qr6W44xKgiUaAGdCModxdMLjUFb7UissAiqPJUvAkknG2WY8UkVFsAzsEYDFW+hIw3uHpLzrCg3WTjUOQvKzeymJJm4UGV6oSRP4M/7ieBGISGAtjfRn9lO5mJaYco07sMHthgp+jAKtMFR3V3fq3ng2b6beX9eU2DQ4g09Uq/jWtflZr6j6V7XQREo6emV01Lc5GTot8eBud4LTAMPKtj6WACLmn5yXs0S0hItTxSEmibCXrM47CLRG6EqZ/yPIbBi122Hld7xpnZb7Ou9WscGbR6u6eYa420TcYnxkgDTU6bgyeYwp6zY9A0VVz6w==;45WPYm1/fPOtjFM0c8tD8w=="
 ---

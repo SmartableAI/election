@@ -96,6 +96,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Senate passes budget plan to allow Biden’s $1.9tn Covid relief package without Republicans – live"
+    excerpt: "Kamala Harris broke a 50-50 tie after all-night Senate session by casting a vote in favor of the Democratic measure, sending it to the House for final approval"
+    publishedDateTime: 2021-02-05T13:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/05/joe-biden-donald-trump-impeachment-covid-coronavirus-marjorie-taylor-greene-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 112
+    images:
+      - url: "https://i.guim.co.uk/img/media/c8c38a259def9f99b805bdbec04b95e9b5731e2c/0_53_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10eae5c70c9474a7d00623a441fbe2f3"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trudeau expects Biden to re-engage U.S. on world stage"
     excerpt: "Reuters Next Trudeau expects Biden to re-engage U.S. on world stage. Posted . Canada and other U.S. allies are looking to President-elect Joe Biden to re-engage on the world stage"
     publishedDateTime: 2021-01-14T17:54:00Z

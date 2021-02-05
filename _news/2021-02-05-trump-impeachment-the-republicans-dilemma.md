@@ -1197,6 +1197,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Demographic groups with the best employment gains under Trump moved right in 2020"
+    excerpt: "With Friday’s jobs report, we now have a complete look at how employment fared under Trump, with the economy seeing fewer people working now than when he took office. Interestingly, that’s not true for all demographic groups."
+    publishedDateTime: 2021-02-05T16:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/05/demographic-groups-with-best-employment-gains-under-trump-moved-right-2020/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/05/demographic-groups-with-best-employment-gains-under-trump-moved-right-2020/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/05/demographic-groups-with-best-employment-gains-under-trump-moved-right-2020/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZU3KJBQE2UI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Senate Republicans unite behind failed effort to challenge Trump impeachment trial"
     excerpt: "Forty-five Senate Republicans backed a failed effort on Tuesday to halt former President Donald Trump's impeachment trial, in a show of party unity that some cited as a clear sign he will not be convicted of inciting insurrection at the Capitol."
     publishedDateTime: 2021-01-27T06:53:00Z
@@ -2010,6 +2026,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 105
+  - title: "Trump refuses request to testify in his second impeachment trial"
+    excerpt: "Former President Donald Trump has rejected a request from House managers to testify under oath in his second impeachment trial, which gets underway Tuesday. CBS News legal analyst Rikki Klieman joined CBSN with more on what to expect from the proceedings,"
+    publishedDateTime: 2021-02-05T15:46:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-wont-testify-impeachment-trial-begins-tuesday/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/05/63b0bc03-4a5c-43a7-ac03-651d0a4a3c03/thumbnail/1200x630/2560174881bf6988734e3e0601166d3f/cbsn-fusion-trump-wont-testify-impeachment-trial-begins-tuesday-thumbnail-640487-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. court upholds Trump's national security tariffs on steel imports"
     excerpt: "The U.S. Court of International Trade on Wednesday upheld former president Donald Trump's \"Section 232\" national security tariffs on steel imports into the United States, issuing a decision denying a steel importer's challenge to the duties."
     publishedDateTime: 2021-02-05T00:09:00Z

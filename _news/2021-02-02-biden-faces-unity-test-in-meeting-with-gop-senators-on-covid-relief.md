@@ -111,6 +111,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Republicans press Biden to downsize $1.9 trillion COVID-19 relief plan"
+    excerpt: "Ten moderate Republican U.S. senators urged President Joe Biden on Sunday to significantly downsize his sweeping $1.9 trillion COVID-19 relief package to win bipartisan support as Democrats in Congress prepared to push ahead with his plan this week."
+    publishedDateTime: 2021-02-01T00:16:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A00H8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A00H8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A00H8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549731076&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U0C7"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden to reopen healthcare.gov as people lose coverage amid COVID-19: report"
     excerpt: "U.S. President Joe Biden plans to order the nation's online insurance marketplace, healthcare.gov, to reopen for at least a few months to offer Americans a way to buy health insurance amid the COVID-19 pandemic,"
     publishedDateTime: 2021-01-26T14:07:00Z

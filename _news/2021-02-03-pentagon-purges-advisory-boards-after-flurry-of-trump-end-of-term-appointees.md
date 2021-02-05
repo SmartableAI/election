@@ -25,282 +25,158 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Biden returns prayer breakfast to lofty tone after disruption of Trump years"
-    excerpt: "Biden spoke at the National Prayer Breakfast on Thursday about unity and faith — a year after Trump, at the same event, brandished newspaper headlines and took shots at his adversaries."
-    publishedDateTime: 2021-02-05T04:49:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-prayer-breakfast-trump/2021/02/04/0d0479bc-66fb-11eb-886d-5264d4ceb46d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-prayer-breakfast-trump/2021/02/04/0d0479bc-66fb-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-prayer-breakfast-trump/2021/02/04/0d0479bc-66fb-11eb-886d-5264d4ceb46d_story.html?outputType=amp"
+  - title: "Mike Pence Joins Other Trump Administration Alumni At Heritage Foundation Post-VP"
+    excerpt: "Pence is not the only displaced member of the Trump administration to land at the Heritage Foundation. The think tank announced in late January that it had broug"
+    publishedDateTime: 2021-02-04T18:22:00Z
+    webUrl: "https://www.forbes.com/sites/jemimamcevoy/2021/02/04/mike-pence-joins-other-trump-administration-alumni-at-heritage-foundation-post-vp/"
+    ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2021/02/04/mike-pence-joins-other-trump-administration-alumni-at-heritage-foundation-post-vp/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2021/02/04/mike-pence-joins-other-trump-administration-alumni-at-heritage-foundation-post-vp/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 137
+      name: Forbes
+      domain: forbes.com
+    quality: 135
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JCGG3KCHY4I6XLBKHLAPFOGO5M.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden administration to house migrant teens at overflow facility in Texas closed under Trump"
-    excerpt: "The Biden administration is reopening an overflow facility to house unaccompanied migrant teens amid a possible surge in apprehensions at the border."
-    publishedDateTime: 2021-02-04T09:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/03/biden-house-migrant-children-texas-facility-closed-under-trump/4378699001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4378699001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4378699001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 129
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/07/10/PSAT/a955008a-3f90-44c9-a4b7-49fbc2d7c18e-Carrizo_Springs_population_sign.JPG?auto=webp&crop=4031,2268,x0,y603&format=pjpg&width=1200"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c29b832ce85decbe6075f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4969%26cropY1%3D152%26cropY2%3D2946"
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden rescinds abortion restrictions on US foreign aid"
-    excerpt: "President Joe Biden has rescinded a regulation that barred U.S. foreign aid from being used to perform or promote abortions"
-    publishedDateTime: 2021-01-29T00:04:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/biden-rescinds-abortion-restrictions-on-us-foreign-aid/2021/01/28/a01022ac-619b-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-rescinds-abortion-restrictions-on-us-foreign-aid/2021/01/28/a01022ac-619b-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-rescinds-abortion-restrictions-on-us-foreign-aid/2021/01/28/a01022ac-619b-11eb-a177-7765f29a9524_story.html?outputType=amp"
+  - title: "Pence plans to form political group as he moves beyond time with Trump and Capitol riot"
+    excerpt: "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused political committee that would help him maintain a relationship with donors,"
+    publishedDateTime: 2021-01-31T13:59:00Z
+    webUrl: "https://www.cnbc.com/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: CNBC
+      domain: cnbc.com
+    quality: 132
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://image.cnbcfm.com/api/v1/image/106820378-1609982678273-AP21007045774819.jpg?v=1612099871"
+        width: 1997
+        height: 1331
         isCached: true
-  - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
-    excerpt: "President Joe Biden is making his first major foray outside the White House, to visit wounded soldiers at Walter Reed Hospital, just outside Washington"
-    publishedDateTime: 2021-01-29T15:36:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601"
+  - title: "Pence Plans to Form Fundraising Group as He Moves Beyond Trump, Capitol Riot"
+    excerpt: "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused fundraising committee that would help him maintain a relationship with donors,"
+    publishedDateTime: 2021-02-01T00:26:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/pence-plans-to-form-fundraising-group-as-he-moves-beyond-trump-capitol-riot/2858096/?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 87
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_c332139ef1dc440aaaa9f6ee89d4095f_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1230692263-edited.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Democrats weigh expanding lower courts after Trump blitz"
-    excerpt: "Democrats are mulling how to reshape the federal judiciary after Republicans moved at record speed to confirm conservative judges over the past four years."
-    publishedDateTime: 2021-01-30T22:00:00Z
-    webUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz"
-    ampWebUrl: "https://thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/536583-democrats-weigh-expanding-lower-courts-after-trump-blitz?amp"
+  - title: "Melania Trump Snubbing Husband Donald In Public Allegedly Just For ‘Distraction’"
+    excerpt: "Melania Trump snubbed her husband Donald Trump in public to distract the crowd, according to her former aide, Stephanie Winston Wolkoff."
+    publishedDateTime: 2021-01-29T02:51:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-snubbing-husband-donald-public-allegedly-just-distraction-3132996"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-snubbing-husband-donald-public-allegedly-just-distraction-3132996?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-snubbing-husband-donald-public-allegedly-just-distraction-3132996?amp=1"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "GOP lawmakers urge Biden to meet with them on virus relief"
-    excerpt: "A group of Senate Republicans has called on President Joe Biden to meet them at the negotiating table as the newly elected president signals he could move to pass a new $1.9 trillion coronavirus aid p"
-    publishedDateTime: 2021-01-31T15:34:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596660"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596660"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/gop-lawmakers-urge-biden-meet-virus-relief-75596660"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_75e52f490f3a44eb9ec4cecff9b25a5b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Republicans press Biden to downsize $1.9 trillion COVID-19 relief plan"
-    excerpt: "Ten moderate Republican U.S. senators urged President Joe Biden on Sunday to significantly downsize his sweeping $1.9 trillion COVID-19 relief package to win bipartisan support as Democrats in Congress prepared to push ahead with his plan this week."
-    publishedDateTime: 2021-02-01T00:16:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A00H8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A00H8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A00H8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549731076&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U0C7"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden OKs disaster declaration related to tropical storm"
-    excerpt: "President Joe Biden has approved a disaster declaration for Maryland and ordered federal assistance for recovery efforts in areas affected by Tropical Storm Isaias in August"
-    publishedDateTime: 2021-02-04T21:06:00Z
-    webUrl: "https://www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/biden-oks-disaster-declaration-related-to-tropical-storm/2021/02/04/664181b0-672c-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden prepares to lift cap on refugees by eight times previous level"
-    excerpt: "Sources say that Biden is set to lift the cap on the number of refugees allowed entry within a budgetary year. In one of the sharpest pivots from Trump administration policies, President Biden will reportedly notify Congress that he will begin increasing the amount of admissions the U."
-    publishedDateTime: 2021-02-04T20:44:00Z
-    webUrl: "https://thehill.com/changing-america/respect/accessibility/537405-biden-prepares-to-lift-cap-on-refugees-by-eight-times"
-    ampWebUrl: "https://thehill.com/changing-america/respect/accessibility/537405-biden-prepares-to-lift-cap-on-refugees-by-eight-times?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/accessibility/537405-biden-prepares-to-lift-cap-on-refugees-by-eight-times?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_biden_123120getty_1.jpg"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "Biden turns to US healthcare access in face of worrying Covid projections – live"
-    excerpt: "President to sign executive action on healthcare as experts warn of 500,000 death toll by February’s end"
-    publishedDateTime: 2021-01-28T14:26:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-60129a7f8f08bf384c76498c"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/0e50b8cb4c26f84ae89963efaeb7b69bd14f7faa/0_164_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c372d56c3e18bd368af3f1ad6b9479d"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "How Obamacare Survived Trump and What Biden Might Do"
-    excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
-    publishedDateTime: 2021-02-04T10:51:00Z
-    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do/2021/02/04/eca9ee04-66a5-11eb-bab8-707f8769d785_story.html?amp;amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5OFR74TGUUI6XOVYOB7YO2OXQU.jpg&w=1440"
-        width: 1440
-        height: 952
-        isCached: true
-  - title: "Congressional Democrats propose up to $50,000 in debt cancelation, Biden not sold"
-    excerpt: "Congressional Democrats renewed calls Thursday for President Joe Biden to cancel up to $50,000 in federal student loans per individual."
-    publishedDateTime: 2021-02-05T04:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/Warren-gty-er-210204_1612469502494_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "How Obamacare Survived Trump and What Biden Might Do Next"
-    excerpt: "Joe Biden’s arrival in the White House could blunt any impact of the latest danger -- a case now before the Supreme Court -- and give Obamacare (more formally, the Affordable Care Act) a chance to grow beyond its initial scope."
-    publishedDateTime: 2021-02-04T16:06:00Z
-    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do-next/2021/02/04/eca9ee04-66a5-11eb-bab8-707f8769d785_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5OFR74TGUUI6XOVYOB7YO2OXQU.jpg&w=1440"
-        width: 1440
-        height: 952
-        isCached: true
-  - title: "How Obamacare Survived Trump and What Biden Might Do"
-    excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
-    publishedDateTime: 2021-02-04T17:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/how-obamacare-survived-trump-and-what-biden-might-do/2021/02/04/eca9ee04-66a5-11eb-bab8-707f8769d785_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5OFR74TGUUI6XOVYOB7YO2OXQU.jpg&w=1440"
-        width: 1440
-        height: 952
-        isCached: true
-  - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
-    excerpt: "President Joe Biden is making his first major foray outside the White House on Friday, to visit wounded soldiers at Walter Reed National Military Medical Center."
-    publishedDateTime: 2021-01-29T23:33:00Z
-    webUrl: "https://www.businessinsider.com/biden-to-visit-wounded-soldiers-at-walter-reed-hospital-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/biden-to-visit-wounded-soldiers-at-walter-reed-hospital-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-visit-wounded-soldiers-at-walter-reed-hospital-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Biden visits with wounded soldiers at Walter Reed"
-    excerpt: "President Joe Biden made his first major foray outside the White House Friday, to visit wounded soldiers at Walter Reed Hospital. Biden thanked hospital officials for taking care of his on Beau in his final days \"with great grace and dignity."
-    publishedDateTime: 2021-01-29T20:39:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/29/biden-visits-wounded-soldiers-walter-reed/4314384001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/26419840-4e1c-4c70-aa8d-6bf9686ef490_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "GOP lawmakers urge Biden to meet with them on virus relief"
-    excerpt: "A group of Senate Republicans called on President Joe Biden to meet them at the negotiating table as the newly elected president signaled he could move to pass a new $1.9 trillion aid package with all Democratic votes."
-    publishedDateTime: 2021-02-01T07:13:00Z
-    webUrl: "https://www.businessinsider.com/gop-lawmakers-urge-biden-to-meet-with-them-on-virus-relief-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/gop-lawmakers-urge-biden-to-meet-with-them-on-virus-relief-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-lawmakers-urge-biden-to-meet-with-them-on-virus-relief-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Biden threatens sanctions on Myanmar after military coup"
-    excerpt: "President Joe Biden is threatening to slap new sanctions on Myanmar after a coup that saw the military arrest the civilian leaders of its government."
-    publishedDateTime: 2021-02-02T01:46:00Z
-    webUrl: "https://www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-threatens-sanctions-on-myanmar-after-military-coup-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Germany Hails Biden's Move to Halt Trump-Ordered Troop Cuts"
-    excerpt: "The German government has welcomed President Joe Biden’s decision to formally halt the planned withdrawal of U.S. troops from Germany."
-    publishedDateTime: 2021-02-05T12:16:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-02-05/germany-hails-bidens-move-to-halt-trump-ordered-troop-cuts"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-05/germany-hails-bidens-move-to-halt-trump-ordered-troop-cuts?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-05/germany-hails-bidens-move-to-halt-trump-ordered-troop-cuts?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-and-his-wife-melania-left-washington.jpg"
+        width: 1024
+        height: 668
+        isCached: true
+  - title: "Pence joins Heritage Foundation as visiting fellow to promote conservative policies"
+    excerpt: "Former Vice President Mike Pence is joining the conservative Heritage Foundation as a visiting fellow. He and former second lady Karen Pence plan to move back to Indiana this summer."
+    publishedDateTime: 2021-02-04T18:41:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 69
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/20/pence-indiana_return_41688_c0-209-5770-3574_s1200x700.jpg?8a97340ee4b856c83dadb26ef2416bc3d05aa465"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Mike Pence to join Heritage Foundation to 'lead the conservative movement into the future'"
+    excerpt: "Former Vice President Mike Pence is joining a think tank, the first official step on how he plans to stay active in public and political life."
+    publishedDateTime: 2021-02-04T19:37:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/02/04/think-tank-pence-wants-lead-conservatives-into-future/4389431001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4389431001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4389431001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/c81436e0-3d7b-4731-aaa3-94b9139346e5-01202021_Pence_GH_003.jpg?auto=webp&crop=3730,2099,x0,y565&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence Is Joining the Heritage Foundation—and Writing a Column"
+    excerpt: "Former Vice President Mike Pence is joining the conservative think tank Heritage Foundation as a distinguished visiting fellow. In this capacity, Pence will advise Heritage experts on public-policy issues;"
+    publishedDateTime: 2021-02-05T02:56:00Z
+    webUrl: "https://www.washingtonian.com/2021/02/04/mike-pence-is-joining-the-heritage-foundation-and-writing-a-column/"
+    type: article
+    provider:
+      name: Washingtonian
+      domain: washingtonian.com
+    quality: 55
+    images:
+      - url: "https://www.washingtonian.com/wp-content/uploads/2016/07/07202016-pence.jpg"
+        width: 1024
+        height: 573
+        isCached: true
+  - title: "Former VP Mike Pence joining Heritage Foundation as distinguished fellow – Jaweb"
+    excerpt: "Former Vice President Mike Pence will be joining the Heritage Foundation as a distinguished visiting fellow, the conservative think tank said Thursday. Pence, 61, will advise the influential organization’s experts on public policy issues and “and ensure Heritage remains the leading conservative voice on solutions to America’s biggest challenges,"
+    publishedDateTime: 2021-02-05T05:03:00Z
+    webUrl: "https://elmoudjaweb.com/former-vp-mike-pence-joining-heritage-foundation-as-distinguished-fellow-jaweb/"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 50
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/Former-VP-Mike-Pence-joining-Heritage-Foundation-as-distinguished-fellow.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vice President Mike Pence Joins Heritage Foundation as Distinguished Visiting Fellow"
+    excerpt: "The Heritage Foundation announced today that former Vice President Mike Pence will join the organization as a distinguished visiting fellow."
+    publishedDateTime: 2021-02-04T17:07:00Z
+    webUrl: "https://www.heritage.org/press/vice-president-mike-pence-joins-heritage-foundation-distinguished-visiting-fellow"
+    type: article
+    provider:
+      name: The Heritage Foundation
+      domain: heritage.org
+    quality: 48
+    images:
+      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2021-02/Pence%20at%20Heritage%20.jpeg?itok=OXoR431a"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mike Pence officially hired by anti-LGBTQ Heritage Foundation. He worked for them as Vice President."
+    excerpt: "Former Vice President Mike Pence will join the Heritage Foundation, an anti-LGBTQ think tank. The organization had a huge presence in the Trump administration, manipulating policies from the behind-the-scenes."
+    publishedDateTime: 2021-02-04T20:23:00Z
+    webUrl: "https://www.lgbtqnation.com/2021/02/mike-pence-officially-hired-anti-lgbtq-heritage-foundation-worked-vice-president/"
+    type: article
+    provider:
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 40
+    images:
+      - url: "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2019/07/mike-pence-702x522.jpg?&auto=format&auto=compress&crop=faces&fit=crop&w=1024&h=576&wat=1&wat_gravity=southeast&wat_pad=40"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "3Mm1bHWY4eaBdhH8gLz01UPJI/8qV0dDgJH+rcbk9LMFa/wLhk9dR+UNkRZRAmSGSf58ow1k7MND55wGSIPM5PK4FD30v9Ign4Putfg68mDee1d4I9riNMFbduDt5IQIu61OgeB1Ljm89APnXn49+17IJ7yRtAOHbdeTqnNAzX63fnxvTCJ97bP4ZJ6xuK7jORN8gj6XAUmKj2RpX9W2ZH2noS/gjVpFuBZdLNuh3ieT9jt+2sLbenJKa/pvcXIYLnRuMnDBlQO5pvU5PqvyM4bec1m49mMQTGP9syoEN5A9GmNA/c+qXi1brbaTaBC81mNd7HBfuYESu5U0tDhq+0tnSzKoCwjWuYQJkMQvUg2x1/76zIOXz/w6jrEjHSgIvvaPrDPMWPB3isRdWOldvsrVA/lAkxiwLFcLVjDXffpitCBu5WSS/2WlrtoTbNzEbh6v4t/iQjfnKPMv3xALoD2UY93LTrYMrujzQUQzAShplStJuGMXdtll8LDz0h+dv8B18sRSgaRsgITSeXJpTQ==;OZKbIx5qikVYP/WS2+VDfQ=="
 ---
