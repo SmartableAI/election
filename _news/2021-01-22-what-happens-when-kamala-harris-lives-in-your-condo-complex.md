@@ -224,6 +224,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Washington Post caught scrubbing Kamala Harris ‘prisoner’ story"
+    excerpt: "The Washington Post scrubbed an unflattering anecdote of Vice President Kamala Harris crassly laughing at the thought of a prisoner begging for a drink of water — then backtracked Friday after ..."
+    publishedDateTime: 2021-01-22T04:25:00Z
+    webUrl: "https://nypost.com/2021/01/22/washington-post-caught-scrubbing-kamala-harris-prisoner-story/"
+    ampWebUrl: "https://nypost.com/2021/01/22/washington-post-caught-scrubbing-kamala-harris-prisoner-story/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/22/washington-post-caught-scrubbing-kamala-harris-prisoner-story/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/kamala-harris-8.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "See inside Blair House, Kamala Harris' temporary home in Washington, DC"
     excerpt: "While the Number One Observatory Circle is renovated, Vice President Kamala Harris and second gentleman Doug Emhoff have temporarily moved into Blair House — so let’s peek inside."
     publishedDateTime: 2021-01-25T15:07:00Z

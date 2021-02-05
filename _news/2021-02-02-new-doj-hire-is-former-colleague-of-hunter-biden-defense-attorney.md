@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/doj-official-former-colleague-hunte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b072103f-ac02-41ea-b778-f4d9e143bb32/842a50a2-60e7-49f6-ae5b-5bd52e8fe220/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden received more money from teachers unions than any other candidate in 2020"
+    excerpt: "President Biden received more contributions from teachers unions than any other candidate during the 2020 election cycle by a wide margin, underscoring the conundrum that may be headed for the White House if those same unions continue to oppose efforts to open schools for in-person learning.  "
+    publishedDateTime: 2021-02-05T19:53:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/33SSnY8gzU0/biden-money-teachers-unions-candidate-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-money-teachers-unions-candidate-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-money-teachers-unions-candidate-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden DOJ pick Kristen Clarke railed against Sessions task force protecting religious liberty"
     excerpt: "Kristen Clarke, President Biden's choice to run the Justice Department's Civil Rights Division, has previously taken issue with the Justice Department's Religious Liberty Task Force."

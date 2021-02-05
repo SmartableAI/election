@@ -2789,6 +2789,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Kamala Harris’ new role sets her up as a star waiting in the wings"
+    excerpt: "Vice President Kamala Harris and her husband Doug Emhoff (Image: AP/Jacquelyn Martin) US Vice-President Kamala Harris held her head high as she took the oath of office. She stood stern and sincere ..."
+    publishedDateTime: 2021-01-21T01:16:00Z
+    webUrl: "https://www.crikey.com.au/2021/01/21/kamala-harris-historical-vice-president/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 55
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2021/01/AMBER-HARRIS.jpg"
+        width: 740
+        height: 400
+        isCached: true
   - title: "Trump Leaves Icy Washington For Loving Florida Home"
     excerpt: "Donald Trump wanted a hero's send-off Wednesday, but had to go all the way to his right-wing Florida heartland to get one after an icy and sparsely attended official departure from Washington. The soon to be ex-president's motorcade slowed almost to a stop outside his fancy Mar-a-Lago club in Palm Beach,"
     publishedDateTime: 2021-01-20T18:38:00Z

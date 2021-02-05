@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden received more money from teachers unions than any other candidate in 2020"
+    excerpt: "President Biden received more contributions from teachers unions than any other candidate during the 2020 election cycle by a wide margin, underscoring the conundrum that may be headed for the White House if those same unions continue to oppose efforts to open schools for in-person learning.  "
+    publishedDateTime: 2021-02-05T19:53:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/33SSnY8gzU0/biden-money-teachers-unions-candidate-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-money-teachers-unions-candidate-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-money-teachers-unions-candidate-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rhode Island ranked worst state to do business under Biden Commerce Secretary nominee's leadership"
     excerpt: "Rhode Island was ranked among the top five worst places to do business in the U.S. during all four years Gina Raimondo, President Biden's nominee for secretary of commerce, was governor."
     publishedDateTime: 2021-01-27T19:26:51Z

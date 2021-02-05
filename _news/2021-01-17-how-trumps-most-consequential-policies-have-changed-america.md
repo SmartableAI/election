@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/donald-trump-policy-lega
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/donald-trump-policy-legacy/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/24/us/politics/24ducey-qanda-print1/23ducey-qanda-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "America’s trade gap soared under Trump, final figures show"
+    excerpt: "The U.S. trade deficit over the four years of President Donald Trump’s presidency soared to its highest level since 2008, despite his tough tariff tactics intended to bring it down, a new Commerce Department report showed on Friday."
+    publishedDateTime: 2021-02-05T20:10:00Z
+    webUrl: "https://www.politico.com/news/2021/02/05/2020-trade-figures-trump-failure-deficit-466116"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/33/cc/65d94e5f4d17aa8a81812b4dabda/ap21012842754911-2.jpg"
+        width: 1159
+        height: 773
         isCached: true
 
 secured: "JRbI1AJ0A2+bNJqhTuF4olyrYZAE2/+Tn1mlPt/IsiIE3mcleijj4l3GXmkfpsIbKzHj858a5OuEStpkwenrCrDS0ubbgo1za108Ys5q1wmm325gux2rbtlCvLlyzU6sYaI3fDoSL2+u1MwtDNN58NdJ2x2BMDmlFKxhGq9MsCYap1Eog99g8LMczGDRGK9m5T2HnV/E+LOJ4hChOWZ1FDUbJWVWZCgzgg/itexbSXhtmPh0oDZp8FmFhSCMGBGF7cB/Z+Dp1zQS3Wlx4bpGLsL6Iyfp4YHT2vo9UcMaCaROszmCD8lZqrud+cEPZiUM20gQqFH5UMmNHOBYBOtwW/iM7mufUQLntQ8wnP6kk+k=;WZyyRirUSh8yUmKBfXXhsQ=="

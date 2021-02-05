@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Illinois GOP says Rep. Adam Kinzinger and other Republicans who voted to impeach Trump ‘created widespread division and anger’ in the party"
+    excerpt: "The Illinois Republican Party issued a mild rebuke to Republican U.S. Rep. Adam Kinzinger, saying it disagreed with his vote to impeach former President Donald Trump as it sought to clear its agenda for a Saturday meeting to pick a new chairman who could unify the party."
+    publishedDateTime: 2021-02-05T19:50:00Z
+    webUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-illinois-republicans-20210205-7cwxhciinzcmvjyaue6ohenc2y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-illinois-republicans-20210205-7cwxhciinzcmvjyaue6ohenc2y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-adam-kinzinger-illinois-republicans-20210205-7cwxhciinzcmvjyaue6ohenc2y-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 91
+    images:
+      - url: "https://www.chicagotribune.com/resizer/kCqS5P5WC39bSue-e9RXnprCOTQ=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/MT27UL6PIVCNVJGKREWOTHUM3E.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ZmzjvNLO+OmHhwz2H4gujGqES7B1qXhJ5dD8YDvr/XHIIjoqNaTlnUDSElbmaWnWCq4dhyof0E0Q8rbtQWQiiRn4wWrw0fIXHW2b7jBsnYGFsa/EFl4uaYZM3We6PA1/qbWkC0uKpmn+/agUtC5zo9NvTit06of2PE44TeTiMGT7bUOxvC249HAcQv0A3GabAWh4vWcwLGreDMY+jk4gl7zXlZ0irYscSyhFNjRwvnMxdChavh4jRsu3uf6Ff0nkRP0Xgl813TJfx1cDvZJtudqGSqMxvq+q7Ko13AJh9ftW5Yr+wi722peyE09oyWzS7pZCTsnB2FPwF1GEsGZxkG4bdAaCqJgNuaaxTdY0awA=;13kUROo1ionXHHeRBNLJ0w=="
 ---

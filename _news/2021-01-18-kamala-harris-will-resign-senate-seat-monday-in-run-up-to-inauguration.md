@@ -208,6 +208,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Washington Post caught scrubbing Kamala Harris ‘prisoner’ story"
+    excerpt: "The Washington Post scrubbed an unflattering anecdote of Vice President Kamala Harris crassly laughing at the thought of a prisoner begging for a drink of water — then backtracked Friday after ..."
+    publishedDateTime: 2021-01-22T04:25:00Z
+    webUrl: "https://nypost.com/2021/01/22/washington-post-caught-scrubbing-kamala-harris-prisoner-story/"
+    ampWebUrl: "https://nypost.com/2021/01/22/washington-post-caught-scrubbing-kamala-harris-prisoner-story/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/22/washington-post-caught-scrubbing-kamala-harris-prisoner-story/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/kamala-harris-8.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "What Happens When Kamala Harris Lives in Your Condo Complex"
     excerpt: "Following the 2020 election, the Vice President’s neighbors were put on notice."
     publishedDateTime: 2021-01-21T21:59:00Z

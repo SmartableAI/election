@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-arlington-wreath-layin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp"
 type: article
 quality: 200
-heat: 600
+heat: 620
 published: true
 
 provider:
@@ -207,6 +207,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21017083103212.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Washington Post caught scrubbing Kamala Harris ‘prisoner’ story"
+    excerpt: "The Washington Post scrubbed an unflattering anecdote of Vice President Kamala Harris crassly laughing at the thought of a prisoner begging for a drink of water — then backtracked Friday after ..."
+    publishedDateTime: 2021-01-22T04:25:00Z
+    webUrl: "https://nypost.com/2021/01/22/washington-post-caught-scrubbing-kamala-harris-prisoner-story/"
+    ampWebUrl: "https://nypost.com/2021/01/22/washington-post-caught-scrubbing-kamala-harris-prisoner-story/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/22/washington-post-caught-scrubbing-kamala-harris-prisoner-story/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/kamala-harris-8.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "What Happens When Kamala Harris Lives in Your Condo Complex"
     excerpt: "Following the 2020 election, the Vice President’s neighbors were put on notice."

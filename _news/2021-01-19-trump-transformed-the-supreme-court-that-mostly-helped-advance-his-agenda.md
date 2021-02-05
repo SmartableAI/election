@@ -111,6 +111,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "America’s trade gap soared under Trump, final figures show"
+    excerpt: "The U.S. trade deficit over the four years of President Donald Trump’s presidency soared to its highest level since 2008, despite his tough tariff tactics intended to bring it down, a new Commerce Department report showed on Friday."
+    publishedDateTime: 2021-02-05T20:10:00Z
+    webUrl: "https://www.politico.com/news/2021/02/05/2020-trade-figures-trump-failure-deficit-466116"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/33/cc/65d94e5f4d17aa8a81812b4dabda/ap21012842754911-2.jpg"
+        width: 1159
+        height: 773
+        isCached: true
 
 secured: "bPXdgidBmeUDQgK9EquNR+uCP7ABt5ET4mficPIHdWyFWMbFACM2dfniMHuocSK87fmoC4SJM4ZntcX3RP7u0bYt+G67estpMak/0MCMeYwkf1AYP2OXIIxQZkroOsC/HKObrO6S9ESFPIvWQm3pvqqv/vIwy6aJ9eCpH3FOPEF6OJ4e15hMPlAJdqKCBNUy2X9u6rglZX6f3/rDUlngRFUYFUhxMzH98SfVsV5bXvmMV3+C7kS8RR1LvQX1gcWoTch7BTBAJEaSCyVAUCAzmPgIq6ENv9Su6c2TbWikXZl1jvKjyq6HTu/60EVPhYh0tUcrh7vvjvqoub+YTq2zqkO7B7pJwFq5EEBEKM/4Ok0=;BqtyaOM1z21JGaGFMdBqOw=="
 ---
