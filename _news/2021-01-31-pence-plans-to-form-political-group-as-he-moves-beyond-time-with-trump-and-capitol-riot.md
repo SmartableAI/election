@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-gr
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html"
 type: article
 quality: 132
-heat: 432
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNBC
@@ -31,177 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "City council seeks input on bill condemning Trump for riot"
-    excerpt: "A city council in Maryland is seeking public input on a resolution that condemns former President Donald Trump for the violent siege of the U.S. Capitol"
-    publishedDateTime: 2021-01-25T14:53:00Z
-    webUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+  - title: "Mike Pence Joins Other Trump Administration Alumni At Heritage Foundation Post-VP"
+    excerpt: "Pence is not the only displaced member of the Trump administration to land at the Heritage Foundation. The think tank announced in late January that it had broug"
+    publishedDateTime: 2021-02-04T18:22:00Z
+    webUrl: "https://www.forbes.com/sites/jemimamcevoy/2021/02/04/mike-pence-joins-other-trump-administration-alumni-at-heritage-foundation-post-vp/"
+    ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2021/02/04/mike-pence-joins-other-trump-administration-alumni-at-heritage-foundation-post-vp/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2021/02/04/mike-pence-joins-other-trump-administration-alumni-at-heritage-foundation-post-vp/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Forbes
+      domain: forbes.com
+    quality: 135
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Analysis: McConnell was done with Trump. His party said not so fast."
-    excerpt: "Mitch McConnell had finally had enough. But with most Republicans rallying around Trump, he sided with his colleagues trying to throw out the impeachment case."
-    publishedDateTime: 2021-01-28T02:51:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/ep6Q1vD4mePB-iDVbF8MWftnQD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MOWKPUEBW73M7CU3NULPPZFH7A.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump's influence grows in party with uncertain future: The Note"
-    excerpt: "Things are breaking Trump's way -- despite or even because of the turmoil inside the Republican Party. State parties and activists are lining up behind him, prospects for impeachment conviction are fading fast and President Joe Biden's executive orders and progressive priorities are making it easier for the GOP to find unified messaging."
-    publishedDateTime: 2021-01-28T11:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-influence-grows-party-uncertain-future-note/story?id=75519524"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-13-gty-ml-210120_1611152722603_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Donald Trump and the verdict of history: ANALYSIS"
-    excerpt: "Not yet out of office for a week and still a political force, Donald Trump’s place in history, let alone his sentence, is bound to be debated for years to come."
-    publishedDateTime: 2021-01-28T16:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-fla-20-rt-ml-210120_1611159652714_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Top Trump donor funded rally that preceded U.S. Capitol riot - WSJ"
-    excerpt: "An heiress to the Publix Super Markets chain donated about $300,000 to fund a rally that preceded the deadly storming of the U.S. Capitol this month by supporters of former President Donald Trump, the Wall Street Journal reported on Saturday."
-    publishedDateTime: 2021-01-31T04:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-riots-idUSKBN29Z0QP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Z0QP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Z0QP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210130&t=2&i=1549678697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0T0HT"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Diverse team of U.S. House Democrats to lead Trump's second impeachment trial"
-    excerpt: "The nine Democratic lawmakers who will prosecute ex-President Donald Trump in his impeachment trial reflect America's racial, ethnic and sexual diversity, in stark contrast to the white nationalist imagery that marked the mob of Trump supporters who stormed the Capitol."
-    publishedDateTime: 2021-01-25T11:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-managers-idUSKBN29U13O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U13O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U13O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548960735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O0OP"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Former Trump White House press secretary plans to run for governor of Arkansas: source"
-    excerpt: "Donald Trump's former White House press secretary Sarah Sanders will announce plans on Monday to run for governor of Arkansas, a source familiar with the situation said on Sunday."
-    publishedDateTime: 2021-01-25T06:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-press-secretary-idUSKBN29U04U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U04U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U04U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548913963&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O02I"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Parents loved Taking Cara Babies' sleep tips. Then they found out she donated to Trump"
-    excerpt: "Cara Dumaplin's sleep tips for babies were \"life-changing.\" Then her followers learned she donated to Donald Trump. Here's how the drama unfolded."
-    publishedDateTime: 2021-01-29T21:01:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/media/2021/01/29/taking-cara-babies-trump-donations/4276997001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4276997001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4276997001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/28/PPHX/987a56a3-98e0-4333-95ee-1099d7e324b3-Cara_Dumaplin_video_screenshot.png?auto=webp&crop=1142,642,x165,y13&format=pjpg&width=1200"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c29b832ce85decbe6075f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4969%26cropY1%3D152%26cropY2%3D2946"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Speaker at Jan. 5 pro-Trump rally charged with encouraging mob, impeding police during Capitol breach"
-    excerpt: "Conservative media darling Brandon Straka was taken into custody. Meanwhile, proceedings continued for other defendants."
-    publishedDateTime: 2021-01-26T06:01:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/brandon-straka-arrested-capitol-riot/2021/01/25/e359ec3a-5f45-11eb-9430-e7c77b5b0297_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/brandon-straka-arrested-capitol-riot/2021/01/25/e359ec3a-5f45-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/brandon-straka-arrested-capitol-riot/2021/01/25/e359ec3a-5f45-11eb-9430-e7c77b5b0297_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FFPPEFCQMYI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 954
-        isCached: true
-  - title: "10 Things in Politics: Trump isn't going away anytime soon"
-    excerpt: "Welcome to the 10 Things in Politics newsletter. Planned Parenthood leans on Biden to go \"bold\", a coup unfolds in Myanmar and Trump's new lawyers."
-    publishedDateTime: 2021-02-01T10:48:00Z
-    webUrl: "https://www.businessinsider.com/10-things-in-politics-2021-2-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/6017b7b3d6c5e60019c6e2b4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump has these 7 distinct weapons in his arsenal that show he isn't going away anytime soon"
-    excerpt: "Insider has identified 7 weapons in Donald Trump's arsenal — political committees, government facilities, media platforms — for staging a comeback."
-    publishedDateTime: 2021-02-01T10:00:00Z
-    webUrl: "https://www.businessinsider.com/where-is-donald-trump-new-2024-campaign-committee-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/60149ab66dfbe10018e00e73?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Pence Plans to Form Fundraising Group as He Moves Beyond Trump, Capitol Riot"
     excerpt: "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused fundraising committee that would help him maintain a relationship with donors,"
@@ -219,51 +63,109 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Scarborough: 'Mike Pence is in fear for his life because of Donald J. Trump'"
-    excerpt: "MSNBC co-host Joe Scarborough said Wednesday morning that former Vice President Mike Pence is “in fear for his life” because of former President Donald Trump’s actions leading up to the U.S. Capitol riot."
-    publishedDateTime: 2021-01-27T17:02:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/"
+  - title: "Melania Trump Snubbing Husband Donald In Public Allegedly Just For ‘Distraction’"
+    excerpt: "Melania Trump snubbed her husband Donald Trump in public to distract the crowd, according to her former aide, Stephanie Winston Wolkoff."
+    publishedDateTime: 2021-01-29T02:51:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-snubbing-husband-donald-public-allegedly-just-distraction-3132996"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-snubbing-husband-donald-public-allegedly-just-distraction-3132996?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-snubbing-husband-donald-public-allegedly-just-distraction-3132996?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-and-his-wife-melania-left-washington.jpg"
+        width: 1024
+        height: 668
+        isCached: true
+  - title: "Pence joins Heritage Foundation as visiting fellow to promote conservative policies"
+    excerpt: "Former Vice President Mike Pence is joining the conservative Heritage Foundation as a visiting fellow. He and former second lady Karen Pence plan to move back to Indiana this summer."
+    publishedDateTime: 2021-02-04T18:41:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/"
     type: article
     provider:
       name: Washington Times
       domain: washingtontimes.com
-    quality: 85
+    quality: 69
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/27/scarborough_c35-0-900-505_s1200x700.jpg?3b9cfe2c93ef070d968f1facefb8412d0ec504ee"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/20/pence-indiana_return_41688_c0-209-5770-3574_s1200x700.jpg?8a97340ee4b856c83dadb26ef2416bc3d05aa465"
         width: 1200
         height: 700
         isCached: true
-  - title: "'Cult Of Trump': Why These Politicians Are Leaving The GOP"
-    excerpt: "Traditional Republicans are turning away from the party over its blind loyalty to former President Donald Trump."
-    publishedDateTime: 2021-02-01T13:39:00Z
-    webUrl: "https://www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916"
-    ampWebUrl: "https://www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916?amp=1"
+  - title: "Mike Pence to join Heritage Foundation to 'lead the conservative movement into the future'"
+    excerpt: "Former Vice President Mike Pence is joining a think tank, the first official step on how he plans to stay active in public and political life."
+    publishedDateTime: 2021-02-04T19:37:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/02/04/think-tank-pence-wants-lead-conservatives-into-future/4389431001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4389431001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4389431001"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 65
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/us-president-donald-trump-waves-as-he-boards.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/c81436e0-3d7b-4731-aaa3-94b9139346e5-01202021_Pence_GH_003.jpg?auto=webp&crop=3730,2099,x0,y565&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "House To Send Trump Impeachment Article To Senate, Triggering Trial"
-    excerpt: "The US House of Representatives is to deliver a single article of impeachment to the Senate on Monday accusing Donald Trump of inciting the storming of the Capitol, triggering the first-ever impeachment trial of a former president."
-    publishedDateTime: 2021-01-25T17:30:00Z
-    webUrl: "https://www.ibtimes.com/house-send-trump-impeachment-article-senate-triggering-trial-3130178"
+  - title: "Mike Pence Is Joining the Heritage Foundation—and Writing a Column"
+    excerpt: "Former Vice President Mike Pence is joining the conservative think tank Heritage Foundation as a distinguished visiting fellow. In this capacity, Pence will advise Heritage experts on public-policy issues;"
+    publishedDateTime: 2021-02-05T02:56:00Z
+    webUrl: "https://www.washingtonian.com/2021/02/04/mike-pence-is-joining-the-heritage-foundation-and-writing-a-column/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: Washingtonian
+      domain: washingtonian.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
+      - url: "https://www.washingtonian.com/wp-content/uploads/2016/07/07202016-pence.jpg"
         width: 1024
-        height: 714
+        height: 573
+        isCached: true
+  - title: "Former VP Mike Pence joining Heritage Foundation as distinguished fellow – Jaweb"
+    excerpt: "Former Vice President Mike Pence will be joining the Heritage Foundation as a distinguished visiting fellow, the conservative think tank said Thursday. Pence, 61, will advise the influential organization’s experts on public policy issues and “and ensure Heritage remains the leading conservative voice on solutions to America’s biggest challenges,"
+    publishedDateTime: 2021-02-05T05:03:00Z
+    webUrl: "https://elmoudjaweb.com/former-vp-mike-pence-joining-heritage-foundation-as-distinguished-fellow-jaweb/"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 50
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/Former-VP-Mike-Pence-joining-Heritage-Foundation-as-distinguished-fellow.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vice President Mike Pence Joins Heritage Foundation as Distinguished Visiting Fellow"
+    excerpt: "The Heritage Foundation announced today that former Vice President Mike Pence will join the organization as a distinguished visiting fellow."
+    publishedDateTime: 2021-02-04T17:07:00Z
+    webUrl: "https://www.heritage.org/press/vice-president-mike-pence-joins-heritage-foundation-distinguished-visiting-fellow"
+    type: article
+    provider:
+      name: The Heritage Foundation
+      domain: heritage.org
+    quality: 48
+    images:
+      - url: "https://www.heritage.org/sites/default/files/styles/facebook_optimized/public/images/2021-02/Pence%20at%20Heritage%20.jpeg?itok=OXoR431a"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mike Pence officially hired by anti-LGBTQ Heritage Foundation. He worked for them as Vice President."
+    excerpt: "Former Vice President Mike Pence will join the Heritage Foundation, an anti-LGBTQ think tank. The organization had a huge presence in the Trump administration, manipulating policies from the behind-the-scenes."
+    publishedDateTime: 2021-02-04T20:23:00Z
+    webUrl: "https://www.lgbtqnation.com/2021/02/mike-pence-officially-hired-anti-lgbtq-heritage-foundation-worked-vice-president/"
+    type: article
+    provider:
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 40
+    images:
+      - url: "https://abuwjaawap.cloudimg.io/v7/_lgbtqnation-assets_/assets/2019/07/mike-pence-702x522.jpg?&auto=format&auto=compress&crop=faces&fit=crop&w=1024&h=576&wat=1&wat_gravity=southeast&wat_pad=40"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "UvBVvZ3c4vwlgau/8h9ymxUUmQKEvzHOTi0fjqcyi+v6BLlPeHkkVPW7ps2fcno1Bvsg+eM8EaEP5QNQm/o1tEJ9oTKr7FbCEMHXVM/gFIVdJ+cw1DzS9wUdUAnLViiiKjuR2I7RNUWuGPsmxRqeloypWj39/e4zEylABj0Mm/gJ9d5uWHeYaJZf/AUJBjtyfqFkmL2HHLAJhABrTfc5kYgaEoL5OYgmnGPkGcrIc/c+cymgeKWrFLZtZp9zKiK+8U//Lr6tV1tgnAZB37vHHhFg2phQZJZ6sFdN7F+IJx3/J0BLBcj3yo9s+LuGgsb7jMjy4A03UAAPqsz5xzS/t1BlW5nPun50N5UDAFa73ejaY2YYxkYeQLIpySReXZ7OZe2MimSvOTUV5feAAw4yNmsqQwCVNR6DouegtQhnZCu4+LgsFXjVQQ4H5Z6zY7srsMaKgi8H/Uw0XdHRR+XQEAxeWO8W7ApyxDPeK9vhGGO24T1LrkhecBlDAFTiWNSf1chz2y7bhLdPUr9Lg7XtfA==;Dv5Op6uvC3WPwACa2DKT9A=="

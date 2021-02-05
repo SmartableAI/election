@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-pa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/amid-absence-trump-sets-intra-party-battles-gop/story?id=75473145"
 type: article
 quality: 125
-heat: 305
+heat: 345
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Parents loved Taking Cara Babies' sleep tips. Then they found out she donated to Trump"
+    excerpt: "Cara Dumaplin's sleep tips for babies were \"life-changing.\" Then her followers learned she donated to Donald Trump. Here's how the drama unfolded."
+    publishedDateTime: 2021-01-29T21:01:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/media/2021/01/29/taking-cara-babies-trump-donations/4276997001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4276997001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4276997001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/28/PPHX/987a56a3-98e0-4333-95ee-1099d7e324b3-Cara_Dumaplin_video_screenshot.png?auto=webp&crop=1142,642,x165,y13&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Republicans reluctant to say who's the new GOP boss with Trump gone from the White House"
     excerpt: "GOP senators acknowledged in interviews with Insider that they are without a party leader while Democrats control the White House and Congress."
     publishedDateTime: 2021-02-01T21:03:00Z
@@ -168,6 +184,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YGTRPVDEYJE7LBQFKSN6JHNMAA.jpg"
         width: 4270
         height: 2847
+        isCached: true
+  - title: "'Cult Of Trump': Why These Politicians Are Leaving The GOP"
+    excerpt: "Traditional Republicans are turning away from the party over its blind loyalty to former President Donald Trump."
+    publishedDateTime: 2021-02-01T13:39:00Z
+    webUrl: "https://www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916"
+    ampWebUrl: "https://www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/us-president-donald-trump-waves-as-he-boards.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "hxTTG0demv46traG/u3LYovpvxsM4IGEEp3tFbNkpaMJSHz5As2TKqzARCJ50Ba6iVMDlzNwsYvgOXizjG/3NL0iqSPG7CrduzZ1lApZACpuINSg+iPESL8RXUdlmD6CwdVGKtxUqAw+vLxm3nrNSy8QA9b1zj1W2ab0ulNCUaie3xAruNFW28Cda0gjVxzFj3HIpH++ehxgIP0hJJCNoQTMu0lq76wQdJyR30+eUz0fELIJHdpQccq6stT1wtKQwRuWRj71eb0+lqYwCkpiXqzuwRrXHbNm2/x+umM3bbou86ZJQH/gwZX1Lg8mMpXyilQ/VENVou+ymB99Ui1QJFxInbTzifsNVZvwH2W5Eqw=;OASgde2WJS2yyZSiyfbF+Q=="

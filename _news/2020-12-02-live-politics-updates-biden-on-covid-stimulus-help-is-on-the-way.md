@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3782498001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3782498001"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/73e64eba-6d9d-476b-96d2-17e675c487a6-AP20326568855426.jpg?auto=webp&crop=5999,3374,x1,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Politics live updates: Senate clears way for Biden's COVID relief package"
+    excerpt: "The Senate Friday set the stage for the passage – possibly by the end of this month – of a $1.9 trillion COVID stimulus package that Biden is pushing."
+    publishedDateTime: 2021-02-05T12:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/05/politics-live-updates-trump-impeachment-biden-covid-relief-congress/4398843001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4398843001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4398843001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/70dde651-3135-4b05-8f81-867adb811d47-AP21035662363624.jpg?auto=webp&crop=5525,3108,x0,y85&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://theweek.com/speedreads-amp/964190/heres-what-expect-from-pen
 cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/964190/heres-what-expect-from-pences-postvp-life"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ex-VP Mike Pence could share hot details from the rooms where it happened"
+    excerpt: "Mike Pence, the previous vice president, slipped out of the limelight and returned to his native Indiana on Jan. 20, shortly after attending President Joe Biden's inauguration. Now it is announced tha"
+    publishedDateTime: 2021-02-05T07:04:00Z
+    webUrl: "https://www.newsday.com/long-island/columnists/dan-janison/trump-biden-pence-cheney-gore-coronavirus-hamilton-1.50143088"
+    ampWebUrl: "https://www.newsday.com/amp/long-island/columnists/dan-janison/trump-biden-pence-cheney-gore-coronavirus-hamilton-1.50143088"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/columnists/dan-janison/trump-biden-pence-cheney-gore-coronavirus-hamilton-1.50143088"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 74
+    images:
+      - url: "https://cdn.newsday.com/polopoly_fs/1.50143089.1612512268!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "What happens to Mike Pence now?"
     excerpt: "Former Vice President Mike Pence was thrust into the spotlight during the final days of Donald Trump's presidency. Now that the pair lost their reelection bid, though, what does Pence's"
     publishedDateTime: 2021-01-26T15:31:00Z

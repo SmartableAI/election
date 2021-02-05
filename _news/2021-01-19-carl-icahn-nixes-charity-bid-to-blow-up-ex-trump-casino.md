@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/carl-icahn-nixes-charity-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino/2021/01/18/12e1ce34-59c7-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 305
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/General/my-pillow-guy-mike-lindell-donald-trump-01-gty-llr-210123_1611431001386_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "City council seeks input on bill condemning Trump for riot"
+    excerpt: "A city council in Maryland is seeking public input on a resolution that condemns former President Donald Trump for the violent siege of the U.S. Capitol"
+    publishedDateTime: 2021-01-25T14:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Germany to administer Covid drugs used to treat Donald Trump"
     excerpt: "Country will be first in EU to use antibody cocktails after government buys 200,000 doses"
@@ -140,6 +156,20 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/210114155358-20210114-trump-most-egregious-abuses-of-power-super-169.jpg?w=1024&h=576"
         width: 1024
         height: 576
+        isCached: true
+  - title: "House To Send Trump Impeachment Article To Senate, Triggering Trial"
+    excerpt: "The US House of Representatives is to deliver a single article of impeachment to the Senate on Monday accusing Donald Trump of inciting the storming of the Capitol, triggering the first-ever impeachment trial of a former president."
+    publishedDateTime: 2021-01-25T17:30:00Z
+    webUrl: "https://www.ibtimes.com/house-send-trump-impeachment-article-senate-triggering-trial-3130178"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
+        width: 1024
+        height: 714
         isCached: true
 
 secured: "EIWeeEn63cRwYLBvuMWsFQQ43sewVxZoWQDvM+G0DBlox+ToFZUxfu5ySHXXXfgzCAfS4ohrxLCR6JatJup38MwuMf47r7snOYEThuxvqI/tgccUX51EB+5NIroRa+TpcWkkabj1xFU06Wk+rzmyZ9vX/qjGBN3u3LvH/boO6//9N+bIExMMjHJAdSL9wdMokf1zs3DdzkBgac3iG92EStv8PZ74kZCG9RoEqgGFEHy5F1oUVft+TU823qN7TfgPO1BaoYdzNi7mUSxsDNNncM7GdBXqj+Wh2QqOt+2378xsCq6bc8GC0KxMwRv9vcVpDxiU0A+rGdEdZGIkftj9D7d12Lr4HsXcL6nkmvyA/00=;3ZpVsgNVT4J0cTxPK8KrPQ=="

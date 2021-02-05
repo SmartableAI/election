@@ -175,6 +175,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump and the verdict of history: ANALYSIS"
+    excerpt: "Not yet out of office for a week and still a political force, Donald Trump’s place in history, let alone his sentence, is bound to be debated for years to come."
+    publishedDateTime: 2021-01-28T16:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trump-verdict-history-analysis/story?id=75496916"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-fla-20-rt-ml-210120_1611159652714_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump leaves behind a Republican Party both broken and still in his grip"
     excerpt: "Will Republicans purge the worst of what he has brought to their coalition or will Trump maintain his influence even after he is out of office?"
     publishedDateTime: 2021-01-16T20:15:00Z
@@ -206,6 +222,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/b0fa70e3c8b787c34bc4ffccd3192bf1e7672acf/0_157_4696_2818/master/4696.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a28c5a60f82540b2216f7405711c84d"
         width: 600
         height: 360
+        isCached: true
+  - title: "Diverse team of U.S. House Democrats to lead Trump's second impeachment trial"
+    excerpt: "The nine Democratic lawmakers who will prosecute ex-President Donald Trump in his impeachment trial reflect America's racial, ethnic and sexual diversity, in stark contrast to the white nationalist imagery that marked the mob of Trump supporters who stormed the Capitol."
+    publishedDateTime: 2021-01-25T11:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-managers-idUSKBN29U13O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U13O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U13O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548960735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O0OP"
+        width: 817
+        height: 545
         isCached: true
   - title: "House Speaker Nancy Pelosi says she'll send Trump impeachment to Senate 'soon'"
     excerpt: "House Speaker Nancy Pelosi said Thursday she would \"soon\" send the Senate the impeachment of President Donald Trump, setting the stage for a trial."

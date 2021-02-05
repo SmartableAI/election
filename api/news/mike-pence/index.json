@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-05-pence-will-be-very-active-in-2022-elections-amid-new-partnerships-with-conservative-groups-ex-vps-adviser.md",
+      "title": "Pence will be ‘very active’ in 2022 elections amid new partnerships with conservative groups: ex-VP's adviser",
+      "excerpt": "Pence announced he is joining the Heritage Foundation as a distinguished fellow and is also entering into a partnership with the conservative Young America’s Foundation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/05PIau_y4NA/pence-adviser-says-former-vice-president-to-be-very-active-in-2022-elections",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/05PIau_y4NA/pence-adviser-says-former-vice-president-to-be-very-active-in-2022-elections",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-adviser-says-former-vice-president-to-be-very-active-in-2022-elections.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-adviser-says-former-vice-president-to-be-very-active-in-2022-elections.amp",
+      "publishedDateTime": "2021-02-05T04:44:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-pence-reveals-his-post-white-house-plans.md",
       "title": "Pence reveals his post-White House plans",
       "excerpt": "Former Vice President Mike Pence is joining the Heritage Foundation as a distinguished fellow, according to three people familiar with the matter. The move comes a day after the former vice president launched his transition office and announced plans to relocate to his home state of Indiana this summer.",
@@ -56,49 +113,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-pence-joins-heritage-foundation-as-visiting-fellow-to-promote-conservative-policies.md",
-      "title": "Pence joins Heritage Foundation as visiting fellow to promote conservative policies",
-      "excerpt": "Former Vice President Mike Pence is joining the conservative Heritage Foundation as a visiting fellow. He and former second lady Karen Pence plan to move back to Indiana this summer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/01/20/pence-indiana_return_41688_c0-209-5770-3574_s1200x700.jpg?8a97340ee4b856c83dadb26ef2416bc3d05aa465",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/feb/4/pence-joins-heritage-foundation-visiting-fellow-pr/",
-      "publishedDateTime": "2021-02-04T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {
@@ -216,6 +230,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-05-mike-pence-joins-other-trump-administration-alumni-at-heritage-foundation-post-vp.md",
+      "title": "Mike Pence Joins Other Trump Administration Alumni At Heritage Foundation Post-VP",
+      "excerpt": "Pence is not the only displaced member of the Trump administration to land at the Heritage Foundation. The think tank announced in late January that it had broug",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/02/04/mike-pence-joins-other-trump-administration-alumni-at-heritage-foundation-post-vp/",
+      "originalUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/02/04/mike-pence-joins-other-trump-administration-alumni-at-heritage-foundation-post-vp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c29b832ce85decbe6075f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4969%26cropY1%3D152%26cropY2%3D2946",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jemimamcevoy/2021/02/04/mike-pence-joins-other-trump-administration-alumni-at-heritage-foundation-post-vp/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2021/02/04/mike-pence-joins-other-trump-administration-alumni-at-heritage-foundation-post-vp/amp/",
+      "publishedDateTime": "2021-02-04T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-former-vp-pence-opens-transition-office-in-northern-virginia.md",
       "title": "Former VP Pence opens transition office in northern Virginia",
       "excerpt": "Former Vice President Mike Pence has opened a transition office in northern Virginia.",
@@ -267,7 +333,7 @@
       "originalUrl": "https://theweek.com/speedreads/964190/heres-what-exect-from-pences-postvp-life",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -302,21 +368,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-31-pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.md",
-      "title": "Pence plans to form political group as he moves beyond time with Trump and Capitol riot",
-      "excerpt": "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused political committee that would help him maintain a relationship with donors,",
+      "path": "_news/2021-01-28-joe-scarborough-mike-pence-is-in-fear-for-his-life-because-of-donald-j-trump.md",
+      "title": "Joe Scarborough: 'Mike Pence is in fear for his life because of Donald J. Trump'",
+      "excerpt": "MSNBC co-host Joe Scarborough said Wednesday morning that former Vice President Mike Pence is “in fear for his life” because of former President Donald Trump’s actions leading up to the U.S. Capitol riot.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html",
+      "webUrl": "https://www.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 432,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/106820378-1609982678273-AP21007045774819.jpg?v=1612099871",
-          "width": 1997,
-          "height": 1331,
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/01/27/scarborough_c35-0-900-505_s1200x700.jpg?3b9cfe2c93ef070d968f1facefb8412d0ec504ee",
+          "width": 1200,
+          "height": 700,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -324,23 +390,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/31/pence-plans-to-form-political-group-as-he-moves-beyond-time-with-trump-and-capitol-riot.html",
-      "publishedDateTime": "2021-01-31T05:59:00-08:00",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
+      "publishedDateTime": "2021-01-27T09:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1493,58 +1550,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-hogan-calls-gop-delegate-who-attacked-pence-a-q-anon-conspiracy-theorist.md",
-      "title": "Hogan calls GOP delegate who attacked Pence a ‘Q-Anon conspiracy theorist’",
-      "excerpt": "Larry Hogan (R) said Tuesday that a Republican state delegate who organized buses to the #stopthesteal rally in Washington — and called Vice President Pence a traitor during the breach of the Capitol — was a “Q-Anon conspiracy theorist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YKBUGEEW5UI6VB5DELJSII2WGY.jpg&w=1440",
-          "width": 1440,
-          "height": 983,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-12T19:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

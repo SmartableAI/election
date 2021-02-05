@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-loyalists-south-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-loyalists-south-dakota-turn-home-state-senator-75594714"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Donald Trump has these 7 distinct weapons in his arsenal that show he isn't going away anytime soon"
+    excerpt: "Insider has identified 7 weapons in Donald Trump's arsenal — political committees, government facilities, media platforms — for staging a comeback."
+    publishedDateTime: 2021-02-01T10:00:00Z
+    webUrl: "https://www.businessinsider.com/where-is-donald-trump-new-2024-campaign-committee-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/60149ab66dfbe10018e00e73?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Ac27NyQCpkS6ljSvh3Id5KSN3/SoN8Zl95x+WxQDSEAFN5TA/nLeqMyzsdWyoLIIkm0xgAaiKagC07pjVEQ+Q6VYHCinb/pPeTQEf6mf5QKQqOuyapalU7oc1swofaS1A7XPoWuv1xVdMtLBy7FxWqqy41GcSeLANm31NSwRVcg+fyMrtD3wJ1L6qdVexxO6RtsyinLJC2lZEBCk/uLQNKRLTgWPPapzk7aYTpu2eA/9f5xtGsztxxTb0uNZH+q0TQS1szaJ8t+3QTB7cMor7bnUxslne/1szRWvT5p72xERdv3TDmstBtKlz/xGSbNpZ/DiEL31bK52lPCso4Xq5x4BM+bM3pbvY7iURuaWK0sXD4LrS6PqSzvSiTspDKQJJeTa59NbCzjAhrZhTDpvKcBK3vidd0B5GXbYXEwmKWl2jRiJAmncBR4Pi7fka1nCoHjpktZqfKbYesR2hfQQLHtVac5+R192wB/GcnkkEwZkhgYdnVlAcUF9k0ODNYnWYxsjVeuDV2n6nFpTOyxpLQ==;IJ3OnN7oUDQHvDJZ8jpHug=="
 ---

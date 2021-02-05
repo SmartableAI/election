@@ -287,6 +287,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Kamala Harris uses casting vote to pass Covid relief budget resolution"
+    excerpt: "Vice-president’s Senate intervention means Biden’s $1.9tn package can pass without Republican support"
+    publishedDateTime: 2021-02-05T12:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/05/kamala-harris-casting-vote-us-senate-covid-relief-coronavirus-minimum-wage"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/05/kamala-harris-casting-vote-us-senate-covid-relief-coronavirus-minimum-wage"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/05/kamala-harris-casting-vote-us-senate-covid-relief-coronavirus-minimum-wage"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/6811ad30035b29631a76bf3087a6b7653b35f39a/0_24_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=04bdc94c39390add53a64b6178e180bf"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden to reopen Obamacare markets to offer medical coverage during pandemic"
     excerpt: "President Biden plans to reopen the HealthCare.gov markets for a special sign-up opportunity for people without medical coverage in the pandemic."
     publishedDateTime: 2021-01-27T10:13:00Z

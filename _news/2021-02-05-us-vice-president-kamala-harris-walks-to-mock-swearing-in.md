@@ -281,6 +281,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Kamala Harris uses casting vote to pass Covid relief budget resolution"
+    excerpt: "Vice-president’s Senate intervention means Biden’s $1.9tn package can pass without Republican support"
+    publishedDateTime: 2021-02-05T12:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/05/kamala-harris-casting-vote-us-senate-covid-relief-coronavirus-minimum-wage"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/05/kamala-harris-casting-vote-us-senate-covid-relief-coronavirus-minimum-wage"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/05/kamala-harris-casting-vote-us-senate-covid-relief-coronavirus-minimum-wage"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/6811ad30035b29631a76bf3087a6b7653b35f39a/0_24_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=04bdc94c39390add53a64b6178e180bf"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden follows in recent presidential footsteps with Super Bowl interview"
     excerpt: "When U.S. President Joe Biden appears for a CBS interview this Super Bowl Sunday, he will be following a recent White House tradition of using the country's most-watched sporting event to reach a national audience in the tens of millions."
     publishedDateTime: 2021-02-04T04:24:00Z
@@ -950,6 +966,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "0eR+tOF3bET8sjUTgItag/kY6QYj+GA0Hb0+DLKKq87xCi/mn3yi1xvM5rO2tzeP3Ozav9WCiJHEaxKB1QduQa/1WdAmI730qbjl4BdX2VIRpa4AlOk/xDodSKJZq1bcfn/6tr0jw5S3NO0N9D97ivlU++jL0emi95vs+CGEMQ03ovKfySXrmy8t1J9MhWWGVWicPZIZ/uCC7CjgQm5JHsbJi+VH3MUe3zCRYg0UKgru4CpGrRJOVJ3JcofMzZtQBbFlKIHZ5wZJukImWJE34HjylgWPA/9nNpZ/lKU1d9OTcn4rP9EZSN+ZsANKrcqP358Mf9Gp5N9Y6Ggg+k9DtpWhIEH02fxfnQTlzHHOBDU=;SgpjVju80yxYYpb6RjbdnQ=="
+secured: "v50g0vU9c0DmxprCn1hJ4mHJuNHwSIlaQ5+0413NXbWVRv/YDSbngyZMr8cDUvD40MjrSYb4121+t+45m92Zxx68eE9+yQ5X41IE+MxVfeGyBAUxn6VNGFO3sHKAIzT1gayK2AdyXeKB4HabAiL5p0zrMpYzi7arf3IIZ05MKx1Wuf6dnkGZPyfqcvVanMDpAjxschUB6hTu6fMAmaUtBKoaqv+tteK/A7uugY2cYnw0joI2E768JZGsTaqp+e7pnFEu7k6rEZ2MLzlLlwSfgw4cHHa2R7uQ87A42Yx4ji1NWg0x8iorFbLhirKDmgAoIzk9bKe7HPhZx01Ll/0DPkozfCkMwXJ8rbbXXdPtQPhG5rhErorzBh8GiVEcq8n+8vm4yPcrdiYQlEwRcW5LOYRCJ1hX5UAFmrNhlDuHmZXp3G7LAtmXVW/GHM4w63/UDB9H/HIfije3ZW7lkashBRqXMeDSk0cbRl2nDEe9ZThkMRHMWDsiN5vkLo1HdnxyvnDerKbWgtBzg83G5idziA==;ca1oK7XNdXznKy0zCE9PdQ=="
 ---
 

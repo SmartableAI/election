@@ -58,6 +58,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Donald Trump has these 7 distinct weapons in his arsenal that show he isn't going away anytime soon"
+    excerpt: "Insider has identified 7 weapons in Donald Trump's arsenal — political committees, government facilities, media platforms — for staging a comeback."
+    publishedDateTime: 2021-02-01T10:00:00Z
+    webUrl: "https://www.businessinsider.com/where-is-donald-trump-new-2024-campaign-committee-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/60149ab66dfbe10018e00e73?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "uNbNDwD9vGdCQFsQlL6AU4ciyqw8oNqavtE5is877ZmXjExmMFRNG1fAUxBNwMKONCD0GEJ/SB6LqtAX86xwvi9VH/BH0UjkYCSF3y8o+RrXDKnXMqpQE0H65CtDCHuoLdesNeqpXjP79uYic9pUq3xbXoghVgwUxFX5psv6/5UTf6B7WcBgea63kjwZDCa+YNu8xjP1wYsIp/7nTx+87OJFdD2PELQrAU0g7aiXfQQAWVISAHbT1LnGSFi3t9Nlj0k2GdcoPocxhujol0mRBeh36mPibHe+P/Y0+ONTVDfXUh2k1yMEPYGozolkZE4pR5lYM6Z90MDtuIRzynaMGvEBpmwXXqLOMywJseWOxV7q60W8odeatCeyZuBiqImiTxFuNp9NbzOCxSiiCXshLp5NAihJgEmDyxoQ0RUyKUB5DU9Uql0uYEQSxsfTm9zMwe5Za7nS/d6eAnR3NMBkslMw2vzFH42i9Red4xGj4l6KwZyriyAyHvBaStmwSfIr1rysUGGraY3Qc6TocI3KIg==;PmKesIe8R011ZHIw9OwpkA=="
 ---

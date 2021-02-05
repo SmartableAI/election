@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Parents loved Taking Cara Babies' sleep tips. Then they found out she donated to Trump"
+    excerpt: "Cara Dumaplin's sleep tips for babies were \"life-changing.\" Then her followers learned she donated to Donald Trump. Here's how the drama unfolded."
+    publishedDateTime: 2021-01-29T21:01:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/media/2021/01/29/taking-cara-babies-trump-donations/4276997001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4276997001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4276997001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/28/PPHX/987a56a3-98e0-4333-95ee-1099d7e324b3-Cara_Dumaplin_video_screenshot.png?auto=webp&crop=1142,642,x165,y13&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Republicans are reluctant to say who's the new GOP boss with Trump gone from the White House"
     excerpt: "Some GOP senators said in interviews with Insider they were without a party leader with Democrats in control of the White House and Congress."
     publishedDateTime: 2021-02-03T06:23:00Z
@@ -168,6 +184,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YGTRPVDEYJE7LBQFKSN6JHNMAA.jpg"
         width: 4270
         height: 2847
+        isCached: true
+  - title: "'Cult Of Trump': Why These Politicians Are Leaving The GOP"
+    excerpt: "Traditional Republicans are turning away from the party over its blind loyalty to former President Donald Trump."
+    publishedDateTime: 2021-02-01T13:39:00Z
+    webUrl: "https://www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916"
+    ampWebUrl: "https://www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/cult-trump-why-these-politicians-are-leaving-gop-3134916?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/us-president-donald-trump-waves-as-he-boards.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "EoEQ4TJn1b/tBadNIj7Zz5igidt5xIDT1LR12FZhNHfwRe6qSZ80Jzb2rMrkvp0QFbtymFEc7djPKioO0pf67fFLQjcOmaYC0oUZb8BM3N3Uh8Rm/BHcdkd+AxxIUxsp8r6K2BR7VMxc5aCvwqYeul5XViFwSpDNiOaoLcxsa3UTAlrmbztKGFQjbCIh4RNd0qLC2Lvx2wAfu62iyJ2cZLucKAM8twduBTAVZKOJpYOyPVn8zEPyKFfuJ8N6sKXvHFKWW8Qpi4Kbg7qMNn8yC6+/b/X3YPYNSq8nKruur8G22jcMXkkwJnEInZGZORrrlGTAxiqp0sOrmM3k9nrEMngXc1Rc2e4qzOrk1rGRE/VCHtzii/yWZzRiHwMjCXYus9SfyfE5U95kc/9cf7q/Gv0kSeRqCWLGWizZacESK0TyyKainEWsoyoXRj8+Yq7m8b4S63FJh05SLN90eVXgRSl+qnqThG+l96zoNza9qnaaJbfg6X1AQSwUnx6JTNri9iKccUUah2hJZsmaAu+9Pg==;6JfyJysqVk5JOsWKLjyhDw=="
