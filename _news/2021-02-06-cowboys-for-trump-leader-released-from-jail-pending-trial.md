@@ -2,21 +2,21 @@
 category: news
 title: "Cowboys for Trump leader released from jail pending trial"
 excerpt: "Cowboys for Trump founder Couy Griffin is headed home to New Mexico after nearly three weeks in a Washington jail, after a judge on Friday said she will trust Griffin to show up for trial in connection with the Jan."
-publishedDateTime: 2021-02-06T01:11:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/cowboys-trump-leader-released-jail-pending-trial-75718965"
-webUrl: "https://abcnews.go.com/Politics/wireStory/cowboys-trump-leader-released-jail-pending-trial-75718965"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/cowboys-trump-leader-released-jail-pending-trial-75718965"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cowboys-trump-leader-released-jail-pending-trial-75718965"
+publishedDateTime: 2021-02-06T05:35:00Z
+originalUrl: "https://www.washingtonpost.com/health/cowboys-for-trump-leader-released-from-jail-pending-trial/2021/02/05/3258310e-6813-11eb-bab8-707f8769d785_story.html"
+webUrl: "https://www.washingtonpost.com/health/cowboys-for-trump-leader-released-from-jail-pending-trial/2021/02/05/3258310e-6813-11eb-bab8-707f8769d785_story.html"
+ampWebUrl: "https://www.washingtonpost.com/health/cowboys-for-trump-leader-released-from-jail-pending-trial/2021/02/05/3258310e-6813-11eb-bab8-707f8769d785_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/cowboys-for-trump-leader-released-from-jail-pending-trial/2021/02/05/3258310e-6813-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_30069d1c895344a38f9874ea8f4fe8d3_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -799,22 +799,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "As Trump prosecutor, delegate gets her say on impeachment"
-    excerpt: "The non-voting delegate from the Virgin Islands is among the impeachment managers selected by House Speaker Nancy Pelosi to argue the case that Trump incited a deadly insurrection at the U.S. Capitol."
-    publishedDateTime: 2021-02-06T05:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/as-trump-prosecutor-delegate-gets-her-say-on-impeachment/2021/02/06/39fa6f1e-683e-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/as-trump-prosecutor-delegate-gets-her-say-on-impeachment/2021/02/06/39fa6f1e-683e-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/as-trump-prosecutor-delegate-gets-her-say-on-impeachment/2021/02/06/39fa6f1e-683e-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Could Donald Trump's Gab Post Hint at Return to Social Media?"
     excerpt: "Former President Donald Trump posted to social media on Friday for the first time in weeks to address his upcoming second impeachment trial in the Senate. The trial starts on February 8. Trump shared a letter from his attorneys to Democratic Congressman Jamie Raskin on his Gab account."
     publishedDateTime: 2021-02-06T12:56:00Z
@@ -1269,6 +1253,17 @@ related:
         width: 800
         height: 535
         isCached: true
+  - title: "As Trump prosecutor, delegate gets her say on impeachment"
+    excerpt: "Stacey Plaskett couldn't cast a vote last month when the House impeached former President Donald Trump. But she can help prosecute him."
+    publishedDateTime: 2021-02-06T15:57:00Z
+    webUrl: "https://www.businessinsider.com/as-trump-prosecutor-delegate-gets-her-say-on-impeachment-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/as-trump-prosecutor-delegate-gets-her-say-on-impeachment-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/as-trump-prosecutor-delegate-gets-her-say-on-impeachment-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump White House donated 8,700 ventilators to other nations. Officials now don’t know where many of them are, watchdog finds."
     excerpt: "The GAO was unable to identify how the Trump White House made its decisions on ventilator allocations. Sri Lanka had just three new coronavirus cases per day when it received 200 ventilators. Bangladesh,"
     publishedDateTime: 2021-01-29T22:07:00Z
@@ -1526,6 +1521,6 @@ related:
         height: 696
         isCached: true
 
-secured: "aYrPGF61MDUyB9gWrxXM901OG0oe2vy12rGgAgXeA1gVT5uPmACBD4rwTPQL0v+hK+iap44GnWHS7rQOBswRrigHiz9weZ6IjvU65DRYK+dpWP023CETXJUjCWoLio5AFVz/Ad0P1vblUzWgUq14jDRR5Umq3tut0bw5HhsZQBClCrbL1A40D0AviBoQONMDebtwVla1Ub1OwYSUckXAiRTFwqcs8y8tVgVvU0fKfjCK86NB4TWa3Nemy8b3C+T6AQepd22wsJVF7xFBeulhFFUIRj4hOyjTXSoJ/A3NUxh1pQccU7aGttkL7wZjCTeyOnXH9SeMOuhjBcyO1gclWfW3oGIwV+Oix/7cufO346OvTCyUHBWantD05tgO8+ch2scAFujfVAh/vroRxZ8T7mcXt88UxD7QLEhEClI2PE0LLCrQ3GN0GNzc0S8VLNskUVMF4wrGGV6DwnrIDbVGhn2nRIQ5BLBZC6K8f6omy/hicoEGZnp7Lm3WS257EnHoMQKNOlndSvwSzHcU6MXsHQ==;dR8BdC0scy5y6VaLzmt33Q=="
+secured: "UBuFGO90sU4g1GOEHExI/VNwnWrGo4IV4BnixG1gS6+rMdrE0ZMPv13t6pd1bdLSEXe/Pv82PcmNfOdKR7PsqyQLw82LSsZ/gP+c/mjzgD8h0xgggVOTsPnWfHH+lRKhhId4Nmra7tuJIq1GKJ7eUu0x++/sGc5Tuu0+MsyA+SGBlNEuoya2x2sZnGs+E6HFvnIg+xJ4eGgqVCAj7Srh2kqFXX5TutdgezI1O7Ncy0h6p+dudhAlzA0yE4y/vnKyiJgmhRfQ4EhWvh9ZuGfQANSbjr6Hw/VjKwkvLKwgGAPirOxWqVGMEtTKaBCfJgGTQC8t6TR3FCnBsqE+i+KNumt0DVMh79kD6j3RT/s8JpM=;LDeh16woQAl6IXdp05eMSg=="
 ---
 

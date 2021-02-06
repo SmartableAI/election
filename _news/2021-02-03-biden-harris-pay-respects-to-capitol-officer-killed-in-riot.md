@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1490
+heat: 1510
 published: true
 
 provider:
@@ -927,6 +927,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/3a5a1fc635097f8ba33ed5213d22c6b0/HARRIS-SWEARS-IN-SENATORS.jpg"
         width: 650
         height: 650
+        isCached: true
+  - title: "Senate approves budget bill as Kamala Harris casts tie-breaker vote"
+    excerpt: "The action came after a grueling all-night session, where senators voted on amendments that could define the contours of the eventual COVID-19 aid bill."
+    publishedDateTime: 2021-02-05T17:40:00Z
+    webUrl: "https://bangordailynews.com/2021/02/05/national-politics/senate-approves-budget-bill-as-kamala-harris-casts-tie-breaker-vote/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/02/Senate-Democrats.jpg?fit=2500%2C1676&#038;ssl=1"
+        width: 2500
+        height: 1676
         isCached: true
   - title: "Kamala Harris to receive shot in bid to boost U.S. confidence in vaccines"
     excerpt: "American, will become the second high-profile person from an ethnic minority background to receive the vaccine after Surgeon General Jerome Adams on Dec. 18."

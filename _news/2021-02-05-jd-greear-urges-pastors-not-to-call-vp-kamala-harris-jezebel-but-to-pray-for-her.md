@@ -923,6 +923,20 @@ related:
         width: 650
         height: 650
         isCached: true
+  - title: "Senate approves budget bill as Kamala Harris casts tie-breaker vote"
+    excerpt: "The action came after a grueling all-night session, where senators voted on amendments that could define the contours of the eventual COVID-19 aid bill."
+    publishedDateTime: 2021-02-05T17:40:00Z
+    webUrl: "https://bangordailynews.com/2021/02/05/national-politics/senate-approves-budget-bill-as-kamala-harris-casts-tie-breaker-vote/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/02/Senate-Democrats.jpg?fit=2500%2C1676&#038;ssl=1"
+        width: 2500
+        height: 1676
+        isCached: true
   - title: "Kamala Harris to receive shot in bid to boost U.S. confidence in vaccines"
     excerpt: "American, will become the second high-profile person from an ethnic minority background to receive the vaccine after Surgeon General Jerome Adams on Dec. 18."
     publishedDateTime: 2020-12-29T16:22:00Z
@@ -1023,6 +1037,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "EaIQQXadAhyGvXq6eJLQCYuekcA22Ysip+Gzi9cyTJFC9tfS5wP6KI8aS/V0Ha79M0qW2nFzX/vxB3Pg5cfxwALMRULBDYSym9jh5/WN6l9BVkNDp/w/f4NCc9YuuNT5jc9aLUGP8h5uTheku8nK2DZ4xSI6JN6f630o4dC2QEcRW7NGg62B9na54J9IrOdDE735FMx3XPh4MdrsdFrklu+nmXT6HvO+SGT6nOhhzynuOCmgHsPMfPC5F/GRG/cINUS6yaZONhsJG3KQ+6PwjJjYCXvAm/MnYOqT7lvZOWkiFaphKrdvplkLW+djXVrfxAowlhHgi8M2pin8Vg0U9v/62TZGfurYCqjxKrbi4pE=;RvymBZZtVILnczdAlPa3Qg=="
+secured: "4Vn9SsbWB62kB/BU9Y8nociWCEkj0TRmkx6lEn/6sJDlvMvyVeIjH9sJGpzupQaPYwPga4OwmG44VgS5H2d9m714EBI2o4hja+rjFEw4iFY59bfR+VQLDJZuKUHn6PvZabpT2FM8UMS3FWUpYlCHLMughE0nNQUTtTRr/uyXObVaEtXzlqf0DXXptvnvSzZwjKGn7sKwOZ4OQQL66CbwT6Kz8uwj3tbgRhOjM9KyUVfgEHa3/4yUt4A0gfb0hZkMJbUiakZw2Wen2xkP2oYL52FEgmPXUnJIVqsS+Y5PC2Pa21OZqwAa+PID5wBce3zI5lYnVgV+MEnSKUE/IfMqvzCbnATbKYBNwE4F7oguVxxSjlEoqs2OXregi8e8M5mq5+gBYhmKG3HdPKfHVrc42F0TJWhig0KKxuyN5+NW0O0W3TPRQTNhe8OQ5S9uAWJR1wA6fX3VGh9jqACBoNoJGXIhUJyS1RN6zG92nE9oIOB07gMXMa642xHfCncq45WAB21OTJ18PXTNpUiu9W+oKg==;SmxnZfl7+KFSbm89B5IVTg=="
 ---
 

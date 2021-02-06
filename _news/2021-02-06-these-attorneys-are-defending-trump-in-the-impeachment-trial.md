@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Bruce Castor: What to know about Trump impeachment defense attorney"
-excerpt: "Former President Donald Trump on Sunday announced his new legal team for his upcoming Senate impeachment trial, featuring attorney Bruce Castor."
-publishedDateTime: 2021-02-01T14:02:00Z
-originalUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know"
-webUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know"
-ampWebUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp"
+title: "These attorneys are defending Trump in the impeachment trial"
+excerpt: "Former President Donald Trump is preparing for his second Senate impeachment trial, where his team will defend him against the charge that he incited an insurrection at the Capitol on Jan. 6."
+publishedDateTime: 2021-02-06T16:22:10Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aq7PAVOgtkE/attorneys-defending-trump-impeachment-trial"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aq7PAVOgtkE/attorneys-defending-trump-impeachment-trial"
+ampWebUrl: "https://www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial.amp"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
@@ -22,13 +22,12 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Bruce-Castor.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f71c7c8-f784-4aea-987b-334be762ef53/21c2e19d-6341-4cee-b5b0-80d37e765bf1/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -111,22 +110,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "These attorneys are defending Trump in the impeachment trial"
-    excerpt: "Former President Donald Trump is preparing for his second Senate impeachment trial, where his team will defend him against the charge that he incited an insurrection at the Capitol on Jan. 6."
-    publishedDateTime: 2021-02-06T16:22:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aq7PAVOgtkE/attorneys-defending-trump-impeachment-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f71c7c8-f784-4aea-987b-334be762ef53/21c2e19d-6341-4cee-b5b0-80d37e765bf1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Raskin says Trump’s refusal to testify at impeachment supports ‘his guilt’"
     excerpt: "Rep. Jamie Raskin, D-Md., took former President Trump to task for refusing to testify at his second impeachment trial that many Republicans and Trump’s legal team have called a farce."
@@ -253,6 +236,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/a84aa83d-TrumpfriBT.jpg"
         width: 1280
         height: 533
+        isCached: true
+  - title: "Bruce Castor: What to know about Trump impeachment defense attorney"
+    excerpt: "Former President Donald Trump on Sunday announced his new legal team for his upcoming Senate impeachment trial, featuring attorney Bruce Castor."
+    publishedDateTime: 2021-02-01T14:02:00Z
+    webUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know"
+    ampWebUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Bruce-Castor.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump, House Democrats to Lay Out Impeachment Trial Strategies"
     excerpt: "Under rules sketched out for the trial, the parties must answer whether Donald Trump can be tried in the Senate for acts committed when he was president, and how they respond to the charge of incitement of insurrection."
@@ -445,6 +444,6 @@ related:
         height: 3765
         isCached: true
 
-secured: "v27h17mqIozzj4vFvM3F9vDm79X61HzDrojJ6ja5QoNiYNNyUn99JZH0K/5rsnYYkszzSvcqUyUl6vFe4bkwOIgd2xNLXgHcpRvRrDtO6q/OlXLDV8nr/P9ndcSqaB2qoY8r1/J2qq9rXPmNuyl2zJR48ObR/g4wy7u5bOPgXH0DbdJ0Kq8dMelJ5KJcyX2iBJ2ZJIrdp1pQvoTmA47VvAC0L2QMUrk6bK9Ja92aWPdnu7M6hgDeQXGvIkbzzJ7ozVRb8sBtFTLxwD92MkXqVYkDUy1c5ujwWBNKeL86vFIiwN+yNOseFnYQwpMZUJgsTxdWyv2RQMIaMDqYX2IXJbdEI7MXvXZ2ZjnOoKmmsIz5+iTsAhekfpXOTmHrfw4hIYb/xdil7X8FfFqk8t/3Svqce1SJWHkhYWCLi1ZWoEOqUyed3UbAlFMsEokHwyXLrnkALe5y/DuktodHPiClH/tHHBh27bi3H/6YqEtlRcqv+cAGg2Pt1lerw9lHy5s0Csf2+WAQLuJ0vf4p0UK+VA==;UNX3ak2xJ4FryTrlui0bDA=="
+secured: "xn3Q6Ksu3mRJ9LSWbsriSytwdt5qIZGQEgBF5jjT+11jLp7eVAE0p05xEXBel/GM/a3vmyzKdwFY5F1xcIgpAHvMW9REI0HUYeE+1UgPKVOUVZVKaeGu2mU1R/nuBA5XMvoECwVqPvGXsC9R6bYLyfZkC9FnevBP+TJAudCYXR9PfUaqm4pTOkyI7RnnHLfvhQr2bmfuIxtQsOwaiUUm/ICvQgoTmfvfxXH0nfcWwFV3Bfd0Ow8zP+EuLPQEaWgnRzII/aRJuE6YH/M9Mfwp9IxsA/TqpdCovMangClRJGVI0Up++xCrZtY75sCnCLfPPLEtd6ZZZE9/bLNK8XQs3OFAcPFy/3zgf7Qs/+qrImo=;ip1bq6Ih8TJ8sv63F3Zc9Q=="
 ---
 

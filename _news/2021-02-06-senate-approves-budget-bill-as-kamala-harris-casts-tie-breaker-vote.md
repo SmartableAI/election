@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Ella Emhoff, Kamala Harris' stepdaughter, snags modeling deal with IMG"
-excerpt: "Vice President Kamala Harris ' stepdaughter Ella Emhoff, has a new modeling deal and it's major. She will officially be joining an all-star lineup of notables as one of IMG Models' newest faces. The prestigious agency has been famously known for its alignment with supermodels such as Gisele Bündchen,"
-publishedDateTime: 2021-01-29T21:06:00Z
-originalUrl: "https://abcnews.go.com/GMA/Style/ella-emhoff-kamala-harris-stepdaughter-snags-modeling-deal/story?id=75563684"
-webUrl: "https://abcnews.go.com/GMA/Style/ella-emhoff-kamala-harris-stepdaughter-snags-modeling-deal/story?id=75563684"
-ampWebUrl: "https://goodmorningamerica.com/amp/style/story/ella-emhoff-kamala-harris-stepdaughter-snags-modeling-deal-75563684"
-cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/style/story/ella-emhoff-kamala-harris-stepdaughter-snags-modeling-deal-75563684"
+title: "Senate approves budget bill as Kamala Harris casts tie-breaker vote"
+excerpt: "The action came after a grueling all-night session, where senators voted on amendments that could define the contours of the eventual COVID-19 aid bill."
+publishedDateTime: 2021-02-05T17:40:00Z
+originalUrl: "https://bangordailynews.com/2021/02/05/national-politics/senate-approves-budget-bill-as-kamala-harris-casts-tie-breaker-vote/"
+webUrl: "https://bangordailynews.com/2021/02/05/national-politics/senate-approves-budget-bill-as-kamala-harris-casts-tie-breaker-vote/"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Bangor Daily News
+  domain: bangordailynews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.abcnews.com/images/GMA/ella-emhoff-crop-gty-rc-210129_1611936263218_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/02/Senate-Democrats.jpg?fit=2500%2C1676&#038;ssl=1"
+    width: 2500
+    height: 1676
     isCached: true
 
 related:
@@ -158,6 +152,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/28/01df0dab-acae-45d3-b972-d084f9d0e777/thumbnail/1200x630/a59f1fa9e474e8558ae2dd999604c312/gettyimages-1155807151.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Ella Emhoff, Kamala Harris' stepdaughter, snags modeling deal with IMG"
+    excerpt: "Vice President Kamala Harris ' stepdaughter Ella Emhoff, has a new modeling deal and it's major. She will officially be joining an all-star lineup of notables as one of IMG Models' newest faces. The prestigious agency has been famously known for its alignment with supermodels such as Gisele Bündchen,"
+    publishedDateTime: 2021-01-29T21:06:00Z
+    webUrl: "https://abcnews.go.com/GMA/Style/ella-emhoff-kamala-harris-stepdaughter-snags-modeling-deal/story?id=75563684"
+    ampWebUrl: "https://goodmorningamerica.com/amp/style/story/ella-emhoff-kamala-harris-stepdaughter-snags-modeling-deal-75563684"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/style/story/ella-emhoff-kamala-harris-stepdaughter-snags-modeling-deal-75563684"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/GMA/ella-emhoff-crop-gty-rc-210129_1611936263218_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Lawmakers push Biden to offer recurring $2,000 stimulus checks"
     excerpt: "As Congress debates President Joe Biden's request for $1.9 trillion in coronavirus relief funding — including a third stimulus check pegged at $1,400 — some Democratic lawmakers are pushing for an even bigger response: $2,"
@@ -927,20 +937,6 @@ related:
         width: 650
         height: 650
         isCached: true
-  - title: "Senate approves budget bill as Kamala Harris casts tie-breaker vote"
-    excerpt: "The action came after a grueling all-night session, where senators voted on amendments that could define the contours of the eventual COVID-19 aid bill."
-    publishedDateTime: 2021-02-05T17:40:00Z
-    webUrl: "https://bangordailynews.com/2021/02/05/national-politics/senate-approves-budget-bill-as-kamala-harris-casts-tie-breaker-vote/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/02/Senate-Democrats.jpg?fit=2500%2C1676&#038;ssl=1"
-        width: 2500
-        height: 1676
-        isCached: true
   - title: "Kamala Harris to receive shot in bid to boost U.S. confidence in vaccines"
     excerpt: "American, will become the second high-profile person from an ethnic minority background to receive the vaccine after Surgeon General Jerome Adams on Dec. 18."
     publishedDateTime: 2020-12-29T16:22:00Z
@@ -1041,6 +1037,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Hz6uoyE8eOWAGpM7Z8oTQ5PgFMXo40iKVedExgbrkg8317dgzdBjMQ2khoGr4veG4qmJyV3ImimWbX7fYY9lAxdK6ajnfrF0jM1UtxA0oHarjgE47xG3uzUO09fihrfGcVpTjEx3RWujJgEn8oXL2etvWOi0nATW4Qz13rGwOuezDad4wWeVzHpvWieqMHldJGpDbzcocTFJEUtw/5v5sjiY9LqzA5GnxBz2PC7VkEl3iU6PUWFlcPeYZKvm/wErJHy4NZTxVDURwOiauusu+7LieK0q0qwYbDNkNpjcKFUMD9vr7//fQflSl/25tTpRvJDbJO5vMYzlrqC2uu3LEjyG5tptV98t9Kr2qCoKYvoAaG7hy+3xkX7hi56q6b7JG81zmph5u2dmjAwQ0SdfZFk9Mc60FypLSlSXqtgslCISLWTh5AyX1kIjXtnsec7J3SmPnd8i89oN33IQH0xOHe4AhZjSwOhzDGnuKtUcFNhi9lPCbLX3SV/eceiw9l0jRoCqm6vIhFgyuPR4Y4tLrA==;ojSoOvpjYqsSouMhQEwhtQ=="
+secured: "b8sWEYdr6dFhTe64gqW86umdIQ+Hj8obDo2dUikerqxUqziZ/Nw5gsSCP4pGt0N49ibLMV7OD03RPW92FqOiU0eQ02wWnGddPQylTiiK4gUlf660TdFfFm62xB4wPqNuiufnBrdx/Wv+Eky6Rle4zXYABbCr5O2kG6PzEsjEWue0+vAWysQ81ZtzF56ZtjYtLhSZjjO03E1NYWtRmxsFHbfFjLmyz1kOR0Wyx/l/1RXYfCr/Eamai0GbHcVg955RB25x0wG2ClOY3kcekrwpLszfY8sq/LWGR/d8Eoc99aI1/nhvbwnlGHNtkTQd7y3N9HuVcmg/elgyT69GKB5QiD+movGSWLZiKWOEeGAPl1E=;RfmSOD0HjzhDGJf0ASxqXg=="
 ---
 

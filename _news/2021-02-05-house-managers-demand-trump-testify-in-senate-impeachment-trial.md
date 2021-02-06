@@ -108,6 +108,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "These attorneys are defending Trump in the impeachment trial"
+    excerpt: "Former President Donald Trump is preparing for his second Senate impeachment trial, where his team will defend him against the charge that he incited an insurrection at the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-06T16:22:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aq7PAVOgtkE/attorneys-defending-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f71c7c8-f784-4aea-987b-334be762ef53/21c2e19d-6341-4cee-b5b0-80d37e765bf1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Raskin says Trump’s refusal to testify at impeachment supports ‘his guilt’"
     excerpt: "Rep. Jamie Raskin, D-Md., took former President Trump to task for refusing to testify at his second impeachment trial that many Republicans and Trump’s legal team have called a farce."
     publishedDateTime: 2021-02-05T09:20:08Z
@@ -329,6 +345,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/trump-raskin.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "These attorneys are defending Trump in the impeachment trial"
+    excerpt: "Former President Donald Trump is preparing for his second Senate impeachment trial, where his team will defend him against the charge that he incited an insurrection at the Capitol on Jan. 6."
+    publishedDateTime: 2021-02-06T16:26:00Z
+    webUrl: "https://www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f71c7c8-f784-4aea-987b-334be762ef53/21c2e19d-6341-4cee-b5b0-80d37e765bf1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Matt Gaetz says he’d resign House seat to defend Trump at impeachment trial"
     excerpt: "Matt Gaetz said he would resign if called on by former President Donald Trump to defend him in his upcoming impeachment trial, saying it’d be the “top priority in my life.” The Florida congressman made the comment in an interview with the Steve Bannon-hosted podcast “War Room Pandemic."

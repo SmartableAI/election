@@ -923,6 +923,20 @@ related:
         width: 650
         height: 650
         isCached: true
+  - title: "Senate approves budget bill as Kamala Harris casts tie-breaker vote"
+    excerpt: "The action came after a grueling all-night session, where senators voted on amendments that could define the contours of the eventual COVID-19 aid bill."
+    publishedDateTime: 2021-02-05T17:40:00Z
+    webUrl: "https://bangordailynews.com/2021/02/05/national-politics/senate-approves-budget-bill-as-kamala-harris-casts-tie-breaker-vote/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/02/Senate-Democrats.jpg?fit=2500%2C1676&#038;ssl=1"
+        width: 2500
+        height: 1676
+        isCached: true
   - title: "Kamala Harris to receive shot in bid to boost U.S. confidence in vaccines"
     excerpt: "American, will become the second high-profile person from an ethnic minority background to receive the vaccine after Surgeon General Jerome Adams on Dec. 18."
     publishedDateTime: 2020-12-29T16:22:00Z

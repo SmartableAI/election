@@ -361,22 +361,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Reopening debate testing Biden's ties with teachers unions"
-    excerpt: "The school reopening debate is presenting an early test of President Joe Biden's allegiance with powerful teachers unions"
-    publishedDateTime: 2021-02-05T22:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/reopening-debate-testing-bidens-ties-teachers-unions-75716399"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/reopening-debate-testing-bidens-ties-teachers-unions-75716399"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/reopening-debate-testing-bidens-ties-teachers-unions-75716399"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_3a8d4005d3e54b85ace01d52d0d51fa2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "The Biden administration’s muddled message on reopening schools"
     excerpt: "After a year of health officials being muzzled and contradicted during the Trump administration, the rollout of Biden's plan to reopen schools hasn't been terribly confidence-inspiring."
     publishedDateTime: 2021-02-06T02:05:00Z
@@ -693,6 +677,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Reopening debate testing Biden's ties with teachers unions"
+    excerpt: "The increasingly heated school reopening debate is forcing President Joe Biden to balance two priorities: getting children back into the classroom and preserving the support of powerful labor groups that helped him get elected."
+    publishedDateTime: 2021-02-06T15:02:00Z
+    webUrl: "https://www.businessinsider.com/reopening-debate-testing-bidens-ties-with-teachers-unions-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/reopening-debate-testing-bidens-ties-with-teachers-unions-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reopening-debate-testing-bidens-ties-with-teachers-unions-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
     excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
     publishedDateTime: 2021-02-02T08:26:00Z

@@ -937,6 +937,20 @@ related:
         width: 650
         height: 650
         isCached: true
+  - title: "Senate approves budget bill as Kamala Harris casts tie-breaker vote"
+    excerpt: "The action came after a grueling all-night session, where senators voted on amendments that could define the contours of the eventual COVID-19 aid bill."
+    publishedDateTime: 2021-02-05T17:40:00Z
+    webUrl: "https://bangordailynews.com/2021/02/05/national-politics/senate-approves-budget-bill-as-kamala-harris-casts-tie-breaker-vote/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/02/Senate-Democrats.jpg?fit=2500%2C1676&#038;ssl=1"
+        width: 2500
+        height: 1676
+        isCached: true
   - title: "Vice President Kamala Harris will stay here until official home is ready"
     excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
     publishedDateTime: 2021-01-28T17:35:00Z

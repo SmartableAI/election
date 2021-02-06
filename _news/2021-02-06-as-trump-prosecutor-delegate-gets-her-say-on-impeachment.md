@@ -1,34 +1,28 @@
 ---
 category: news
 title: "As Trump prosecutor, delegate gets her say on impeachment"
-excerpt: "The non-voting delegate from the Virgin Islands is among the impeachment managers selected by House Speaker Nancy Pelosi to argue the case that Trump incited a deadly insurrection at the U.S. Capitol."
-publishedDateTime: 2021-02-06T05:50:00Z
-originalUrl: "https://www.washingtonpost.com/politics/as-trump-prosecutor-delegate-gets-her-say-on-impeachment/2021/02/06/39fa6f1e-683e-11eb-bab8-707f8769d785_story.html"
-webUrl: "https://www.washingtonpost.com/politics/as-trump-prosecutor-delegate-gets-her-say-on-impeachment/2021/02/06/39fa6f1e-683e-11eb-bab8-707f8769d785_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/as-trump-prosecutor-delegate-gets-her-say-on-impeachment/2021/02/06/39fa6f1e-683e-11eb-bab8-707f8769d785_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/as-trump-prosecutor-delegate-gets-her-say-on-impeachment/2021/02/06/39fa6f1e-683e-11eb-bab8-707f8769d785_story.html?outputType=amp"
+excerpt: "Stacey Plaskett couldn't cast a vote last month when the House impeached former President Donald Trump. But she can help prosecute him."
+publishedDateTime: 2021-02-06T15:57:00Z
+originalUrl: "https://www.businessinsider.com/as-trump-prosecutor-delegate-gets-her-say-on-impeachment-2021-2"
+webUrl: "https://www.businessinsider.com/as-trump-prosecutor-delegate-gets-her-say-on-impeachment-2021-2"
+ampWebUrl: "https://www.businessinsider.com/as-trump-prosecutor-delegate-gets-her-say-on-impeachment-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/as-trump-prosecutor-delegate-gets-her-say-on-impeachment-2021-2?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Pence's plans post-Trump administration take shape"
@@ -817,19 +811,19 @@ related:
         isCached: true
   - title: "Cowboys for Trump leader released from jail pending trial"
     excerpt: "Cowboys for Trump founder Couy Griffin is headed home to New Mexico after nearly three weeks in a Washington jail, after a judge on Friday said she will trust Griffin to show up for trial in connection with the Jan."
-    publishedDateTime: 2021-02-06T01:11:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/cowboys-trump-leader-released-jail-pending-trial-75718965"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/cowboys-trump-leader-released-jail-pending-trial-75718965"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cowboys-trump-leader-released-jail-pending-trial-75718965"
+    publishedDateTime: 2021-02-06T05:35:00Z
+    webUrl: "https://www.washingtonpost.com/health/cowboys-for-trump-leader-released-from-jail-pending-trial/2021/02/05/3258310e-6813-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/cowboys-for-trump-leader-released-from-jail-pending-trial/2021/02/05/3258310e-6813-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/cowboys-for-trump-leader-released-from-jail-pending-trial/2021/02/05/3258310e-6813-11eb-bab8-707f8769d785_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_30069d1c895344a38f9874ea8f4fe8d3_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump impeachment trial confronts memories of Capitol siege"
     excerpt: "The impeachment trial of Donald Trump is more than an effort to convict the former president over inciting an insurrection"
@@ -1526,6 +1520,6 @@ related:
         height: 696
         isCached: true
 
-secured: "R2eBmQKpkMnDMKZ0wh7eIZMvt6syMDhMCrPQf4RfM02pr80Q7+nf3sFgCVovylRtFxl8bXc0r3IzEkVJh84U9gtiIKqGYPGluDt45zhHrL95FfwFbm5BHeSFZ6w75Nmzts1cz5lkrjOwE7Q73nOf1LUPmXw9WN2ILUadFcChxhVFxxUpv5HU+ytsD5KmaEpjJ1BFQ5EKeqpZZ6g0HA5EpffN78xSTFH+ZsnnqcWa0/qVPVeltSqkStoE2rai0dshdlxwxaVBRoFuE1WHHZDHGVKgilBxUK6AFPDNxJQqZWzMphR7qMSIPBKmYVepf/juBJPamMAn9fJlbK6Ha7691e6uCAUz642USOp6wBIPUFs=;Hles2+HxaQm2Sfm2+ymr/Q=="
+secured: "zSUBIoZNpFklJy7noFF0nGQJNkDkLbxjQG4aqgOqwc134rm3rVUj7SbJO7Xbi+KhmEarh4IaBxwZR5tpWdezv5aKky3O3tuImVTYQIDYjzVk761zykxMEbNTXNy8bDIpjVHD3gx4QZpDk+3Uwa32w5NBNSuy5uy64WIUi2Bu28bR1rk/511QUNy02Yj/PvaHd7zYQ+E1YfyS18tNBDvERvuIotD/e/bAofX4AgmjYmqDRyaD9NrQpXoVXZhlAZd+5q/1FMkMLcR8Om/1HlNBCER1fwXP1n0dOPi/9h8itWSst0ru1H4x1+xlkfdMLzaVZQLmHweMlBla8+RH0zPG1x4IuTH6JX+aF5FoWTyhKfI=;LIzVSsZoH77LM0jBRZCpyg=="
 ---
 

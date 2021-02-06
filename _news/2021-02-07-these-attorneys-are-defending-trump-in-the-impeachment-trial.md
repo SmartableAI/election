@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Bruce Castor: What to know about Trump impeachment defense attorney"
-excerpt: "Former President Donald Trump on Sunday announced his new legal team for his upcoming Senate impeachment trial, featuring attorney Bruce Castor."
-publishedDateTime: 2021-02-01T14:02:00Z
-originalUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know"
-webUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know"
-ampWebUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp"
+title: "These attorneys are defending Trump in the impeachment trial"
+excerpt: "Former President Donald Trump is preparing for his second Senate impeachment trial, where his team will defend him against the charge that he incited an insurrection at the Capitol on Jan. 6."
+publishedDateTime: 2021-02-06T16:26:00Z
+originalUrl: "https://www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial"
+webUrl: "https://www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial"
+ampWebUrl: "https://www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial.amp"
 type: article
 quality: 135
 heat: -1
@@ -26,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Bruce-Castor.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f71c7c8-f784-4aea-987b-334be762ef53/21c2e19d-6341-4cee-b5b0-80d37e765bf1/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -254,6 +254,22 @@ related:
         width: 1280
         height: 533
         isCached: true
+  - title: "Bruce Castor: What to know about Trump impeachment defense attorney"
+    excerpt: "Former President Donald Trump on Sunday announced his new legal team for his upcoming Senate impeachment trial, featuring attorney Bruce Castor."
+    publishedDateTime: 2021-02-01T14:02:00Z
+    webUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know"
+    ampWebUrl: "https://www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bruce-castor-trump-impeachment-defense-attorney-what-to-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Bruce-Castor.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump, House Democrats to Lay Out Impeachment Trial Strategies"
     excerpt: "Under rules sketched out for the trial, the parties must answer whether Donald Trump can be tried in the Senate for acts committed when he was president, and how they respond to the charge of incitement of insurrection."
     publishedDateTime: 2021-02-02T11:54:00Z
@@ -350,22 +366,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "These attorneys are defending Trump in the impeachment trial"
-    excerpt: "Former President Donald Trump is preparing for his second Senate impeachment trial, where his team will defend him against the charge that he incited an insurrection at the Capitol on Jan. 6."
-    publishedDateTime: 2021-02-06T16:26:00Z
-    webUrl: "https://www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/attorneys-defending-trump-impeachment-trial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f71c7c8-f784-4aea-987b-334be762ef53/21c2e19d-6341-4cee-b5b0-80d37e765bf1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Matt Gaetz says he’d resign House seat to defend Trump at impeachment trial"
     excerpt: "Matt Gaetz said he would resign if called on by former President Donald Trump to defend him in his upcoming impeachment trial, saying it’d be the “top priority in my life.” The Florida congressman made the comment in an interview with the Steve Bannon-hosted podcast “War Room Pandemic."
     publishedDateTime: 2021-02-04T15:31:00Z
@@ -445,6 +445,6 @@ related:
         height: 3765
         isCached: true
 
-secured: "v27h17mqIozzj4vFvM3F9vDm79X61HzDrojJ6ja5QoNiYNNyUn99JZH0K/5rsnYYkszzSvcqUyUl6vFe4bkwOIgd2xNLXgHcpRvRrDtO6q/OlXLDV8nr/P9ndcSqaB2qoY8r1/J2qq9rXPmNuyl2zJR48ObR/g4wy7u5bOPgXH0DbdJ0Kq8dMelJ5KJcyX2iBJ2ZJIrdp1pQvoTmA47VvAC0L2QMUrk6bK9Ja92aWPdnu7M6hgDeQXGvIkbzzJ7ozVRb8sBtFTLxwD92MkXqVYkDUy1c5ujwWBNKeL86vFIiwN+yNOseFnYQwpMZUJgsTxdWyv2RQMIaMDqYX2IXJbdEI7MXvXZ2ZjnOoKmmsIz5+iTsAhekfpXOTmHrfw4hIYb/xdil7X8FfFqk8t/3Svqce1SJWHkhYWCLi1ZWoEOqUyed3UbAlFMsEokHwyXLrnkALe5y/DuktodHPiClH/tHHBh27bi3H/6YqEtlRcqv+cAGg2Pt1lerw9lHy5s0Csf2+WAQLuJ0vf4p0UK+VA==;UNX3ak2xJ4FryTrlui0bDA=="
+secured: "b61vA2ph/re5twVipQLzQYOG5c8NW94fU4cqjvswfBbFrv2ECQhaUHMUxqS+cSWDhlrjJIIoR3jiGk8FmplG8NWJvHsOLTfpA84BxUqIcWdlTxHPraqCHx7aQgY7LPXlndKYVkgxgwcibAMUOByq0dDMUNoaxrw4TdgSMFxYxvZUl4eeWNUShKtY7SIWLqczafk1kdL+ZC7Qbv3VP4iz9cgiK2C0ZraeLGIc+lGFkA0c/xJLilvoacAUnR4fo0GjiN8k4j5EFdxs0zZUhpbmNDDTG3mKMKSkTZ409YDB5evcevD3+YiuX4oYVp6tgkLm3cQCZgRqQGkStW6Po0kIPR3UakIk3t4GtQiUr7tMRc4=;C7kHRW1thrdkmvWFeIlprA=="
 ---
 

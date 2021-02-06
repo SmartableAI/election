@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Reopening debate testing Biden's ties with teachers unions"
-excerpt: "The school reopening debate is presenting an early test of President Joe Biden's allegiance with powerful teachers unions"
-publishedDateTime: 2021-02-05T22:27:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/reopening-debate-testing-bidens-ties-teachers-unions-75716399"
-webUrl: "https://abcnews.go.com/Politics/wireStory/reopening-debate-testing-bidens-ties-teachers-unions-75716399"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/reopening-debate-testing-bidens-ties-teachers-unions-75716399"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/reopening-debate-testing-bidens-ties-teachers-unions-75716399"
+excerpt: "The increasingly heated school reopening debate is forcing President Joe Biden to balance two priorities: getting children back into the classroom and preserving the support of powerful labor groups that helped him get elected."
+publishedDateTime: 2021-02-06T15:02:00Z
+originalUrl: "https://www.businessinsider.com/reopening-debate-testing-bidens-ties-with-teachers-unions-2021-2"
+webUrl: "https://www.businessinsider.com/reopening-debate-testing-bidens-ties-with-teachers-unions-2021-2"
+ampWebUrl: "https://www.businessinsider.com/reopening-debate-testing-bidens-ties-with-teachers-unions-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reopening-debate-testing-bidens-ties-with-teachers-unions-2021-2?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_3a8d4005d3e54b85ace01d52d0d51fa2_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden set to accept more refugees after years of Trump restrictions"
@@ -757,6 +751,6 @@ related:
         height: 847
         isCached: true
 
-secured: "6/IPMVhVJ4O2Jxrm23UAQK93CBYyjUTctx31gDSxFnWbPU4mDozNayv7BOBz3Cggig2uPTBwxuShUd9B5nZ1NR0Yd/LfCvgg9t80oClxc3TMSrBKJMb6I1A7KaiV9uV2u7Nj6QW1GCtCUBmDb+7+1kNyvUQSKVToUJKbhE7lDgnV35goF9KTJ0SUcnyPXyQOIgDjO81jInNoxJu1KEbM4D+ZV51SnyCI1UKO5mIdwLDUJ17xv0jD88CaLjsvV9YT6M5mmVD1Byytqlv8OYXX0P9yJBz7QgDZfE/6i8lM5p5XjJYRTYcQo0JLEdLgIGb9/jj0Hcj6DlA6rXeul5g9yInVzPycuADTDMcw77WUy+Y=;dFdWuoeO/tJZNFZ8sjdX2g=="
+secured: "A1Vz7BzqrRxiALgslCsdzJrTjC7jBG6I2JfoHToFGlSy6Dw564w8Dv2qZm9wAbn4Co2XVEJkO2w3tNHRZF/LtmRYASsCbxG8J6JUE+sOmBE+GYxCvpEJ6ZUiEr0oN4WP9ipdrvun46RER3oEvSZ03ZuAHoT1bAlyau4b2R/zyvOXaTI++Ha7jsgAvtkOzjDt5cYR/ybDf6Qpun774O7e/+M/w4BljPDvwYr43jUJGDJbdFv0kWVA7k5ECzAC7hRxw5DCjX2LqH+CYPLA0WIxttzuzJeT0b39wWshuXNcISAtPXDOG4nBkz0nPhppmVfPDdCUEbCdIRyg6zAYWeTjayGnJvetNpAntge1V+KHr9A=;UOFBsbNZvRYzxnc2aZoboA=="
 ---
 
