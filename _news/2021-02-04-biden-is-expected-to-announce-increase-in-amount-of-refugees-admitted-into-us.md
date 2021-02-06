@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Doctor says Biden's symptoms from foot injury have improved"
+    excerpt: "President Joe Biden's symptoms from his foot injury have improved, his doctor said in a statement Saturday, as the President was set to receive a follow-up X-ray in Delaware for a hairline fracture sustained in November.\n    \n"
+    publishedDateTime: 2021-02-06T21:59:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SZ7ao1srfcg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/joe-biden-hairline-fracture-foot-injury/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/joe-biden-hairline-fracture-foot-injury/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210130013250-01-biden-0128-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden's Cabinet: Who’s in, and who voted against them"
     excerpt: "President Joe Biden has assembled, by some accounts, a history-making Cabinet: If all members are approved, it will be the most diverse array of presidential counselors ever. But can he get them confirmed by the Senate?"
     publishedDateTime: 2021-02-04T15:41:00Z

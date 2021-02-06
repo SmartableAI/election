@@ -863,6 +863,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Report: Trump campaign listed payment to legislator's firm"
+    excerpt: "A newspaper reports that former President Donald Trump’s reelection campaign says it paid over $6,000 to a business belonging to an Arizona lawmaker who sought to have the Legislature overturn Joe Bid"
+    publishedDateTime: 2021-02-06T22:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/report-trump-campaign-listed-payment-legislators-firm-75731068"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/report-trump-campaign-listed-payment-legislators-firm-75731068"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/report-trump-campaign-listed-payment-legislators-firm-75731068"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
     publishedDateTime: 2021-01-30T06:21:00Z
@@ -1102,6 +1118,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SMDCU3DCMII6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump Impeachment Trial to Feature Dueling Videos of GOP, Democratic Calls for Confrontation"
+    excerpt: "Trump's lead impeachment attorney said Friday he'll call out Democrats for \"inflammatory rhetoric\" during last summer's racial justice movement."
+    publishedDateTime: 2021-02-06T22:20:00Z
+    webUrl: "https://www.newsweek.com/trump-impeachment-trial-feature-dueling-videos-gop-democratic-calls-confrontation-1567358"
+    ampWebUrl: "https://www.newsweek.com/trump-impeachment-trial-feature-dueling-videos-gop-democratic-calls-confrontation-1567358?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-impeachment-trial-feature-dueling-videos-gop-democratic-calls-confrontation-1567358?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1727595/donald-trump.jpg"
+        width: 3028
+        height: 2019
         isCached: true
   - title: "Shape of Senate impeachment trial remains unclear as Trump rejects House Democratic request to testify"
     excerpt: "House leaders have called for witness testimony, but many in the Senate are reluctant to prolong the proceedings."

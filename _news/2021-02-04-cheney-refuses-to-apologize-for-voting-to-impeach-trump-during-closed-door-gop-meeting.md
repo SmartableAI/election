@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Liz Cheney becomes latest House Republican to be censured by state party for her vote to impeach Trump "
+    excerpt: "The Wyoming State Republican Party voted Saturday to formally censure Rep. Liz Cheney, the No. 3 Republican in the House, for her vote to impeach former President Donald Trump in the latest example of a state GOP punishing lawmakers who have bucked the former President.\n    \n"
+    publishedDateTime: 2021-02-06T21:23:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_bDjtx1bda0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/liz-cheney-wyoming-gop-censure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/liz-cheney-wyoming-gop-censure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160111-01-liz-cheney-0203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'"
     excerpt: "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n"
     publishedDateTime: 2021-01-07T18:05:11Z

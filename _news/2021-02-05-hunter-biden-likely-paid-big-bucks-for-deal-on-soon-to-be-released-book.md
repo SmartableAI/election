@@ -127,6 +127,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Doctor says Biden's symptoms have improved since foot fracture while playing with his dog Major"
+    excerpt: "President Biden had another round of X-rays Saturday on his fractured right foot, which Dr. Kevin O’Connor says is improving “as expected.” "
+    publishedDateTime: 2021-02-06T22:44:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kvAl3jIQ9e4/biden-foot-fracture-improved"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-foot-fracture-improved.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foot-fracture-improved.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/pic.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Rhode Island ranked worst state to do business under Biden Commerce Secretary nominee's leadership"
     excerpt: "Rhode Island was ranked among the top five worst places to do business in the U.S. during all four years Gina Raimondo, President Biden's nominee for secretary of commerce, was governor."
     publishedDateTime: 2021-01-27T19:26:51Z

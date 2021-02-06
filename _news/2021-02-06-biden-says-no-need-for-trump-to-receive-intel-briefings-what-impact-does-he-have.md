@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-no-need-trump-intel-briefings
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp"
 type: article
 quality: 182
-heat: 202
+heat: 222
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Official tasked with briefing Biden reportedly defended CIA’s false intel about torture effectiveness"
+    excerpt: "The CIA official in charge of overseeing President Biden’s daily intelligence briefing reportedly lead a standoff between the CIA and the Senate Intelligence Committee."
+    publishedDateTime: 2021-02-06T22:04:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness"
+    ampWebUrl: "https://www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c1c9f88-8491-4368-aaae-00f24e45654b/7c18c51d-3b0e-47d0-b6e0-deaee4ae7030/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Why It Matters That Biden Restored Regular Press Briefings"
     excerpt: "Joe Lockharts that the return of press briefings under the new Biden administration is a welcome change. Press briefings are far more than symbolic -- they're an avenue to keep the government quick and accountable."
     publishedDateTime: 2021-02-04T12:42:00Z

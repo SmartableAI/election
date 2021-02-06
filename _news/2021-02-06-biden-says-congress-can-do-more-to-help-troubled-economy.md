@@ -1012,6 +1012,22 @@ related:
         width: 1140
         height: 712
         isCached: true
+  - title: "Kamala Harris has already broken 2 Senate ties on COVID relief. She could give Democrats more victories in the future"
+    excerpt: "In her first month in office, Vice President Kamala Harris has broken more Senate ties than Teddy Roosevelt, Harry Truman and Walter Mondale."
+    publishedDateTime: 2021-02-06T17:43:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/02/06/kamala-harris-tie-breaking-votes-on-covid-foreshadows-senate-role/6678440002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6678440002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6678440002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/2d42fd8f-87d9-4b50-a0ea-97eed40376c1-AP_New_Congress_1.jpg?auto=webp&crop=5451,3066,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "What do Black women in rural NC think of Kamala Harris? | Raleigh News & Observer"
     excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
     publishedDateTime: 2021-01-31T04:01:00Z

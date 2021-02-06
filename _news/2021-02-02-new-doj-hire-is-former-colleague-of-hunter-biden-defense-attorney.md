@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/doj-official-former-colleague-hunte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 164
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kristen-Clarke-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Doctor says Biden's symptoms have improved since foot fracture while playing with his dog Major"
+    excerpt: "President Biden had another round of X-rays Saturday on his fractured right foot, which Dr. Kevin O’Connor says is improving “as expected.” "
+    publishedDateTime: 2021-02-06T22:44:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kvAl3jIQ9e4/biden-foot-fracture-improved"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-foot-fracture-improved.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foot-fracture-improved.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/pic.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
