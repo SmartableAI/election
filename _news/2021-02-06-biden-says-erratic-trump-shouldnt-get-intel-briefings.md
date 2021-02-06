@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden says ‘erratic’ Trump shouldn’t get intel briefings"
+title: "Biden says 'erratic' Trump shouldn't get intel briefings"
 excerpt: "President Joe Biden says Donald Trump’s “erratic behavior” should prevent him from receiving classified intelligence briefings, a courtesy that historically has been granted to outgoing presidents"
-publishedDateTime: 2021-02-06T00:53:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-says-erratic-trump-shouldnt-get-intel-briefings/2021/02/05/27d577bc-6815-11eb-bab8-707f8769d785_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-says-erratic-trump-shouldnt-get-intel-briefings/2021/02/05/27d577bc-6815-11eb-bab8-707f8769d785_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-says-erratic-trump-shouldnt-get-intel-briefings/2021/02/05/27d577bc-6815-11eb-bab8-707f8769d785_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-says-erratic-trump-shouldnt-get-intel-briefings/2021/02/05/27d577bc-6815-11eb-bab8-707f8769d785_story.html?outputType=amp"
+publishedDateTime: 2021-02-06T08:30:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-trump-intel-briefs-75718497"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-trump-intel-briefs-75718497"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-trump-intel-briefs-75718497"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-trump-intel-briefs-75718497"
 type: article
 quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_1c72950bbeb746cdb2493d9b4241344a_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -98,7 +98,7 @@ related:
   - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
     excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to intelligence briefings because of his \"erratic behavior\" and the concern he might share information, the Democrat said in an interview on Friday."
     publishedDateTime: 2021-02-06T06:03:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-security-biden-trump-idUKKBN2A601N"
+    webUrl: "https://www.reuters.com/article/uk-usa-security-biden-trump-idUKKBN2A601N?edition-redirect=uk"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A601N"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A601N"
     type: article
@@ -757,6 +757,6 @@ related:
         height: 847
         isCached: true
 
-secured: "+ynu3jMB//KP3YuhMyvIFbj5DkKe7SWyTAir5xbK76V1JZnwM8W+Z57Fno17d8JE1ZfzQ66AfRutgXwp5cd+Nos7TLv9cFW4xad4nTHv33d+3lRNGlZ0Np9O7tbKDMi/eiCg/O/95qAqKUxodkQt7k//GipJgdkTSlOofTa0e9gwrghmdp9epVkbXQt/w/UL9AqI4BfxW1TgTjkhv1xla5OTr9KDmJn8D0gHuAMDt6rqzhA38R1srr6SfWXZ0PIx8FZ53wh7rZzyDSuCmaQfWaEcs+zID19hbYEeRWyAPZbPXQjIfDO7CJ1s8tG3THH7pqS2fLzKESwU1LJzHj2JB/06Jz8cwbwbXMn11xcUYcw=;v88DSjUGQx9S6Jc571gMGg=="
+secured: "LJn8LOGFEdZeQmaQD3YWbqv+AsGp1341vJC4+pg97v97d8KtBHSBFm4J9YieWTWTU5fsuP8ze+MCec8VQW7kMMHD6SzEWBSoPvLIhWLnrxA2BzzKIJD8osEL2+pJxlQIJzz29d1VNEVAZweDu58+xBGU4kooM047xyEIdz3ifJRnLASAuuEWk6bAeXCot9W/l0/5KPmLZWB02bTC2v+BZ0dSVrZBpFEEPCF6VI55U/aZHbhoZnovB3H8hj+WE2z1J5O2QsOxu6LDJ1eIGLrCX8Y7t7z8uEGJOLF/L6UWCkoBZXaKR+cENkyylEguSHk4EReIJ7XkfeiXpgb4yrmLX5ec9TXRBaqIxlK/i+IKVSU=;9UQM/xDou4wiFFjRTppjBA=="
 ---
 

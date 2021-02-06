@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Trump parts with impeachment lawyers a week before trial"
-excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his Senate trial is set to begin, two people familiar with the situation said Saturday. Butch Bowers and Deborah Barbier,"
-publishedDateTime: 2021-01-31T16:48:00Z
-originalUrl: "https://www.chron.com/politics/article/Trump-loses-lead-impeachment-lawyers-15912221.php"
-webUrl: "https://www.chron.com/politics/article/Trump-loses-lead-impeachment-lawyers-15912221.php"
-ampWebUrl: "https://www.chron.com/politics/amp/Trump-loses-lead-impeachment-lawyers-15912221.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Trump-loses-lead-impeachment-lawyers-15912221.php"
+title: "Biden administration to remove Yemen’s Houthi rebels from terrorism list in reversal of Trump-era policy"
+excerpt: "The move marks one of the first major shifts in U.S. foreign policy by the Biden administration as it reviews a range of Trump-era polices on Afghanistan, North Korea, Russia, China and beyond."
+publishedDateTime: 2021-02-06T09:58:00Z
+originalUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html"
+webUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
 type: article
-quality: 75
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTS4ZXTIBQI6XCDNKJSNJTVUNU.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -859,22 +863,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden administration to remove Yemen’s Houthi rebels from terrorism list in reversal of Trump-era policy"
-    excerpt: "The move marks one of the first major shifts in U.S. foreign policy by the Biden administration as it reviews a range of Trump-era polices on Afghanistan, North Korea, Russia, China and beyond."
-    publishedDateTime: 2021-02-06T09:58:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTS4ZXTIBQI6XCDNKJSNJTVUNU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Trump administration announces 11th-hour rewrite of desert conservation plan"
     excerpt: "The Bureau of Land Management on Wednesday announced proposed changes to the Desert Renewable Energy Conservation Plan."
     publishedDateTime: 2021-01-16T02:35:00Z
@@ -1382,6 +1370,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump parts with impeachment lawyers a week before trial"
+    excerpt: "Former President Donald Trump has parted ways with his lead impeachment lawyers just over a week before his Senate trial is set to begin, two people familiar with the situation said Saturday. Butch Bowers and Deborah Barbier,"
+    publishedDateTime: 2021-01-31T16:48:00Z
+    webUrl: "https://www.chron.com/politics/article/Trump-loses-lead-impeachment-lawyers-15912221.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/Trump-loses-lead-impeachment-lawyers-15912221.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Trump-loses-lead-impeachment-lawyers-15912221.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Would Trump Have Won if Not for Impeachment? A Pro-Trump Journalist Thinks So."
     excerpt: "Maybe he could have won the election if he hadn’t been impeached. This is the thesis proposed by Mark Hemingway, a right-wing commentator (and husband of Mollie). The majority of Hemingway’s piece is given over to recapitulating a familiar list of the ways Democrats and the mainstream news media treated Mr."
     publishedDateTime: 2021-02-06T01:48:00Z
@@ -1490,6 +1494,6 @@ related:
         height: 696
         isCached: true
 
-secured: "WoG5r5KxOAOwblbT5/pzdFD53BIFvYXpoZgtB+KxStYGHxaXjLmwxsKN/Hc8mAHt92SQQot65wC+wq9pDytQnCWsnVaZO8w6L3gxp9gO+l9YZCAivM95RjlAhEfjb5GM5sUe43CKyFTWnLnOAZFiyPl8HmO015sqCLjtxYAtpnCJMZE0OOVnMrX5vHngGiHQPqIiJrnt/Msfg2Sgv61G6zSdy5of2WDPgC2Tiw2vJhrW6F2DGR21mvHfsiqg2wrHocYyyTWEEAloDYRdXqfs5WhcCva2X0zU7EZaqmCj5HVXtnybbOlzolu8IbSGaReByJSSuCRL1m6Op/Mu2YfsZYKk9AO6E8/29hm0esGfxcg=;yHtZyviIyQN1BU0KnV+DFw=="
+secured: "5h0ylDOTnFh6xzRfDVwZ90RhZBUA3DdJXFRebT1vbaPOTqzwL82gbXyQTspgxA1n9godvRDG7wURPIPXjVIfVlK3n+x9E50nZQiWVmO4lqK4lqfJxkvktOeq7CFsN3erZt2xckxVBaTxpqzK21dnfxvNSirgse/kY7tkKV63yyQvLkLs7EhCCNVvx/mzZDXVsfpD0WtMuqy3ulNoByPEJlKvK0lJXHTFbsWHMGN/h2CJblxVB1rT7ft0WdHff7AWH0YCnlAnINFd5I/WTxDvbFwzoylpaaLXuCscs1dJqhYM7swIFJ1UnSrTX8pU48yu+lflbK5nGPi+8SWx3uBBwOonpNNB7Q1Y5wLxuLyBXj4=;pDbY3arTPEftXBaEtigFcQ=="
 ---
 

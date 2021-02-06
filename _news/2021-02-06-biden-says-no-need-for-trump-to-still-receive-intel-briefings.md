@@ -63,21 +63,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden says ‘erratic’ Trump shouldn’t get intel briefings"
+  - title: "Biden says 'erratic' Trump shouldn't get intel briefings"
     excerpt: "President Joe Biden says Donald Trump’s “erratic behavior” should prevent him from receiving classified intelligence briefings, a courtesy that historically has been granted to outgoing presidents"
-    publishedDateTime: 2021-02-06T00:53:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-says-erratic-trump-shouldnt-get-intel-briefings/2021/02/05/27d577bc-6815-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-says-erratic-trump-shouldnt-get-intel-briefings/2021/02/05/27d577bc-6815-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-says-erratic-trump-shouldnt-get-intel-briefings/2021/02/05/27d577bc-6815-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    publishedDateTime: 2021-02-06T08:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-trump-intel-briefs-75718497"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-trump-intel-briefs-75718497"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-trump-intel-briefs-75718497"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1c72950bbeb746cdb2493d9b4241344a_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden says ‘no need’ for Trump to get intel briefs"
     excerpt: "President Joe Biden says Donald Trump should not be allowed to receive classified intelligence briefings, a courtesy that historically has been granted to outgoing presidents"
@@ -98,7 +98,7 @@ related:
   - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
     excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to intelligence briefings because of his \"erratic behavior\" and the concern he might share information, the Democrat said in an interview on Friday."
     publishedDateTime: 2021-02-06T06:03:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-security-biden-trump-idUKKBN2A601N"
+    webUrl: "https://www.reuters.com/article/uk-usa-security-biden-trump-idUKKBN2A601N?edition-redirect=uk"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A601N"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A601N"
     type: article

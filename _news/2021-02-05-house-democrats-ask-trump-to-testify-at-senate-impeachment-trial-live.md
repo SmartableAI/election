@@ -857,6 +857,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden administration to remove Yemen’s Houthi rebels from terrorism list in reversal of Trump-era policy"
+    excerpt: "The move marks one of the first major shifts in U.S. foreign policy by the Biden administration as it reviews a range of Trump-era polices on Afghanistan, North Korea, Russia, China and beyond."
+    publishedDateTime: 2021-02-06T09:58:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTS4ZXTIBQI6XCDNKJSNJTVUNU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump administration announces 11th-hour rewrite of desert conservation plan"
     excerpt: "The Bureau of Land Management on Wednesday announced proposed changes to the Desert Renewable Energy Conservation Plan."
     publishedDateTime: 2021-01-16T02:35:00Z
