@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 184
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201165657-manchin-harris-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Kamala Harris is flexing tie-breaker powers"
+    excerpt: "Just weeks into the Biden administration, Vice President Kamala Harris has already had to cast a tie-breaking vote in the Senate. CNN's Arlette Saenz reports."
+    publishedDateTime: 2021-02-06T19:55:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/02/06/kamala-harris-senate-tiebreaker-saenz-dnt-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/06/kamala-harris-senate-tiebreaker-saenz-dnt-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/06/kamala-harris-senate-tiebreaker-saenz-dnt-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205062303-screengrab-01-kamala-harris-senate-budget-vote-0205-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

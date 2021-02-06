@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration works to clean house of Trump appointees"
+    excerpt: "Battle lines are forming across Washington as the Biden administration grapples with how to handle dozens of Trump loyalists the former President installed after the election. Over the past two weeks, the new administration has made an effort to remove a number of Trump appointees across various government"
+    publishedDateTime: 2021-02-06T20:40:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2HbWVXRPDlU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/biden-removing-trump-board-appointments/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/biden-removing-trump-board-appointments/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204183157-cnn-red-biden-navalny-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump sees special counsel investigations of Hunter Biden and election claims as payback for Russia probe"
     excerpt: "President Donald Trump is pushing extensively for the appointment of special counsels to separately investigate his baseless allegations of voter fraud and allegations surrounding Hunter Biden, the son of the President-elect, according to people familiar with the matter.\n    \n"
     publishedDateTime: 2020-12-16T19:44:45Z

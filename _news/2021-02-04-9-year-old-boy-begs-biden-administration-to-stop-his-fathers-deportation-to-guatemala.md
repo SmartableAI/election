@@ -432,6 +432,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "On executive actions, Biden is blowing his predecessors out of the water"
+    excerpt: "It's the frustration of presidents from the beginning of the republic: how to get anything done when Congress gets stuck."
+    publishedDateTime: 2021-02-06T13:00:00Z
+    webUrl: "https://www.cnn.com/2021/02/06/politics/what-matters-february-5/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/what-matters-february-5/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/what-matters-february-5/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 134
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210130013250-01-biden-0128-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "cm4Hmb2UxoPF5PebUwOrA8zjTTkhfJ5nE2eJM4RYylrgD8E2rwE8wqb8PJqduDP0SOmJHag7/lw2PD0ir6vIez0+v11tPfHjMtMS9UPzz2bAYi41aJiynx+iiFAXB3xwWZoNAIhuEmVA8ILq9BmT5jtBpVKrXpl8ZzWIAtVUbkIx4oCJTp24qlmMJnjb/VlxQtV5RSz0Koy3H4DulhEncTtXRBc4xlkoxKH2X1gGoFJYScoKHelqaczgPoSEaOM7Hvprc3yJuGAahp0jF7vmqT4kaaY2oudcI2ohl6xNvlmCgiBRo0TPxzPSb6Lnx2cf0tHr2egWBH5HpngmpZaFT4ukE6xaDk+s7hFSV3oQ+NyqM937VrWB2N271cI38S8mfbhrRdIpjiL0g37BJ5rIpGcl0U282X2X56y4P9T/ooEp+C48/niJ+KbztXRVgWFIGnQ5E63IhOdTv18nlA8UThhGLoQmngMY0YGj3++gPF8smLAZIWRz5VPAoT2KhdEYwJ+cHYDncC2bmYdMuI0F2A==;sJa6FCjvqBwVbQKYXRCpIg=="
 ---

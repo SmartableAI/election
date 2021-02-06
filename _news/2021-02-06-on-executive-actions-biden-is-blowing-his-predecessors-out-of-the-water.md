@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden's reversal of transgender military ban brings new hope to thousands"
-excerpt: "They dreamed of serving, and now they can after President Joe Biden lifted the Trump-era ban on most transgender Americans joining the US military.\n    \n"
-publishedDateTime: 2021-01-31T13:27:24Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q7qtNHuabmk/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q7qtNHuabmk/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/transgender-military-ban-reversal/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/transgender-military-ban-reversal/index.html"
+title: "On executive actions, Biden is blowing his predecessors out of the water"
+excerpt: "It's the frustration of presidents from the beginning of the republic: how to get anything done when Congress gets stuck."
+publishedDateTime: 2021-02-06T13:00:00Z
+originalUrl: "https://www.cnn.com/2021/02/06/politics/what-matters-february-5/index.html"
+webUrl: "https://www.cnn.com/2021/02/06/politics/what-matters-february-5/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/what-matters-february-5/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/what-matters-february-5/index.html"
 type: article
-quality: 174
+quality: 134
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210130013250-01-biden-0128-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -140,6 +141,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104729-02-trump-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's reversal of transgender military ban brings new hope to thousands"
+    excerpt: "They dreamed of serving, and now they can after President Joe Biden lifted the Trump-era ban on most transgender Americans joining the US military.\n    \n"
+    publishedDateTime: 2021-01-31T13:27:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q7qtNHuabmk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/transgender-military-ban-reversal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/transgender-military-ban-reversal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -415,22 +432,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "On executive actions, Biden is blowing his predecessors out of the water"
-    excerpt: "It's the frustration of presidents from the beginning of the republic: how to get anything done when Congress gets stuck."
-    publishedDateTime: 2021-02-06T13:00:00Z
-    webUrl: "https://www.cnn.com/2021/02/06/politics/what-matters-february-5/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/what-matters-february-5/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/what-matters-february-5/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 134
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210130013250-01-biden-0128-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "9-year-old boy begs Biden administration to stop his father's deportation to Guatemala"
     excerpt: "\"They're choosing to keep a parent and child separated that they had already separated before and traumatized,\" said the attorney for Fernando Ochoa's dad."
     publishedDateTime: 2021-02-04T00:05:00Z
@@ -448,6 +449,6 @@ related:
         height: 600
         isCached: true
 
-secured: "+5TX7IrTnA/F4q8AluuudK9okcNw/BQOqi/g4KcLc8aHfXaEFSlKTqMbTEGEbltLQcvuAXAO75N/3VNG/rTLy1J2+l2jgWn2DXMkjTE7ozHRU+AuHlY+xQ2KZVe6zkBroqmvKVi9fILkwr5Kzh/pMoAdeqBMhSawy5aXD0JUBHU36CWhzue6LWq6CtN2eEPXd1Mj2R42FSf9swNab4ej5rtA17vwSpqKaN5rEoLYKm8n27KmbjCdmQpyhufiYUKLRcp9gbEHrjdQum/w+yOmxcwCEDpjUSzg/lDgqrTR1rDmYAaajnAueuw+vmGItrzzPrOZ89sxxuWGhB8tU3y0zk2UG4n6GLNewWCl0Hh6pHU=;2T/4cTcxDSZSYIYjRVJjjw=="
+secured: "gkJ1lODOiTNBEQgFAtbkRy1hR0GwAyR6D3GGNY17bUrTTT110P/87MKAm2Y5Ei/KXvkYkqDuMozBrPtCy5DIPmfi2afk/1rHF37+9lMz+PENHRkfaAeZoE/ICWYBbCX/diOsfvdzx1dygj5tTT3GQ7b5zu9bd9sw/VXoKR9pSQQ4lHJNVQdI58QsP6rMUFe1ZaPNtK4izYV/7j5XrhNpKYj0OeH2M+V4vKfuSrumuJlfe0Ki1Bh+mn5xH0GZgRMLHXFDtz8LelVrO5HlQar007wv87mhCmfC0R1ZUDSRNw7vvvWfUMgMUMRO7/ph1s5nEn8YcO+uDzguxV6x3ZMQxZc56GriDv8zBXolimt5qqQ=;urs9n3aHXjXVuek+mxO2bg=="
 ---
 

@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Transition Highlights: Biden Criticizes Trump on Russian Hack and Calls for More Virus Aid"
-excerpt: "President-elect Joe Biden insisted that more relief will be coming after his inauguration next month. Alex Padilla, California’s secretary of state, was chosen to fill the Senate seat being vacated by Vice President-elect Kamala Harris."
-publishedDateTime: 2020-12-22T21:46:00Z
-originalUrl: "https://www.nytimes.com/live/2020/12/22/us/joe-biden-trump"
-webUrl: "https://www.nytimes.com/live/2020/12/22/us/joe-biden-trump"
-ampWebUrl: "https://www.nytimes.com/live/2020/12/22/us/joe-biden-trump.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/22/us/joe-biden-trump.amp.html"
+title: "Biden administration works to clean house of Trump appointees"
+excerpt: "Battle lines are forming across Washington as the Biden administration grapples with how to handle dozens of Trump loyalists the former President installed after the election. Over the past two weeks, the new administration has made an effort to remove a number of Trump appointees across various government"
+publishedDateTime: 2021-02-06T20:40:42Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2HbWVXRPDlU/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2HbWVXRPDlU/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/biden-removing-trump-board-appointments/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/biden-removing-trump-board-appointments/index.html"
 type: article
-quality: 140
+quality: 190
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22transition-briefing-biden/22transition-briefing-biden-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204183157-cnn-red-biden-navalny-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -109,22 +108,6 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration works to clean house of Trump appointees"
-    excerpt: "Battle lines are forming across Washington as the Biden administration grapples with how to handle dozens of Trump loyalists the former President installed after the election. Over the past two weeks, the new administration has made an effort to remove a number of Trump appointees across various government"
-    publishedDateTime: 2021-02-06T20:40:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2HbWVXRPDlU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/biden-removing-trump-board-appointments/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/biden-removing-trump-board-appointments/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204183157-cnn-red-biden-navalny-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -736,6 +719,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Transition Highlights: Biden Criticizes Trump on Russian Hack and Calls for More Virus Aid"
+    excerpt: "President-elect Joe Biden insisted that more relief will be coming after his inauguration next month. Alex Padilla, California’s secretary of state, was chosen to fill the Senate seat being vacated by Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-12-22T21:46:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/22/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/22/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/22/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 140
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/22/us/politics/22transition-briefing-biden/22transition-briefing-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Transition Live Updates: Biden Criticizes Trump on Russian Hack and Calls for More Virus Aid"
     excerpt: "President-elect Joe Biden insisted that more relief will be coming after his inauguration next month. Alex Padilla, California’s secretary of state, was chosen to fill the Senate seat being vacated by Vice President-elect Kamala Harris."
     publishedDateTime: 2020-12-22T21:46:00Z
@@ -1195,6 +1194,6 @@ related:
         height: 907
         isCached: true
 
-secured: "dey/aQb8C36fkB/DQw2s/neZDp5HGUU+PLM1XH8UoNjmcOqHkDRDO2z3Kww7ymeth37hwYuHqKWYeiEnGD9+xokuYdO5acj+l7ERh23fyxKjHhhJawXohmbpQzR3jL5PIEmDMCOm5nJcsSovdUw6OghV2M2Ahw4BR+LpLeHEnV522V4i/fO5fBxahjvNnDkVKqDt9kVfs6guAjh29NUtblvmW3/xTdO8YOXlEvL/Eppt1UI943XwrsliBMSmSLukhms9879D80stybspXJRotKJ6xRck983slavKf4HLOTKVNZNL/sQXFnWbXmu+GvGX34zFMchv28d/tRjUpH2n/m8wWnHGuQAy6CB2+P/8sfc=;qVyluhh28PG3b7Rc1LTZ9g=="
+secured: "dDEXWVXWhXhAwOTC2C48jkcaVS/MiWoeC5ythQJjRVqZ4iNEFlaIGfDs6ARj1R7Bvbz3+rgLeZt9ay4b8fW1JlsHBwxXBdSh9bSlZECOT7QNNk5TZ/hOVHJlw9Jy74lNrRNj6j2pKgu43awwbiNmdgC/szN9cr8W1FgF3lMcwCRDeROeDV/boGKH3irgb/p0fv5DASCos5TJsPXhEiwgdaeeNsbJwi/RLNn+fYBfXVefyNDYU3Hnn0zR4GGUuh1VlyVWTFEk5WCjkZjC8EyzwfAAYKndQ+bmQfL4irpmDq+rNg37LfNc/w+HqmcD+e0d0eicsZPfM2h7b5QCQhVbyrjIB1ghL5W21/ozoxKmPa8=;v9W4jfO9GJvTDmpvQYmfhg=="
 ---
 

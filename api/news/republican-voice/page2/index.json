@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-02-bidens-keystone-xl-pipeline-cancellation-is-gut-punch-to-small-businesses.md",
+      "title": "Biden's Keystone XL pipeline cancellation is gut punch to small businesses",
+      "excerpt": "While opponents of the long-controversial Keystone XL Pipeline cheered its cancellation by President Biden's administration, others like Nebraska truck driver Chris Olsen shook their heads in dismay.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbFtZ-Zdamw/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbFtZ-Zdamw/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 253,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden-keystone-XL.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses.amp",
+      "publishedDateTime": "2021-02-02T08:20:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-new-doj-hire-is-former-colleague-of-hunter-biden-defense-attorney.md",
       "title": "New DOJ hire is former colleague of Hunter Biden defense attorney",
       "excerpt": "The newly selected acting head of the Justice Department's criminal division is a former colleague of the attorney now representing Hunter Biden in the face of a DOJ investigation.",
@@ -1603,62 +1659,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.amp",
       "publishedDateTime": "2021-01-28T13:35:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients.md",
-      "title": "Biden urged by House Dems to extend ObamaCare benefits to DACA recipients",
-      "excerpt": "More than 90 House Democrats led by Rep. Joaquin Castro are urging President Biden to extend ObamaCare health benefits to DACA recipients, in an effort some Republicans insist \"won't pass Congress\" if it were to be introduced as legislation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NAN54l9y8dg/biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NAN54l9y8dg/biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients.amp",
-      "publishedDateTime": "2021-01-28T11:51:49-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

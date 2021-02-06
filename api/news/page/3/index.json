@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-04-biden-epa-nominee-vows-sense-of-urgency-on-climate-change.md",
+      "title": "Biden EPA nominee vows ‘sense of urgency’ on climate change",
+      "excerpt": "President Joe Biden’s nominee to run the Environmental Protection Agency has pledged to act with “a sense of urgency” on climate change and other priorities, while working with lawmakers from both par",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-epa-nominee-vows-to-preserve-resources-boost-economy/2021/02/03/7ff2a466-6652-11eb-bab8-707f8769d785_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-epa-nominee-vows-to-preserve-resources-boost-economy/2021/02/03/7ff2a466-6652-11eb-bab8-707f8769d785_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-epa-nominee-vows-to-preserve-resources-boost-economy/2021/02/03/7ff2a466-6652-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-epa-nominee-vows-to-preserve-resources-boost-economy/2021/02/03/7ff2a466-6652-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-03T16:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-mike-pence-to-join-heritage-foundation-to-lead-the-conservative-movement-into-the-future.md",
       "title": "Mike Pence to join Heritage Foundation to 'lead the conservative movement into the future'",
       "excerpt": "Former Vice President Mike Pence is joining a think tank, the first official step on how he plans to stay active in public and political life.",
@@ -1295,62 +1347,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-sen-kaine-sets-aside-trump-censure-resolution-theres-not-enough-support-on-either-side.md",
-      "title": "Sen. Kaine sets aside Trump censure resolution: 'There's not enough support on either side'",
-      "excerpt": "Sens. Tim Kaine and Susan Collins have set aside the bipartisan effort to censure former President Trump for his role in the Jan. 6 Capitol riot for lack of support from both Democrats and Republicans. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvY2CA5b2j4/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvY2CA5b2j4/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/COLLINS-KAINE-SPLIT.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support.amp",
-      "publishedDateTime": "2021-02-02T11:48:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-12-26-rep-kinzinger-swipes-at-trump-fellow-house-gop-for-denying-election-loss-its-sad.md",
+      "title": "Rep. Kinzinger swipes at Trump, fellow House GOP for denying election loss: 'It's sad'",
+      "excerpt": "Rep. Adam Kinzinger on Saturday called out President Trump and House Republicans who back his \"crazy conspiracies\" and denials that he lost the election to President-elect Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVUsDEuzJUE/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVUsDEuzJUE/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 322,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Kinzinger.png?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-kinzinger-swipes-trump-fellow-house-gop-denying-election-loss.amp",
+      "publishedDateTime": "2020-12-26T11:10:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-26-trump-doubles-down-on-defense-bill-veto-calls-it-a-gift-to-china-russia-big-tech.md",
       "title": "Trump doubles down on defense bill veto, calls it a 'gift to China, Russia & Big Tech'",
       "excerpt": "President Trump on Saturday defended his veto of the National Defense Authorization Act, calling it a \"travesty\" and again claiming it is a \"gift\" to China, Russia and Big Tech companies.",
@@ -1317,58 +1373,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-trump-pardons-former-campaign-chairman-paul-manafort.md",
-      "title": "Trump pardons former campaign chairman Paul Manafort",
-      "excerpt": "President Donald Trump has issued pardons and sentence commutations for 29 people, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-pardons-former-campaign-chairman-paul-manafort/2020/12/23/5b821be6-457f-11eb-ac2a-3ac0f2b8ceeb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-pardons-former-campaign-chairman-paul-manafort/2020/12/23/5b821be6-457f-11eb-ac2a-3ac0f2b8ceeb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-pardons-former-campaign-chairman-paul-manafort/2020/12/23/5b821be6-457f-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardons-former-campaign-chairman-paul-manafort/2020/12/23/5b821be6-457f-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-23T16:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
