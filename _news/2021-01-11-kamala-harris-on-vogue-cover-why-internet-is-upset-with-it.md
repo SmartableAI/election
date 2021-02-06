@@ -1705,6 +1705,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Former Vice President Mike Pence Returns to Indiana After Avoiding Trump Sendoff"
+    excerpt: "Former Vice President Mike Pence is back home in the Hoosier state. After attending the Inauguration Day ceremonies for President Joe Biden and Pence's successor, Vice President Kamala Harris ..."
+    publishedDateTime: 2021-01-22T01:58:00Z
+    webUrl: "https://people.com/politics/former-vice-president-mike-pence-returns-to-indiana-theres-no-place-like-home/"
+    ampWebUrl: "https://people.com/politics/former-vice-president-mike-pence-returns-to-indiana-theres-no-place-like-home/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/former-vice-president-mike-pence-returns-to-indiana-theres-no-place-like-home/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 85
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B700%2C253%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F01%2F21%2Fmike-pence-1-2000.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
     publishedDateTime: 2021-01-17T10:17:00Z

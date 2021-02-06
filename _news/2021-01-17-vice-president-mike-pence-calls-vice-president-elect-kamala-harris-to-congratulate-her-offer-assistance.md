@@ -1702,6 +1702,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Former Vice President Mike Pence Returns to Indiana After Avoiding Trump Sendoff"
+    excerpt: "Former Vice President Mike Pence is back home in the Hoosier state. After attending the Inauguration Day ceremonies for President Joe Biden and Pence's successor, Vice President Kamala Harris ..."
+    publishedDateTime: 2021-01-22T01:58:00Z
+    webUrl: "https://people.com/politics/former-vice-president-mike-pence-returns-to-indiana-theres-no-place-like-home/"
+    ampWebUrl: "https://people.com/politics/former-vice-president-mike-pence-returns-to-indiana-theres-no-place-like-home/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/former-vice-president-mike-pence-returns-to-indiana-theres-no-place-like-home/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 85
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B700%2C253%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F01%2F21%2Fmike-pence-1-2000.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "California politicians offer well wishes for inauguration of Joe Biden and Kamala Harris"
     excerpt: "As Joe Biden was sworn in Wednesday as the 46th president of the United States and California’s Kamala Harris made history as the first woman and first woman of color to become vice president, politicians from across California offered their well-wishes and thoughts."
     publishedDateTime: 2021-01-20T20:10:00Z

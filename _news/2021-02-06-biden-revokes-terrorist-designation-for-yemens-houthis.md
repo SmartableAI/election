@@ -956,16 +956,16 @@ related:
         height: 630
         isCached: true
   - title: "VP Kamala Harris swears in Pete Buttigieg as Secretary of Transportation"
-    excerpt: "Second gentleman Doug Emhoff poses for photos after United States Vice President Kamala Harris swore in Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3,"
+    excerpt: "United States Vice President Kamela Harris arrives for the swearing-in of Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington,"
     publishedDateTime: 2021-02-03T15:27:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d9fe1c06d94f73ceab13a06bebe78264/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/27f76f666fed31d9f10ed29c365797bf/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d9fe1c06d94f73ceab13a06bebe78264/BUTTIGIEG-TRANSPORTATION.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/27f76f666fed31d9f10ed29c365797bf/BUTTIGIEG-TRANSPORTATION.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1027,6 +1027,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "/CSTnDBi3XO+W0y4zDlHhFvTNEe0Of5ueLwdFViJPEBb1b9lNbaNdWkCx/oELEI02GwA0et5/t0XNxf7BCLip5RqJ4kivnj3j2NrIStQJvz/yhcWKEYg/aX265bABbjRAOLTT6BR+aLnVGZgFuzxfjRG/QhU824wtc4kMipYwu1rIeK+wW+jZfv1HbY3/LnCGbD9qa7tdi3rWjJ7kkQA4NP9Z9gcPEL8JuY0Uwu0q18+Vae3nwju8veSX+/Ud4X6N3t8erm956qFCWUNdCxtE7CtICPk9zYjB179PUMjDBOMHW12kRKsTmxGO3ivUZVsD1ROHZWAmSsGJ+H0wzLaBTFeUE+nXNHkO6cEOe5hFcU=;xg83Bu6AMQc7bu7oFLytKQ=="
+secured: "CED2opPyheNs6KtsfgYAwk8SJtPeVmb5FKlzaQ+hc2J1Odybe/ZGAP0sUKedo5llZw5jMDOMQKwgAvMGMLBbj3ZV2nX8D9JYVoxPZYn1UETk+5U4FnrNul3oNklQyZa/hn7rIvSYucgvFnXBQSE9Qr9sB+369Ado/iuE4u2Cp5jtjWAt3mi4pF/B6Txn5qFg4NrkO7QdNasp6v1sTpdEjDZS92PaFb6+rCUe6ofmgeBQpZXjZJf/lE2/SVsZIS9H6YxlsNPn6I7JKzUHTBsCOHeuqwYc6bwIjAGQ85OGbEhlXXRX1pKc8na/XDvI/ptBkSu1My7WIjypQkXyahCSHEPr0w/gaRppCeoRg0DmrZ9BfyE6Cig5AkFeB/wTOP8Y2SkzKql6ECE8rOWruatw+FVLP3BeAa+SToMazODAwwMRmEKzhyKQ5Khs5uEA9fMYXDZfxWrRcVR/wdVjXbvTbVkF09kFMifbFCql/0d3M8J72otUTtK5ybkywjz1yKpYnrDa7lp/Dqj9lp7GYZuBmQ==;pG68i9OC5VmubaS1SA6ztw=="
 ---
 

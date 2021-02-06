@@ -430,6 +430,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump will not testify or provide any statement at impeachment trial, lawyer says"
+    excerpt: "President Joe Biden plans to proceed as if the impeachment trial is not taking place, according to White House officials."
+    publishedDateTime: 2021-02-06T04:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/trump-impeachment-inquiry/impeachment-managers-request-trump-testify-under-oath-senate-trial-n1256751"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256751"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256751"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_03/3444361/210122-donald-trump-al-1405_c94071c5009019d8b6a364c44dfe16f0.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Most Senate Republicans declare Trump's trial unconstitutional. Here's what that means for conviction."
     excerpt: "Forty-five GOP senators voted Tuesday to dismiss the trial as unconstitutional, given Trump's status as the former president."
     publishedDateTime: 2021-01-27T06:33:00Z
@@ -471,6 +487,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/89/79/67fb23974e06b8c109493de83d14/210204-newsom-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Sasse inflames GOP with anti-Trump video"
+    excerpt: "If the GOP’s fervor for the former president fades to any degree, Sasse will be better positioned than anyone to capitalize."
+    publishedDateTime: 2021-02-06T04:55:00Z
+    webUrl: "https://www.politico.com/news/2021/02/05/ben-sasse-2024-466424"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/72/5d/192271fa4622aa20c26b96c6da1c/210205-ben-sasse-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true

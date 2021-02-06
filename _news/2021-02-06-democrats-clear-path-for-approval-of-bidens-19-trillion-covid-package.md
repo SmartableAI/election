@@ -2,11 +2,11 @@
 category: news
 title: "Democrats clear path for approval of Biden's $1.9 trillion COVID package"
 excerpt: "President Joe Biden and his Democratic allies in Congress forged ahead with their $1.9 trillion COVID-19 relief package on Friday as lawmakers approved a budget outline that will allow them to muscle Biden's plan through in the coming weeks without Republican support."
-publishedDateTime: 2021-02-05T22:57:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUKKBN2A514V"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUKKBN2A514V"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A514V"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A514V"
+publishedDateTime: 2021-02-06T03:54:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A514V"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A514V"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A514V"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A514V"
 type: article
 quality: 124
 heat: -1
@@ -222,6 +222,6 @@ related:
         height: 539
         isCached: true
 
-secured: "3zbM3bCLYIRtvVk9UVYEZvVk+RH1uj1IcOHc4OqA8Yun8vYLK4hN6ZGZQacqhAbx6OWkYvd8/ncw9lC5no/aaOi8IeD6mz3EZvHZ4dLDJiG4K1/D9leX8Z3AOd69anXfm+eSDNGpRslXDOumuZAWlCK/iLOtqx8q1TXvdFdvRc5cQRVjVOzHjDNZ+uJrI40yTJzPiFq2JEN/QSOa6OHJ58KxxMWkebnnPPduyEM+4F32B0CdpQaljfUuUJSRzX+zP3COVU+cQFKgK4RvL5MUWEY0ogNfyP0b4+j5VuwXgJUgM3+dSK8iUQfl+NPGVQPpScNSgM5johVjKyl4ZD6KzDoHq4CSQxbKEd95ZjwP4wLhQoTDWS7DIUDMZbBZV6KcPr8/1z+5NbCBRGIA1pen3D8bJhmJ1j/L/CWaa4P5ElmP++1l8HDRe9gqqimfwS4us952tanf4FDp7OUJ8NUbsIK63HjCQ5foy0tffJlSYrdoE6GPVxUIqkimizQLQv9rOeZXJhGeVZm9GtyynOEBzA==;i2QBh4Ef6gddLOUVMkJCAg=="
+secured: "8/0AQBBvwobFRiwNF6/+dRpjNJ5Ex0PzPpOxNf5g2AFUvG5RHMQVmuKEQMHCGa26RByL8gi9kijJdAJkAuW7MTaID8RG57ZRF0ddGpi+foepRdMuB/aeHVeQ67zYnR2TJMf4C50CAs6EtwLWBqS3FGlEi4qUZGMMNYxJSH/z79iXl7ZgL42NczrMuL2ZNvG5IJGGQr9WQ9SowPZyuQhyevL5pLyBaJEh17WOxA14D2fSuqqhTQTSXxMCCxqIi7mSJkBkYoKF9enyr+4u0Co4P4LgV1NQ8AdH5NbgoS5En9mien5OpKlna/dT7AbKyd6BbMsZoNhz1LlBiQEGbWWJf3xXeA7U/JF4VMvXzYfEIc0=;yIJH8UxQbazB1tbAOY8V0w=="
 ---
 

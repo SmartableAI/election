@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 1000
+heat: 1040
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/05/8d802e2a-6c42-4bc8-b6b7-eeacb8b07fe2/thumbnail/1200x630/53162f95d515d855d58913c02e5b8804/nod-biden-2-w-bug.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
+    excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to any intelligence briefings because of his \"erratic behavior,\" Biden said in an interview released on Friday."
+    publishedDateTime: 2021-02-06T04:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-security-biden-trump-idUSKBN2A52UN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A52UN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A52UN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550527703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141NW"
+        width: 867
+        height: 545
         isCached: true
   - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
     excerpt: "President Joe Biden is making his first major foray outside the White House, to visit wounded soldiers at Walter Reed Hospital, just outside Washington"
@@ -366,6 +382,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/3ee49f7e2bb1ff93bf8727cfac079e3f54459eae/0_244_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=35b409975f63ff3337de766f8bef15ae"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden says he does not expect minimum wage hike to be in COVID-19 relief bill"
+    excerpt: "U.S. President Joe Biden said in an interview released on Friday he does not expect his proposal for a hike in the minimum wage to $15 an hour to be included in his $1.9 trillion COVID-19 relief bill because of Senate rules."
+    publishedDateTime: 2021-02-06T04:53:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-wage-idUSKBN2A52UR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A52UR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A52UR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210206&t=2&i=1550529524&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141O2"
+        width: 824
+        height: 545
         isCached: true
   - title: "How Obamacare Survived Trump and What Biden Might Do"
     excerpt: "The U.S. health-care law known as Obamacare spent its first decade dodging a series of existential risks. By a single vote in the Senate, the law survived a repeal attempt in 2017 pushed by President Donald Trump."
