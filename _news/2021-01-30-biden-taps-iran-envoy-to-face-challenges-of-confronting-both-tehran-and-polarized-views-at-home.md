@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Can immigrant rights advocates get Biden to end for-profit ICE detention?"
+    excerpt: "Most immigrant detainees don't have criminal convictions, while the ICE budget for detentions soared. \"It's such a cruel system,\" one advocate said."
+    publishedDateTime: 2021-01-29T16:47:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/can-immigrant-rights-advocates-get-biden-end-profit-ice-detention-n1256073"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256073"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256073"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3445907/210128-central-valley-modified-correctional-facility-geo-group-exterior-2019-ac-1023p_aaedf1a26689356ce88b2c83acaacee0.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Iran's U.N. ambassador says Iran is waiting for President Biden to make the first diplomatic move"
     excerpt: "The Biden administration needs to lift sanctions on Iran and return to the nuclear deal that Trump ditched, the Iranian ambassador to the U.N. says."
     publishedDateTime: 2021-01-26T09:24:00Z

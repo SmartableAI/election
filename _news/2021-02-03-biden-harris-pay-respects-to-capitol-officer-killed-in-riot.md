@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1470
+heat: 1490
 published: true
 
 provider:
@@ -287,6 +287,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/6811ad30035b29631a76bf3087a6b7653b35f39a/0_24_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=04bdc94c39390add53a64b6178e180bf"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden revokes terrorist designation for Yemen's Houthis"
+    excerpt: "President Joe Biden’s administration is moving to revoke the designation of Yemen’s Houthis as a terrorist group, citing the need to mitigate one of the world’s worst humanitarian disasters"
+    publishedDateTime: 2021-02-06T02:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-revokes-terrorist-designation-yemens-houthis-75719656"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-revokes-terrorist-designation-yemens-houthis-75719656"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-revokes-terrorist-designation-yemens-houthis-75719656"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_37b6acc1052844c7ba525490a12fa156_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden follows in recent presidential footsteps with Super Bowl interview"
     excerpt: "When U.S. President Joe Biden appears for a CBS interview this Super Bowl Sunday, he will be following a recent White House tradition of using the country's most-watched sporting event to reach a national audience in the tens of millions."

@@ -849,6 +849,22 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "Trump’s impeachment trial to begin on February 8, says US Senate majority leader Chuck Schumer"
+    excerpt: "Opening arguments in the US Senate impeachment trial for Donald Trump over the Capitol riot will begin the week of February 8, the first time a former president will face such charges after ..."
+    publishedDateTime: 2021-01-22T17:33:00Z
+    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3118926/nancy-pelosi-send-donald-trump-impeachment-article"
+    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3118926/nancy-pelosi-send-donald-trump-impeachment-article"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3118926/nancy-pelosi-send-donald-trump-impeachment-article"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 63
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/24/e73786e8-5cd7-11eb-a99a-beae699a1a1d_image_hires_033723.jpg?itok=5Q7pwkmI&v=1611430654"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Impeachment Article To Be Sent To Senate, Triggering Trial"
     excerpt: "US House Speaker Nancy Pelosi is set to send the Senate a single article of impeachment Monday accusing Donald Trump of inciting the Capitol riot, formally triggering the first-ever impeachment trial of a former president."
     publishedDateTime: 2021-01-25T05:45:00Z

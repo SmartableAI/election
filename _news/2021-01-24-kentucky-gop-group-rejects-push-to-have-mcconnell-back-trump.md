@@ -367,6 +367,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump impeachment trial will start week of February 8"
+    excerpt: "Opening arguments in the Senate impeachment trial for Donald Trump on the charge of incitement of insurrection for the Capitol riot will begin the week of February 8. Senate Majority Leader Chuck ..."
+    publishedDateTime: 2021-01-22T23:17:00Z
+    webUrl: "https://www.afr.com/world/north-america/trump-impeachment-to-go-to-senate-on-monday-20210123-p56way"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 55
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.4088%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_637%2C$y_534/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_jpg/t_afr_live_no_age_social_wm/9b8662fc7027062f66926c9325d386ee12517917"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "tFvE/TF+cG7Hm7UZW/c4Z2j0juIKLUigpti3GqMp2un7lNWkcIl5YvFrZuWimzWXioNZpD7zPjzoonW4h7U+rclZe+aVOPfDSZCLh9dcmSPzAUdUFJ5p1UGqH0ReTYd6mRQB+KdJCfo0l8CA8JngMb1vwcNcDZyuQ5i2HbNkYmBuJZyrkkdLhX7a2/ZgHzrj/M9OXFZ2PB209vld5enecgTq/psy32ubVKjPZHu5mkPFuYDUINhsoke9CwX6LNeySfCRPCIhd0psr7IB55p7sVwvOW3DOfWUASaBPbTLeHNyUeKQVeaHTlm09bigHaQjW2JMcs9WeEAp/JzZj1dcFzwNFPumNiHM05AZmO/FEU1T9TAliiUz1l/qL65yHXw7hJpoThOjvjt59PS/3J+aJx2fkjhyO6RtKprVSP4W69uJ53xjycHZok/MRV0YB7Fvrk67Dl4XWGibmNZ+9vq3mhFY0rM2A8wZtvyypZWtzrJ0K7H5KlqaFj0R9dwQNeeZJwlxjtLhKoxueZhKyuSVqg==;UgUgSQo8Ga8IwvTWO2Ldow=="
 ---

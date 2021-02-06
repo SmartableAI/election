@@ -303,6 +303,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Biden administration’s muddled message on reopening schools"
+    excerpt: "After a year of health officials being muzzled and contradicted during the Trump administration, the rollout of Biden's plan to reopen schools hasn't been terribly confidence-inspiring."
+    publishedDateTime: 2021-02-06T02:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/05/biden-administrations-muddled-confusing-message-reopening-schools/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/05/biden-administrations-muddled-confusing-message-reopening-schools/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/05/biden-administrations-muddled-confusing-message-reopening-schools/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZNNMGBZSQI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
     excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."
     publishedDateTime: 2021-02-01T20:31:00Z
@@ -393,6 +409,17 @@ related:
         width: 1440
         height: 952
         isCached: true
+  - title: "Biden says 'no need' for Trump to get intel briefs"
+    excerpt: "President Joe Biden said Friday that Donald Trump should not be allowed to receive classified intelligence briefings, a courtesy that historically has been granted to outgoing presidents."
+    publishedDateTime: 2021-02-06T01:27:00Z
+    webUrl: "https://www.businessinsider.com/biden-says-no-need-for-trump-to-get-intel-briefs-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/biden-says-no-need-for-trump-to-get-intel-briefs-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-no-need-for-trump-to-get-intel-briefs-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Donald Trump resigns from SAG-AFTRA: Read his full letter, actors' guild's response"
     excerpt: "Donald Trump is resigning from SAG-AFTRA after facing expulsion from the actors' union for inciting the Capitol riots Jan. 6."
     publishedDateTime: 2021-02-05T04:16:00Z

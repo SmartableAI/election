@@ -356,6 +356,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump impeachment trial will start week of February 8"
+    excerpt: "Opening arguments in the Senate impeachment trial for Donald Trump on the charge of incitement of insurrection for the Capitol riot will begin the week of February 8. Senate Majority Leader Chuck ..."
+    publishedDateTime: 2021-01-22T23:17:00Z
+    webUrl: "https://www.afr.com/world/north-america/trump-impeachment-to-go-to-senate-on-monday-20210123-p56way"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 55
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.4088%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_637%2C$y_534/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_jpg/t_afr_live_no_age_social_wm/9b8662fc7027062f66926c9325d386ee12517917"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Kentucky GOP Group Rejects Push to Have McConnell Back Trump"
     excerpt: "A Kentucky Republican Party committee has rejected a resolution urging Senate GOP leader Mitch McConnell to fully support Donald Trump in the ex-president’s upcoming impeachment trial."
     publishedDateTime: 2021-01-23T23:46:00Z

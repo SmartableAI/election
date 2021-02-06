@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/biden-people-magazine-fa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/biden-people-magazine-family-members-government/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 235
 published: true
 
 provider:
@@ -31,9 +31,39 @@ images:
     isCached: true
 
 related:
+  - title: "Biden is expected to announce increase in amount of refugees admitted into US"
+    excerpt: "The Biden administration plans to announce on Thursday that it will increase the number of refugees who can come to the United States, a move toward building up refugee admissions after years of historic low arrivals under former President Donald Trump, according to two sources familiar with the plans.\n"
+    publishedDateTime: 2021-02-04T00:16:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X9k9JiHjBmc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/biden-refugee-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/biden-refugee-announcement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden's Cabinet: Who’s in, and who voted against them"
     excerpt: "President Joe Biden has assembled, by some accounts, a history-making Cabinet: If all members are approved, it will be the most diverse array of presidential counselors ever. But can he get them confirmed by the Senate?"
     publishedDateTime: 2021-02-04T15:41:00Z
+    webUrl: "https://www.politico.com/interactives/2021/joe-biden-cabinet-members-confirmations-list/"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://politico.com/interactives/2021/joe-biden-cabinet-members-confirmations-list/media/share.jpg"
+        width: 600
+        height: 324
+        isCached: true
+  - title: "Joe Biden Cabinet members: List of confirmations so far"
+    excerpt: "President Joe Biden has assembled, by some accounts, a history-making Cabinet: If all members are approved, it will be the most diverse array of presidential counselors ever. But can he get them confirmed by the Senate?"
+    publishedDateTime: 2021-02-05T01:23:00Z
     webUrl: "https://www.politico.com/interactives/2021/joe-biden-cabinet-members-confirmations-list/"
     type: article
     provider:

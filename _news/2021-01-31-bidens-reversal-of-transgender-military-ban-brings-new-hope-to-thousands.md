@@ -31,99 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden aims to tackle another American crisis: Race"
-    excerpt: "If there was any doubt about the urgency of President Joe Biden's mission to tackle racial inequality, it was erased in the searing moment an insurrectionist rioter brazenly paraded the Confederate flag through the US Capitol.\n    \n"
-    publishedDateTime: 2021-01-26T12:35:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MDazENa4X-0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html"
+  - title: "Biden administration to remove Houthis from terrorist list, reversing Trump's decision"
+    excerpt: "The State Department has informed Congress of its intent to reverse the Trump administration's eleventh-hour decision to designate Yemen's Houthi rebels as a foreign terrorist organization, a State Department official said Friday.\n    \n"
+    publishedDateTime: 2021-02-06T01:52:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtwnzcvGt_c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/us-houthis-terrorist-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/us-houthis-terrorist-list/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 182
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122211659-05-biden-economy-0122-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Why West Virginia is central to Biden's climate crisis plans"
-    excerpt: "Joe Manchin once shot a hole in the climate-saving plan of his own party. Literally.\n    \n"
-    publishedDateTime: 2021-01-27T11:02:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hHb9PF_Lre4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/climate-crisis-biden-executive-actions-analysis-weir-wxc/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/climate-crisis-biden-executive-actions-analysis-weir-wxc/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden signs executive order to reopen Affordable Care Act enrollment"
-    excerpt: "President Joe Biden will reopen enrollment on the federal Affordable Care Act exchanges on Thursday as part of a series of executive actions related to health care, taking a step to help uninsured Americans that his predecessor rejected.\n    \n"
-    publishedDateTime: 2021-01-29T00:56:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iv1v6sQwNcI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/biden-executive-orders-health-care-aca-medicaid/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/biden-executive-orders-health-care-aca-medicaid/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127192327-biden-0127-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Why Biden has a rare opportunity for early success   "
-    excerpt: "Over five decades in Washington, President Joe Biden has watched seven newly-elected presidents get started. Improbably, he has the chance for a stronger opening act than any of them.\n    \n"
-    publishedDateTime: 2021-01-31T12:01:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NwKcFQyfvhM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/joe-biden-opening-act-covid-19-relief/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/joe-biden-opening-act-covid-19-relief/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127192327-biden-0127-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "They say Biden's plan would change their lives. Here's how"
-    excerpt: "Undocumented immigrants across the country told CNN they're hoping the President will make good on his promise to protect them, before it's too late.\n    \n"
-    publishedDateTime: 2021-01-31T12:54:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jYKZEJZ6XCw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/us/biden-immigration-proposal-undocumented-immigrants-reactions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/us/biden-immigration-proposal-undocumented-immigrants-reactions/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129133806-immigration-rally-0127-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Here's what's in the Biden and GOP stimulus proposals"
-    excerpt: "President Joe Biden and a group of 10 Republican senators have very different ideas for the next coronavirus relief bill.\n    \n"
-    publishedDateTime: 2021-02-01T15:15:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8pMaZ_8BAB4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/stimulus-plans-biden-gop-comparison/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/stimulus-plans-biden-gop-comparison/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113173026-us-stimulus-check---stock-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103714-biden-foreign-policy-speech-02-04-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -143,19 +63,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Comparing the Biden and GOP stimulus plans"
-    excerpt: "President Joe Biden and a group of 10 Republican senators have very different ideas for the next coronavirus relief bill.\n    \n"
-    publishedDateTime: 2021-02-02T13:14:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8pMaZ_8BAB4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/stimulus-plans-biden-gop-comparison/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/stimulus-plans-biden-gop-comparison/index.html"
+  - title: "Biden administration designates Myanmar military takeover as a coup"
+    excerpt: "The Biden administration has formally determined that the military takeover in Myanmar constitutes a coup d'état, a designation that requires the US to cut its foreign assistance to the country.\n    \n"
+    publishedDateTime: 2021-02-02T16:15:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UNF_PydGXyM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/myanmar-state-department-coup-determination/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/myanmar-state-department-coup-determination/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113173026-us-stimulus-check---stock-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202085225-05-myanmar-coup-0202-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -175,195 +95,293 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden will sign executive order to reopen Affordable Care Act enrollment"
-    excerpt: "President Joe Biden will reopen enrollment on the federal Affordable Care Act exchanges on Thursday as part of a series of executive actions related to health care, taking a step to help uninsured Americans that his predecessor rejected.\n    \n"
-    publishedDateTime: 2021-01-28T12:36:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iv1v6sQwNcI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/biden-executive-orders-health-care-aca-medicaid/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/biden-executive-orders-health-care-aca-medicaid/index.html"
+  - title: "Frank Biden's actions already testing Joe Biden's ethics claims"
+    excerpt: "President Joe Biden said at the start of his administration that family conflicts of interest would not be tolerated in his White House, but not two weeks into his presidency, his brother's actions as a part of his employment at a law firm in Florida are raising questions about how he'll implement that"
+    publishedDateTime: 2021-02-04T02:06:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pbCWmjOSf6E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/joe-biden-frank-biden-conflicts-of-interest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/joe-biden-frank-biden-conflicts-of-interest/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127192327-biden-0127-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201231633-02-joe-biden-0128-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden plans first major foreign policy speech on restoring 'America's place'"
-    excerpt: "President Joe Biden plans to deliver his most substantive foreign policy remarks since becoming president on Monday, according to a senior administration official, marking his opening attempt at pivoting away from his predecessor's \"America First\" approach to the world.\n    \n"
-    publishedDateTime: 2021-01-31T15:00:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZHObighAiLM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/joe-biden-foreign-policy-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/joe-biden-foreign-policy-speech/index.html"
+  - title: "Hunter Biden is writing a book about his struggle with addiction"
+    excerpt: "President Joe Biden's son Hunter is publishing a memoir about his struggle with addiction that will be released in April.\n    \n"
+    publishedDateTime: 2021-02-04T16:46:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x2h59WCsaZc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/hunter-biden-book-addiction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/hunter-biden-book-addiction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209204808-hunter-biden-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: Letter from House impeachment managers asking Trump to testify"
+    excerpt: "The House impeachment managers are requesting former President Donald Trump testify before or during his Senate trial. Read the letter from lead House impeachment manager Rep. Jamie Raskin:\n    \n"
+    publishedDateTime: 2021-02-04T18:30:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IZPnsuP2Q5I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/house-letter-trump-testify/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/house-letter-trump-testify/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104729-02-trump-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Judge likely to extend hold on Biden's deportation pause until late February"
+    excerpt: "A federal judge in Texas said Friday that he'll likely extend his hold on the Biden administration's deportation moratorium until February 23.\n    \n"
+    publishedDateTime: 2021-01-29T19:24:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PAqiwBM64-4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/immigration-biden-deportations-texas/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/immigration-biden-deportations-texas/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127192327-biden-0127-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128143435-01-biden-health-care-eo-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden asks Supreme Court to delay oral arguments on border wall and asylum rule"
-    excerpt: "President Joe Biden's Justice Department asked the Supreme Court on Monday to postpone oral arguments in significant cases regarding former President Donald Trump's border wall and a controversial asylum rule.\n    \n"
-    publishedDateTime: 2021-02-01T22:00:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qIwAhm9Yi84/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/supreme-court-border-wall-asylum/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/supreme-court-border-wall-asylum/index.html"
+  - title: "Biden administration prepares to open overflow facility for migrant children"
+    excerpt: "The Biden administration is opening an overflow facility for unaccompanied migrant children apprehended at the US-Mexico border, the federal agency tasked with the children's care told CNN in a statement.\n    \n"
+    publishedDateTime: 2021-02-02T21:59:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5pdeB-2WZx8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/migrant-children-facility-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/migrant-children-facility-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127205123-migrant-children-carizzo-springs-tx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to propose significant increase in refugees admitted to US"
+    excerpt: "The Biden administration is proposing to revise the number of refugees that can be admitted to the United States in fiscal year 2021 to 62,500, a significant increase from the 15,000 cap put in place under former President Donald Trump, according to a report obtained by CNN.\n    \n"
+    publishedDateTime: 2021-02-06T00:33:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A4NCa_yk598/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/refugee-cap-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/refugee-cap-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129144107-05-scotus-exterior-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111459-12-immigration-file-asylum-seekers-mexico-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "With new urgency, Biden makes his case to the American people for Covid-19 relief"
-    excerpt: "President Joe Biden came to Washington with big dreams of bipartisanship, but the practicalities are now setting in.\n    \n"
-    publishedDateTime: 2021-01-30T14:35:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sJAUwogngJo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/biden-covid-19-relief-urgency/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/biden-covid-19-relief-urgency/index.html"
+  - title: "Biden administration expected to announce direct vaccine shipments to pharmacies"
+    excerpt: "The Biden administration is set to announce it will soon begin direct shipments of coronavirus vaccines to retail pharmacies, according to an official familiar with the matter, expanding points of access for Americans to receive shots.\n    \n"
+    publishedDateTime: 2021-02-02T16:46:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dxQB0iyPx3U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/vaccine-shipments-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/vaccine-shipments-white-house/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127134523-01-biden-0125-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202112552-01-vaccine-denver-0130-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden faces presidency-defining dilemma over Republican offer on Covid-19 rescue plan"
-    excerpt: "President Joe Biden will on Monday meet with 10 Republican senators who have drawn up a smaller counter-proposal to his $1.9 trillion Covid-19 rescue plan in the most critical test yet of his core promise to forge unity over bitter partisan lines.\n    \n"
-    publishedDateTime: 2021-02-01T06:11:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0hAtqy8BZj0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-coronavirus-congress-republicans-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-coronavirus-congress-republicans-trump/index.html"
+  - title: "Biden to signal commitment to US diplomats and allies with State Department visit"
+    excerpt: "President Joe Biden will visit the State Department Thursday to thank a workforce repeatedly maligned under the previous administration and present his broad vision for a foreign policy re-grounded in alliances and multilateral institutions.\n    \n"
+    publishedDateTime: 2021-02-04T11:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-jdlbhVi-0I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/biden-state-department-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/biden-state-department-visit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131095349-sotu-deese-full-00000611-super-tease.png"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126105306-02-biden-0125-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's favorability on the rise as majority of Americans think he's handling transition well"
-    excerpt: "President-elect Joe Biden will take office Wednesday with high expectations and largely positive reviews of how he has handled the transition, according to a new CNN Poll conducted by SSRS. But those rosy assessments of Biden come as negative perceptions of how things are going in the United States are"
-    publishedDateTime: 2021-01-19T12:26:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_bM7-TCVaUU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/cnn-poll-biden-favorability/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/cnn-poll-biden-favorability/index.html"
+  - title: "White House reaches out to immigrant advocacy groups that seek urgent action from Biden"
+    excerpt: "As arrests on the southern border increase, White House and other administration officials are opening a channel of communications to advocacy groups that have a direct line to migrants, according to multiple sources.\n    \n"
+    publishedDateTime: 2021-02-05T12:00:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XRI9rVpkWl8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/immigration-biden-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/immigration-biden-white-house/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118154054-01-biden-cabinet-nominations-1211-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111219-06-immigration-file-asylum-seekers-mexico-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's decrees vault America back onto the global stage. A whiplashed world wonders for how long"
-    excerpt: "Within hours of taking office, US President Joe Biden set to work signing a blizzard of executive orders, memorandums and directives to agencies, ranging from steps to combat the coronavirus to beginning the process of rejoining the Paris climate accord.\n    \n"
-    publishedDateTime: 2021-01-24T05:12:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mvFlHe8Y1vA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/world/us-executive-orders-foreign-policy-intl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/world/us-executive-orders-foreign-policy-intl/index.html"
+  - title: "Biden administration to use Defense Production Act for Pfizer supplies, at-home tests and masks"
+    excerpt: "The Biden administration is making use of the Defense Production Act in three key areas, the top official tasked with supplies announced Friday, including equipment and supplies for Pfizer vaccine production, an increase in at-home or point of care testing, and personal protective equipment, particularly"
+    publishedDateTime: 2021-02-05T17:20:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KSzE2Ku-ppk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/defense-production-act-pfizer-masks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/defense-production-act-pfizer-masks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129112614-double-mask-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to deploy approximately 1,000 troops to assist with Covid vaccination effort"
+    excerpt: "The Biden administration is expected to announce Friday that it will deploy approximately 1000 troops across the United States to assist with coronavirus vaccination efforts.\n    \n"
+    publishedDateTime: 2021-02-05T16:39:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NWGkydXSapk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/pentagon-covid-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/pentagon-covid-vaccines/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120202424-03-biden-executive-order-0120-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203202245-administers-a-pfizer-covid-19-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "White House says it's their policy not to let businesses tout Biden's endorsement but they are mum on brother's law firm ad"
-    excerpt: "The White House said Thursday it is their policy to not let businesses imply they have President Joe Biden's support or endorsement, but declined to comment on the record about an advertisement in which Frank Biden touted his relationship to his brother. The ad for a Boca Raton law firm, for which Frank"
-    publishedDateTime: 2021-01-28T19:09:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0tNDHEMa0XA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/frank-biden-white-house-advertisement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/frank-biden-white-house-advertisement/index.html"
+  - title: "NY judge orders Trump Organization's tax firm to hand over more documents to state attorney general"
+    excerpt: "A New York state judge on Friday ordered a tax firm that has worked with former President Donald Trump to turn over more documents to New York Attorney General Letitia James as part of her office's investigation into the Trump Organization.\n    \n"
+    publishedDateTime: 2021-01-30T00:48:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_z9-XFrfhc8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/trump-taxes-westchester/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/trump-taxes-westchester/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 149
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128140313-frank-joe-biden-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Klain pushes back on criticism over Biden's gush of executive actions"
-    excerpt: "White House chief of staff Ron Klain on Thursday defended the flurry of executive actions President Joe Biden has taken in his first week in office, pushing back against a New York Times editorial urging the administration to enact more policy through congressional legislation."
-    publishedDateTime: 2021-01-28T14:48:00Z
-    webUrl: "https://www.politico.com/news/2021/01/28/ron-klain-biden-executive-orders-463428"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/28/ron-klain-biden-executive-orders-463428"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/28/ron-klain-biden-executive-orders-463428"
+  - title: "White House to release state coronavirus reports previously kept out of public view in Trump administration"
+    excerpt: "The transition from the Trump to the Biden administration has brought significant changes to the US Covid-19 strategy, and with it, a new level of transparency.\n    \n"
+    publishedDateTime: 2021-01-30T00:10:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqPkmEWzfAE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/white-house-task-force-state-reports/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/white-house-task-force-state-reports/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 157
     images:
-      - url: "https://static.politico.com/f0/1f/07f6351548c5b134e252af2e0a70/gettyimages-459992630-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190222184317-white-house-exterior-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Biden faces calls to secure release of U.S. man in Afghanistan"
-    excerpt: "Mark Frerichs’ family and other supporters are urging the Biden administration not to withdraw additional troops without the Navy veteran being released from captivity."
-    publishedDateTime: 2021-01-30T14:53:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-faces-calls-secure-release-u-s-man-afghanistan-n1256256"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256256"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256256"
+  - title: "Biden Bars Trump From Receiving Intelligence Briefings, Citing ‘Erratic Behavior’"
+    excerpt: "Mr. Biden said there was “no need” for former President Donald J. Trump to get the briefings, traditionally given to ex-presidents as a courtesy and to keep them informed if their advice is needed."
+    publishedDateTime: 2021-02-06T02:06:00Z
+    webUrl: "https://www.nytimes.com/2021/02/05/us/politics/biden-trump-intelligence-briefings.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/05/us/politics/biden-trump-intelligence-briefings.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/politics/biden-trump-intelligence-briefings.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 145
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-biden-intel-breifing-trump/05dc-biden-intel-breifing-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden signs immigration executive orders to address 'moral failing' of Trump's policies"
+    excerpt: "One executive order will create a task force to reunite children who were separated from their parents under Trump's \"zero tolerance\" policy."
+    publishedDateTime: 2021-02-03T21:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/biden-sign-executive-orders-immigration-including-family-reunification-n1256431"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256431"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256431"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 142
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3446319/210130-mark-frerichs-al-0945_eaf4b1268340e609cb11542817c0d8bc.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_05/3443371/210119-joe-biden-ac-949p_6cc3217a532cb2a7374b288ca74a1dfc.jpg"
         width: 2500
-        height: 1459
+        height: 1659
         isCached: true
-  - title: "Why you haven’t seen a sit-down Biden interview yet"
-    excerpt: "Joe Biden waited nearly four decades to become the most powerful man in the free world. Now that he is, he’s making himself scarce. Biden is leaning on doctors and health experts to publicly detail his Covid policy."
-    publishedDateTime: 2021-01-31T14:04:00Z
-    webUrl: "https://www.politico.com/news/2021/01/31/joe-biden-spotlight-464003"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/31/joe-biden-spotlight-464003"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/31/joe-biden-spotlight-464003"
+  - title: "An inconvenient insurrection tests Biden on China, democracy support"
+    excerpt: "| Lauren DeCicca/ Just days into his tenure, President Joe Biden already is grappling with a foreign policy crisis — a military coup in Myanmar — that could put his administration at odds with China,"
+    publishedDateTime: 2021-02-01T18:53:00Z
+    webUrl: "https://www.politico.com/news/2021/02/01/myanmar-coup-biden-china-democracy-464444"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/01/myanmar-coup-biden-china-democracy-464444"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/01/myanmar-coup-biden-china-democracy-464444"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/8e/7a/ccb62882443a83f09269679561fe/210130-biden-getty-773.jpg"
+      - url: "https://static.politico.com/df/45/bc1dfde84d87ac4f1faf5cb8a5b1/gettyimages-1299740192-1.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "The buzzword you need to know to understand Biden"
-    excerpt: "All that and more below, but first a look from Eugene at an overlooked rhetorical shift by the Biden administration that can help explain a lot of what’s to come the next four years … It’s the buzzword of the early Biden administration,"
-    publishedDateTime: 2021-02-01T11:13:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/01/the-buzzword-you-need-to-know-to-understand-biden-491582"
+  - title: "Biden signs executive orders on family separation and asylum"
+    excerpt: "The actions, aimed at undoing the Trump immigration legacy, largely call for reviews, planning and recommendations — not necessarily new policies to implement."
+    publishedDateTime: 2021-02-04T01:41:00Z
+    webUrl: "https://www.politico.com/news/2021/02/02/biden-executive-orders-family-separation-464816"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/02/biden-executive-orders-family-separation-464816"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/02/biden-executive-orders-family-separation-464816"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 135
     images:
-      - url: "https://static.politico.com/93/ed/4d0f3a164effa62f41bb4e9d5a6b/gettyimages-1230858158.jpg"
+      - url: "https://static.politico.com/c3/1c/d92bc77e479e8437bde8fc281405/gettyimages-1230855431-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "9-year-old boy begs Biden administration to stop his father's deportation to Guatemala"
+    excerpt: "\"They're choosing to keep a parent and child separated that they had already separated before and traumatized,\" said the attorney for Fernando Ochoa's dad."
+    publishedDateTime: 2021-02-04T00:05:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/9-year-old-boy-begs-biden-administration-stop-his-father-n1256640"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256640"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256640"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_05/3447378/210203-2x1-ubaldo-ochoa-lopez-ew-155p_d44262e2038a7807bc23a982a47c2d73.jpg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "+5TX7IrTnA/F4q8AluuudK9okcNw/BQOqi/g4KcLc8aHfXaEFSlKTqMbTEGEbltLQcvuAXAO75N/3VNG/rTLy1J2+l2jgWn2DXMkjTE7ozHRU+AuHlY+xQ2KZVe6zkBroqmvKVi9fILkwr5Kzh/pMoAdeqBMhSawy5aXD0JUBHU36CWhzue6LWq6CtN2eEPXd1Mj2R42FSf9swNab4ej5rtA17vwSpqKaN5rEoLYKm8n27KmbjCdmQpyhufiYUKLRcp9gbEHrjdQum/w+yOmxcwCEDpjUSzg/lDgqrTR1rDmYAaajnAueuw+vmGItrzzPrOZ89sxxuWGhB8tU3y0zk2UG4n6GLNewWCl0Hh6pHU=;2T/4cTcxDSZSYIYjRVJjjw=="

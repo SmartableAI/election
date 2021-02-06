@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Judge likely to extend hold on Biden's deportation pause until late February"
-    excerpt: "A federal judge in Texas said Friday that he'll likely extend his hold on the Biden administration's deportation moratorium until February 23.\n    \n"
-    publishedDateTime: 2021-01-29T19:24:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PAqiwBM64-4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/immigration-biden-deportations-texas/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/immigration-biden-deportations-texas/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128143435-01-biden-health-care-eo-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to sign immigration executive orders and establish task force to reunite separated families"
     excerpt: "President Joe Biden will sign three executive orders Tuesday that take aim at his predecessor's hardline immigration policies and try to rectify the consequences of those policies, including by establishing a task force designed to reunite families separated at the US-Mexico border, according to senior"
     publishedDateTime: 2021-02-02T10:01:01Z

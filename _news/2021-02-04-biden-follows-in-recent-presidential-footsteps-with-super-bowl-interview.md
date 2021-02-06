@@ -303,6 +303,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden revokes terrorist designation for Yemen's Houthis"
+    excerpt: "President Joe Biden’s administration is moving to revoke the designation of Yemen’s Houthis as a terrorist group, citing the need to mitigate one of the world’s worst humanitarian disasters"
+    publishedDateTime: 2021-02-06T02:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-revokes-terrorist-designation-yemens-houthis-75719656"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-revokes-terrorist-designation-yemens-houthis-75719656"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-revokes-terrorist-designation-yemens-houthis-75719656"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_37b6acc1052844c7ba525490a12fa156_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to reopen Obamacare markets to offer medical coverage during pandemic"
     excerpt: "President Biden plans to reopen the HealthCare.gov markets for a special sign-up opportunity for people without medical coverage in the pandemic."
     publishedDateTime: 2021-01-27T10:13:00Z

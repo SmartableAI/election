@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-resigns-from-screen-actors-gu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp"
 type: article
 quality: 165
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Trump resigns from SAG: ‘I no longer wish to be associated with your union’"
+    excerpt: "President Trump is resigning from the Screen Actors Guild - American Federation of Television and Radio Artists after they threatened to expel his membership from the union after the Capitol riot -- to which he said,"
+    publishedDateTime: 2021-02-06T02:34:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-resigns-from-screen-actors-guild"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/IMG_1279.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "0cKgHpvmCsQC8HYZIBQI2y1RhskAuF+d1ZJqqev9wuXAlNQTYaCXKk9HSj0Yzm+TqUX5oNLApzZMi5rN0q6LHQMTVjYFzy8T0rrcHQ46E3hS0Wzt8X0OpobzDsshHxo6GoNq09SqgK9U0jsZ3Sr+Q1k7ANZy9u2GRx3YRp0/Q1DyaoE6QQxw0U/1TZcKUH7VENYVdtJjgCwuFDHCus1M8qEAbe7qE8ZE6RMCElsp6UqkO0bhPfd2+O4eIMMUKUfRSjsvHj9Kv54YyqbRT8lF0PGwbEMR02tqrvepiBsacQsVtHzVrZ02A83S5Kup8KOSaaaRLsqixRdbp+wFLashHlpuZ7co/Et1goBbVnVWM2A=;3rFp1JugXOG39FczsM3l2Q=="
 ---

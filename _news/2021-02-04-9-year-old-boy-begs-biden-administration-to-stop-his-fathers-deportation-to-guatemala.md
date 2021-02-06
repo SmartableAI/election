@@ -32,6 +32,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration to remove Houthis from terrorist list, reversing Trump's decision"
+    excerpt: "The State Department has informed Congress of its intent to reverse the Trump administration's eleventh-hour decision to designate Yemen's Houthi rebels as a foreign terrorist organization, a State Department official said Friday.\n    \n"
+    publishedDateTime: 2021-02-06T01:52:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtwnzcvGt_c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/us-houthis-terrorist-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/us-houthis-terrorist-list/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103714-biden-foreign-policy-speech-02-04-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: This is job one for Biden in the climate debate"
+    excerpt: "President Joe Biden's push to accelerate the nation's transition toward electric vehicles offers him a game-changing opportunity to jolt the climate change debate -- if he can quell simmering tension between two key elements of the Democratic coalition.\n    \n"
+    publishedDateTime: 2021-02-02T05:12:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QVmWBRSMbiQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/biden-climate-change-electric-cars/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/biden-climate-change-electric-cars/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201153156-01-electric-car-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration designates Myanmar military takeover as a coup"
     excerpt: "The Biden administration has formally determined that the military takeover in Myanmar constitutes a coup d'état, a designation that requires the US to cut its foreign assistance to the country.\n    \n"
     publishedDateTime: 2021-02-02T16:15:20Z
@@ -45,6 +77,38 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202085225-05-myanmar-coup-0202-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration announces direct vaccine shipments to pharmacies"
+    excerpt: "The Biden administration is set to announce it will soon begin direct shipments of coronavirus vaccines to retail pharmacies, according to an official familiar with the matter, expanding points of access for Americans to receive shots.\n    \n"
+    publishedDateTime: 2021-02-03T01:57:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dxQB0iyPx3U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/vaccine-shipments-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/vaccine-shipments-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202112552-01-vaccine-denver-0130-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Frank Biden's actions already testing Joe Biden's ethics claims"
+    excerpt: "President Joe Biden said at the start of his administration that family conflicts of interest would not be tolerated in his White House, but not two weeks into his presidency, his brother's actions as a part of his employment at a law firm in Florida are raising questions about how he'll implement that"
+    publishedDateTime: 2021-02-04T02:06:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pbCWmjOSf6E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/joe-biden-frank-biden-conflicts-of-interest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/joe-biden-frank-biden-conflicts-of-interest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201231633-02-joe-biden-0128-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,19 +128,67 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden is expected to announce increase in amount of refugees admitted into US"
-    excerpt: "The Biden administration plans to announce on Thursday that it will increase the number of refugees who can come to the United States, a move toward building up refugee admissions after years of historic low arrivals under former President Donald Trump, according to two sources familiar with the plans.\n"
-    publishedDateTime: 2021-02-04T00:16:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X9k9JiHjBmc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/biden-refugee-announcement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/biden-refugee-announcement/index.html"
+  - title: "READ: Letter from House impeachment managers asking Trump to testify"
+    excerpt: "The House impeachment managers are requesting former President Donald Trump testify before or during his Senate trial. Read the letter from lead House impeachment manager Rep. Jamie Raskin:\n    \n"
+    publishedDateTime: 2021-02-04T18:30:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IZPnsuP2Q5I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/house-letter-trump-testify/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/house-letter-trump-testify/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104729-02-trump-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's reversal of transgender military ban brings new hope to thousands"
+    excerpt: "They dreamed of serving, and now they can after President Joe Biden lifted the Trump-era ban on most transgender Americans joining the US military.\n    \n"
+    publishedDateTime: 2021-01-31T13:27:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q7qtNHuabmk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/transgender-military-ban-reversal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/transgender-military-ban-reversal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Judge likely to extend hold on Biden's deportation pause until late February"
+    excerpt: "A federal judge in Texas said Friday that he'll likely extend his hold on the Biden administration's deportation moratorium until February 23.\n    \n"
+    publishedDateTime: 2021-01-29T19:24:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PAqiwBM64-4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/immigration-biden-deportations-texas/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/immigration-biden-deportations-texas/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128143435-01-biden-health-care-eo-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration prepares to open overflow facility for migrant children"
+    excerpt: "The Biden administration is opening an overflow facility for unaccompanied migrant children apprehended at the US-Mexico border, the federal agency tasked with the children's care told CNN in a statement.\n    \n"
+    publishedDateTime: 2021-02-02T21:59:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5pdeB-2WZx8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/migrant-children-facility-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/migrant-children-facility-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127205123-migrant-children-carizzo-springs-tx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -96,19 +208,51 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration takes cautious approach as it touts using Defense Production Act"
-    excerpt: "The Biden administration has repeatedly touted its plans to aggressively use the Defense Production Act as it combats the coronavirus pandemic, but behind the scenes, a slower, more painstaking effort is underway.\n    \n"
-    publishedDateTime: 2021-01-27T23:34:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B9CwTfJol-w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/biden-administration-defense-production-act/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/biden-administration-defense-production-act/index.html"
+  - title: "Biden administration expected to announce direct vaccine shipments to pharmacies"
+    excerpt: "The Biden administration is set to announce it will soon begin direct shipments of coronavirus vaccines to retail pharmacies, according to an official familiar with the matter, expanding points of access for Americans to receive shots.\n    \n"
+    publishedDateTime: 2021-02-02T16:46:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dxQB0iyPx3U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/vaccine-shipments-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/vaccine-shipments-white-house/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114172307-moderna-covid-vaccine-0112-massachusetts-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202112552-01-vaccine-denver-0130-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to signal commitment to US diplomats and allies with State Department visit"
+    excerpt: "President Joe Biden will visit the State Department Thursday to thank a workforce repeatedly maligned under the previous administration and present his broad vision for a foreign policy re-grounded in alliances and multilateral institutions.\n    \n"
+    publishedDateTime: 2021-02-04T11:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-jdlbhVi-0I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/biden-state-department-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/biden-state-department-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126105306-02-biden-0125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House reaches out to immigrant advocacy groups that seek urgent action from Biden"
+    excerpt: "As arrests on the southern border increase, White House and other administration officials are opening a channel of communications to advocacy groups that have a direct line to migrants, according to multiple sources.\n    \n"
+    publishedDateTime: 2021-02-05T12:00:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XRI9rVpkWl8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/immigration-biden-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/immigration-biden-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111219-06-immigration-file-asylum-seekers-mexico-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,21 +272,85 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "'It's frustrating': Thousands of migrants sit in Mexico desperate for answers from the Biden administration"
-    excerpt: "Within the span of a year and a half, a Cuban couple living on the US-Mexico border were repeatedly threatened, attacked and lost a baby after being assaulted, as they waited for their next immigration court date in the United States under a Trump-era policy.\n    \n"
-    publishedDateTime: 2021-01-28T21:09:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3N_41SYeONc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/immigration-biden-mexico-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/immigration-biden-mexico-border/index.html"
+  - title: "Biden administration to deploy approximately 1,000 troops to assist with Covid vaccination effort"
+    excerpt: "The Biden administration is expected to announce Friday that it will deploy approximately 1000 troops across the United States to assist with coronavirus vaccination efforts.\n    \n"
+    publishedDateTime: 2021-02-05T16:39:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NWGkydXSapk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/pentagon-covid-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/pentagon-covid-vaccines/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203202245-administers-a-pfizer-covid-19-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "NY judge orders Trump Organization's tax firm to hand over more documents to state attorney general"
+    excerpt: "A New York state judge on Friday ordered a tax firm that has worked with former President Donald Trump to turn over more documents to New York Attorney General Letitia James as part of her office's investigation into the Trump Organization.\n    \n"
+    publishedDateTime: 2021-01-30T00:48:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_z9-XFrfhc8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/trump-taxes-westchester/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/trump-taxes-westchester/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House to release state coronavirus reports previously kept out of public view in Trump administration"
+    excerpt: "The transition from the Trump to the Biden administration has brought significant changes to the US Covid-19 strategy, and with it, a new level of transparency.\n    \n"
+    publishedDateTime: 2021-01-30T00:10:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqPkmEWzfAE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/white-house-task-force-state-reports/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/white-house-task-force-state-reports/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127171643-01-matamoros-mexico-asylum-seekers-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190222184317-white-house-exterior-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden Bars Trump From Receiving Intelligence Briefings, Citing ‘Erratic Behavior’"
+    excerpt: "Mr. Biden said there was “no need” for former President Donald J. Trump to get the briefings, traditionally given to ex-presidents as a courtesy and to keep them informed if their advice is needed."
+    publishedDateTime: 2021-02-06T02:06:00Z
+    webUrl: "https://www.nytimes.com/2021/02/05/us/politics/biden-trump-intelligence-briefings.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/05/us/politics/biden-trump-intelligence-briefings.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/politics/biden-trump-intelligence-briefings.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 145
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/05/multimedia/05dc-biden-intel-breifing-trump/05dc-biden-intel-breifing-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden signs immigration executive orders to address 'moral failing' of Trump's policies"
+    excerpt: "One executive order will create a task force to reunite children who were separated from their parents under Trump's \"zero tolerance\" policy."
+    publishedDateTime: 2021-02-03T21:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/biden-sign-executive-orders-immigration-including-family-reunification-n1256431"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256431"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256431"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_05/3443371/210119-joe-biden-ac-949p_6cc3217a532cb2a7374b288ca74a1dfc.jpg"
+        width: 2500
+        height: 1659
         isCached: true
   - title: "An inconvenient insurrection tests Biden on China, democracy support"
     excerpt: "| Lauren DeCicca/ Just days into his tenure, President Joe Biden already is grappling with a foreign policy crisis — a military coup in Myanmar — that could put his administration at odds with China,"
@@ -160,35 +368,21 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Can immigrant rights advocates get Biden to end for-profit ICE detention?"
-    excerpt: "Most immigrant detainees don't have criminal convictions, while the ICE budget for detentions soared. \"It's such a cruel system,\" one advocate said."
-    publishedDateTime: 2021-01-29T16:47:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/can-immigrant-rights-advocates-get-biden-end-profit-ice-detention-n1256073"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256073"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256073"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3445907/210128-central-valley-modified-correctional-facility-geo-group-exterior-2019-ac-1023p_aaedf1a26689356ce88b2c83acaacee0.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Joe Biden Cabinet members: List of confirmations so far"
-    excerpt: "President Joe Biden has assembled, by some accounts, a history-making Cabinet: If all members are approved, it will be the most diverse array of presidential counselors ever. But can he get them confirmed by the Senate?"
-    publishedDateTime: 2021-02-05T01:23:00Z
-    webUrl: "https://www.politico.com/interactives/2021/joe-biden-cabinet-members-confirmations-list/"
+  - title: "Biden signs executive orders on family separation and asylum"
+    excerpt: "The actions, aimed at undoing the Trump immigration legacy, largely call for reviews, planning and recommendations — not necessarily new policies to implement."
+    publishedDateTime: 2021-02-04T01:41:00Z
+    webUrl: "https://www.politico.com/news/2021/02/02/biden-executive-orders-family-separation-464816"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/02/biden-executive-orders-family-separation-464816"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/02/biden-executive-orders-family-separation-464816"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 135
     images:
-      - url: "https://politico.com/interactives/2021/joe-biden-cabinet-members-confirmations-list/media/share.jpg"
-        width: 600
-        height: 324
+      - url: "https://static.politico.com/c3/1c/d92bc77e479e8437bde8fc281405/gettyimages-1230855431-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "cm4Hmb2UxoPF5PebUwOrA8zjTTkhfJ5nE2eJM4RYylrgD8E2rwE8wqb8PJqduDP0SOmJHag7/lw2PD0ir6vIez0+v11tPfHjMtMS9UPzz2bAYi41aJiynx+iiFAXB3xwWZoNAIhuEmVA8ILq9BmT5jtBpVKrXpl8ZzWIAtVUbkIx4oCJTp24qlmMJnjb/VlxQtV5RSz0Koy3H4DulhEncTtXRBc4xlkoxKH2X1gGoFJYScoKHelqaczgPoSEaOM7Hvprc3yJuGAahp0jF7vmqT4kaaY2oudcI2ohl6xNvlmCgiBRo0TPxzPSb6Lnx2cf0tHr2egWBH5HpngmpZaFT4ukE6xaDk+s7hFSV3oQ+NyqM937VrWB2N271cI38S8mfbhrRdIpjiL0g37BJ5rIpGcl0U282X2X56y4P9T/ooEp+C48/niJ+KbztXRVgWFIGnQ5E63IhOdTv18nlA8UThhGLoQmngMY0YGj3++gPF8smLAZIWRz5VPAoT2KhdEYwJ+cHYDncC2bmYdMuI0F2A==;sJa6FCjvqBwVbQKYXRCpIg=="
