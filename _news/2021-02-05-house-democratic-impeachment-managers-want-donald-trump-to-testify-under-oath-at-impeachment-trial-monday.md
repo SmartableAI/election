@@ -440,6 +440,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "National Geographic documentary on new Air Force One takes a look at design Trump helped shape"
+    excerpt: "Former President Donald Trump pushed to update and change the planes to make them more modern, both in design and capabilities."
+    publishedDateTime: 2021-02-06T17:50:00Z
+    webUrl: "https://www.foxnews.com/us/national-geographic-documentary-air-force-one-trump"
+    ampWebUrl: "https://www.foxnews.com/us/national-geographic-documentary-air-force-one-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/national-geographic-documentary-air-force-one-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Air-Force-One-5.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "xjvYSp8hd1lzzu/FviWeh3kPr+ZDM/QU/R2CK28SQ0TJG7Wx9FNAd2syDV82xcupE80NAacSL4VI8E/vJA+mpthuwwyoPWXFWtZrgOyGgMq8hpVgtS04qoXV3GRwW4++5APS3nzA+osFUCnGtEfRDNfAUNJ8nMte5b3eQ5JL8o2d3lT25dEMGwYD9i/8dHUhoKYmmlQ3h99z7xwdjovyYwPuKtSddSFv+mngzp859py7a+lUdVlE06YeUAoXbZ9VaswfwkY4HUVvV9lS3jMsCvI84lsErfdPFuOH+IL1XfCJuD6Rdh7/3GSXIx9Mcnw0ApK7pjRjaPCRos5n4PyUb5a9GN1d7K/OaihaGSow+FU=;FEiNDyqOgtBmap2JJPiU5w=="
 ---

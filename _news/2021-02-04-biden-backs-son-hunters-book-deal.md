@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden reintroduces regular presidential addresses to nation"
+    excerpt: "The White House reinstated regular presidential addresses fashioned after FDR’s \"fireside chats,\" releasing a video Saturday where President Biden called a woman in California who had been laid off during the coronavirus pandemic. "
+    publishedDateTime: 2021-02-06T17:55:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WEM5GmF16kQ/biden-presidential-addresses-fdr-fireside-chats"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-presidential-addresses-fdr-fireside-chats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidential-addresses-fdr-fireside-chats.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b0ae2dca-4672-43d0-87ab-3f8408e2152c/cbacb007-b65a-4030-8224-10c6f4666088/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden signs executive order expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
     excerpt: "Biden signed two executive orders expanding ObamaCare enrollment and rolling back anti-abortion policies"
     publishedDateTime: 2021-01-28T18:49:50Z

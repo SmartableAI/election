@@ -47,6 +47,22 @@ related:
         width: 580
         height: 326
         isCached: true
+  - title: "Biden gives Calif. woman pep talk in weekly address revival"
+    excerpt: "President Joe Biden has given a pep talk to a California woman who was laid off because of the coronavirus pandemic"
+    publishedDateTime: 2021-02-06T18:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-gives-calif-woman-pep-talk-in-weekly-address-revival/2021/02/06/c03e43e6-68a4-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-gives-calif-woman-pep-talk-in-weekly-address-revival/2021/02/06/c03e43e6-68a4-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gives-calif-woman-pep-talk-in-weekly-address-revival/2021/02/06/c03e43e6-68a4-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden has a 'mandate' to deliver COVID-19 relief: White House deputy press secretary"
     excerpt: "White House deputy press secretary Karine Jean-Pierre joined ABC News' \"Powerhouse Politics\" podcast to discuss COVID-19 relief."
     publishedDateTime: 2021-02-04T00:48:00Z

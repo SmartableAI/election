@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Steve Bannon believes the Democrats have a 'compelling' case for impeaching Trump"
+    excerpt: "Steve Bannon, Trump's ex-chief strategist, told Politico that the former president would be smeared 'in the eyes of the American people.'"
+    publishedDateTime: 2021-02-06T17:33:00Z
+    webUrl: "https://www.businessinsider.com/steve-bannon-democrats-have-a-compelling-case-for-trump-impeachment-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/steve-bannon-democrats-have-a-compelling-case-for-trump-impeachment-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/steve-bannon-democrats-have-a-compelling-case-for-trump-impeachment-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/601eb9aa67d1e300113c4a75?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump lawyers to file pretrial documents with U.S. Senate in preview of impeachment defense"
     excerpt: "Former President Donald Trump faces a deadline on Tuesday to respond to the U.S. House of Representatives' impeachment charging him with inciting insurrection in a fiery speech to supporters before last month's deadly assault on the Capitol."
     publishedDateTime: 2021-02-02T16:10:00Z

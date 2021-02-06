@@ -159,6 +159,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden reintroduces regular presidential addresses to nation"
+    excerpt: "The White House reinstated regular presidential addresses fashioned after FDR’s \"fireside chats,\" releasing a video Saturday where President Biden called a woman in California who had been laid off during the coronavirus pandemic. "
+    publishedDateTime: 2021-02-06T17:55:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WEM5GmF16kQ/biden-presidential-addresses-fdr-fireside-chats"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-presidential-addresses-fdr-fireside-chats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidential-addresses-fdr-fireside-chats.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b0ae2dca-4672-43d0-87ab-3f8408e2152c/cbacb007-b65a-4030-8224-10c6f4666088/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden team denies requests from Trump appointees to extend parental leave benefits at end of term: report"
     excerpt: "Trump administration officials promised three months’ paid maternity leave were hoping to receive their full benefits after the Biden administration took over, but were disappointed to have their requests denied, according to a new report."
     publishedDateTime: 2021-02-03T16:26:40Z

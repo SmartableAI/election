@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-john-weaver-li
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-john-weaver-lincoln-project-harassment-20210131-ll5iul3sajehfotjd6aq32msk4-story.html?outputType=amp"
 type: article
 quality: 123
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 650
     isCached: true
+
+related:
+  - title: "Lincoln Project Releases 'Don't Be Distracted' Riot Video Ahead of Trump Impeachment Trial"
+    excerpt: "The impeachment trial of former president Donald Trump begins Tuesday; meanwhile, the anti-Trump PAC faces distractions of its own with co-founder exits."
+    publishedDateTime: 2021-02-06T18:16:00Z
+    webUrl: "https://www.newsweek.com/lincoln-project-releases-dont-distracted-riot-video-ahead-trump-impeachment-trial-1567347"
+    ampWebUrl: "https://www.newsweek.com/lincoln-project-releases-dont-distracted-riot-video-ahead-trump-impeachment-trial-1567347?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lincoln-project-releases-dont-distracted-riot-video-ahead-trump-impeachment-trial-1567347?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1727573/donald-trump.jpg"
+        width: 3155
+        height: 2103
+        isCached: true
 
 secured: "jDNg5f8fkI/jgpSvIc2KIqUU7JeCQOPcqkCR7Peefaok4a5QNpqB73KE/89ETu71Yjn5/k3Xyy9ypAQpSPmPEVYC+6b2erykWrXVFvMF+N1QDecCcBxHhZ/Raym0AMIY5FwPrsEz1UKVQNxWUS5Q/XG+AVpdUvjveUzywTrkmfdTqkT6Hg4bepp2GG7HCARrS7eoADsAJN5TKo4WdqFSfq1Hl7yQErltTNK6tBY3DMGDsHM89LvLOdRPaYS1qhTvfmR/w1yHtYvkHi5xQEDPf8tAdQ8dbwlD6jUUsqFbDdGaas5xlKf8NDPrdYo6f0ZGeP1W2raKYqRACddBzbRlaytaJjhpY2rCcPu8G9iF9nc=;T6gMn0A0hB9kfBL7NGWCrA=="
 ---

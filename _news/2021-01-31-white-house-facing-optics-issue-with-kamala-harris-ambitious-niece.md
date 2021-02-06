@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Shattered glass installation in DC dedicated to Kamala Harris"
+    excerpt: "A Swiss artist memorialized Vice President Kamala Harris' history-making win in a shattered glass installation that's on display in Washington, D.C., outside the Lincoln Memorial."
+    publishedDateTime: 2021-02-06T17:30:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NDY1Vrm8p8U/shattered-glass-installation-in-dc-dedicated-to-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/shattered-glass-installation-in-dc-dedicated-to-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/shattered-glass-installation-in-dc-dedicated-to-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Kamala-Harris-Glass-AP-4.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "White House calls Manchin a 'key partner' after he took issue with Harris local interview"
     excerpt: "White House Press Secretary Jen Psaki said Democratic Sen. Joe Manchin is a “key partner” for the administration after Vice President Harris made appearances on a local West Virginia television station to discuss President Biden’s “critical” coronavirus relief plan"
     publishedDateTime: 2021-02-01T20:10:54Z
@@ -111,6 +127,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/kamala-bail-fund.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Shattered glass installation in DC dedicated to Kamala Harris"
+    excerpt: "A Swiss artist memorialized Vice President Kamala Harris' history-making win in a shattered glass installation that's on display in Washington, D.C., outside the Lincoln Memorial."
+    publishedDateTime: 2021-02-06T17:33:00Z
+    webUrl: "https://www.foxnews.com/politics/shattered-glass-installation-in-dc-dedicated-to-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/shattered-glass-installation-in-dc-dedicated-to-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/shattered-glass-installation-in-dc-dedicated-to-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Kamala-Harris-Glass-AP-4.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Indians burn images of Kamala Harris' niece after she backs farm protests"
     excerpt: "Vice President Kamala Harris’ niece defended her support for Indian farmers locked in a standoff with the government after pro-Parliament supporters burned photos of her on the streets of New Delhi Thursday."

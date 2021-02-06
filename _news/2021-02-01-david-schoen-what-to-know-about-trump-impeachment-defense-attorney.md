@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/david-schoen-what-to-know-about-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp"
 type: article
 quality: 175
-heat: 695
+heat: 715
 published: true
 
 provider:
@@ -426,6 +426,22 @@ related:
     quality: 124
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/leahy.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "National Geographic documentary on new Air Force One takes a look at design Trump helped shape"
+    excerpt: "Former President Donald Trump pushed to update and change the planes to make them more modern, both in design and capabilities."
+    publishedDateTime: 2021-02-06T17:50:00Z
+    webUrl: "https://www.foxnews.com/us/national-geographic-documentary-air-force-one-trump"
+    ampWebUrl: "https://www.foxnews.com/us/national-geographic-documentary-air-force-one-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/national-geographic-documentary-air-force-one-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Air-Force-One-5.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

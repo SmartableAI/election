@@ -319,6 +319,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "How President Biden can hit a home run"
+    excerpt: "It’s time for President Biden to step up to the plate and seize every opportunity to build consensus and mend the ill will that divides us."
+    publishedDateTime: 2021-02-06T18:00:00Z
+    webUrl: "https://thehill.com/blogs/congress-blog/politics/537637-how-president-biden-can-hit-a-home-run"
+    ampWebUrl: "https://thehill.com/blogs/congress-blog/politics/537637-how-president-biden-can-hit-a-home-run?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/congress-blog/politics/537637-how-president-biden-can-hit-a-home-run?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_01262021_getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden to reopen Obamacare markets to offer medical coverage during pandemic"
     excerpt: "President Biden plans to reopen the HealthCare.gov markets for a special sign-up opportunity for people without medical coverage in the pandemic."
     publishedDateTime: 2021-01-27T10:13:00Z

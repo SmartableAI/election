@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Steve Bannon believes the Democrats have a 'compelling' case for impeaching Trump"
+    excerpt: "Steve Bannon, Trump's ex-chief strategist, told Politico that the former president would be smeared 'in the eyes of the American people.'"
+    publishedDateTime: 2021-02-06T17:33:00Z
+    webUrl: "https://www.businessinsider.com/steve-bannon-democrats-have-a-compelling-case-for-trump-impeachment-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/steve-bannon-democrats-have-a-compelling-case-for-trump-impeachment-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/steve-bannon-democrats-have-a-compelling-case-for-trump-impeachment-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/601eb9aa67d1e300113c4a75?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump says he won't testify at impeachment trial, denying Democrats' request he answer questions"
     excerpt: "Democratic prosecutors in the impeachment trial of Donald Trump requested he testify under oath either before or during the Senate trial."
     publishedDateTime: 2021-02-05T04:14:00Z

@@ -2949,6 +2949,22 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "This is how Biden's inauguration went"
+    excerpt: "Joe Biden has been sworn in as the 46th president of the United States on Wednesday, January 20, along with his vice-president, Kamala Harris. Typically, the outgoing president and his successor ..."
+    publishedDateTime: 2021-01-23T16:41:00Z
+    webUrl: "https://www.marca.com/en/lifestyle/2021/01/20/60083186268e3e5a408b4597.html"
+    ampWebUrl: "https://amp.marca.com/en/lifestyle/2021/01/20/60083186268e3e5a408b4597.html"
+    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/2021/01/20/60083186268e3e5a408b4597.html"
+    type: article
+    provider:
+      name: MARCA
+      domain: marca.com
+    quality: 75
+    images:
+      - url: "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111350558162.jpg"
+        width: 2048
+        height: 1358
+        isCached: true
   - title: "Southern Californians eagerly await — or dread — Joe Biden’s inauguration"
     excerpt: "But instead of watching President-elect Joe Biden’s swearing-in, Reiss might grab his “Don’t Tread on Me” flag and join fellow conservatives at an outdoor rally. “With what’s happening now, obviously I’m not happy about how things turned out,"
     publishedDateTime: 2021-01-19T03:20:00Z

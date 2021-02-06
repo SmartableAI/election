@@ -430,6 +430,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "National Geographic documentary on new Air Force One takes a look at design Trump helped shape"
+    excerpt: "Former President Donald Trump pushed to update and change the planes to make them more modern, both in design and capabilities."
+    publishedDateTime: 2021-02-06T17:50:00Z
+    webUrl: "https://www.foxnews.com/us/national-geographic-documentary-air-force-one-trump"
+    ampWebUrl: "https://www.foxnews.com/us/national-geographic-documentary-air-force-one-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/national-geographic-documentary-air-force-one-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Air-Force-One-5.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "House Democratic Impeachment Managers Want Donald Trump To Testify Under Oath At Impeachment Trial Monday"
     excerpt: "CNN congressional correspondent Manu Raju reports that House Democrats want former President Trump to testify in person, under oath, at his second impeachment trial as early as Monday."
     publishedDateTime: 2021-02-04T18:57:00Z
@@ -445,6 +461,6 @@ related:
         height: 3765
         isCached: true
 
-secured: "b61vA2ph/re5twVipQLzQYOG5c8NW94fU4cqjvswfBbFrv2ECQhaUHMUxqS+cSWDhlrjJIIoR3jiGk8FmplG8NWJvHsOLTfpA84BxUqIcWdlTxHPraqCHx7aQgY7LPXlndKYVkgxgwcibAMUOByq0dDMUNoaxrw4TdgSMFxYxvZUl4eeWNUShKtY7SIWLqczafk1kdL+ZC7Qbv3VP4iz9cgiK2C0ZraeLGIc+lGFkA0c/xJLilvoacAUnR4fo0GjiN8k4j5EFdxs0zZUhpbmNDDTG3mKMKSkTZ409YDB5evcevD3+YiuX4oYVp6tgkLm3cQCZgRqQGkStW6Po0kIPR3UakIk3t4GtQiUr7tMRc4=;C7kHRW1thrdkmvWFeIlprA=="
+secured: "hVMJtMWNPByxmrNolwpO1NmCXVpN131Y5GjqQaOKyfzzrV5XtTypPYdqKO8abkE1oaRwnzCtEpeFjadxSALPKFoDzdUUY4n/xC5vQMVXYz0G1HTMd9PVCdIOO1CueEqpQ51Tz5uxWrTr1J64zDfeNm/JMh5QSrOE4EayAgceM6StBAFCCiXgDV9Lm4R9mlb9wFWzg0cA0milVZACzQtZA2C6tMO9vU7X8gIpH6k9B8k8FiwiULIGsaa00PeEo0//Sr7Qd80W1USRIPBcmlpknHVgHFOb5vDtbHfSwQKQImlWPHakO/iqs82+66mlKr228DixQ2WLOo1Lf/7VFNdmMHKgy7cGUCu8aZl+ZqX0ofwV6P/nEUlsXAyxZoORgQF/TWd7bpvHdNqLOxY1Qd6yYg/fBWm1+Z+V9BzjTDxXtpGgKN3YzByEvDPgC5r691whTdbDAQbEypnxZn9Ey+GyfbqyVx01744OznJHvkPPN8jMSgBw/EfVyX95oI2EI7g1Wf7ich46GGOrpEhPdgPGEg==;YmsIJeTN44eNcF8nCnci5g=="
 ---
 

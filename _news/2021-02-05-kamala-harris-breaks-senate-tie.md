@@ -94,6 +94,20 @@ related:
         width: 2500
         height: 1611
         isCached: true
+  - title: "Kamala Harris Breaks Senate Tie"
+    excerpt: "Vice President Kamala Harris returned to the Senate, and cast a tiebreaking vote to pass a Covid relief budget measure."
+    publishedDateTime: 2021-02-05T17:56:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007589338/kamala-harris-breaks-senate-tie.html?playlistId=video/us-politics"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/05/us/politics/05vid-kamala-harris-senate/05vid-kamala-harris-senate-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "K9mcyLN4Z0tuyupwj6THN2aOk20ow/iqE/fYUAIZDEcgdxRbPiVf88Va9hdW1bcQxRbbPIZSiqekTMa14YzU56i5iQ1FTvgOE3ouxZHz94JOOj3HlkCICcV9yJFGA/X8D0e9PpjiCjk99GsqYDtm3x0WOueSbrPtTsTfa+UqSPuyRMSQSB9394LmJA068NAmVNpvBYY/pnSYoY4YqfhohEBmq3iK+ZYq0TU4AvPVfQYoP0bbHfzdDIdtDgs98BJWo4KKgyoP/lRct5ygU5AbPnx0nZ+ZT2nuM/2DLUF+LiKHVb4bz04PdQvJ1ANhLtAnZhMfNnZUMjxr3j55UdDpPE1tfXLpj/99176BrSGu1pvPbW+211N+UDOljTWUfA9JUM7+XzBlJxTkKGQeUFqVAJnaCZ2SMGuQDrh9S+TiM+ikhfC/aOSI62iMc4vZpLIMY5XonIQFokxdAx4bOFw1q+raz4Z67jhtd6sP799ezIZakozNyFOB91ZS8kInH5Jd3BqX8JO1hxNWg7KxNTMXvw==;/c6l3trlu6Lrwd4YD9l39Q=="
 ---

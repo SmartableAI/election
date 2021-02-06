@@ -430,6 +430,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "National Geographic documentary on new Air Force One takes a look at design Trump helped shape"
+    excerpt: "Former President Donald Trump pushed to update and change the planes to make them more modern, both in design and capabilities."
+    publishedDateTime: 2021-02-06T17:50:00Z
+    webUrl: "https://www.foxnews.com/us/national-geographic-documentary-air-force-one-trump"
+    ampWebUrl: "https://www.foxnews.com/us/national-geographic-documentary-air-force-one-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/national-geographic-documentary-air-force-one-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Air-Force-One-5.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "House Democratic Impeachment Managers Want Donald Trump To Testify Under Oath At Impeachment Trial Monday"
     excerpt: "CNN congressional correspondent Manu Raju reports that House Democrats want former President Trump to testify in person, under oath, at his second impeachment trial as early as Monday."
     publishedDateTime: 2021-02-04T18:57:00Z

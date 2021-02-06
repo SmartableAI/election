@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-manchin-white-house-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-manchin-white-house-call/index.html"
 type: article
 quality: 184
-heat: 184
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -30,6 +30,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Harris flexes power as Senate tiebreaker"
+    excerpt: "Early Friday morning, Vice President Kamala Harris did something Joe Biden never did in his eight years as vice president -- cast a tie-breaking vote.\n    \n"
+    publishedDateTime: 2021-02-06T14:58:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wz-Iz1Zy3xE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205191617-harris-breaks-tie-screengrab-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "o8+ZLSaclvXPEbeQNxnVeFAPRHy2G2l4TUgXLBMCfOAaWYUa0kUo31f/A1ykf7ZLn5pJfS3R3K9kTjmc+6Tq+iQAL63D1Om+a8mT1t4OvDR7zHGA4lZounTztCwCnSuiyUoctIwysk4bL2w1A5mK4sUntAQh+nHljDnFCnSv+DGY4aQ7CwCJeMl58nS8f90cnjdn/jQeqNc7jqDY7OaCEs97K5/xi/15JVHVyrCsmTWpjGLIFR5GBBTIKMmDcEKf64PyZrFyM1n+uILX4rf7ltseEbVKfntc0xupYCWyM4tbnNEflKW7OSESZYRlNsvqQ+aKKoW2xTTtW6kK4TOfWtMIWxLZWExoYlUe8pEGoZY=;4nfP/gDvcS+rdHscpjStaQ=="
 ---

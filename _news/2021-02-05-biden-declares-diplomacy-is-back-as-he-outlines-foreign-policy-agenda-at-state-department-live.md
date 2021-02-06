@@ -41,6 +41,22 @@ related:
         width: 580
         height: 326
         isCached: true
+  - title: "Biden gives Calif. woman pep talk in weekly address revival"
+    excerpt: "President Joe Biden has given a pep talk to a California woman who was laid off because of the coronavirus pandemic"
+    publishedDateTime: 2021-02-06T18:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-gives-calif-woman-pep-talk-in-weekly-address-revival/2021/02/06/c03e43e6-68a4-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-gives-calif-woman-pep-talk-in-weekly-address-revival/2021/02/06/c03e43e6-68a4-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gives-calif-woman-pep-talk-in-weekly-address-revival/2021/02/06/c03e43e6-68a4-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Watch Live: Joe Biden delivers remarks after briefing from national security teams"
     excerpt: "Mr. Biden's comments will follow a briefing from members of his national security and foreign policy agency review teams \"on their findings and key challenges that the Biden-Harris administration will inherit,"
     publishedDateTime: 2020-12-28T14:50:00Z

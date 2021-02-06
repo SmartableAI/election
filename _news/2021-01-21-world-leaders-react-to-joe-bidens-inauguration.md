@@ -2933,6 +2933,22 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "This is how Biden's inauguration went"
+    excerpt: "Joe Biden has been sworn in as the 46th president of the United States on Wednesday, January 20, along with his vice-president, Kamala Harris. Typically, the outgoing president and his successor ..."
+    publishedDateTime: 2021-01-23T16:41:00Z
+    webUrl: "https://www.marca.com/en/lifestyle/2021/01/20/60083186268e3e5a408b4597.html"
+    ampWebUrl: "https://amp.marca.com/en/lifestyle/2021/01/20/60083186268e3e5a408b4597.html"
+    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/2021/01/20/60083186268e3e5a408b4597.html"
+    type: article
+    provider:
+      name: MARCA
+      domain: marca.com
+    quality: 75
+    images:
+      - url: "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111350558162.jpg"
+        width: 2048
+        height: 1358
+        isCached: true
   - title: "How Facebook Is Prepping For Joe Biden’s Inauguration Amid Online Threats"
     excerpt: "Facebook has taken a major step in cracking down on the violence that threatens to derail Joe Biden’s Inauguration. Facebook announced it would continue to take a variety of measures to prevent users from using the social media platform to incite violence during the inauguration."
     publishedDateTime: 2021-01-16T17:57:00Z
