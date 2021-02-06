@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Biden says 'no need' for Trump to get intel briefs"
-excerpt: "President Joe Biden said Friday that Donald Trump should not be allowed to receive classified intelligence briefings, a courtesy that historically has been granted to outgoing presidents."
-publishedDateTime: 2021-02-06T01:27:00Z
-originalUrl: "https://www.businessinsider.com/biden-says-no-need-for-trump-to-get-intel-briefs-2021-2"
-webUrl: "https://www.businessinsider.com/biden-says-no-need-for-trump-to-get-intel-briefs-2021-2"
-ampWebUrl: "https://www.businessinsider.com/biden-says-no-need-for-trump-to-get-intel-briefs-2021-2?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-no-need-for-trump-to-get-intel-briefs-2021-2?amp"
+title: "Biden says ‘no need’ for Trump to get intel briefs"
+excerpt: "President Joe Biden says Donald Trump should not be allowed to receive classified intelligence briefings, a courtesy that historically has been granted to outgoing presidents"
+publishedDateTime: 2021-02-06T04:47:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-says-no-need-for-trump-to-get-intel-briefs/2021/02/05/7880a53c-680c-11eb-bab8-707f8769d785_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-says-no-need-for-trump-to-get-intel-briefs/2021/02/05/7880a53c-680c-11eb-bab8-707f8769d785_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-says-no-need-for-trump-to-get-intel-briefs/2021/02/05/7880a53c-680c-11eb-bab8-707f8769d785_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-says-no-need-for-trump-to-get-intel-briefs/2021/02/05/7880a53c-680c-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
-quality: 120
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Biden set to accept more refugees after years of Trump restrictions"
@@ -751,6 +757,6 @@ related:
         height: 847
         isCached: true
 
-secured: "SV1MVeN+v8fg6JhJf+UcvZeOlzeaqzn8FZmfr3COYXfh2LKpZ942ju8Kcm0PWPSVsbs4rbtZCcrZ8c6+FexMwgMb28HY/PJhFkxVc1GBOjSMYzAzQdRxvTghMnZahrdFOmCETEiRtaZpn/KFvLj91BgrmR/7mTOHapRs8DUssPzaQN57EJmItQY6QnW8SI40Xoz53ExR8VPDHnbSXAexbAKa0UzJ4UBm24HXXdlVp3FMcbgsv8W06/xTKWFjmFJM242u+i0lE5MAU8GxhqguiFZxl0hbNAAJh4Ljj+34LSJUGEXW5GtxZG2Jx4u3iKbWQB8lFIaX/1EUiTp4wk1x+QFLhTKPKBVulxRR0KC10OI=;1tszxYF4MPbhQiSWTebxuw=="
+secured: "m8/2wIbFCEZseWINLJzzodxF/CLhj/P4FNlUOO5J9YMT8uFZRHVTeGf3fKslBCaRx5M++LhcsYleliGJh51dwd96sENxJamjLVV32dRAV2nwruwgCYQGDHCbK3EJp2hMmRRvMlN3Ar+HzxDqkLcXhmjfPKe2lXp1Fe4N4NfEp24MzSYFEOAWjrSTFFuzIJ8w4Xl79fwjzkrJBbdTQfSSloD7hr8QYI6bhk7VyjHR2q5XKp2ugTQE1c+dpugjJt47dVyQVWcENQh1kTlXcJiMmHYPSXlp6ZuVOy98NUoNXQer2dH8wWS8MFwYYj8+3c+zO4n4FZPPhhxi1bD7byzNvJ+LIeAETd3lZiTGBI/DaXU=;eGbmieZtKyYZbnlD9q1IaA=="
 ---
 

@@ -781,6 +781,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "As Trump prosecutor, delegate gets her say on impeachment"
+    excerpt: "The non-voting delegate from the Virgin Islands is among the impeachment managers selected by House Speaker Nancy Pelosi to argue the case that Trump incited a deadly insurrection at the U.S. Capitol."
+    publishedDateTime: 2021-02-06T05:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/as-trump-prosecutor-delegate-gets-her-say-on-impeachment/2021/02/06/39fa6f1e-683e-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/as-trump-prosecutor-delegate-gets-her-say-on-impeachment/2021/02/06/39fa6f1e-683e-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/as-trump-prosecutor-delegate-gets-her-say-on-impeachment/2021/02/06/39fa6f1e-683e-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Cowboys for Trump leader released from jail pending trial"
     excerpt: "Cowboys for Trump founder Couy Griffin is headed home to New Mexico after nearly three weeks in a Washington jail, after a judge on Friday said she will trust Griffin to show up for trial in connection with the Jan."
     publishedDateTime: 2021-02-06T01:11:00Z
@@ -1431,17 +1447,6 @@ related:
     webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-02-01/judge-denies-release-of-jailed-cowboys-for-trump-leader"
     ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-02-01/judge-denies-release-of-jailed-cowboys-for-trump-leader?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2021-02-01/judge-denies-release-of-jailed-cowboys-for-trump-leader?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "As Trump Prosecutor, Delegate Gets Her Say on Impeachment"
-    excerpt: "The non-voting delegate from the Virgin Islands is among the impeachment managers selected by House Speaker Nancy Pelosi to argue the case that Trump incited a deadly insurrection at the U.S. Capitol."
-    publishedDateTime: 2021-02-06T05:44:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-06/as-trump-prosecutor-delegate-gets-her-say-on-impeachment"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-06/as-trump-prosecutor-delegate-gets-her-say-on-impeachment?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-06/as-trump-prosecutor-delegate-gets-her-say-on-impeachment?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

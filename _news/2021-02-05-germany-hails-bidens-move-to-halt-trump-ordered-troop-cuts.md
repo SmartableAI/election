@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden says ‘no need’ for Trump to get intel briefs"
+    excerpt: "President Joe Biden says Donald Trump should not be allowed to receive classified intelligence briefings, a courtesy that historically has been granted to outgoing presidents"
+    publishedDateTime: 2021-02-06T04:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-says-no-need-for-trump-to-get-intel-briefs/2021/02/05/7880a53c-680c-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-says-no-need-for-trump-to-get-intel-briefs/2021/02/05/7880a53c-680c-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-says-no-need-for-trump-to-get-intel-briefs/2021/02/05/7880a53c-680c-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden says \"no need\" for Trump to still receive intel briefings"
     excerpt: "President Joe Biden said he doesn't think former President Trump should continue to receive intelligence briefings, which is up to Mr. Biden's discretion as the commander-in-chief. \"CBS Evening News\" anchor and managing editor Norah O'Donnell spoke to Mr."
     publishedDateTime: 2021-02-06T00:43:00Z
@@ -473,17 +489,6 @@ related:
         width: 1440
         height: 952
         isCached: true
-  - title: "Biden says 'no need' for Trump to get intel briefs"
-    excerpt: "President Joe Biden said Friday that Donald Trump should not be allowed to receive classified intelligence briefings, a courtesy that historically has been granted to outgoing presidents."
-    publishedDateTime: 2021-02-06T01:27:00Z
-    webUrl: "https://www.businessinsider.com/biden-says-no-need-for-trump-to-get-intel-briefs-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/biden-says-no-need-for-trump-to-get-intel-briefs-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-no-need-for-trump-to-get-intel-briefs-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Donald Trump resigns from SAG-AFTRA: Read his full letter, actors' guild's response"
     excerpt: "Donald Trump is resigning from SAG-AFTRA after facing expulsion from the actors' union for inciting the Capitol riots Jan. 6."
     publishedDateTime: 2021-02-05T04:16:00Z

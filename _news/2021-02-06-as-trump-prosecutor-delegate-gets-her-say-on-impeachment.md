@@ -1,28 +1,34 @@
 ---
 category: news
-title: "As Trump Prosecutor, Delegate Gets Her Say on Impeachment"
+title: "As Trump prosecutor, delegate gets her say on impeachment"
 excerpt: "The non-voting delegate from the Virgin Islands is among the impeachment managers selected by House Speaker Nancy Pelosi to argue the case that Trump incited a deadly insurrection at the U.S. Capitol."
-publishedDateTime: 2021-02-06T05:44:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-06/as-trump-prosecutor-delegate-gets-her-say-on-impeachment"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-02-06/as-trump-prosecutor-delegate-gets-her-say-on-impeachment"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-06/as-trump-prosecutor-delegate-gets-her-say-on-impeachment?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-06/as-trump-prosecutor-delegate-gets-her-say-on-impeachment?context=amp"
+publishedDateTime: 2021-02-06T05:50:00Z
+originalUrl: "https://www.washingtonpost.com/politics/as-trump-prosecutor-delegate-gets-her-say-on-impeachment/2021/02/06/39fa6f1e-683e-11eb-bab8-707f8769d785_story.html"
+webUrl: "https://www.washingtonpost.com/politics/as-trump-prosecutor-delegate-gets-her-say-on-impeachment/2021/02/06/39fa6f1e-683e-11eb-bab8-707f8769d785_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/as-trump-prosecutor-delegate-gets-her-say-on-impeachment/2021/02/06/39fa6f1e-683e-11eb-bab8-707f8769d785_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/as-trump-prosecutor-delegate-gets-her-say-on-impeachment/2021/02/06/39fa6f1e-683e-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Pence's plans post-Trump administration take shape"
@@ -1472,6 +1478,6 @@ related:
         height: 696
         isCached: true
 
-secured: "Qde4fvP2ZE8maZ4CESLQRRfDwq9GZktiViSqXHKIMJpXKMezXY+3p3xhSbFKpw4BCltI4cBI4OWQ0ndOHa96rYwuGRnN/EQen46awQkjbqFw8qP249XSummzauXgGbKCN0+bdErmXhu92ZtuFpHnVVD478jTK7EeFwf8/xJGPVo9koJHCTdEN2xm7BKmhNh8uwYdz/ScBq9FmNMMJuLLmOIEqXW2fshvUSYgFOGODZSIqrIAI0kt0RPOYTZddGykz9kUVJWz4uFeTjJwFNJ63izx3yu2ZkxbfAnvsytraFxt1C3qN+tEIXLTPUgtByNgqU3t3b0/uQDqltXXFYLEVsBgFTRo7bfuU6wCFLBGgn8aHRey0wQYd+KcWmtz3knCER0CXQpaf6kFKQTSUN6bZ2HqO8OjyKTZcok4w+qBkD/DyBEZRryUdqBp3lN9q0AsGyfB7zd2jDrmCKOD7YJ6a2fkeodNU2dgzKWNCD+NF91V7JTya3SkX3mi7E8AsSZmM8LioEcFXVgqNhx2Ihj1UA==;nczzSG81en63D0AlzTVduA=="
+secured: "R2eBmQKpkMnDMKZ0wh7eIZMvt6syMDhMCrPQf4RfM02pr80Q7+nf3sFgCVovylRtFxl8bXc0r3IzEkVJh84U9gtiIKqGYPGluDt45zhHrL95FfwFbm5BHeSFZ6w75Nmzts1cz5lkrjOwE7Q73nOf1LUPmXw9WN2ILUadFcChxhVFxxUpv5HU+ytsD5KmaEpjJ1BFQ5EKeqpZZ6g0HA5EpffN78xSTFH+ZsnnqcWa0/qVPVeltSqkStoE2rai0dshdlxwxaVBRoFuE1WHHZDHGVKgilBxUK6AFPDNxJQqZWzMphR7qMSIPBKmYVepf/juBJPamMAn9fJlbK6Ha7691e6uCAUz642USOp6wBIPUFs=;Hles2+HxaQm2Sfm2+ymr/Q=="
 ---
 

@@ -2,11 +2,11 @@
 category: news
 title: "Democrats clear path for approval of Biden's $1.9 trillion COVID package"
 excerpt: "President Joe Biden and his Democratic allies in Congress forged ahead with their $1.9 trillion COVID-19 relief package on Friday as lawmakers approved a budget outline that will allow them to muscle Biden's plan through in the coming weeks without Republican support."
-publishedDateTime: 2021-02-06T01:06:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUKKBN2A514V"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUKKBN2A514V"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A514V"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A514V"
+publishedDateTime: 2021-02-06T03:54:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A514V"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A514V"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A514V"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A514V"
 type: article
 quality: 124
 heat: -1
@@ -222,6 +222,6 @@ related:
         height: 539
         isCached: true
 
-secured: "x5UZeU/OzD/bowlbEgH4oBAwcoFE8aGd5DQ+S4kjD8rAhvtaT9U78vwlxTufzla3mTUuDKsYNIgOEbChZPBSD09/IiJvf1Sc5IoVonkZRPj5pjanbM8Oc8JRqp0u6GYc0W2teY0WTsBk+7bGCg8mU9eBdOB7hbd7fQZgB8NP0zUVXlo9aYC/0lqg8rAiEBZISVimmYBt8CnE1DkjdcaC+tORQ8lq1Hs3XlD4fjm08AbNAtEjN4f97QMEhDcuZv2M6+4YEykHu/zhS64mLnL1QpdhNiz35TzIVlkfCw1mGv/JNccsFnSnQVXiudbnEOx4i2tctPVcHVrpSAh8r1Hq+4LL6rz92yePWc3GXT1+OwY=;nWLUBEfPKtomPsF3ZwYESA=="
+secured: "+kaz4czowg9G0Nb3n0l5qh0LqMQbIQrvfXBqjXUT0X38d18xowaUake7j942JvCgb/G5O/GZlQV8z3NsGjkshO1HN8D3CXg0LjUE6XpnLzjD1ypAIVCuy5W+N0grHVtRr41mZS833DntCJBtmKLx+dWjRdDtq1CfAQrUgDqiNC/jJvg7b4fMkHKoaRvqUi7vBnESMWTy4PrdjwnIauxrDpoGo70r09sCbF6QfnJqF9nis2vUFlmrnveAG1dbvHvUtHc+j4mZ4r7t6G0TBm0BaRH1fhoUF7wvqX7q7MYDknBliFh4Q9ixpxI+gonSz9FZ8aT9SCv+EN7G0VHL+R9ip6MqE4Hr6os0V18qYJVcoZ8=;yS0w+whH7lsbcT0a9VvwKQ=="
 ---
 
