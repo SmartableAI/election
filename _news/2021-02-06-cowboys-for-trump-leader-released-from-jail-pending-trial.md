@@ -799,6 +799,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Could Donald Trump's Gab Post Hint at Return to Social Media?"
+    excerpt: "Former President Donald Trump posted to social media on Friday for the first time in weeks to address his upcoming second impeachment trial in the Senate. The trial starts on February 8. Trump shared a letter from his attorneys to Democratic Congressman Jamie Raskin on his Gab account."
+    publishedDateTime: 2021-02-06T12:56:00Z
+    webUrl: "https://www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323"
+    ampWebUrl: "https://www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1727538/former-president-trump-works-his-phone.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump impeachment trial confronts memories of Capitol siege"
     excerpt: "The impeachment trial of Donald Trump is more than an effort to convict the former president over inciting an insurrection"
     publishedDateTime: 2021-02-06T01:11:00Z

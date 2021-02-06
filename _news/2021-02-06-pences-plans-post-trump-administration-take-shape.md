@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pences-post-trump-administration-pl
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/"
 type: article
 quality: 150
-heat: 2050
+heat: 2070
 published: true
 
 provider:
@@ -783,6 +783,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Could Donald Trump's Gab Post Hint at Return to Social Media?"
+    excerpt: "Former President Donald Trump posted to social media on Friday for the first time in weeks to address his upcoming second impeachment trial in the Senate. The trial starts on February 8. Trump shared a letter from his attorneys to Democratic Congressman Jamie Raskin on his Gab account."
+    publishedDateTime: 2021-02-06T12:56:00Z
+    webUrl: "https://www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323"
+    ampWebUrl: "https://www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1727538/former-president-trump-works-his-phone.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Cowboys for Trump leader released from jail pending trial"
     excerpt: "Cowboys for Trump founder Couy Griffin is headed home to New Mexico after nearly three weeks in a Washington jail, after a judge on Friday said she will trust Griffin to show up for trial in connection with the Jan."

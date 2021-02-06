@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Cowboys for Trump Leader Refuses Virus Test in Jail"
-excerpt: "The jailed leader of Cowboys for Trump has been held in solitary isolation for two weeks as he refused to take a coronavirus test."
-publishedDateTime: 2021-01-30T03:21:00Z
-originalUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail"
-webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail"
-ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail?context=amp"
+title: "Could Donald Trump's Gab Post Hint at Return to Social Media?"
+excerpt: "Former President Donald Trump posted to social media on Friday for the first time in weeks to address his upcoming second impeachment trial in the Senate. The trial starts on February 8. Trump shared a letter from his attorneys to Democratic Congressman Jamie Raskin on his Gab account."
+publishedDateTime: 2021-02-06T12:56:00Z
+originalUrl: "https://www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323"
+webUrl: "https://www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323"
+ampWebUrl: "https://www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323?amp=1"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://d.newsweek.com/en/full/1727538/former-president-trump-works-his-phone.jpg"
+    width: 2500
+    height: 1667
+    isCached: true
 
 related:
   - title: "Pence's plans post-Trump administration take shape"
@@ -793,22 +799,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Could Donald Trump's Gab Post Hint at Return to Social Media?"
-    excerpt: "Former President Donald Trump posted to social media on Friday for the first time in weeks to address his upcoming second impeachment trial in the Senate. The trial starts on February 8. Trump shared a letter from his attorneys to Democratic Congressman Jamie Raskin on his Gab account."
-    publishedDateTime: 2021-02-06T12:56:00Z
-    webUrl: "https://www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323"
-    ampWebUrl: "https://www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1727538/former-president-trump-works-his-phone.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Cowboys for Trump leader released from jail pending trial"
     excerpt: "Cowboys for Trump founder Couy Griffin is headed home to New Mexico after nearly three weeks in a Washington jail, after a judge on Friday said she will trust Griffin to show up for trial in connection with the Jan."
     publishedDateTime: 2021-02-06T01:11:00Z
@@ -1458,6 +1448,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cowboys for Trump Leader Refuses Virus Test in Jail"
+    excerpt: "The jailed leader of Cowboys for Trump has been held in solitary isolation for two weeks as he refused to take a coronavirus test."
+    publishedDateTime: 2021-01-30T03:21:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail"
+    ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2021-01-29/cowboys-for-trump-leader-refuses-virus-test-in-jail?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Judge Denies Release of Jailed Cowboys for Trump Leader"
     excerpt: "A federal magistrate judge in Washington says Cowboys for Trump leader Couy Griffin should be jailed without bail on a charge involving the Jan. 6 siege of the U.S. Capitol."
     publishedDateTime: 2021-02-02T00:33:00Z
@@ -1509,6 +1510,6 @@ related:
         height: 696
         isCached: true
 
-secured: "7m396hEftb+QHxtcqVAdUSEBzE8nxWIqPPu/59T90wXINAmyg7M+qRvKcP8565YVnaGggMm8MDd00qxbGJQM14j6l+WJgDJa6wcl9Mg5Y0+fBE//2DZXlQVreZy/qvaoJQ0T2W9SWi3IyoF2XzkFSp89FqGUZzB9uWjbOJoAzgLp8D6H5kayNM8Dc/UsYmbReNrVQaiG0+zArD9vtpshtfrA/pq1iwPHW2f+Hn6Z69vNq3bn40vKgVtm9yOjalQswc2vG+Yv5NgvOgiR0hSxhrgfc3/1qOgmUAc9/PoLQeMv6jJC195ZhWrNWq9ZF4qmNPwPuLYNtrJtX6MFbLY1xkHhKWiceaZT6LuxvXuGbQ2XIW8HW/aRtBsKYerYPBtpjJlwxKuEPWNLzHG+2XmleV1T4Jv5H2LuzZq66Ai9R1U9BRp8h54K2mGt90cQjZpj1gzumn5y+ItHWyEQD3XcxaJJP0FsAemrj5GXRBdEpL22gAyekFy1ZMg0NMvWsGgs2tTdHjOpWiKcDe1eiDtuPQ==;9nAQeQJufunXbFgPKSl4fw=="
+secured: "CDOQfqc63E0P02KiZ7PKl1YuaO3CIU2NxuLqKob059l98674LN97TYmh8ADCxh3oY/o2d14qrftqYJgOS77ULMsdOSt6HTKfqKopy9M8ccd8t6em7UC7Rc0bjMJ8z3G4bmlfSboLWgeNCOfNzKIRXbtBz1sK2KU0auvlDJFPFk3zIzT3rF4+i7nV0Tw4bg8Mpb7jHPKHu5jtPR0TPLMiPCOg6l8ncguP0BbM7wixaaG9N3BSqeI4+09AE1Vy+QpIzP8GQ9ZQnt9dJlmuDlioI69TKtlI5PI3O6DX+35XOE1jT6At+4kH2RdVbexePXGmhUmt57THe3KqUP0kJPdDhjvbArR2YRw7FvcBUhasFQg=;YHYGcMgH7uu0OwU9xDAgMg=="
 ---
 

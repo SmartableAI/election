@@ -799,6 +799,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Could Donald Trump's Gab Post Hint at Return to Social Media?"
+    excerpt: "Former President Donald Trump posted to social media on Friday for the first time in weeks to address his upcoming second impeachment trial in the Senate. The trial starts on February 8. Trump shared a letter from his attorneys to Democratic Congressman Jamie Raskin on his Gab account."
+    publishedDateTime: 2021-02-06T12:56:00Z
+    webUrl: "https://www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323"
+    ampWebUrl: "https://www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/could-donald-trump-gab-post-hint-return-social-media-1567323?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1727538/former-president-trump-works-his-phone.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Cowboys for Trump leader released from jail pending trial"
     excerpt: "Cowboys for Trump founder Couy Griffin is headed home to New Mexico after nearly three weeks in a Washington jail, after a judge on Friday said she will trust Griffin to show up for trial in connection with the Jan."
     publishedDateTime: 2021-02-06T01:11:00Z
@@ -1494,6 +1510,6 @@ related:
         height: 696
         isCached: true
 
-secured: "5h0ylDOTnFh6xzRfDVwZ90RhZBUA3DdJXFRebT1vbaPOTqzwL82gbXyQTspgxA1n9godvRDG7wURPIPXjVIfVlK3n+x9E50nZQiWVmO4lqK4lqfJxkvktOeq7CFsN3erZt2xckxVBaTxpqzK21dnfxvNSirgse/kY7tkKV63yyQvLkLs7EhCCNVvx/mzZDXVsfpD0WtMuqy3ulNoByPEJlKvK0lJXHTFbsWHMGN/h2CJblxVB1rT7ft0WdHff7AWH0YCnlAnINFd5I/WTxDvbFwzoylpaaLXuCscs1dJqhYM7swIFJ1UnSrTX8pU48yu+lflbK5nGPi+8SWx3uBBwOonpNNB7Q1Y5wLxuLyBXj4=;pDbY3arTPEftXBaEtigFcQ=="
+secured: "dzkpbxcOQQZXamD/xBzS8am3eosW0bq0gWj6SgPsqFmfQvbl1J2f8NWZynvplWumv4QknClEvS7zZA21uVmNpH4CNZktLM4PW/+MwQPphO5iEHKJ66ZgC7NWcZwWgbxIiBNFOMQ2Nr1AUBQE2NqK3fP+Lp9kc35gU5sF1+ABKyclbEqCuvaRCy52YOX18dxxESMHAGKM0uc6v36DGHYY+hTUMFKD2q6C/Xj2Uvr7sFNqZx05c6gqhLbUA9eVAhYoOvVh7WBWZZ5T32QuRSMA0Z/eW2CBUvfZKgTK+AXgK3MPfbJxJNhNepR4njVZn7MILgRKadaHxf89ThGmALTGhAq4FPQcHMJ47HtPlZXC3PiCi8B0aOzDbTOhUzoHPBH+rH7+ChJjzZR+4fFFfKGzuctXdKCLb4SeZxejejDkTxgR1NFqoKdOSxq6n9qQCBUp3gzAS+ASa7oOJkkKpp9SOg8XCUC9v/f1MdLuld8TSxFYie85lMLvguTVaB0M10F8uzeWAsC/ilm3l4dn6rc/ww==;yuR99i7bTyjoeerFSYY+pg=="
 ---
 
