@@ -207,6 +207,22 @@ related:
         width: 1279
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Who is presiding over Trump's impeachment trial?"
+    excerpt: "Follow for the latest updates on Trump's impeachment trial. Mobile users click here. "
+    publishedDateTime: 2021-02-06T06:43:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JIoBfOD1z8o/live-updates-trumps-impeachment-trial-2-6-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-trial-2-6-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-impeachment-trial-2-6-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5f90c8b-48e3-4814-a3b9-4148b1943c47/588e19ba-362f-4a1b-87cd-fdc31c2182b8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Supreme Court in no hurry to hear Trump campaign case, sets response deadline two days after inauguration"
     excerpt: "The latest Trump campaign appeal to the Supreme Court won't see any action from the justices until after the inauguration. The justices this week set a reply deadline for Pennsylvania Secretary of State Kathy Boockvar and the other respondents named in the case of Jan. 22."
     publishedDateTime: 2020-12-24T18:13:04Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-2-2021.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-2-2021.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3eaa2556-18a5-4cdc-8c54-b0e3e6d7383d/87a80014-30fa-4a0a-b247-3cc3f697207c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden revokes terrorist designation for Yemen’s Houthis"
+    excerpt: "Follow below for the latest updates on the Biden administration."
+    publishedDateTime: 2021-02-06T06:48:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQPGvfnZCxA/live-updates-biden-white-house-2-6-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-2-6-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house-2-6-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6391dac5-8ca5-4649-97af-93a3ff3bd2bc/ea819181-0cbd-4239-ad1b-cdb5661acc10/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

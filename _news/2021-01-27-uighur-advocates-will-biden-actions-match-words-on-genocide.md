@@ -60,6 +60,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Biden revokes terrorist designation for Yemen’s Houthis"
+    excerpt: "Follow below for the latest updates on the Biden administration."
+    publishedDateTime: 2021-02-06T06:48:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQPGvfnZCxA/live-updates-biden-white-house-2-6-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-2-6-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house-2-6-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6391dac5-8ca5-4649-97af-93a3ff3bd2bc/ea819181-0cbd-4239-ad1b-cdb5661acc10/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Capito: Meeting with Biden, Senate Republicans on coronavirus relief was ‘productive’"
     excerpt: "Sen. Shelley Moore Capito said her two-hour meeting with President Biden and fellow Republican senators on coronavirus relief was “productive” and may lead to additional bipartisan discussions on other topics moving forward."
     publishedDateTime: 2021-02-02T16:03:10Z

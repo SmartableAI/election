@@ -1436,6 +1436,17 @@ related:
         width: 1024
         height: 649
         isCached: true
+  - title: "As Trump Prosecutor, Delegate Gets Her Say on Impeachment"
+    excerpt: "The non-voting delegate from the Virgin Islands is among the impeachment managers selected by House Speaker Nancy Pelosi to argue the case that Trump incited a deadly insurrection at the U.S. Capitol."
+    publishedDateTime: 2021-02-06T05:44:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-06/as-trump-prosecutor-delegate-gets-her-say-on-impeachment"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-06/as-trump-prosecutor-delegate-gets-her-say-on-impeachment?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-06/as-trump-prosecutor-delegate-gets-her-say-on-impeachment?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
     excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"
     publishedDateTime: 2021-02-02T20:04:00Z
@@ -1462,6 +1473,6 @@ related:
         height: 696
         isCached: true
 
-secured: "xoSpawPqfFhHuaR3tnS+tswqvdywW1aVuLp/fB5dxmuHL4SVEIot31N+LyGDdBaueeyrHP/9H+y2Ri9m3k4FhgQbWxdYFiRqqwnY4Dn4laDPjyYCTd70A6HqLkn5BYROcXEWPEOhugStQPLPtGuaOVjMNwGA11wZ+eXTzQq2u+eq8o4ZV9I3Q0uf7XW21mHvlQYOCEGjcW9uAElNBqnEeyjMQ9QhTYbRO5GI8A0+P9bWSfFQ42HMYYpMhIAiTGQcLf1b2hqXIh8A7D5DcSsupl01ly1HegGcn9GLQNcMckzL90bsqaoqx68T6ivC2+7ooV2EmpxnGgJyfO9yKPeznNXXhG621vCjT6UILkHBxX4=;KhyoLKESVsaCPxX7KG5NeA=="
+secured: "aYrPGF61MDUyB9gWrxXM901OG0oe2vy12rGgAgXeA1gVT5uPmACBD4rwTPQL0v+hK+iap44GnWHS7rQOBswRrigHiz9weZ6IjvU65DRYK+dpWP023CETXJUjCWoLio5AFVz/Ad0P1vblUzWgUq14jDRR5Umq3tut0bw5HhsZQBClCrbL1A40D0AviBoQONMDebtwVla1Ub1OwYSUckXAiRTFwqcs8y8tVgVvU0fKfjCK86NB4TWa3Nemy8b3C+T6AQepd22wsJVF7xFBeulhFFUIRj4hOyjTXSoJ/A3NUxh1pQccU7aGttkL7wZjCTeyOnXH9SeMOuhjBcyO1gclWfW3oGIwV+Oix/7cufO346OvTCyUHBWantD05tgO8+ch2scAFujfVAh/vroRxZ8T7mcXt88UxD7QLEhEClI2PE0LLCrQ3GN0GNzc0S8VLNskUVMF4wrGGV6DwnrIDbVGhn2nRIQ5BLBZC6K8f6omy/hicoEGZnp7Lm3WS257EnHoMQKNOlndSvwSzHcU6MXsHQ==;dR8BdC0scy5y6VaLzmt33Q=="
 ---
 

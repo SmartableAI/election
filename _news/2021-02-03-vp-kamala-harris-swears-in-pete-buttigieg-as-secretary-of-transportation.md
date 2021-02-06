@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VP Kamala Harris swears in Pete Buttigieg as Secretary of Transportation"
-excerpt: "United States Vice President Kamela Harris arrives for the swearing-in of Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3, 2021 at the White House in Washington,"
+excerpt: "Second gentleman Doug Emhoff poses for photos after United States Vice President Kamala Harris swore in Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3,"
 publishedDateTime: 2021-02-03T15:27:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/27f76f666fed31d9f10ed29c365797bf/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/27f76f666fed31d9f10ed29c365797bf/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/d9fe1c06d94f73ceab13a06bebe78264/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/d9fe1c06d94f73ceab13a06bebe78264/VP-Kamala-Harris-swears-in-Pete-Buttigieg-as-Secretary-of-Transportation/"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/27f76f666fed31d9f10ed29c365797bf/BUTTIGIEG-TRANSPORTATION.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/d9fe1c06d94f73ceab13a06bebe78264/BUTTIGIEG-TRANSPORTATION.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1023,6 +1023,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "KtnSu/5c/oeFOUlINEhRNczKY9ycVfhFeavrFTxtYCnaXunKZCVl0tQCAKTZjmkSS3rK10o7iLtSzdm41Isl7pBluBK/owrNCSN+oy5TtNTbyvyFJ8hbgWRkh7Lloh6JA6AECQWpx6hKgVfhCidwz+G4HqisXHyB3qLANQqZYZHd5RFSs1m7pbkvuHopRbtsJdggMwotLtR7CMMHaWE9x//VaoMovz5dSkgCHa92T2dLZ7uqN0y2TPj1QD+f1jezyETndORhSUAamfY2HWB60AOBOEgMnAAhUfAN3qxMAjhNlQT6dQiaYhcsr1HexZYjZnMsIy1ItHQFc4joXOWhDG+ZAbHo47i2W5ljL8QTPKk=;HznAQcCJx3C7RrvGDWrvxQ=="
+secured: "yvuo8l4aLktwCZs6k19TgDERyKIJthDW3rNG6S09/y8g69rUqhcRL6PpnRredz0qzg8Bf4JdgqGENhzRclHfkl9YdaUHbtzc4baBU0IOhUX3J2HeNqX6Vz1m5lEi+MVVkipuFWh5iJThmGV1M1svNt1iF58buCkrpPgI8D5qKEq8aBxYqwanUHl7eXGcBtgDcUazCpIMfRhL2kSvabEtAI+OFpFnGtPH33ZR9PAexrQTHNzSubjgfmdCXIZhysls9PKm8SBpS53Jy9qBF7cda++orvNheppGWPottBh8sUf7LcQb641d4155CUx1z3/MRnz0Rf8Lh7aFx3p7jgBQx3lPjfw9aKu6qoCXwXqLwlM=;mP8XB02HMuBUpinM2dYPzw=="
 ---
 

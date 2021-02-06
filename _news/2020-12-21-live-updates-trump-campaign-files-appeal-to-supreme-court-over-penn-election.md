@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-12-21-2020.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-12-21-2020.amp"
 type: article
 quality: 186
-heat: 606
+heat: 626
 published: true
 
 provider:
@@ -189,6 +189,22 @@ related:
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/395c1b78-1ac4-4f72-9a64-5329fa2896e3/26d7f438-3030-433c-b7f0-092766e5cdaa/1280x720/match/image.jpg"
         width: 1279
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Who is presiding over Trump's impeachment trial?"
+    excerpt: "Follow for the latest updates on Trump's impeachment trial. Mobile users click here. "
+    publishedDateTime: 2021-02-06T06:43:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JIoBfOD1z8o/live-updates-trumps-impeachment-trial-2-6-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-trial-2-6-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-impeachment-trial-2-6-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5f90c8b-48e3-4814-a3b9-4148b1943c47/588e19ba-362f-4a1b-87cd-fdc31c2182b8/1280x720/match/image.jpg"
+        width: 1280
         height: 720
         isCached: true
   - title: "McConnell: Pelosi, Schumer could have had COVID aid bill months ago, but wanted to damage Trump campaign"

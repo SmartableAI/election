@@ -1450,6 +1450,17 @@ related:
         width: 1024
         height: 649
         isCached: true
+  - title: "As Trump Prosecutor, Delegate Gets Her Say on Impeachment"
+    excerpt: "The non-voting delegate from the Virgin Islands is among the impeachment managers selected by House Speaker Nancy Pelosi to argue the case that Trump incited a deadly insurrection at the U.S. Capitol."
+    publishedDateTime: 2021-02-06T05:44:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-06/as-trump-prosecutor-delegate-gets-her-say-on-impeachment"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-06/as-trump-prosecutor-delegate-gets-her-say-on-impeachment?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-06/as-trump-prosecutor-delegate-gets-her-say-on-impeachment?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
     excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"
     publishedDateTime: 2021-02-02T20:04:00Z

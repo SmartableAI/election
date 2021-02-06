@@ -143,10 +143,10 @@ related:
         isCached: true
   - title: "Democrats clear path for approval of Biden's $1.9 trillion COVID package"
     excerpt: "President Joe Biden and his Democratic allies in Congress forged ahead with their $1.9 trillion COVID-19 relief package on Friday as lawmakers approved a budget outline that will allow them to muscle Biden's plan through in the coming weeks without Republican support."
-    publishedDateTime: 2021-02-06T03:54:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A514V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A514V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A514V"
+    publishedDateTime: 2021-02-06T01:06:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUKKBN2A514V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A514V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A514V"
     type: article
     provider:
       name: Reuters

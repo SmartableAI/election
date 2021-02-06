@@ -90,11 +90,11 @@ related:
         height: 630
         isCached: true
   - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
-    excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to any intelligence briefings because of his \"erratic behavior,\" Biden said in an interview released on Friday."
-    publishedDateTime: 2021-02-06T04:50:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-security-biden-trump-idUSKBN2A52UN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A52UN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A52UN"
+    excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to intelligence briefings because of his \"erratic behavior\" and the concern he might share information, the Democrat said in an interview on Friday."
+    publishedDateTime: 2021-02-06T06:03:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-security-biden-trump-idUKKBN2A601N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A601N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A601N"
     type: article
     provider:
       name: Reuters
@@ -104,6 +104,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550527703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141NW"
         width: 867
         height: 545
+        isCached: true
+  - title: "Biden: Trump should not receive intelligence briefings due to his 'erratic behavior'"
+    excerpt: "Biden says predecessor shouldn’t have access to briefings, which are traditionally offered to presidents even after leaving office"
+    publishedDateTime: 2021-02-06T01:34:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/05/trump-intelligence-briefings-erratic-behavior-joe-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/05/trump-intelligence-briefings-erratic-behavior-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/05/trump-intelligence-briefings-erratic-behavior-joe-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 133
+    images:
+      - url: "https://i.guim.co.uk/img/media/0c62bd0c2e1cf5df8c5a11d9dcba4bb0f73cf035/0_0_4325_2594/master/4325.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b7b5bc628e54a9b51e5d464c0473d97d"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
     excerpt: "President Joe Biden is making his first major foray outside the White House, to visit wounded soldiers at Walter Reed Hospital, just outside Washington"
@@ -312,6 +328,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden to raise current U.S. refugee cap from historic lows"
+    excerpt: "U.S. President Joe Biden plans to raise the refugee cap for the current fiscal year to 62,500, a sharp increase from the 15,000 set by former President Donald Trump, two people familiar with the move told Reuters on Friday."
+    publishedDateTime: 2021-02-06T06:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-refugees-idUSKBN2A602W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A602W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A602W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210206&t=2&i=1550533964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1501J"
+        width: 817
+        height: 545
         isCached: true
   - title: "Reopening debate testing Biden's ties with teachers unions"
     excerpt: "The school reopening debate is presenting an early test of President Joe Biden's allegiance with powerful teachers unions"
@@ -541,6 +573,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1721509/stimulus-checks-recurring-biden-2000.jpg"
         width: 3000
         height: 2003
+        isCached: true
+  - title: "Biden: Trump should no longer receive intelligence briefings due to 'erratic behavior'"
+    excerpt: "In a Feb. 5 clip from an interview with “CBS Evening News with Norah O'Donnell,” President Biden said that he thinks that “there is no need” for former president Donald Trump to continue receiving intelligence briefings."
+    publishedDateTime: 2021-02-06T06:02:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/biden-trump-should-no-longer-receive-intelligence-briefings-due-to-erratic-behavior/2021/02/05/19d7d8f9-7f2a-4f12-9051-540470818787_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-06-2021/t_51a831fd3766401bb7d1b21056dc8b5d_name_biden_cbs.jpg&w=1080"
+        width: 1080
+        height: 608
         isCached: true
   - title: "Biden visits with wounded soldiers at Walter Reed"
     excerpt: "President Joe Biden made his first major foray outside the White House Friday, to visit wounded soldiers at Walter Reed Hospital. Biden thanked hospital officials for taking care of his on Beau in his final days \"with great grace and dignity."
