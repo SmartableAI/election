@@ -559,6 +559,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Biden warns Covid will 'get worse before it gets better' as he unveils strategy"
+    excerpt: "First published on Thu 21 Jan 2021 15.39 EST Joe Biden began his first full day as president confronting a host of major crises facing his fledgling administration, starting with a flurry of ..."
+    publishedDateTime: 2021-01-22T06:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/21/joe-biden-national-covid-strategy-pete-buttigieg"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/21/joe-biden-national-covid-strategy-pete-buttigieg"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/21/joe-biden-national-covid-strategy-pete-buttigieg"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/0695fbc4d50ad08be0dd0fef4e0bb4dc286a6196/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5137b67e5a8059a2717f6eebf679434"
+        width: 600
+        height: 360
+        isCached: true
   - title: "The Trump presidency was marked by battles over truth itself. Those aren’t over."
     excerpt: "Scholars say susceptibility to false beliefs and conspiracy theories preceded Trump and will extend well beyond him."
     publishedDateTime: 2021-01-18T18:13:00Z

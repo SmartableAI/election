@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-inaugural-address-heartfelt-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-inaugural-address-heartfelt-unity-rove.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/monaco.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Joe Biden’s far-left ‘unity’ will divide us: Goodwin"
+    excerpt: "Whereupon he immediately denounced the clannishness of the Jews! The story offers a useful way to view Joe Biden’s calls for national unity. Let’s just say our president is as sincere as the ..."
+    publishedDateTime: 2021-01-23T10:10:00Z
+    webUrl: "https://nypost.com/2021/01/23/joe-bidens-far-left-unity-will-divide-us-goodwin/"
+    ampWebUrl: "https://nypost.com/2021/01/23/joe-bidens-far-left-unity-will-divide-us-goodwin/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/23/joe-bidens-far-left-unity-will-divide-us-goodwin/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Biden-7.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "xIbW1v4D9HKEAJV8zXpzzLbdI1J1mAtr34ltFmmmm9urlD3V5raLlMWx5xz4zyGYdcxH42CiVg7wTYuBExWNpxpcalypKEAodFc4sxCpkvIcEBRIVOceEreqOot0H9ckGtFbN+l+Jo194+kbtZZ+1VLHaze/LGDFrf4Snbxc3yQD99OS6fMQSXjT3+8OCrngfEeQX/1yadsL674Kz+67G9sMtRAwDG5dikpkkvgML6god/GWbT8uF73qE2vMaRWljwYAeI69JPF73yjiVvF7VhiGsFatsiWSq+NJjecKXooGQUQJOF3W+CSjWEhO32iekv2Jtxv9SjQZltAtkNPIe7NMwsCkvypL/Me6xyOXRcA=;y+s84rVqt8pZwj+9Wkk8fw=="

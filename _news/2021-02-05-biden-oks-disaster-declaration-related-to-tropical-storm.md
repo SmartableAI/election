@@ -114,7 +114,7 @@ related:
   - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
     excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to intelligence briefings because of his \"erratic behavior\" and the concern he might share information, the Democrat said in an interview on Friday."
     publishedDateTime: 2021-02-06T06:03:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-security-biden-trump-idUKKBN2A601N?edition-redirect=uk"
+    webUrl: "https://www.reuters.com/article/uk-usa-security-biden-trump-idUKKBN2A601N"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A601N"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A601N"
     type: article

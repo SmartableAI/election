@@ -240,6 +240,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden pledges to steady the nation: ‘My whole soul is in this’"
+    excerpt: "Joe Biden was sworn in as the 46th president of the United States on Wednesday, delivering an inaugural address that preached unity among fellow Americans as the answer to an unprecedented series ..."
+    publishedDateTime: 2021-01-21T17:30:00Z
+    webUrl: "https://www.politico.com/news/2021/01/20/joe-biden-sworn-in-as-president-inaugural-address-460750"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/20/joe-biden-sworn-in-as-president-inaugural-address-460750"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/20/joe-biden-sworn-in-as-president-inaugural-address-460750"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/52/19/b4705a00481080fea90e52c6e923/gettyimages-1297451500.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden to outline racial equity plan, sign executive actions"
     excerpt: "President Joe Biden will deliver remarks Tuesday outlining his plan to advance racial equity and will sign executive actions as part of his push to use the powers of the presidency to implement parts of his agenda."
     publishedDateTime: 2021-01-26T12:23:00Z

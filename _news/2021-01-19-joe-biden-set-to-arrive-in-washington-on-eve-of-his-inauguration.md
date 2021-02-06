@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_03/3443042/210119-lincoln_memorial_reflecting_pool-mc-1137_a48dc439f5ef580d138644f5f3cb857b.JPG"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden pledges to steady the nation: ‘My whole soul is in this’"
+    excerpt: "Joe Biden was sworn in as the 46th president of the United States on Wednesday, delivering an inaugural address that preached unity among fellow Americans as the answer to an unprecedented series ..."
+    publishedDateTime: 2021-01-21T17:30:00Z
+    webUrl: "https://www.politico.com/news/2021/01/20/joe-biden-sworn-in-as-president-inaugural-address-460750"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/20/joe-biden-sworn-in-as-president-inaugural-address-460750"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/20/joe-biden-sworn-in-as-president-inaugural-address-460750"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/52/19/b4705a00481080fea90e52c6e923/gettyimages-1297451500.JPG"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden administration suspends some sanctions on Yemen rebels"
     excerpt: "Aid organizations have warned sanctions would exacerbate what is already one of the world’s worst humanitarian crises."

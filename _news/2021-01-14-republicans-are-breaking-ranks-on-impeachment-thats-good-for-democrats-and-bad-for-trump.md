@@ -551,6 +551,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Biden warns Covid will 'get worse before it gets better' as he unveils strategy"
+    excerpt: "First published on Thu 21 Jan 2021 15.39 EST Joe Biden began his first full day as president confronting a host of major crises facing his fledgling administration, starting with a flurry of ..."
+    publishedDateTime: 2021-01-22T06:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/21/joe-biden-national-covid-strategy-pete-buttigieg"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/21/joe-biden-national-covid-strategy-pete-buttigieg"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/21/joe-biden-national-covid-strategy-pete-buttigieg"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/0695fbc4d50ad08be0dd0fef4e0bb4dc286a6196/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5137b67e5a8059a2717f6eebf679434"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden minimum wage proposal could lift more than 1 million workers out of poverty"
     excerpt: "Biden's $1.9T coronavirus relief plan 08:37 President-elect Joe Biden's proposal to more than double the federal minimum wage would provide an urgently pay hike to millions of low-income workers and help stem inequality in the U.S., economists and labor ..."
     publishedDateTime: 2021-01-16T12:20:00Z

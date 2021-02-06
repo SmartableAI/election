@@ -1547,6 +1547,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 63
+  - title: "Which campaign promises did Joe Biden tackle first?"
+    excerpt: "Within hours of taking office, President Joe Biden issued a burst of executive orders and actions to begin dismantling Donald Trump’s legacy. Biden’s moves included reversing of immigration ..."
+    publishedDateTime: 2021-01-22T21:57:00Z
+    webUrl: "https://www.politifact.com/article/2021/jan/22/which-campaign-promises-did-joe-biden-tackle-first/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/CACHE/images/politifact/photos/Biden_announces_economic_policies/834c54718d89fadac1188dbbd0160f33.jpg"
+        width: 1024
+        height: 584
+        isCached: true
   - title: "Republican Party Future In Balance As Trump Trial Looms"
     excerpt: "US Republicans on Sunday braced for a battle over the future of their party after Donald Trump changed lawyers days before his impeachment trial in an apparent sign he is determined to maintain the 2020 election was fraudulent."
     publishedDateTime: 2021-01-31T17:51:00Z

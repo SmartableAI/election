@@ -848,6 +848,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "President Biden takes office, moving quickly to implement agenda"
+    excerpt: "Still, it was a surprise when the lifelong Republican endorsed Joe Biden for president — Arizona has a long history as a red state, with only one other Democratic presidential candidate winning ..."
+    publishedDateTime: 2021-01-21T06:38:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-inaugurated-46th-president-united-states/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-inaugurated-46th-president-united-states/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-inaugurated-46th-president-united-states/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/21/1771d631-ca87-4a32-9f75-64b9db55d6f1/thumbnail/1200x630/35158f90bcdbab8b05aa19a5b8f5d479/ap21021124131621.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Joe Biden calls for unity in inauguration speech"
     excerpt: "Joe Biden was sworn in as the 46th president of the United States on Wednesday. Kamala Harris, formerly a senator from California, also became the first female vice president."
     publishedDateTime: 2021-01-21T03:45:00Z
@@ -1135,6 +1151,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548730773&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L13U"
         width: 817
         height: 545
+        isCached: true
+  - title: "Meet the Bidens: A who's who of the new first family"
+    excerpt: "The inauguration of President Joe Biden and Vice President Kamala Harris on Wednesday set the stage for a historic new administration in the White House. It also shone a spotlight on Biden's ..."
+    publishedDateTime: 2021-01-23T07:29:00Z
+    webUrl: "https://www.usatoday.com/in-depth/entertainment/celebrities/2021/01/21/joe-biden-family-meet-kids-grandchildren-new-first-family/4243347001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4243347001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4243347001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/defd0d0e-9fa6-477e-b576-1e5f2055f809-AFP_8Z88ME.jpg?auto=webp&crop=5543,3118,x0,y281&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Texas sues Biden administration over halt to deportations"
     excerpt: "Texas on Friday moved to stop President Joe Biden from allowing a 100-day moratorium on deportations, bringing one of the first lawsuits against his new administration. In rushing to court not even a week after Biden was sworn in,"
@@ -2885,6 +2917,22 @@ related:
       - url: "https://www.baltimoresun.com/resizer/PwBxE1Ck3YH2J6FflWBl8efvsxg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PDIB5Z6HAJA2LGNMG5YPOSZHRE.JPG"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Biden Generation’s Last Chance"
+    excerpt: "Jim Clyburn sat by himself on the dais at Joe Biden’s inauguration, thinking about his late wife, Emily, who wasn’t there with him. Without Clyburn, the third-ranking House Democrat ..."
+    publishedDateTime: 2021-01-21T19:29:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/01/jim-clyburn-joe-biden-old-president-generation/617761/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617761/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617761/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/IHAfZF5JD02loUKrNg32dXs5oAU=/570x321/media/img/mt/2021/01/gerontocracyRedo_copy/original.jpg"
+        width: 570
+        height: 321
         isCached: true
   - title: "How Facebook Is Prepping For Joe Biden’s Inauguration Amid Online Threats"
     excerpt: "Facebook has taken a major step in cracking down on the violence that threatens to derail Joe Biden’s Inauguration. Facebook announced it would continue to take a variety of measures to prevent users from using the social media platform to incite violence during the inauguration."

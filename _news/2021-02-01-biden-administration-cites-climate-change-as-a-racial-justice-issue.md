@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-admin-calls-climate-change-is
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 173
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f8d6f71-27fa-4c95-b98e-3089e93344d2/9a7c8817-02ec-4867-8b87-cd65b441d9e6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden administration to remove terrorist designation for Yemen's Houthi militia"
+    excerpt: "The Biden administration said Friday that it is removing the terrorist designation for the Iranian-backed Houthi militia in Yemen -- reversing a move made in the final days of the Trump administration and the latest sign of a different approach to the war-torn Middle East. "
+    publishedDateTime: 2021-02-06T13:54:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nsEdB_rfTP0/biden-terrorist-designation-yemens-houthi-militia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-terrorist-designation-yemens-houthi-militia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-terrorist-designation-yemens-houthi-militia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34182903-dc3d-4977-b3ee-815a0114acca/c8832b93-d928-475e-897c-c0dc379f2922/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

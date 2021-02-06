@@ -775,6 +775,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "5 key questions for Trump's Senate impeachment trial"
+    excerpt: "Arguments are set to begin Tuesday in the impeachment trial of Donald Trump on allegations that he incited the violent mob that stormed the U.S. Capitol on Jan. 6"
+    publishedDateTime: 2021-02-06T14:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/key-questions-trumps-senate-impeachment-trial-75725806"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/key-questions-trumps-senate-impeachment-trial-75725806"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/key-questions-trumps-senate-impeachment-trial-75725806"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b3db8bb616854758942c4324aae0662f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "As Trump prosecutor, delegate gets her say on impeachment"
     excerpt: "The non-voting delegate from the Virgin Islands is among the impeachment managers selected by House Speaker Nancy Pelosi to argue the case that Trump incited a deadly insurrection at the U.S. Capitol."
     publishedDateTime: 2021-02-06T05:50:00Z

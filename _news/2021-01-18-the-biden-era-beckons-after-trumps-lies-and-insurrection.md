@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3610
+heat: 3630
 published: true
 
 provider:
@@ -2350,6 +2350,22 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/swearing_biden.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden gets a cold dose of ‘unity’"
+    excerpt: "The thesis of Joe Biden’s inaugural speech Wednesday was hard to miss: Eleven times he said the word “unity” or “uniting,\" or about once every two minutes. Yet within hours, official ..."
+    publishedDateTime: 2021-01-22T01:28:00Z
+    webUrl: "https://www.politico.com/news/2021/01/21/biden-presidency-unity-461214"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/21/biden-presidency-unity-461214"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/21/biden-presidency-unity-461214"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/f5/0e/938fb0924865a5bc0951d0501f03/ap21020625466866.JPG"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Republicans who impeached Trump are already on the chopping block"
     excerpt: "Candidates, donors and local party officials are organizing against the 10 House Republicans who voted to impeach Trump."

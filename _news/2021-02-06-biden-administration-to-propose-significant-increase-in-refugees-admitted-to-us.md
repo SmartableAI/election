@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Reopening of schools emerges as complex flashpoint for Biden administration"
+    excerpt: "President Joe Biden's team is promising new guidance on school reopenings next week. But even as more Covid-19 vaccine shots go into arms two and half weeks into his administration, there is growing impatience and frustration among parents about the biggest question looming over their lives: when their"
+    publishedDateTime: 2021-02-06T05:28:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TPODyG_kLMQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/covid-school-reopenings-biden-cdc-guidance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/covid-school-reopenings-biden-cdc-guidance/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205214008-02-biden-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Judge likely to extend hold on Biden's deportation pause until late February"
     excerpt: "A federal judge in Texas said Friday that he'll likely extend his hold on the Biden administration's deportation moratorium until February 23.\n    \n"
     publishedDateTime: 2021-01-29T19:24:34Z
@@ -220,6 +236,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126105306-02-biden-0125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: On executive actions, Biden is blowing his predecessors out of the water"
+    excerpt: "It's the frustration of presidents from the beginning of the republic: how to get anything done when Congress gets stuck.\n    \n"
+    publishedDateTime: 2021-02-06T13:00:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8bRpDTo3FPU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/what-matters-february-5/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/what-matters-february-5/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210130013250-01-biden-0128-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -1562,6 +1562,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 58
+  - title: "Which campaign promises did Joe Biden tackle first?"
+    excerpt: "Within hours of taking office, President Joe Biden issued a burst of executive orders and actions to begin dismantling Donald Trump’s legacy. Biden’s moves included reversing of immigration ..."
+    publishedDateTime: 2021-01-22T21:57:00Z
+    webUrl: "https://www.politifact.com/article/2021/jan/22/which-campaign-promises-did-joe-biden-tackle-first/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/CACHE/images/politifact/photos/Biden_announces_economic_policies/834c54718d89fadac1188dbbd0160f33.jpg"
+        width: 1024
+        height: 584
+        isCached: true
 
 secured: "PP2H9BDZ0NhMQgVYfWXnlHn6eYwhEumv0aCW+INd9F5ExEDW4Po4jfga0CXQuHsufq5b4WRdS0NYPqs7sgWlxDgX3YvvZroYKv3OZDGLNvj+qZKRQI7X4YGnhQCzYzDaGVjn7gealPEari4wbb9zFfy86FNKXsmHEbeIqeLV/8MihC/yBVIkwpg/9Xp08TOwvXil9tHb79pd7yVIsZFin6eCe9y91fYbK+l8TVfwDovtaGwp5uYN8g40mb/EMWJU2rFbCa9XSbo4F3K7CJjLvnhKKWpeJaaYAlsDLENd14SfFV4XxqyUf+wdOXJ+2jMbedqH+giVjsT9UjPgnWfBElLN1qUY+gxQmD+B98fc7YOPgx8VbYZF4EHT+41xEbbIRzU9tCNv8gMzbxFPAMqOwYHJmhMVw2BULBBhX6LqOWKRy0pxWyQCoj/W4S8tVX+xPrtFP2BgJKT9bMnngtyY3sGVE9PQal3q9eC+2Evce3pjyl+X/NAyDCOefBZO50oA++Ee7bWC76Y+U/B9cp77Zg==;UgjsjEPAHS09g0aqFWzGsQ=="
 ---

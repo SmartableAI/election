@@ -2368,6 +2368,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden gets a cold dose of ‘unity’"
+    excerpt: "The thesis of Joe Biden’s inaugural speech Wednesday was hard to miss: Eleven times he said the word “unity” or “uniting,\" or about once every two minutes. Yet within hours, official ..."
+    publishedDateTime: 2021-01-22T01:28:00Z
+    webUrl: "https://www.politico.com/news/2021/01/21/biden-presidency-unity-461214"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/21/biden-presidency-unity-461214"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/21/biden-presidency-unity-461214"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/f5/0e/938fb0924865a5bc0951d0501f03/ap21020625466866.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "10 Republicans Voted to Impeach Trump. The Backlash Has Been Swift."
     excerpt: "The House Republicans who voted to charge President Donald J. Trump with inciting the Capitol riot are facing a fleet of primary challengers, censures and other rebukes from their party."
     publishedDateTime: 2021-01-23T08:00:00Z
