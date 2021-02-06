@@ -879,6 +879,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fox News cancels Lou Dobbs’ show and is expected to part ways with the pro-Trump host"
+    excerpt: "Fox News has canceled “Lou Dobbs Tonight,” the program hosted by television’s staunchest supporter of Donald Trump and of his assertions of voter fraud in the 2020 election, The Times has learned. Dobbs’ program,"
+    publishedDateTime: 2021-02-06T00:03:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-lou-dobbs-canceled-tonight-fox-news-20210206-puhi4bbs5vhuxobouayvevijue-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-lou-dobbs-canceled-tonight-fox-news-20210206-puhi4bbs5vhuxobouayvevijue-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-lou-dobbs-canceled-tonight-fox-news-20210206-puhi4bbs5vhuxobouayvevijue-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 118
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_EIOpmMhX0rsj8YVX4DD7Z2FgfQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BFOOTV2KKJCAJOFMJFR3GUFKOY.jpg"
+        width: 1200
+        height: 824
+        isCached: true
   - title: "Parents loved Taking Cara Babies' sleep tips. Then they found out she donated to Trump"
     excerpt: "Cara Dumaplin's sleep tips for babies were \"life-changing.\" Then her followers learned she donated to Donald Trump. Here's how the drama unfolded."
     publishedDateTime: 2021-01-29T21:01:00Z
@@ -1372,6 +1388,28 @@ related:
         width: 1024
         height: 649
         isCached: true
+  - title: "Cowboys for Trump Leader Released From Jail Pending Trial"
+    excerpt: "Cowboys for Trump founder Couy Griffin is headed home to New Mexico after nearly three weeks in a Washington jail, after a judge on Friday said she will trust Griffin to show up for trial in connection with the Jan."
+    publishedDateTime: 2021-02-06T00:39:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-05/cowboys-for-trump-leader-released-from-jail-pending-trial"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-05/cowboys-for-trump-leader-released-from-jail-pending-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-05/cowboys-for-trump-leader-released-from-jail-pending-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Impeachment Trial Confronts Memories of Capitol Siege"
+    excerpt: "The impeachment trial of Donald Trump is more than an effort to convict the former president over inciting an insurrection."
+    publishedDateTime: 2021-02-06T00:30:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-05/trump-impeachment-trial-confronts-memories-of-capitol-siege"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-05/trump-impeachment-trial-confronts-memories-of-capitol-siege?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-05/trump-impeachment-trial-confronts-memories-of-capitol-siege?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
     excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"
     publishedDateTime: 2021-02-02T20:04:00Z

@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he doesn't think $15 minimum wage will survive in his Covid-19 relief proposal"
+    excerpt: "President Joe Biden conceded that he does not believe he will be able to raise the minimum wage to $15 an hour through his $1.9 trillion Covid-19 relief proposal due to the Senate's rules.\n    \n"
+    publishedDateTime: 2021-02-06T00:37:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pScqCHo-Ebk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/biden-minimum-wage-covid-proposal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/biden-minimum-wage-covid-proposal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205130625-joe-biden-february-5-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's Supreme Court commission set to launch as some liberals are eager to pack the court "
     excerpt: "President Joe Biden will soon reveal the membership and agenda of a commission that would take the first modern-day look at reforming the Supreme Court, according to officials familiar with the commission.\n    \n"
     publishedDateTime: 2021-01-30T17:03:10Z
@@ -367,6 +383,22 @@ related:
       - url: "https://static.politico.com/66/2c/a53be1d1454e9d39efafb5736eee/gettyimages-1300042122-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden Seizes on Weak Job Gains to Call for Quick Stimulus Action"
+    excerpt: "The president said the economy was “in trouble” and warned Republicans he would move ahead with a $1.9 trillion aid package with or without their support."
+    publishedDateTime: 2021-02-06T00:21:00Z
+    webUrl: "https://www.nytimes.com/2021/02/05/business/biden-stimulus.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/05/business/biden-stimulus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/business/biden-stimulus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/05/us/05dc-bidenecon/05dc-bidenecon-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Covid live updates: Biden raises Covid vaccine goal, UK passes 100,000 deaths"
     excerpt: "President Biden increased his Covid vaccine goal to 1.5 million shots administered a day, deemed more likely due to states ramping up vaccine distribution."

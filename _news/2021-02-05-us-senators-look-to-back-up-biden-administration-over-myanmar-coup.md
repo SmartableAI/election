@@ -141,6 +141,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Democrats clear path for approval of Biden's $1.9 trillion COVID package"
+    excerpt: "President Joe Biden and his Democratic allies in Congress forged ahead with their $1.9 trillion COVID-19 relief package on Friday as lawmakers approved a budget outline that will allow them to muscle Biden's plan through in the coming weeks without Republican support."
+    publishedDateTime: 2021-02-05T22:57:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUKKBN2A514V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A514V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A514V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550527493&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141NR"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden brother’s role in Florida law firm complicates White House ethics message"
     excerpt: "Frank Biden, the president’s younger brother, is working as a senior adviser to a Florida law firm that has sought to attract business by touting the brothers’ connection and the president’s policies."
     publishedDateTime: 2021-02-03T11:08:00Z
@@ -188,6 +204,22 @@ related:
       - url: "https://i.insider.com/60146dfdd6c5e60019c6e03e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "UPDATE 1-Biden says he does not expect minimum wage hike to be in COVID-19 relief bill"
+    excerpt: "U.S. President Joe Biden said in an interview released on Friday he does not expect his proposal for a hike in the minimum wage to $15 an hour to be included in his $1.9 trillion COVID-19 relief bill because of Senate rules."
+    publishedDateTime: 2021-02-06T00:28:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-wage/update-1-biden-says-he-does-not-expect-minimum-wage-hike-to-be-in-covid-19-relief-bill-idUSL1N2KB3C9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A52UR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A52UR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210206&t=2&i=1550529524&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141O2"
+        width: 824
+        height: 545
         isCached: true
 
 secured: "5NWegf0Q8QbBo3Bli+wTUiO5gipipNeRGybhRPOh6o4hEYRbYiacwYyta5zaNsXVTeRwXzccUUOtr474+JTL3yWtywiteep6mQP5n2Pfqbmx3Q3CkPMlgOBYV4FbYDfNPBLKMNJaFHDByz6j7tyzLZ/C5GabTEoDnkk221mw1pvV7it0wZ/cZxqBUlKT+jgR+s4/er/G4jWHM6qlAHGsmQd+H7zXzgKHqo6R9EDlgTT65LktVPTmls86R6bBNtgLNWVKoZBERT8jywNSz9NuTK/hxb1ngXiD/c3pc/72a2CfYh0OW7CUlQcHyrlQe3z/L4Ufv26XbvBAhbHJJ9fGfEqr2V61aQwSmgVj33GW4kHR3r+hDPA6Cn5hflheqUsNgfP9MG/ckvGUNtiASLt5c35QQKX2/XC2P4kLAO+JCFZ8vGgpaNiiLfyfSk3UPWykpBpa1bhyMcaOj7FNJjyURU+w1NyAw90imIJoZcRJwNJfh27oCcknpBV26a4bM9f0mehxgZgE0cSmPttFbgsoxA==;IzLeq6WhIARJwx7jRjXtPw=="

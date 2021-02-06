@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-biden-trump-ban-2020-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp"
 type: article
 quality: 188
-heat: 628
+heat: 648
 published: true
 
 provider:
@@ -300,6 +300,22 @@ related:
     quality: 146
     images:
       - url: "https://images.wsj.net/im-291886/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden Says Trump Shouldn’t Get Intelligence Briefings Due to ‘Erratic Behavior’"
+    excerpt: "What value is giving him an intelligence briefing? What impact does he have at all, other than the fact he might slip and say something?” President Biden said of his predecessor."
+    publishedDateTime: 2021-02-06T00:23:00Z
+    webUrl: "https://www.wsj.com/articles/biden-says-trump-shouldnt-get-intelligence-briefings-due-to-erratic-behavior-11612570887"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-says-trump-shouldnt-get-intelligence-briefings-due-to-erratic-behavior-11612570887"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-says-trump-shouldnt-get-intelligence-briefings-due-to-erratic-behavior-11612570887"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-295990/social"
         width: 1280
         height: 640
         isCached: true

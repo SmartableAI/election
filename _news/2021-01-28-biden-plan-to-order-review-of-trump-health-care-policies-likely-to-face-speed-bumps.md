@@ -320,6 +320,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden Says Trump Shouldn’t Get Intelligence Briefings Due to ‘Erratic Behavior’"
+    excerpt: "What value is giving him an intelligence briefing? What impact does he have at all, other than the fact he might slip and say something?” President Biden said of his predecessor."
+    publishedDateTime: 2021-02-06T00:23:00Z
+    webUrl: "https://www.wsj.com/articles/biden-says-trump-shouldnt-get-intelligence-briefings-due-to-erratic-behavior-11612570887"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-says-trump-shouldnt-get-intelligence-briefings-due-to-erratic-behavior-11612570887"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-says-trump-shouldnt-get-intelligence-briefings-due-to-erratic-behavior-11612570887"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-295990/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden signs executive orders expanding Affordable Care Act enrollment, reversing Trump policy on abortion"
     excerpt: "President Biden on Thursday signed a pair of executive orders expanding access to the Affordable Care Act during the coronavirus pandemic and rolling back some of the anti-abortion measures implemented by the Trump administration."
     publishedDateTime: 2021-01-29T04:25:00Z

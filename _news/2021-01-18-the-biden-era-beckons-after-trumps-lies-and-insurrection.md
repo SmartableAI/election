@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3590
+heat: 3610
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 189
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190106225112-weir-coal-smokestacks-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says Trump should no longer receive classified intelligence briefings"
+    excerpt: "President Joe Biden doesn't believe former President Donald Trump should receive classified intelligence briefings, as is tradition for past presidents, citing Trump's \"erratic behavior unrelated to the insurrection.\"\n    \n"
+    publishedDateTime: 2021-02-06T00:30:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VnNfovTjCGA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/biden-trump-intelligence-briefing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/biden-trump-intelligence-briefing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205130743-joe-biden-february-5-2021-02-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

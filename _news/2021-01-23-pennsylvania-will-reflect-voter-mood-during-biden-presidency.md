@@ -2682,6 +2682,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden says Trump should no longer get intelligence briefings"
+    excerpt: "President Biden says former President Donald Trump should lose access to intelligence briefings because he might “slip and say something.” In an interview with CBS News Friday, Biden"
+    publishedDateTime: 2021-02-06T00:25:00Z
+    webUrl: "https://nypost.com/2021/02/05/biden-says-trump-should-no-longer-get-intelligence-briefings/"
+    ampWebUrl: "https://nypost.com/2021/02/05/biden-says-trump-should-no-longer-get-intelligence-briefings/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/05/biden-says-trump-should-no-longer-get-intelligence-briefings/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/DTrumpIntel.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "In breaking with Trump, Pence does ‘what he believes in,’ strategist says"
     excerpt: "After breaking with his boss last week and certifying President-elect Joe Biden’s Electoral College victory over President Trump, Vice President Mike Pence this week quickly shot down a push by House Democrats urging him to invoke the 25th Amendment of the Constitution to remove Trump from the presidency."
     publishedDateTime: 2021-01-13T17:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/doj-official-former-colleague-hunte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp"
 type: article
 quality: 175
-heat: 415
+heat: 395
 published: true
 
 provider:
@@ -207,15 +207,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Why It Matters That Biden Restored Regular Press Briefings"
-    excerpt: "Joe Lockharts that the return of press briefings under the new Biden administration is a welcome change. Press briefings are far more than symbolic -- they're an avenue to keep the government quick and accountable."
-    publishedDateTime: 2021-02-04T12:42:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/02/04/why_it_matters_that_biden_restored_regular_press_briefings_535116.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "uvr8Ke24N5R0rxuQRY8pxxdtuvb4u1Eu1fA+L+ZZX7pK7t/j7BTYxy2Odv4tTvsRIiNPRY93q/qYknLJkxy47B6fgzK6EgvYdvlx2kiyciT2LOj2YEmoOfVORFSmSjIVUSBhJTavXdsmYQ25VOehaJXbMI9tl1dZ130Mh98W0z0ZQv9hnvlMsmer9UCa7yl5s3/EI9TAVBBHSYGX6Mi7q35vF0HRKh5jZ9aYFU9SEFqGsOuqUTbsXeUGizXEBLVKPKmIc6kAmncBy1Xc8mrqXwHO5es4E6v/UxaHYgPZk4fAvS3axXT09v87c//U+jCsxk20kIhx85XETaV0pKszN87RUOCc8QVv7Okccd2iP/c=;Q2lXXa331hjm0EwzhP8Yeg=="
 ---

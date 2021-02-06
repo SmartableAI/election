@@ -207,15 +207,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Why It Matters That Biden Restored Regular Press Briefings"
-    excerpt: "Joe Lockharts that the return of press briefings under the new Biden administration is a welcome change. Press briefings are far more than symbolic -- they're an avenue to keep the government quick and accountable."
-    publishedDateTime: 2021-02-04T12:42:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/02/04/why_it_matters_that_biden_restored_regular_press_briefings_535116.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "mt+M0I1SMqlNH4FhTE96sApRCLR3T9A4lAfnsetD6JGc3Pk1nIFE1DoNDlzU/+ZchmT8KCzXwQ5SLFRWhQitCVNWGT+7Rt0M6cAJbxJDx+K3t1pqjQkv61kKiGuP9IUWTYwbv7Nj9+73SGRgzOjxacBNwEe2tQBAvV6tf7oHbqWUk63eLf9qmzBTIuJNt+6IyzFIoT5N1h6Fy1QaN0r1PtoWK0NYgcv17nFI8Fzf20SHxiqZ5mloO0VyiAtxBnCfMmiTu7iQH+3gIgRvvbRBX2Vd7tjv0FyjoawAVXxcy7/s8jonRYY7vzhSb8L9AF36s7wW1vy6Yr+0xUHI7R9YlJbCYlrYDSJSY1RPDtwWQUw=;HwG/ioahoXpFGbR4eT3/Qw=="
 ---

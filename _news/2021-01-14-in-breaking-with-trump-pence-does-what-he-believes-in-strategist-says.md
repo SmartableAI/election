@@ -2686,6 +2686,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden says Trump should no longer get intelligence briefings"
+    excerpt: "President Biden says former President Donald Trump should lose access to intelligence briefings because he might “slip and say something.” In an interview with CBS News Friday, Biden"
+    publishedDateTime: 2021-02-06T00:25:00Z
+    webUrl: "https://nypost.com/2021/02/05/biden-says-trump-should-no-longer-get-intelligence-briefings/"
+    ampWebUrl: "https://nypost.com/2021/02/05/biden-says-trump-should-no-longer-get-intelligence-briefings/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/05/biden-says-trump-should-no-longer-get-intelligence-briefings/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/DTrumpIntel.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump reportedly to leave White House the morning of Biden’s inauguration"
     excerpt: "President Trump is set to officially depart.C. Wednesday morning, reports said. That same day Joe Biden will take the oath of office and be officially sworn in as th"
     publishedDateTime: 2021-01-16T18:55:00Z

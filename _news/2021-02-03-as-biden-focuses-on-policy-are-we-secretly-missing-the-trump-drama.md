@@ -318,6 +318,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden Says Trump Shouldn’t Get Intelligence Briefings Due to ‘Erratic Behavior’"
+    excerpt: "What value is giving him an intelligence briefing? What impact does he have at all, other than the fact he might slip and say something?” President Biden said of his predecessor."
+    publishedDateTime: 2021-02-06T00:23:00Z
+    webUrl: "https://www.wsj.com/articles/biden-says-trump-shouldnt-get-intelligence-briefings-due-to-erratic-behavior-11612570887"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-says-trump-shouldnt-get-intelligence-briefings-due-to-erratic-behavior-11612570887"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-says-trump-shouldnt-get-intelligence-briefings-due-to-erratic-behavior-11612570887"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-295990/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden Plan to Order Review of Trump Health-Care Policies Likely to Face Speed Bumps"
     excerpt: "President Biden is set to sign executive orders directing the government to re-examine Trump-era health-care policies, which could lead to the unraveling of initiatives like Medicaid work requirements and short-term health plans."
     publishedDateTime: 2021-01-28T15:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 920
+heat: 960
 published: true
 
 provider:
@@ -46,6 +46,38 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_f29e1ef193c246ae82a994393a6eb404_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden says ‘erratic’ Trump shouldn’t get intel briefings"
+    excerpt: "President Joe Biden says Donald Trump’s “erratic behavior” should prevent him from receiving classified intelligence briefings, a courtesy that historically has been granted to outgoing presidents"
+    publishedDateTime: 2021-02-06T00:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-says-erratic-trump-shouldnt-get-intel-briefings/2021/02/05/27d577bc-6815-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-says-erratic-trump-shouldnt-get-intel-briefings/2021/02/05/27d577bc-6815-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-says-erratic-trump-shouldnt-get-intel-briefings/2021/02/05/27d577bc-6815-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden says \"no need\" for Trump to still receive intel briefings"
+    excerpt: "President Joe Biden said he doesn't think former President Trump should continue to receive intelligence briefings, which is up to Mr. Biden's discretion as the commander-in-chief. \"CBS Evening News\" anchor and managing editor Norah O'Donnell spoke to Mr."
+    publishedDateTime: 2021-02-06T00:43:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-super-bowl-interview-trump-intelligence-briefings/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-super-bowl-interview-trump-intelligence-briefings/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-super-bowl-interview-trump-intelligence-briefings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/05/8d802e2a-6c42-4bc8-b6b7-eeacb8b07fe2/thumbnail/1200x630/53162f95d515d855d58913c02e5b8804/nod-biden-2-w-bug.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
     excerpt: "President Joe Biden is making his first major foray outside the White House, to visit wounded soldiers at Walter Reed Hospital, just outside Washington"
