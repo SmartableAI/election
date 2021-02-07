@@ -813,6 +813,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden says women dropping out of workforce, closed schools are \"national emergency\""
+    excerpt: "In President Joe Biden's first interview since his inauguration, he tells \"CBS Evening News\" anchor Norah O'Donnell that women from the labor force and the closing of schools —along with the mental health issues for children that could arise — during the COVID-19 pandemic constitute a \"national emergency."
+    publishedDateTime: 2021-02-07T21:14:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-says-women-dropping-out-of-workforce-closed-schools-are-national-emergency/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/07/3d619469-8e54-43fa-ad3b-24e13afbdb20/thumbnail/1200x630/505bb1af941dbb58b77cd6a0c69f761f/0207-nod-biden-interview-641716-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Impeachment Lawyers Named After 5 Members Of Defense Team Quit"
     excerpt: "Five of Trump's impeachment lawyers had left his legal team after he refused to steer away from using mass election fraud as his defense strategy."
     publishedDateTime: 2021-02-01T02:36:00Z
@@ -846,6 +860,6 @@ related:
         height: 847
         isCached: true
 
-secured: "2MFsCjiUL9eG4EKdWr6S1v8uMERc90D7IjOrbeO8YWXKBwC/TXzbfSH6iZiLXg+N/2QZipT7/U0bDG7oyaTBMrY3jy9B5Jv5E5bLj+viNBVqlSR3cTSjMGY0ID7FYY38vLfFzfag9o8hxFLrdhmvkJHTWHBHjkJjcvhKxC30K6GquK7op19Mhw9YG3tVwkZ31O8LGZcobqJb4nmmk/6TvmhZzD9s7cjRvFG9lCSZ7ECvW14UEs8cSeQCVgww15kbl3n65lGZIJjYt88dQnY+YC9kjAR+RyiWCWYNT2UzQgzy0Zi1z8b9i1FapcCmggd2w59GuiDqy4eVomq/baa5OQlNsHzbLSy7QJozK0f+iUU=;rYs3RaaPoxoh/Enzd5Ol5w=="
+secured: "RESGsPeCkMslsFsvrUPeibvei0KiI2Us1KZohqqlMxrfIgJnIVpsk+CMoJuIhX1jdlcJ42qarpzhJv5Xp7v3GuOanDfJ7wfecu3vaK5Edx9f5pGEKVhmTs4qCbAYdUIaLXpJS+2y4slZ/Y1jx9zNi84jO1TKvmLggXSs5Xmykzz6VmPRnq5poRlI8I30aNekqFel9mkwCK8ev9Scut62Q9tFfn67P8dUFq3r37hQYhpbALg67Yn+0L0Ti/qfrhhym9t/GmrzDWT5DON0VhRcKVUvxBztJzxVmrsK3srn3qucc1xcNtWN9NJGSPlFt2Dgns7n3tnmbwgFM5VCAN6KOpj5rl0o+7ivm17BhfZ0t+GzPRccnpjLMpWjUqQwwqQdaQdMdXnMsEQ9xJwDuoR1aKU2qC+QdQ/kRuiiAnsydnHF8mjP6eNSjl3V9HGiLhdaBiExnnIIu4PrbhgGesaFJ30DHOLvJWHgyMD6HSO3TPjrscipRweuVqsbdlm70AvlpEGfPNtmUW6BKF8yMIlL3w==;6RjVEgWZ22qXbjNN9alg8g=="
 ---
 

@@ -253,6 +253,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Senate Democrats See Short Trump Trial Amid Covid-19 Stimulus Push"
+    excerpt: "Key details of former President Donald Trump’s impeachment trial and the Biden administration’s $1.9-trillion relief bill are still being completed."
+    publishedDateTime: 2021-02-07T21:56:00Z
+    webUrl: "https://www.wsj.com/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    ampWebUrl: "https://www.wsj.com/amp/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-296098/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Ohio Republicans propose state holiday honoring ex-President Donald Trump"
     excerpt: "A pair of lawmakers from Ohio want to set aside a day to honor former President Trump. The proposal from two Republican state legislators would make June 14 every year President Donald Trump Day"
     publishedDateTime: 2021-01-29T21:42:00Z

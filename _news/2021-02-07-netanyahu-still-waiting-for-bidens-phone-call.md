@@ -3,10 +3,10 @@ category: news
 title: "Netanyahu Still Waiting for Biden's Phone Call"
 excerpt: "RealClearPolitics"
 publishedDateTime: 2021-02-07T12:56:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/02/07/netanyahu_still_waiting_for_bidens_phone_call_535306.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/02/07/netanyahu_still_waiting_for_bidens_phone_call_535306.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html"
+webUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html"
 type: article
-quality: 65
+quality: 45
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
-
-images:
-  - url: "https://assets.realclear.com/images/53/533491_5_.jpg"
-    width: 750
-    height: 499
-    isCached: true
 
 related:
   - title: "New DOJ hire is former colleague of Hunter Biden defense attorney"
@@ -202,6 +196,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says Hunter's 'back' after extended battle with substance abuse"
+    excerpt: "President Joe Biden revealed Sunday that his son Hunter's upcoming book gave him hope that his \"boy's back\" after an extended battle with substance abuse."
+    publishedDateTime: 2021-02-07T21:15:00Z
+    webUrl: "https://www.foxnews.com/media/joe-biden-hunter-biden-beautiful-things-memoir"
+    ampWebUrl: "https://www.foxnews.com/media/joe-biden-hunter-biden-beautiful-things-memoir.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-hunter-biden-beautiful-things-memoir.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21035471026911.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "US warship crosses through Taiwan Strait for first time in Biden presidency"
     excerpt: "The USS John S. McCain sailed through the Taiwan Strait on Thursday, its first such operation since Joe Biden took office."
     publishedDateTime: 2021-02-04T22:22:00Z
@@ -244,6 +254,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "Av+A9KNLMj86uC723DIZjJwk9y8mvGLc+KiGfDBkP6TArJk1Fw+98O4n4+RvMDJJiBkhHXJxaS4qH2SMTVBGdpIYDIyQA3DulnAR81V/+ojUs7Y+Sk12gsxfbVOJrnt+TPjQLAQd/2DN9wBQNJtovZwSHcGFM1u81NzNRJLKu0KjKFQau8sTRJEw73rXG8x/FkN+FTyKJUL+Ycd8cMFWfQA57qqW4pYC3Ls1WtJOa5oQi8eFq9RVBIOoq2YnO6ddU8LJ6lgBM2wCReQVlDVw+BNxUX8MQt2Yg1Q5FH0knIzbFoX7uCzgUQRAQeby150J774u2d3WobReFyPpa8tMdPnXvd+U783PAcqADN2KFLo=;snIm/Lp7wu4PPurF2vqPYw=="
+secured: "h7MlKOkVwv+LwYhGba3NnvA3LHFGaQUk9xAu/buhKH403ojABKaZIxK27yy5zdFfRNac2oj3VvCIj5P+0NEATZvvfc5jKuCjGJ1/K32cSkQnck3yrfBIf6SxygClyTjs+M78/hqCBEh1d9aKSOWmntc08dd662BrneyUlM1tB78e74W72Y+GLPk70K3mps6qzBaWafoXgqWvKT0RgIV341rRvjAYaULSpSmiZvpfl2d0IONvidcAPkWmDfW87ugn3I6SwC8WXw7DDwMlu2RGOKkJRoEgAeHHIG2SXrwomruKoC5u9bGeFpX98QkEtDD9k6QeSrcBqLbrQVTR1SIrDI7rtxmXulBNWhhnhTpN94k=;1SEw1Z8MOoe7ckyJ1RCqeg=="
 ---
 

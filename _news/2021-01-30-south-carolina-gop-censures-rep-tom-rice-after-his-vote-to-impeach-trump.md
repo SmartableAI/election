@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Cheney says she will not resign and GOP shouldn't embrace Trump"
+    excerpt: "Wyoming Rep. Liz Cheney said Sunday she will not resign despite being censured by her state Republican Party over her vote to impeach former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-07T20:30:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/de9RQLnApp4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/liz-cheney-censure-wyoming-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/liz-cheney-censure-wyoming-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203173822-liz-cheney-0203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate Republicans say Trump should be held accountable for riot -- but not by them"
     excerpt: "To Senate Minority Whip John Thune, former President Donald Trump's actions ahead of the deadly Capitol riot are totally indefensible.\n    \n"
     publishedDateTime: 2021-01-30T02:05:41Z

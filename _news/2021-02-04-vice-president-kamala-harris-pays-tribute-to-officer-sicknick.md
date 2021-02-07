@@ -323,6 +323,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "President Biden's fractured foot has healed, says doctor"
+    excerpt: "President Joe Biden, who fractured his right foot while playing with one of his dogs in November, has healed from the injury and will return to his usual exercise regimen, his physician said on Saturday."
+    publishedDateTime: 2021-02-07T05:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-foot-idUSKBN2A7003"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A7003"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A7003"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210207&t=2&i=1550597791&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH16000"
+        width: 832
+        height: 545
+        isCached: true
   - title: "Biden follows in recent presidential footsteps with Super Bowl interview"
     excerpt: "When U.S. President Joe Biden appears for a CBS interview this Super Bowl Sunday, he will be following a recent White House tradition of using the country's most-watched sporting event to reach a national audience in the tens of millions."
     publishedDateTime: 2021-02-04T04:24:00Z
@@ -386,6 +402,22 @@ related:
       - url: "https://s.abcnews.com/images/US/MeenaHarris-TheView_1611758373667_hpMain_16x9_992.jpg"
         width: 992
         height: 559
+        isCached: true
+  - title: "New Biden rules for ICE point to fewer arrests and deportations, and a more restrained agency"
+    excerpt: "The latest interim guidelines signal that people convicted of drunken driving, minor drug offenses, tax crimes will not be priorities for deportation."
+    publishedDateTime: 2021-02-07T21:26:00Z
+    webUrl: "https://www.washingtonpost.com/national/new-biden-rules-for-ice-point-to-fewer-arrests-and-deportations-and-a-more-restrained-agency/2021/02/07/faccb854-68c6-11eb-bf81-c618c88ed605_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/new-biden-rules-for-ice-point-to-fewer-arrests-and-deportations-and-a-more-restrained-agency/2021/02/07/faccb854-68c6-11eb-bf81-c618c88ed605_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/new-biden-rules-for-ice-point-to-fewer-arrests-and-deportations-and-a-more-restrained-agency/2021/02/07/faccb854-68c6-11eb-bf81-c618c88ed605_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UD522YTIAMI6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Lawmakers, Biden pay tribute to Capitol Police officer Brian Sicknick, who was killed in Capitol riot"
     excerpt: "Calif., praised the officer as a \"hero\" for his efforts Jan. 6 to stop a pro-Trump mob that stormed the Capitol."

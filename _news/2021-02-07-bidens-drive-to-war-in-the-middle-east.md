@@ -196,6 +196,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says Hunter's 'back' after extended battle with substance abuse"
+    excerpt: "President Joe Biden revealed Sunday that his son Hunter's upcoming book gave him hope that his \"boy's back\" after an extended battle with substance abuse."
+    publishedDateTime: 2021-02-07T21:15:00Z
+    webUrl: "https://www.foxnews.com/media/joe-biden-hunter-biden-beautiful-things-memoir"
+    ampWebUrl: "https://www.foxnews.com/media/joe-biden-hunter-biden-beautiful-things-memoir.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-hunter-biden-beautiful-things-memoir.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21035471026911.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "US warship crosses through Taiwan Strait for first time in Biden presidency"
     excerpt: "The USS John S. McCain sailed through the Taiwan Strait on Thursday, its first such operation since Joe Biden took office."
     publishedDateTime: 2021-02-04T22:22:00Z
@@ -231,17 +247,12 @@ related:
   - title: "Netanyahu Still Waiting for Biden's Phone Call"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-02-07T12:56:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/02/07/netanyahu_still_waiting_for_bidens_phone_call_535306.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/533491_5_.jpg"
-        width: 750
-        height: 499
-        isCached: true
+    quality: 45
 
 secured: "/HwQO0dMdr4OWRZJZOm6W4jXCwUiM+jZ0V58n8y5Mdk2SrK6VjHoifOcpEqcsJIAS1pnk7zQr4/yHIkHrkqPgJZL++qExAlG8wGTXEl55TOBIzpNwIz07Yd92DGA0C1jrtkHTOSDVL024JtcqSJN9pMMdpipBwillzgXxxLFA845XiYkkIZOXXXXvtnozGm7b2/3l8asZ+TfVAiwtZZx31Donl0dHznV/RsSYdhFFDDx5fDyzrfDObMdM4OyospGf34wo9g7PqdJLFjvVPRc8QEiwS3aupBDi+7DnmFl13qJGsEvYj16s9UB+35R45H+NejXLgu32jskuWHkhr7S4jqf0534RDNZ7a09TD+PHic=;myQhMol0UW4flBJfo2nG9g=="
 ---

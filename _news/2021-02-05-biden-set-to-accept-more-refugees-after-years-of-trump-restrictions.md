@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 1220
+heat: 1240
 published: true
 
 provider:
@@ -812,6 +812,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/president-biden-01-gty-iwb-210204_1612465276910_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden says women dropping out of workforce, closed schools are \"national emergency\""
+    excerpt: "In President Joe Biden's first interview since his inauguration, he tells \"CBS Evening News\" anchor Norah O'Donnell that women from the labor force and the closing of schools —along with the mental health issues for children that could arise — during the COVID-19 pandemic constitute a \"national emergency."
+    publishedDateTime: 2021-02-07T21:14:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-says-women-dropping-out-of-workforce-closed-schools-are-national-emergency/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/07/3d619469-8e54-43fa-ad3b-24e13afbdb20/thumbnail/1200x630/505bb1af941dbb58b77cd6a0c69f761f/0207-nod-biden-interview-641716-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump Impeachment Lawyers Named After 5 Members Of Defense Team Quit"
     excerpt: "Five of Trump's impeachment lawyers had left his legal team after he refused to steer away from using mass election fraud as his defense strategy."

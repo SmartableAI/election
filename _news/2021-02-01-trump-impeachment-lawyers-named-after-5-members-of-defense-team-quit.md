@@ -829,6 +829,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden says women dropping out of workforce, closed schools are \"national emergency\""
+    excerpt: "In President Joe Biden's first interview since his inauguration, he tells \"CBS Evening News\" anchor Norah O'Donnell that women from the labor force and the closing of schools —along with the mental health issues for children that could arise — during the COVID-19 pandemic constitute a \"national emergency."
+    publishedDateTime: 2021-02-07T21:14:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-says-women-dropping-out-of-workforce-closed-schools-are-national-emergency/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/07/3d619469-8e54-43fa-ad3b-24e13afbdb20/thumbnail/1200x630/505bb1af941dbb58b77cd6a0c69f761f/0207-nod-biden-interview-641716-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Publix Supermarkets Under Fire After Heiress Reportedly Donates $300,000 To Trump Rally"
     excerpt: "The Publix supermarket chain is facing backlash after a bombshell report revealed the chain's heiress donated money to the infamous Trump rally that preceded the Capitol riots."
     publishedDateTime: 2021-01-30T17:38:00Z
