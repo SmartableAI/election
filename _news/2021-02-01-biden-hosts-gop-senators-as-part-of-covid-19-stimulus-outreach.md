@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
 type: article
 quality: 175
-heat: 695
+heat: 715
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201202002-mcconnell-marjorie-taylor-greene-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats to unveil $3,000 child benefit as part of Biden relief package"
+    excerpt: "House Democratic leaders will unveil legislation Monday that would give millions of families at least $3,000 per child, advancing a key provision in President Joe Biden's $1.9 trillion Covid-19 relief package.\n    \n"
+    publishedDateTime: 2021-02-07T19:35:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w48PTebN1uY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/child-tax-credit-democrats-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/child-tax-credit-democrats-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204172900-01-us-capitol-snow-0201-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

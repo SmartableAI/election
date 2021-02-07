@@ -3,10 +3,10 @@ category: news
 title: "Netanyahu Still Waiting for Biden's Phone Call"
 excerpt: "RealClearPolitics"
 publishedDateTime: 2021-02-07T12:56:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/02/07/netanyahu_still_waiting_for_bidens_phone_call_535306.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/02/07/netanyahu_still_waiting_for_bidens_phone_call_535306.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/53/533491_5_.jpg"
+    width: 750
+    height: 499
+    isCached: true
 
 related:
   - title: "New DOJ hire is former colleague of Hunter Biden defense attorney"
@@ -238,6 +244,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "hnQ+R4Y5qQf2FqRrX+Ib88J9tUJg2YgHSEcZq8iegDCJV9oXgHZZgQw67KIvSmx9Ly/TT/TdGubKSyoegEVFsdej0wjbWxK+hGu1tk1RSQUXSdtFdeRdW+HjLEw2XF2Hrv/rNQqKQC2tqQ3EioF5Y7iaw7Vt9rfJdI01DpG8wk8qpw8dkq3/xPC7r8i/rB6Q9j4Pa0w7arJhaX8VnB0Eq7XlBNt2VNDpJ4apGw2ge+QZL4dxacXpUSnKPRRxtQymBBXz7Ug1gdm9Lsbl6gzeQoBjBunzYeJKQAEy8xDMp5pTILs2QlWkacOkZ0b4usXMA55N2t0cvnNG/pa7cXfR8b45gEDl1EBTeH2YYneUicI=;jdJ1vQj+BZBMxVopvDtt4A=="
+secured: "Av+A9KNLMj86uC723DIZjJwk9y8mvGLc+KiGfDBkP6TArJk1Fw+98O4n4+RvMDJJiBkhHXJxaS4qH2SMTVBGdpIYDIyQA3DulnAR81V/+ojUs7Y+Sk12gsxfbVOJrnt+TPjQLAQd/2DN9wBQNJtovZwSHcGFM1u81NzNRJLKu0KjKFQau8sTRJEw73rXG8x/FkN+FTyKJUL+Ycd8cMFWfQA57qqW4pYC3Ls1WtJOa5oQi8eFq9RVBIOoq2YnO6ddU8LJ6lgBM2wCReQVlDVw+BNxUX8MQt2Yg1Q5FH0knIzbFoX7uCzgUQRAQeby150J774u2d3WobReFyPpa8tMdPnXvd+U783PAcqADN2KFLo=;snIm/Lp7wu4PPurF2vqPYw=="
 ---
 

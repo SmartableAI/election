@@ -80,6 +80,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Republicans who backed Trump impeachment face home state backlash"
+    excerpt: "Republicans who backed the push to impeach former President Donald Trump now face backlash from their constituents."
+    publishedDateTime: 2021-02-07T19:33:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3r1ANqEx61U/republicans-trump-impeachment-voters-backlash"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-trump-impeachment-voters-backlash.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-trump-impeachment-voters-backlash.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21036581973148.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Rand Paul to trigger Senate vote on whether Trump impeachment trial is constitutional"
     excerpt: "Sen. Rand Paul on Tuesday afternoon is expected to force a vote on whether or not the Senate impeachment trial of former President Trump is unconstitutional now that he is out of office. "
     publishedDateTime: 2021-01-26T17:01:20Z
@@ -222,6 +238,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Republicans who backed Trump impeachment face home state backlash"
+    excerpt: "Republicans who backed the push to impeach former President Donald Trump now face backlash from their constituents."
+    publishedDateTime: 2021-02-07T19:34:00Z
+    webUrl: "https://www.foxnews.com/politics/republicans-trump-impeachment-voters-backlash"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-trump-impeachment-voters-backlash.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-trump-impeachment-voters-backlash.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21036581973148.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Ohio Republicans propose state holiday honoring ex-President Donald Trump"
     excerpt: "A pair of lawmakers from Ohio want to set aside a day to honor former President Trump. The proposal from two Republican state legislators would make June 14 every year President Donald Trump Day"
     publishedDateTime: 2021-01-29T21:42:00Z
@@ -285,6 +317,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Republicans blast Trump Senate impeachment trial as unconstitutional ‘partisan farce’"
+    excerpt: "Sen. Rand Paul was asked about the likelihood of Trump being convicted in the Senate trial over his role in the Jan. 6 Capitol riot, which is set to kick off on Tuesday. “​Zero chance of"
+    publishedDateTime: 2021-02-07T19:38:00Z
+    webUrl: "https://nypost.com/2021/02/07/republicans-blast-trump-senate-impeachment-trial-as-unconstitutional/"
+    ampWebUrl: "https://nypost.com/2021/02/07/republicans-blast-trump-senate-impeachment-trial-as-unconstitutional/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/07/republicans-blast-trump-senate-impeachment-trial-as-unconstitutional/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 128
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/randpaul-trump-impeachment.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Republicans in key battlegrounds push to tighten voting rules in wake of Trump's defeat"
     excerpt: "Republican state lawmakers in three battleground states where President Biden narrowly edged Donald Trump in November’s presidential election are pushing to tighten voting restrictions on mail-in balloting in future contests."

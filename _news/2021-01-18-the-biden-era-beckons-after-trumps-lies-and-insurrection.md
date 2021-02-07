@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3670
+heat: 3690
 published: true
 
 provider:
@@ -2446,6 +2446,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121151243-01-biden-covid-remarks-0121-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Donald Trump leaves as he arrived, minus his microphone"
+    excerpt: "PALM BEACH, Fla. — Donald Trump left Washington the same way he came in — flouting traditions, demanding praise and fixated on making himself the center of the story. There was only one ..."
+    publishedDateTime: 2021-01-24T04:36:00Z
+    webUrl: "https://www.politico.com/news/2021/01/20/donald-trump-leaves-460867"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/20/donald-trump-leaves-460867"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/20/donald-trump-leaves-460867"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/36/a7/850140f649f1b09708ef9a3ffd73/ap21020701916505-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Send us your questions for President Biden's Covid-19 team"
     excerpt: "What questions do you have for President Biden's Covid-19 team? Ask them here and they may be answered in a CNN Town Hall this Wednesday at 8pm ET."

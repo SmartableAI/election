@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-04-trump-resigns-from-screen-actors-guild-i-no-longer-wish-to-be-associated-with-your-union.md",
+      "title": "Trump resigns from Screen Actors Guild: ‘I no longer wish to be associated with your union’",
+      "excerpt": "President Trump is resigning from the Screen Actors Guild - American Federation of Television and Radio Artists after they threatened to expel his membership from the union after the Capitol riot -- to which he said, “Who cares!”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jc98yOOyz-A/trump-resigns-from-screen-actors-guild",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jc98yOOyz-A/trump-resigns-from-screen-actors-guild",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp",
+      "publishedDateTime": "2021-02-04T09:44:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-white-house-to-leave-any-intelligence-requests-from-trump-to-intel-community.md",
       "title": "White House to leave any intelligence requests from Trump to intel community",
       "excerpt": "The Biden White House says the intelligence community will review any incoming requests for intelligence briefings from former President Donald Trump, as has been customary for former presidents, though he has not yet made any.\n    \n",
@@ -486,6 +542,63 @@
       ]
     },
     {
+      "path": "_news/2021-02-04-in-bidens-white-house-surprise-visits-with-staff-replace-late-night-tweets-and-unscheduled-phone-calls.md",
+      "title": "In Biden's White House, surprise visits with staff replace late night tweets and unscheduled phone calls",
+      "excerpt": "Trump preferred seemingly aimless days at the White House. Biden has a carefully crafted schedule, but the pandemic has curbed his facetime with people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/03/biden-white-house-interactions-465450",
+      "originalUrl": "https://www.politico.com/news/2021/02/03/biden-white-house-interactions-465450",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/22/18/bcd1a54d4885ae18c2b9abd242b3/210203-joe-biden-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T16:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-biden-epa-nominee-vows-sense-of-urgency-on-climate-change.md",
       "title": "Biden EPA nominee vows ‘sense of urgency’ on climate change",
       "excerpt": "President Joe Biden’s nominee to run the Environmental Protection Agency has pledged to act with “a sense of urgency” on climate change and other priorities, while working with lawmakers from both par",
@@ -801,62 +914,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-03-biden-admin-says-vaccinating-everyone-in-america-is-one-of-the-greatest-operational-challenges-ever-faced.md",
-      "title": "Biden admin says vaccinating everyone in America is ‘one of the greatest operational challenges’ ever faced",
-      "excerpt": "The White House Coronavirus Task Force said the federal government is working to establish coronavirus community vaccination sites across the country with the help of the Department of Defense and the Federal Emergency Management Agency while maintaining that vaccinating all Americans against COVID-19",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XxLcMGT3vF8/biden-admin-help-establish-covid-community-vaccination-sites",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XxLcMGT3vF8/biden-admin-help-establish-covid-community-vaccination-sites",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-help-establish-covid-community-vaccination-sites.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-help-establish-covid-community-vaccination-sites.amp",
-      "publishedDateTime": "2021-02-03T09:27:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump.md",
       "title": "Mitt Romney Points Out GOP Wasn't Concerned About Debt, 'Spending Massively' Under Trump",
       "excerpt": "The Utah Republican highlighted that under GOP leadership the U.S. was \"adding almost a trillion dollars a year to the national debt.\"",
@@ -1086,7 +1143,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 273,
+      "heat": 293,
       "tags": null,
       "images": [
         {
@@ -1291,58 +1348,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-biden-shows-flexibility-but-tells-house-to-go-big-on-aid.md",
-      "title": "Biden shows flexibility but tells House to ‘go big’ on aid",
-      "excerpt": "President Joe Biden is telling House Democrats he’s not married to all the specifics of the $1.9 trillion COVID rescue plan",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-03T02:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

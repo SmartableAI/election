@@ -1,14 +1,14 @@
 ---
 category: news
-title: "U.S. will not lift sanctions to get Iran to negotiating table -Biden"
+title: "U.S. will not lift sanctions to get Iran to negotiating table - Biden"
 excerpt: "U.S. President Joe Biden said the United States will not lift its economic sanctions on Iran in order to get Tehran back to the negotiating table to discuss how to revive the Iran nuclear deal, according to a video released by CBS News on Sunday."
-publishedDateTime: 2021-02-07T16:29:00Z
-originalUrl: "https://www.reuters.com/article/usa-iran-biden-idUSW1N2JN00R"
-webUrl: "https://www.reuters.com/article/usa-iran-biden-idUSW1N2JN00R"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2JN00R"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2JN00R"
+publishedDateTime: 2021-02-07T18:47:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-iran-biden-idUSKBN2A70OL"
+webUrl: "https://www.reuters.com/article/us-usa-iran-biden-idUSKBN2A70OL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A70OL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A70OL"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210207&t=2&i=1550649469&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH160I0"
+    width: 810
+    height: 545
+    isCached: true
 
 related:
   - title: "Biden set to accept more refugees after years of Trump restrictions"
@@ -840,6 +846,6 @@ related:
         height: 847
         isCached: true
 
-secured: "qFTpwcFuA5SHTcpl2xr3Elu7K+eNQnkV6YxJUlYaWdSe32CLH5NCuFkX0O+VfqPUq6taWYNCbjIoz9CjOL3CB2pbzpBlAB9XdVZUiiP+K7c2myLEBAy0x5AHyuv6T3ASUDtqEc3KF/WcF5NWM3HL1jv6lqbfDc6wwI1DqfRv33skREbvM0Hh1a+JPOD69HBIC1Nz28N6HWlhWbGDdaRicNeY29Q/LhJ8SQnbxriaqsInB7xekPWTE+J8LQfIYZzBg1LkmerttuDJKsWrcycj2BrZin1VW03w42ZbpvxG0PiMNjCyk7ZkhOmgPrAU8+0+bl+185QF1gmIpez2OIWyhXHDm21Wu0II7uMj8xz1/cw=;knCWQGTuY4mo6PEVvfB4NA=="
+secured: "2MFsCjiUL9eG4EKdWr6S1v8uMERc90D7IjOrbeO8YWXKBwC/TXzbfSH6iZiLXg+N/2QZipT7/U0bDG7oyaTBMrY3jy9B5Jv5E5bLj+viNBVqlSR3cTSjMGY0ID7FYY38vLfFzfag9o8hxFLrdhmvkJHTWHBHjkJjcvhKxC30K6GquK7op19Mhw9YG3tVwkZ31O8LGZcobqJb4nmmk/6TvmhZzD9s7cjRvFG9lCSZ7ECvW14UEs8cSeQCVgww15kbl3n65lGZIJjYt88dQnY+YC9kjAR+RyiWCWYNT2UzQgzy0Zi1z8b9i1FapcCmggd2w59GuiDqy4eVomq/baa5OQlNsHzbLSy7QJozK0f+iUU=;rYs3RaaPoxoh/Enzd5Ol5w=="
 ---
 

@@ -29,14 +29,14 @@ images:
 related:
   - title: "Mike Pence to join Heritage Foundation to 'lead the conservative movement into the future'"
     excerpt: "Former Vice President Mike Pence is joining a think tank, the first official step on how he plans to stay active in public and political life."
-    publishedDateTime: 2021-02-04T19:37:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/02/04/think-tank-pence-wants-lead-conservatives-into-future/4389431001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4389431001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4389431001"
+    publishedDateTime: 2021-02-04T19:01:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/02/04/think-tank-pence-wants-lead-conservatives-into-future/4389431001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4389431001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4389431001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 65
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/c81436e0-3d7b-4731-aaa3-94b9139346e5-01202021_Pence_GH_003.jpg?auto=webp&crop=3730,2099,x0,y565&format=pjpg&width=1200"

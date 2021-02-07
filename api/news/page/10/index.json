@@ -2,6 +2,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-24-biden-may-pick-up-the-tab-for-san-francisco-homeless-hotels.md",
+      "title": "Biden may pick up the tab for San Francisco homeless hotels",
+      "excerpt": "San Francisco hotels used to house homeless people may be fully funded by the federal government this year, thanks to an executive order signed by President Joe Biden signed last Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LEDT-uiJCNI/biden-may-pick-up-the-tab-for-san-francisco-homeless-hotels",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LEDT-uiJCNI/biden-may-pick-up-the-tab-for-san-francisco-homeless-hotels",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21013758433717.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-may-pick-up-the-tab-for-san-francisco-homeless-hotels.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-may-pick-up-the-tab-for-san-francisco-homeless-hotels.amp",
+      "publishedDateTime": "2021-01-24T13:58:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-dr-anthony-fauci-on-what-working-for-donald-trump-was-really-like.md",
       "title": "Dr. Anthony Fauci on what working for Donald Trump was really like",
       "excerpt": "As the coronavirus ravaged the country, Dr. Anthony Fauci’s calm counsel and commitment to hard facts endeared him to millions of Americans. But he also became a villain to millions of others.",
@@ -165,6 +221,63 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-mypillow-guy-among-the-trump-acolytes-looking-to-pick-up-where-he-left-off.md",
+      "title": "MyPillow Guy among the Trump acolytes looking to pick up where he left off",
+      "excerpt": "MINNEAPOLIS — When Mike Lindell, better known to TV viewers as the MyPillow Guy, went to the White House last week to try to persuade then-President Donald Trump to keep pushing bogus theories ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/mypillow-guy-among-trump-acolytes-looking-pick-where-he-left-n1255438",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/mypillow-guy-among-trump-acolytes-looking-pick-where-he-left-n1255438",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_03/3443099/210119-mike-lindell-al-0858_1ceff7464af6f2eeb690cc064cd6adef.jpg",
+          "width": 2500,
+          "height": 1408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1255438",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255438",
+      "publishedDateTime": "2021-01-24T11:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -1229,114 +1342,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html",
       "publishedDateTime": "2021-01-22T19:35:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-biden-says-we-need-to-act-decisively-and-boldly.md",
-      "title": "Biden says we need to act 'decisively and boldly'",
-      "excerpt": "President Joe Biden said on Friday the U.S. economic crisis was deepening and that the government needs to take major action now to help struggling Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUKKBN29R2JV",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUKKBN29R2JV",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548763538&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1HE",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN29R2JV",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29R2JV",
-      "publishedDateTime": "2021-01-22T18:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-birx-i-always-considered-quitting-trumps-white-house-covid-task-force.md",
-      "title": "Birx: I always considered quitting Trump's White House Covid task force",
-      "excerpt": "Dr. Deborah Birx \"always\" considered quitting then-President Donald Trump's White House coronavirus task force and was troubled by colleagues' perceptions that she had become political, she said in an interview clip released Friday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xMutAa4evAQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xMutAa4evAQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222145539-deborah-birx-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html",
-      "publishedDateTime": "2021-01-22T18:10:26-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

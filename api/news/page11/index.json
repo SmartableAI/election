@@ -2,6 +2,114 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-01-23-biden-says-we-need-to-act-decisively-and-boldly.md",
+      "title": "Biden says we need to act 'decisively and boldly'",
+      "excerpt": "President Joe Biden said on Friday the U.S. economic crisis was deepening and that the government needs to take major action now to help struggling Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUKKBN29R2JV",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUKKBN29R2JV",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548763538&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1HE",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN29R2JV",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29R2JV",
+      "publishedDateTime": "2021-01-22T18:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-birx-i-always-considered-quitting-trumps-white-house-covid-task-force.md",
+      "title": "Birx: I always considered quitting Trump's White House Covid task force",
+      "excerpt": "Dr. Deborah Birx \"always\" considered quitting then-President Donald Trump's White House coronavirus task force and was troubled by colleagues' perceptions that she had become political, she said in an interview clip released Friday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xMutAa4evAQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xMutAa4evAQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222145539-deborah-birx-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html",
+      "publishedDateTime": "2021-01-22T18:10:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-rep-ilhan-omar-calls-on-biden-to-back-recurring-cash-payments-until-economy-recovers.md",
       "title": "Rep. Ilhan Omar calls on Biden to back 'recurring cash payments' until economy recovers",
       "excerpt": "Omar and other progressives have argued that Biden’s proposal does not go far enough to address the current financial crisis.",
@@ -1262,114 +1370,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-ivanka-trump-and-jared-kushner-move-out-of-dc-and-lease-luxury-condo-in-miami.md",
-      "title": "Ivanka Trump and Jared Kushner move out of DC and lease luxury condo in Miami ",
-      "excerpt": "Ivanka Trump and Jared Kushner have moved out of their Washington, DC, home, and have signed a one-year lease on a luxury condo in Miami at the Arte, an expensive oceanfront residential building, a source familiar with the couple's move confirmed to CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bhdQ1s1ICyw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bhdQ1s1ICyw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201115070055-01-jared-kushner-ivanka-trump-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/21/politics/ivanka-trump-jared-kushner-luxury-condo-miami/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/ivanka-trump-jared-kushner-luxury-condo-miami/index.html",
-      "publishedDateTime": "2021-01-21T12:48:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-president-biden-signs-order-mandating-masks-on-planes-will-it-reduce-number-of-in-flight-scofflaws.md",
-      "title": "President Biden signs order mandating masks on planes: Will it reduce number of in-flight scofflaws?",
-      "excerpt": "Airlines require masks and ban passengers who won't comply. A new federal mask rule signed by Biden Thursday gives them muscle to enforce it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/travel/airline-news/2021/01/21/president-biden-issues-federal-mask-mandate-on-flights/4214019001/",
-      "originalUrl": "https://www.usatoday.com/story/travel/airline-news/2021/01/21/president-biden-issues-federal-mask-mandate-on-flights/4214019001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/21/USAT/dd14e355-72ea-4998-9a71-ee24ff1b399c-biden-signing.jpg?auto=webp&crop=5968,3357,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4214019001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4214019001",
-      "publishedDateTime": "2021-01-21T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

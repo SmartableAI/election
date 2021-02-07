@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
+    excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."
+    publishedDateTime: 2021-02-07T20:46:00Z
+    webUrl: "https://www.nytimes.com/2021/02/07/us/politics/trump-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/07/us/politics/trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/07/us/politics/trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/07/us/politics/07dc-impeach-1/07dc-impeach-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Live Updates: Impeachment Managers Call Trump ‘Singularly Responsible’ for Riot"
     excerpt: "The nine House impeachment managers presented their case against former President Donald J. Trump in a filing. Mr. Trump has a noon deadline to outline his defense. President Biden will sign executive orders on immigration."
     publishedDateTime: 2021-02-02T11:46:00Z

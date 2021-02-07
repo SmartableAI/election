@@ -2,6 +2,118 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-12-17-tammy-bruce-biden-staffers-crude-insult-shows-dems-have-no-intention-of-unifying-country.md",
+      "title": "Tammy Bruce: Biden staffer's crude insult shows Dems have 'no intention' of unifying country",
+      "excerpt": "The Democrats' attitude toward Republicans indicates that they do not want to collaborate on policy issues and unite the country, Fox Nation host Tammy Bruce said Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mz_nyKK-s0g/tammy-bruce-dems-no-intention-unifying-country",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mz_nyKK-s0g/tammy-bruce-dems-no-intention-unifying-country",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tammy-bruce-dems-no-intention-unifying-country.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tammy-bruce-dems-no-intention-unifying-country.amp",
+      "publishedDateTime": "2020-12-17T08:48:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-former-trump-adviser-points-finger-at-russia-for-brazen-solarwinds-hack-calls-for-response.md",
+      "title": "Former Trump adviser points finger at Russia for 'brazen' SolarWinds hack, calls for response",
+      "excerpt": "Thomas Bossert, former Homeland Security adviser to President Trump, in a Wednesday op-ed said there is evidence that Russia is to blame for what he called a \"brazen\" cyberattack on software company SolarWinds through cybersecurity company FireEye.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvLJ8_P1lhE/thomas-bossert-russia-solarwinds-hack",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvLJ8_P1lhE/thomas-bossert-russia-solarwinds-hack",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bf403b4-1c48-466e-a25d-2682f1d7ab92/c089fbf7-6a94-4419-b442-8b6f92c8c3f7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/thomas-bossert-russia-solarwinds-hack.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/thomas-bossert-russia-solarwinds-hack.amp",
+      "publishedDateTime": "2020-12-17T08:41:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-biden-appears-in-campaign-ad-for-georgias-jon-ossoff-and-raphael-warnock.md",
       "title": "Biden appears in campaign ad for Georgia's Jon Ossoff and Raphael Warnock",
       "excerpt": "President-elect Joe Biden urged Georgians to vote for Jon Ossoff and Raphael Warnock in a campaign ad released Thursday, saying he needed the two Democrats in the Senate to pass legislation providing economic relief to Americans amid the coronavirus pandemic.\n    \n",
@@ -1204,110 +1316,6 @@
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28Q1CZ",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28Q1CZ",
       "publishedDateTime": "2020-12-16T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-trump-lashes-out-at-mcconnell-for-recognizing-bidens-victory-people-are-angry.md",
-      "title": "Trump lashes out at McConnell for recognizing Biden’s victory: ‘People are angry!’",
-      "excerpt": "President Trump pleaded with Senate Majority Leader Mitch McConnell to continue supporting his efforts to undermine the election after McConnell acknowledged President-elect Joe Biden's win in the electoral college.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 354,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MGEFVYGLBII6VGNQQQTOE3JAHM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/?outputType=amp",
-      "publishedDateTime": "2020-12-16T02:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-irans-rouhani-says-he-is-happy-that-lawless-trump-is-leaving-office.md",
-      "title": "Iran's Rouhani says he is happy that 'lawless' Trump is leaving office",
-      "excerpt": "Iranian President Hassan Rouhani said on Wednesday he was happy that Donald Trump was leaving office, calling him \"the most lawless U.S. president\" and a \"terrorist\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
-      "originalUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544720502&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF0EW",
-          "width": 868,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Q0T2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q0T2",
-      "publishedDateTime": "2020-12-16T00:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",

@@ -231,12 +231,17 @@ related:
   - title: "Netanyahu Still Waiting for Biden's Phone Call"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-02-07T12:56:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/02/07/netanyahu_still_waiting_for_bidens_phone_call_535306.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/533491_5_.jpg"
+        width: 750
+        height: 499
+        isCached: true
 
 secured: "/HwQO0dMdr4OWRZJZOm6W4jXCwUiM+jZ0V58n8y5Mdk2SrK6VjHoifOcpEqcsJIAS1pnk7zQr4/yHIkHrkqPgJZL++qExAlG8wGTXEl55TOBIzpNwIz07Yd92DGA0C1jrtkHTOSDVL024JtcqSJN9pMMdpipBwillzgXxxLFA845XiYkkIZOXXXXvtnozGm7b2/3l8asZ+TfVAiwtZZx31Donl0dHznV/RsSYdhFFDDx5fDyzrfDObMdM4OyospGf34wo9g7PqdJLFjvVPRc8QEiwS3aupBDi+7DnmFl13qJGsEvYj16s9UB+35R45H+NejXLgu32jskuWHkhr7S4jqf0534RDNZ7a09TD+PHic=;myQhMol0UW4flBJfo2nG9g=="
 ---

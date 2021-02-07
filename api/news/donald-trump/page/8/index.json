@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-01-trump-reportedly-lashed-out-at-kushner-over-increased-covid-19-testing-im-going-to-lose-and-its-going-to-be-your-fault.md",
+      "title": "Trump reportedly lashed out at Kushner over increased COVID-19 testing: 'I'm going to lose, and it's going to be your fault'",
+      "excerpt": "Trump reportedly told Kushner, \"I want to do what Mexico does. They don't give you a test till you get to the emergency room and you're vomiting.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12",
+      "originalUrl": "https://www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fee7be9a18a450018cb67d6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashed-out-at-kushner-over-covid-19-testing-nyt-2020-12?amp",
+      "publishedDateTime": "2020-12-31T22:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-trump-extends-visa-ban-health-coverage-policy-advances.md",
       "title": "Trump extends visa ban, health coverage policy advances",
       "excerpt": "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31",
@@ -1530,63 +1582,6 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-the-trump-bump-for-books-has-been-significant-can-it-continue.md",
-      "title": "The ‘Trump Bump’ for Books Has Been Significant. Can It Continue?",
-      "excerpt": "As a new administration looms, publishers have snapped up another crop of forthcoming Trump books by prominent journalists and pundits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/21/books/00trumpbooks2/merlin_179822574_2e450d6e-0246-43c1-a80c-8d197ee7f3bc-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/24/books/trump-administration-books-2021.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/24/books/trump-administration-books-2021.amp.html",
-      "publishedDateTime": "2020-12-24T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

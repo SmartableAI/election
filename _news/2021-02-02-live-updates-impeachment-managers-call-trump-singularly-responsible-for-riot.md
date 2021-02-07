@@ -112,6 +112,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
+    excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."
+    publishedDateTime: 2021-02-07T20:46:00Z
+    webUrl: "https://www.nytimes.com/2021/02/07/us/politics/trump-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/07/us/politics/trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/07/us/politics/trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/07/us/politics/07dc-impeach-1/07dc-impeach-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "TTW35UtBC8JC5ht3BveO7/m3I1bJTFhB+1vXtbn1A2w+/cASB46rUwbEczhvofR66kzzQsjty17/Zb5UniQQil+hvP1wbf3hsw4J8sJ3lb4+TDTOGctQ6AS9BEvgpyyxrpFJdNZqGAAYTanH47r1EHvteJOdcY/0BvqGc24xYxRmyk0uZWyAp7hgV+OktCKMK13fSEeEa85YSdqaB7zojsbrgC+s4ztsn1X8loBeLSNfDf9jTNg49CJHRtVj/u3kGUnNCHpo8g7GxYE1qckiRbRuODRJcrMBWF6Sf+VL++nduee+y80PF2yM6Miiu2uNrDZIziODQbVEsh2UopII96q7oWmI6X6WIk684L8pRQ8=;7ygMVd2H4tQ3HUJ+UgvC3g=="
 ---

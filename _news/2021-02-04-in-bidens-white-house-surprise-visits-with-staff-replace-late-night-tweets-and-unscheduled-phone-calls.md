@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/news/2021/02/03/biden-white-house-interac
 webUrl: "https://www.politico.com/news/2021/02/03/biden-white-house-interactions-465450"
 type: article
 quality: 98
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: Politico
@@ -28,38 +28,6 @@ images:
     width: 1160
     height: 773
     isCached: true
-
-related:
-  - title: "Biden to call for protecting LGBTQ rights globally in memo"
-    excerpt: "It reflects his deep commitment to these issues both here in the United States and everywhere around the world,\" national security adviser Jake Sullivan said."
-    publishedDateTime: 2021-02-05T04:12:00Z
-    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256792"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256792"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_05/3447736/210204-lgbtq-supreme-court-jm-1642_5c78556d3c8be10a4f7294ac3d23f414.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "California poses Biden's biggest test on school reopening"
-    excerpt: "The state may be the main obstacle in the way of President Joe Biden reopening most of the nation's schools in his first 100 days in office."
-    publishedDateTime: 2021-02-03T00:59:00Z
-    webUrl: "https://www.politico.com/news/2021/02/02/california-poses-bidens-biggest-test-on-school-reopening-465211"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/a7/ff/58035ed8413f877fd522c7aefb15/ap21029767118388.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
 
 secured: "f/JoKK+XzH1JKK7RIqhBpqzKqHJOsOwr+A/mxSTAsjB2u/yz72Svabgpx7+e+dr4IGKNQVzSOiq6bnZRc/R1xiEzJARa57QUQbelMyBkd3PY7RkW8SrGlf2luDX/9e84YnbbyL1SmFqI2omKZTa7+SPbY758uwEDa4P+3NTMH4B1KuwHsMXArbj/vewKHb8SHzHIh/BOkqp0Snsz4CzXnKo351q4+yU4guNFBWTBxPyKvUzcfcSrmvCo1Rgut4URLyArINoI1FfW+bb9c998SWpvbIgyUfIXJHXMsgQPN6WnXlHmQSwE0ZOnFpZL8JhZy2bmSNJ9RGOJbaZitO3nvTLEr29OpCx0zF55vkmvutUNVA84TehCzpj5PwZ9SymHopEKbT+Y2cFw3LHjYTLsjwitUWPPhQrX2igUkNNvU6q8Jl3qkzIzXctWgjWVDJm5VfeFtVVhMQxfJ10mNAjxQbdYHsTpsU95Ouvoj7Wx8N0fDvujROwfBCthwd9/GFIfxvqXNHl5UrhrNHsyF2NL8g==;8Fl3qVmevil2rPhwUR2H1w=="
 ---

@@ -2,6 +2,119 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-30-something-aoc-trump-jr-and-ted-cruz-can-all-agree-on-gamestop.md",
+      "title": "Something AOC, Trump Jr. and Ted Cruz can all agree on: GameStop",
+      "excerpt": "Stocks in the video game retailer and other struggling companies saw huge rallies that blindsided some of the most powerful players on Wall Street.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/28/gamestop-stock-aoc-trump-jr-cruz-463539",
+      "originalUrl": "https://www.politico.com/news/2021/01/28/gamestop-stock-aoc-trump-jr-cruz-463539",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/39/c5/05e4063f49e0b5662de3a903191a/210128-gamestop-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T22:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-federal-appeals-court-allows-us-border-officials-to-swiftly-return-unaccompanied-migrant-children-under-trump-era-policy.md",
+      "title": "Federal appeals court allows US border officials to swiftly return unaccompanied migrant children under Trump-era policy",
+      "excerpt": "A federal appeals court ruled Friday that the federal government can quickly return unaccompanied migrant children apprehended at the US-Mexico border under a public health order put in place under former President Donald Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P5LFrQFNqiM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P5LFrQFNqiM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210127205123-migrant-children-carizzo-springs-tx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/29/politics/immigration-border/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/immigration-border/index.html",
+      "publishedDateTime": "2021-01-29T16:31:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-biden-taps-iran-envoy-to-face-challenges-of-confronting-both-tehran-and-polarized-views-at-home.md",
       "title": "Biden taps Iran envoy to face challenges of confronting both Tehran and polarized views at home",
       "excerpt": "The Biden administration has tapped Robert Malley, a progressive foreign policy expert who served on the Obama administration's negotiating team for the Iran nuclear deal, as its new top envoy for Iran.\n    \n",
@@ -14,7 +127,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 223,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -959,6 +1072,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-25-mypillow-guy-among-the-trump-acolytes-looking-to-pick-up-where-he-left-off.md",
+      "title": "MyPillow Guy among the Trump acolytes looking to pick up where he left off",
+      "excerpt": "MINNEAPOLIS — When Mike Lindell, better known to TV viewers as the MyPillow Guy, went to the White House last week to try to persuade then-President Donald Trump to keep pushing bogus theories ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/mypillow-guy-among-trump-acolytes-looking-pick-where-he-left-n1255438",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/mypillow-guy-among-trump-acolytes-looking-pick-where-he-left-n1255438",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_03/3443099/210119-mike-lindell-al-0858_1ceff7464af6f2eeb690cc064cd6adef.jpg",
+          "width": 2500,
+          "height": 1408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1255438",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255438",
+      "publishedDateTime": "2021-01-24T11:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-biden-health-officials-express-concern-about-short-term-vaccine-supply-crunch.md",
       "title": "Biden health officials express concern about short-term vaccine supply crunch",
       "excerpt": "I think that the supply is probably going to be the most limiting constraint early on,\" the CDC director said.",
@@ -1518,176 +1688,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-charlottesville-inspired-biden-to-run-now-it-has-a-message-for-him.md",
-      "title": "Charlottesville Inspired Biden to Run. Now It Has a Message for Him.",
-      "excerpt": "The white supremacist rally in 2017 prefigured the rise of right-wing violence in President Trump’s name. Now, as President Biden calls for national unity, residents say it requires accountability first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/21/us/politics/21Charlottesville1/21Charlottesville1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
-      "publishedDateTime": "2021-01-21T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-fox-news-host-judge-jeanine-lobbied-trump-during-his-last-few-hours-in-office-to-pardon-her-ex-husband-it-worked.md",
-      "title": "Fox News host Judge Jeanine lobbied Trump during his last few hours in office to pardon her ex-husband. It worked.",
-      "excerpt": "Fox News host Judge Jeanine successfully lobbied former President Donald Trump in an eleventh-hour effort to pardon her ex-husband in the final hours of Trump's presidency, CNN has learned.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GDER5xNWk3g/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GDER5xNWk3g/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190310103909-jeanine-pirro-fox-illhan-omar-screengrab-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/20/politics/judge-jeanine-lobbied-trump-pardon-ex-husband/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/judge-jeanine-lobbied-trump-pardon-ex-husband/index.html",
-      "publishedDateTime": "2021-01-20T19:36:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-trump-departs-vowingwe-will-be-back-in-some-form.md",
-      "title": "Trump Departs Vowing,‘We Will Be Back in Some Form’",
-      "excerpt": "Defeated and twice impeached, the 45th president used his farewell remarks before a sparse crowd to brag about his record and wish luck to the incoming administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/20/us/politics/trump-presidency.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/20/us/politics/trump-presidency.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/20/us/20dc-trump01/20dc-trump01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/20/us/politics/trump-presidency.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/us/politics/trump-presidency.amp.html",
-      "publishedDateTime": "2021-01-20T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

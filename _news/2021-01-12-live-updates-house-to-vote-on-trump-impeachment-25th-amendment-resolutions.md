@@ -240,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Spurning Calls to Resign, Liz Cheney Says G.O.P. Must Move Past Trump"
+    excerpt: "Ms. Cheney, having fended off a challenge to her House leadership role, was defiant in defending her impeachment vote and called for Republicans to be “the party of truth.”"
+    publishedDateTime: 2021-02-07T18:17:00Z
+    webUrl: "https://www.nytimes.com/2021/02/07/us/politics/liz-cheney-republicans-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/07/us/politics/liz-cheney-republicans-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/07/us/politics/liz-cheney-republicans-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/07/us/politics/07dc-cheney/07dc-cheney-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Cheney refuses to apologize for voting to impeach Trump during closed-door GOP meeting"
     excerpt: "Rep. Liz Cheney was among the 10 House Republicans who voted in favor of the article of impeachment against Trump for inciting the Jan.6 insurrection at the Capitol."
     publishedDateTime: 2021-02-04T00:15:00Z

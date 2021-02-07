@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats to unveil $3,000 child benefit as part of Biden relief package"
+    excerpt: "House Democratic leaders will unveil legislation Monday that would give millions of families at least $3,000 per child, advancing a key provision in President Joe Biden's $1.9 trillion Covid-19 relief package.\n    \n"
+    publishedDateTime: 2021-02-07T19:35:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w48PTebN1uY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/child-tax-credit-democrats-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/child-tax-credit-democrats-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204172900-01-us-capitol-snow-0201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tech problems kick off Biden administration's first virtual Covid briefing"
     excerpt: "The first Covid-19 briefing of the Biden administration got off to an unfortunate start on Wednesday with multiple technical difficulties. The administration has repeatedly touted their transparency amid the enormous undertaking of getting the pandemic under control, but the briefing, which was conducted"
     publishedDateTime: 2021-01-27T16:39:11Z
@@ -440,6 +456,6 @@ related:
         height: 630
         isCached: true
 
-secured: "KPSX2e+dJ1ZbuvcbjVuKUy6m9l/t/n2sq40ZSCMXLbMk+bWIJMdSB7hlGGAK4Og6s+RLzdc1GNKQeNTR5VtEl38UpGGzscBqaH8iI2iz9GP6X/Ad1N6J4iGu3IhfocIDmXhSpEEKQ8AiAKmWkyzL2Pr/Pphm8b33qZswuIwSCJs4ZTllyBe9bIUULBigos/bsHb2MH4XJE0w8hdcBVSM7SU0CYY3p1wkY7gj3TBQIPrQpj+be7wMA7VcKjlBGdntAiYeJDTNHLFmKMKTkk3l4IzVFb0GcUw4/mVOnY6xmRK3omy9n0YjK2oBOvp05dNMYbrjNpZzxESLMWcjmwzX+RHyPbsZ3WA0btzb5f34870=;mCWUq813pMsUyYinAzj/YQ=="
+secured: "KrhIPWmIqofzuL583NJtXSubX4z4qmNYFrHCeidbL0PUDBwvbxNyQp3LhYZoYI4yKd33oQ6NTou+z9a/c11OPj4E25kKMBMUxTxsMbrTqWp0Wk9Ju9qVUbfOR9gLy1/Df6A8N3/VdxcnhKVJ1/gwninVsqj4p54ZNi393gxOflu/aPgt8l/YzQqWRJwW3Fd+3LPnuS3ADwZ3F1vsVbl1gBIELwgduSJ1umAg7r74fi3OWZun/LS4E3qBb9+vRnuUx3o7FBf4v6QAAbcar1w7sNXjkYnBdfhX+iIb3JPO3BxhShHgHAybn/tvt0QGnN/fvqeG8ocr/bDJ8HXv18jpmVXia1RX3QjqSesP32bEPMs=;vmrs2d11hxboE6TujnzgMw=="
 ---
 
