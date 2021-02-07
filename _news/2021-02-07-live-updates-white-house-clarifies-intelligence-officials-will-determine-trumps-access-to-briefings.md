@@ -1,14 +1,14 @@
 ---
 category: news
-title: "McConnell defends GOP Rep. Liz Cheney, who voted to impeach Trump: 'A leader with deep convictions'"
-excerpt: "Cheney has faced calls to resign from her post as House GOP conference chair since she and nine other Republicans crossed party lines to impeach Trump."
-publishedDateTime: 2021-02-02T01:43:00Z
-originalUrl: "https://www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader"
-webUrl: "https://www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader"
-ampWebUrl: "https://www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader.amp"
+title: "LIVE UPDATES: White House clarifies intelligence officials will determine Trump's access to briefings"
+excerpt: "Follow for the latest updates on the White House.  "
+publishedDateTime: 2021-02-07T07:44:40Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQfEw5pDUjs/live-updates-white-house-trump-2-7-21"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQfEw5pDUjs/live-updates-white-house-trump-2-7-21"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-white-house-trump-2-7-21.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-white-house-trump-2-7-21.amp"
 type: article
-quality: 121
+quality: 160
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c82de6-c14d-4137-89d3-071d65d22423/e9007209-f228-4dbe-a90e-c50c3ef80488/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9afddc93-7228-4852-850b-9711102bbb72/4053956a-dce6-43cc-b729-c596965e4d2f/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -96,23 +95,23 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: White House clarifies intelligence officials will determine Trump's access to briefings"
-    excerpt: "Follow for the latest updates on the White House.  "
-    publishedDateTime: 2021-02-07T07:44:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQfEw5pDUjs/live-updates-white-house-trump-2-7-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-white-house-trump-2-7-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-white-house-trump-2-7-21.amp"
+  - title: "McConnell defends GOP Rep. Liz Cheney, who voted to impeach Trump: 'A leader with deep convictions'"
+    excerpt: "Cheney has faced calls to resign from her post as House GOP conference chair since she and nine other Republicans crossed party lines to impeach Trump."
+    publishedDateTime: 2021-02-02T01:43:00Z
+    webUrl: "https://www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 121
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9afddc93-7228-4852-850b-9711102bbb72/4053956a-dce6-43cc-b729-c596965e4d2f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c82de6-c14d-4137-89d3-071d65d22423/e9007209-f228-4dbe-a90e-c50c3ef80488/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
 
-secured: "OCwKlJQB/ps1JtIirUEAQTIcrHd8MjQyA+EBDVKgLshdcIKy4EqXULYrOKicB9VAS2TrCb3OIGATSVF2ti5DQVFb52I2UvYTVKXZektwttFjmFMTrxf935Ptm83U9v8kvxDmoEW3+GfdMX8w5O9dJbCVwgTImOnqNw0duobJtePMvNCBO2/ckwr2IW2F8g4jqlzApOoeSjNb59jVkQBpoe2TwghcyR2Yk2TyY7QblJ2TMMd9dI7Ll1qPrHCL7NbbAZhuZ+HAZ/dwB3A5DcvfPazLAIwILw4cs1ynO/CGVHp0QiQCIY00p7NJiO/vRpVvO12mwv3DpOvrac8BZnax7s5wOEia2fsBIgMxNyL/tHw=;6vcERuc2iAlQhQwoH7JaqQ=="
+secured: "sSOgq/Z58SP+nuf/RUWqtPhjXUncxW6wJ9P2vl9fIOIp1ccZIxtTcs3+RNOf0du/fm4BwJv/9EoDSh+T1oeWpHxE5CV47LCSnescyRmmCSN5mLgWyPTfPv7fz7+dWtKAn5AWuT7AKuqXAqgFhcitfWMJut6mzyXSdpESJzr6YV6wk5Eos9WkGBT65jNhZz9kQkIXpp1bPQi8wjTv5Lxyxk2WTVcoUYppb29DFnAt7A5+wChI++EUZLAlxL5b1KKmU5hBUwGEmGVt+oK3z9rC85bLCIzm4Luy8BjciLe1ALoGx0veHEoL6Mec7sl0MLFAR85L7K/y826vqG0/7DslFNenrTUjzcWAuRR6A34CNwk=;DG2T4fQY7ZjfuFFLMEkZoA=="
 ---
 

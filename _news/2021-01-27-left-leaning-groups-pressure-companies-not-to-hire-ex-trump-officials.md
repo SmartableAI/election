@@ -350,6 +350,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Wyoming GOP censures Liz Cheney over Trump impeachment vote"
+    excerpt: "The Wyoming Republican Party voted overwhelmingly Saturday to censure U.S. Rep. Liz Cheney for voting to impeach President Donald Trump for his role in the Jan. 6 riot at the U.S."
+    publishedDateTime: 2021-02-07T00:31:00Z
+    webUrl: "https://nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/"
+    ampWebUrl: "https://nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Liz-Cheney-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Sen. Rand Paul says Chief Justice Roberts won’t take Trump impeach trial"
     excerpt: "As Democrats plunge ahead with a post-term impeachment trial of President Donald Trump, a key question remains: Will Chief Justice Roberts take the case? Republican Sen. Rand Paul of Kentucky says"
     publishedDateTime: 2021-01-23T23:06:00Z

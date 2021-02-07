@@ -362,6 +362,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Wyoming GOP censures Liz Cheney over Trump impeachment vote"
+    excerpt: "The Wyoming Republican Party voted overwhelmingly Saturday to censure U.S. Rep. Liz Cheney for voting to impeach President Donald Trump for his role in the Jan. 6 riot at the U.S."
+    publishedDateTime: 2021-02-07T00:31:00Z
+    webUrl: "https://nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/"
+    ampWebUrl: "https://nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Liz-Cheney-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Senators sworn in for Trump impeachment trial as some GOP members object"
     excerpt: "The US Senate was sworn in as jurors for the second impeachment trial of former President Donald Trump on Tuesday afternoon. All 100 senators were sworn in by Sen. Patrick"
     publishedDateTime: 2021-01-26T20:25:00Z

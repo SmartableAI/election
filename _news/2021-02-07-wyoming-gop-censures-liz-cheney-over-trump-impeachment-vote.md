@@ -1,36 +1,49 @@
 ---
 category: news
-title: "Wyoming Republicans censure Cheney over Trump impeachment vote"
-excerpt: "Wyoming's Carbon County Republican Party voted unanimously to censure Rep. Liz Cheney, R-Wyo., for voting with nine other House Republicans to impeach President Trump on charges of \"incitement of an insurrection.\""
-publishedDateTime: 2021-01-19T14:35:01Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ULwU1c9iBk/liz-cheney-impeachment-republicans-herrera-beutler-wyoming"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ULwU1c9iBk/liz-cheney-impeachment-republicans-herrera-beutler-wyoming"
-ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
+title: "Wyoming GOP censures Liz Cheney over Trump impeachment vote"
+excerpt: "The Wyoming Republican Party voted overwhelmingly Saturday to censure U.S. Rep. Liz Cheney for voting to impeach President Donald Trump for his role in the Jan. 6 riot at the U.S."
+publishedDateTime: 2021-02-07T00:31:00Z
+originalUrl: "https://nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/"
+webUrl: "https://nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/"
+ampWebUrl: "https://nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/amp/"
 type: article
-quality: 175
-heat: 715
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Rep-Liz-Cheney.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Liz-Cheney-1.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
+  - title: "Wyoming Republicans censure Cheney over Trump impeachment vote"
+    excerpt: "Wyoming's Carbon County Republican Party voted unanimously to censure Rep. Liz Cheney, R-Wyo., for voting with nine other House Republicans to impeach President Trump on charges of \"incitement of an insurrection.\""
+    publishedDateTime: 2021-01-19T14:35:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ULwU1c9iBk/liz-cheney-impeachment-republicans-herrera-beutler-wyoming"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Rep-Liz-Cheney.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump impeachment trial delayed until week of Feb. 8, Schumer says"
     excerpt: "Senate Majority Leader Chuck Schumer, D-N.Y., said on Friday lawmakers will wait to carry out President Donald Trump’s impeachment hearings for several weeks, following a brief standoff on Capitol Hill over timing."
     publishedDateTime: 2021-01-22T23:53:47Z
@@ -349,22 +362,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Wyoming GOP censures Liz Cheney over Trump impeachment vote"
-    excerpt: "The Wyoming Republican Party voted overwhelmingly Saturday to censure U.S. Rep. Liz Cheney for voting to impeach President Donald Trump for his role in the Jan. 6 riot at the U.S."
-    publishedDateTime: 2021-02-07T00:31:00Z
-    webUrl: "https://nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/"
-    ampWebUrl: "https://nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Liz-Cheney-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Sen. Rand Paul says Chief Justice Roberts won’t take Trump impeach trial"
     excerpt: "As Democrats plunge ahead with a post-term impeachment trial of President Donald Trump, a key question remains: Will Chief Justice Roberts take the case? Republican Sen. Rand Paul of Kentucky says"
     publishedDateTime: 2021-01-23T23:06:00Z
@@ -458,6 +455,6 @@ related:
         height: 853
         isCached: true
 
-secured: "fbBQ3mVXe03KEM17zey3C32gMucDW+dWLiwdEj3h97I4VkgJBvHMnQpQB87nPXgQQrDfpTtHfJCBPkmQYeTPSSO08jOQ8SCcc9mxaYOJ1/Sntu4C4uWSdRH0qur2eCLSissP66UXyw24ChKTAkv1IaR8Hx+3QGPLrpUS2Z9LixkxHZRY0Vd4XNL/rslRzJ4OLINKgSXA8YH2YL9PgZLfby6aUXI+ifi6OaAbOU3Xtdp0LJr2m6/TF+94u+WfkH5B1W60ICy1QljwxeTuWOIRSeH66iQhYp4V+Vx8y+QnJANtxLp7Mkg0mciGv5c1Fqu+MDgbT562V8yEMQzZhgFNk/X+ZLyf9y8rIt6k0EdxRHg=;3tCf6VFQXEGlpRveS5acpg=="
+secured: "pGIf0O208s8LkXNiODr1jpaWcNNGs2SRRnW3MzHjyIFIkIVaC/C3H/kBSIUlRp7iMPs7MHJZ/bZHIIvv1kF8jgsw7V6viAy4J+8SoEpRv8Q1jCBvDzu0BFsUi75Ch7az/bNtNtz4YUrS+1/9/Z/+DWsthAAfwXcTwdBHAzHsnegG7rD3NZPoMtyUQvG3EXZyZZfmwqthScsZbSaQVpRp7HuJJaP1kwA7qKVdYR2WIuhnCn/kYmEmYytIcP/Ep4JrWvbtIv0KVlWcKUiqxdXbTk6GKLu52SXMV8rpW1wmijoxncKdWTfL0oix/dl5TwsceeJRk60JxsgyGDvFTWO2PbsifLtnuMs3tFVVjGdB4xQ=;RDaz7Qx9kdJDc3JeGtVyBQ=="
 ---
 
