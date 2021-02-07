@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Graham says outcome of Trump impeachment trial \"is really not in doubt\""
+    excerpt: "Republican Senator Lindsey Graham of South Carolina said Sunday that the outcome of former President Donald Trump's upcoming impeachment trial is \"really not in doubt\" as many Republicans believe the Senate lacks the authority to try a president who is no longer in office and will likely vote to acquit him."
+    publishedDateTime: 2021-02-07T16:27:00Z
+    webUrl: "https://www.cbsnews.com/news/lindsey-graham-donald-trump-impeachment-trial-face-the-nation/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/lindsey-graham-donald-trump-impeachment-trial-face-the-nation/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/lindsey-graham-donald-trump-impeachment-trial-face-the-nation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/07/1c35ae02-c984-4ff8-83cf-c065258831f8/thumbnail/1200x630g2/7d4b889649bfdc77603d1990c2b51506/screen-shot-2021-02-07-at-10-39-28-am.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump faces Tuesday deadline to deliver formal response to impeachment as trial looms"
     excerpt: "Former U.S. President Donald Trump's unprecedented second impeachment trial takes shape this week, as Democrats outline their case and Trump scrambles to prepare a defense amid disarray on his legal team."
     publishedDateTime: 2021-02-01T16:21:00Z

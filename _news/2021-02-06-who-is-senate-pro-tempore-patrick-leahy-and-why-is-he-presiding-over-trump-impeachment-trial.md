@@ -462,6 +462,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Senate Democrats See Short Trump Trial as They Juggle Covid-19 Stimulus Package"
+    excerpt: "Key details of former President Donald Trump’s impeachment trial and the Biden administration’s $1.9-trillion relief bill are still being finalized."
+    publishedDateTime: 2021-02-07T18:57:00Z
+    webUrl: "https://www.wsj.com/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    ampWebUrl: "https://www.wsj.com/amp/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-296098/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "National Geographic documentary on new Air Force One takes a look at design Trump helped shape"
     excerpt: "Former President Donald Trump pushed to update and change the planes to make them more modern, both in design and capabilities."
     publishedDateTime: 2021-02-06T17:50:00Z

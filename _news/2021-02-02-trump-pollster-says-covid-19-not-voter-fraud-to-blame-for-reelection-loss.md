@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-lo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-loss-covid/index.html"
 type: article
 quality: 188
-heat: 848
+heat: 868
 published: true
 
 provider:
@@ -396,6 +396,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/02/06/us/politics/06dc-impeach/06dc-impeach-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "What Would It Take for Republicans to Convict Trump?"
+    excerpt: "Republican senators need to remember the chaotic scene, cast aside politics and vote to convict the ex-president. It is their duty to protect the Constitution and ensure that this never happens again."
+    publishedDateTime: 2021-02-07T17:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/07/opinion/letters/trump-impeachment-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/07/opinion/letters/trump-impeachment-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/07/opinion/letters/trump-impeachment-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/01/multimedia/01riot-elected-officials-1/merlin_182048460_c3a46876-6d4d-4cd5-b745-557c673a29dc-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

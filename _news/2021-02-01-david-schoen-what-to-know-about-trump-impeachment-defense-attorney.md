@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/david-schoen-what-to-know-about-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp"
 type: article
 quality: 175
-heat: 755
+heat: 775
 published: true
 
 provider:
@@ -444,6 +444,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Senate Democrats See Short Trump Trial as They Juggle Covid-19 Stimulus Package"
+    excerpt: "Key details of former President Donald Trump’s impeachment trial and the Biden administration’s $1.9-trillion relief bill are still being finalized."
+    publishedDateTime: 2021-02-07T18:57:00Z
+    webUrl: "https://www.wsj.com/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    ampWebUrl: "https://www.wsj.com/amp/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-296098/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Who is Senate pro tempore Patrick Leahy and why is he presiding over Trump impeachment trial?"
     excerpt: "Supreme Court Chief Justice John Roberts presided over former President Trump's first impeachment trial a year ago for abuse of power and obstruction of Congress."

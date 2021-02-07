@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-08-sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie.md",
+      "title": "Sen. Rand Paul: Claim Trump incited Capitol riot is 'big lie'",
+      "excerpt": "Hundreds of thousands of more of those high-paying career jobs will also be gone as Joe follows through on his promise and his plan to cancel all oil and gas pipelines and block drilling and exploration in ANWR Alaska,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie",
+      "originalUrl": "https://www.foxnews.com/transcript/sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a776dc8-0d6e-4a62-996e-40c7f02fb048/310d7743-95d4-4294-82e9-bcadd51420a7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie.amp",
+      "publishedDateTime": "2021-02-07T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial.md",
       "title": "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial",
       "excerpt": "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press.",
@@ -223,7 +280,7 @@
       "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2230,
+      "heat": 2250,
       "tags": null,
       "images": [
         {
@@ -432,7 +489,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-refugees-order/biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSKBN2A42HN",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1180,
+      "heat": 1220,
       "tags": null,
       "images": [
         {
@@ -1100,7 +1157,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1479,58 +1536,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-gamestop-robinhood-revolution-stock-frenzy-echoes-anti-establishment-anger-behind-trumps-rise-analysts-say.md",
-      "title": "GameStop-Robinhood revolution: Stock frenzy echoes anti-establishment anger behind Trump's rise, analysts say",
-      "excerpt": "Robinhood investors running up GameStop stock price parallels anti-establishment anger and populist fervor behind Trump's rise to the presidency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/29/gamestop-stock-robinhood-revolution-trump-mob-reddit/4297906001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/29/gamestop-stock-robinhood-revolution-trump-mob-reddit/4297906001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/media/2021/01/28/USATODAY/usatsports/247WallSt.com-247WS-834613-gamestop-store.jpg?auto=webp&crop=1365,768,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4297906001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4297906001",
-      "publishedDateTime": "2021-01-31T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

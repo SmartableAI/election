@@ -2,6 +2,170 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-06-fact-check-letter-thanking-president-trump-was-not-written-by-rush-limbaugh.md",
+      "title": "Fact check: Letter thanking President Trump was not written by Rush Limbaugh",
+      "excerpt": "Social media users have been sharing a letter online attributed to conservative radio personality Rush Limbaugh that thanks former President Donald J. Trump for the past four years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-letter-limbaugh-trump-idUSKBN2A51RD",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-letter-limbaugh-trump-idUSKBN2A51RD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550472840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH14117",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A51RD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A51RD",
+      "publishedDateTime": "2021-02-05T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-angel-dad-slams-joe-bidens-immigration-orders-insanity-on-steroids.md",
+      "title": "Angel dad slams Joe Biden's immigration orders: 'Insanity on steroids'",
+      "excerpt": "A California father, whose son was killed in a car accident with an illegal immigrant slammed President Joe Biden’s move to halt deportations of undocumented migrants on Friday, calling the administration's actions “insanity on steroids.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqjtEWa62Sg/biden-immigration-insanity-steroids-california-angel-dad",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqjtEWa62Sg/biden-immigration-insanity-steroids-california-angel-dad",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c4487de-9432-4b11-85ec-6465e3cf5347/6b3ff08b-0f57-40d9-b1d2-1ae5bc8eab17/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-immigration-insanity-steroids-california-angel-dad.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-insanity-steroids-california-angel-dad.amp",
+      "publishedDateTime": "2021-02-05T10:53:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-biden-emphasizes-urgency-of-19t-relief-after-summers-op-ed-on-inflation.md",
+      "title": "Biden emphasizes 'urgency' of $1.9T relief after Summers' op-ed on inflation",
+      "excerpt": "President Joe Biden responded to a new, sluggish jobs report by continuing to press for his $1.9 trillion Covid relief package to be passed with urgency -- even as a leading economist who served in the Obama administration is sounding the alarm on how the White House's plan could have negative economic",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8TKNxpGN2I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R8TKNxpGN2I/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205103040-biden-harris-schumer-stimulus-meeting-0203-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/05/politics/joe-biden-jobs-numbers-relief-package/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/joe-biden-jobs-numbers-relief-package/index.html",
+      "publishedDateTime": "2021-02-05T08:28:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-biden-administrations-cbp-revives-catch-and-release-policy-at-border-amid-covid-concerns.md",
       "title": "Biden administration’s CBP revives ‘catch and release’ policy at border amid COVID concerns",
       "excerpt": "A perfect storm of events has the Biden administration’s Customs and Border Protection on its heels in parts of Texas.",
@@ -179,7 +343,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-refugees-order/biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSKBN2A42HN",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1180,
+      "heat": 1220,
       "tags": null,
       "images": [
         {
@@ -1177,174 +1341,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp",
       "publishedDateTime": "2021-02-04T09:44:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-white-house-to-leave-any-intelligence-requests-from-trump-to-intel-community.md",
-      "title": "White House to leave any intelligence requests from Trump to intel community",
-      "excerpt": "The Biden White House says the intelligence community will review any incoming requests for intelligence briefings from former President Donald Trump, as has been customary for former presidents, though he has not yet made any.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k_k1ryMqCMM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k_k1ryMqCMM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/04/politics/intelligence-briefings-joe-biden-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/intelligence-briefings-joe-biden-donald-trump/index.html",
-      "publishedDateTime": "2021-02-04T07:57:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-biden-focuses-on-faith-and-unity-during-dark-dark-time-in-prayer-breakfast-remarks.md",
-      "title": "Biden focuses on faith and unity during 'dark, dark time' in prayer breakfast remarks",
-      "excerpt": "President Joe Biden on Thursday cited the importance of unity and faith during what he described as a \"dark, dark time\" for many Americans, as he continued the presidential tradition of participation in the National Prayer Breakfast.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0XqRDB2BV1Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0XqRDB2BV1Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210204101818-primera-biden-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/04/politics/biden-national-prayer-breakfast/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/biden-national-prayer-breakfast/index.html",
-      "publishedDateTime": "2021-02-04T07:13:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-biden-addresses-national-prayer-breakfast-says-we-need-to-defeat-political-extremism.md",
-      "title": "Biden addresses National Prayer Breakfast, says 'we need to defeat political extremism'",
-      "excerpt": "President Biden addressed the National Prayer Breakfast on Thursday, saying the country needs to \"defeat political extremism\" and rely on \"faith to guide us out of the darkness and into the light\" amid the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCrIDa9-o9U/biden-addresses-national-prayer-breakfast",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCrIDa9-o9U/biden-addresses-national-prayer-breakfast",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-addresses-national-prayer-breakfast.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-addresses-national-prayer-breakfast.amp",
-      "publishedDateTime": "2021-02-04T06:35:01-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

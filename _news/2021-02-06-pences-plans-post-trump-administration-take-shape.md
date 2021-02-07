@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pences-post-trump-administration-pl
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/"
 type: article
 quality: 150
-heat: 2230
+heat: 2250
 published: true
 
 provider:
@@ -1560,6 +1560,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Mike Pence to join Heritage Foundation as distinguished visiting fellow"
+    excerpt: "Former Vice President Mike Pence is joining the Heritage Foundation as a distinguished visiting fellow, according to a press release from the conservative think tank."
+    publishedDateTime: 2021-02-04T18:31:00Z
+    webUrl: "https://www.newspressnow.com/news/national_news/election2020/mike-pence-to-join-heritage-foundation-as-distinguished-visiting-fellow/article_ce2725d0-ab51-554a-b95f-41ae7fd2ae52.html"
+    type: article
+    provider:
+      name: News-Press NOW
+      domain: newspressnow.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/assets/v3/editorial/3/0e/30e59c17-4e90-5195-98e6-77cc9d28af71/601c3a6b108d2.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Trump Asked To Testify In Senate Impeachment Trial"
     excerpt: "Democratic lawmakers leading the impeachment case against Donald Trump requested Thursday the former president to testify in his looming trial for allegedly inciting insurrection in the attack on the US Capitol last month."
     publishedDateTime: 2021-02-04T20:56:00Z

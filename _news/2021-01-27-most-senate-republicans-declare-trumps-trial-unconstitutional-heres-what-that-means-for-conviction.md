@@ -416,6 +416,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "What Would It Take for Republicans to Convict Trump?"
+    excerpt: "Republican senators need to remember the chaotic scene, cast aside politics and vote to convict the ex-president. It is their duty to protect the Constitution and ensure that this never happens again."
+    publishedDateTime: 2021-02-07T17:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/07/opinion/letters/trump-impeachment-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/07/opinion/letters/trump-impeachment-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/07/opinion/letters/trump-impeachment-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/01/multimedia/01riot-elected-officials-1/merlin_182048460_c3a46876-6d4d-4cd5-b745-557c673a29dc-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "As Trump Raked In Cash Denying His Loss, Little Went to Actual Legal Fight"
     excerpt: "The picture that emerged in new campaign finance reports was of Donald J. Trump waging a public relations effort to falsely argue that he had won the election rather than mounting a serious legal push."
     publishedDateTime: 2021-02-01T05:53:00Z
