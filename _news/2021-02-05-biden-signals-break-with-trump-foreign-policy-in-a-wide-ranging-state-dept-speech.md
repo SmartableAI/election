@@ -520,6 +520,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Liz Cheney is not done with Trump"
+    excerpt: "Appearing on a network whose viewership has plummeted under Trump’s attacks, Cheney proclaimed that the former president “does not have a role as the leader of our party going forward.” Her defiance comes less than 24 hours after the Wyoming Republican Party voted overwhelmingly to censure her for voting to impeach Trump — and just days after 61 GOP members tried unsuccessfully to remove her from her role as Conference Party chair."
+    publishedDateTime: 2021-02-07T16:53:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/07/liz-cheney-is-not-done-with-trump-491666"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/57/95/c29cc8d94a9f9debbe606e221881/210207-cheney-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Pro-Trump lawyer Lin Wood under investigation for possible voter fraud in Georgia"
     excerpt: "Wood, who claimed the presidential election was stolen, told an Atlanta-based reporter that he has lived in South Carolina \"for several months.\""
     publishedDateTime: 2021-02-03T09:17:00Z

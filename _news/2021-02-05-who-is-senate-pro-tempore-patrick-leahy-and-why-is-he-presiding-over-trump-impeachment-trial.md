@@ -207,6 +207,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump impeachment is 'partisan farce,' Schumer would deserve to be impeached too: Rand Paul"
+    excerpt: "Sen. Rand Paul, R-Ky., described the looming impeachment trial of former President Donald Trump as a \"partisan farce.\""
+    publishedDateTime: 2021-02-07T15:16:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1CeBnlV5l6I/trump-impeachment-schumer-rand-paul-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-schumer-rand-paul-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-schumer-rand-paul-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21034621643310.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Gaetz offers to represent Trump in second impeachment trial, resign House seat 'if the law requires it'"
     excerpt: "Republican Rep. Matt Gaetz on Wednesday offered to represent former President Trump in his second impeachment trial, telling Fox News he would resign from his seat in the House of Representatives if asked to join the Trump legal team."
     publishedDateTime: 2021-02-03T18:55:13Z

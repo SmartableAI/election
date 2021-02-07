@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Trump denies inciting Capitol riot, says Senate can’t hold impeachment trial"
-excerpt: "Former President Donald Trump denied Tuesday that he encouraged his supporters to storm the US Capitol last month — and argued that the Senate doesn’t have the authority to hold a"
-publishedDateTime: 2021-02-02T20:07:00Z
-originalUrl: "https://nypost.com/2021/02/02/trump-denies-inciting-riot-says-there-shouldnt-be-impeachment-trial/"
-webUrl: "https://nypost.com/2021/02/02/trump-denies-inciting-riot-says-there-shouldnt-be-impeachment-trial/"
-ampWebUrl: "https://nypost.com/2021/02/02/trump-denies-inciting-riot-says-there-shouldnt-be-impeachment-trial/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/02/trump-denies-inciting-riot-says-there-shouldnt-be-impeachment-trial/amp/"
+title: "Trump impeachment is 'partisan farce,' Schumer would deserve to be impeached too: Rand Paul"
+excerpt: "Sen. Rand Paul, R-Ky., described the looming impeachment trial of former President Donald Trump as a \"partisan farce.\""
+publishedDateTime: 2021-02-07T15:16:31Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1CeBnlV5l6I/trump-impeachment-schumer-rand-paul-senate"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1CeBnlV5l6I/trump-impeachment-schumer-rand-paul-senate"
+ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-schumer-rand-paul-senate.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-schumer-rand-paul-senate.amp"
 type: article
-quality: 132
+quality: 165
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/capitol-riot-1.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21034621643310.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -201,22 +204,6 @@ related:
     quality: 169
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Meijer2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump impeachment is 'partisan farce,' Schumer would deserve to be impeached too: Rand Paul"
-    excerpt: "Sen. Rand Paul, R-Ky., described the looming impeachment trial of former President Donald Trump as a \"partisan farce.\""
-    publishedDateTime: 2021-02-07T15:16:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1CeBnlV5l6I/trump-impeachment-schumer-rand-paul-senate"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-schumer-rand-paul-senate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-schumer-rand-paul-senate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21034621643310.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -426,6 +413,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump denies inciting Capitol riot, says Senate can’t hold impeachment trial"
+    excerpt: "Former President Donald Trump denied Tuesday that he encouraged his supporters to storm the US Capitol last month — and argued that the Senate doesn’t have the authority to hold a"
+    publishedDateTime: 2021-02-02T20:07:00Z
+    webUrl: "https://nypost.com/2021/02/02/trump-denies-inciting-riot-says-there-shouldnt-be-impeachment-trial/"
+    ampWebUrl: "https://nypost.com/2021/02/02/trump-denies-inciting-riot-says-there-shouldnt-be-impeachment-trial/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/02/trump-denies-inciting-riot-says-there-shouldnt-be-impeachment-trial/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/capitol-riot-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
     excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."
     publishedDateTime: 2021-01-27T18:51:00Z
@@ -489,6 +492,6 @@ related:
         height: 3765
         isCached: true
 
-secured: "QZvU9Y5hfkzkKvgg95lgcqdV0pDxUe0RtHmLeuJPEy4YwsZeAhoSVhJJj9ItV4Vc7ZYybb7xHPzpHw4kO2ZIcL68Ejtg5NSRQv9pz5JyWNRLC+7huHRnKpUnKtcgsxROwm7FS1VJNo+Hdg1AdK8WxNS9TU52ZPxO8xs6iR5xVTI6hXef5If3vHXiSTSL5SB76OefKeFo/QVVU9ZedzLnPnHI1NMmS3jf6n2l9MOmLwJ9X4gN+DsdSDbJyTTdjUyYcoiadSqqZLAZfrSFZDgwyNvdO9v43L4j4Bt5QbyGf0f3BkngewYcOHaZ3Tgi2QpJ7YMQNR+TUasS/dWEoiM80YehZ7EM4Kj7fCg4xogDv6E=;J/ElehJXCdB3kgZX3Mf04w=="
+secured: "QSeckaKcPs14YsPjWIElnXP+fAgRksFC5jH62/TNYuOSg7LM1l9hMOejGZzCZOYnfrDXMsdvvMNcY0COB+fyvGSBJx1VlEh0LYpOwyvHR6a6ZIIRNFihIjzG7x7NoRldIdxGyqPkjhoGQQTul8UblXTcienoAyoQ3Iw5Eavp3i53btEpa4M4z6zcN+qODy6tq+3McEzVRfJT/jgHbHp+E902XcAIgmu/AECpTzt9KULXG6JBH6BrNRRx+tNX/Spx23Fn2e2oY40h8byXevpmir2FWyTVuHb2N3U76emOA7YAFUu594kBtoK1+sYJrFYPZL2CC0eq+y2SJjZ2+fYtFz7QOoVFiWDigBEjSqnPHbc=;6gpDZjZjDR5Yfu5p49aAZA=="
 ---
 

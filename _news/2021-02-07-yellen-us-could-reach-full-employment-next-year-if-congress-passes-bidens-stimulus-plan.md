@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden White House wants to use the Super Bowl to advance message on Covid, vaccines "
-excerpt: "President Joe Biden's urgent goal of tackling the Covid-19 pandemic depends heavily on persuading Americans to get the vaccine as quickly as possible and educating the public about the virus -- and his top aides have been eyeing this weekend's Super Bowl as an opportunity to score some points.\n    \n"
-publishedDateTime: 2021-02-05T13:48:35Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqRDiFIlRks/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqRDiFIlRks/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/biden-white-house-super-bowl/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/biden-white-house-super-bowl/index.html"
+title: "Yellen: US could reach full employment next year if Congress passes Biden's stimulus plan"
+excerpt: "Treasury Secretary Janet Yellen said Sunday the US could see full employment next year if Congress passes President Joe Biden's proposed stimulus package, but warned the country's unemployment rate would remain elevated over the next few years without the additional $1.9 trillion in federal support.\n"
+publishedDateTime: 2021-02-07T16:43:19Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SqMgeUevF80/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SqMgeUevF80/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/janet-yellen-unemployment-rate-biden-stimulus-cnntv/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/janet-yellen-unemployment-rate-biden-stimulus-cnntv/index.html"
 type: article
-quality: 168
+quality: 166
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204214958-super-bowl-tampla-florida-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210207093617-janet-yellen-sotu-2-7-21-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden White House wants to use the Super Bowl to advance message on Covid, vaccines "
+    excerpt: "President Joe Biden's urgent goal of tackling the Covid-19 pandemic depends heavily on persuading Americans to get the vaccine as quickly as possible and educating the public about the virus -- and his top aides have been eyeing this weekend's Super Bowl as an opportunity to score some points.\n    \n"
+    publishedDateTime: 2021-02-05T13:48:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqRDiFIlRks/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/biden-white-house-super-bowl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/biden-white-house-super-bowl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204214958-super-bowl-tampla-florida-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Biden turns to skills that powered his 2020 victory to sell Covid-19 relief "
     excerpt: "Nearly three weeks into office, President Joe Biden is trying to do what he knows how to do best -- connect with average Americans, letting them know he understands their suffering and offering words of comfort. But instead of doing so quietly on the campaign trail, he's now using those skills to win"
     publishedDateTime: 2021-02-07T05:06:08Z
@@ -188,22 +204,6 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205130625-joe-biden-february-5-2021-01-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Yellen: US could reach full employment next year if Congress passes Biden's stimulus plan"
-    excerpt: "Treasury Secretary Janet Yellen said Sunday the US could see full employment next year if Congress passes President Joe Biden's proposed stimulus package, but warned the country's unemployment rate would remain elevated over the next few years without the additional $1.9 trillion in federal support.\n"
-    publishedDateTime: 2021-02-07T16:43:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SqMgeUevF80/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/janet-yellen-unemployment-rate-biden-stimulus-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/janet-yellen-unemployment-rate-biden-stimulus-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210207093617-janet-yellen-sotu-2-7-21-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -440,6 +440,6 @@ related:
         height: 630
         isCached: true
 
-secured: "852IjbXDzFj1hHb43yKiyWQtVN8QUrSFdja1nz5Uo4hmOQNhQPVp846r2K7tfb5Wz/KTm0U5CvMCIimqGW8rwndSvx+AZ+I3872+lImXytCrUro0fkl+6Ybrtr912QEa+a7jmFY+ISwmjGYkDIpQcAs/SpkkiMNkrWqsWFTHuaiGWXs4hK567qjyraTdYD5UQ8p5N2ji6v1R6xVnoCgrUhWN1ma67esd1WTlWIUJdXKUUmduSopgTkFes3QohL2NtqRtjgSCZ24iaKow7n49n9NLcw9yOGR/ovxeF+8syqsE5xGSZRLr95keMRNtvKY+bPiEhXWUKRtcmGcEDQXT4iSxrcitl2x58B2xET5ZVrk=;JqselgoajdMqOO93Pit44A=="
+secured: "4P5GR2FmniThERFAnUJ4JqYas3ZKOj6QwcvTtSmgIAajP6AacguG2U+Lqi+WTGU5sGLElB3iP4lZpZRa6vwkJUMb6LX1572ubiHehYBB6gCWuN+0whQNRx64x3ov65th8uJ3A4t8EvchokNX9GWy5hffYJJLlPGwXELALkKbJ0W/L8Kg0cedbHoDUoObBRydZ3tkA+RbpgQc6oo89aGyihS3CjNIpdKa2gJbLnTnNjwQccnovV572HuUK/m4rQNB1IDgAKgret0y2hrwSwSnKt+On9SgFWmOhk0XlCBX1BhVbPczBowgdN3akGQIaOdqzKS7dMeSbmx1eBX7SSsIg5pFvEom9GMp7s5Bss3PUZM=;RMABm8y42sy4hwFrlI2mvA=="
 ---
 

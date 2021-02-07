@@ -3,8 +3,8 @@ category: news
 title: "Netanyahu Still Waiting for Biden's Phone Call"
 excerpt: "RealClearPolitics"
 publishedDateTime: 2021-02-07T12:56:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html"
-webUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html"
+originalUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html#!"
 type: article
 quality: 45
 heat: -1
@@ -238,6 +238,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "BF72Kd2P7nbh8DghWdlvf4GERw7cbD1wShXfdsT5gObKtbIyw6130i0+lAf2OgG89FRC2RucHpDGAejxc+73SXCbDCtqsrqq214D6Radkc0JTlaKnnmfCm/n+WTrN/oZ2nrHPq15Z0nLynyJrCxiY0iS2aV5v3S0t9eSKDhxhYdJAXsWeDptbyRDxSfgtElmdM2iZZtRkU3AFIGWqzMYkkdbzxrP7lM2RjsaHwtDxKKxLR+mi90T4J4qwq/BM0mVaoE5XbGNmtXSCwHNuqsBzTus7lXpVlwEKQItJynRNVOk0mHxRO9sM5Cs6pC5M0SSWY1cevqBZ4fvps7j76lwrfYBGr4CckqbvviQ6hqVdmo=;LfS4XAFGTQ6wuBng0Dn+VA=="
+secured: "hnQ+R4Y5qQf2FqRrX+Ib88J9tUJg2YgHSEcZq8iegDCJV9oXgHZZgQw67KIvSmx9Ly/TT/TdGubKSyoegEVFsdej0wjbWxK+hGu1tk1RSQUXSdtFdeRdW+HjLEw2XF2Hrv/rNQqKQC2tqQ3EioF5Y7iaw7Vt9rfJdI01DpG8wk8qpw8dkq3/xPC7r8i/rB6Q9j4Pa0w7arJhaX8VnB0Eq7XlBNt2VNDpJ4apGw2ge+QZL4dxacXpUSnKPRRxtQymBBXz7Ug1gdm9Lsbl6gzeQoBjBunzYeJKQAEy8xDMp5pTILs2QlWkacOkZ0b4usXMA55N2t0cvnNG/pa7cXfR8b45gEDl1EBTeH2YYneUicI=;jdJ1vQj+BZBMxVopvDtt4A=="
 ---
 

@@ -534,6 +534,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Liz Cheney is not done with Trump"
+    excerpt: "Appearing on a network whose viewership has plummeted under Trump’s attacks, Cheney proclaimed that the former president “does not have a role as the leader of our party going forward.” Her defiance comes less than 24 hours after the Wyoming Republican Party voted overwhelmingly to censure her for voting to impeach Trump — and just days after 61 GOP members tried unsuccessfully to remove her from her role as Conference Party chair."
+    publishedDateTime: 2021-02-07T16:53:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/07/liz-cheney-is-not-done-with-trump-491666"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/57/95/c29cc8d94a9f9debbe606e221881/210207-cheney-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "SoYpGkCEo63X0bWamftzEKXzI8Mm9Sl+jzbmsuTfdpuRu/VuS/kLfSNhLdfXeDKdGdRTvn060qLwBV3fPpx8EnbbApqywOuN/5vQSvZlsYtnM0B2SkO57ZYq/JMaWzKtv7MlRoItoljLSFsu3KgXly53eVjX9wYUmRW8n6Gsn6IRN0bNR+BuEQ/NKECvHluSp5YQvbewNXwl+PzB/K15bstLEMSBAEWARZeIqenO7MXEhDb3dZ6rn4yN2GTzNGHIapVeKIZSwfF5ruQGtsXZBvH+XVPa4yZBUgpKMYyXqTOsygS4SvJ5nzc/hvGO9mZUviS54JmsMKeZEZT5XOWc+6T8RDWWicVxSNdOQInP5ztOKMKmj3vTj0LSpnX1TvIElERdbaKFVniJJ83CL4x0+Vb2BH6M7I11wO1IRwcGgOA/bYwvtJn3J9z/qrNR9ye6HmU82knvXfd/DZwJDw8J2NEzrItBdQFDBdRRznR1x0Ott6/c0Q4q8IvISs3+BNKGnb6BEAmtuI2bpYqThcVplQ==;bvUqUNCgkzCGj/eGxKRzsw=="
 ---

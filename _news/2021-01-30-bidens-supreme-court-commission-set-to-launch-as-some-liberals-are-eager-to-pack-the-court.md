@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Yellen: US could reach full employment next year if Congress passes Biden's stimulus plan"
+    excerpt: "Treasury Secretary Janet Yellen said Sunday the US could see full employment next year if Congress passes President Joe Biden's proposed stimulus package, but warned the country's unemployment rate would remain elevated over the next few years without the additional $1.9 trillion in federal support.\n"
+    publishedDateTime: 2021-02-07T16:43:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SqMgeUevF80/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/janet-yellen-unemployment-rate-biden-stimulus-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/janet-yellen-unemployment-rate-biden-stimulus-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210207093617-janet-yellen-sotu-2-7-21-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "10 GOP senators offer counterproposal for Covid-19 relief plan and request meeting with Biden"
     excerpt: "A group of 10 Republican senators on Sunday called on President Joe Biden to throw his support behind their own Covid-19 relief package framework, asking the President to work with them on drafting the legislation.\n    \n"
     publishedDateTime: 2021-01-31T16:39:35Z

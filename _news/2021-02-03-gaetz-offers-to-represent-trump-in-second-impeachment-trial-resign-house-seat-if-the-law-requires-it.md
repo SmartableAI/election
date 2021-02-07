@@ -207,6 +207,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump impeachment is 'partisan farce,' Schumer would deserve to be impeached too: Rand Paul"
+    excerpt: "Sen. Rand Paul, R-Ky., described the looming impeachment trial of former President Donald Trump as a \"partisan farce.\""
+    publishedDateTime: 2021-02-07T15:16:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1CeBnlV5l6I/trump-impeachment-schumer-rand-paul-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-schumer-rand-paul-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-schumer-rand-paul-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21034621643310.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Who is Senate pro tempore Patrick Leahy and why is he presiding over Trump impeachment trial?"
     excerpt: "Supreme Court Chief Justice John Roberts presided over former President Trump's first impeachment trial a year ago for abuse of power and obstruction of Congress. "
     publishedDateTime: 2021-02-05T16:27:34Z

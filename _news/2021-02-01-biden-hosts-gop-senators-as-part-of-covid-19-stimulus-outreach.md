@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
 type: article
 quality: 175
-heat: 675
+heat: 695
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205130625-joe-biden-february-5-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Yellen: US could reach full employment next year if Congress passes Biden's stimulus plan"
+    excerpt: "Treasury Secretary Janet Yellen said Sunday the US could see full employment next year if Congress passes President Joe Biden's proposed stimulus package, but warned the country's unemployment rate would remain elevated over the next few years without the additional $1.9 trillion in federal support.\n"
+    publishedDateTime: 2021-02-07T16:43:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SqMgeUevF80/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/janet-yellen-unemployment-rate-biden-stimulus-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/janet-yellen-unemployment-rate-biden-stimulus-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210207093617-janet-yellen-sotu-2-7-21-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/bloomberg-biden-unions-school-reope
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bloomberg-biden-unions-school-reopenings-teachers.amp"
 type: article
 quality: 161
-heat: 161
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Rand Paul: Kids missing school is 'disaster,' says Biden 'beholden' to teachers unions"
+    excerpt: "President Biden's hands-off approach to reopening schools amid the coronavirus pandemic is hurting America's children, Sen. Rand Paul, R-Ky., told \"Justice with Judge Jeanine\" Saturday."
+    publishedDateTime: 2021-02-07T15:43:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VMET7vSBSD4/rand-paul-kids-missing-school-biden-beholden-to-unions"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-kids-missing-school-biden-beholden-to-unions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-kids-missing-school-biden-beholden-to-unions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6ff4554-cb7b-431a-a61b-7dc4f0df80ea/7bcb469e-db26-4dc7-b49d-f84eb9a67300/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "g1OxyOt71l25XnL5uDRm58mdpst+zDikLq85DyLFE5i6uzp1gOvbSqNScdGiIuDmQcM3cysKtXki4UN9dNM+lVogoinygerHnB8BqBPNdVz6DqWuwrNZN4wBrB02EGaE/bfthSn+JaZGka8bU0rhfKTO5RMWCugaqCdrxw7gSLNNSapJY8Mxjm717haAA3ngZZuE1RjWxyhPeD1Bwh2SFtEiq+/jNn0p4dwx3If+wT6SSq0Fl+np5un9udv5t1GDBnoJYsxDM/B1z7Cokhrd6CURhxP2q4IjsgRrwv+tF3vFeZzW8GRzA2w8nKZ9jQMM0U0dpu7dxLR8N3JXMhrq60T6aZj246GBOBk4aWQw77E=;qMNciQjyq34RuKIwQ9/zpg=="
 ---

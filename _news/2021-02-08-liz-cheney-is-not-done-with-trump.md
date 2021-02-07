@@ -1,33 +1,32 @@
 ---
 category: news
-title: "South Carolina GOP censures Rep. Tom Rice after his vote to impeach Trump"
-excerpt: "The South Carolina Republican Party voted Saturday to formally censure Rep. Tom Rice, who represents the state's 7th Congressional District, for his vote to impeach former President Donald Trump in the House of Representatives.\n    \n"
-publishedDateTime: 2021-01-30T19:41:47Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y4EapU38utc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y4EapU38utc/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/tom-rice-south-carolina-republicans-censure/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/tom-rice-south-carolina-republicans-censure/index.html"
+title: "Liz Cheney is not done with Trump"
+excerpt: "Appearing on a network whose viewership has plummeted under Trump’s attacks, Cheney proclaimed that the former president “does not have a role as the leader of our party going forward.” Her defiance comes less than 24 hours after the Wyoming Republican Party voted overwhelmingly to censure her for voting to impeach Trump — and just days after 61 GOP members tried unsuccessfully to remove her from her role as Conference Party chair."
+publishedDateTime: 2021-02-07T16:53:00Z
+originalUrl: "https://www.politico.com/newsletters/playbook/2021/02/07/liz-cheney-is-not-done-with-trump-491666"
+webUrl: "https://www.politico.com/newsletters/playbook/2021/02/07/liz-cheney-is-not-done-with-trump-491666"
 type: article
-quality: 174
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123112210-rep-tom-rice-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/57/95/c29cc8d94a9f9debbe606e221881/210207-cheney-ap-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -140,6 +139,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929005555-donald-trump-the-apprentice-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "South Carolina GOP censures Rep. Tom Rice after his vote to impeach Trump"
+    excerpt: "The South Carolina Republican Party voted Saturday to formally censure Rep. Tom Rice, who represents the state's 7th Congressional District, for his vote to impeach former President Donald Trump in the House of Representatives.\n    \n"
+    publishedDateTime: 2021-01-30T19:41:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y4EapU38utc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/30/politics/tom-rice-south-carolina-republicans-censure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/30/politics/tom-rice-south-carolina-republicans-censure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123112210-rep-tom-rice-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -519,20 +534,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Liz Cheney is not done with Trump"
-    excerpt: "Appearing on a network whose viewership has plummeted under Trump’s attacks, Cheney proclaimed that the former president “does not have a role as the leader of our party going forward.” Her defiance comes less than 24 hours after the Wyoming Republican Party voted overwhelmingly to censure her for voting to impeach Trump — and just days after 61 GOP members tried unsuccessfully to remove her from her role as Conference Party chair."
-    publishedDateTime: 2021-02-07T16:53:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/07/liz-cheney-is-not-done-with-trump-491666"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/57/95/c29cc8d94a9f9debbe606e221881/210207-cheney-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Pro-Trump lawyer Lin Wood under investigation for possible voter fraud in Georgia"
     excerpt: "Wood, who claimed the presidential election was stolen, told an Atlanta-based reporter that he has lived in South Carolina \"for several months.\""
     publishedDateTime: 2021-02-03T09:17:00Z
@@ -548,6 +549,6 @@ related:
         height: 630
         isCached: true
 
-secured: "SUEqIktaIUL0bDObCIQy2qd8R7b3XKHJi9YMoIws08lT0sMtHOrJBAnZfhN48/tmy6PRiX1Q+HWnxjlj3lg+chk00BjhayRqTWdBMoNSsRGFP1ff0bspdSEkT3XIRxtELwcYlDN9O1G29L4+vrCw+87+tzGsjusR5JLR97jWWfo4hTPyZpaZaGmKIgZDZ8Mf+mdUe9J7SgLUEna7yZE3Gw1CN8MjZQwPa85yRi8QFzeWhHvc6+dbfcTzQCCIW43uiSrDEYrMKatuqagXOdjBwPhCHyI5VNUD6XURKZnmE6cbSTebKiOLfyQRJtsh3fr/fgU76yGmnNWraSWtZZndI8QjvwmE5JcwEOm4E9EgGZc=;r574zemTFneqMUGI0ds+lA=="
+secured: "6+M4QXggOJn1/eTswX+Wspu0ph2WOwG4QkAbXUjqKSeGnOhi0aelSnlUFrJUrOIPHEW9wRWq+6yqbBlWV8kMo4jWiXdya6PFEq6hOsr3ClL4nVKmLqGgeqao7z6UDRQeAObWBmhwabrdbcGdFXi2XafKawnYBnTYm3poadXd5Zkr+kyrfQcCpEjUHg2t901SV5ulUABhPc9vQ9MZrmtmamlfmonqKMr6Cs3582Q35G9C0rZZV0ujg/zqNCZvzKUXcNs7hersdiIQsWvZ0jtYcHyrLtGygS/qd+tvZUkmqU0ZJIT2GQMrnmumBzwUavck0G1iNeOOGRF0GN6kPEOVc3VRjrTXNdmOoT8ltrhTmvM=;ZdhjmB43zjF8mgmno4UITg=="
 ---
 

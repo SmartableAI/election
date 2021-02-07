@@ -232,7 +232,7 @@ related:
   - title: "Netanyahu Still Waiting for Biden's Phone Call"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-02-07T12:56:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html"
+    webUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html#!"
     type: article
     provider:
       name: RealClearPolitics
