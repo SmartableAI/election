@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3782498001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3782498001"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 124
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/70dde651-3135-4b05-8f81-867adb811d47-AP21035662363624.jpg?auto=webp&crop=5525,3108,x0,y85&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Politics live updates: $15 minimum wage unlikely to be in COVID relief bill, Biden says"
+    excerpt: "President Joe Biden said a proposal to raise the federal minimum wage to $15 an hour is unlikely to remain in the $1.9 trillion COVID relief package."
+    publishedDateTime: 2021-02-07T01:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/05/politics-live-updates-trump-impeachment-biden-covid-relief-congress/4398843001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4398843001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4398843001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/06/USAT/46ee3e15-5b2b-43ad-858b-98c90502e511-AP21036635389025.jpg?auto=webp&crop=5999,3374,x0,y161&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

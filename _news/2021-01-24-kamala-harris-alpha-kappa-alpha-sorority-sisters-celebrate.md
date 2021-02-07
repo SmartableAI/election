@@ -103,6 +103,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "News Analysis: Kamala Harris is headed back to the Senate, whether she likes it or not"
+    excerpt: "Kamala Harris was never a creature of the Senate. Its marbled passageways weren’t a destination, but a springboard. Harris saw the office of California governor as a preferable perch and ..."
+    publishedDateTime: 2021-01-22T13:00:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-22/kamala-harris-vice-president-tie-breaker"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-22/kamala-harris-vice-president-tie-breaker?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-22/kamala-harris-vice-president-tie-breaker?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 117
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d281950/2147483647/strip/true/crop/3600x2351+0+24/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F07%2F66%2Ffa3e45684358a73da70e94c53114%2Fkamalaharris-horizontal.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Twitter launched a @SecondGentleman account for Vice President-elect Kamala Harris' husband"
     excerpt: "DOW S&P 500 NASDAQ 100 Twitter has added @SecondGentleman to its roster of official political handles as the husband of Vice President-elect Kamala Harris prepares to become the first male second spouse in US history. President-elect Joe Biden touted the ..."
     publishedDateTime: 2021-01-16T17:22:00Z

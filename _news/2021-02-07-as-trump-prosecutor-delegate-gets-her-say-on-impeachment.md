@@ -1559,6 +1559,20 @@ related:
         width: 1024
         height: 649
         isCached: true
+  - title: "Who Are The Pivotal Figures In Trump's Senate Trial?"
+    excerpt: "Donald Trump -- remains the same, but several leading figures in the Senate proceedings have changed from the previous effort to oust the now-former president. So, too, have the charges. Trump was impeached in December 2019 for abuse of power and obstruction of Congress,"
+    publishedDateTime: 2021-02-07T02:17:00Z
+    webUrl: "https://www.ibtimes.com/who-are-pivotal-figures-trumps-senate-trial-3139509"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/06/donald-trump-is-the-only-us-president-ever.jpg"
+        width: 1024
+        height: 658
+        isCached: true
   - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
     excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"
     publishedDateTime: 2021-02-02T20:04:00Z
@@ -1585,6 +1599,6 @@ related:
         height: 696
         isCached: true
 
-secured: "wEmdRyCUaw0Wff6HZ8bw5UAqAmt9JsvHneS1E8Mh5EWqv1jt5imUMpFQTbKzN/qN2OweTkD2by5Ju+w4EozUHXSkg51yhtsP3IUtxuO2NPEAEtpXQcrSZ1J2my4SLJRMfR7fbpxAP1fH2uxeclEkstMlkQ27RrN+XneyR2x3gVAPnU+bcglIDis9jmO01XdRKbYuP5zOOYOQs/nSnLey8E5iKeZpzjfQHRnYvZ+fZ/sTfJeh1R16zZv1clrte+gA1BhqsshdiRNTUMf7WvqFNKrJT13Vba1BKixRNZa8yg/eS5cg/GvYfqui4r2eXofI+bmkriGIDBRyxn+TapwJiuDGJaGE4sO7FvORkCBY4rE=;2GFVpMPHp/kuQz+Xw6j2bw=="
+secured: "r99h8wBLQrXmXWT5r6+QF9AtyHhYmQIf7MTPI0/ZZpcUAFXRmmEzPn4b2BRZ6GaH2cOl65/ZNwjRpzsQHyvIf7LXVXc7fmbqPiBoNBBVMZtJNbsZOriHQRc4wNmeBT1lrw4OGu2djoGMijqDa0AJNkc1G0esLIsmPrLfFnu0OG+sdguF/X0B2RuHUbMmEzL9acAxOUfk5JunLqUudn38LN0y9wNHE/UI9kK8imEJgQpfI9uRmklQhx0ngBgJNdhSjfz3YpOe8JnrG1Mq5XothBY6g8kyqzLG7sqOBKFY4c3ppIedq57+s/sI5BbIo1jj+E7Ms9Q+qAnIwH9kjvcreCBaN1VvSKzp8k0aNk2GnFjb4YWUiWUEnc09A+afukV5sschzJ3RDwnnNLr+qP4IUrtv0lYU/ECjQtsHS1GSbc+lIVA8DaFsuZ0TYDe1StoTsWxCgBy+nHmGY8wyBXMEWXbjNgMUK6wCfYFFfB7rSttbdCaSYWtyDjercIj1nY5CX//mR71EbZg8rXtlK4gamA==;cALl0o+YMow4vMo0lV7Pcw=="
 ---
 

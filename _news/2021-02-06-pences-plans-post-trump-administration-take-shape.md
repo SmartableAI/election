@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pences-post-trump-administration-pl
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/"
 type: article
 quality: 150
-heat: 2170
+heat: 2190
 published: true
 
 provider:
@@ -1559,6 +1559,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/04/former-us-president-donald-trump-goes-on-trial.jpg"
         width: 1024
         height: 649
+        isCached: true
+  - title: "Who Are The Pivotal Figures In Trump's Senate Trial?"
+    excerpt: "Donald Trump -- remains the same, but several leading figures in the Senate proceedings have changed from the previous effort to oust the now-former president. So, too, have the charges. Trump was impeached in December 2019 for abuse of power and obstruction of Congress,"
+    publishedDateTime: 2021-02-07T02:17:00Z
+    webUrl: "https://www.ibtimes.com/who-are-pivotal-figures-trumps-senate-trial-3139509"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/06/donald-trump-is-the-only-us-president-ever.jpg"
+        width: 1024
+        height: 658
         isCached: true
   - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
     excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"

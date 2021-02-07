@@ -1569,6 +1569,20 @@ related:
         width: 1024
         height: 649
         isCached: true
+  - title: "Who Are The Pivotal Figures In Trump's Senate Trial?"
+    excerpt: "Donald Trump -- remains the same, but several leading figures in the Senate proceedings have changed from the previous effort to oust the now-former president. So, too, have the charges. Trump was impeached in December 2019 for abuse of power and obstruction of Congress,"
+    publishedDateTime: 2021-02-07T02:17:00Z
+    webUrl: "https://www.ibtimes.com/who-are-pivotal-figures-trumps-senate-trial-3139509"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/06/donald-trump-is-the-only-us-president-ever.jpg"
+        width: 1024
+        height: 658
+        isCached: true
   - title: "Capitol Riot Talk At Impeachment Trial Is Worst Nightmare For Trump Supporters"
     excerpt: "Political allies of former President Donald Trump are fearful of discussion of the Jan. 6 Capitol insurrection during next week's impeachment trial."
     publishedDateTime: 2021-02-05T20:36:00Z

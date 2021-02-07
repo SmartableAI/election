@@ -2199,6 +2199,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Kamala Harris Spent Her Historic First Full Day as Vice President"
+    excerpt: "Newly sworn-in Vice President Kamala Harris continued receiving congratulations from around the world on Thursday after taking the oath of office the day before and making U.S. history."
+    publishedDateTime: 2021-01-22T02:09:00Z
+    webUrl: "https://people.com/politics/how-kamala-harris-spent-her-historic-first-full-day-as-vice-president/"
+    ampWebUrl: "https://people.com/politics/how-kamala-harris-spent-her-historic-first-full-day-as-vice-president/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/how-kamala-harris-spent-her-historic-first-full-day-as-vice-president/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 75
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B780%2C359%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fkamala-36-2000.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "AKA sorority members celebrate Kamala Harris inauguration"
     excerpt: "CHICAGO (AP) — Elizabeth Shelby had her inauguration outfit planned weeks in advance: blue jeans, a Kamala Harris sweatshirt, a green coat, and pink Chuck Taylors as an homage to her sorority’s colors and Vice President Harris’ signature shoe."
     publishedDateTime: 2021-01-22T21:13:00Z
