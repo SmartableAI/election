@@ -537,6 +537,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Video of QAnon Shaman Emerges to Support Claim Rioters Took Cues From Donald Trump"
+    excerpt: "Jacob Chansley, also known as Jake Angeli, said he thought Trump had asked rioters to leave the Capitol: \"Because, dude, he won the f***ing day, he f***ing won!\""
+    publishedDateTime: 2021-02-07T10:37:00Z
+    webUrl: "https://www.newsweek.com/video-qanon-shaman-rioters-took-cues-donald-trump-1567375"
+    ampWebUrl: "https://www.newsweek.com/video-qanon-shaman-rioters-took-cues-donald-trump-1567375?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-qanon-shaman-rioters-took-cues-donald-trump-1567375?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1724107/qanon-shaman-jacob-chansley-trump-witness-riot.jpg"
+        width: 2500
+        height: 1632
+        isCached: true
   - title: "Biden tells congressional Democrats would consider limits on who gets COVID-19 checks"
     excerpt: "President Joe Biden told congressional Democrats on Wednesday he would not back down on including $1,400 checks for struggling Americans in his COVID-19 relief plan but would consider tighter limits on who gets them,"
     publishedDateTime: 2021-02-03T19:28:00Z

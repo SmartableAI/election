@@ -2,6 +2,63 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-20-racism-allowed-donald-trump-free-rein-to-terrorize-the-american-people-for-four-years-msnbc-analyst.md",
+      "title": "Racism allowed Donald Trump 'free rein to terrorize the American people for four years:' MSNBC analyst",
+      "excerpt": "New York Times editorial board member Mara Gay said Wednesday that President Trump had been allowed to \"terrorize the American people for four years\" because of racist elements in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/racism-donald-trump-terrorize-american-people-msnbc",
+      "originalUrl": "https://www.foxnews.com/media/racism-donald-trump-terrorize-american-people-msnbc",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a36ac25b-97d4-4e5c-a5b7-d48f780cccaf/5ec248a0-9c59-4fa8-a439-5f65b52eda9d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/racism-donald-trump-terrorize-american-people-msnbc.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/racism-donald-trump-terrorize-american-people-msnbc.amp",
+      "publishedDateTime": "2021-01-20T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-melania-trump-says-serving-as-first-lady-was-my-greatest-honor.md",
       "title": "Melania Trump says serving as first lady was 'my greatest honor'",
       "excerpt": "Melania Trump told a small crowd of supporters Wednesday that it was \"my greatest honor\" to serve as the first lady.",
@@ -652,7 +709,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4630,
+      "heat": 4650,
       "tags": null,
       "images": [
         {
@@ -1285,62 +1342,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-biden-announces-rachel-levine-as-pick-for-assistant-secretary-at-hhs-would-be-first-transgender-senate-confirmed-federal-official.md",
-      "title": "Biden announces Rachel Levine as pick for assistant secretary at HHS, would be first transgender Senate-confirmed federal official",
-      "excerpt": "President-elect Joe Biden has nominated Dr. Rachel Levine to serve as assistant health secretary, and she would make history as the first out, transgender federal official to be confirmed by the United States Senate, according to a statement Tuesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9gUqgHcIpY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9gUqgHcIpY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210119080307-01-rachel-levine-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/19/politics/rachel-levine-health-and-human-services/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/rachel-levine-health-and-human-services/index.html",
-      "publishedDateTime": "2021-01-19T06:33:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

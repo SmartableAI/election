@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-28-trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.md",
+      "title": "Trump meets with McCarthy in Florida to plan GOP House takeover in 2022",
+      "excerpt": "House GOP Leader Kevin McCarthy met with former President Trump at Mar-a-lago Thursday where the two agreed to work together on Republicans taking back the House in 2022.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fwi9dUj2ICg/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fwi9dUj2ICg/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Mccarthy.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-meets-with-mccarthy-in-florida-to-plan-gop-house-takeover-in-2022.amp",
+      "publishedDateTime": "2021-01-28T13:35:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-biden-urged-by-house-dems-to-extend-obamacare-benefits-to-daca-recipients.md",
       "title": "Biden urged by House Dems to extend ObamaCare benefits to DACA recipients",
       "excerpt": "More than 90 House Democrats led by Rep. Joaquin Castro are urging President Biden to extend ObamaCare health benefits to DACA recipients, in an effort some Republicans insist \"won't pass Congress\" if it were to be introduced as legislation.",
@@ -1608,62 +1664,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-biden-may-pick-up-the-tab-for-san-francisco-homeless-hotels.md",
-      "title": "Biden may pick up the tab for San Francisco homeless hotels",
-      "excerpt": "San Francisco hotels used to house homeless people may be fully funded by the federal government this year, thanks to an executive order signed by President Joe Biden signed last Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LEDT-uiJCNI/biden-may-pick-up-the-tab-for-san-francisco-homeless-hotels",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LEDT-uiJCNI/biden-may-pick-up-the-tab-for-san-francisco-homeless-hotels",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21013758433717.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-may-pick-up-the-tab-for-san-francisco-homeless-hotels.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-may-pick-up-the-tab-for-san-francisco-homeless-hotels.amp",
-      "publishedDateTime": "2021-01-24T13:58:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

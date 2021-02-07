@@ -2,6 +2,62 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-12-03-romney-calls-trumps-leadership-on-covid-19-a-great-human-tragedy.md",
+      "title": "Romney calls Trump's leadership on Covid-19 'a great human tragedy'",
+      "excerpt": "Republican Sen. Mitt Romney on Thursday blasted President Donald Trump's leadership -- or lack thereof -- during the deadly coronavirus pandemic as \"a great human tragedy.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K3U2LsdyrRM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K3U2LsdyrRM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200205144611-02-romney-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/mitt-romney-trump-coronavirus-leadership/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/mitt-romney-trump-coronavirus-leadership/index.html",
+      "publishedDateTime": "2020-12-03T15:44:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-republicans-demand-probe-into-padillas-35m-grant-to-biden-linked-firm-claim-misuse-of-taxpayer-funds.md",
       "title": "Republicans demand probe into Padilla's $35M grant to Biden-linked firm, claim 'misuse' of taxpayer funds",
       "excerpt": "EXCLUSIVE: Republicans on the House Oversight and House Administration Committees are demanding answers from California Secretary of State Alex Padilla, who has emerged the frontrunner to be appointed to Vice President-elect Kamala Harris’ Senate seat, about a “highly questionable” $35 million contract",
@@ -1317,63 +1373,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-watch-live-biden-holds-virtual-roundtable-with-workers-and-small-business-owners.md",
-      "title": "Watch live: Biden holds virtual roundtable with workers and small business owners",
-      "excerpt": "Watch live coverage as President-elect Joe Biden holds a virtual roundtable with struggling workers and small business owners on the impact of the economic crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-live-biden-holds-virtual-roundtable-with-workers-and-small-business-owners-96991813515",
-      "originalUrl": "https://www.nbcnews.com/video/watch-live-biden-holds-virtual-roundtable-with-workers-and-small-business-owners-96991813515",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/biden_afscme_thumb.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo96991813515",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96991813515",
-      "publishedDateTime": "2020-12-02T14:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

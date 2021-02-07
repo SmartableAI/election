@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-04-former-vp-pence-opens-transition-office-in-northern-virginia.md",
+      "title": "Former VP Pence opens transition office in northern Virginia",
+      "excerpt": "Former Vice President Mike Pence has opened a transition office in northern Virginia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2",
+      "originalUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp",
+      "publishedDateTime": "2021-02-03T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-usa-today-column-argues-tom-brady-has-gotten-undeserved-pass-for-supporting-trump-cites-white-privilege.md",
       "title": "USA Today column argues Tom Brady has gotten 'undeserved pass' for supporting Trump, cites 'white privilege'",
       "excerpt": "With Tom Brady days away from playing in his tenth Super Bowl, a USA Today sports columnist has taken aim at the NFL superstar over his past support of former President Donald Trump.",
@@ -1305,62 +1348,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-sen-kennedy-blasts-immeasurably-foolish-biden-orders-that-will-gut-louisiana-like-a-fish.md",
-      "title": "Sen. Kennedy blasts 'immeasurably foolish' Biden orders that will 'gut Louisiana like a fish'",
-      "excerpt": "Sen. John Kennedy, R-La., warned Tuesday that President Biden's sweeping executive orders related to the industrial energy sector and immigration will be detrimental to both the nation and, in the former case, his home state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RAcaTpjN_gA/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RAcaTpjN_gA/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad91f5b6-ed4f-41ac-b105-9fd686d6b5e1/e06686e2-9266-4384-8b53-bd22c3418899/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana.amp",
-      "publishedDateTime": "2021-02-02T17:16:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

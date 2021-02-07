@@ -2,6 +2,62 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-01-05-biden-trump-coronavirus-vaccine-rollout-is-off-to-a-god-awful-start.md",
+      "title": "Biden: Trump coronavirus vaccine rollout is 'off to a God-awful start'",
+      "excerpt": "President-elect Joe Biden blasted President Trump on Monday, as he campaigned with the two Democratic challengers in Atlanta on the eve of Georgia’s twin Senate runoff elections, where the Republican Senate majority’s at stake.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 570,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp",
+      "publishedDateTime": "2021-01-04T17:32:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-foley-lardner-concerned-by-partners-role-in-trump-call-to-ga-election-official.md",
       "title": "Foley & Lardner 'concerned' by partner's role in Trump call to GA election official",
       "excerpt": "Foley & Lardner said in a statement Monday that it is \"concerned by\" partner Cleta Mitchell's involvement in a conference call in which U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state,",
@@ -1257,62 +1313,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-iran-foreign-minister-warns-trump-fireworks-will-backfire-as-tensions-escalate.md",
-      "title": "Iran foreign minister warns Trump 'fireworks will backfire,' as tensions escalate",
-      "excerpt": "Amid heightened tensions between the U.S. and Iran, Iranian Foreign Minister Javad Zarif on Saturday warned President Trump that any \"fireworks would backfire.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkB2d3g5suw/iran-foreign-minister-trump-fireworks-tensions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkB2d3g5suw/iran-foreign-minister-trump-fireworks-tensions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da8e2e81-5d8e-4402-af75-20071631d3d5/a53734ae-089b-4aba-b13a-78de4459ea84/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/iran-foreign-minister-trump-fireworks-tensions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-foreign-minister-trump-fireworks-tensions.amp",
-      "publishedDateTime": "2021-01-02T08:40:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

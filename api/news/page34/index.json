@@ -2,6 +2,62 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-12-18-jill-biden-says-her-doctorate-is-among-her-proudest-achievements-i-worked-so-hard-for-it.md",
+      "title": "Jill Biden says her doctorate is among her proudest achievements: 'I worked so hard for it'",
+      "excerpt": "Jill Biden was surprised by a recent newspaper op-ed piece suggesting she stop using the \"Dr.\" title before her name, she told TV host Stephen Colbert on Thursday evening.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xkoYXLbWwYM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xkoYXLbWwYM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218030711-joe-and-jill-biden-on-late-night-with-stephen-colbert-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/jill-biden-responds-wsj-doctor-colbert-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/jill-biden-responds-wsj-doctor-colbert-trnd/index.html",
+      "publishedDateTime": "2020-12-18T05:21:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-covid-us-vice-president-mike-pence-to-receive-vaccine.md",
       "title": "Covid: US Vice-President Mike Pence to receive vaccine",
       "excerpt": "President Mike Pence is to receive the coronavirus vaccine live on television at later on Friday. The White House said the aim of the move was to \"promote the safety and efficacy of the vaccine and build confidence among the American people\".",
@@ -1306,63 +1362,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-cybersecurity-official-fired-by-trump-says-us-election-was-secure.md",
-      "title": "Cybersecurity Official Fired by Trump Says U.S. Election Was Secure",
-      "excerpt": "Christopher Krebs told a Senate panel that allegations that voting equipment was manipulated during the election are baseless, and that spreading them undermines confidence in democracy and the election outcome.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802?mod=lead_feature_below_a_pos1",
-      "originalUrl": "https://www.wsj.com/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802?mod=lead_feature_below_a_pos1",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-274231/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802",
-      "publishedDateTime": "2020-12-16T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

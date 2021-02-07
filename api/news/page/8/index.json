@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-27-mike-pence-wife-karen-reportedly-homeless-couch-surfing-in-indiana.md",
+      "title": "Mike Pence, wife Karen reportedly homeless, couch-surfing in Indiana",
+      "excerpt": "Reports are that the former Second Family is staying at the Indiana governor's cabin or crashing with kinfolk back in their home state.",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2021/01/27/mike-pence-homeless-indiana/",
+      "originalUrl": "https://thegrio.com/2021/01/27/mike-pence-homeless-indiana/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2021/01/ThePences-scaled.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2021/01/27/mike-pence-homeless-indiana/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/01/27/mike-pence-homeless-indiana/amp/",
+      "publishedDateTime": "2021-01-27T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-mcdaniel-says-rnc-pushing-back-against-bidens-extreme-policies.md",
       "title": "McDaniel says RNC 'pushing back' against Biden's 'extreme policies'",
       "excerpt": "EXCLUSIVE – With Democrats in control of the White House and holding fragile majorities in the Senate and House of Representatives, the Republican National Committee (RNC) has a new mission.",
@@ -1313,62 +1356,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-trump-endorses-sarah-huckabee-sanders-for-arkansas-governor.md",
-      "title": "Trump endorses Sarah Huckabee Sanders for Arkansas governor",
-      "excerpt": "Former President Donald Trump endorsed Sarah Huckabee Sanders in her run for Arkansas governor on Monday night.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6RtMOZNBUTE/trump-endorses-sanders-in-run-for-arkansas-governor",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6RtMOZNBUTE/trump-endorses-sanders-in-run-for-arkansas-governor",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Sanders-Split.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp",
-      "publishedDateTime": "2021-01-25T20:54:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

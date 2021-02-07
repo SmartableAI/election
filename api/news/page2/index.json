@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-05-biden-set-to-accept-more-refugees-after-years-of-trump-restrictions.md",
+      "title": "Biden set to accept more refugees after years of Trump restrictions",
+      "excerpt": "U.S. President Joe Biden said on Thursday he plans to raise annual refugee admissions to 125,000 in the coming fiscal year, a more than eight-fold increase after former President Donald Trump slashed levels to historic lows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-refugees-order/biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSKBN2A42HN",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-refugees-order/biden-set-to-accept-more-refugees-after-years-of-trump-restrictions-idUSKBN2A42HN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550411081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1406U",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A42HN",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN",
+      "publishedDateTime": "2021-02-05T00:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-live-updates-biden-to-speak-on-economy-hours-after-senate-approves-relief-package.md",
       "title": "Live Updates: Biden to Speak on Economy Hours After Senate Approves Relief Package",
       "excerpt": "President Biden and Vice President Harris plan to meet with House Democratic leaders Friday morning to discuss the stimulus package. The Senate approved Mr. Biden’s plan but knocked out the $15 minimum wage.",
@@ -1308,49 +1360,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-former-vp-pence-opens-transition-office-in-northern-virginia.md",
-      "title": "Former VP Pence opens transition office in northern Virginia",
-      "excerpt": "Former Vice President Mike Pence has opened a transition office in northern Virginia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2",
-      "originalUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp",
-      "publishedDateTime": "2021-02-03T22:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

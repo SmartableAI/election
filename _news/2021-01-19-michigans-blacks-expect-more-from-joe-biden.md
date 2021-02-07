@@ -3321,6 +3321,22 @@ related:
         width: 4032
         height: 3024
         isCached: true
+  - title: "Biden inauguration: new US president pledges to unify a tense, divided nation while fighting a pandemic"
+    excerpt: "Joe Biden was sworn in as the 46th president of the United States on Wednesday, taking on the daunting task of trying to heal a nation that has been battered over the last year by a pandemic ..."
+    publishedDateTime: 2021-01-21T21:58:00Z
+    webUrl: "https://www.scmp.com/news/china/article/3118603/biden-inauguration-new-us-president-pledges-unify-tense-divided-nation"
+    ampWebUrl: "https://amp.scmp.com/news/china/article/3118603/biden-inauguration-new-us-president-pledges-unify-tense-divided-nation"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/article/3118603/biden-inauguration-new-us-president-pledges-unify-tense-divided-nation"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 59
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/21/bf27514a-5b67-11eb-a99a-beae699a1a1d_image_hires_092339.jpg?itok=LwL3hvxP&v=1611192230"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden’s inauguration in extraordinary times, fact-checked"
     excerpt: "It was an inauguration like none before, squeezed between massive security and a pandemic that has killed over 400,000 Americans. Instead of crowds, a sea of American and state flags filled the National Mall in Washington."
     publishedDateTime: 2021-01-20T21:31:00Z

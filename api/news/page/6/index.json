@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-30-former-trump-dhs-officials-wolf-cuccinelli-morgan-join-heritage-foundation.md",
+      "title": "Former Trump DHS officials Wolf, Cuccinelli, Morgan join Heritage Foundation",
+      "excerpt": "Three former Trump-era Homeland Security officials, including former acting Secretary Chad Wolf, have joined the Heritage Foundation as fellows -- the latest move to a think tank by ex-Trump officials since leaving office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n3F5E3Ol7Qc/trump-dhs-officials-heritage-foundation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n3F5E3Ol7Qc/trump-dhs-officials-heritage-foundation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/469c3199-7d3a-4668-8d97-4817e9754965/1781159c-2ecc-42a4-a4f3-a154aa678ffc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-dhs-officials-heritage-foundation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-heritage-foundation.amp",
+      "publishedDateTime": "2021-01-30T06:41:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-donald-trump-expects-impeachment-trial-to-be-badge-of-honorbut-rethinks-2024-run.md",
       "title": "Donald Trump Expects Impeachment Trial to Be 'Badge of Honor'—But Rethinks 2024 Run",
       "excerpt": "The ex-president wanted to use the trial to relitigate his claims of election fraud, but Lindsey Graham told him, \"You don't want to go there.\"",
@@ -1276,58 +1332,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp",
       "publishedDateTime": "2021-01-28T20:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-palm-beach-considers-options-as-trump-remains-at-mar-a-lago.md",
-      "title": "Palm Beach considers options as Trump remains at Mar-a-Lago",
-      "excerpt": "The Town of Palm Beach, Florida, is considering its legal options as former President Donald Trump is still living at his Mar-a-Lago club, a possible violation of a 1993 agreement",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-28T18:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 1140
+heat: 1160
 published: true
 
 provider:
@@ -520,6 +520,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/03/USAT/09ff2c96-2839-4b4d-abc2-de91ca65db84-AP_Trump_Impeachment_Trial.jpg?auto=webp&crop=2330,1311,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Video of QAnon Shaman Emerges to Support Claim Rioters Took Cues From Donald Trump"
+    excerpt: "Jacob Chansley, also known as Jake Angeli, said he thought Trump had asked rioters to leave the Capitol: \"Because, dude, he won the f***ing day, he f***ing won!\""
+    publishedDateTime: 2021-02-07T10:37:00Z
+    webUrl: "https://www.newsweek.com/video-qanon-shaman-rioters-took-cues-donald-trump-1567375"
+    ampWebUrl: "https://www.newsweek.com/video-qanon-shaman-rioters-took-cues-donald-trump-1567375?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-qanon-shaman-rioters-took-cues-donald-trump-1567375?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1724107/qanon-shaman-jacob-chansley-trump-witness-riot.jpg"
+        width: 2500
+        height: 1632
         isCached: true
   - title: "Trump changes defense team just over a week before impeachment trial is set to begin"
     excerpt: "A Trump spokesman confirmed that the previously designated lead attorney and another attorney who had been announced will not be part of the team."

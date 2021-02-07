@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-12-13-scalise-not-ready-to-accept-biden-win-let-the-legal-process-play-out.md",
+      "title": "Scalise not ready to accept Biden win: 'Let the legal process play out'",
+      "excerpt": "House Minority Whip Steve Scalise, R-La., said he will continue supporting efforts challenging the election results even as the Electoral College is set to officially elect Joe Biden as the next president on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPMjJGfmt9s/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPMjJGfmt9s/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46f18e67-c1f3-4d8b-af0c-1cc8176ab6f1/e519d3ae-105a-4f1a-b174-681aa265a5e2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-noncommittal-accepting-biden-victory-after-elector-college-vote-let-the-legal-process-play-out.amp",
+      "publishedDateTime": "2020-12-13T08:18:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-trump-tells-fox-friends-election-challenges-not-over-ahead-of-electoral-college-vote.md",
       "title": "Trump tells 'Fox & Friends' election challenges 'not over' ahead of Electoral College vote",
       "excerpt": "President Trump vowed that he and his campaign “are going to continue to go forward” with their legal challenges against November’s election results, despite the Electoral College getting set to cast their votes on Monday.",
@@ -1615,62 +1671,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-trump-administration-adds-china-nigeria-iran-to-list-of-countries-lacking-religious-freedom.md",
-      "title": "Trump administration adds China, Nigeria, Iran to list of countries lacking religious freedom",
-      "excerpt": "The Trump administration on Monday added China, Nigeria and Iran to the list of countries that engage in violating or allowing violations of religious freedom within their borders — part of U.S. efforts to end religious persecution around the world. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4fSEvVXMVc/trump-china-nigeria-iran-religious-freedom-violations",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4fSEvVXMVc/trump-china-nigeria-iran-religious-freedom-violations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbf6a5de-4c6e-402d-ad75-1713dbc7e628/f49d8ca1-c005-47ec-8e0b-075fcd435fc5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-china-nigeria-iran-religious-freedom-violations.amp",
-      "publishedDateTime": "2020-12-08T08:28:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

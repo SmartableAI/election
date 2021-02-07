@@ -2,6 +2,63 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-12-17-cybersecurity-official-fired-by-trump-says-us-election-was-secure.md",
+      "title": "Cybersecurity Official Fired by Trump Says U.S. Election Was Secure",
+      "excerpt": "Christopher Krebs told a Senate panel that allegations that voting equipment was manipulated during the election are baseless, and that spreading them undermines confidence in democracy and the election outcome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802?mod=lead_feature_below_a_pos1",
+      "originalUrl": "https://www.wsj.com/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802?mod=lead_feature_below_a_pos1",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-274231/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cybersecurity-official-fired-by-trump-last-month-says-u-s-election-was-secure-11608155802",
+      "publishedDateTime": "2020-12-16T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-trump-administration-blocks-funding-for-california-brings-doj-suit-over-abortion-issues.md",
       "title": "Trump administration blocks funding for California, brings DOJ suit over abortion issues",
       "excerpt": "The Trump administration announced two key actions Wednesday designed to protect entities that sought to avoid supporting abortion.",
@@ -1270,63 +1327,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-rep-ayanna-pressley-tells-gavin-newsom-to-appoint-a-black-woman-to-vp-elect-kamala-harris-senate-seat.md",
-      "title": "Rep. Ayanna Pressley tells Gavin Newsom to appoint a Black woman to VP-elect Kamala Harris' Senate seat",
-      "excerpt": "\"We absolutely cannot go backwards,\" Pressley tweeted Tuesday. \"With the election of @KamalaHarris to VP-elect, @CAgovernor must prioritize this leadership, perspective & representation in the vacated U.S. Senate seat & appoint a Black woman.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0GxkkNp08Q/ayanna-pressley-newsom-black-woman-harris-senate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0GxkkNp08Q/ayanna-pressley-newsom-black-woman-harris-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Karen-Bass-FOX.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ayanna-pressley-newsom-black-woman-harris-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ayanna-pressley-newsom-black-woman-harris-senate.amp",
-      "publishedDateTime": "2020-12-15T13:46:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],
