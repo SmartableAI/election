@@ -128,6 +128,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cheney says she will not resign despite call from state GOP, stands by Trump impeachment vote"
+    excerpt: "House Republican Conference Chair Rep. Liz Cheney, R-Wyo., said she will remain in office and in her position as one of the highest ranking Republicans in Congress. despite opposition following her vote to impeach former President Donald Trump."
+    publishedDateTime: 2021-02-07T14:43:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QaUkua7vFn4/cheney-not-resigning-state-gop-trump-impeachment-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/cheney-not-resigning-state-gop-trump-impeachment-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-not-resigning-state-gop-trump-impeachment-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e0dfedbd-dfc4-4cd5-b565-1133911fbe12/aec38a4d-cbe6-43fa-8ed2-28829a019de7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Gaetz slams Cheney after the high-profile House Republican voted to impeach Trump"
     excerpt: "She was one of only 10 Republicans who joined all 222 House Democrats in voting to impeach the president for inciting the Jan. 6 insurrection at the U.S. Capitol. "
     publishedDateTime: 2021-01-29T05:16:39Z

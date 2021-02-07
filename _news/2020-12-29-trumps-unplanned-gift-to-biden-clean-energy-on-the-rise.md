@@ -206,6 +206,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration moves to terminate Trump-era migration agreements"
+    excerpt: "Secretary of State Antony Blinken announced Saturday that the Biden administration has suspended and begun the process to terminate Trump-era migration agreements with El Salvador, Guatemala and Honduras.\n    \n"
+    publishedDateTime: 2021-02-07T13:48:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FMHUPMCoNqU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/biden-administration-asylum-policy-trump-era-migration-agreements/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/biden-administration-asylum-policy-trump-era-migration-agreements/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111224-09-immigration-file-honduran-migrants-guatemala-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden puts Trump's climate and environmental rollbacks in his crosshairs"
     excerpt: "Among incoming President Joe Biden's Day One priorities: Begin rolling back climate and environmental policies of the Trump administration, many of which were rollbacks of Obama-era or earlier rules.\n    \n"
     publishedDateTime: 2021-01-20T10:07:12Z

@@ -208,6 +208,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Full Panel: GOP splits between Trump and establishment wings"
+    excerpt: "David French, María Teresa Kumar, Anna Palmer and Michael Steele join the Meet the Press roundtable to discuss how Republicans and reckoning with party members who repeat disinformation and lies, plus the upcoming impeachment trial of former President Donald Trump."
+    publishedDateTime: 2021-02-07T14:51:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-gop-splits-between-trump-and-establishment-wings-100656197970"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100656197970"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100656197970"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709173237_mtp_full_panel_210207_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Strong Trump Supporters Picked to Head Michigan Republican Party"
     excerpt: "The state’s selection of party chair and vice chair hinged in large part on who was most loyal to the former president."
     publishedDateTime: 2021-02-07T02:36:00Z

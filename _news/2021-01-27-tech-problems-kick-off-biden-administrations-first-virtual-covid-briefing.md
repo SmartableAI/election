@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden needs to figure out what kind of GOP opposition he's facing"
+    excerpt: "The collision of the new President's agenda with the old one's impeachment trial this week sharpens the question: Just what kind of Republican opposition does the Democrat in the White House face?\n    \n"
+    publishedDateTime: 2021-02-07T13:00:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U4ULuj9_zu8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/biden-republican-opposition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/biden-republican-opposition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201202002-mcconnell-marjorie-taylor-greene-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here's what budget reconciliation is (and why it matters for Biden's stimulus)"
     excerpt: "As President Joe Biden pursues a bipartisan Covid-19 relief deal, Senate Democrats are laying the groundwork for passing relief without any Republican votes using a procedural shortcut known as budget reconciliation.\n    \n"
     publishedDateTime: 2021-02-01T21:09:00Z
@@ -124,6 +140,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204214958-super-bowl-tampla-florida-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Biden turns to skills that powered his 2020 victory to sell Covid-19 relief "
+    excerpt: "Nearly three weeks into office, President Joe Biden is trying to do what he knows how to do best -- connect with average Americans, letting them know he understands their suffering and offering words of comfort. But instead of doing so quietly on the campaign trail, he's now using those skills to win"
+    publishedDateTime: 2021-02-07T05:06:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PgZYl5kNJLo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/joe-biden-covid-19-stimulus-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/joe-biden-covid-19-stimulus-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201152949-01-biden-lincoln-0126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

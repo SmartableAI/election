@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-18-cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi.md",
+      "title": "\"Cowboys for Trump\" founder, who vowed to return with guns to Capitol for inauguration, arrested by FBI",
+      "excerpt": "Couy Griffin, a New Mexico county official, vowed to return with firearms to the Capitol for the inauguration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi/",
+      "originalUrl": "https://www.cbsnews.com/news/cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/18/d3a8a92e-60ee-4b48-af43-76616fd8245f/thumbnail/1200x630/788676b2e441068fc99b986f457ef8d2/couy-griffin.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi/",
+      "publishedDateTime": "2021-01-18T02:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-inauguration-day-2021-trump-to-have-own-elaborate-goodbye-ceremony.md",
+      "title": "Inauguration Day 2021: Trump To Have Own 'Elaborate' Goodbye Ceremony",
+      "excerpt": "President Trump is planning to hold a red-carpet send-off that would include a military band, a flypast by Air Force jets and a 21-gun salute on Jan. 20.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362",
+      "originalUrl": "https://www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/17/us-president-donald-trump-said-he-could-fix.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362?amp=1",
+      "publishedDateTime": "2021-01-17T17:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-a-quiet-sunday-pro-trump-protests-largely-unrealized-at-colorado-capitol-in-other-states.md",
       "title": "A quiet Sunday: Pro-Trump protests largely unrealized at Colorado Capitol, in other states",
       "excerpt": "As President-elect Joe Biden's Wednesday inauguration approaches, federal, state and local law enforcement agencies have braced for possible violence.",
@@ -1447,110 +1551,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-jack-dorsey-defends-banning-trump-but-admits-it-sets-dangerous-precedent.md",
-      "title": "Jack Dorsey defends banning Trump but admits it sets 'dangerous' precedent",
-      "excerpt": "Jack Dorsey opened up about the decision to ban President Donald Trump from the platform in a thread, saying he feels the action sets a \"dangerous\" precedent.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908",
-      "originalUrl": "https://abcnews.go.com/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Business/jack-dorsey2-01-gty-iwb-210114_1610635295543_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908",
-      "publishedDateTime": "2021-01-14T12:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-protected-habitat-for-imperiled-spotted-owls-is-slashed-trumps-latest-parting-gift-to-the-timber-industry.md",
-      "title": "Protected habitat for imperiled spotted owls is slashed: \"Trump's latest parting gift to the timber industry\"",
-      "excerpt": "The owl is listed as threatened under the Endangered Species Act and is losing nearly 4% of its population annually.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/spotted-owl-habitat-slashed-trump-administration/",
-      "originalUrl": "https://www.cbsnews.com/news/spotted-owl-habitat-slashed-trump-administration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/14/f9e871fa-d69a-4517-9302-121f220b86d3/thumbnail/1200x630/2a7a13f86794fbd234a91278c8ae4104/ap-16218741751211.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/spotted-owl-habitat-slashed-trump-administration/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/spotted-owl-habitat-slashed-trump-administration/",
-      "publishedDateTime": "2021-01-14T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

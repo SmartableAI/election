@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-07-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial.md",
+      "title": "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial",
+      "excerpt": "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709590167_mtp_clip_cassidyshowtrial_210207_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo100655685848",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100655685848",
+      "publishedDateTime": "2021-02-07T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-harris-flexes-power-as-senate-tiebreaker.md",
       "title": "Harris flexes power as Senate tiebreaker",
       "excerpt": "Early Friday morning, Vice President Kamala Harris did something Joe Biden never did in his eight years as vice president -- cast a tie-breaking vote.\n    \n",
@@ -804,7 +861,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 233,
+      "heat": 273,
       "tags": null,
       "images": [
         {
@@ -1422,7 +1479,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 635,
+      "heat": 675,
       "tags": null,
       "images": [
         {
@@ -1478,7 +1535,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 455,
+      "heat": 475,
       "tags": null,
       "images": [
         {
@@ -1608,62 +1665,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/29/politics/immigration-border/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/immigration-border/index.html",
       "publishedDateTime": "2021-01-29T16:31:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-biden-taps-iran-envoy-to-face-challenges-of-confronting-both-tehran-and-polarized-views-at-home.md",
-      "title": "Biden taps Iran envoy to face challenges of confronting both Tehran and polarized views at home",
-      "excerpt": "The Biden administration has tapped Robert Malley, a progressive foreign policy expert who served on the Obama administration's negotiating team for the Iran nuclear deal, as its new top envoy for Iran.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JXxUB8oA6-w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JXxUB8oA6-w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210129111003-restricted-file-robert-malley-2017-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/29/politics/rob-malley-iran-envoy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/rob-malley-iran-envoy/index.html",
-      "publishedDateTime": "2021-01-29T08:24:43-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

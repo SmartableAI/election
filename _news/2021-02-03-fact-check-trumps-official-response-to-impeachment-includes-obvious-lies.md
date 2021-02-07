@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/fact-check-trump-impeach
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/fact-check-trump-impeachment-response-senate/index.html"
 type: article
 quality: 173
-heat: 233
+heat: 273
 published: true
 
 provider:
@@ -44,6 +44,38 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201170254-david-schoen-bruce-castor-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's second impeachment trial set to kick off this week amid questions about what it will look like"
+    excerpt: "The second Senate impeachment trial of former President Donald Trump is scheduled to kick off Tuesday with some of the key questions about the trial itself -- including how long it will go and whether any witnesses will be called -- still unanswered.\n    \n"
+    publishedDateTime: 2021-02-07T11:01:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u_XsOAbs1LY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/trump-impeachment-trial-this-week-state-of-play/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/trump-impeachment-trial-this-week-state-of-play/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131911-103-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Schumer's office says it will accommodate Trump attorney request to delay impeachment trial during Sabbath"
+    excerpt: "Senate Majority Leader Chuck Schumer's office said the Senate will accommodate a request from one of former President Donald Trump's impeachment attorneys to halt Trump's impeachment trial during the Jewish Sabbath.\n    \n"
+    publishedDateTime: 2021-02-07T03:57:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gtclVhlE9GY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/trump-impeachment-lawyer-pause-trial-for-jewish-sabbath/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/trump-impeachment-lawyer-pause-trial-for-jewish-sabbath/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205121011-07-chuck-schumer-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

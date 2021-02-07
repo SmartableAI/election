@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-01-trump-loyalists-in-south-dakota-turn-on-longtime-senator-john-thune.md",
+      "title": "Trump loyalists in South Dakota turn on longtime senator John Thune",
+      "excerpt": "Longtime South Dakota Republican voter Jim Thompson is ready to leave the GOP, hoping that an exodus of Donald Trump supporters like him will punish the state's preeminent politician, Sen. John Thune,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2021/01/31/south-dakota-sen-john-thune-president-trump-loyalists-republicans/4330911001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2021/01/31/south-dakota-sen-john-thune-president-trump-loyalists-republicans/4330911001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/31/PSIF/bb995139-3a8b-403a-a69c-b264b3c42498-AP21031428313779.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4330911001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4330911001",
+      "publishedDateTime": "2021-01-31T11:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-31-grow-a-pair-marjorie-taylor-greene-and-mitt-romney-spar-over-trump-call.md",
+      "title": "'Grow a Pair': Marjorie Taylor Greene and Mitt Romney Spar Over Trump Call",
+      "excerpt": "Embattled Congresswoman Marjorie Taylor Greene of Georgia and Senator Mitt Romney of Utah traded jabs on Twitter Saturday after Greene said that former President Donald Trump voiced his support for her during a phone call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614",
+      "originalUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1720911/marjorie-taylor-green-capitol-hill.jpg",
+          "width": 2500,
+          "height": 1822,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614?amp=1",
+      "publishedDateTime": "2021-01-30T18:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-donald-trump-expects-impeachment-trial-to-be-badge-of-honorbut-rethinks-2024-run.md",
       "title": "Donald Trump Expects Impeachment Trial to Be 'Badge of Honor'—But Rethinks 2024 Run",
       "excerpt": "The ex-president wanted to use the trial to relitigate his claims of election fraud, but Lindsey Graham told him, \"You don't want to go there.\"",
@@ -1477,115 +1581,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-abcs-this-week-edits-out-schumers-unfortunate-trump-gaffe-on-senate-floor.md",
-      "title": "ABC’s 'This Week' edits out Schumer’s unfortunate Trump gaffe on Senate floor",
-      "excerpt": "Democratic Senate leader Chuck Schumer was ridiculed on Friday for an unfortunate gaffe he made while criticizing former President Donald Trump’s supposed influence on the Jan. 6 Capitol riot. But Schumer’s error was conveniently edited out in a clip that aired Sunday on ABC’s “This Week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe",
-      "originalUrl": "https://www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/219f5b85-85d3-4586-8e42-e015f131035e/05980f72-2d65-4a8d-bcf0-d16c88e6dd3c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/abcs-this-week-edits-out-schumers-gaffe.amp",
-      "publishedDateTime": "2021-01-24T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-republican-congressman-played-a-role-in-trumps-campaign-to-fight-election-loss-nyt.md",
-      "title": "Republican congressman played a role in Trump's campaign to fight election loss: NYT",
-      "excerpt": "A Republican U.S. congressman played a role in ex-President Donald Trump's efforts to oust the top Justice Department official and replace him with a loyalist willing to support efforts to overturn his election defeat,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 833,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548877639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N093",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29T0FS",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0FS",
-      "publishedDateTime": "2021-01-24T11:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

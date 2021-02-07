@@ -1587,6 +1587,17 @@ related:
         width: 1024
         height: 649
         isCached: true
+  - title: "Analysis: Trump's Senate Trial Matters Regardless of Outcome"
+    excerpt: "The outcome of former President Donald Trump's second impeachment trial may seem preordained, but the trial itself matters."
+    publishedDateTime: 2021-02-07T13:02:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-07/analysis-trumps-senate-trial-matters-regardless-of-outcome"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-07/analysis-trumps-senate-trial-matters-regardless-of-outcome?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-07/analysis-trumps-senate-trial-matters-regardless-of-outcome?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Who Are The Pivotal Figures In Trump's Senate Trial?"
     excerpt: "Donald Trump -- remains the same, but several leading figures in the Senate proceedings have changed from the previous effort to oust the now-former president. So, too, have the charges. Trump was impeached in December 2019 for abuse of power and obstruction of Congress,"
     publishedDateTime: 2021-02-07T02:17:00Z

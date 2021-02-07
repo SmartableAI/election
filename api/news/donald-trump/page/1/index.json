@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-07-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial.md",
+      "title": "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial",
+      "excerpt": "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709590167_mtp_clip_cassidyshowtrial_210207_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo100655685848",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100655685848",
+      "publishedDateTime": "2021-02-07T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-07-majority-of-americans-say-trump-should-be-convicted-barred-from-holding-federal-office-in-impeachment-trial-poll.md",
+      "title": "Majority of Americans say Trump should be convicted, barred from holding federal office in impeachment trial: POLL",
+      "excerpt": "In a new ABC News/Ipsos poll, a majority of Americans support the Senate convicting former President Trump in his second impeachment trial, but the partisan gap persists.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878",
+      "originalUrl": "https://abcnews.go.com/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/donald-trump-marjorie-taylor-greene-extremism-02-gty-llr-210206_1612646373841_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878",
+      "publishedDateTime": "2021-02-07T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump.md",
       "title": "Liz Cheney censured by Wyoming Republican party for voting to impeach Trump",
       "excerpt": "Cheney, the third ranking member of the House Republican leadership, was censured in a vote Saturday by her state’s Republican party",
@@ -114,7 +223,7 @@
       "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2210,
+      "heat": 2230,
       "tags": null,
       "images": [
         {
@@ -1422,110 +1531,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-trump-loyalists-in-south-dakota-turn-on-longtime-senator-john-thune.md",
-      "title": "Trump loyalists in South Dakota turn on longtime senator John Thune",
-      "excerpt": "Longtime South Dakota Republican voter Jim Thompson is ready to leave the GOP, hoping that an exodus of Donald Trump supporters like him will punish the state's preeminent politician, Sen. John Thune,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2021/01/31/south-dakota-sen-john-thune-president-trump-loyalists-republicans/4330911001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2021/01/31/south-dakota-sen-john-thune-president-trump-loyalists-republicans/4330911001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/31/PSIF/bb995139-3a8b-403a-a69c-b264b3c42498-AP21031428313779.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4330911001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4330911001",
-      "publishedDateTime": "2021-01-31T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-grow-a-pair-marjorie-taylor-greene-and-mitt-romney-spar-over-trump-call.md",
-      "title": "'Grow a Pair': Marjorie Taylor Greene and Mitt Romney Spar Over Trump Call",
-      "excerpt": "Embattled Congresswoman Marjorie Taylor Greene of Georgia and Senator Mitt Romney of Utah traded jabs on Twitter Saturday after Greene said that former President Donald Trump voiced his support for her during a phone call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614",
-      "originalUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1720911/marjorie-taylor-green-capitol-hill.jpg",
-          "width": 2500,
-          "height": 1822,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614?amp=1",
-      "publishedDateTime": "2021-01-30T18:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

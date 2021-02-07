@@ -1587,6 +1587,17 @@ related:
         width: 1024
         height: 649
         isCached: true
+  - title: "Analysis: Trump's Senate Trial Matters Regardless of Outcome"
+    excerpt: "The outcome of former President Donald Trump's second impeachment trial may seem preordained, but the trial itself matters."
+    publishedDateTime: 2021-02-07T13:02:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-07/analysis-trumps-senate-trial-matters-regardless-of-outcome"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-07/analysis-trumps-senate-trial-matters-regardless-of-outcome?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-07/analysis-trumps-senate-trial-matters-regardless-of-outcome?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
     excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"
     publishedDateTime: 2021-02-02T20:04:00Z
