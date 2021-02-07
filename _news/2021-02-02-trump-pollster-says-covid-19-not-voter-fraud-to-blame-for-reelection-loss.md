@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-lo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-loss-covid/index.html"
 type: article
 quality: 188
-heat: 808
+heat: 828
 published: true
 
 provider:
@@ -380,6 +380,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/02/02/us/politics/02new-washington-briefing-trump-poll1/02new-washington-briefing-trump-poll1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Lawyer Asks to Pause Impeachment Trial if It Runs Into Sabbath"
+    excerpt: "David Schoen, one of former President Donald J. Trump’s lawyers, has requested that the Senate suspend the impeachment trial at sundown on Friday and on Saturday, potentially upending plans for a fast trial."
+    publishedDateTime: 2021-02-07T00:35:00Z
+    webUrl: "https://www.nytimes.com/2021/02/06/us/politics/trump-impeachment-trial.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/06/us/politics/trump-impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/06/us/politics/trump-impeachment-trial.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/06/us/politics/06dc-impeach/06dc-impeach-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

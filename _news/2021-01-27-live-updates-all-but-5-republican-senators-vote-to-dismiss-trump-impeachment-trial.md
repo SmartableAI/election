@@ -221,6 +221,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Fed investigation into Trump hush money paid to Stormy Daniels goes cold"
+    excerpt: "The federal probe into hush money paid during the 2016 campaign to cover up former President Donald Trump’s alleged flings with sex workers Stormy Daniels and Karen McDougal appears to have gone"
+    publishedDateTime: 2021-02-07T00:01:00Z
+    webUrl: "https://nypost.com/2021/02/06/investigation-into-trump-hush-money-paid-to-stormy-daniels-goes-cold/"
+    ampWebUrl: "https://nypost.com/2021/02/06/investigation-into-trump-hush-money-paid-to-stormy-daniels-goes-cold/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/06/investigation-into-trump-hush-money-paid-to-stormy-daniels-goes-cold/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Stomy-Daniels.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump, Republicans took in $86M in last five weeks of 2020, FEC filing shows"
     excerpt: "Kicking up a fuss over election results may not result in victory — but it pays very, very well. Former President Trump and the Republican Party raked in $86 million over the last five weeks"
     publishedDateTime: 2021-01-30T20:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-optics-issue-kamala-har
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-optics-issue-kamala-harris-niece.amp"
 type: article
 quality: 185
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Kamala-Harris-Glass-AP-4.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "VP Kamala Harris embraces role as Senate tiebreaker"
+    excerpt: "Vice President Harris is flexing a rarely used muscle in her first weeks in office — the tiebreaker. Harris, 56, a former Senator from California, presided over two tie-breaking votes Friday on"
+    publishedDateTime: 2021-02-06T23:07:00Z
+    webUrl: "https://nypost.com/2021/02/06/vp-kamala-harris-embraces-role-as-senate-tiebreaker/"
+    ampWebUrl: "https://nypost.com/2021/02/06/vp-kamala-harris-embraces-role-as-senate-tiebreaker/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/06/vp-kamala-harris-embraces-role-as-senate-tiebreaker/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/harris-senate-tiebreaker.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Indians burn images of Kamala Harris' niece after she backs farm protests"
     excerpt: "Vice President Kamala Harris’ niece defended her support for Indian farmers locked in a standoff with the government after pro-Parliament supporters burned photos of her on the streets of New Delhi Thursday."

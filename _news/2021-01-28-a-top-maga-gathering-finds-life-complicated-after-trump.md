@@ -384,6 +384,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Lawyer Asks to Pause Impeachment Trial if It Runs Into Sabbath"
+    excerpt: "David Schoen, one of former President Donald J. Trump’s lawyers, has requested that the Senate suspend the impeachment trial at sundown on Friday and on Saturday, potentially upending plans for a fast trial."
+    publishedDateTime: 2021-02-07T00:35:00Z
+    webUrl: "https://www.nytimes.com/2021/02/06/us/politics/trump-impeachment-trial.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/06/us/politics/trump-impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/06/us/politics/trump-impeachment-trial.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/06/us/politics/06dc-impeach/06dc-impeach-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "As Trump Raked In Cash Denying His Loss, Little Went to Actual Legal Fight"
     excerpt: "The picture that emerged in new campaign finance reports was of Donald J. Trump waging a public relations effort to falsely argue that he had won the election rather than mounting a serious legal push."
     publishedDateTime: 2021-02-01T05:53:00Z

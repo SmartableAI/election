@@ -510,6 +510,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden wants Harris to have a major role. What it is hasn’t been defined."
+    excerpt: "President Joe Biden has worked to include VP Kamala Harris in nearly all his public appearances, and stress that she is a full partner in the decisions he makes."
+    publishedDateTime: 2021-02-07T00:34:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-biden-harris-role-undefined-20210206-bxkkfqxqjbcdzpnvpoutvxeifu-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-biden-harris-role-undefined-20210206-bxkkfqxqjbcdzpnvpoutvxeifu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-biden-harris-role-undefined-20210206-bxkkfqxqjbcdzpnvpoutvxeifu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 89
+    images:
+      - url: "https://www.baltimoresun.com/resizer/Up7iITOZFi3Xr4ZE2-SyQMFHPkU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/K2HXZREWKF727QCL2EYIW4VXGI.jpg"
+        width: 1200
+        height: 785
+        isCached: true
   - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
     excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
     publishedDateTime: 2020-12-30T00:00:00Z

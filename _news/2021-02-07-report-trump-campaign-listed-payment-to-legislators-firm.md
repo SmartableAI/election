@@ -863,6 +863,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "As Trump prosecutor, delegate gets her say on impeachment"
+    excerpt: "Stacey Plaskett couldn’t cast a vote last month when the House impeached former President Donald Trump House prosecutors prepare to make Trump impeachment case WASHINGTON -- Stacey Plaskett couldn't cast a vote last month when the House impeached former President Donald Trump."
+    publishedDateTime: 2021-02-06T23:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-prosecutor-delegate-impeachment-75723129"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-prosecutor-delegate-impeachment-75723129"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-prosecutor-delegate-impeachment-75723129"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_894159ec716342b0901f9671da92d9af_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
     publishedDateTime: 2021-01-30T06:21:00Z

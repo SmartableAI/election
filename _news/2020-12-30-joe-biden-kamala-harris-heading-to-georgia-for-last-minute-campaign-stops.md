@@ -521,6 +521,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden wants Harris to have a major role. What it is hasn’t been defined."
+    excerpt: "President Joe Biden has worked to include VP Kamala Harris in nearly all his public appearances, and stress that she is a full partner in the decisions he makes."
+    publishedDateTime: 2021-02-07T00:34:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-biden-harris-role-undefined-20210206-bxkkfqxqjbcdzpnvpoutvxeifu-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-biden-harris-role-undefined-20210206-bxkkfqxqjbcdzpnvpoutvxeifu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-biden-harris-role-undefined-20210206-bxkkfqxqjbcdzpnvpoutvxeifu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 89
+    images:
+      - url: "https://www.baltimoresun.com/resizer/Up7iITOZFi3Xr4ZE2-SyQMFHPkU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/K2HXZREWKF727QCL2EYIW4VXGI.jpg"
+        width: 1200
+        height: 785
+        isCached: true
   - title: "Willie Brown: How Kamala Harris can be the face of the Biden administration"
     excerpt: "Make no mistake, President Biden is the star of the new administration. But it was our own Kamala Harris in her new role as the multiracial, multicultural, Democratic female power ideal who stole the show on Inauguration Day."
     publishedDateTime: 2021-01-23T12:00:00Z
