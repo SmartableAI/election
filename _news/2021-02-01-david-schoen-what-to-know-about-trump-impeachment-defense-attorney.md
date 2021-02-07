@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/david-schoen-what-to-know-about-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp"
 type: article
 quality: 175
-heat: 715
+heat: 735
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Michigan GOP Rep. Meijer tries to defend anti-Trump impeachment vote, angers voters"
+    excerpt: "Michigan Rep. Peter Meijer, one of just 10 Republicans who voted to impeach then-President Donald Trump over the deadly attack on the Capitol, defended his decision while taking pointed criticism from voters Wednesday night."
+    publishedDateTime: 2021-02-07T06:27:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8v64lSdaw/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Meijer2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Who is Senate pro tempore Patrick Leahy and why is he presiding over Trump impeachment trial?"
     excerpt: "Supreme Court Chief Justice John Roberts presided over former President Trump's first impeachment trial a year ago for abuse of power and obstruction of Congress. "

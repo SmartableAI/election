@@ -175,6 +175,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "LIVE UPDATES: Wyoming GOP votes to censure Liz Cheney over Trump impeachment vote"
+    excerpt: "Follow for the latest updates on Trump's impeachment."
+    publishedDateTime: 2021-02-07T06:54:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uEtcbHEssew/live-updates-impeachment-trump-2-7-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-7-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-impeachment-trump-2-7-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e0dfedbd-dfc4-4cd5-b565-1133911fbe12/aec38a4d-cbe6-43fa-8ed2-28829a019de7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Alaska's Murkowski pledges to stay with Senate Republicans despite issues with Trump"
     excerpt: "Moderate GOP Sen. Lisa Murkowski has been very vocal for years that she’s no fan of Donald Trump’s takeover of the Republican Party."
     publishedDateTime: 2021-01-22T21:51:02Z

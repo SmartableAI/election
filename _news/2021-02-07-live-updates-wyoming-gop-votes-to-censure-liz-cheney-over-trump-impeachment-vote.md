@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Romney on Trump impeachment: 'If we're going to have unity,' there must be 'accountability'"
-excerpt: "Sen. Mitt Romney, R-Utah, expressed support for the upcoming impeachment trial of former President Donald Trump, telling \"Fox News Sunday\" that it was necessary to achieve justice."
-publishedDateTime: 2021-01-24T14:46:23Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ROpovByjxzo/romney-trump-impeachment-trial-fox-news-sunday"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ROpovByjxzo/romney-trump-impeachment-trial-fox-news-sunday"
-ampWebUrl: "https://www.foxnews.com/politics/romney-trump-impeachment-trial-fox-news-sunday.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-trump-impeachment-trial-fox-news-sunday.amp"
+title: "LIVE UPDATES: Wyoming GOP votes to censure Liz Cheney over Trump impeachment vote"
+excerpt: "Follow for the latest updates on Trump's impeachment."
+publishedDateTime: 2021-02-07T06:54:39Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uEtcbHEssew/live-updates-impeachment-trump-2-7-21"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uEtcbHEssew/live-updates-impeachment-trump-2-7-21"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-7-21.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-impeachment-trump-2-7-21.amp"
 type: article
-quality: 165
+quality: 170
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d395ede-3f62-4578-9c51-bb85dbc5b5ec/69007cf2-5cc4-4c47-8e93-d0f6f59af9f8/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e0dfedbd-dfc4-4cd5-b565-1133911fbe12/aec38a4d-cbe6-43fa-8ed2-28829a019de7/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -175,22 +175,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "LIVE UPDATES: Wyoming GOP votes to censure Liz Cheney over Trump impeachment vote"
-    excerpt: "Follow for the latest updates on Trump's impeachment."
-    publishedDateTime: 2021-02-07T06:54:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uEtcbHEssew/live-updates-impeachment-trump-2-7-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-7-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-impeachment-trump-2-7-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e0dfedbd-dfc4-4cd5-b565-1133911fbe12/aec38a4d-cbe6-43fa-8ed2-28829a019de7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Alaska's Murkowski pledges to stay with Senate Republicans despite issues with Trump"
     excerpt: "Moderate GOP Sen. Lisa Murkowski has been very vocal for years that she’s no fan of Donald Trump’s takeover of the Republican Party."
     publishedDateTime: 2021-01-22T21:51:02Z
@@ -254,6 +238,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Romney on Trump impeachment: 'If we're going to have unity,' there must be 'accountability'"
+    excerpt: "Sen. Mitt Romney, R-Utah, expressed support for the upcoming impeachment trial of former President Donald Trump, telling \"Fox News Sunday\" that it was necessary to achieve justice."
+    publishedDateTime: 2021-01-24T14:46:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ROpovByjxzo/romney-trump-impeachment-trial-fox-news-sunday"
+    ampWebUrl: "https://www.foxnews.com/politics/romney-trump-impeachment-trial-fox-news-sunday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-trump-impeachment-trial-fox-news-sunday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d395ede-3f62-4578-9c51-bb85dbc5b5ec/69007cf2-5cc4-4c47-8e93-d0f6f59af9f8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Gaetz traveling to Wyoming to take aim at Cheney amid uproar over her Trump impeachment vote"
     excerpt: "One of former President Trump’s top supporters in the House of Representatives is targeting one of Trump’s biggest House GOP critics. Rep. Matt Gaetz of Florida is heading to House Republican Conference Chair Liz Cheney’s home state of Wyoming on Thursday, where he’ll hold an event outside the state"
@@ -442,6 +442,6 @@ related:
         height: 853
         isCached: true
 
-secured: "b9STojMyCZ4KryI1jIVv+xBTV9TP8H+y3PsqS3PYFPrqMJFNijslUyfdnlV0ULZ98UE91JNJwOX685MAt/yYMW5NIM0zdW2J5vyk2RiSe1I67Rn3C3pEvPu7WnmZBJ0uSGfS0PBnYR/b0j8PQaflYZ2EGvMQ+gLIKru/bMD/Zt72hZXzg2BVbaTIkbyx7NEdaj6+uw2A0LK42PbfWTwI7efmHY9GTNybtV1498ki5BjZVyJoDb8iTQPM1bxRrPtmLfi9Q9UGvpvHHj2qjpnnd1LFtjplV/9d7s3mgVDipfX3v6xFVhsu7tn8Eov0HlaTbl3yUHfgefjSrUk20jP5RT6kXFHV/E+6YConbH0B/Kg=;amZRA3XbASLukWk671MBzg=="
+secured: "g8NqKsapMkslCRsne1HxR7uvdOKgWCeLnDO3B7C/QAKT+JKLkp26sZXeFYkQDFEZX1no0utGQZwM/C0tEBLytWqyYWzb+AWgOFHl+DiI1BLGI/7A0J31aT5UZztTI/IMYEIB3Xv+FFV/Gs94Ngn/jzpx1Lxq/JFWKElxaAlyAC2Lj7D/0NkeIH+r+G5S+c8kTW2eieYLbTFiZzQhUEiochJX2qlUT5impw7gqnCOaG0bEteDzniAUiZOtqhQA6Xl8cEAfs45+sflwMte90InxGVg5yZzYYnJiVuFrFD1Q2sKCN04HhBb7bMA3R57z5+s5odv2pCh7cFCu6l+WFuq+/5f627N4K2P2mjeCWRE6tg=;hLueD7e+nuSMzUlg4SKwyA=="
 ---
 

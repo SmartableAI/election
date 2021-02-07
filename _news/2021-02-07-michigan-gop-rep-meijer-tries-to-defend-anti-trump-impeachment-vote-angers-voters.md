@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Who is Senate pro tempore Patrick Leahy and why is he presiding over Trump impeachment trial?"
-excerpt: "Supreme Court Chief Justice John Roberts presided over former President Trump's first impeachment trial a year ago for abuse of power and obstruction of Congress. "
-publishedDateTime: 2021-02-05T16:27:34Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/50ddO2InFK4/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/50ddO2InFK4/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial"
-ampWebUrl: "https://www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
+title: "Michigan GOP Rep. Meijer tries to defend anti-Trump impeachment vote, angers voters"
+excerpt: "Michigan Rep. Peter Meijer, one of just 10 Republicans who voted to impeach then-President Donald Trump over the deadly attack on the Capitol, defended his decision while taking pointed criticism from voters Wednesday night."
+publishedDateTime: 2021-02-07T06:27:26Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8v64lSdaw/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8v64lSdaw/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters"
+ampWebUrl: "https://www.foxnews.com/politics/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters.amp"
 type: article
-quality: 164
+quality: 169
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/leahy.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Meijer2.jpg?ve=1&tl=1"
     width: 640
     height: 320
     isCached: true
@@ -191,19 +191,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Michigan GOP Rep. Meijer tries to defend anti-Trump impeachment vote, angers voters"
-    excerpt: "Michigan Rep. Peter Meijer, one of just 10 Republicans who voted to impeach then-President Donald Trump over the deadly attack on the Capitol, defended his decision while taking pointed criticism from voters Wednesday night."
-    publishedDateTime: 2021-02-07T06:27:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8v64lSdaw/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters.amp"
+  - title: "Who is Senate pro tempore Patrick Leahy and why is he presiding over Trump impeachment trial?"
+    excerpt: "Supreme Court Chief Justice John Roberts presided over former President Trump's first impeachment trial a year ago for abuse of power and obstruction of Congress. "
+    publishedDateTime: 2021-02-05T16:27:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/50ddO2InFK4/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-senate-pro-tempore-patrick-leahy-and-why-is-he-presiding-over-trump-impeachment-trial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Meijer2.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/leahy.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -476,6 +476,6 @@ related:
         height: 3765
         isCached: true
 
-secured: "E5V6L0yrvuatGsiHDh4/VE0brDaZ3jkj61+onDa9JpG6GAl3gNoApAYUWKXtNRhuEQorkd3HErzg2W1eph+6QWYyG3GYn5jM+5V/fNnskgv3T/01DYxz/nElMaorslc5M3avYTBKqKtnPDFCtIrZfU3sfSTNzxISRy62W4AvaghJKLwT9SaE42u0/qnmv9LkyGiZAAQkx0jDDMfUTOKh2MlxfGpbEU7OQew9MdWlqCZoPiLilnTz+kcKo6gFP/3NeUa9RqTxF7GZMTqeBISZRzxBJKgbRbSxi/YzuhqnVm+L+IVJNLK6SXAgEOvuDFVxyYsroTafXpmhlPYDX67dykqVLXT5G9iUfnx+ZAUrmZ8=;IAOmcnxF8kYhF+jrFFZD0Q=="
+secured: "DHJSeD5XwGj4uzuTLMT/q5kbQqdGWUQwmtJ6Q9/ESr0wh76iMBy/ct+qQ6+Ogj/0qrxE5cKhfNHV4vCX//jp88Ps5P3So3wfPwzY6y7PMhOwYHlEl7pdHXjqi1qVw8/vVlf0GQLgnaOexa1AX4igsnen6RMlNiIy4SJCzF06ZLB5INjKldnrRHKNVeChPM0XCOJMNMrM/ng2adHEo+92TK8r4QiU+qdkMNBU95OkkZJOzrB5BsS271eTaFOYXJ3/uMWs2Qo8Q7I4Gd/4KUiDlQ5XNtU2rKt0G6kxZlC8+zSuK5xS4M8AIdC46KGyaaGwp+5xGP/t0l6rqiwy9OlbkyUq7X+Vqlw9ijGSyab00LI=;LwvWmbnkP3ptU/Bbq0AHdA=="
 ---
 

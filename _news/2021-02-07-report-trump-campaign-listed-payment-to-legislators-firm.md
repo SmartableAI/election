@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Report: Trump campaign listed payment to legislator's firm"
+title: "Report: Trump campaign listed payment to legislator’s firm"
 excerpt: "A newspaper reports that former President Donald Trump’s reelection campaign says it paid over $6,000 to a business belonging to an Arizona lawmaker who sought to have the Legislature overturn Joe Bid"
-publishedDateTime: 2021-02-06T22:16:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/report-trump-campaign-listed-payment-legislators-firm-75731068"
-webUrl: "https://abcnews.go.com/Politics/wireStory/report-trump-campaign-listed-payment-legislators-firm-75731068"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/report-trump-campaign-listed-payment-legislators-firm-75731068"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/report-trump-campaign-listed-payment-legislators-firm-75731068"
+publishedDateTime: 2021-02-07T03:09:00Z
+originalUrl: "https://www.washingtonpost.com/national/report-trump-campaign-listed-payment-to-legislators-firm/2021/02/06/f2931150-68c7-11eb-bab8-707f8769d785_story.html"
+webUrl: "https://www.washingtonpost.com/national/report-trump-campaign-listed-payment-to-legislators-firm/2021/02/06/f2931150-68c7-11eb-bab8-707f8769d785_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/report-trump-campaign-listed-payment-to-legislators-firm/2021/02/06/f2931150-68c7-11eb-bab8-707f8769d785_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/report-trump-campaign-listed-payment-to-legislators-firm/2021/02/06/f2931150-68c7-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -1599,6 +1599,6 @@ related:
         height: 696
         isCached: true
 
-secured: "Zjy5J8yL0B01GorcGnzjWPX+w+Op6YT0Y5GrLHTRHNbUCXEmRSwzGiNhHbz5iyqUqbCpgtLXLpX6W4Jx84kc/uw/08YHL+71YXyjush8KOF5Qy/Z/t7EfnhF9cADZPQCua+wczeDR0btkb49xcOjqJZUr1wsjlHx2kd+3ZxQitW0OqaVV07RtnbkBLJR78Qornjh574LeSemd2ZTWYssn8in1J6wwk24G0GnN5dp76eUlArfvvY7CqQlyY8uHlNfBAM+vpzldBnIjwa45xvbFNeEyIF2Z9kBacs6aA14hh7tbAoQ8iMqtbMIsHn56QRVBuVsUdWH7mzaIepLBHgR0yY/He25XGah1okqrBJn4EU=;4zzX4G92mmaOEKoYkAoCfg=="
+secured: "j54hS4KBn6wFcRUk1S2QYqQGC1Rpx+q7peZ/apWxZ0dP+vqmp4dLhukMvmLar2NhN7bISbie7BJOUdT26+vSjdgFRwU1WlH8IrBMJcWzXU7nSB8UbSOIKHPKrDE/EfQ0LVEzvRA0Tm5jtO8PJBT1tktXgBJlj0JMbpOE7rSO89oWCvpLI9eR54tpL+pxdjiKuR8H9Do4nIbK/nQCFNAMaLB0WaXyk8C35OmYn4YAy9eBuZzFhdvMSwdy4Ekt5aghsJvnC7b5IbkwAX+HEXZ4aDKYZGjDlCn3xeO+iA0W0qJzxadkX6VsFztE0B9pMLpo8qGyLVKns/85jrh0lb5/yDNpkegnOxQ51a1z42afyVY=;QlqWOoP+YUnJHuDYbN8VYA=="
 ---
 

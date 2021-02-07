@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-a
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550362734&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131JW"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden wants fast COVID aid, but minimum wage hike in doubt"
+    excerpt: "President Joe Biden has laid out his case for moving fast and without Republicans to pass $1.9 trillion in coronavirus relief, but he is conceding that a key element of his plan — hiking the minimum w"
+    publishedDateTime: 2021-02-07T05:44:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/senate-approves-budget-bill-harris-casts-tie-breaker-75704930"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-approves-budget-bill-harris-casts-tie-breaker-75704930"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-approves-budget-bill-harris-casts-tie-breaker-75704930"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_41f95f07450c481683de09e6197e6cbc_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Democrats clear path for approval of Biden's $1.9 trillion COVID package"
     excerpt: "President Joe Biden and his Democratic allies in Congress forged ahead with their $1.9 trillion COVID-19 relief package on Friday as lawmakers approved a budget outline that will allow them to muscle Biden's plan through in the coming weeks without Republican support."

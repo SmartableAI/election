@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to meet with Democratic lawmakers on COVID-19 aid: White House"
-excerpt: "U.S. President Joe Biden will meet with fellow Democrats in Congress on Wednesday to discuss ongoing efforts to pass COVID-19 relief legislations, the White House said in a statement."
-publishedDateTime: 2021-02-03T18:55:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A31Z4"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A31Z4"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+title: "Biden wants fast COVID aid, but minimum wage hike in doubt"
+excerpt: "President Joe Biden has laid out his case for moving fast and without Republicans to pass $1.9 trillion in coronavirus relief, but he is conceding that a key element of his plan — hiking the minimum w"
+publishedDateTime: 2021-02-07T05:44:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/senate-approves-budget-bill-harris-casts-tie-breaker-75704930"
+webUrl: "https://abcnews.go.com/Business/wireStory/senate-approves-budget-bill-harris-casts-tie-breaker-75704930"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-approves-budget-bill-harris-casts-tie-breaker-75704930"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-approves-budget-bill-harris-casts-tie-breaker-75704930"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550196440&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121LW"
-    width: 832
-    height: 545
+  - url: "https://s.abcnews.com/images/Health/WireAP_41f95f07450c481683de09e6197e6cbc_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to meet with Democratic lawmakers on COVID-19 aid: White House"
+    excerpt: "U.S. President Joe Biden will meet with fellow Democrats in Congress on Wednesday to discuss ongoing efforts to pass COVID-19 relief legislations, the White House said in a statement."
+    publishedDateTime: 2021-02-03T18:55:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A31Z4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A31Z4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550196440&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121LW"
+        width: 832
+        height: 545
+        isCached: true
   - title: "Biden calls for expanded efforts to protect LGBTQ rights globally"
     excerpt: "U.S. President Joe Biden on Thursday issued a presidential memorandum aimed at expanding protection of the rights of lesbian, gay, bisexual, transgender and queer and intersex (LGBTQI) people worldwide,"
     publishedDateTime: 2021-02-05T09:17:00Z
@@ -78,22 +94,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550362734&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131JW"
         width: 817
         height: 545
-        isCached: true
-  - title: "Biden wants fast COVID aid, but minimum wage hike in doubt"
-    excerpt: "President Joe Biden has laid out his case for moving fast and without Republicans to pass $1.9 trillion in coronavirus relief, but he is conceding that a key element of his plan — hiking the minimum w"
-    publishedDateTime: 2021-02-07T05:44:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/senate-approves-budget-bill-harris-casts-tie-breaker-75704930"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-approves-budget-bill-harris-casts-tie-breaker-75704930"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-approves-budget-bill-harris-casts-tie-breaker-75704930"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_41f95f07450c481683de09e6197e6cbc_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Democrats clear path for approval of Biden's $1.9 trillion COVID package"
     excerpt: "President Joe Biden and his Democratic allies in Congress forged ahead with their $1.9 trillion COVID-19 relief package on Friday as lawmakers approved a budget outline that will allow them to muscle Biden's plan through in the coming weeks without Republican support."
@@ -190,6 +190,6 @@ related:
         height: 539
         isCached: true
 
-secured: "sUghq/oFVZ2l7P84vomdN8GTuJdM03otuHFkoBco5zjmLJ3STW8B2XtxpPrDvHgVH88fquB6KN/8/5QytI6UAKBLYbwbUAkUh0dXnhBs99JMuBStkwQkRQm8U/0R30NHFiEWWKq2hE8wFogzTXQ1bqhwFopTND1k8BaR+kRKrzJZ4EjcbIJHrcRUoefGzmluE3vk6haOw1FFcGXvox4akxfORzuGcZwht7n/WbRkrywEyeootLaSsK3pF19ga2x68WpP7v5gzlTBHN+oUFF5LqSyctMKDExizN7KMpuT6d3l6fwD1Xy79oO01ed0jNHfA1ouk/8YrmTVP9hrbp0c5986F2MmSbMlA8WyP+cojFc=;bXSQzon4cEtqZsa99HbdJw=="
+secured: "mM0omt0Aq+dYFRUNNsVkUE2F6f3IqLu4FTn4KAVBFilWjEV4wUXFc1vTUU/411+4MmLr+B2q+E2eagZVAmYPnjowocCD6atVLTjf9VLDJwgvT9LW2SRiZVGSXDeRZ/JpE9Up9clcZZmzIO1yrfxMOMnyB/N3JMRoaeWjsbrRP29tuOfJOS0y0iLFHIq9eXjw77F5Znu5ga78SKAxcJZc8BhAyX9aTY/dI364IUH+0lEIP7M4HehO+Q28sbRuK+vfPPWdRgbMUcfQi6whsfsC39JQssHGlk9u077gb6tsG3dXEH+2XxNzslC0ANvp1MWWsJ0P8jWBNFzpXEkzTIl+qVBPEIeuRoo1mrx4r0eEsbI=;saZYc/CUGDvGPsEQsp5EOg=="
 ---
 

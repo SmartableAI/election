@@ -879,21 +879,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Report: Trump campaign listed payment to legislator's firm"
+  - title: "Report: Trump campaign listed payment to legislator’s firm"
     excerpt: "A newspaper reports that former President Donald Trump’s reelection campaign says it paid over $6,000 to a business belonging to an Arizona lawmaker who sought to have the Legislature overturn Joe Bid"
-    publishedDateTime: 2021-02-06T22:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/report-trump-campaign-listed-payment-legislators-firm-75731068"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/report-trump-campaign-listed-payment-legislators-firm-75731068"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/report-trump-campaign-listed-payment-legislators-firm-75731068"
+    publishedDateTime: 2021-02-07T03:09:00Z
+    webUrl: "https://www.washingtonpost.com/national/report-trump-campaign-listed-payment-to-legislators-firm/2021/02/06/f2931150-68c7-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/report-trump-campaign-listed-payment-to-legislators-firm/2021/02/06/f2931150-68c7-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/report-trump-campaign-listed-payment-to-legislators-firm/2021/02/06/f2931150-68c7-11eb-bab8-707f8769d785_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
