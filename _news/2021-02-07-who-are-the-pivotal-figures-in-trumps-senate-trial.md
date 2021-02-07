@@ -1402,6 +1402,20 @@ related:
         width: 1024
         height: 794
         isCached: true
+  - title: "Gab's CEO says Trump doesn't use the platform, after reports wrongly suggest he returned to social media"
+    excerpt: "Since being banned from social media sites like Twitter and Facebook, Trump has largely been quiet online."
+    publishedDateTime: 2021-02-07T04:02:00Z
+    webUrl: "https://www.businessinsider.com/trump-breaks-silence-with-post-on-gab-denouncing-impeachment-trial-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/601e565d19cbd800188b01ae?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Pence Plans to Form Fundraising Group as He Moves Beyond Trump, Capitol Riot"
     excerpt: "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused fundraising committee that would help him maintain a relationship with donors,"
     publishedDateTime: 2021-02-01T00:26:00Z
@@ -1599,6 +1613,6 @@ related:
         height: 696
         isCached: true
 
-secured: "cIyjd973YS31chTrHfcfPoDICyt0jImY6yIRU22C0kYcK6sBuG42cMWwKglltawFY29XohNIsWkyQJax2vOxgMl8E2iwwPYhr9wNBj9IZXA3u/Hi4z6TX06Ubol/+7uvrmXiqAujHoGXS3zlrpAAYeG1EX+4wxSFi6KSI2JtOLBY/E7T0h+2V4Tts+L2PIEKH0c3Vpoh539aauW2KyZIRKqk+F26veWC6pktT3YC1tjobe7ct1zhEHXW7hQtdVBCQkfJwqfRFZYnAZsZXx5Vg5zQtKbCqCWsX7L/TX6h1li8SNA0E6APCvCWVlebjESOuY0PLsfsZVXiWRFY6EnC/NS6t9tdchvqOIwH5dL0PME=;BPPvsI1SpMj1b3htNLyzlg=="
+secured: "CsTeAUFKQVwwH8t7GOH0X6O6UX+JUpkkEDkC/RDrX6hBXrFq8YyT8BuSsBhGAJ8/UaICbWzI2h1FHWez8DH2u91GLhiBwx2L69MhFLuVLOlAorLwcTlrc/hOYP/5vAxIcCPfgVCU9WjL3FTpgM6puna2bGKwwP1R3jAgqTpjs5V7wKotUiXkLXTdA6tFERQ62z4skX8alKNnVFmG4LTrDWucN2YvsKhFzbyujbIM6rGpGHQRuAu6aTAuTXvcIUzobLEhDBqa0JKWxUm+hXp6XQ7BaAK3JBhO/LGxgzvomXuONe9/cM3EQmMGYcQCFhofU83kbP4ABTTdj2Uj6fp8YiuNiLY9suQT7KgOvNO5/oIo3q6cFIZm+Z9xsC5ukeQrKT0mDDtdJr8p2B2o54WBkXoU/z0Uelt3u81CnlC9oV/Uhge03F3uPNE5i9RKmHo5TpO6F/H/R3kn1cUOs65zdTaQ3RV43B0TEwO13+36SVnLIxyHPv5hWVsFXJJnv9j9Bq5thN7j2uJ9ZH60fjLntg==;p0nDuRaV370Wexpx7FI5hQ=="
 ---
 

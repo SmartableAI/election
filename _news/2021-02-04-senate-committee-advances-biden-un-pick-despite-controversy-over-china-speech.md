@@ -223,6 +223,24 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Drive to War in the Middle East"
+    excerpt: "President Joe Biden's Iran policy was conceived and is being implemented by the same people who negotiated the JCPOA under Obama, who argued in favor of empowering Iran. Read Full"
+    publishedDateTime: 2021-02-07T12:57:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/07/bidens_drive_to_war_in_the_middle_east_535381.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "Netanyahu Still Waiting for Biden's Phone Call"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-02-07T12:56:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "u2Cg218ESByotcV9vkfoipaNWCgx3qQDNfoWAMcqHk1t6PiAjqjDruCIFZEQ4QkE7H5hPHey8g/dPTNb8sv8WQpvouaVCbmxXKXJ4K/GDPN7ciHktxbFwQhOxcOUw1ky32gQ8VTelyH9BYGD+q65w1vlN89bk21aQToNJUaL5A6ZTHkfPaUWQrftQ1OkM/I+dJB7JsiUJAo51oZ6uxCWLP/i35+23nRdY0QJ0EORSIJPTR5GLp/9y83JeEKWEoD9JmxTO/DXSyV5mFsqW9/pwa2eSUML2+8sU3vGp8rRc2n8VNg8iIHGmvSw08KYJtyULpl3Uf61zY10a8IZ/cZr+YOkmSaUXSZNmtW4VssXpXA=;W0701fxRTtXNPycAXrab7g=="
 ---

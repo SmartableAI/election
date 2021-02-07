@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/doj-official-former-colleague-hunte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp"
 type: article
 quality: 175
-heat: 415
+heat: 455
 published: true
 
 provider:
@@ -223,6 +223,24 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Drive to War in the Middle East"
+    excerpt: "President Joe Biden's Iran policy was conceived and is being implemented by the same people who negotiated the JCPOA under Obama, who argued in favor of empowering Iran. Read Full"
+    publishedDateTime: 2021-02-07T12:57:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/07/bidens_drive_to_war_in_the_middle_east_535381.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "Netanyahu Still Waiting for Biden's Phone Call"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-02-07T12:56:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "uvr8Ke24N5R0rxuQRY8pxxdtuvb4u1Eu1fA+L+ZZX7pK7t/j7BTYxy2Odv4tTvsRIiNPRY93q/qYknLJkxy47B6fgzK6EgvYdvlx2kiyciT2LOj2YEmoOfVORFSmSjIVUSBhJTavXdsmYQ25VOehaJXbMI9tl1dZ130Mh98W0z0ZQv9hnvlMsmer9UCa7yl5s3/EI9TAVBBHSYGX6Mi7q35vF0HRKh5jZ9aYFU9SEFqGsOuqUTbsXeUGizXEBLVKPKmIc6kAmncBy1Xc8mrqXwHO5es4E6v/UxaHYgPZk4fAvS3axXT09v87c//U+jCsxk20kIhx85XETaV0pKszN87RUOCc8QVv7Okccd2iP/c=;Q2lXXa331hjm0EwzhP8Yeg=="
 ---

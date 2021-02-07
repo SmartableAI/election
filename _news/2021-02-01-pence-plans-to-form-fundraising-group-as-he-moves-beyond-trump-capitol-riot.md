@@ -1400,6 +1400,20 @@ related:
         width: 1024
         height: 794
         isCached: true
+  - title: "Gab's CEO says Trump doesn't use the platform, after reports wrongly suggest he returned to social media"
+    excerpt: "Since being banned from social media sites like Twitter and Facebook, Trump has largely been quiet online."
+    publishedDateTime: 2021-02-07T04:02:00Z
+    webUrl: "https://www.businessinsider.com/trump-breaks-silence-with-post-on-gab-denouncing-impeachment-trial-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/601e565d19cbd800188b01ae?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "As Trump's impeachment trial nears, Republicans mull questions on party's future"
     excerpt: "As former president Donald Trump’s second impeachment nears, lawmakers discussed on Jan. 31 whether he should be held accountable for the Capitol breach."
     publishedDateTime: 2021-01-31T18:35:00Z

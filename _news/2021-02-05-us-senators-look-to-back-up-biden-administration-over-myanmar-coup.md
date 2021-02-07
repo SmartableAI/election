@@ -109,6 +109,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Big challenge: Biden is pressed to end federal death penalty"
+    excerpt: "Joe Biden is the first sitting president to openly oppose the death penalty, and officials say he’s discussed the possibility of instructing the Justice Department to stop scheduling new executions"
+    publishedDateTime: 2021-02-07T12:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/big-challenge-biden-is-pressed-to-end-federal-death-penalty/2021/02/07/c85cb47e-6942-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/big-challenge-biden-is-pressed-to-end-federal-death-penalty/2021/02/07/c85cb47e-6942-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/big-challenge-biden-is-pressed-to-end-federal-death-penalty/2021/02/07/c85cb47e-6942-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Democrats clear path for approval of Biden's $1.9 trillion COVID package"
     excerpt: "President Joe Biden and his Democratic allies in Congress forged ahead with their $1.9 trillion COVID-19 relief package on Friday as lawmakers approved a budget outline that will allow them to muscle Biden's plan through in the coming weeks without Republican support."
     publishedDateTime: 2021-02-06T13:13:00Z

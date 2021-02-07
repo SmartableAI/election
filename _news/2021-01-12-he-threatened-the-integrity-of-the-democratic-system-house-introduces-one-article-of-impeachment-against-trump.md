@@ -192,6 +192,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Democrats' big shift in Trump's second impeachment"
+    excerpt: "Democrats made a push for witnesses central to President Donald Trump’s first impeachment trial. But not this time. Senate Democrats are making it clear they’re taking a different approach than they did for Trump’s infamous Ukraine call."
+    publishedDateTime: 2021-02-07T12:06:00Z
+    webUrl: "https://www.politico.com/news/2021/02/07/democrats-trump-second-impeachment-466152"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/35/62/ec905c2e47ddb53142efc00f6531/ap21021750258411.png"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "QYSEhMmaKSGGjoMNJBJK8IZ8wraOkoJcpA9zdsfkxM7pTvyLB8ZZOiJFcoOyFSUep8UyDadIxnvxTDK874WEqi4TTwVC6S6t0A/y7ln9544ruXq7RiN8qlFBK4YM++0WmoCAkM1rZB2VAMTJwYfNu8uCRJKB3o/Y2UMRZl1nc0mBQM6d/BYMATPAYcqyfizNFUUTCEoxKHS7Day4yFVq6fKNYLexlOFNr2mQanDAi/ckAEml8THStwmt7RRu7or7bGXRlB9zuiD1U+ITor+8xWSeh8jJhNv4b+qhBommgkWZbGYTT/TKs+spyKK1dYycWRr03UguzNhCXvm9BkwtB3GV0uNsazc8lvGi+DYC79s=;rkvp2IIhRZKG9LAhkfm1ag=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pences-post-trump-administration-pl
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/"
 type: article
 quality: 150
-heat: 2190
+heat: 2210
 published: true
 
 provider:
@@ -1388,6 +1388,20 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2020/10/1279209484.jpg"
         width: 1024
         height: 794
+        isCached: true
+  - title: "Gab's CEO says Trump doesn't use the platform, after reports wrongly suggest he returned to social media"
+    excerpt: "Since being banned from social media sites like Twitter and Facebook, Trump has largely been quiet online."
+    publishedDateTime: 2021-02-07T04:02:00Z
+    webUrl: "https://www.businessinsider.com/trump-breaks-silence-with-post-on-gab-denouncing-impeachment-trial-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/601e565d19cbd800188b01ae?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Pence Plans to Form Fundraising Group as He Moves Beyond Trump, Capitol Riot"
     excerpt: "Former Vice President Mike Pence is beginning to build a political future without Donald Trump, including making plans to form a policy-focused fundraising committee that would help him maintain a relationship with donors,"
