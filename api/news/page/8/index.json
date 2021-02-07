@@ -2,6 +2,114 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-27-mcdaniel-says-rnc-pushing-back-against-bidens-extreme-policies.md",
+      "title": "McDaniel says RNC 'pushing back' against Biden's 'extreme policies'",
+      "excerpt": "EXCLUSIVE – With Democrats in control of the White House and holding fragile majorities in the Senate and House of Representatives, the Republican National Committee (RNC) has a new mission.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi1DgE_MUt4/mcdaniel-rncs-pushing-back-biden-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi1DgE_MUt4/mcdaniel-rncs-pushing-back-biden-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcdaniel-rncs-pushing-back-biden-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcdaniel-rncs-pushing-back-biden-policies.amp",
+      "publishedDateTime": "2021-01-27T03:11:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-report-israeli-settler-population-surged-during-trump-era.md",
+      "title": "Report: Israeli settler population surged during Trump era",
+      "excerpt": "A pro-settler group says Israel’s West Bank settler population has grown at a far higher rate than the country as a whole over the last four years",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-27T02:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-biden-says-hes-bringing-back-the-pros-for-virus-briefings.md",
       "title": "Biden says he’s ‘bringing back the pros’ for virus briefings",
       "excerpt": "President Joe Biden is dispatching the nation’s top scientists and public health experts to regularly brief the American public about the pandemic that has claimed more than 425,000 U.S. lives",
@@ -110,58 +218,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-27-biden-to-reopen-obamacare-markets-for-covid-19-relief.md",
-      "title": "Biden to reopen 'Obamacare' markets for COVID-19 relief",
-      "excerpt": "Fulfilling a campaign promise, President Joe Biden plans to reopen the HealthCare.gov insurance markets for a special sign-up opportunity geared to people needing coverage in the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_4ce7a743968f4008a13d04865fd4058c_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946",
-      "publishedDateTime": "2021-01-26T20:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-27-trump-economic-aide-larry-kudlow-to-host-show-on-fox-business-network.md",
       "title": "Trump economic aide Larry Kudlow to host show on Fox Business Network",
       "excerpt": "Fox Corp's news division has hired Larry Kudlow, a former top economic adviser to ex-President Donald Trump, as a contributor to Fox News and host of a new weekday show on the Fox Business Network, the company said on Tuesday.",
@@ -211,58 +267,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-white-house-says-biden-believes-nord-stream-2-pipeline-is-bad-deal-for-europe.md",
-      "title": "White House says Biden believes Nord Stream 2 pipeline is 'bad deal' for Europe",
-      "excerpt": "President Joe Biden believes the Nord Stream 2 natural gas pipeline is a \"bad deal for Europe\" and his administration will be reviewing restrictions on the project included in a bill that passed during the Trump administration,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-biden-nord-stream/update-1-white-house-says-biden-believes-nord-stream-2-pipeline-is-bad-deal-for-europe-idUSL1N2K12HE",
-      "originalUrl": "https://www.reuters.com/article/usa-biden-nord-stream/update-1-white-house-says-biden-believes-nord-stream-2-pipeline-is-bad-deal-for-europe-idUSL1N2K12HE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549153912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1G9",
-          "width": 806,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V29X",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V29X",
-      "publishedDateTime": "2021-01-26T17:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -330,7 +334,7 @@
       "originalUrl": "https://www.reuters.com/article/us-russia-usa-biden-putin-idUSKBN29V2AJ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -876,6 +880,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-26-watch-live-biden-to-deliver-remarks-on-covid-19-response.md",
+      "title": "Watch Live: Biden to deliver remarks on COVID-19 response",
+      "excerpt": "Biden promised it will be \"this spring\" when any American who wants a COVID-19 vaccine will be able to get one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/",
+      "originalUrl": "https://www.cbsnews.com/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 565,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/1c2d5e28-4740-448d-98b5-ac9222a755e8/thumbnail/1200x630/0b71298d7ef9696bca4127d1ca2abe07/gettyimages-1230789317.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/",
+      "publishedDateTime": "2021-01-26T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-fact-checking-7-statistical-claims-from-bidens-quite-factual-economic-speech.md",
       "title": "Fact-checking 7 statistical claims from Biden's (quite factual) economic speech ",
       "excerpt": "President Joe Biden recited a flurry of figures in a Friday speech in which he urged Congress to pass the $1.9 trillion pandemic relief package he calls the American Rescue Plan.\n    \n",
@@ -929,58 +985,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-biden-to-sign-new-executive-orders-on-his-racial-equity-agenda-live.md",
-      "title": "Biden to sign new executive orders on his racial equity agenda – live",
-      "excerpt": "President will give address on racial equality on Tuesday afternoon after senators are sworn in for Trump impeachment",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates?page=with:block-6010258c8f0869215d930d1d",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates?page=with:block-6010258c8f0869215d930d1d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 805,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/2cf58929b1222f15c3f8573f1f34e86f29f147c3/0_209_5550_3333/master/5550.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8d61721628dd9df049b57a80b2e99eae",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates",
-      "publishedDateTime": "2021-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {

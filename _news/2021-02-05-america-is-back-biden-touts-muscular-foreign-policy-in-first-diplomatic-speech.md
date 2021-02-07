@@ -31,20 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "AP-NORC Poll: Americans open to Biden crisis plan"
-    excerpt: "Two weeks into a new administration, a majority of Americans say they have at least some confidence in President Joe Biden and his ability to manage the myriad crises facing the nation, including the raging coronavirus pandemic."
-    publishedDateTime: 2021-02-04T22:23:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/04/ap-norc-poll-americans-open-biden-crisis-plan/4396171001/"
+  - title: "Biden declares 'diplomacy is back' as he outlines foreign policy agenda at state department – live"
+    excerpt: "President reiterated in speech the need for America to strengthen its global alliances – follow the latest"
+    publishedDateTime: 2021-02-04T22:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates?page=with:block-601bca0d8f08c3a6ff7fb6ca"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/04/joe-biden-donald-trump-impeachment-covid-coronavirus-liz-cheney-marjorie-taylor-greene-live-updates"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0c6d8cde-a671-42f2-8b99-6f08db9bee76_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: The Guardian
+      domain: theguardian.com
+    quality: 91
 
 secured: "kP5Z4Jx4QINpyUTlMV/GQ6uitUjXPVCXaxjODc75hs1VL09N1rzooUcXOd8V06wgdO3KL7vpabV0CtrtORXCIaP6E7ILTlmnZSQBoy4b8NapyUOLIlI44h2t6GZDvRBgSq9lOTPKqiiEp4QnYr8VH0Rh7uf00GZ9fReG/3xsfpppOw8udo5ZJxB2KZpt2fzV+sQrRFBfVA6MkR7ycNwSLx9x+1nnQgzJl6KUOIbsxetU2HMXLuJUjdToT/AwULhJ5IJraV8d2W7EsHcrYjeamzGubi/HwVhogwAjfpZfCtH1+wKVVdbgrgzwv/SqF3Wzoc8QVi4K2gCRhsi5VOxUDU0iciugKYGItEMa0qqmoc3ROrdJ5GFxll+g3GiZzgOaUQ8aOhXVyBkVdgMyN+JrzzqdV3QOYol8rNloyNaAkAgnTkP2PjoqKSA+4CfgcLn6oT9ELd43VpyLq5dHQxzXa9jzQb5J/toK7+ITuPBQudvQ9OistAFoYn/FBseXwCxePGdL47y+7hR48nAjKf2tDA==;45Niq5GJt5uI12aAKdztew=="
 ---

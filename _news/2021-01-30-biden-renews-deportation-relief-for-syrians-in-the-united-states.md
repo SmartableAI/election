@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y28W"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y28W"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 365
+published: true
 
 provider:
   name: Reuters
@@ -31,181 +31,192 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to reopen 'Obamacare' markets for COVID-19 relief"
-    excerpt: "Fulfilling a campaign promise, President Joe Biden plans to reopen the HealthCare.gov insurance markets for a special sign-up opportunity geared to people needing coverage in the coronavirus pandemic."
-    publishedDateTime: 2021-01-27T04:25:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946"
+  - title: "Biden presidency 'may herald new start for Saudi-Iranian relations'"
+    excerpt: "Existing quiet cooperation has been under way for months, say authors of Guardian comment article"
+    publishedDateTime: 2021-01-31T18:31:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/6c8daf2981862a54e6d90400e66a7e634c427b33/0_161_4928_2957/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6f3bdbb9c12686d47a4d2c8279692812"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden makes slow but steady progress on COVID relief: The Note"
+    excerpt: "The White House has managed to stay in the center of negotiations, despite forces in both parties that have an interest in pulling talks to the Capitol."
+    publishedDateTime: 2021-02-04T11:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_4ce7a743968f4008a13d04865fd4058c_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/the-note-president-joe-biden-covid-relief-schools-01-rt-llr-210203_1612400855123_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "GOP senators balk at $1.9 trillion price tag for Biden's COVID-19 bill"
-    excerpt: "Some Republican senators have raised concerns about passing another relief bill so soon after passing $1 trillion legislation."
-    publishedDateTime: 2021-01-27T11:52:00Z
-    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-cost-republican-senators/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-cost-republican-senators/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-cost-republican-senators/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/26/68dab874-c21b-4556-90b1-af7217166798/thumbnail/1200x630/993b8c863211e6b4f1e875eb8a050a63/gettyimages-1230802973.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden could change course in high court health care case"
-    excerpt: "The pending Supreme Court case on the fate of the Affordable Care Act could give the Biden administration its first opportunity to chart a new course in front of the justices"
-    publishedDateTime: 2021-01-31T12:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-change-high-court-health-care-case-75594477"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-change-high-court-health-care-case-75594477"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-change-high-court-health-care-case-75594477"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_501cf3f97da64e10973b11ac01e16c94_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden faces 'unity' test in meeting with GOP senators on COVID relief"
-    excerpt: "With a group of 10 Republican senators officially offering a counterproposal to President Joe Biden's COVID-19 relief bill, the president on Monday was set to face a real test of his campaign promise to work across the aisle and bring unity back to a politically fractured Washington."
-    publishedDateTime: 2021-02-02T01:30:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-faces-unity-test-meeting-republican-senators-covid/story?id=75611029"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-faces-unity-test-meeting-republican-senators-covid/story?id=75611029"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-faces-unity-test-meeting-republican-senators-covid/story?id=75611029"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-gop-covid-negotiations-oval-office-reut_hpMain_20210201-180830_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden to reopen healthcare.gov as people lose coverage amid COVID-19: report"
-    excerpt: "U.S. President Joe Biden plans to order the nation's online insurance marketplace, healthcare.gov, to reopen for at least a few months to offer Americans a way to buy health insurance amid the COVID-19 pandemic,"
-    publishedDateTime: 2021-01-26T14:07:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-insurance-idUSKBN29V1KO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V1KO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V1KO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549108836&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P0XP"
-        width: 856
-        height: 545
-        isCached: true
-  - title: "Biden said Republican proposal for $600 billion in COVID-19 aid 'way too small': Schumer"
-    excerpt: "U.S. Senate Democratic Leader Chuck Schumer said President Joe Biden told Democrats the proposal ten Senate Republicans have made for $600 billion in COVID-19 relief is \"way too small.\""
-    publishedDateTime: 2021-02-03T02:43:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUKKBN2A22ND"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A22ND"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A22ND"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550044488&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111HA"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts"
-    excerpt: "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said."
-    publishedDateTime: 2021-01-23T18:57:00Z
-    webUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912"
-    ampWebUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 113
-    images:
-      - url: "https://d.newsweek.com/en/full/1714793/anthony-fauci.jpg"
-        width: 2500
-        height: 1668
-        isCached: true
-  - title: "Biden says he won't settle for COVID-19 aid package that 'fails to meet the moment': White House"
-    excerpt: "U.S. President Joe Biden told a group of Republican senators on Monday he hoped his proposed $1.9 trillion COVID-19 relief package could pass with bipartisan support in the U.S. Congress, but he \"will not settle for a package that fails to meet the moment,"
-    publishedDateTime: 2021-02-02T01:53:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A204D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A204D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A204D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 112
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549921674&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1101W"
-        width: 824
-        height: 545
-        isCached: true
-  - title: "Despite 'productive' Republican meeting, Biden will not accept a scaled-down COVID-19 bill -White House"
-    excerpt: "After meeting with Republican senators at the White House on Monday, President Joe Biden appeared poised to push forward with his $1.9 trillion COVID-19 relief plan even if it fails to draw Republican support."
-    publishedDateTime: 2021-02-02T17:03:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A12TV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A12TV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A12TV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 109
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550004131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1112L"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden could change course in high court health care case"
-    excerpt: "The on the fate of the could give the Biden administration its first opportunity to chart a new course in front of the justices."
-    publishedDateTime: 2021-02-01T05:01:00Z
-    webUrl: "https://www.businessinsider.com/biden-could-change-course-in-high-court-health-care-case-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/biden-could-change-course-in-high-court-health-care-case-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-could-change-course-in-high-court-health-care-case-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
-    excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
-    publishedDateTime: 2021-01-26T14:17:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-insurance-idUSL1N2K11AJ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K11AJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K11AJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 99
-  - title: "Biden says covid relief bill 'has to pass' with or without Republican support"
-    excerpt: "President Joe Biden on Jan. 29 said the covid relief bill “has to pass” but did not say whether he is for budget reconciliation."
-    publishedDateTime: 2021-01-29T19:53:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/biden-says-covid-relief-bill-has-to-pass-with-or-without-republican-support/2021/01/29/a5a02c08-f2b9-47ad-9f8f-d4dbf038adf7_video.html"
+  - title: "Biden ending US support for Saudi-led offensive in Yemen"
+    excerpt: "President Joe Biden announced Thursday the United States was ending support for a grinding five-year Saudi-led military offensive in Yemen that has deepened suffering in the Arabian peninsula’s poorest country,"
+    publishedDateTime: 2021-02-04T21:17:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/ap-source-biden-picks-longtime-us-diplomat-as-yemen-envoy/2021/02/04/72854132-6704-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/ap-source-biden-picks-longtime-us-diplomat-as-yemen-envoy/2021/02/04/72854132-6704-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/ap-source-biden-picks-longtime-us-diplomat-as-yemen-envoy/2021/02/04/72854132-6704-11eb-bab8-707f8769d785_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 82
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden meets with House Democrats in push for $1.9T plan"
+    excerpt: "President Joe Biden is meeting with the House Democratic committee chairs who aim to put his $1.9 trillion coronavirus relief package on a fast track to becoming law"
+    publishedDateTime: 2021-02-05T16:45:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/senate-oks-fast-track-covid-aid-harris-casts-75707130"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/senate-oks-fast-track-covid-aid-harris-casts-75707130"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/senate-oks-fast-track-covid-aid-harris-casts-75707130"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_78f74ccaa556425c94c6bf206d2aea53_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "UPDATE 1-Biden's U.N. nominee warns U.S. absence allows China to thrive at world body"
+    excerpt: "U.S. President Joe Biden's nominee for ambassador to the United Nations stressed on Wednesday the importance of U.S. re-engagement with the 193-member world body in order to challenge efforts by China to \"drive an authoritarian agenda\"."
+    publishedDateTime: 2021-01-27T21:03:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-un-idUSL1N2K21L4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K21L4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K21L4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q16A"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "UPDATE 1-Biden says he does not expect minimum wage hike to be in COVID-19 relief bill"
+    excerpt: "U.S. President Joe Biden said in an interview released on Friday he does not expect his proposal for a hike in the minimum wage to $15 an hour to be included in his $1.9 trillion COVID-19 relief bill because of Senate rules."
+    publishedDateTime: 2021-02-06T00:28:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-wage/update-1-biden-says-he-does-not-expect-minimum-wage-hike-to-be-in-covid-19-relief-bill-idUSL1N2KB3C9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A52UR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A52UR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210206&t=2&i=1550529524&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141O2"
+        width: 824
+        height: 545
+        isCached: true
+  - title: "'Real people are hurting.' Biden says weak jobs report shows why $1.9 trillion in COVID relief is needed"
+    excerpt: "President Joe Biden pushes for $1.9 trillion in COVID relief as lackluster jobs report shows U.S. economy continues to sputter amid global pandemic."
+    publishedDateTime: 2021-02-05T23:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/05/biden-says-lackluster-jobs-report-reinforces-need-covid-relief/4402277001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4402277001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4402277001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/9fdef51e-e789-4520-94dd-a4236d4d57cb-AP21025782104966_2.jpg?auto=webp&crop=1023,575,x1,y91&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Biden threatened Myanmar sanctions. What are his options?"
+    excerpt: "Myanmar's military checkpoint is seen on the way to the congress compound in Naypyitaw, Myanmar 1, 2021. REUTERS/Stringer"
+    publishedDateTime: 2021-02-02T22:15:00Z
+    webUrl: "https://www.reuters.com/news/picture/biden-threatened-myanmar-sanctions-what-idUSKBN2A20ES"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549938362&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH11085"
+        width: 810
+        height: 532
+        isCached: true
+  - title: "AP-NORC Poll: Americans open to Biden crisis plan"
+    excerpt: "Two weeks into a new administration, a majority of Americans say they have at least some confidence in President Joe Biden and his ability to manage the myriad crises facing the nation, including the raging coronavirus pandemic."
+    publishedDateTime: 2021-02-04T22:23:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/04/ap-norc-poll-americans-open-biden-crisis-plan/4396171001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0c6d8cde-a671-42f2-8b99-6f08db9bee76_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden pushing for major immigration reforms, but another humanitarian crisis at the border could derail his agenda"
+    excerpt: "There are signs that a crisis could be brewing, from migrant caravans forming in Central America to asylum seekers protesting at the U.S. border."
+    publishedDateTime: 2021-01-29T21:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/immigration/2021/01/29/another-humanitarian-crisis-border-could-derail-bidens-agenda/4246680001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4246680001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4246680001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PPHX/edadfce1-ffd2-493e-b34d-83d803317283-AP21020798939360.jpg?auto=webp&crop=4206,2366,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden has a 'mandate' to deliver COVID-19 relief: White House deputy press secretary"
+    excerpt: "White House deputy press secretary Karine Jean-Pierre joined ABC News' \"Powerhouse Politics\" podcast to discuss COVID-19 relief."
+    publishedDateTime: 2021-02-04T00:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-mandate-deliver-covid-19-relief-white-house/story?id=75659343"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 98
+    images:
+      - url: "https://s.abcnews.com/images/Politics/karine-rt-er-210203_1612388213842_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "About that Bible Joe Biden used for swearing-in, it’s not related to Masons or the Illuminati despite what you may have heard"
+    excerpt: "In fact, Biden was sworn in on a Douay-Rheims Bible, an English translation of a Latin Bible. The Bible has been in the Biden family since the 1890s. He used the same Bible when he was sworn in twice as vice president and seven times as a senator from Delaware,"
+    publishedDateTime: 2021-01-30T14:04:00Z
+    webUrl: "https://www.oregonlive.com/nation/2021/01/about-that-bible-joe-biden-used-for-swearing-in-its-not-related-to-masons-or-the-illuminati-despite-what-you-may-have-heard.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2021/01/about-that-bible-joe-biden-used-for-swearing-in-its-not-related-to-masons-or-the-illuminati-despite-what-you-may-have-heard.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/01/about-that-bible-joe-biden-used-for-swearing-in-its-not-related-to-masons-or-the-illuminati-despite-what-you-may-have-heard.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 48
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LYFX6TWEFJAZJOPWXH7G3BEO24.jpg"
+        width: 4567
+        height: 3045
+        isCached: true
 
 secured: "aK8zlk6PG+tg+xMwtEy5fZt6Q2q82RhUpGfFPOgua6CWOL/CPkfzM5m5YB///QimysY7iZZXH5b4Yd7ZsP2ji9DzHB1Z8BAgqyU+39GQPnug1xKZSAOHrUz5CVjJSF7348XPKJ5Ji/YeaMy5XsicIsVlQTA1O3bEbP8iuhWOqDsqO+EfGjUqt0EwhStCLtXYPhY3Zai9cirtzjGmcK9QmVABtdwJ+D1EMOxYaMiDnPiSfU6CaGX/NJC7w49PB/jau6s7jKmoJ7h6cFCah1RjCgkp9DCy78lZX+j1OBb6tsNW+6nljBNULNu/FR3jaCP2xUrTT9531GkSUjQSKRd2OiFODMDpNoUKglETS8aGit8=;1UFvP2SlzVSI2/jz9WYwRA=="
 ---

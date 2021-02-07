@@ -2,6 +2,119 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-12-24-anti-trump-lincoln-project-republican-says-hes-reregistering-democrat.md",
+      "title": "Anti-Trump Lincoln Project ‘Republican’ says he’s reregistering Democrat",
+      "excerpt": "A co-founder of the anti-Trump Lincoln Project group, a PAC formed by a group of “Never Trump” Rebublicans with the goal of aiding Joe Biden in the 2020 presidential race, said on his podcast that he will reregister as a member of the Democratic Party.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EuLyhzOLoS8/rino-anti-trump-lincoln-project-democrat",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EuLyhzOLoS8/rino-anti-trump-lincoln-project-democrat",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Steve-Schmidt-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rino-anti-trump-lincoln-project-democrat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rino-anti-trump-lincoln-project-democrat.amp",
+      "publishedDateTime": "2020-12-23T17:44:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-24-california-conservatives-rebuke-trump-pardon-of-duncan-hunter.md",
+      "title": "California conservatives rebuke Trump pardon of Duncan Hunter",
+      "excerpt": "Trump granted a full pardon Tuesday to Hunter, who was set to begin an 11-month sentence at a federal prison in two weeks after pleading guilty to stealing campaign funds for personal use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/california/story/2020/12/23/california-conservatives-rebuke-trump-pardon-of-duncan-hunter-1350370",
+      "originalUrl": "https://www.politico.com/states/california/story/2020/12/23/california-conservatives-rebuke-trump-pardon-of-duncan-hunter-1350370",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/98/13/e2c9f1084e11a8d81236a705b9cb/191204-duncan-hunter-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T16:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-trump-pardons-former-campaign-chairman-paul-manafort.md",
       "title": "Trump pardons former campaign chairman Paul Manafort",
       "excerpt": "President Donald Trump has issued pardons and sentence commutations for 29 people, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law",
@@ -1204,119 +1317,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cyber-attack-happened-on-trumps-watch-when-he-wasnt-watching.amp",
       "publishedDateTime": "2020-12-22T14:07:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-23-biden-no-obvious-choice-yet-for-attorney-general.md",
-      "title": "Biden: No 'obvious choice' yet for attorney general",
-      "excerpt": "The president-elect also re-upped his commitment to not discuss his son's legal troubles with any AG candidates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/22/biden-no-attorney-general-yet-450008",
-      "originalUrl": "https://www.politico.com/news/2020/12/22/biden-no-attorney-general-yet-450008",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/0b/63/437fda84437f80dc3d864f2e690d/webp.net-resizeimage%20(48).jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/22/biden-no-attorney-general-yet-450008",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/22/biden-no-attorney-general-yet-450008",
-      "publishedDateTime": "2020-12-22T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-biden-hasnt-discussed-hunter-in-his-search-for-an-ag-some-stories-about-son-were-russian-disinformation.md",
-      "title": "Biden hasn't discussed Hunter in his search for an AG, some stories about son were 'Russian disinformation'",
-      "excerpt": "President-elect Joe Biden said in a press conference Monday that his son Hunter’s business dealings had not come up in discussions about his highly anticipated pick for attorney general. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/M8-eCabO4xc/biden-hasnt-discussed-hunter-in-his-search-for-an-ag-some-stories",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/M8-eCabO4xc/biden-hasnt-discussed-hunter-in-his-search-for-an-ag-some-stories",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Barr-Biden-DOJ.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-hasnt-discussed-hunter-in-his-search-for-an-ag-some-stories.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hasnt-discussed-hunter-in-his-search-for-an-ag-some-stories.amp",
-      "publishedDateTime": "2020-12-22T12:57:02-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

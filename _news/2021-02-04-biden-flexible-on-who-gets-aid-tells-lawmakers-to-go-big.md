@@ -79,6 +79,36 @@ related:
         width: 880
         height: 545
         isCached: true
+  - title: "Biden's U.N. pick to warn that U.S. absence allows China to thrive at world body"
+    excerpt: "U.S. President Joe Biden's nominee to be ambassador to the United Nations will stress on Wednesday the importance of U.S. re-engagement with the 193-member world body in order to challenge efforts by China to \"drive an authoritarian agenda."
+    publishedDateTime: 2021-01-27T16:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-un-idUSKBN29W17I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W17I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W17I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q16A"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden more bullish on vaccines, suggests 1.5M shots per day"
+    excerpt: "President Joe Biden on Monday appeared to boost his goal for coronavirus vaccinations in his first 100 days in office, suggesting that the nation could soon be vaccinating 1.5 million Americans on average per day."
+    publishedDateTime: 2021-01-25T23:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/25/biden-more-bullish-vaccines-suggests-1-5-m-shots-per-day/4253427001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e4004a43-0bab-437e-8c49-cf86e4a9f02b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "V20gFYDy+MVLju4pLCy1OXo2FVmZO6aP/YDJhBtEcZVfW915ZrmEu0Eq+mjhspk8loLkL57xf1z4RkEsBSVXK9Lyamex90zkgnVkecehNb8FxduPuOTs9sbyBMI6SEjynvLEHrUj4C67IzC5To9ucfKgsu1LiyU8xVmLRhZnzS4vT1OvsI+8PoCAKA5z1WLYcQ3PfPji4bT3aoe+rDluJMhICcw6b2w4F3AwiyyBarzsOx/0YpFGKDkDKx34EMxS6xRILq7ax/AKs0btvkT4YiE2lqizAo80ntWB27VafSCbnecOSB0NIGv1JfIVHjJbqjI2uA9l8cgB80f03LLnhL+eQgC666P4s7wcVb8PEUE=;Nnxfoi/5WarGG/BL135/kg=="
 ---

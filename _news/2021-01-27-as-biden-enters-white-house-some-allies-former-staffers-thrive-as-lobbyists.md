@@ -31,28 +31,44 @@ images:
     isCached: true
 
 related:
-  - title: "Mexican leader says Biden offers $4B for Central America"
-    excerpt: "Mexico’s president says that President Joe Biden has told him the U.S. would send $4 billion to help development in Honduras, El Salvador and Guatemala"
-    publishedDateTime: 2021-01-23T21:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816"
+  - title: "Biden signs orders to end ‘Muslim ban’, rejoin climate deal, WHO"
+    excerpt: "Just hours into his presidency, Joe Biden signs string of executive actions reversing key Trump administration policies. President Joe Biden looks signs his first executive orders in the Oval ..."
+    publishedDateTime: 2021-01-22T01:32:00Z
+    webUrl: "https://www.aljazeera.com/news/2021/1/21/biden-signs-orders-nix-muslim-ban-rejoin-paris-climate-accord"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2021/1/21/biden-signs-orders-nix-muslim-ban-rejoin-paris-climate-accord"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2021/1/21/biden-signs-orders-nix-muslim-ban-rejoin-paris-climate-accord"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Al Jazeera English
+      domain: aljazeera.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_7aad6260e03e4eb1af6cc90dc7555d01_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.aljazeera.com/wp-content/uploads/2021/01/AP_21020805654686-e1611205686390.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Biden to reinstate COVID-19 travel rules, add South Africa"
-    excerpt: "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr"
-    publishedDateTime: 2021-01-25T14:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp"
+  - title: "Biden to sign new executive orders on his racial equity agenda – live"
+    excerpt: "President will give address on racial equality on Tuesday afternoon after senators are sworn in for Trump impeachment"
+    publishedDateTime: 2021-01-26T14:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates?page=with:block-6010258c8f0869215d930d1d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/2cf58929b1222f15c3f8573f1f34e86f29f147c3/0_209_5550_3333/master/5550.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8d61721628dd9df049b57a80b2e99eae"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden aims for most ambitious US effort on climate change"
+    excerpt: "President Joe Biden is undertaking undertaking the most ambitious effort ever to cut America’s oil, gas and coal emissions and stave off the worst effects of climate change"
+    publishedDateTime: 2021-01-27T14:34:00Z
+    webUrl: "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ap-sources-biden-to-pause-oil-and-gas-sales-on-public-lands/2021/01/27/cbcc3b7c-609e-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -63,113 +79,145 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden to reinstate COVID travel rules, add South Africa"
-    excerpt: "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr"
-    publishedDateTime: 2021-01-25T13:36:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75467058"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75467058"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75467058"
+  - title: "Biden aims for most ambitious US effort on climate change"
+    excerpt: "President Joe Biden is undertaking the most ambitious effort ever to cut America’s oil, gas and coal emissions and stave off the worst effects of climate change"
+    publishedDateTime: 2021-01-27T21:17:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-sources-biden-pause-oil-gas-sales-public-75507955"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pause-oil-gas-sales-public-75507955"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pause-oil-gas-sales-public-75507955"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Travel/WireAP_cf6c3c66cb5d4a55b5e80f6769b46498_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_35fd541e3d434fa6a2947bf0050f6246_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden extends Europe, Brazil travel restrictions, adds South Africa"
-    excerpt: "U.S. President Joe Biden signed an order on Monday barring most non-U.S. citizens who have recently been in South Africa from entering the United States, effective Saturday."
-    publishedDateTime: 2021-01-26T04:40:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-travel-idUSKBN29U26W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U26W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U26W"
+  - title: "Biden rescinds abortion restrictions on US foreign aid"
+    excerpt: "President Joe Biden has rescinded a regulation that barred U.S. foreign aid from being used to perform or promote abortions"
+    publishedDateTime: 2021-01-29T00:04:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/biden-rescinds-abortion-restrictions-on-us-foreign-aid/2021/01/28/a01022ac-619b-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-rescinds-abortion-restrictions-on-us-foreign-aid/2021/01/28/a01022ac-619b-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-rescinds-abortion-restrictions-on-us-foreign-aid/2021/01/28/a01022ac-619b-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1549008929&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O1B3"
-        width: 778
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Republican lawmakers press Biden Commerce nominee on Huawei stance"
-    excerpt: "Three China hardliners in the Senate are calling on President Joe Biden's Commerce Department nominee to clarify if she would remove China's telecoms equipment giant Huawei Technologies Ltd from a trade blacklist under any circumstances."
-    publishedDateTime: 2021-01-30T03:39:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-huawei-congress/republican-lawmakers-press-biden-commerce-nominee-on-huawei-stance-idUSKBN29Y31T?edition-redirect=in"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y31T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y31T"
+  - title: "Joe Biden to Sign 3 Executive Orders on Climate Change—Here's What They Do"
+    excerpt: "The actions are the president's latest moves in an effort to address campaign promises and appease his supporters."
+    publishedDateTime: 2021-01-27T16:49:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-sign-3-executive-orders-climate-changeheres-what-they-do-1564882"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-sign-3-executive-orders-climate-changeheres-what-they-do-1564882?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-sign-3-executive-orders-climate-changeheres-what-they-do-1564882?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549618256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1PW"
-        width: 794
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1717934/joe-biden.jpg"
+        width: 2500
+        height: 1642
         isCached: true
-  - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
-    excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."
-    publishedDateTime: 2021-01-21T12:38:00Z
-    webUrl: "https://www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 115
-    images:
-      - url: "https://www.chicagotribune.com/resizer/8r1pkCCA_n_7FbKpLextDsEervE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/32432MOOUUPTGCJTRIA6JJ6H6Q.aspx"
-        width: 1200
-        height: 696
-        isCached: true
-  - title: "Live politics updates: 69% of Americans approve of Biden's plan to tackle pandemic, poll finds"
-    excerpt: "Fifty-seven percent of Americans believe Biden can follow-through on his promise to unite a divided America, according to a recent ABC News poll."
-    publishedDateTime: 2021-01-24T17:48:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/live-politics-updates-trump-impeachment-joe-biden/6692511002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6692511002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6692511002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/b7b61a20-f598-49c7-ae3b-e300c35f7f39-Sanders_1.jpg?auto=webp&crop=4999,2812,x0,y213&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'To heal, we must remember': Biden leads national mourning of 400,000 Americans killed by COVID-19"
-    excerpt: "\"It's hard sometimes to remember. But that's how we heal,\" Biden said from the Lincoln Memorial Reflecting Pool."
-    publishedDateTime: 2021-01-20T06:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/19/biden-leads-memorial-nearly-400-000-americans-killed-covid-19/4215250001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4215250001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4215250001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/8d45ca2d-ad8b-472e-88f0-fe849ccf76cb-AP21019841045074.jpg?auto=webp&crop=4245,2388,x0,y283&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden's inauguration address: \"This is America's day\""
-    excerpt: "In a 21-minute inaugural address, President Joe Biden declared \"democracy has prevailed\" as he pleaded for unity. \"This is America's day. This is democracy's day,\" Mr. Biden said. Watch his full speech."
-    publishedDateTime: 2021-01-20T17:50:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-inauguration-speech-watch-in-full-2021-01-20/"
+  - title: "Biden orders Department of Justice to phase out contracts with private prisons"
+    excerpt: "President Joe Biden on Tuesday ordered the Department of Justice to end its reliance on private prisons and acknowledge the central role government has played in implementing discriminatory housing policies."
+    publishedDateTime: 2021-01-27T11:42:00Z
+    webUrl: "https://www.cbsnews.com/news/private-prisons-justice-department-biden-executive-order/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/private-prisons-justice-department-biden-executive-order/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/private-prisons-justice-department-biden-executive-order/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 105
+    quality: 121
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/20/ac9c1308-2b58-40b0-811d-30ad5e8701b1/thumbnail/1200x630/b4d05d42f91a2fb247c1197479de4347/cbsn-fusion-joe-biden-inauguration-speech-thumbnail-630010-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/fb6f912e-13a7-4545-af8e-5c4d110ebf4c/thumbnail/1200x630/6af22f0125269db1ce7ba18ee72dead2/gettyimages-1230788926.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "White House says Biden believes Nord Stream 2 pipeline is 'bad deal' for Europe"
+    excerpt: "President Joe Biden believes the Nord Stream 2 natural gas pipeline is a \"bad deal for Europe\" and his administration will be reviewing restrictions on the project included in a bill that passed during the Trump administration,"
+    publishedDateTime: 2021-01-27T01:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-nord-stream/update-1-white-house-says-biden-believes-nord-stream-2-pipeline-is-bad-deal-for-europe-idUSL1N2K12HE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V29X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V29X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549153912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1G9"
+        width: 806
+        height: 545
+        isCached: true
+  - title: "Biden turns to US healthcare access in face of worrying Covid projections – live"
+    excerpt: "President to sign executive action on healthcare as experts warn of 500,000 death toll by February’s end"
+    publishedDateTime: 2021-01-28T14:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates?page=with:block-60129a7f8f08bf384c76498c"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/28/joe-biden-donald-trump-impeachment-kamala-harris-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/0e50b8cb4c26f84ae89963efaeb7b69bd14f7faa/0_164_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c372d56c3e18bd368af3f1ad6b9479d"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden is expected reinstate federal funding for abortions in an upcoming executive order"
+    excerpt: "As part of a series of healthcare actions, President Joe Biden plans to back ending provisions that bar federal funds from being used for abortions."
+    publishedDateTime: 2021-01-28T16:08:00Z
+    webUrl: "https://www.businessinsider.com/biden-reinstate-federal-funding-for-abortions-in-upcoming-executive-order-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-reinstate-federal-funding-for-abortions-in-upcoming-executive-order-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-reinstate-federal-funding-for-abortions-in-upcoming-executive-order-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/600b20e6bc6a6a0012f4a25c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden plans quick executive action on immigration, but warns of potential delay on legislation"
+    excerpt: "The president-elect told Latino leaders that his immigration bill may not pass during his first 100 days in office, citing the pandemic and Senate impeachment trial."
+    publishedDateTime: 2021-01-18T14:41:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-biden-executive-actions-100-days/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-biden-executive-actions-100-days/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-biden-executive-actions-100-days/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/18/7193907f-bbb6-4c59-b99c-32f10c3b05f7/thumbnail/1200x630g2/45711032312276ceda9238296fdf8067/gettyimages-1230650670.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Eye Opener: Biden signs slew of executive actions in first days as president"
+    excerpt: "President Joe Biden has already signed 29 executive actions during his first 55 hours in the White House. Also, January has now become the second deadliest month in the coronavirus pandemic. All that and all that matters in today's Eye Opener."
+    publishedDateTime: 2021-01-23T13:40:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-signs-slew-of-executive-actions-in-first-days-as-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 102
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/23/7ca836cb-bc96-4371-92fc-5cfbe204ab1c/thumbnail/1200x630/89b98f4d140361d53c81c26f8af3dc43/cbsn-fusion-eye-opener-biden-signs-slew-of-executive-actions-in-first-days-as-president-thumbnail-631980-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

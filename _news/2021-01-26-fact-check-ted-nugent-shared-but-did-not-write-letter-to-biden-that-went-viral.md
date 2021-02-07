@@ -79,6 +79,36 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden's U.N. pick to warn that U.S. absence allows China to thrive at world body"
+    excerpt: "U.S. President Joe Biden's nominee to be ambassador to the United Nations will stress on Wednesday the importance of U.S. re-engagement with the 193-member world body in order to challenge efforts by China to \"drive an authoritarian agenda."
+    publishedDateTime: 2021-01-27T16:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-un-idUSKBN29W17I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29W17I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29W17I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q16A"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden more bullish on vaccines, suggests 1.5M shots per day"
+    excerpt: "President Joe Biden on Monday appeared to boost his goal for coronavirus vaccinations in his first 100 days in office, suggesting that the nation could soon be vaccinating 1.5 million Americans on average per day."
+    publishedDateTime: 2021-01-25T23:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/25/biden-more-bullish-vaccines-suggests-1-5-m-shots-per-day/4253427001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e4004a43-0bab-437e-8c49-cf86e4a9f02b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "xYm89SsxxugOb84Lo+w7gRVu+pHz9ywtgGz0D2kW4JV+cKYTo2AHjMSFks2fjLTz3Saf86XEzHblcdE+Fpo5g4Y6uQDoxed96ZpvpzP0yJ/8hx0o8Rsqyh4ZuYNjUPRcnc5APfL53HOSd0O2+DIc6a5lmteJO0XCoMHkmzWXGzkhNAeI/optR8/uyTLIvDi1XyYlKCSh0RxZQMo4EWkutbDNdHSiMduysM+9hYb6k2XyL5KKaVBVTVqyIn8EjdvDh5I4egiz/KDpg3lJtdyzvmjGkv14Eu8dPv0EjSAgWc2rYw46i3NNUwKbL6MN1BZpC9oJF0M4ijWUW4Y9K6K0XaPHcJuGcv92RXauqPe+Gyc=;zAoRy29f5oMGU50iO4Xx6Q=="
 ---

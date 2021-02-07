@@ -47,6 +47,36 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Wyoming GOP censures Rep. Liz Cheney for voting to impeach Trump"
+    excerpt: "Cheney is the latest in a string of high-profile Republicans punished by their state or local GOP apparatuses for daring to criticize Trump."
+    publishedDateTime: 2021-02-07T03:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/06/wyoming-gop-censures-rep-liz-cheney-voting-impeach-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/06/wyoming-gop-censures-rep-liz-cheney-voting-impeach-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/06/wyoming-gop-censures-rep-liz-cheney-voting-impeach-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B7ZQA5DGVAI6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Wyoming GOP Censures Liz Cheney For Voting To Impeach Trump"
+    excerpt: "Rep. Cheney, third-ranking member of House Republican leadership, is the latest in a succession of Republican leaders censured by their state parties for acting in opposition to the former president."
+    publishedDateTime: 2021-02-07T04:24:00Z
+    webUrl: "https://www.npr.org/2021/02/06/964933035/wyoming-gop-censures-liz-cheney-for-voting-to-impeach-trump"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/06/ap21036693605839_wide-652fecc35dee492ef68942c50b08654c4f8bcecd.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
 
 secured: "YWHEXseuSDaHg2y7IlOUooXPG/H2IIumwhKJuT59k5X4llhLQCk85dqNjl08JZj/U7K6XHRJ1SFm+MWq44vBfnuyW3xbjgFrvilNtD/8hLHLe1xKxAYqGLkD92EzJbOITqbQkzbE2tlHYr/Vc97k1pgb5tHtqEthfwOC3kN3Z4OHYvfjE/0b/G2Dw2894ZDnkULuPM+472neOz7L2ptwd2+AJ7GHK5tiA44BWIWt8jL29jB2MFvmhojSGlNDteK+Nqyh/fONCcdJ7Mj25bo954pnKB8rXW0nr2+eprjRDg+/IsR9FbkJsB4r/0WloGnC/ZBsUFmwsmeS2QJHIMMXG+ymtsRatSw3oQ1rDEwPW/0=;kiJqXvgB8rCgVZuTEx8F2A=="
 ---

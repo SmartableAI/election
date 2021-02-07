@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V2AJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2AJ"
 type: article
 quality: 125
-heat: 245
+heat: 325
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden invites GOP lawmakers to White House virus relief talk"
+    excerpt: "President Joe Biden is inviting to the White House a group of 10 Republican senators who have proposed spending about one-third of what he is seeking in coronavirus aid"
+    publishedDateTime: 2021-02-01T03:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-invites-gop-lawmakers-to-white-house-virus-relief-talk/2021/01/31/60714afe-6439-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden HUD, economist nominees pledge to fight inequality, spar with Republicans"
     excerpt: "President Joe Biden's nominees for a key White House economic post and to lead the Department of Housing and Urban Development called on Thursday for more action to reduce inequities in the U.S. economy,"
     publishedDateTime: 2021-01-29T01:13:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/7540ab50-d556-4559-96ef-35e99a45306a/thumbnail/1200x630/ff5ee79b684be54c9e9014643354f4a0/ap20314484333168.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "A new White House under Biden: Discipline, diversity, dogs and social distancing"
+    excerpt: "On the morning of Jan. 20, hours before Joe Biden arrived at the White House as the 46th U.S. president, a clear plexiglass shield was erected at the guard's desk at the entrance to the West Wing housing the executive offices."
+    publishedDateTime: 2021-01-29T04:50:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-white-house-idAFKBN29X357"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN29X357"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN29X357"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210128&t=2&i=1549422619&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0R1JA"
+        width: 817
+        height: 545
         isCached: true
   - title: "Daily routine and a script are back in the Biden White House, but how long can it last?"
     excerpt: "It's unclear how long President Joe Biden can stick to his routine amid rising partisan conflicts in Congress and a slew of monumental challenges."
@@ -95,6 +127,22 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "Biden addresses racial bias in housing, directs DOJ to phase out use of private prisons in new executive orders"
+    excerpt: "\"These aren't feel good policies. The evidence is clear. Investing in equity is good for economic growth,\" said Susan Rice, head of the Domestic Policy Council."
+    publishedDateTime: 2021-01-27T02:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/26/joe-biden-sign-new-executive-orders-laying-out-racial-equity-agenda/4259711001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4259711001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4259711001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/a1e186e4-016a-436e-a20a-3567c57bfca6-Biden_pen.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "White House says Biden believes Nord Stream 2 pipeline is a bad deal for Europe"
     excerpt: "White House press secretary Jen Psaki said on Tuesday that President Joe Biden continues to believe the Nord Stream 2 natural gas pipeline is a bad deal for Europe."
     publishedDateTime: 2021-01-26T23:39:00Z
@@ -122,6 +170,20 @@ related:
       - url: "https://i.insider.com/6009014adb847c001918bfe0?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Biden takes the helm, enters the White House for the first time as chief executive: ‘Democracy has prevailed’"
+    excerpt: "Joe Biden was sworn in as the 46th president of the United States on Wednesday, declaring that “democracy has prevailed” and summoning American resilience and unity to confront the deeply divided nation’s historic confluence of crises."
+    publishedDateTime: 2021-01-20T21:56:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-inauguration-20210120-dqqqgg4rzvdd7dmjeijjwi5ycu-htmlstory.html"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 34
+    images:
+      - url: "https://www.courant.com/resizer/18_lYmq2EeE4oNDTkga9GfLyUak=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/D4QRYPKMPGG2JPIMXSYM4CXONM.aspx"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "TJ5czJAH9uTzXfQ1ZhMetTtExk95lcUAA1apLtZLSrChbYcn9lRcAyZ0XtgexwixJrU+xgWYCgIlj8Qtad5R+DUcDmJ5JXlqGIxH9MbUtipQysfVpOs6Xj3ILCW6MYhk38WIjTVjkNNje3BG/AClgOGPp52ASeM3okluXUlDnKpmoI7+2iHFCoV7ia9pRRpbwe/NmYS7c+q5/8kvPdrd2wX39ewhY9K/fToXorKNjyIUQxKW/xHZck67tl3phrU1zO9kyZyWllbQrpYiPN2l+3zQyyNUBbZflnNyApwlQkr6DGnQhNX5hhP1BgMJNX4TVYn7gCQvIuijPez9fzVpqQSgRK0JX27u9l/53eWf1ZU=;sFS5IvwS3t1hhrvKfBTPbA=="

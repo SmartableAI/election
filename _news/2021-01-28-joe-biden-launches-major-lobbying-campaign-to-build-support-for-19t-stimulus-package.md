@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers"
-    excerpt: "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,"
-    publishedDateTime: 2021-01-25T04:24:00Z
-    webUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026"
-    ampWebUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
+  - title: "Biden plans to sign executive orders boosting workers' rights and pushing for a $15 minimum wage for federal staff"
+    excerpt: "Biden is set to sign an order on Friday ensuring that people can still claim unemployment benefits if they turn down a job because of COVID-19 risks."
+    publishedDateTime: 2021-01-22T23:27:00Z
+    webUrl: "https://www.businessinsider.com/biden-executive-orders-federal-workers-rights-minimum-wage-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-executive-orders-federal-workers-rights-minimum-wage-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-executive-orders-federal-workers-rights-minimum-wage-2021-1?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
     images:
-      - url: "https://d.newsweek.com/en/full/1714910/biden-harris-white-house.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://i.insider.com/600abde421f52a0018cba02d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Some senators oppose the direct-payment part of Biden's stimulus plan because they think it gives too much money to the wealthy, report says"
     excerpt: "The bipartisan group of senators was said to have expressed its concerns during a call with the White House on Sunday."

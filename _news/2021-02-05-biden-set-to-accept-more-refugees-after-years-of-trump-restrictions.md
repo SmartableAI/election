@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 1120
+heat: 1140
 published: true
 
 provider:
@@ -444,6 +444,22 @@ related:
     quality: 122
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210206&t=2&i=1550529524&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141O2"
+        width: 824
+        height: 545
+        isCached: true
+  - title: "Biden says he does not expect minimum wage hike to be in COVID-19 relief bill"
+    excerpt: "U.S. President Joe Biden said in an interview released on Friday he does not expect his proposal for a hike in the minimum wage to $15 an hour to be included in his $1.9 trillion COVID-19 relief bill because of Senate rules."
+    publishedDateTime: 2021-02-07T03:27:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-wage/biden-says-he-does-not-expect-minimum-wage-hike-to-be-in-covid-relief-bill-idUSKBN2A52UR?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A52UR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A52UR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210206&t=2&i=1550593345&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141O2"
         width: 824
         height: 545
         isCached: true

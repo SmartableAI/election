@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Legal Lookahead: Biden readies new orders on immigration"
+    excerpt: "Biden readies new orders on immigration. Posted . President Joe Biden plans to take further steps moving away from his predecessor's policies on immigr"
+    publishedDateTime: 2021-01-30T21:11:00Z
+    webUrl: "https://www.reuters.com/video/watch/idRCV009B3W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210130&i=RCV009B3W&r=RCV009B3W&t=2"
+        width: 5957
+        height: 3848
+        isCached: true
   - title: "NLRB faces paralysis, legal challenges over Biden's firing of general counsel"
     excerpt: "The impending legal battle over President Joe Biden's firing of National Labor Relations Board General Counsel Peter Robb could hobble the agency, or at least create a major distraction, as the new administration pursues an ambitious pro-worker agenda,"
     publishedDateTime: 2021-01-31T22:16:00Z

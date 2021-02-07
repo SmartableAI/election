@@ -47,21 +47,21 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers"
-    excerpt: "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,"
-    publishedDateTime: 2021-01-25T04:24:00Z
-    webUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026"
-    ampWebUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
+  - title: "Biden plans to sign executive orders boosting workers' rights and pushing for a $15 minimum wage for federal staff"
+    excerpt: "Biden is set to sign an order on Friday ensuring that people can still claim unemployment benefits if they turn down a job because of COVID-19 risks."
+    publishedDateTime: 2021-01-22T23:27:00Z
+    webUrl: "https://www.businessinsider.com/biden-executive-orders-federal-workers-rights-minimum-wage-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-executive-orders-federal-workers-rights-minimum-wage-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-executive-orders-federal-workers-rights-minimum-wage-2021-1?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
     images:
-      - url: "https://d.newsweek.com/en/full/1714910/biden-harris-white-house.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://i.insider.com/600abde421f52a0018cba02d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "UZ1dQeRJzezPn54PwteP5c2w0t8Xey/L09K/Ge/CQvOjI8/0QKXtMK7DAhTSnhocJi9VFxqCT8Q8AnzKiWuLfNuqHmDfoVLTiVKdGLMmjUrK05fzCSSXls+NgkAJru00VgQmnhvak4Njix/i7a2VrbDzD0zQefjaHfZTspFeNzCqGkGTkcGaZ4AMTXBgXIOhD5OAXGZpi2rEe4BvidORYNyqIwv9jI84yY7EXPnf/D3zZd419efnjYHar5VDoVaTeZ1abWHqJEU8120+H/nUMolc07dnM6LL1EyLI9dpH8K6fpMBqFMU0QhY40kJx8J2R9Gm/itrsE+lEnck3rIab4MCKax7p3M6IL4doFvW0IM0cZ3stFZgRVFTcG7ZKTMrk1X9eLxzxaik97C6fXpacMYvJhPAOFqoLlcBMsZci1+83R9SrSmdVZ4lgGT9OOW3rfM4yX4/uXLfIPh2LvigefjacOQOWG4UCI9ePPzI5cTKURKtRB4RpcyODzP/d2YKD1QCpY8jnv1MGMHSKzbt8g==;Bn+WElFc4nRG2HLzQ8HG5A=="

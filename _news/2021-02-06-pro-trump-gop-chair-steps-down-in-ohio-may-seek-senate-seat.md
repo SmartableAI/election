@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Wyoming GOP censures Rep. Liz Cheney for voting to impeach Trump"
+    excerpt: "Cheney is the latest in a string of high-profile Republicans punished by their state or local GOP apparatuses for daring to criticize Trump."
+    publishedDateTime: 2021-02-07T03:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/06/wyoming-gop-censures-rep-liz-cheney-voting-impeach-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/06/wyoming-gop-censures-rep-liz-cheney-voting-impeach-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/06/wyoming-gop-censures-rep-liz-cheney-voting-impeach-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B7ZQA5DGVAI6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Former GOP Officials Warn of 'Permanent Stain' on Republicans if Trump's Not Held Accountable"
     excerpt: "\"Donald Trump blatantly violated his oath to protect and defend the Constitution,\" the group of Republicans and conservatives said."
     publishedDateTime: 2021-02-02T18:56:00Z
@@ -46,6 +62,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1722942/us-capitol-riot.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Wyoming GOP Censures Liz Cheney For Voting To Impeach Trump"
+    excerpt: "Rep. Cheney, third-ranking member of House Republican leadership, is the latest in a succession of Republican leaders censured by their state parties for acting in opposition to the former president."
+    publishedDateTime: 2021-02-07T04:24:00Z
+    webUrl: "https://www.npr.org/2021/02/06/964933035/wyoming-gop-censures-liz-cheney-for-voting-to-impeach-trump"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/06/ap21036693605839_wide-652fecc35dee492ef68942c50b08654c4f8bcecd.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
 
 secured: "qP7upZ+nJZ1EnYjSKyo1krnvfZRQt5mvW1HhEhc9PJ51jU9O9XeVQ17rbPan/SRMqXHsOyAtHdPSNkngDnhugRHLL+ZkvEtr9Y7dfOn9hquSVwOf2aAFHtMnUEcPW/KxU2tr6dpV5E9Ogwk0juEmRsmCC11nU/UPXLQSbtUOlRyizgaYU38u6GLJ8kul7zHL6qHXUdhC13icxD+TuksIE/+jvLPfMP6yCLvZ/jFjtGxEO2pX937WJ7b4F1HQVcYRMPMf+NCzeHBSnPMmG2lAaIHcfowLctVjK13FQsdErQ069CtTW0lUlRRsr1y0M2ym6TjIRnHS5S7CPf8+ku9YI/8l/aN4s+GoRZsysvkzgwg=;WInVsev+mEgqwsO7AN379A=="

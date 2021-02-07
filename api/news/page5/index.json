@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-01-trump-residency-at-mar-a-lago-under-palm-beach-legal-review.md",
+      "title": "Trump residency at Mar-a-Lago under Palm Beach legal review",
+      "excerpt": "Palm Beach, Fla., officials are conducting a legal review into former President Donald Trump's residency at Mar-a-Lago, Fox News confirmed Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/avlCXcjVz-I/florida-palm-beach-legal-review-trump-residency-mar-a-lago",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/avlCXcjVz-I/florida-palm-beach-legal-review-trump-residency-mar-a-lago",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp",
+      "publishedDateTime": "2021-02-01T10:54:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-up-for-democracy.md",
+      "title": "Joe Biden Threatens Sanctions Following Myanmar Coup, Says U.S. Will 'Stand Up For Democracy'",
+      "excerpt": "\"In a democracy, force should never seek to overrule the will of the people or attempt to erase the outcome of a credible election,\" the president said in his first statement on the issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870",
+      "originalUrl": "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1721873/joe-biden-statement-myanmar-coup.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-democracy-1565870?amp=1",
+      "publishedDateTime": "2021-02-01T10:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-david-schoen-what-to-know-about-trump-impeachment-defense-attorney.md",
       "title": "David Schoen: What to know about Trump impeachment defense attorney",
       "excerpt": "High-profile civil rights attorney David Schoen, who before Jeffrey Epstein's death was in discussions to join his legal team, will be one of the two top members of former President Donald Trump's legal team for his impeachment trial, which is set to start in earnest in the Senate next week.",
@@ -711,58 +819,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-01-biden-presidency-may-herald-new-start-for-saudi-iranian-relations.md",
-      "title": "Biden presidency 'may herald new start for Saudi-Iranian relations'",
-      "excerpt": "Existing quiet cooperation has been under way for months, say authors of Guardian comment article",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations",
-      "originalUrl": "https://www.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/6c8daf2981862a54e6d90400e66a7e634c427b33/0_161_4928_2957/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6f3bdbb9c12686d47a4d2c8279692812",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations",
-      "publishedDateTime": "2021-01-31T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-02-01-heres-what-to-exect-from-pences-post-vp-life.md",
       "title": "Here's what to exect from Pence's post-VP life",
       "excerpt": "Pence's relationship with former President Donald Trump, which, to put it mildly, faltered after the deadly Jan. 6 Capitol riot, does not appear to have improved over the last few weeks, NBC reports.",
@@ -974,7 +1030,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-administration-goals-20210131-hixvijvamfbjlfeszmsqnpzuzm-story.html?outputType=amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1283,58 +1339,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-donald-trump-expects-impeachment-trial-to-be-badge-of-honorbut-rethinks-2024-run.md",
-      "title": "Donald Trump Expects Impeachment Trial to Be 'Badge of Honor'—But Rethinks 2024 Run",
-      "excerpt": "The ex-president wanted to use the trial to relitigate his claims of election fraud, but Lindsey Graham told him, \"You don't want to go there.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-expects-impeachment-trial-badge-honor-rethinks-2024-run-1564677",
-      "originalUrl": "https://www.newsweek.com/donald-trump-expects-impeachment-trial-badge-honor-rethinks-2024-run-1564677",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1720738/donald-trump-impeachment-2024-capitol-riots.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-expects-impeachment-trial-badge-honor-rethinks-2024-run-1564677?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-expects-impeachment-trial-badge-honor-rethinks-2024-run-1564677?amp=1",
-      "publishedDateTime": "2021-01-30T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

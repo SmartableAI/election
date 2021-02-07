@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 1005
         isCached: true
+  - title: "Politics live updates: Biden to outline racial equity agenda; senators to be sworn in for impeachment trial"
+    excerpt: "President Joe Biden is turning the spotlight on racial equity, one of the four “converging crises” he has said is facing the nation."
+    publishedDateTime: 2021-01-26T14:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/26/politics-live-updates-senators-sworn-impeachment-trial/4254926001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4254926001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4254926001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/160636ec-103f-4a30-be2a-36cf75be6185-AP_Biden.jpg?auto=webp&crop=4876,2743,x1,y58&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Coronavirus updates: Single-dose vaccine from Johnson & Johnson could be 'game changer'; Biden to require masks on planes"
     excerpt: "A COVID vaccine being developed by New Jersey-based Johnson & Johnson could dramatically speed up the fight against the pandemic. Latest COVID news."
     publishedDateTime: 2021-01-21T18:20:00Z

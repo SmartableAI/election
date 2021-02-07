@@ -2416,6 +2416,22 @@ related:
         width: 911
         height: 477
         isCached: true
+  - title: "The huge stakes of Biden's new Covid-19 plan"
+    excerpt: "(CNN)President Joe Biden is so far as good as his word to \"manage the hell\" out of the pandemic, driven by urgency to revive a sickened, struggling nation and the certainty that his entire ..."
+    publishedDateTime: 2021-01-23T01:01:00Z
+    webUrl: "https://edition.cnn.com/2021/01/22/politics/joe-biden-coronavirus-plan-fauci-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/joe-biden-coronavirus-plan-fauci-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/joe-biden-coronavirus-plan-fauci-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121151243-01-biden-covid-remarks-0121-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Send us your questions for President Biden's Covid-19 team"
     excerpt: "What questions do you have for President Biden's Covid-19 team? Ask them here and they may be answered in a CNN Town Hall this Wednesday at 8pm ET."
     publishedDateTime: 2021-01-23T23:09:00Z

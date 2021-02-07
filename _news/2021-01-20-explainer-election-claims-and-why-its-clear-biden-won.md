@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/explainer-election-claims-and-why-it
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp"
 type: article
 quality: 120
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -25,22 +25,6 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden plans quick executive action on immigration, but warns of potential delay on legislation"
-    excerpt: "The president-elect told Latino leaders that his immigration bill may not pass during his first 100 days in office, citing the pandemic and Senate impeachment trial."
-    publishedDateTime: 2021-01-18T14:41:00Z
-    webUrl: "https://www.cbsnews.com/news/immigration-biden-executive-actions-100-days/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-biden-executive-actions-100-days/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-biden-executive-actions-100-days/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 113
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/18/7193907f-bbb6-4c59-b99c-32f10c3b05f7/thumbnail/1200x630g2/45711032312276ceda9238296fdf8067/gettyimages-1230650670.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "EXPLAINER: Biden's Iran problem is getting worse by the day"
     excerpt: "Joe Biden has an Iran problem. And, it’s getting more complicated by the day."
     publishedDateTime: 2021-01-05T15:45:00Z
@@ -52,6 +36,38 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Joe Biden has set sky-high expectations. Can he meet them?"
+    excerpt: "Back when the election was tightening and just a week away, Joe Biden went big. He flew to Warm Springs, the Georgia town whose thermal waters once brought Franklin Delano Roosevelt comfort from polio,"
+    publishedDateTime: 2021-01-19T13:39:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KMV2GSVBLRBFXG6Q3CXUGLMWEE.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Mine just south of Oregon-Nevada line may boost Joe Biden’s energy plan"
+    excerpt: "One of the keys to President Joe Biden’s $2 trillion clean energy plan could be a mineral that lies in a salt flat above a prehistoric volcano just south of the Oregon-Nevada line."
+    publishedDateTime: 2021-01-23T17:26:00Z
+    webUrl: "https://www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html"
+    ampWebUrl: "https://www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P724E5QASRBPRP6DSZO2LKZNLY.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "Id+fTBB9oNb9XumBEVZFANW2cvaQyz6fgnD7SUDg0hHij+ySzQ2N2g+aeh0LBkywg4XQ3Wnh0LzzNYif6H15DegTRmdQ6caqBYLal0I4fl9TgUlLZiuYQbmeKitf+OqxQ1Vj7kSHbd25QLN+mdeVcUfJlRCMwJlOo067/onZluF5FIFM85nBL/Zt12uKcZ4J7iqf7XpFEO3zTtqY+qk7wreWL3kw8rlIWSxQH9xOQXzAOz+YoJlfvmCVCybB/r02rsv2YXWqReCKfbpLwYefe/YBUy4JApaS0USTiQz/+vDi7UXrph01EQyZ2srPO5GNzY3q46WO/q2GvyBESDWm/NYwEVbpP2SUqTndH1zXrYk=;7L+I1DjqxO5HclVQOOwwfA=="
 ---

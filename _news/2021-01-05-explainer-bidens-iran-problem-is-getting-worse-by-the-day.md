@@ -36,21 +36,37 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
-  - title: "Biden plans quick executive action on immigration, but warns of potential delay on legislation"
-    excerpt: "The president-elect told Latino leaders that his immigration bill may not pass during his first 100 days in office, citing the pandemic and Senate impeachment trial."
-    publishedDateTime: 2021-01-18T14:41:00Z
-    webUrl: "https://www.cbsnews.com/news/immigration-biden-executive-actions-100-days/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-biden-executive-actions-100-days/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-biden-executive-actions-100-days/"
+  - title: "Joe Biden has set sky-high expectations. Can he meet them?"
+    excerpt: "Back when the election was tightening and just a week away, Joe Biden went big. He flew to Warm Springs, the Georgia town whose thermal waters once brought Franklin Delano Roosevelt comfort from polio,"
+    publishedDateTime: 2021-01-19T13:39:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 113
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/18/7193907f-bbb6-4c59-b99c-32f10c3b05f7/thumbnail/1200x630g2/45711032312276ceda9238296fdf8067/gettyimages-1230650670.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KMV2GSVBLRBFXG6Q3CXUGLMWEE.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Mine just south of Oregon-Nevada line may boost Joe Biden’s energy plan"
+    excerpt: "One of the keys to President Joe Biden’s $2 trillion clean energy plan could be a mineral that lies in a salt flat above a prehistoric volcano just south of the Oregon-Nevada line."
+    publishedDateTime: 2021-01-23T17:26:00Z
+    webUrl: "https://www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html"
+    ampWebUrl: "https://www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P724E5QASRBPRP6DSZO2LKZNLY.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "VFqjJDkGQ5sovGp8+1G3ToFTybzuRb4+GKSoXkQ2IDm4+o8ASkGtD4pf6q1I94t5nAOvPhsEuyKZBBplbCdMB7KxdFvqFRUe4FzUcM1cHbyMni3QWLJW5DaY5GnFrsOlYwJ0hKyyunGTEx2DiljxaQ1zGojORVl5yYd/cVGQXRzhcVH5CSpOshXJPeXWVNUa4ixqlxrXYokP6lIOr4PkEr/pM6uaTNYEXr17rvaQnd/r3fBM9Fjx2G1tLGnCl5dOfgAQzNVsiTbZviSlou6OcrfefZSl7O5iBwrFFPzkEnD3BXwBF+yRWyJ2FNT//cmSHUgiVt+7x8w+ZOTCmidEYFDJtOoEj1VMs9ezhr8diig=;I3itzwx/UZTXTJxJc3Fcyw=="

@@ -25,67 +25,21 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Watch live: Biden delivers remarks from State Department"
-    excerpt: "President Joe Biden will deliver a public address on Thursday afternoon. The remarks will come after the president and Vice President Harris visit with the Secretary of State and State Department officials."
-    publishedDateTime: 2021-02-04T16:35:00Z
-    webUrl: "https://thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks"
-    ampWebUrl: "https://thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks?amp"
+  - title: "'America is back' - Biden touts muscular foreign policy in first diplomatic speech"
+    excerpt: "U.S. President Joe Biden on Thursday promised a new era after the scattershot foreign policy of his predecessor, Donald Trump, declaring \"America is back\" on the global stage in his first diplomatic address as president."
+    publishedDateTime: 2021-02-05T05:29:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-diplomacy-idUKKBN2A501Y?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A501Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A501Y"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/1230bidenlede02022021.jpg"
-        width: 580
-        height: 326
-        isCached: true
-  - title: "Biden gives Calif. woman pep talk in weekly address revival"
-    excerpt: "President Joe Biden has given a pep talk to a California woman who was laid off because of the coronavirus pandemic"
-    publishedDateTime: 2021-02-06T18:08:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-gives-calif-woman-pep-talk-in-weekly-address-revival/2021/02/06/c03e43e6-68a4-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-gives-calif-woman-pep-talk-in-weekly-address-revival/2021/02/06/c03e43e6-68a4-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gives-calif-woman-pep-talk-in-weekly-address-revival/2021/02/06/c03e43e6-68a4-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Watch Live: Joe Biden delivers remarks after briefing from national security teams"
-    excerpt: "Mr. Biden's comments will follow a briefing from members of his national security and foreign policy agency review teams \"on their findings and key challenges that the Biden-Harris administration will inherit,"
-    publishedDateTime: 2020-12-28T14:50:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-biden-speech-watch-live-stream-today-2020-12-28/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-speech-watch-live-stream-today-2020-12-28/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 119
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/28/af11f1c6-2d69-40e3-bfd5-033879d99f30/thumbnail/1200x630/6cfef30a2d4d96a452691ce7ca18d8a6/gettyimages-1230276263.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden has a 'mandate' to deliver COVID-19 relief: White House deputy press secretary"
-    excerpt: "White House deputy press secretary Karine Jean-Pierre joined ABC News' \"Powerhouse Politics\" podcast to discuss COVID-19 relief."
-    publishedDateTime: 2021-02-04T00:48:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-mandate-deliver-covid-19-relief-white-house/story?id=75659343"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 98
-    images:
-      - url: "https://s.abcnews.com/images/Politics/karine-rt-er-210203_1612388213842_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550393558&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1400L"
+        width: 817
+        height: 545
         isCached: true
 
 secured: "CFUEoXrfd4hNJXcptaKmZl2E3DKVrCoj4KaoJ6s+GBTGSxm+HJtjuiHCKl9lhVZVfMbqi0bdXz1VJ9ZOMEPbmS5FUSLY5m1V7SbQQcUdHlNcWpxdgiXQB/cevnHPqBvkbjH/EHB3ZSECYiasgb42DAbygjIXaaSgphtp/bDuDHl9ZdYoFEK+eYCocdcnRcUTrfqYk0s+3Weth8hEWr3MhFZj1DsXmspe6+ZrRCX78C747EWzc886CHNgv4QKu26he+IY6dg0zac5O3mPjuDTUX6PJt9vdZPHmecGmD6oB6WXEl3aC3GTORU2XP8KTTG9zNWqnkma/O/C+s9U150lVDp9QkljcEsNUeknEOpgE2m3ctjjUM6tbsnFx28S/VXJxQY2H1xs49eYO6cwhQHNOi4BE+/Fg2xclomFIVpiJF4cb7FAghgXDfTV48N2DwrWGVrlQPoBCE1ZKHrH8+o8+NCmiCDAhloFwehZSYQwOH5nn9qF3/UMdx/WTjDsa4dfJVm0oOsZhNmwWd5alIqWzA==;pclUsznRjvgnng3vOl7uyw=="
