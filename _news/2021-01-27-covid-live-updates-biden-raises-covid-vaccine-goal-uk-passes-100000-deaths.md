@@ -384,6 +384,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Inside Bidenworld’s plan to punish the GOP for opposing Covid relief"
+    excerpt: "A robust sales job will follow passage (should it happen) as the president and his allies want to avoid the missteps of the Obama years."
+    publishedDateTime: 2021-02-08T10:39:00Z
+    webUrl: "https://www.politico.com/news/2021/02/08/biden-gop-covid-relief-punish-466995"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/08/biden-gop-covid-relief-punish-466995"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/08/biden-gop-covid-relief-punish-466995"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/81/ae/0f8373b1459caed3b00820901177/ap21036637556497-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden meets with GOP senators in 'frank' discussion about slimmed-down Covid relief"
     excerpt: "Ten Republican senators wrote a letter Sunday requesting a meeting with President Joe Biden to discuss a slimmed-down coronavirus relief plan that they say can win bipartisan support. The Republicans propose a relief package that is much smaller than Biden's $1."
     publishedDateTime: 2021-02-02T01:15:00Z

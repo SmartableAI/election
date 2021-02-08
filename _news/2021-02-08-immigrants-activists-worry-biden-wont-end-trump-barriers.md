@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Immigrants, activists worry Biden won't end Trump barriers"
+title: "Immigrants, activists worry Biden won’t end Trump barriers"
 excerpt: "President Joe Biden rushed to send the most ambitious overhaul of the nation’s immigration system in a generation to Congress"
-publishedDateTime: 2021-02-08T06:12:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/immigrants-activists-worry-biden-end-trump-barriers-75749427"
-webUrl: "https://abcnews.go.com/Politics/wireStory/immigrants-activists-worry-biden-end-trump-barriers-75749427"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/immigrants-activists-worry-biden-end-trump-barriers-75749427"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/immigrants-activists-worry-biden-end-trump-barriers-75749427"
+publishedDateTime: 2021-02-08T10:42:00Z
+originalUrl: "https://www.washingtonpost.com/politics/immigrants-activists-worry-biden-wont-end-trump-barriers/2021/02/08/69be6190-69d0-11eb-a66e-e27046e9e898_story.html"
+webUrl: "https://www.washingtonpost.com/politics/immigrants-activists-worry-biden-wont-end-trump-barriers/2021/02/08/69be6190-69d0-11eb-a66e-e27046e9e898_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/immigrants-activists-worry-biden-wont-end-trump-barriers/2021/02/08/69be6190-69d0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/immigrants-activists-worry-biden-wont-end-trump-barriers/2021/02/08/69be6190-69d0-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
 quality: 140
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_0a9b005796fa46a68ccec84a332dc213_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -892,6 +892,6 @@ related:
         height: 847
         isCached: true
 
-secured: "fe+v2CrcOGZQGhIi9AeSuA9SMSrW+L51mjYrYo9m7k+W/hmeMIhrEYhw13qpjTxSJMR8LF+7u7jEDCObUhQjOpReT9kM8wh0d6VGelgzdOzERFNKVdSfJyQRdX3wXmlAKRy6kgwJ/Ztu4REe15RtxkRkqc3wqBSy/biPpU3ZTcuja8d9z0UHSNKjJCSE6cZz+qItl3e3SM6vRhuwq8h9JShzgEcoajCGrPorI7viml883Ds6eP7Yzubg4Zv7/LqwGUR2ap7UhUywJ6JGJKf4DzbfcYxHixyrC8Xct3m6tSvinSXnWkxGuywz9iourYYbM4Qix/ZBQPSE5ddtyxzX0kuPCwp+PdGlhC8bRGeks9P6PbihqKHy++JAhoLt5MK3gfj94+KxP/ZZwzkcu7FUWaIAw63o2kP5DwIcgAmWyLIZfALEjCHHUR0Gt8guue3gvTBQvmHW979tW8OJxPVUh9pN5skNFXpE738kj8tWgMgqrN1mpKNvSXXIX3PPR0EcIamggOo3/Phko5bJoIqiaA==;DbukFOSlYznMOpQ0AYcZHA=="
+secured: "kiXnggNPKW7qjSsBuHA+KHrcd+HgcF5yAj9+17u1G/6pSYpA0rsaarP+54CDLTEjIyccxkJw9WOqApc3kOwBzuLjhxzOag7Rz79moE98FKHnTCmA+RXgQxv+LOxaHyCnqkrsBeMuDDdLcpHwntd56oBK4IKapDgRk5RqvJwfyeoOr4sTMR7JtUJplXkvYLMmzpRdoDvOus0fwxKXkvP1JMLNrXAatUP4nBBriJjFLu+OGDvG8Vl0Er3GSKLUufN9PPMYMCFIQ2XOjELmRJ0Kr0z0jIdt+slfMO+znY7B1jsLuu5of6lGur670z5UzX4YclY/YjGJhWOpcXLqQE8YyT+MeUn/CPvtgsaXQ2osAuc=;s2owHSkvwJXNgN0s68Xtaw=="
 ---
 

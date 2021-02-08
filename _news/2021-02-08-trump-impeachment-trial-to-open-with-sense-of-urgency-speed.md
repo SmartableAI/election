@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump Impeachment Trial to Open With Sense of Urgency, Speed"
-excerpt: "Donald Trump's historic second impeachment trial is opening this week with a sense of urgency — by Democrats who want to hold the former president accountable for the violent U.S. Capitol siege and Republicans who want it over as fast as possible."
-publishedDateTime: 2021-02-08T05:33:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed?context=amp"
+title: "Trump impeachment trial to open with sense of urgency, speed"
+excerpt: "Donald Trump’s historic second impeachment trial is opening this week with a sense of urgency — by Democrats who want to hold the former president accountable for the violent U.S. Capitol siege and Republicans who want it over as fast as possible."
+publishedDateTime: 2021-02-08T10:28:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-impeachment-trial-to-open-with-sense-of-urgency-speed/2021/02/08/75ac974e-69ce-11eb-a66e-e27046e9e898_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-impeachment-trial-to-open-with-sense-of-urgency-speed/2021/02/08/75ac974e-69ce-11eb-a66e-e27046e9e898_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-impeachment-trial-to-open-with-sense-of-urgency-speed/2021/02/08/75ac974e-69ce-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-impeachment-trial-to-open-with-sense-of-urgency-speed/2021/02/08/75ac974e-69ce-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Pence's plans post-Trump administration take shape"
@@ -1749,6 +1755,6 @@ related:
         height: 696
         isCached: true
 
-secured: "y6V3YSDMsscJFAQbMY7TOv9ETbq0AA/QN7o/34v+tBkCqtxzuJt9WeTkyy1ir+auM7PvdTkHe4r+to72s8ypl+wvOZLLXL/UjNfuiSHWuJS3z5X/3PsGkq2c6s49fpi7Yqiohd6e9dJOb/ylke1wrANiqNOBNmhj3PrUbWGp7WsJTycaaOBK3adM9YmQpfeCvT9BTR9q3A3C6iFyvTxyiNyWNUN29Joj+4vLkOhr8EpKDvp50UBHVME6V/NOgOvRKkQ9mBNmHmhdtvLIum7pAiOguXe2DwUNWN5sM98fVoan3uixySZdypYw4aL1oT796mYAwg3ZmGtR+5iF3Px17smnovdiyIoG6TObqeZhqvBo6qL2qvkIfVIUHh1ADaXCWy3CKywXNv3mm+zyEvx9Do/dWXWGQmbIfKtu8bQSokHcoT4QZYqRTVwe4wlq+o9Hqubtx6Eo1WWogE/4vMZNINDbIRp188jDxp7q0qEtQ1gVZO2/JX8q+lYX1fgJiN+ntGMFAosEnIJ3FXkt6WR2Ng==;t83iII7lqLNYhf2g5fdvVg=="
+secured: "Px2nomNtjZuhFXylGxpDstjpWSeR0en7A4QaB8Bj5QAVjWsQeBZIZ2Nmfi8GrCmY8/VsDBx/g6kWVZNkN/tTC8lRql+oUZT0zuFCl8cHgjfXIO+aYtv4kfWEpr+MOujTJBWeKfuAQasT7xjjOxCpeQXXcVIzj0fIYpdy9G1wExFasfGCZNg/f/OXRlLhfDc+jzl0Eun8P4KxF8ujsKRR82K9ntoq/TvyUx/rC4nhlbDfB95ZH2kCg4BuLKs0Z15OoaL7t1YSy4TLsSjb7tjUTTjMBVBJ9z5FNLsY3OiH1hFm42zIQ3ngBf7pe6djFj0n6E3f2CBNqTD0x2cPEdz4rNrpRieQ2bRMDoNrxCAGfvg=;ftNvkFauT4rEtMSbLcdbNw=="
 ---
 

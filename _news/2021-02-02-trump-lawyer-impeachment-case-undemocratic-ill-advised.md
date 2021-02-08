@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impea
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/601eb9aa67d1e300113c4a75?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump impeachment: final day of preparations as Senate trial looms – live updates"
+    excerpt: "Polling shows slim majority of Americans want Trump convicted and barred from office"
+    publishedDateTime: 2021-02-08T10:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-60210f468f0862592e4b4719"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/f53e10ada477be2183e26f567e2cac2af4414528/271_94_5297_3178/master/5297.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fb527600bf70b7acda51a2517a391f50"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump lawyers to file pretrial documents with U.S. Senate in preview of impeachment defense"
     excerpt: "Former President Donald Trump faces a deadline on Tuesday to respond to the U.S. House of Representatives' impeachment charging him with inciting insurrection in a fiery speech to supporters before last month's deadly assault on the Capitol."

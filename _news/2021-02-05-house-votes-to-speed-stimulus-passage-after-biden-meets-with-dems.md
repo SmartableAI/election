@@ -368,6 +368,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Inside Bidenworld’s plan to punish the GOP for opposing Covid relief"
+    excerpt: "A robust sales job will follow passage (should it happen) as the president and his allies want to avoid the missteps of the Obama years."
+    publishedDateTime: 2021-02-08T10:39:00Z
+    webUrl: "https://www.politico.com/news/2021/02/08/biden-gop-covid-relief-punish-466995"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/08/biden-gop-covid-relief-punish-466995"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/08/biden-gop-covid-relief-punish-466995"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/81/ae/0f8373b1459caed3b00820901177/ap21036637556497-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Covid live updates: Biden raises Covid vaccine goal, UK passes 100,000 deaths"
     excerpt: "President Biden increased his Covid vaccine goal to 1.5 million shots administered a day, deemed more likely due to states ramping up vaccine distribution."
     publishedDateTime: 2021-01-26T20:20:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Meet the Bidens: A who's who of the new first family"
 excerpt: "The inauguration of President Joe Biden and Vice President Kamala Harris on Wednesday set the stage for a historic new administration in the White House. It also shone a spotlight on Biden's ..."
-publishedDateTime: 2021-01-22T09:44:00Z
-originalUrl: "https://www.freep.com/in-depth/entertainment/celebrities/2021/01/21/joe-biden-family-meet-kids-grandchildren-new-first-family/4243347001/"
-webUrl: "https://www.freep.com/in-depth/entertainment/celebrities/2021/01/21/joe-biden-family-meet-kids-grandchildren-new-first-family/4243347001/"
+publishedDateTime: 2021-01-22T09:57:00Z
+originalUrl: "https://www.jsonline.com/in-depth/entertainment/celebrities/2021/01/21/joe-biden-family-meet-kids-grandchildren-new-first-family/4243347001/"
+webUrl: "https://www.jsonline.com/in-depth/entertainment/celebrities/2021/01/21/joe-biden-family-meet-kids-grandchildren-new-first-family/4243347001/"
 ampWebUrl: "https://amp.usatoday.com/amp/4243347001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4243347001"
 type: article
@@ -13,8 +13,8 @@ heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Milwaukee Journal Sentinel
+  domain: jsonline.com
 
 topics:
   - Election
@@ -3434,6 +3434,6 @@ related:
         height: 800
         isCached: true
 
-secured: "/Z41wom8mOMwgnLfDdTiGrxinOXIluXa3ad7pcsa/0fQUKKWWWUZUfo+tPSZA0Ez46e4Sn6YB7T+VXiyFZrmZFr16UOKuk6G6rN4Z8hGv/1CpbklRSIt+Ot8HlmpY2P/GCKYoznAGEn/eANISGchR/lfr93u+5OOx02LEnB6nwoFVw9IHUzZp6Yzj3RebbEbzcR2MrL1zsEIfRe8nS4+Sx2VFaJOZzR8sxNObQfz/dRhhWK7W2kOirIp0eRyemTFcL2+t0ccxkd4FHho4JBWBYSOlSCLxdIYXrFG7FRwS+bd8Yr0lQ5u2uimPM+x9a6ZmGdhKclpnWSFG7YT8jdNFtOTJrRqHWYg/m4FDDCFhsA=;eO8O1Mbc5S4T+dglPx4Clw=="
+secured: "GkzkoAKhltrk9lvTY1Prt1Ur03L6jyWdBkCJKlPDftibnUHD7pCTsL2Kio4CQ9mAIN91S9byW8SPkObVKip8538Btr549lfF8ZtF50VyhyUAd4xQ4p2LsYME82C+8f2tVVs40/aeNr42t3/D/l9mV5OdR7AnPSbS3lWP4h7nh8Cg4bWduas7MQQnmj4aFsTew5e7gTRDrtynjHxg5p4dp6iEWtTX1VNWkY5p3YWM4phpY52zPI+VjK0FTR3vyIlxoHQNWpLIxkrCWQS7a1gztB7GswEi/jqoizdyCXN14hyc+3b5tGgp+lM8EH+xqwC5xnQGegoNFewLg+LSgFN13f7qJUA9Icrrtj2rqwTHTQM=;qE4aNVKTFYqPoINi+RCPOA=="
 ---
 

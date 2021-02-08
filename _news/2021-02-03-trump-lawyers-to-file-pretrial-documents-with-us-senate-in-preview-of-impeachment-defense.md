@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump impeachment: final day of preparations as Senate trial looms – live updates"
+    excerpt: "Polling shows slim majority of Americans want Trump convicted and barred from office"
+    publishedDateTime: 2021-02-08T10:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-60210f468f0862592e4b4719"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/f53e10ada477be2183e26f567e2cac2af4414528/271_94_5297_3178/master/5297.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fb527600bf70b7acda51a2517a391f50"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump says he won't testify at impeachment trial, denying Democrats' request he answer questions"
     excerpt: "Democratic prosecutors in the impeachment trial of Donald Trump requested he testify under oath either before or during the Senate trial."
     publishedDateTime: 2021-02-05T04:14:00Z

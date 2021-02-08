@@ -2925,14 +2925,14 @@ related:
         isCached: true
   - title: "Meet the Bidens: A who's who of the new first family"
     excerpt: "The inauguration of President Joe Biden and Vice President Kamala Harris on Wednesday set the stage for a historic new administration in the White House. It also shone a spotlight on Biden's ..."
-    publishedDateTime: 2021-01-22T09:44:00Z
-    webUrl: "https://www.freep.com/in-depth/entertainment/celebrities/2021/01/21/joe-biden-family-meet-kids-grandchildren-new-first-family/4243347001/"
+    publishedDateTime: 2021-01-22T09:57:00Z
+    webUrl: "https://www.jsonline.com/in-depth/entertainment/celebrities/2021/01/21/joe-biden-family-meet-kids-grandchildren-new-first-family/4243347001/"
     ampWebUrl: "https://amp.usatoday.com/amp/4243347001"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4243347001"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/defd0d0e-9fa6-477e-b576-1e5f2055f809-AFP_8Z88ME.jpg?auto=webp&crop=5543,3118,x0,y281&format=pjpg&width=1200"
