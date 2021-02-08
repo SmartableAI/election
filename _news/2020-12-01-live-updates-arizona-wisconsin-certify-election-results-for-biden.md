@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-12-1-2020.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-12-1-2020.amp"
 type: article
 quality: 190
-heat: 410
+heat: 430
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/396b64a2-471e-40bd-bb0b-c040c4f40da9/80479a6d-fd38-4bc5-9787-afbd1c40a392/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden weighs in on reopening of US schools"
+    excerpt: "President Joe Biden on Sunday said it was necessary for kids to return \"safely\" to school under certain guidelines."
+    publishedDateTime: 2021-02-08T06:55:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hMW_m-CKThc/live-updates-biden-weighs-in-on-reopening-of-us-schools"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-weighs-in-on-reopening-of-us-schools.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-weighs-in-on-reopening-of-us-schools.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d79ebf7a-c1b0-49b8-9273-69420a1b7c66/354b51f8-966f-483b-98b5-3cc604b947f8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

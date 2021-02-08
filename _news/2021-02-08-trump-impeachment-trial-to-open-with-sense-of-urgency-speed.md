@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump impeachment trial to open with sense of urgency, speed"
-excerpt: "Donald Trump's historic second is opening this week with a sense of urgency — by Democrats who want to hold the former president accountable for the violent U.S. Capitol siege and Republicans who want it over as fast as possible."
-publishedDateTime: 2021-02-08T06:42:00Z
-originalUrl: "https://www.businessinsider.com/trump-impeachment-trial-to-open-with-sense-of-urgency-speed-2021-2"
-webUrl: "https://www.businessinsider.com/trump-impeachment-trial-to-open-with-sense-of-urgency-speed-2021-2"
-ampWebUrl: "https://www.businessinsider.com/trump-impeachment-trial-to-open-with-sense-of-urgency-speed-2021-2?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-impeachment-trial-to-open-with-sense-of-urgency-speed-2021-2?amp"
+title: "Trump Impeachment Trial to Open With Sense of Urgency, Speed"
+excerpt: "Donald Trump's historic second impeachment trial is opening this week with a sense of urgency — by Democrats who want to hold the former president accountable for the violent U.S. Capitol siege and Republicans who want it over as fast as possible."
+publishedDateTime: 2021-02-08T05:33:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed?context=amp"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -1370,6 +1370,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Senate Republicans back Trump on eve of impeachment trial"
+    excerpt: "Donald Trump’s defenders in the Senate on Sunday rallied around the former president before his , dismissing it as a waste of time and arguing that the former president’s fiery speech before the U.S."
+    publishedDateTime: 2021-02-08T07:46:00Z
+    webUrl: "https://www.businessinsider.com/senate-republicans-back-trump-on-eve-of-impeachment-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/senate-republicans-back-trump-on-eve-of-impeachment-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-republicans-back-trump-on-eve-of-impeachment-trial-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump impeachment trial confronts Capitol siege"
     excerpt: "The impeachment trial of Donald Trump is more than an effort to convict the former president over inciting an insurrection. It's a chance for a public accounting and remembrance of the worst attack on the U."
     publishedDateTime: 2021-02-08T06:26:00Z
@@ -1738,6 +1749,6 @@ related:
         height: 696
         isCached: true
 
-secured: "59qGinYqNrBPveMksU6RR7FZGYKjWVZqR98fSmr+fn1B87138eo+xzWGL+gcH5PakVQfI3VuY+qxUUWQR7nI76vKJAi/rtbkwSgg7EMeplOMsN7TP6Dk41AQobRBNSYdOq+ywyWu/TNul9b3HoFl/tbdQd1sz/fzvypsu2HLMdxXVx1DYv8NdcKNQy7xdubQG/IsaeIynJwiqjpq8qCq5tEe9hpHQItGdcIJHfkUUkYqvMLUy5lADfMtQFMHdHyFzaImVBwqb9sNtlfaImeZq4F7fbNTYLrFvC3tvrSoJyGzJvLBbpns1e4JEwlaZggOteMvYzZibp6ovnAFK6Ic4d1G9GyhnehhC90zY9Fs7HE=;miYvysPp30qf9HyO5hODvA=="
+secured: "y6V3YSDMsscJFAQbMY7TOv9ETbq0AA/QN7o/34v+tBkCqtxzuJt9WeTkyy1ir+auM7PvdTkHe4r+to72s8ypl+wvOZLLXL/UjNfuiSHWuJS3z5X/3PsGkq2c6s49fpi7Yqiohd6e9dJOb/ylke1wrANiqNOBNmhj3PrUbWGp7WsJTycaaOBK3adM9YmQpfeCvT9BTR9q3A3C6iFyvTxyiNyWNUN29Joj+4vLkOhr8EpKDvp50UBHVME6V/NOgOvRKkQ9mBNmHmhdtvLIum7pAiOguXe2DwUNWN5sM98fVoan3uixySZdypYw4aL1oT796mYAwg3ZmGtR+5iF3Px17smnovdiyIoG6TObqeZhqvBo6qL2qvkIfVIUHh1ADaXCWy3CKywXNv3mm+zyEvx9Do/dWXWGQmbIfKtu8bQSokHcoT4QZYqRTVwe4wlq+o9Hqubtx6Eo1WWogE/4vMZNINDbIRp188jDxp7q0qEtQ1gVZO2/JX8q+lYX1fgJiN+ntGMFAosEnIJ3FXkt6WR2Ng==;t83iII7lqLNYhf2g5fdvVg=="
 ---
 

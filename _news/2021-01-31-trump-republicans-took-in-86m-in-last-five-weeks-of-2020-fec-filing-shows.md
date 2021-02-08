@@ -92,6 +92,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Live Updates: Republicans who voted for Trump impeachment face backlash at home"
+    excerpt: "Republicans who backed the push to impeach former President Donald Trump are now facing backlash from their constituents."
+    publishedDateTime: 2021-02-08T06:55:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-dtXACH7h6Y/live-updates-trump-impeachment-2-8-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-8-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-8-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d635118-a4fd-4cf4-88df-5762b70f20a2/2dc06979-3449-4989-8070-ab6241b02816/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rand Paul to trigger Senate vote on whether Trump impeachment trial is constitutional"
     excerpt: "Sen. Rand Paul on Tuesday afternoon is expected to force a vote on whether or not the Senate impeachment trial of former President Trump is unconstitutional now that he is out of office. "
     publishedDateTime: 2021-01-26T17:01:20Z
@@ -313,6 +329,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Stomy-Daniels.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Live Updates: Republicans who voted for Trump impeachment fake backlash at home"
+    excerpt: "Republicans who backed the push to impeach former President Donald Trump are now facing backlash from their constituents."
+    publishedDateTime: 2021-02-08T07:02:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-8-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-8-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-8-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d635118-a4fd-4cf4-88df-5762b70f20a2/2dc06979-3449-4989-8070-ab6241b02816/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Rand Paul to trigger Senate vote on whether Trump impeachment trial is constitutional"
     excerpt: "Sen. Rand Paul on Tuesday afternoon is expected to force a vote on whether or not the Senate impeachment trial of former President Trump is unconstitutional now that he is out of office."

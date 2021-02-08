@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-in
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
 type: article
 quality: 158
-heat: 4238
+heat: 4258
 published: true
 
 provider:
@@ -2199,6 +2199,22 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B780%2C359%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fkamala-36-2000.jpg"
         width: 2000
         height: 1000
+        isCached: true
+  - title: "Watch Kamala Harris Make Her First Speech as Vice President"
+    excerpt: "Hours after being sworn in as the country's first female, Black, and South Asian-American vice president, Kamala Harris made an appearance during the evening's Celebrating America television special."
+    publishedDateTime: 2021-01-21T17:25:00Z
+    webUrl: "https://www.elle.com/culture/career-politics/a35257322/kamala-harris-first-speech-vice-president/"
+    ampWebUrl: "https://www.elle.com/culture/career-politics/amp35257322/kamala-harris-first-speech-vice-president/"
+    cdnAmpWebUrl: "https://www-elle-com.cdn.ampproject.org/c/s/www.elle.com/culture/career-politics/amp35257322/kamala-harris-first-speech-vice-president/"
+    type: article
+    provider:
+      name: ELLE
+      domain: elle.com
+    quality: 75
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vice-president-elect-kamala-harris-looks-on-during-the-news-photo-1611176217.?crop=1.00xw:0.753xh;0,0.165xh&resize=1200:*"
+        width: 1200
+        height: 603
         isCached: true
   - title: "AKA sorority members celebrate Kamala Harris inauguration"
     excerpt: "CHICAGO (AP) — Elizabeth Shelby had her inauguration outfit planned weeks in advance: blue jeans, a Kamala Harris sweatshirt, a green coat, and pink Chuck Taylors as an homage to her sorority’s colors and Vice President Harris’ signature shoe."

@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden weighs in on reopening of US schools"
+    excerpt: "President Joe Biden on Sunday said it was necessary for kids to return \"safely\" to school under certain guidelines."
+    publishedDateTime: 2021-02-08T06:55:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hMW_m-CKThc/live-updates-biden-weighs-in-on-reopening-of-us-schools"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-weighs-in-on-reopening-of-us-schools.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-weighs-in-on-reopening-of-us-schools.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d79ebf7a-c1b0-49b8-9273-69420a1b7c66/354b51f8-966f-483b-98b5-3cc604b947f8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Trump considering dramatic White House departure amid legal fight"
     excerpt: "Trump said last month that he would leave office if the Electoral College votes for President-elect Joe Biden"
     publishedDateTime: 2020-12-07T03:55:05Z

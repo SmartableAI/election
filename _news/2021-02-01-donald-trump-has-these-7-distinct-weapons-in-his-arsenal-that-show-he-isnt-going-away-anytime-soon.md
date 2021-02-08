@@ -1374,6 +1374,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Senate Republicans back Trump on eve of impeachment trial"
+    excerpt: "Donald Trump’s defenders in the Senate on Sunday rallied around the former president before his , dismissing it as a waste of time and arguing that the former president’s fiery speech before the U.S."
+    publishedDateTime: 2021-02-08T07:46:00Z
+    webUrl: "https://www.businessinsider.com/senate-republicans-back-trump-on-eve-of-impeachment-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/senate-republicans-back-trump-on-eve-of-impeachment-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-republicans-back-trump-on-eve-of-impeachment-trial-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump impeachment trial confronts Capitol siege"
     excerpt: "The impeachment trial of Donald Trump is more than an effort to convict the former president over inciting an insurrection. It's a chance for a public accounting and remembrance of the worst attack on the U."
     publishedDateTime: 2021-02-08T06:26:00Z
@@ -1388,17 +1399,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump impeachment trial to open with sense of urgency, speed"
-    excerpt: "Donald Trump's historic second is opening this week with a sense of urgency — by Democrats who want to hold the former president accountable for the violent U.S. Capitol siege and Republicans who want it over as fast as possible."
-    publishedDateTime: 2021-02-08T06:42:00Z
-    webUrl: "https://www.businessinsider.com/trump-impeachment-trial-to-open-with-sense-of-urgency-speed-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trump-impeachment-trial-to-open-with-sense-of-urgency-speed-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-impeachment-trial-to-open-with-sense-of-urgency-speed-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "U.S. Senate to pause Trump impeachment trial at end of week for Sabbath"
     excerpt: "The U.S. Senate will pause former President Donald Trump's impeachment trial from Friday evening to Saturday evening this week to honor a request by a Trump attorney who observes the Jewish Sabbath, a spokesman for Senate Democratic leader Chuck Schumer said on Sunday."
     publishedDateTime: 2021-02-08T04:38:00Z
@@ -1713,6 +1713,17 @@ related:
         width: 1024
         height: 658
         isCached: true
+  - title: "Trump Impeachment Trial to Open With Sense of Urgency, Speed"
+    excerpt: "Donald Trump's historic second impeachment trial is opening this week with a sense of urgency — by Democrats who want to hold the former president accountable for the violent U.S. Capitol siege and Republicans who want it over as fast as possible."
+    publishedDateTime: 2021-02-08T05:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
     excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"
     publishedDateTime: 2021-02-02T20:04:00Z

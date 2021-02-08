@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q30X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q30X"
 type: article
 quality: 125
-heat: 1245
+heat: 1265
 published: true
 
 provider:
@@ -770,6 +770,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/10/a-protester-carries-a-sign-calling-for-congress-AFP_8YH99R-2.jpg"
         width: 1024
         height: 732
+        isCached: true
+  - title: "What happens next for Donald Trump’s impeachment trial?"
+    excerpt: "Former US president Donald Trump’s historic second impeachment trial starts in February, but the process really begins January 25, when the House sends the article of impeachment to the Senate ..."
+    publishedDateTime: 2021-01-25T05:43:00Z
+    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3119099/what-happens-next-donald-trumps-impeachment-trial"
+    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3119099/what-happens-next-donald-trumps-impeachment-trial"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3119099/what-happens-next-donald-trumps-impeachment-trial"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 75
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_explainer/public/d8/images/methode/2021/01/25/dc65f5ea-5ec8-11eb-9099-aaa38b7b3943_image_hires_170902.jpg?itok=OwKn4PLR&v=1611565752"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Second Donald Trump impeachment: House delivers charge to Senate"
     excerpt: "Democrats marched the impeachment case against Donald Trump to the Senate Monday night for the start of his historic trial, but Republican senators were easing off their criticism of the former president and shunning calls to convict him over the deadly siege at the U."
