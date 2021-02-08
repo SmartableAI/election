@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-trump-impeachment-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp"
 type: article
 quality: 185
-heat: 1005
+heat: 1025
 published: true
 
 provider:
@@ -568,6 +568,22 @@ related:
     quality: 132
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/capitol-riot-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump trial will run into Sunday, wrap next week, with 16 hours for each side"
+    excerpt: "Former President Donald Trump’s second impeachment trial will begin Tuesday afternoon with arguments on its constitutionality — then almost certainly stretch into next week, under a"
+    publishedDateTime: 2021-02-08T22:49:00Z
+    webUrl: "https://nypost.com/2021/02/08/trump-impeachment-trial-will-run-into-sunday-wrap-next-week/"
+    ampWebUrl: "https://nypost.com/2021/02/08/trump-impeachment-trial-will-run-into-sunday-wrap-next-week/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/08/trump-impeachment-trial-will-run-into-sunday-wrap-next-week/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-2.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

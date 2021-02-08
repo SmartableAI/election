@@ -95,6 +95,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Georgia Officials Review Trump Phone Call as Scrutiny Intensifies"
+    excerpt: "The office of Georgia’s secretary of state, Brad Raffensperger, has initiated a fact-finding inquiry into Donald Trump’s January phone call to Mr. Raffensperger pressuring him to “find” votes."
+    publishedDateTime: 2021-02-08T22:33:00Z
+    webUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/00HFOTrump-Georgiainvestigate/00HFOTrump-Georgiainvestigate-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."
     publishedDateTime: 2021-02-07T20:46:00Z

@@ -160,6 +160,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "A Palm Beach Property Once Owned by Donald Trump Sells for Close to $140 Million"
+    excerpt: "Now one of the most expensive homes ever sold nationwide, the waterfront lot was once part of Trump’s Maison de L’Amitie estate."
+    publishedDateTime: 2021-02-08T15:49:00Z
+    webUrl: "https://www.wsj.com/articles/a-palm-beach-property-once-owned-by-donald-trump-sells-for-close-to-140-million-11612802955"
+    ampWebUrl: "https://www.wsj.com/amp/articles/a-palm-beach-property-once-owned-by-donald-trump-sells-for-close-to-140-million-11612802955"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-palm-beach-property-once-owned-by-donald-trump-sells-for-close-to-140-million-11612802955"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-293230/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Colorado officials want to keep Space Command in state, ask Pentagon to reconsider Trump's relocation"
     excerpt: "Colorado Gov. Jared Polis and a group of bipartisan state officials are urging Defense Secretary Lloyd Austin to reconsider and \"pause\" former President Donald Trump's decision to move U.S. Space Command from Colorado Springs to Alabama,"
     publishedDateTime: 2021-02-05T00:17:00Z

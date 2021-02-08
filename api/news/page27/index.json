@@ -2,6 +2,171 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-01-02-trump-the-clear-republican-front-runner-in-next-white-house-race.md",
+      "title": "Trump the clear Republican 'front-runner' in next White House race",
+      "excerpt": "There's more than three years to go until the next Iowa caucuses and New Hampshire presidential primary, but what some considered the first cattle call in the 2024 White House race takes place next week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZB1WUo0VtA/trump-clear-republican-frontrunner-2024-white-house-race",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZB1WUo0VtA/trump-clear-republican-frontrunner-2024-white-house-race",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-clear-republican-frontrunner-2024-white-house-race.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-clear-republican-frontrunner-2024-white-house-race.amp",
+      "publishedDateTime": "2021-01-02T03:53:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-federal-judge-throws-out-gohmert-lawsuit-asking-pence-to-interfere-in-electoral-college-count.md",
+      "title": "Federal judge throws out Gohmert lawsuit asking Pence to interfere in Electoral College count ",
+      "excerpt": "A federal judge threw out a lawsuit from Rep. Louie Gohmert of Texas and several Arizona Republicans seeking to force Vice President Mike Pence to help throw the election to President Donald Trump next week when Congress meets to count the Electoral College votes.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c1VHSmd3PS8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c1VHSmd3PS8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201121005656-louie-gohmert-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/01/politics/gohmert-pence-electoral-college-lawsuit-thrown-out/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/gohmert-pence-electoral-college-lawsuit-thrown-out/index.html",
+      "publishedDateTime": "2021-01-01T18:30:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-02-trump-vetoes-california-fishing-bill-over-seafood-trade-deficit.md",
+      "title": "Trump vetoes California fishing bill over seafood trade deficit",
+      "excerpt": "President Donald Trump vetoed a bill to gradually end the use of large-mesh drift gillnets deployed in federal waters off the coast of California.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/01/trump-vetos-california-fishing-bill-seafood-trade-deficit/4110144001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/01/trump-vetos-california-fishing-bill-seafood-trade-deficit/4110144001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4110144001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4110144001",
+      "publishedDateTime": "2021-01-01T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-trump-urges-south-dakota-governor-to-challenge-rino-sen-thune.md",
       "title": "Trump urges South Dakota governor to challenge ‘RINO’ Sen. Thune",
       "excerpt": "Thune, the Senate majority whip, outraged Trump last month when he said a challenge to the Electoral College results would “go down like a shot dog.”",
@@ -1161,175 +1326,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-census-bureau-to-miss-deadline-threatening-trumps-attempt-to-exclude-illegal-migrants-from-census.md",
-      "title": "Census Bureau to miss deadline, threatening Trump's attempt to exclude illegal migrants from census",
-      "excerpt": "For the first time in four decades the Census Bureau will miss their deadline on reporting apportionment figures used to divvy up congressional seats.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LByAen0K4J8/census-bureau-misses-deadline-threatening-trumps-plan-to-exclude-illegal-migrants-from-appropriating-congres",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LByAen0K4J8/census-bureau-misses-deadline-threatening-trumps-plan-to-exclude-illegal-migrants-from-appropriating-congres",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2846be92-1dbc-461f-b9d1-c0cad93bc68c/6d8aecbe-dd96-4dbd-bcfd-32bc43bbd6b6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/census-bureau-misses-deadline-threatening-trumps-plan-to-exclude-illegal-migrants-from-appropriating-congres.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/census-bureau-misses-deadline-threatening-trumps-plan-to-exclude-illegal-migrants-from-appropriating-congres.amp",
-      "publishedDateTime": "2020-12-30T17:48:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-trump-was-briefed-that-china-sought-to-pay-non-state-actors-to-attack-us-forces-in-afghanistan.md",
-      "title": "Trump was briefed that China sought to pay non-state actors to attack US forces in Afghanistan",
-      "excerpt": "President Donald Trump received information earlier this month that China sought to pay non-state actors to attack American forces in Afghanistan, a senior administration official said.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jY9JDWPrjcs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jY9JDWPrjcs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201230190210-donald-trump-201207-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/30/politics/china-us-forces-afghanistan/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/china-us-forces-afghanistan/index.html",
-      "publishedDateTime": "2020-12-30T16:17:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-acostas-admission-hell-go-easier-on-biden-shows-personal-vendetta-against-trump-kurtz.md",
-      "title": "Acosta's admission he'll go easier on Biden shows 'personal vendetta' against Trump: Kurtz",
-      "excerpt": "Fox News media analyst Howard Kurtz told \"America’s Newsroom\" Wednesday that CNN White House correspondent Jim Acosta’s admission he will approach a Biden White House in less adversarial fashion shows he's brought a \"personal vendetta\" to his reporting on the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz",
-      "originalUrl": "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1e622b6-6e10-4621-a6e1-1afd6135d900/51a5d55e-4bf6-42a7-96f7-16d475e23c5e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/acostas-admission-easier-biden-vendetta-kurtz.amp",
-      "publishedDateTime": "2020-12-30T11:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

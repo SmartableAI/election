@@ -509,6 +509,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Extended interview with President Biden"
+    excerpt: "President Joe Biden sits down with CBS Evening News anchor and managing editor Norah O'Donnell ahead of Super Bowl LV for his first network interview since taking office."
+    publishedDateTime: 2021-02-08T21:47:00Z
+    webUrl: "https://www.cbsnews.com/video/extended-interview-with-president-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/08/c0531ce1-387e-4e06-a8ce-817d2f96356c/thumbnail/1200x630/d94dc0a7f6a5d23edc58d0b23e38f136/0208-norahbiden-extended-intv-642216-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris uses casting vote to pass Covid relief budget resolution – video"
     excerpt: "Vice-president’s Senate intervention means Biden’s $1.9tn package can pass without Republican support"
     publishedDateTime: 2021-02-05T10:25:00Z

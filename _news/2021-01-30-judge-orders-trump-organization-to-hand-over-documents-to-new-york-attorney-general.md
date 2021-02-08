@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/new-york-judge-trump-organization-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-judge-trump-organization-documents.amp"
 type: article
 quality: 169
-heat: 209
+heat: 189
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Live Updates: Cheney, who voted for Trump impeachment, holds on to GOP leadership position"
-    excerpt: "Embattled Rep. Liz Cheney, the third-highest-ranking Republican in the House, held on to her title as House GOP conference chair on Wednesday after easily surviving a push by Trump loyalists to strip her of her leadership position."
-    publishedDateTime: 2021-02-04T11:07:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oD7dWB-mVOQ/live-updates-trump-impeachment-2-4-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-4-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-4-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e0dfedbd-dfc4-4cd5-b565-1133911fbe12/aec38a4d-cbe6-43fa-8ed2-28829a019de7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Georgia U.S. Attorney Pushed to Resign by Trump Aides Rejoins Law Firm"
     excerpt: "The former top federal prosecutor in Atlanta, whom White House officials pushed to resign earlier this month because then-President Donald Trump was upset he wasn’t doing enough to investigate unproven claims of election fraud,"
     publishedDateTime: 2021-01-22T16:03:00Z

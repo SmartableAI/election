@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump impeachment: Schumer says agreement reached on rules for trial – live"
+    excerpt: "Polling shows slim majority of Americans want Trump convicted and barred from office"
+    publishedDateTime: 2021-02-08T22:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-6021b6918f0813c5b0043a94"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/f53e10ada477be2183e26f567e2cac2af4414528/271_94_5297_3178/master/5297.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fb527600bf70b7acda51a2517a391f50"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump faces Tuesday deadline to deliver formal response to impeachment as trial looms"
     excerpt: "Former U.S. President Donald Trump's unprecedented second impeachment trial takes shape this week, as Democrats outline their case and Trump scrambles to prepare a defense amid disarray on his legal team."
     publishedDateTime: 2021-02-01T16:21:00Z

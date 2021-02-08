@@ -96,6 +96,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trey Gowdy: Democrats chose the 'dumbest' possible impeachment article to bring against Trump"
+    excerpt: "House Democrats chose the \"dumbest of all impeachment articles\" to bring against former President Donald Trump last month, Fox News contributor Trey Gowdy told \"America Reports\" Monday."
+    publishedDateTime: 2021-02-08T22:11:00Z
+    webUrl: "https://www.foxnews.com/media/trey-gowdy-democrats-dumbest-impeachment-article-trump-senate-trial"
+    ampWebUrl: "https://www.foxnews.com/media/trey-gowdy-democrats-dumbest-impeachment-article-trump-senate-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trey-gowdy-democrats-dumbest-impeachment-article-trump-senate-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f04fe4c-245c-482f-9a29-aa24e52d20d3/d66ec36a-35ee-4102-aef1-973fe7727cd3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "wpgPlgCFtcqBSHCF84GOHAKLDw1ttJDB8+XIDvxzO0Q/pseis1jGHUE6vU3jmZQc7jWjJPac+B2PpKJDlBdVAP0dVZtDp3j7ekh458VgoXmZUO7O3ANmqaESzctmXSeNb94nDw6/3XIHz2F+hN+Ykpu/lfoedCByq4pcOobkZuWLrSv1Wu22CNJs8IjVACGXkaT8b7mfO70MUAkpuj7DhGmUrTcsgx1orf60jZn8oNKV6b0e1f0Uh5wMnIkn6cTW3ydq4994GWgkeyWlzS/CLyZUEzx1VqmzthP+wPokdisH/3mfc4r1M/Z5J07A1K0xOTgUgOoTDjVc8SaKSg/hKail4riUyzNqV5x+H5D82PA=;Y7ElaNLJR2StdIBmMsQtFA=="
 ---

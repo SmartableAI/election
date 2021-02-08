@@ -572,6 +572,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump trial will run into Sunday, wrap next week, with 16 hours for each side"
+    excerpt: "Former President Donald Trump’s second impeachment trial will begin Tuesday afternoon with arguments on its constitutionality — then almost certainly stretch into next week, under a"
+    publishedDateTime: 2021-02-08T22:49:00Z
+    webUrl: "https://nypost.com/2021/02/08/trump-impeachment-trial-will-run-into-sunday-wrap-next-week/"
+    ampWebUrl: "https://nypost.com/2021/02/08/trump-impeachment-trial-will-run-into-sunday-wrap-next-week/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/08/trump-impeachment-trial-will-run-into-sunday-wrap-next-week/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "LIVE UPDATES: Trump just announced his new impeachment trial legal defense team"
     excerpt: "Former President Donald Trump on Sunday announced a new legal defense team after he parted ways with five of his impeachment lawyers just over a week before his Senate trial is set to begin, Fox News has confirmed."
     publishedDateTime: 2021-02-01T22:37:00Z
@@ -681,6 +697,6 @@ related:
         height: 640
         isCached: true
 
-secured: "UQFE0ZPobGaocmuvNv9T1EudPs040Brr4Jm7j1vneY3ysdYY7i7XrreZLtC8Yz+2co5Pue9qxPr5FTfCP+HnjHuuiPGNIGHxR0TbtBhOYXXyIwjxOnC3vGM7TQn2McFIagctWEocrQKQ5svjlqNwVG/PF3H0VGsnhG2mG68ZLymiaVnNTc665bHYJnIABbrbmjnCqlqQSK0andRZb12BFjNpODdvUhJGJEAuT87KOy+ISwAt6BHvFH8l9K2D6KT+ZAnukv/jCn0fn50d2LKS6XnXrAARgBpz6XkDraEaUEvBGLsbFM8/XSjd7PXggxwPwS+ST+lfVinCucNSoyQniq5KG0KW1x/t3J+52AXE0YM=;Wm6HaqqJtw8k/3+CJ9ADFQ=="
+secured: "Q4PRLFQpMkaM95KGQqMPu3JXqUWp1vDgs+YaGDhhDJbRXGF+QwWw8kuC07/eScd6DxoH1gouhS+ENjKno4sLoH54Iyo981zH4RP4ZEQNGC7Zs275J3nIZeEzQjQSMepYt8usc0s2Ru+vgAM7Uc0OvqfmiSyYjf+HZv7DUjDnDM7+dfMQCN1iyGNLdq1PKrZIFeiAvNT5D5XVnZL8/pq5/ZYzvfOhSLMGaO/CnkoskOmXup6y+J2ApWMS6O9e6KMTOAalU0hNb+swj+++qxl79x4q6FGseOUvl/zP+j8CkDXQECKDjPo7Nb+ANeeMf2TeQrTmnKnq2rNkvutT1hZQWXbZ2i++9MTYxYH7bLB9Hbk/yVLNr9nIS8MYQtwXuJPnpVJCvlsAxGFaRjWMRDW3Nc2b4+d5RbEEHTfMRfoSOl4riJx9W89OiWSntLUZ/2Sq7ELmBw+yFo6YlG7DS+zkaHrwJRJPKmjo2GDLx00feCW0pLgT7OaAKJW91jHegD4NI/wx8nNltJdTHxUzINl6Dg==;QbhxTgbkJDdM91GShh4Dqw=="
 ---
 

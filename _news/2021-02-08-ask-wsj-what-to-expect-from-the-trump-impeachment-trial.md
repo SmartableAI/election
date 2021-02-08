@@ -586,6 +586,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump trial will run into Sunday, wrap next week, with 16 hours for each side"
+    excerpt: "Former President Donald Trump’s second impeachment trial will begin Tuesday afternoon with arguments on its constitutionality — then almost certainly stretch into next week, under a"
+    publishedDateTime: 2021-02-08T22:49:00Z
+    webUrl: "https://nypost.com/2021/02/08/trump-impeachment-trial-will-run-into-sunday-wrap-next-week/"
+    ampWebUrl: "https://nypost.com/2021/02/08/trump-impeachment-trial-will-run-into-sunday-wrap-next-week/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/08/trump-impeachment-trial-will-run-into-sunday-wrap-next-week/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "LIVE UPDATES: Trump just announced his new impeachment trial legal defense team"
     excerpt: "Former President Donald Trump on Sunday announced a new legal defense team after he parted ways with five of his impeachment lawyers just over a week before his Senate trial is set to begin, Fox News has confirmed."
     publishedDateTime: 2021-02-01T22:37:00Z

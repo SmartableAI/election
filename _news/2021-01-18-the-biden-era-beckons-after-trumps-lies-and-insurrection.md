@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3690
+heat: 3710
 published: true
 
 provider:
@@ -300,6 +300,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111195736-ron-kain-feb-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration in fraught position with some Trump-appointed US attorneys"
+    excerpt: "Distrust of Trump-era appointees led the Biden administration to appoint a career Justice Department official as acting attorney general while it waits for the US Senate to confirm Merrick Garland, the President's nominee to lead the department.\n    \n"
+    publishedDateTime: 2021-02-08T21:28:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MGBoBmInjaw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/leftover-trump-us-attorneys/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/leftover-trump-us-attorneys/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125124427-trump-doj-acting-attorney-plot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

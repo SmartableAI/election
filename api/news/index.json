@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-09-white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan.md",
+      "title": "White House expects lawmakers' coronavirus aid \"mark up\" will track closely to Biden's plan",
+      "excerpt": "The White House expects the House of Representatives to track closely to President Joe Biden's coronavirus relief plan as it marks up its latest round of legislation to blunt the effects of the COVID-19 pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-white-house/white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan-idUSW1N2JA017",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-white-house/white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan-idUSW1N2JA017",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A822O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A822O",
+      "publishedDateTime": "2021-02-08T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-liz-cheney-in-donald-trump-jrs-2022-crosshairs.md",
+      "title": "Liz Cheney in Donald Trump Jr.’s 2022 crosshairs",
+      "excerpt": "It’s a long way down the road, but it appears Donald Trump Jr.’s already making plans to travel to Wyoming next year to target Rep. Liz Cheney in the Republican primaries as she runs for re-election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zwM-ulT5P9g/liz-cheney-donald-trump-jr-wyoming-primary",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zwM-ulT5P9g/liz-cheney-donald-trump-jr-wyoming-primary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/liz-cheney-donald-trump-jr-wyoming-primary.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-donald-trump-jr-wyoming-primary.amp",
+      "publishedDateTime": "2021-02-08T14:15:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-ex-parler-ceo-said-he-didnt-want-the-platform-to-work-with-trump-because-the-president-might-have-bullied-employees-into-doing-what-he-wanted.md",
       "title": "Ex-Parler CEO said he didn't want the platform to work with Trump because the president might have 'bullied' employees into doing what he wanted",
       "excerpt": "The interview aired after BuzzFeed News reported that Parler had offered Trump a 40% stake in exchange for becoming his go-to social-media platform.",
@@ -58,8 +157,8 @@
       "title": "House managers reject Trump impeachment brief: 'He betrayed the American people' – live",
       "excerpt": "Polling shows slim majority of Americans want Trump convicted and barred from office",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-60214f008f0882db493fecd3",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-60214f008f0882db493fecd3",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-6021711b8f0882db493fef36",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-6021711b8f0882db493fef36",
       "featuredContent": null,
       "highlight": null,
       "heat": 157,
@@ -118,7 +217,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -287,7 +386,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 160,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -343,7 +442,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1005,
+      "heat": 1025,
       "tags": null,
       "images": [
         {
@@ -1251,119 +1350,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/rand-paul-kids-missing-school-biden-beholden-to-unions.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-kids-missing-school-biden-beholden-to-unions.amp",
       "publishedDateTime": "2021-02-07T07:43:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial.md",
-      "title": "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial",
-      "excerpt": "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709590167_mtp_clip_cassidyshowtrial_210207_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo100655685848",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100655685848",
-      "publishedDateTime": "2021-02-07T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.md",
-      "title": "Ben Sasse's anti-Trump statements draw more Nebraska backlash",
-      "excerpt": "Republican U.S. Sen. Ben Sasse is facing more opposition in his home state of Nebraska for criticizing former President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4yZLcp-xwE/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4yZLcp-xwE/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21036581973148.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-sasses-anti-trump-statements-draw-more-nebraska-backlash.amp",
-      "publishedDateTime": "2021-02-07T01:35:28-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

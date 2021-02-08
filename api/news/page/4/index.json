@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-04-former-vp-pence-opens-transition-office-in-northern-virginia.md",
+      "title": "Former VP Pence opens transition office in northern Virginia",
+      "excerpt": "Former Vice President Mike Pence has opened a transition office in northern Virginia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2",
+      "originalUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp",
+      "publishedDateTime": "2021-02-03T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-usa-today-column-argues-tom-brady-has-gotten-undeserved-pass-for-supporting-trump-cites-white-privilege.md",
+      "title": "USA Today column argues Tom Brady has gotten 'undeserved pass' for supporting Trump, cites 'white privilege'",
+      "excerpt": "With Tom Brady days away from playing in his tenth Super Bowl, a USA Today sports columnist has taken aim at the NFL superstar over his past support of former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/usa-today-column-tom-brady-undeserved-pass-for-supporting-trump",
+      "originalUrl": "https://www.foxnews.com/media/usa-today-column-tom-brady-undeserved-pass-for-supporting-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7512a7c-8dd6-4e81-afc9-f7fec4e57256/cbb85a7a-e3a4-4ca4-8ffe-d9c46f5ddf97/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/usa-today-column-tom-brady-undeserved-pass-for-supporting-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/usa-today-column-tom-brady-undeserved-pass-for-supporting-trump.amp",
+      "publishedDateTime": "2021-02-03T20:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-nikki-haley-accuses-biden-of-snubbing-israel-cozying-up-to-iran-i-really-dont-understand-the-logic.md",
+      "title": "Nikki Haley accuses Biden of 'snubbing' Israel, 'cozying up' to Iran: 'I really don't understand the logic'",
+      "excerpt": "Former U.S. Ambassador to the United Nations Nikki Haley accused the Biden administration Wednesday of \"snubbing Israel\" and \"cozying up to Iran\" in the two weeks the 46th president has been in office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YE_zsV2rMDo/nikki-haley-biden-israel-iran-nuclear-deal",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YE_zsV2rMDo/nikki-haley-biden-israel-iran-nuclear-deal",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f8e7427-4d69-4533-a736-d7151e217b10/5054fe18-4741-4167-8a75-983f033a5534/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-biden-israel-iran-nuclear-deal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-biden-israel-iran-nuclear-deal.amp",
+      "publishedDateTime": "2021-02-03T18:40:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-in-bidens-white-house-surprise-visits-with-staff-replace-late-night-tweets-and-unscheduled-phone-calls.md",
       "title": "In Biden's White House, surprise visits with staff replace late night tweets and unscheduled phone calls",
       "excerpt": "Trump preferred seemingly aimless days at the White House. Biden has a carefully crafted schedule, but the pandemic has curbed his facetime with people.",
@@ -318,6 +474,62 @@
       ]
     },
     {
+      "path": "_news/2021-02-03-senate-republicans-will-be-very-united-against-convicting-trump-after-he-left-office-graham.md",
+      "title": "Senate Republicans will be 'very united' against convicting Trump after he left office: Graham",
+      "excerpt": "Sen. Lindsey Graham, R-S.C., predicted Wednesday that Republicans would be \"very united\" against convicting former President Donald Trump of incitement of insurrection in his second impeachment trial, which begins next week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8kvj_6MUA18/lindsey-graham-republicans-very-united-against-trump-impeachment-conviction",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8kvj_6MUA18/lindsey-graham-republicans-very-united-against-trump-impeachment-conviction",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce0ff8aa-4ebc-4f0a-b188-e29d6303380f/f2169d82-7384-44cf-93f0-ae8b40aab209/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-republicans-very-united-against-trump-impeachment-conviction.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-republicans-very-united-against-trump-impeachment-conviction.amp",
+      "publishedDateTime": "2021-02-03T13:00:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-iranian-resistance-leader-says-regime-at-its-weakest-point-urges-biden-to-hold-it-to-account.md",
       "title": "Iranian resistance leader says regime 'at its weakest point,' urges Biden to hold it to account",
       "excerpt": "EXCLUSIVE: The leader of the main Iranian resistance group tells Fox News that the regime in Tehran is at its \"weakest point\" in its history, and is calling on the Biden administration to hold the regime accountable for its human rights violations.",
@@ -434,7 +646,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1650,
+      "heat": 1670,
       "tags": null,
       "images": [
         {
@@ -547,7 +759,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 253,
+      "heat": 273,
       "tags": null,
       "images": [
         {
@@ -603,7 +815,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 313,
+      "heat": 333,
       "tags": null,
       "images": [
         {
@@ -972,62 +1184,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-03-live-updates-graham-follows-mcconnell-in-defending-cheney-after-her-trump-impeachment-vote.md",
-      "title": "Live Updates: Graham follows McConnell in defending Cheney after her Trump impeachment vote",
-      "excerpt": "Sen. Lindsey Graham, R-S.C., defended Wyoming Rep. Liz Cheney on Tuesday following criticism of her decision to vote in favor of former President Donald Trump’s impeachment, saying that her experience and leadership are \"invaluable to the Republican Party.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eOnQbWJYVaA/live-updates-trump-impeachment-2-3-2021",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eOnQbWJYVaA/live-updates-trump-impeachment-2-3-2021",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bb0473b9-f294-42b5-836c-7ac6646deaa3/39fe54c6-ac50-4642-a163-477bd4e31815/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-3-2021.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-3-2021.amp",
-      "publishedDateTime": "2021-02-02T21:04:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-03-bidens-pay-their-respects-to-capitol-police-officer-brian-sicknick-as-officer-lies-in-honor-at-capitol.md",
       "title": "Bidens pay their respects to Capitol Police Officer Brian Sicknick as officer lies in honor at Capitol",
       "excerpt": "The body of the late US Capitol Police Officer Brian D. Sicknick arrived Tuesday night to lie in honor in the US Capitol Rotunda, less than four weeks since he died after responding to the violent riot that erupted in the building.\n    \n",
@@ -1193,157 +1349,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-chicago-mayor-lori-lightfoot-blames-trump-for-standoff-between-citys-public-schools-and-teachers-union.md",
-      "title": "Chicago Mayor Lori Lightfoot blames Trump for standoff between city’s public schools and teachers union",
-      "excerpt": "Chicago Mayor Lori Lightfoot on Tuesday blamed the impasse between the city’s public schools and teachers union on President Donald Trump for not being able to roll out a nationwide vaccine program while he was in office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iwqYt-uVXrw/chicago-schools-closed-mayor-lightfoot-blames-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iwqYt-uVXrw/chicago-schools-closed-mayor-lightfoot-blames-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf45ae16-a9fd-45fd-9ca2-c58562d1c92f/f424f3ab-ce52-4966-86f5-ebfc6cf3f51e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/chicago-schools-closed-mayor-lightfoot-blames-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chicago-schools-closed-mayor-lightfoot-blames-trump.amp",
-      "publishedDateTime": "2021-02-02T14:44:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-jan-6-rally-organizer-planning-maga-sellout-tour-targeting-republicans-who-betrayed-trump.md",
-      "title": "Jan. 6 rally organizer planning 'MAGA Sellout' tour targeting Republicans who 'betrayed' Trump",
-      "excerpt": "Pro-Trump organizers are planning a cross-country recruiting effort to attract primary challengers targeting Republicans who they say \"betrayed\" former President Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/jan-rally-organizer-planning-maga-sellout-tour-targeting/story?id=75620438",
-      "originalUrl": "https://abcnews.go.com/US/jan-rally-organizer-planning-maga-sellout-tour-targeting/story?id=75620438",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/trump-bus-tour-rt-jt-210201_1612224255123_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/jan-rally-organizer-planning-maga-sellout-tour-targeting/story?id=75620438",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/jan-rally-organizer-planning-maga-sellout-tour-targeting/story?id=75620438",
-      "publishedDateTime": "2021-02-02T12:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-dems-trump-aimed-loaded-cannon-of-supporters-at-capitol.md",
-      "title": "Dems: Trump aimed 'loaded cannon' of supporters at Capitol",
-      "excerpt": "Donald Trump endangered the lives of all members of Congress when he aimed a mob of supporters “like a loaded cannon” at the U.S. Capitol, House Democrats said Tuesday in making their most detailed case yet for why the former president should be convicted and permanently barred from office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2",
-      "originalUrl": "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2?amp",
-      "publishedDateTime": "2021-02-02T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

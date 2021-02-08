@@ -1877,6 +1877,17 @@ related:
         width: 1024
         height: 658
         isCached: true
+  - title: "US Plans to Reengage With UN Rights Council, Reversing Trump"
+    excerpt: "The Biden administration has announced plans to reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago."
+    publishedDateTime: 2021-02-08T22:41:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Capitol Riot Talk At Impeachment Trial Is Worst Nightmare For Trump Supporters"
     excerpt: "Political allies of former President Donald Trump are fearful of discussion of the Jan. 6 Capitol insurrection during next week's impeachment trial."
     publishedDateTime: 2021-02-05T20:36:00Z

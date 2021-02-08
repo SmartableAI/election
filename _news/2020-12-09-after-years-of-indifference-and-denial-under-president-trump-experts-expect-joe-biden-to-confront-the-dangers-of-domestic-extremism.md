@@ -1612,6 +1612,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Biden, Harris get virtual tour of Arizona vaccination site"
+    excerpt: "President Joe Biden and Vice President Kamala Harris got a virtual tour Monday of a federally funded, mass vaccination site in Arizona, but they did not address the"
+    publishedDateTime: 2021-02-08T22:50:00Z
+    webUrl: "https://apnews.com/article/joe-biden-arizona-health-coronavirus-pandemic-doug-ducey-2f3a8457e1d7941ebec31acf5b96cfee/gallery/7cd793a8bcdf402eac2091ecc15d94b9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/7cd793a8bcdf402eac2091ecc15d94b9/3000.jpeg"
+        width: 3000
+        height: 1957
+        isCached: true
   - title: "Biden's son faces investigation over taxes as Trump joins Texas lawsuit that aims to overturn election"
     excerpt: "President-elect Joe Biden's son Hunter Biden is facing a federal investigation into his tax records. Meanwhile, President Trump is focusing on overturning the election, joining a lawsuit brought to the Supreme Court by Texas' attorney general that seeks to invalidate ballots from four battleground states won by the president-elect."
     publishedDateTime: 2020-12-11T02:19:00Z
@@ -2247,6 +2261,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/bd/8bd346ec-2dbe-505f-ab54-e3540a71282d/5ff75ad82a603.image.jpg"
         width: 512
         height: 341
+        isCached: true
+  - title: "Biden, Harris take virtual tour of Arizona vaccination site"
+    excerpt: "President Biden and Vice President Kamala Harris virtually toured a 24-7 vaccination site Monday at the Arizona Cardinals’ stadium that could serve as a model for others, as the U.S. pivots from immunizing priority groups to reaching older Americans and racing fast-moving variants of the coronavirus."
+    publishedDateTime: 2021-02-08T22:33:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/feb/8/biden-harris-take-virtual-tour-arizona-vaccination/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/feb/8/biden-harris-take-virtual-tour-arizona-vaccination/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/feb/8/biden-harris-take-virtual-tour-arizona-vaccination/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/08/Biden_17394.jpg-79310_c0-120-2866-1791_s1200x700.jpg?67075f200bc1cc5cad831ec15bdb630fd20fc51b"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Maryland's electors cast the state's 10 votes for Joe Biden, Kamala Harris"
     excerpt: "Maryland's presidential electors gathered in Annapolis on Monday to cast their votes for President-elect Joe Biden, who won the state in a landslide on Nov. 3. The state's 10 votes formalized Biden and Vice President-elect Kamala Harris's victory in Maryland and pushed the Democrats toward the 306 total Electoral College votes they are expected to receive."

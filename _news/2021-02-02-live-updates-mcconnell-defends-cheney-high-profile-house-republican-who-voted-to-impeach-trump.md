@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Liz Cheney in Donald Trump Jr.’s 2022 crosshairs"
+    excerpt: "It’s a long way down the road, but it appears Donald Trump Jr.’s already making plans to travel to Wyoming next year to target Rep. Liz Cheney in the Republican primaries as she runs for re-election."
+    publishedDateTime: 2021-02-08T22:15:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zwM-ulT5P9g/liz-cheney-donald-trump-jr-wyoming-primary"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-donald-trump-jr-wyoming-primary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-donald-trump-jr-wyoming-primary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Live Updates: Graham follows McConnell in defending Cheney after her Trump impeachment vote"
     excerpt: "Sen. Lindsey Graham, R-S.C., defended Wyoming Rep. Liz Cheney on Tuesday following criticism of her decision to vote in favor of former President Donald Trump’s impeachment, saying that her experience and leadership are \"invaluable to the Republican Party.\""
     publishedDateTime: 2021-02-03T05:04:24Z
@@ -47,37 +63,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Senate Republicans will be 'very united' against convicting Trump after he left office: Graham"
-    excerpt: "Sen. Lindsey Graham, R-S.C., predicted Wednesday that Republicans would be \"very united\" against convicting former President Donald Trump of incitement of insurrection in his second impeachment trial, which begins next week."
-    publishedDateTime: 2021-02-03T21:00:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8kvj_6MUA18/lindsey-graham-republicans-very-united-against-trump-impeachment-conviction"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-republicans-very-united-against-trump-impeachment-conviction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-republicans-very-united-against-trump-impeachment-conviction.amp"
+  - title: "Live Updates: Cheney, who voted for Trump impeachment, holds on to GOP leadership position"
+    excerpt: "Embattled Rep. Liz Cheney, the third-highest-ranking Republican in the House, held on to her title as House GOP conference chair on Wednesday after easily surviving a push by Trump loyalists to strip her of her leadership position."
+    publishedDateTime: 2021-02-04T11:07:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oD7dWB-mVOQ/live-updates-trump-impeachment-2-4-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-4-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-4-2021.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce0ff8aa-4ebc-4f0a-b188-e29d6303380f/f2169d82-7384-44cf-93f0-ae8b40aab209/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e0dfedbd-dfc4-4cd5-b565-1133911fbe12/aec38a4d-cbe6-43fa-8ed2-28829a019de7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: White House clarifies intelligence officials will determine Trump's access to briefings"
-    excerpt: "Follow for the latest updates on the White House.  "
-    publishedDateTime: 2021-02-07T07:44:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQfEw5pDUjs/live-updates-white-house-trump-2-7-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-white-house-trump-2-7-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-white-house-trump-2-7-21.amp"
+  - title: "Liz Cheney in Donald Trump Jr.’s 2022 crosshairs"
+    excerpt: "It’s a long way down the road, but it appears  Jr.’s already making plans to travel to Wyoming next year to target Rep. Liz Cheney in the Republican primaries as she runs for re-election."
+    publishedDateTime: 2021-02-08T22:18:00Z
+    webUrl: "https://www.foxnews.com/politics/liz-cheney-donald-trump-jr-wyoming-primary"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-donald-trump-jr-wyoming-primary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-donald-trump-jr-wyoming-primary.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9afddc93-7228-4852-850b-9711102bbb72/4053956a-dce6-43cc-b729-c596965e4d2f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "McConnell defends GOP Rep. Liz Cheney, who voted to impeach Trump: 'A leader with deep convictions'"
     excerpt: "Cheney has faced calls to resign from her post as House GOP conference chair since she and nine other Republicans crossed party lines to impeach Trump."

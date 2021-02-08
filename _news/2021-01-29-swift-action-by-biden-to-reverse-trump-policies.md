@@ -321,6 +321,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration in fraught position with some Trump-appointed US attorneys"
+    excerpt: "Distrust of Trump-era appointees led the Biden administration to appoint a career Justice Department official as acting attorney general while it waits for the US Senate to confirm Merrick Garland, the President's nominee to lead the department.\n    \n"
+    publishedDateTime: 2021-02-08T21:28:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MGBoBmInjaw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/leftover-trump-us-attorneys/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/leftover-trump-us-attorneys/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125124427-trump-doj-acting-attorney-plot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Explaining the Supreme Court lawsuit from Texas and Trump challenging Biden's win"
     excerpt: "Although all 50 states have certified their election results and the Supreme Court swiftly rejected an emergency request from Pennsylvania Republicans to block election results in the commonwealth, the justices are now grappling with a new controversial bid from Texas, supported by President Donald Trump"
     publishedDateTime: 2020-12-10T12:07:05Z

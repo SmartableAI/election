@@ -58,6 +58,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says team 'exceeding' goal of 100 million vaccine doses in first 100 days"
+    excerpt: "Biden provided the update as he and Vice President Kamala Harris spoke to Arizona health care officials during a virtual tour of the vaccination site at State Farm Stadium in Glendale."
+    publishedDateTime: 2021-02-08T21:19:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Us2qvKnkpAE/biden-says-team-exceeding-goal-of-100-million-vaccine-doses-in-first-100-days"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-team-exceeding-goal-of-100-million-vaccine-doses-in-first-100-days.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-team-exceeding-goal-of-100-million-vaccine-doses-in-first-100-days.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f62f0b17-9ceb-457d-bb9b-5cb174d019e8/7404b95a-227a-479d-b3b6-a2919aee39f5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Teachers unions' political support for Biden paying off as he takes their side in reopening battle"
     excerpt: "After spending millions to support President Biden and other Democrats in the 2020 election cycle, teachers unions are finding Biden to be a reliable ally."
     publishedDateTime: 2021-02-03T20:14:48Z

@@ -2,6 +2,175 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-22-alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.md",
+      "title": "Alejandro Mayorkas: What to know about Biden's DHS pick",
+      "excerpt": "President Biden has nominated Alejandro Mayorkas to be the next secretary of the Department of Homeland Security (DHS), who will take a key role in the closely watched area of immigration policy.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TOGt64wuNMc/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TOGt64wuNMc/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21019608674449.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp",
+      "publishedDateTime": "2021-01-22T09:53:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-trump-may-have-made-one-thing-great-after-all-the-democratic-party.md",
+      "title": "Trump may have made one thing 'great' after all: the Democratic Party",
+      "excerpt": "If Democrats are going to hold on to the momentum galvanized under Trump’s disastrous term, they need to deliver. President Donald Trump's promise to \"Make America Great Again\" turned out to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/opinion/trump-may-have-made-one-thing-great-after-all-democratic-n1255240",
+      "originalUrl": "https://www.msnbc.com/opinion/trump-may-have-made-one-thing-great-after-all-democratic-n1255240",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_03/3443977/210121-democratic-party-great-again-main-2x1-an_c61ed483fca4984ffa89420fdf5b4d6a.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/ncna1255240",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/ncna1255240",
+      "publishedDateTime": "2021-01-22T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-joe-biden-putting-saudi-arabia-first-by-halting-keystone-xl-pipeline-sen-daines.md",
+      "title": "Joe Biden putting 'Saudi Arabia first' by halting Keystone XL pipeline: Sen. Daines",
+      "excerpt": "Sen. Steve Daines, R-Mont., believes President Biden killing the Keystone XL pipeline shows he’s putting \"Saudi Arabia first,\" not American workers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3rY_Xz43Yk/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3rY_Xz43Yk/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8739bad5-122d-4973-b234-ee256eb316c7/b9584c73-a26d-4377-b028-e14ccdfaba67/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp",
+      "publishedDateTime": "2021-01-22T08:01:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-fauci-says-lack-of-candor-from-trump-administration-very-likely-cost-lives.md",
       "title": "Fauci says lack of candor from Trump administration 'very likely' cost lives",
       "excerpt": "Dr. Anthony Fauci said Friday that the lack of truthfulness from the Trump administration regarding the Covid-19 pandemic \"very likely\" cost American lives.\n    \n",
@@ -1204,166 +1373,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-theologian-russell-moore-has-a-message-for-christians-who-still-worship-donald-trump.md",
-      "title": "Theologian Russell Moore Has a Message for Christians Who Still Worship Donald Trump",
-      "excerpt": "If you can defend this, you can defend anything,” wrote Russell Moore, a theologian who is also the president of the Ethics and Religious Liberty Commission (ERLC) of the Southern Baptist Convention (SBC),",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/5932014/donald-trump-christian-supporters/",
-      "originalUrl": "https://time.com/5932014/donald-trump-christian-supporters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2021/01/russell-moore-conservative-christians.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T03:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-first-100-days-of-biden-obama-clinton-escalating-spending-to-address-economic-challenge.md",
-      "title": "First 100 days of Biden, Obama, Clinton: Escalating spending to address economic challenge",
-      "excerpt": "The first 100 days of a two-term presidency mark about 3% of the eight-year span, but since President Franklin Delano Roosevelt, this brief early window of opportunity has been used to judge a new commander in chief’s agenda.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XD1cxSwvKd8/first-100-days-biden-clinton-obama",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XD1cxSwvKd8/first-100-days-biden-clinton-obama",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b73bb84-117b-4aef-abac-694d134af224/c072ecd3-b207-4d6d-81b1-e63d907ca983/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/first-100-days-biden-clinton-obama.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-100-days-biden-clinton-obama.amp",
-      "publishedDateTime": "2021-01-21T03:15:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-kamala-harris-americas-first-female-black-vice-president.md",
-      "title": "Kamala Harris: America’s first female, Black vice president",
-      "excerpt": "Kamala Harris smashed through one of the United States’ highest glass ceilings on Wednesday, becoming the first woman, first Black American and first person of Asian heritage to be appointed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/news/2021/1/21/kamala-harris-americas-first-woman-black-vice-president",
-      "originalUrl": "https://www.aljazeera.com/news/2021/1/21/kamala-harris-americas-first-woman-black-vice-president",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 765,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2021/01/2021-01-20T182444Z_767356047_RC2UBL9KFKG0_RTRMADP_3_USA-BIDEN-INAUGURATION.jpg?resize=1200%2C630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/news/2021/1/21/kamala-harris-americas-first-woman-black-vice-president",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2021/1/21/kamala-harris-americas-first-woman-black-vice-president",
-      "publishedDateTime": "2021-01-21T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

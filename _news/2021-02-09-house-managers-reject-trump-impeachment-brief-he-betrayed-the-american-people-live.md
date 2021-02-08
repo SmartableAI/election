@@ -3,8 +3,8 @@ category: news
 title: "House managers reject Trump impeachment brief: 'He betrayed the American people' – live"
 excerpt: "Polling shows slim majority of Americans want Trump convicted and barred from office"
 publishedDateTime: 2021-02-08T20:35:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-60214f008f0882db493fecd3"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-60214f008f0882db493fecd3"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-6021711b8f0882db493fef36"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-6021711b8f0882db493fef36"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
 type: article
@@ -62,6 +62,6 @@ related:
         height: 787
         isCached: true
 
-secured: "8WX40XjBZFBW2nWeZS6T77W1XJRBJNqG308Y8EFCGuCLylbql7K+ypNfIsbMl13bhqogRUhsfBzCVpIeXAGoB3VHqjP3QtHOkHkagAD/EnbxPbnsTa7/syi2FF8A+af5r9uy97ZT3XeFXd03AD5doFD9uLzNyGOVVesqoJnDUyUvgBK+b4mIW83/fvmflI+q3m1x7ZHPh6JwGiM8MbzAImddgFPezNdzLQII0r4d3bSsyXgoNL36Do+wtIcL6VryTyq63kh5EWNAmb0w8mOfeNsI2aqBS/Yi4HIIYqFJigDBde1E6YZwEggFNZG/RYk7Nv6/XLn/4KPwH74zywMBWcoudW9x56tK4aHv3EjVL6M=;x5txR+aJRg3l8QbwudOszg=="
+secured: "qtINSCTNGUyL622zarqasT66V/j4COJasckYbFWa++Y7QdNhJG3156XmDcZJimskBqA238AiSTtjpxdOSCp2w+crozRiKCUKRr0epKqQW9fIeGqWFWwLA8CO6HJ891sR5rXc5EMVLxW8Tp74vFPQJIfQPMpl/2I65pGG2vDzwPccZ3pbFszAdGAVbxD2fCfr+Q2vp9bkpgczY0O1JqJb8SwgNNQstziY9dmggyWOEafqmTO9VNVb487UMhYKnJYsdDfRWNSp/cQfnwdv0eN6F6PfEt3V0B34RvHzyfyraJ3SNTDzg7NxSEV6jzSnMwoW7tOKv5wGAwBmEayB7TdJpAuTs2xSKfWJoVI7Lc8hvWw=;Z2cALPt98kyl81cbsjsTHw=="
 ---
 

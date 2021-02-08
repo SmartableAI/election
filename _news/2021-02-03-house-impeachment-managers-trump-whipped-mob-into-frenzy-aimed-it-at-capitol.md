@@ -32,7 +32,7 @@ related:
   - title: "House managers reject Trump impeachment brief: 'He betrayed the American people' – live"
     excerpt: "Polling shows slim majority of Americans want Trump convicted and barred from office"
     publishedDateTime: 2021-02-08T20:35:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-60214f008f0882db493fecd3"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-6021711b8f0882db493fef36"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
     type: article

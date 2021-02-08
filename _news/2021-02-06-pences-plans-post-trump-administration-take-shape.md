@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pences-post-trump-administration-pl
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/"
 type: article
 quality: 150
-heat: 2590
+heat: 2610
 published: true
 
 provider:
@@ -1868,6 +1868,17 @@ related:
         width: 1024
         height: 658
         isCached: true
+  - title: "US Plans to Reengage With UN Rights Council, Reversing Trump"
+    excerpt: "The Biden administration has announced plans to reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago."
+    publishedDateTime: 2021-02-08T22:41:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Pentagon Purges Advisory Boards After Flurry of Trump End-Of-Term Appointees"
     excerpt: "New Defense Secretary Lloyd Austin has stripped several hundred appointees of their posts on Pentagon advisory boards, a number of whom took office at the end of President Donald Trump's administration,"
     publishedDateTime: 2021-02-02T20:04:00Z

@@ -46,22 +46,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Cheney, who voted for Trump impeachment, holds on to GOP leadership position"
-    excerpt: "Embattled Rep. Liz Cheney, the third-highest-ranking Republican in the House, held on to her title as House GOP conference chair on Wednesday after easily surviving a push by Trump loyalists to strip her of her leadership position."
-    publishedDateTime: 2021-02-04T11:07:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oD7dWB-mVOQ/live-updates-trump-impeachment-2-4-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-4-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-4-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e0dfedbd-dfc4-4cd5-b565-1133911fbe12/aec38a4d-cbe6-43fa-8ed2-28829a019de7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "5pDTf9sy83d2DbOfrMD0jIHWie8Suj8fMVhnHUj+W3zrbwqeKBxmZs+8YqWKjBXPGFJ6gHwGY3S3VXTWj6HUtzYWPqHL/DfgsWNfvHqbBWJRo2KjSCjyu7Sa1Uy+AHRUljrFA1ivTikwbv7KQFinVodvHZ7kCAK5GFi4mvTMPIR9szdLVfA6aemcMQkKKG1azo4pcxC/7+VNCXDJuwVmuA9M7xDYsGmLPJqKKQlWdIgy+O8StvPKhHuCXamKkxy9yzzeym2eQ9J02VH+tDHliq8frO71/YPcmzN5l7ofaMCtAdzBWJ9UzylFxpvHkiXSZTVnm7ZRDmBLGzubGsRedNvDv0mnC1YmfmdQ6vQL3lU=;ZnRViiQgYJZHOitPkoMWXA=="
 ---

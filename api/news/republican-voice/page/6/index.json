@@ -2,6 +2,118 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-18-disgraced-ex-baltimore-mayor-wants-trump-to-commute-her-sentence.md",
+      "title": "Disgraced ex-Baltimore mayor wants Trump to commute her sentence",
+      "excerpt": "Catherine Pugh, the disgraced former Baltimore mayor convicted of using her book sales to help fund a political career, is reportedly among those seeking clemency from President Donald Trump before he leaves office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XEHvQBDUbtw/ex-baltimore-mayor-trump-commute-sentence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XEHvQBDUbtw/ex-baltimore-mayor-trump-commute-sentence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/GettyImages-832602030.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ex-baltimore-mayor-trump-commute-sentence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-baltimore-mayor-trump-commute-sentence.amp",
+      "publishedDateTime": "2021-01-18T11:47:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-biden-aims-to-make-america-california-again-paper.md",
+      "title": "Biden aims to 'Make America California Again': paper",
+      "excerpt": "The Los Angeles Times ran a headline Sunday that is sure to grab the attention of Trump supporters everywhere: “Make America California Again? That’s Biden’s plan.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IscsvpwQ7CU/biden-aims-to-make-america-california-again-paper",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IscsvpwQ7CU/biden-aims-to-make-america-california-again-paper",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-aims-to-make-america-california-again-paper.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-aims-to-make-america-california-again-paper.amp",
+      "publishedDateTime": "2021-01-17T21:18:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-biden-transition-official-tells-migrant-caravans-now-is-not-the-time-to-come-to-us.md",
       "title": "Biden transition official tells migrant caravans: 'Now is not the time' to come to US",
       "excerpt": "An unnamed Biden transition official told NBC News that migrants hoping to claim asylum in the U.S. during the first few weeks of the new administration \"need to understand they're not going to be able to come into the United States immediately.",
@@ -1541,118 +1653,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-promises-450-miles-border-wall.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-promises-450-miles-border-wall.amp",
       "publishedDateTime": "2021-01-12T14:21:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-miranda-devine-dems-hatred-for-trump-supporters-is-un-american.md",
-      "title": "Miranda Devine: Dems 'hatred' for Trump supporters is 'un-American'",
-      "excerpt": "Fox News contributor Miranda Devine said Tuesday the rhetoric used against President Trump's supporters after the Capitol riots are dividing the country further. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3MaGrNW6BEI/miranda-devine-dems-hatred-trump-supporters-un-american",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3MaGrNW6BEI/miranda-devine-dems-hatred-trump-supporters-un-american",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/miranda-devine-dems-hatred-trump-supporters-un-american.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/miranda-devine-dems-hatred-trump-supporters-un-american.amp",
-      "publishedDateTime": "2021-01-12T12:10:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-easy-for-joe-biden-to-heal-country-with-opposition-silenced-on-social-media-dave-rubin.md",
-      "title": "Easy for Joe Biden to 'heal' country with opposition silenced on social media: Dave Rubin",
-      "excerpt": "Big Tech censorship of President Trump and conservatives needs to be addressed now, or soon everyone will be silenced, Dave Rubin warned Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZq7yGxgtxw/biden-twitter-facebook-trump-social-media-dave-rubin-censorship",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZq7yGxgtxw/biden-twitter-facebook-trump-social-media-dave-rubin-censorship",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-twitter-facebook-trump-social-media-dave-rubin-censorship.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-twitter-facebook-trump-social-media-dave-rubin-censorship.amp",
-      "publishedDateTime": "2021-01-12T08:09:12-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

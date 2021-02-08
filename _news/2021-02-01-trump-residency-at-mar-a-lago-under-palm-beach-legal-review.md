@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/florida-palm-beach-legal-review-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/matt-gaetz-trump-01.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "A Palm Beach Property Once Owned by Donald Trump Sells for Close to $140 Million"
+    excerpt: "Now one of the most expensive homes ever sold nationwide, the waterfront lot was once part of Trump’s Maison de L’Amitie estate."
+    publishedDateTime: 2021-02-08T15:49:00Z
+    webUrl: "https://www.wsj.com/articles/a-palm-beach-property-once-owned-by-donald-trump-sells-for-close-to-140-million-11612802955"
+    ampWebUrl: "https://www.wsj.com/amp/articles/a-palm-beach-property-once-owned-by-donald-trump-sells-for-close-to-140-million-11612802955"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-palm-beach-property-once-owned-by-donald-trump-sells-for-close-to-140-million-11612802955"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-293230/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "National Geographic documentary on new Air Force One takes a look at design Trump helped shape"
     excerpt: "Former President Donald Trump pushed to update and change the planes to make them more modern, both in design and capabilities."
