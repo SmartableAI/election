@@ -3,8 +3,8 @@ category: news
 title: "Herd immunity by summer ‘difficult’: Biden"
 excerpt: "Biden. Posted . President Joe Biden said that it will be difficult for the United States to reach herd immunity, at least 75% of"
 publishedDateTime: 2021-02-08T01:24:00Z
-originalUrl: "https://www.reuters.com/video/watch/herd-immunity-by-summer-difficult-biden-id725492839?chan=6g5ka85"
-webUrl: "https://www.reuters.com/video/watch/herd-immunity-by-summer-difficult-biden-id725492839?chan=6g5ka85"
+originalUrl: "https://www.reuters.com/video/watch/idOVDYNGOV3"
+webUrl: "https://www.reuters.com/video/watch/idOVDYNGOV3"
 type: article
 quality: 105
 heat: -1
@@ -236,6 +236,6 @@ related:
         height: 539
         isCached: true
 
-secured: "RwU+xZ2uf6Bj+wGApPPYwXn7b+RaVJTwbaqnTNL4fwBF3A7TG751Q+i+F+dAqPJd1eI/Qa0mcUlBM0vkOIV7jIzNeLUc2Fseyo0vbeJbHQkwQ3RFODtGYv8TytL47RJh7vaLljK98WPbxwnY+WHisze3a+mc5dFNo5Wt/61c6OUO0pRWRL7GfrrjYuNKMTAU030Jk9wOhEVavNNLbgdD3jVOh86j1ey6PLtFjqG/lIQ6CN4pGL6B0foIfUHzY+LC5pSaI5oZxniSIYy+IGb1R6klhF1ml6KgbrEExHkn45BoFzsK/Em0E20FD7UmmZ4XlBlyJT70kEnKHd3o2ZYe4mVfihuQ3ibxumbJlE48POT+doIi8RgTUPSJszcF7tQziDnKA7jJcoM6f/4YsACx4M9YTmJI2uVdIH0F1WQTFGd6OJzHE9v76iLHv1dHKSsFg263leoOJpDor9KGI0dMbA27adS+QeAWwCR9uZVNicUme3S0lHgoA6aPWU8DdR8eQSUWLSClZWoxvO5r0FEJpA==;ccXWmUxT7uSLwSPaOlIeww=="
+secured: "XxtHGM2YzcZNjBfMp1gbP/0XAV9ktxsYGFOdTa6utyoEc/3z4lF8sfDuoULkAth1FeajpqyFrMrK4IrfpCuVgcGjPwnZ56Wfnxco99U+MlzKk6oRBqUuLe/KrX/VwwvikQ08a5UyIgpSHmnM2lhvB4SniJguuPiPr4l/HyPrWGx2PQbcpHqv+3f7J8Y0ZtiByopuT8rMZ8TVTNXr4eNn5v3wQHrVwXGZPupGzY2yUoGcFuM8bQOF5fK464OoSyw0mSfueOvLea5AlFAU6EO/8h0WmAZzySUQlDBk+AXGflGdUlVz1tf3pXl1iK7yUSbbD2iXe/QvDA97L/vgf12Tef/cGx6aZ0SqYRF1QTcLhbM=;2vqv/5o8xKygSsPqYF0TzA=="
 ---
 

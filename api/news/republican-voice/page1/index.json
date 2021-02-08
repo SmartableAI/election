@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-08-cotton-bidens-liberal-media-friends-finally-coming-around-to-calling-for-wuhan-lab-investigation.md",
+      "title": "Cotton: Biden's liberal media 'friends' finally coming around to calling for Wuhan lab investigation",
+      "excerpt": "Ark., said Monday that he was \"glad to see Joe Biden singing a different tune\" in regards to the US' foreign policy stance on China, but criticized the President for not outlining what the specifics of his strategy might be.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton",
+      "originalUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f82d77b7-fe6c-4f60-ab9e-a63cff8cef75/1518879f-32d2-4235-8fa1-dcc95e691b26/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton.amp",
+      "publishedDateTime": "2021-02-08T06:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-donald-trump-banned-from-rejoining-sag-aftra-after-resigning-amid-disciplinary-action-vote.md",
       "title": "Donald Trump banned from rejoining SAG-AFTRA after resigning amid disciplinary action vote",
       "excerpt": "Following his resignation from The Screen Actors Guild - American Federation of Television and Radio Artists, the union pushed a resolution banning Donald Trump from ever applying for readmission.",
@@ -71,7 +128,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 826,
+      "heat": 866,
       "tags": null,
       "images": [
         {
@@ -352,7 +409,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1604,62 +1661,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-3-2021.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-3-2021.amp",
       "publishedDateTime": "2021-02-02T21:04:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-sen-kennedy-blasts-immeasurably-foolish-biden-orders-that-will-gut-louisiana-like-a-fish.md",
-      "title": "Sen. Kennedy blasts 'immeasurably foolish' Biden orders that will 'gut Louisiana like a fish'",
-      "excerpt": "Sen. John Kennedy, R-La., warned Tuesday that President Biden's sweeping executive orders related to the industrial energy sector and immigration will be detrimental to both the nation and, in the former case, his home state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RAcaTpjN_gA/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RAcaTpjN_gA/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad91f5b6-ed4f-41ac-b105-9fd686d6b5e1/e06686e2-9266-4384-8b53-bd22c3418899/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana.amp",
-      "publishedDateTime": "2021-02-02T17:16:25-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

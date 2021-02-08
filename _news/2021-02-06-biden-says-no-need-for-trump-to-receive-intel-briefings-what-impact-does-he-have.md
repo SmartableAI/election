@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden sidesteps Trump impeachment trial questions: 'Let the Senate work that out’"
+    excerpt: "President Biden sidestepped questions about former President Donald Trump's impeachment trial, which is set to begin Tuesday, saying it is up to the Senate to \"work that out.\""
+    publishedDateTime: 2021-02-08T16:33:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lnJJlr2_LTM/biden-sidesteps-trump-impeachment-trial-questions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump WH sign-language interpreter says Biden administration 'canceled and humiliated' her"
     excerpt: "The White House sign-language interpreter who was outed as a supporter of former President Donald Trump said Sunday that she hasn’t been offered a return engagement since — and blasted critics who attacked her credibility and professionalism."
     publishedDateTime: 2021-02-08T13:28:34Z
@@ -396,6 +412,22 @@ related:
     quality: 160
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Dem senator Chris Murphy on Trump impeachment trial: Not 'ridiculous’ for GOP to argue it’s unconstitutional"
+    excerpt: "Sen. Chris Murphy on Sunday said that he believes the Senate has a responsibility to hold an impeachment trial of former President Donald Trump, adding that it is an open question whether or not such a trial is constitutional."
+    publishedDateTime: 2021-02-08T16:21:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fCLBIxb8XLQ/dem-senator-chris-murphy-says-argument-that-impeachment-trial-is-unconstitutional-is-not-ridiculous"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-senator-chris-murphy-says-argument-that-impeachment-trial-is-unconstitutional-is-not-ridiculous.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-senator-chris-murphy-says-argument-that-impeachment-trial-is-unconstitutional-is-not-ridiculous.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

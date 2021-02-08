@@ -287,6 +287,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Democrats ask Biden White House for documents related to alleged Trump administration political interference in Covid response "
+    excerpt: "House Democrats on Monday asked the Biden administration to hand over long-sought documents from the Trump administration regarding its response to the coronavirus pandemic, renewing an investigation into what role alleged political interference by former officials may have played in the virus' threat.\n"
+    publishedDateTime: 2021-02-08T15:30:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/83QsoR5npOU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/house-biden-administration-trump-political-interference/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/house-biden-administration-trump-political-interference/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208091309-us-capitol-0208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Investigators recommend no charges for US Capitol Police officer accused of killing pro-Trump rioter during insurrection"
     excerpt: "Investigators have recommended that prosecutors decline to bring charges against a US Capitol Police officer in the shooting of a pro-Trump rioter who was killed during the insurrection, according to people familiar with the matter.\n    \n"
     publishedDateTime: 2021-02-02T00:19:57Z

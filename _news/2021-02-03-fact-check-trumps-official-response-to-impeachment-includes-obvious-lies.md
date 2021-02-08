@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/fact-check-trump-impeach
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/fact-check-trump-impeachment-response-senate/index.html"
 type: article
 quality: 173
-heat: 293
+heat: 313
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/02/us/politics/02new-washington-briefing-promo2/02new-washington-briefing-promo2-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump, Senate Republicans, no chief justice: What to know about the impeachment trial"
+    excerpt: "Which Republicans could vote to convict and what we'll hear from Trump are two key questions as the trial begins."
+    publishedDateTime: 2021-02-08T16:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/five-things-watch-trump-impeachment-trial-n1256908"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256908"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256908"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3448366/210208-donald-trump-mc-1002_c33c00e9d65758864f16cf62b6c464df.JPG"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "NmVBZ1hmNukP0+eeOAM1jox9cNJoPW1m1Uksaame2mx2OHG/WQyV7pP0LRhBe1dNnNZcQipGaJBXOlqqnGPaVKOe1I9WAY/0aKHreiMO7SeFpmqCWUmRaMcFU4F1eu6CBewEezekUNq1zum2wM6HwLcUGlPaKX6Wz/s0DaKSfW2Xll3PMMnDkU4buuinwug+wODgHfuhap78pgkaLEd91upcqtn5PlUzAYbpLtGF1NKdAGWOkAgx2Ff08QVdEVDX0SlsKZMFE6Kny6uKEcsE0xcni8NPoCWQvxVBpSAC8VssekaFSu9ivodJJTyUoa5V2gsE46/lcUmrCAylGYluoiwlDi2IGlpIbRumqtmIrLs=;o+HH7qtlg254Z5GUJFrLxA=="

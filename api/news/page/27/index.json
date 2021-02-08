@@ -2,6 +2,110 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-01-01-fact-check-president-trump-spent-thanksgiving-with-troops-in-afghanistan-in-2019-not-2020.md",
+      "title": "Fact check: President Trump spent Thanksgiving with troops in Afghanistan in 2019, not 2020",
+      "excerpt": "Social media users having been sharing posts that claim President Donald Trump spent Thanksgiving 2020 with troops in Bagram, Afghanistan, not playing golf. This claim is false: the photo of Trump in Bagram is from 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-trump-thanksgiving-afghanis/fact-check-president-trump-spent-thanksgiving-with-troops-in-afghanistan-in-2019-not-2020-idUSKBN296286",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-trump-thanksgiving-afghanis/fact-check-president-trump-spent-thanksgiving-with-troops-in-afghanistan-in-2019-not-2020-idUSKBN296286",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546338440&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH00140",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN296286",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN296286",
+      "publishedDateTime": "2021-01-01T06:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-01-trump-attacks-and-vote-by-mail-the-top-voting-rights-stories-of-2020.md",
+      "title": "Trump attacks and vote by mail: the top voting rights stories of 2020",
+      "excerpt": "The pandemic created new barriers to the ballot box and strengthened existing ones – aided by the president and his Republican allies",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5e11026192d8237ee0edc6181e2e4ab0c7fbb0e7/0_0_4000_2668/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9483731ba5514da97ac2b855bfcd44c3",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
+      "publishedDateTime": "2021-01-01T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory.md",
       "title": "GOP senator rebukes 'dangerous ploy' to fight Biden victory",
       "excerpt": "Republican Sen. Ben Sasse of Nebraska has issued a pointed rebuke of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation's civic traditions.",
@@ -1243,115 +1347,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-trump-pardon-of-blackwater-iraq-contractors-violates-international-law-un.md",
-      "title": "Trump pardon of Blackwater Iraq contractors violates international law - UN",
-      "excerpt": "U.S. President Donald Trump's pardon of four American men convicted of killing Iraqi civilians while working as contractors in 2007 violated U.S. obligations under international law, U.N. human rights experts said on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-iraq-blackwater-un/trump-pardon-of-blackwater-iraq-contractors-violates-international-law-un-idUSKBN294108",
-      "originalUrl": "https://www.reuters.com/article/us-iraq-blackwater-un/trump-pardon-of-blackwater-iraq-contractors-violates-international-law-un-idUSKBN294108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546149005&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT0KQ",
-          "width": 662,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN294108",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN294108",
-      "publishedDateTime": "2020-12-30T07:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-pence-did-not-back-lawmaker-plan-to-overturn-election-results-lawyers.md",
-      "title": "Pence did not back lawmaker plan to overturn election results: lawyers",
-      "excerpt": "Attorneys representing Rep. Louie Gohmert, R-Texas, and the slate of Republican electors from Arizona indicated in a court filing that Vice President Mike Pence did not agree with their position that Pence could choose between counting the electoral votes of Democrats or Republicans from states where",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x1TOc836deA/pence-refusal-gohmert-overturn-election-lawsuit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x1TOc836deA/pence-refusal-gohmert-overturn-election-lawsuit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd218746-666b-499a-9bdc-4477e8ecc43e/83ac662e-0ac7-4e5a-a4d4-fb5c95f17081/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-refusal-gohmert-overturn-election-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-refusal-gohmert-overturn-election-lawsuit.amp",
-      "publishedDateTime": "2020-12-30T05:13:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

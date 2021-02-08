@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/joe-biden-jobs-numbers-r
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/joe-biden-jobs-numbers-relief-package/index.html"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says closed schools and loss of women in workforce is a 'national emergency'"
+    excerpt: "President Joe Biden said in an interview aired Sunday it was a \"national emergency\" that many students have been kept out of classrooms and that there has been a staggering loss of women in the workforce because of the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-02-08T16:46:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x1bznthlNf4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/biden-schools-women-workforce-emergency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/biden-schools-women-workforce-emergency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205214008-02-biden-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Biden Hopes to Win G.O.P. Support on $1.9 Trillion Relief Package"
     excerpt: "But some Democrats see a path forward unilaterally. The administration named Robert Malley as a special envoy who must persuade Tehran to rein in its nuclear program."
     publishedDateTime: 2021-01-29T08:42:00Z

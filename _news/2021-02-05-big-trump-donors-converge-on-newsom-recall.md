@@ -286,6 +286,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Democrats ask Biden White House for documents related to alleged Trump administration political interference in Covid response "
+    excerpt: "House Democrats on Monday asked the Biden administration to hand over long-sought documents from the Trump administration regarding its response to the coronavirus pandemic, renewing an investigation into what role alleged political interference by former officials may have played in the virus' threat.\n"
+    publishedDateTime: 2021-02-08T15:30:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/83QsoR5npOU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/house-biden-administration-trump-political-interference/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/house-biden-administration-trump-political-interference/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208091309-us-capitol-0208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House Democrats to accuse Trump of intentionally inciting rioters with months-long campaign to subvert voters"
     excerpt: "House impeachment managers are preparing a case for next week's Senate impeachment trial to argue former President Donald Trump acted intentionally in a months-long efforts to subvert the will of the voters that incited the US Capitol riot, as well as why it's constitutional for convicting Trump after"
     publishedDateTime: 2021-02-01T22:12:01Z

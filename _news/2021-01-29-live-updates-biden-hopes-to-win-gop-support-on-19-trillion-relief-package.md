@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says closed schools and loss of women in workforce is a 'national emergency'"
+    excerpt: "President Joe Biden said in an interview aired Sunday it was a \"national emergency\" that many students have been kept out of classrooms and that there has been a staggering loss of women in the workforce because of the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-02-08T16:46:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x1bznthlNf4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/biden-schools-women-workforce-emergency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/biden-schools-women-workforce-emergency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205214008-02-biden-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "BHad8hDDnmqORjPMgluVM64umweuzRWubS0mCuyVRBdjuzhisfotPZvVdkv+Rd+iVh6hbLMDJDwAKqnCSsc2xgIKWJR+mexwURQEZ1s7ihnEdzICAc7RgMg2EF+T7rI9s7LACAKnYaMVQeIXB0smmTrefM9OQFPtzWeGxYXxjtnnOTeUbyJypkx8DjoWVCrDa/N7j02/JSnmKAbydQva/GXpK6E5mmYOi1MIqpRtI2Ve6C6lJ23aQncDBPp1P9A8ll/Ex3MaJAzyUwdbKWmBaxmHvnQX3HuO3a/M/v2Ypw2eeBa0otMgYhK68vqmJJfHIzZOToOA8ZdMoFZafhiBIzf9KvaQctoCjAzc0TiCT2g=;kdr0VCtsCfZlr+jeKqv3aQ=="
 ---

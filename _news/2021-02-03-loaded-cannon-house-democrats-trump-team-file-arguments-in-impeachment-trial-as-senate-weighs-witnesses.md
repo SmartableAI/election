@@ -167,6 +167,17 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Trump Lawyers Blast Impeachment Trial as 'Political Theater'"
+    excerpt: "Lawyers for Donald Trump are blasting the impeachment case against him as an act of “political theater” by Democrats."
+    publishedDateTime: 2021-02-08T16:45:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "YYPatKc3pYpbbugJ1uESs88jkkvodQtD2eCP6VmdikovazB1K7hwaCqDuK3ZDu2qmMOiLJA0otcOphCjC+eBp+aqlrH8hTqeerP1ZPWtIxSaHsCLwxmTnr89+1KKpVxqPzZCzAzvJYGJTpb8JbOGjsg8/YcIGTtSCc44VurJSlgxQ9wJrOZ/F5kMrd5PNZ2ytYpj+H1irMCkjWwzRoLNm3XnIIFpL2YBo+lIscxZNluR32fcQNdsJ48hSCsP4k14Kaodz1iHhtCNz4heR6ZDGBeNAGDeZOSBW0KgXTWZutMTKn1rvm0Erg/g4ambZGYzY7GE88bdsmY47eAQOTL6jgrjVXWkqJ3Ule+1rc1qtLE=;lf+6yaN7fDhSUbVUJQ9S9g=="
 ---

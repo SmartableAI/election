@@ -2,6 +2,119 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-12-08-trumps-election-fraud-claims-push-arizona-gop-to-ask-voters-if-they-are-willing-to-die-for-results.md",
+      "title": "Trump's election-fraud claims push Arizona GOP to ask voters if they are 'willing' to die for results",
+      "excerpt": "The Arizona Republican Party released a tweet Tuesday asking voters if they were “willing” to give their lives to overturn the results of the 2020 November election -- an attitude adopted after President Trump has repeatedly claimed the election was fraudulent.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VFUsulOQgiI/trump-fraud-claims-arizona-gop-voters-willing-to-die-results",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VFUsulOQgiI/trump-fraud-claims-arizona-gop-voters-willing-to-die-results",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f548e96-0e69-4b34-9ffc-9dd478097051/8a04cbe6-53ec-4a37-b8f7-f91a0a51d40b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-fraud-claims-arizona-gop-voters-willing-to-die-results.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fraud-claims-arizona-gop-voters-willing-to-die-results.amp",
+      "publishedDateTime": "2020-12-08T14:58:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-why-safe-harbor-day-is-bad-news-for-trump.md",
+      "title": "Why ‘safe harbor day’ is bad news for Trump",
+      "excerpt": "Under federal law, states must certify their election results and resolve any leftover legal issues by December 8. If they do, Congress must recognize their electors. The attorney general of Texas said his state is asking the Supreme Court to delay the electoral college meeting,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/why-safe-harbor-day-is-bad-news-for-trump-97357381564",
+      "originalUrl": "https://www.nbcnews.com/now/video/why-safe-harbor-day-is-bad-news-for-trump-97357381564",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202012/ott_now_safeharbdead_201208_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo97357381564",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo97357381564",
+      "publishedDateTime": "2020-12-08T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-supreme-court-rejects-pennsylvania-republicans-attempt-to-block-biden-victory.md",
       "title": "Supreme Court rejects Pennsylvania Republicans' attempt to block Biden victory",
       "excerpt": "The Supreme Court has denied a request from Pennsylvania Republicans to block certification of Pennsylvania's election results, delivering a near fatal blow to the GOP's long-shot bid to invalidate President-elect Joe Biden's victory.\n    \n",
@@ -1244,118 +1357,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-republicans-slam-bidens-hhs-pick-becerra-as-disaster-for-california.md",
-      "title": "Republicans slam Biden's HHS pick Becerra as 'disaster for California'",
-      "excerpt": "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JjHymMUN7Oo/republicans-biden-hhs-xavier-becerra-abortion-senate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JjHymMUN7Oo/republicans-biden-hhs-xavier-becerra-abortion-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1181949866.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp",
-      "publishedDateTime": "2020-12-07T08:14:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-the-point-how-kelly-loeffler-backed-into-admitting-donald-trump-lost.md",
-      "title": "The Point: How Kelly Loeffler backed into admitting Donald Trump lost",
-      "excerpt": "Since coming to the Senate in January, Georgia Kelly Loeffler's has been the single biggest supporter of President Donald Trump's agenda. But even she knows the jig is up when it comes to his ongoing attempts to contest an election that he quite clearly lost.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kCTSwiAp20A/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kCTSwiAp20A/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201206225534-loeffler-georgia-senate-debate-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/07/politics/kelly-loeffler-donald-trump-debate/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/kelly-loeffler-donald-trump-debate/index.html",
-      "publishedDateTime": "2020-12-07T08:00:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

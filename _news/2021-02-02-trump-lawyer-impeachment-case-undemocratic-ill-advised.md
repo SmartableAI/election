@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impea
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -167,6 +167,17 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Trump Lawyers Blast Impeachment Trial as 'Political Theater'"
+    excerpt: "Lawyers for Donald Trump are blasting the impeachment case against him as an act of “political theater” by Democrats."
+    publishedDateTime: 2021-02-08T16:45:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-08/trump-impeachment-trial-to-open-with-sense-of-urgency-speed?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "fZrA/D60/s7pglwqvHsFOjsV6bAj8r1amWds04ZRPkXs/VZAgJmXNSaujC1xOnBMg0xg8WhTxOM05r59Gd063URSRym0NgCCl/KUJ+yCb1C46+QdmJKpoIXdkVhStKCatvSZaqmGLRxnzc/jzf0Jbh5dVyfIrCcvTcpuh2jOwYUieXP2zyJ2ezJMAs5SUmrdJqyMReZGv7b0q+lZAR3hewgmaXWTFDaJhDwwgH5onsBaaXXjqgEaX+D0NWyKyezciJRkxLOZjySGhmhAMym4QbAsLqo/fRL6bmMbOwAqasD4Nvvfaq9gQWHrW6RSaClFANbyg1Giqrd8YmIwnVbK4AsZDO0+nM2dAPs3ekTfekI=;sUSCtoJbz1dxTF6Ol/jCQQ=="
 ---

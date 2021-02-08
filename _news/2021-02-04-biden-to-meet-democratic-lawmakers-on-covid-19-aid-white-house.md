@@ -224,7 +224,7 @@ related:
   - title: "Herd immunity by summer ‘difficult’: Biden"
     excerpt: "Biden. Posted . President Joe Biden said that it will be difficult for the United States to reach herd immunity, at least 75% of"
     publishedDateTime: 2021-02-08T01:24:00Z
-    webUrl: "https://www.reuters.com/video/watch/herd-immunity-by-summer-difficult-biden-id725492839?chan=6g5ka85"
+    webUrl: "https://www.reuters.com/video/watch/idOVDYNGOV3"
     type: article
     provider:
       name: Reuters

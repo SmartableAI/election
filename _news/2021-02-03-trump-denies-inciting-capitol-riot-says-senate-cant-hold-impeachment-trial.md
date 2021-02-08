@@ -108,6 +108,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "When does the Trump impeachment trial start and how do I watch?"
+    excerpt: "Former President Trump’s second impeachment trial begins in the Senate on Tuesday -- this time for charges of incitement of an insurrection prior to the Jan. 6 Capitol chaos. "
+    publishedDateTime: 2021-02-08T16:24:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eVw2qlSLHRI/when-does-trump-impeachment-trial-start-how-do-i-watch"
+    ampWebUrl: "https://www.foxnews.com/politics/when-does-trump-impeachment-trial-start-how-do-i-watch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/when-does-trump-impeachment-trial-start-how-do-i-watch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/trump-raskin.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Raskin says Trump’s refusal to testify at impeachment supports ‘his guilt’"
     excerpt: "Rep. Jamie Raskin, D-Md., took former President Trump to task for refusing to testify at his second impeachment trial that many Republicans and Trump’s legal team have called a farce."
     publishedDateTime: 2021-02-05T09:20:08Z
@@ -409,6 +425,38 @@ related:
       - url: "https://images.wsj.net/im-296036/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Senate to begin second Trump impeachment trial this week"
+    excerpt: "The Senate will kick off the second impeachment trial of former President Donald Trump this week, with Democrats pushing forward despite little-to-no GOP support for the effort. The trial is"
+    publishedDateTime: 2021-02-08T16:09:00Z
+    webUrl: "https://nypost.com/2021/02/08/senate-to-begin-donald-trump-impeachment-trial-this-week/"
+    ampWebUrl: "https://nypost.com/2021/02/08/senate-to-begin-donald-trump-impeachment-trial-this-week/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/08/senate-to-begin-donald-trump-impeachment-trial-this-week/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Trump-Raskin.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump lawyers send Senate 75-page brief ahead of impeachment trial"
+    excerpt: "Former President Donald Trump’s lawyers on Monday sent to the Senate a 75-page brief more fully outlining Trump’s defense strategy. The document was released ahead of the Tuesday start"
+    publishedDateTime: 2021-02-08T16:12:00Z
+    webUrl: "https://nypost.com/2021/02/08/trump-lawyers-send-senate-75-page-brief-ahead-of-impeachment-trial/"
+    ampWebUrl: "https://nypost.com/2021/02/08/trump-lawyers-send-senate-75-page-brief-ahead-of-impeachment-trial/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/08/trump-lawyers-send-senate-75-page-brief-ahead-of-impeachment-trial/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Trump-Impeachment-Analysis.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Matt Gaetz says he’d resign House seat to defend Trump at impeachment trial"
     excerpt: "Matt Gaetz said he would resign if called on by former President Donald Trump to defend him in his upcoming impeachment trial, saying it’d be the “top priority in my life.” The Florida congressman made the comment in an interview with the Steve Bannon-hosted podcast “War Room Pandemic."

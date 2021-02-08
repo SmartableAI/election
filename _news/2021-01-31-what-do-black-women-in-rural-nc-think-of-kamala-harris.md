@@ -801,6 +801,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden, Harris to virtually see Glendale stadium vaccine site"
+    excerpt: "President Joe Biden and Vice President Kamala Harris will virtually tour the mass COVID-19 vaccination site set up at State Farm Stadium in Glendale."
+    publishedDateTime: 2021-02-08T16:58:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/feb/8/biden-harris-to-virtually-see-glendale-stadium-vac/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/feb/8/biden-harris-to-virtually-see-glendale-stadium-vac/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/feb/8/biden-harris-to-virtually-see-glendale-stadium-vac/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 70
   - title: "JD Greear urges pastors not to call VP Kamala Harris ‘Jezebel,' but to pray for her"
     excerpt: "Southern Baptist Convention President J.D. Greear is urging pastors in the denomination to refrain from calling Vice President Kamala Harris “Jezebel” due to the racist connotations of the moniker. He is calling on them to honor and pray for her as an elected leader instead."
     publishedDateTime: 2021-02-04T21:48:00Z

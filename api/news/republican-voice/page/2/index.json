@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-03-sen-kennedy-blasts-immeasurably-foolish-biden-orders-that-will-gut-louisiana-like-a-fish.md",
+      "title": "Sen. Kennedy blasts 'immeasurably foolish' Biden orders that will 'gut Louisiana like a fish'",
+      "excerpt": "Sen. John Kennedy, R-La., warned Tuesday that President Biden's sweeping executive orders related to the industrial energy sector and immigration will be detrimental to both the nation and, in the former case, his home state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RAcaTpjN_gA/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RAcaTpjN_gA/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad91f5b6-ed4f-41ac-b105-9fd686d6b5e1/e06686e2-9266-4384-8b53-bd22c3418899/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana.amp",
+      "publishedDateTime": "2021-02-02T17:16:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-chicago-mayor-lori-lightfoot-blames-trump-for-standoff-between-citys-public-schools-and-teachers-union.md",
       "title": "Chicago Mayor Lori Lightfoot blames Trump for standoff between city’s public schools and teachers union",
       "excerpt": "Chicago Mayor Lori Lightfoot on Tuesday blamed the impasse between the city’s public schools and teachers union on President Donald Trump for not being able to roll out a nationwide vaccine program while he was in office.",
@@ -631,7 +687,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 775,
+      "heat": 835,
       "tags": null,
       "images": [
         {
@@ -1604,62 +1660,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp",
       "publishedDateTime": "2021-01-29T10:51:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-hawley-rips-bidens-40-executive-orders-radical-policies-an-attempt-to-govern-by-executive-fiat.md",
-      "title": "Hawley rips Biden's 40 executive orders, 'radical policies': 'An attempt to govern by executive fiat'",
-      "excerpt": "President Biden's 40 executive orders show that he is pursuing a \"far-left agenda\" that will kill American energy jobs, Sen. Josh Hawley, R-Mo., said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evT6u0af_70/biden-executive-orders-hawley-governing-executive-fiat",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evT6u0af_70/biden-executive-orders-hawley-governing-executive-fiat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-executive-orders-hawley-governing-executive-fiat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-hawley-governing-executive-fiat.amp",
-      "publishedDateTime": "2021-01-29T08:29:19-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

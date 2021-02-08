@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration will review deportation of veterans and their families"
+    excerpt: "The Biden administration will review the deportations of veterans and their family members, according to a White House official.\n    \n"
+    publishedDateTime: 2021-02-08T15:24:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tSKioYva9d0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/veterans-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/veterans-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Judge likely to extend hold on Biden's deportation pause until late February"
     excerpt: "A federal judge in Texas said Friday that he'll likely extend his hold on the Biden administration's deportation moratorium until February 23.\n    \n"
     publishedDateTime: 2021-01-29T19:24:34Z

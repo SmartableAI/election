@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration will review deportation of veterans and their families"
+    excerpt: "The Biden administration will review the deportations of veterans and their family members, according to a White House official.\n    \n"
+    publishedDateTime: 2021-02-08T15:24:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tSKioYva9d0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/veterans-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/veterans-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration prepares to open overflow facility for migrant children"
     excerpt: "The Biden administration is opening an overflow facility for unaccompanied migrant children apprehended at the US-Mexico border, the federal agency tasked with the children's care told CNN in a statement.\n    \n"
     publishedDateTime: 2021-02-02T21:59:25Z
