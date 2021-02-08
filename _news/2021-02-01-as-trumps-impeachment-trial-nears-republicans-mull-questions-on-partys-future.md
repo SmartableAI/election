@@ -1031,6 +1031,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "White House press secretary not aware of Trump request for intelligence briefing"
+    excerpt: "White House press secretary Jen Psaki said on Monday she was not aware of any request from Donald Trump for an intelligence breifing, but reaffirmed that President Joe Biden would allow intelligence officials to make the decision on whether to grant access to them for"
+    publishedDateTime: 2021-02-08T18:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-intelligence-idUSKBN2A8233"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A8233"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A8233"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550774250&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171DA"
+        width: 817
+        height: 545
+        isCached: true
   - title: "They took Donald Trump to task. Now they're ready to reshape the justice department"
     excerpt: "Civil rights lawyers Vanita Gupta and Kristen Clarke are poised for key roles in the Biden administration"
     publishedDateTime: 2021-02-03T15:15:00Z

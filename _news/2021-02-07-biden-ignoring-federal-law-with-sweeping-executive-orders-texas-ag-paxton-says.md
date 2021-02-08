@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-executive-orders-immigration-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-immigration-texas-border.amp"
 type: article
 quality: 170
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden’s ban on oil and gas leases on federal lands a 'direct attack' on Wyoming, says governor"
+    excerpt: "Wyoming Governor Mark Gordon called President Joe Biden’s executive order restricting the oil and gas industry a \"direct attack\" on Wyoming that will lead to a significant revenue loss for his state."
+    publishedDateTime: 2021-02-08T17:39:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWZdWnRZZC0/biden-order-oil-gas-devastating-wyoming-governor"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-order-oil-gas-devastating-wyoming-governor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-order-oil-gas-devastating-wyoming-governor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "r/2y7NZo5TT7YErAyfE4/R08RTHIYoizRiFDQDXPKnMumoKsstONnL8+1oCJU3+LfRsARl/a1Of6CnUnAKqoxVdjJQKrG2kGWElJ312RXeeGgr3+5e1+lYebD1cktDXX4ezAOcYJp/FGUDwehvPetI62wiNrAp9CAkaVYEZQ+h+fSg55GtjJtaArlUnIowdUXKJkZk5GKb+vB7it/7QOXBWKnfFQ1hw+xs4TcOhfpDQUTzYJV6DdEWCdYhON1i2PF53g59Fir9QBPh6AL4QAhr7Tt9EvP3HPU9iuHel1qFB4NOvLP75b4wNlYrtLVgl0Q2IcOmHIy2Ldzrl19Z6c2goV66VBoF1lPwjHtSkIjy8=;v+tou0AxC061FQnN7iWcmQ=="
 ---

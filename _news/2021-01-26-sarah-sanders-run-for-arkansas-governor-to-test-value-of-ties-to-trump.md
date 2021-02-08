@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/sarah-huckabee-sanders-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/sarah-huckabee-sanders-trump-arkansas-governor-race/index.html"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Arkansas Lt. Gov. Tim Griffin exits governor's race in a sign of Trump-backed Huckabee Sanders' strength"
+    excerpt: "Arkansas Lt. Gov. Tim Griffin departed the 2022 governor's race Monday, opting instead to run for attorney general, in a move that signals former White House press secretary Sarah Huckabee Sanders' strength just two weeks after she announced her campaign.\n    \n"
+    publishedDateTime: 2021-02-08T18:36:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/InofFPkVO8I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/arkansas-republican-governor-tim-griffin-sarah-huckabee-sanders/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/arkansas-republican-governor-tim-griffin-sarah-huckabee-sanders/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190613183156-06-sarah-sanders-190429-white-house-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Sarah Sanders, ex-Trump press secretary, to run for Arkansas governor"
     excerpt: "Former White House Press Secretary Sarah Huckabee Sanders is expected to announce a run for governor of Arkansas on Monday, according to two people familiar with her plans. Sanders has toyed with launching a campaign since leaving her post in 2019 and has been quietly planning for the bid over the last year."
     publishedDateTime: 2021-01-26T07:02:00Z

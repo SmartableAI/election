@@ -167,6 +167,36 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Trump Impeachment: Legal Team Says Trial Is A 'Selfish' Act By Democrats"
+    excerpt: "President Donald Trump's legal team on Monday lashed out against his Senate impeachment trial, arguing the case brought forth by Democrats seized on the nation's angered mood after the Capitol riots on Jan."
+    publishedDateTime: 2021-02-08T18:28:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-legal-team-says-trial-selfish-act-democrats-3140502"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-legal-team-says-trial-selfish-act-democrats-3140502?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-legal-team-says-trial-selfish-act-democrats-3140502?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/06/donald-trump-is-the-only-us-president-ever.jpg"
+        width: 1024
+        height: 658
+        isCached: true
+  - title: "Trump Defense Urges Dismissal Of 'Absurd' Impeachment Trial"
+    excerpt: "Donald Trump's legal team argued Monday on the eve of his impeachment trial that the case is constitutionally flawed and it was \"absurd\" to hold the former president responsible for the US Capitol riot."
+    publishedDateTime: 2021-02-08T18:03:00Z
+    webUrl: "https://www.ibtimes.com/trump-defense-urges-dismissal-absurd-impeachment-trial-3140523"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/04/former-us-president-donald-trump-goes-on-trial.jpg"
+        width: 1024
+        height: 649
+        isCached: true
   - title: "Trump Lawyers Blast Impeachment Trial as 'Political Theater'"
     excerpt: "Lawyers for Donald Trump are blasting the impeachment case against him as an act of “political theater” by Democrats."
     publishedDateTime: 2021-02-08T16:45:00Z

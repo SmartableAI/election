@@ -67,6 +67,22 @@ related:
         width: 3500
         height: 2365
         isCached: true
+  - title: "Fact check: Kamala Harris did not say military would be used against Trump supporters"
+    excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that she does not care about the constitution and will use federal law enforcement and the military against Trump supporters."
+    publishedDateTime: 2021-02-08T17:17:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-vp-quote-military/fact-check-kamala-harris-did-not-say-military-would-be-used-against-trump-supporters-idUSKBN2A81XM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A81XM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A81XM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550766715&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171A6"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Teacher and her kindergartners stunned to receive response letters from Joe Biden, Kamala Harris"
     excerpt: "Kindergarten teacher Martha Tavarez of Barron Elementary School in El Paso, Texas, said she and her students were thrilled to receive letters from President Joe Biden and Vice President Kamala Harris."
     publishedDateTime: 2021-01-27T13:21:00Z

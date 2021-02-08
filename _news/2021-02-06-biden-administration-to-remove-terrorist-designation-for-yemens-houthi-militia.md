@@ -351,6 +351,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden 'will not spend too much time' watching impeachment trial but finds Trump behavior 'erratic,' Psaki says"
+    excerpt: "White House Press Secretary Jen Psaki said Monday that President Biden “will not spend too much time” watching former President Trump’s Senate impeachment trial."
+    publishedDateTime: 2021-02-08T18:31:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FctAUnEoN_c/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki says Biden wants schools open, but won't commit to standing up to union obstruction"
     excerpt: "White House press secretary Jen Psaki on Thursday reiterated that President Biden wants to see children back in classrooms, but would not commit to standing up to unions if forced to choose between the prolific Democratic donors and reopening schools."
     publishedDateTime: 2021-02-04T19:37:33Z
@@ -526,6 +542,22 @@ related:
       - url: "https://images.wsj.net/im-296098/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Biden 'will not spend too much time' watching impeachment trial but finds Trump behavior 'erratic,' Psaki says"
+    excerpt: "White House Press Secretary Jen Psaki said Monday that President Biden “will not spend too much time” watching former President Trump’s Senate impeachment trial."
+    publishedDateTime: 2021-02-08T18:35:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1a6865a-e2f6-4ee3-ad0f-046010aee80f/22d16aec-18fa-4a50-85a1-0db6d773b073/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Colorado officials want to keep Space Command in state, ask Pentagon to reconsider Trump's relocation"
     excerpt: "Colorado Gov. Jared Polis and a group of bipartisan state officials are urging Defense Secretary Lloyd Austin to reconsider and \"pause\" former President Donald Trump's decision to move U.S. Space Command from Colorado Springs to Alabama,"

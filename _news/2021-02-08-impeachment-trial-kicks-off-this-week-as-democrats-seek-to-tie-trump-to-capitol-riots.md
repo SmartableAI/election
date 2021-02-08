@@ -143,6 +143,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Read: Former President Donald Trump's defense team's legal brief"
+    excerpt: "In a pretrial brief ahead of former President Donald Trump's impeachment trial in the Senate, Trump's legal team accused House Democrats of engaging in \"political theater\" and argued that the upcoming trial is unconstitutional because Trump is no longer president."
+    publishedDateTime: 2021-02-08T11:30:00Z
+    webUrl: "https://www.cnn.com/2021/02/08/politics/trump-defense-team-impeachment-brief/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-defense-team-impeachment-brief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-defense-team-impeachment-brief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's second impeachment trial starts tomorrow"
     excerpt: "The second impeachment trial of former President Trump kicks off tomorrow. Follow here for the latest updates from Congress."
     publishedDateTime: 2021-02-08T13:17:00Z

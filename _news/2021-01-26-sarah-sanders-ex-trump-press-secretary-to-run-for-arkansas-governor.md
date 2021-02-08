@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Arkansas Lt. Gov. Tim Griffin exits governor's race in a sign of Trump-backed Huckabee Sanders' strength"
+    excerpt: "Arkansas Lt. Gov. Tim Griffin departed the 2022 governor's race Monday, opting instead to run for attorney general, in a move that signals former White House press secretary Sarah Huckabee Sanders' strength just two weeks after she announced her campaign.\n    \n"
+    publishedDateTime: 2021-02-08T18:36:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/InofFPkVO8I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/arkansas-republican-governor-tim-griffin-sarah-huckabee-sanders/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/arkansas-republican-governor-tim-griffin-sarah-huckabee-sanders/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190613183156-06-sarah-sanders-190429-white-house-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "YEDpH7TTpWbhpt1iZxWisY1fDZ22dgVh4Tz7iRcBaxMGi4QDwCNI5AJ59GqGDZ4iatXkNl24VvWq+xYU1ooHFsP7FSrjUrep11WMPpBFZPxCIocen6dJisVzWkWRdK6W9Lq1Wmy/Akl2GtO8XgIkT013mExAwlLqiA2Rq51pwC2JnCXIl+rm0bP1On+SJmruiJL/TaXjeVc2zY1bkLvSMEtx3oMCkssN79HdQ/u2GhHcwbUzEdOluhkNOnH2pM5P9nQR0IDVSrgOxZyzXhAsemvQTWOD6vvCBKgPvVzbbbLfdi01GHviot8wc6PzEpJqgOSv7TX8xBxVctKndc99Bl0Hg2XC6nl8qKa8EtD9zfM=;8LBEgwJ9u6XqOZKM41X5OA=="
 ---

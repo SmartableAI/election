@@ -255,6 +255,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "House impeachment managers slam Trump in final pre-trial brief: 'Most grievous constitutional crime ever'"
+    excerpt: "The House impeachment managers accused former President Donald Trump of \"the most grievous constitutional crime ever committed by a President\" in their final brief before Trump's impeachment trial begins in earnest Tuesday."
+    publishedDateTime: 2021-02-08T18:14:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4hrQID4Zwc/house-files-brief-reply-to-trump-answer-of-impeachment-article"
+    ampWebUrl: "https://www.foxnews.com/politics/house-files-brief-reply-to-trump-answer-of-impeachment-article.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-files-brief-reply-to-trump-answer-of-impeachment-article.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump impeachment trial sees wide partisan divide: polls"
     excerpt: "By a slight majority, Americans want the Senate to convict former President Trump in his upcoming impeachment trial, according to two new national polls. But both surveys show an extremely wide partisan divide over whether Trump should be convicted."
     publishedDateTime: 2021-02-04T19:40:45Z
@@ -429,6 +445,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Lawyers Call Impeachment Trial ‘Political Theater’"
+    excerpt: "Lawyers for former President Donald Trump argued it is unconstitutional to impeach a former president and declared the coming Senate trial “political theater” in a pretrial brief Monday that offered the fullest picture of their defense."
+    publishedDateTime: 2021-02-08T18:40:00Z
+    webUrl: "https://www.wsj.com/articles/senate-leaders-near-deal-on-impeachment-trial-schedule-11612797521"
+    ampWebUrl: "https://www.wsj.com/amp/articles/senate-leaders-near-deal-on-impeachment-trial-schedule-11612797521"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-leaders-near-deal-on-impeachment-trial-schedule-11612797521"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-296109/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump lawyers send Senate 75-page brief ahead of impeachment trial"
     excerpt: "Former President Donald Trump’s lawyers on Monday sent to the Senate a 75-page brief more fully outlining Trump’s defense strategy. The document was released ahead of the Tuesday start"
     publishedDateTime: 2021-02-08T16:12:00Z
@@ -525,6 +557,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "House impeachment managers slam Trump in final pre-trial brief: 'Most grievous constitutional crime ever'"
+    excerpt: "The House impeachment managers accused former President Donald Trump of \"the most grievous constitutional crime ever committed by a President\" in their final brief before Trump's impeachment trial begins in earnest Tuesday."
+    publishedDateTime: 2021-02-08T18:17:00Z
+    webUrl: "https://www.foxnews.com/politics/house-files-brief-reply-to-trump-answer-of-impeachment-article"
+    ampWebUrl: "https://www.foxnews.com/politics/house-files-brief-reply-to-trump-answer-of-impeachment-article.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-files-brief-reply-to-trump-answer-of-impeachment-article.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ask WSJ: What to Expect from the Trump Impeachment Trial"
     excerpt: "For the first time in U.S. history, a president who is no longer in office is facing an impeachment trial. Join The Wall Street Journal's Politics Editor Ben Pershing in conversation with reporters Rebecca Ballhaus and Siobhan Hughes to learn about the strategies,"
     publishedDateTime: 2021-02-08T05:00:00Z
@@ -538,6 +586,20 @@ related:
       - url: "https://images.wsj.net/im-160334?width=640"
         width: 640
         height: 360
+        isCached: true
+  - title: "What to Know: Trump's Second Impeachment Trial"
+    excerpt: "Live analysis of the second impeachment trial of former President Donald Trump, which is set to begin on Tuesday."
+    publishedDateTime: 2021-02-08T17:59:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-08"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-296233/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "House Democratic Impeachment Managers Want Donald Trump To Testify Under Oath At Impeachment Trial Monday"
     excerpt: "CNN congressional correspondent Manu Raju reports that House Democrats want former President Trump to testify in person, under oath, at his second impeachment trial as early as Monday."

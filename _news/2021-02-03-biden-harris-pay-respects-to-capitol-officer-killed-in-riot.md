@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1630
+heat: 1650
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106797646-16055585112020-11-16t202540z_641690806_rc2k4k9gobvu_rtrmadp_0_usa-biden.jpeg?v=1605558548"
         width: 3500
         height: 2365
+        isCached: true
+  - title: "Fact check: Kamala Harris did not say military would be used against Trump supporters"
+    excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that she does not care about the constitution and will use federal law enforcement and the military against Trump supporters."
+    publishedDateTime: 2021-02-08T17:17:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-vp-quote-military/fact-check-kamala-harris-did-not-say-military-would-be-used-against-trump-supporters-idUSKBN2A81XM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A81XM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A81XM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550766715&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171A6"
+        width: 818
+        height: 545
         isCached: true
   - title: "Teacher and her kindergartners stunned to receive response letters from Joe Biden, Kamala Harris"
     excerpt: "Kindergarten teacher Martha Tavarez of Barron Elementary School in El Paso, Texas, said she and her students were thrilled to receive letters from President Joe Biden and Vice President Kamala Harris."
