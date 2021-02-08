@@ -890,19 +890,19 @@ related:
         height: 779
         isCached: true
   - title: "Senate Republicans back Trump as impeachment trial nears"
-    excerpt: "Donald Trump’s defenders in the Senate are rallying around the former president before his impeachment trial, dismissing it as a waste of time and arguing the former president’s fiery speech before the Capitol insurrection does not make him responsible for the violence of Jan."
-    publishedDateTime: 2021-02-08T00:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/senate-republicans-back-trump-on-eve-of-impeachment-trial/2021/02/07/24584ec6-698b-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/senate-republicans-back-trump-on-eve-of-impeachment-trial/2021/02/07/24584ec6-698b-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/senate-republicans-back-trump-on-eve-of-impeachment-trial/2021/02/07/24584ec6-698b-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    excerpt: "Donald Trump’s defenders in the Senate on Sunday rallied around the former president before his impeachment trial, dismissing it as a waste of time and arguing that the former president’s fiery speech before the U."
+    publishedDateTime: 2021-02-08T00:57:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-senate-gop-trump-impeachment-20210207-5tfesd4ktzdehbbxdlyeeidl2u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-senate-gop-trump-impeachment-20210207-5tfesd4ktzdehbbxdlyeeidl2u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-senate-gop-trump-impeachment-20210207-5tfesd4ktzdehbbxdlyeeidl2u-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
+      - url: "https://www.chicagotribune.com/resizer/60tcRrZVMVm4fhWo4eDH5lxwdec=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/D5CPQ23ZZFDSVCBXPQWDFDDMBM.jpg"
+        width: 1200
         height: 779
         isCached: true
   - title: "US moves to rejoin UN rights council, reversing Trump anew"
@@ -1359,6 +1359,31 @@ related:
         width: 800
         height: 535
         isCached: true
+  - title: "Trump impeachment trial confronts Capitol siege"
+    excerpt: "The impeachment trial of Donald Trump is more than an effort to convict the former president over inciting an insurrection. It's a chance for a public accounting and remembrance of the worst attack on the U."
+    publishedDateTime: 2021-02-08T06:26:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/08/trump-impeachment-trial-confronts-capitol-siege/4432480001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a6d7afb9-ddb0-4255-8484-752ee8c87632_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump impeachment trial to open with sense of urgency, speed"
+    excerpt: "Donald Trump's historic second is opening this week with a sense of urgency — by Democrats who want to hold the former president accountable for the violent U.S. Capitol siege and Republicans who want it over as fast as possible."
+    publishedDateTime: 2021-02-08T06:42:00Z
+    webUrl: "https://www.businessinsider.com/trump-impeachment-trial-to-open-with-sense-of-urgency-speed-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-impeachment-trial-to-open-with-sense-of-urgency-speed-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-impeachment-trial-to-open-with-sense-of-urgency-speed-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "U.S. Senate to pause Trump impeachment trial at end of week for Sabbath"
     excerpt: "The U.S. Senate will pause former President Donald Trump's impeachment trial from Friday evening to Saturday evening this week to honor a request by a Trump attorney who observes the Jewish Sabbath, a spokesman for Senate Democratic leader Chuck Schumer said on Sunday."
     publishedDateTime: 2021-02-08T04:38:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/david-schoen-what-to-know-about-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp"
 type: article
 quality: 175
-heat: 775
+heat: 795
 published: true
 
 provider:
@@ -492,6 +492,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Air-Force-One-5.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Ask WSJ: What to Expect from the Trump Impeachment Trial"
+    excerpt: "For the first time in U.S. history, a president who is no longer in office is facing an impeachment trial. Join The Wall Street Journal's Politics Editor Ben Pershing in conversation with reporters Rebecca Ballhaus and Siobhan Hughes to learn about the strategies,"
+    publishedDateTime: 2021-02-08T05:00:00Z
+    webUrl: "https://www.wsj.com/live-qa/ask-wsj-what-to-expect-from-the-trump-impeachment-trial/20569CAD-FB68-4E7C-850D-BEB82063691D"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-160334?width=640"
+        width: 640
+        height: 360
         isCached: true
   - title: "House Democratic Impeachment Managers Want Donald Trump To Testify Under Oath At Impeachment Trial Monday"
     excerpt: "CNN congressional correspondent Manu Raju reports that House Democrats want former President Trump to testify in person, under oath, at his second impeachment trial as early as Monday."

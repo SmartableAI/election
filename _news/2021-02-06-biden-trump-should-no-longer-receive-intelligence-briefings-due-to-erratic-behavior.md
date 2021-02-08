@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Immigrants, activists worry Biden won't end Trump barriers"
+    excerpt: "President Joe Biden rushed to send the most ambitious overhaul of the nation’s immigration system in a generation to Congress"
+    publishedDateTime: 2021-02-08T06:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/immigrants-activists-worry-biden-end-trump-barriers-75749427"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/immigrants-activists-worry-biden-end-trump-barriers-75749427"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/immigrants-activists-worry-biden-end-trump-barriers-75749427"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0a9b005796fa46a68ccec84a332dc213_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
     excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to intelligence briefings because of his \"erratic behavior\" and the concern he might share information, the Democrat said in an interview on Friday."
     publishedDateTime: 2021-02-06T06:03:00Z
@@ -416,9 +432,9 @@ related:
   - title: "U.S. will not lift sanctions to get Iran to negotiating table - Biden"
     excerpt: "U.S. President Joe Biden said the United States will not lift its economic sanctions on Iran in order to get Tehran back to the negotiating table to discuss how to revive the Iran nuclear deal, according to a video released by CBS News on Sunday."
     publishedDateTime: 2021-02-07T23:30:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-iran-biden-idUSKBN2A70OL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A70OL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A70OL"
+    webUrl: "https://www.reuters.com/article/us-usa-iran-biden-idAFKBN2A70OL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2A70OL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2A70OL"
     type: article
     provider:
       name: Reuters
@@ -646,6 +662,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1721509/stimulus-checks-recurring-biden-2000.jpg"
         width: 3000
         height: 2003
+        isCached: true
+  - title: "US officials: Biden administration moves to rejoin UN Human Rights Council in another reversal of Trump foreign policies"
+    excerpt: "Biden administration moves to rejoin UN Human Rights Council in another reversal of Trump foreign policies. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
+    publishedDateTime: 2021-02-08T06:03:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/us-officials-biden-administration-moves-to-rejoin-un-human-rights-council-in-another-reversal-of-trump-foreign-policies/2021/02/07/69c85c6c-69a9-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-officials-biden-administration-moves-to-rejoin-un-human-rights-council-in-another-reversal-of-trump-foreign-policies/2021/02/07/69c85c6c-69a9-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-officials-biden-administration-moves-to-rejoin-un-human-rights-council-in-another-reversal-of-trump-foreign-policies/2021/02/07/69c85c6c-69a9-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
     excerpt: "President Joe Biden is making his first major foray outside the White House on Friday, to visit wounded soldiers at Walter Reed National Military Medical Center."

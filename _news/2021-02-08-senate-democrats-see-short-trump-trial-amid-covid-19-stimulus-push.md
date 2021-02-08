@@ -2,9 +2,9 @@
 category: news
 title: "Senate Democrats See Short Trump Trial Amid Covid-19 Stimulus Push"
 excerpt: "Key details of former President Donald Trump’s impeachment trial and the Biden administration’s $1.9-trillion relief bill are still being completed."
-publishedDateTime: 2021-02-08T02:38:00Z
-originalUrl: "https://www.wsj.com/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062?mod=newsviewer_click"
+publishedDateTime: 2021-02-07T21:56:00Z
+originalUrl: "https://www.wsj.com/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+webUrl: "https://www.wsj.com/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
 ampWebUrl: "https://www.wsj.com/amp/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
 type: article
@@ -464,6 +464,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "uclkoqTHMfdoIofUhEDvZl0+iixlBIYFZZSxSIkCUKvWznTmlMM0R+HeGP18mVhYNog724oDUa9wlfuvTUPx6uAJsWsK6GG4Sd8/tHduskXer7CiYYdluHqmzAVs/hhGkb23V54Yxgqb5Q4wQmy0Ao5v9hBUyOWnNLHjckEPEzYFOjVspvBKSwkf9/n+qgb2lVouE9xr/Kt1w0d89r+eQLg5+U+lWX8dWEOsnZJVgPxGMfxHze4tIbvlEQdS+ltTC9LJU09UBPAjLQLRDNKBb77hMDzhVLsoM0GLvZk25+uluotapPYYbL/3JbHl3ZMnCooaAjlh1lt/bYVrVIzUTyHSpSlPGbykGS1Hy3eXFFM=;hlSRqOU7xyWpaGdlcMRk2w=="
+secured: "Cm2SuZSmUs9ngjfg80Paj/mxGigsSCP7VJQiia5Uw0bt9ro4zqYwdw2kTcvWghSwl7xlogNmG8LG6zeW9zkZ92PHofFvJN8IvY6GGiI8czCMMEYOTxDo036dmxBVtntNIRjzzBb9VZgI/LdZvE+0zDpSXq05us/R2+NUYgAdlQjBG21G7ZYHRLKZXBhEeCYRcpQcRbqwJryMjAz6L//511sAoLHQGz39FcAndhvyoYRmCIh0WsGmdyp+OOkfSQCr17Zsoa8RP4GST34l0f25PPNRoonFzOcr977y5oVb8aKBKnTapNNviBivU/S4OmutzMFS7zlcyM5yN7CGK+OcbcqH5/wMTEQ8mBNA8hFC6wU=;JLQepWtktRwYCPjtoylWpQ=="
 ---
 

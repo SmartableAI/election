@@ -3,10 +3,10 @@ category: news
 title: "U.S. will not lift sanctions to get Iran to negotiating table - Biden"
 excerpt: "U.S. President Joe Biden said the United States will not lift its economic sanctions on Iran in order to get Tehran back to the negotiating table to discuss how to revive the Iran nuclear deal, according to a video released by CBS News on Sunday."
 publishedDateTime: 2021-02-07T23:30:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-iran-biden-idUSKBN2A70OL"
-webUrl: "https://www.reuters.com/article/us-usa-iran-biden-idUSKBN2A70OL"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A70OL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A70OL"
+originalUrl: "https://www.reuters.com/article/us-usa-iran-biden-idAFKBN2A70OL"
+webUrl: "https://www.reuters.com/article/us-usa-iran-biden-idAFKBN2A70OL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2A70OL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2A70OL"
 type: article
 quality: 125
 heat: -1
@@ -110,6 +110,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/05/8d802e2a-6c42-4bc8-b6b7-eeacb8b07fe2/thumbnail/1200x630/53162f95d515d855d58913c02e5b8804/nod-biden-2-w-bug.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Immigrants, activists worry Biden won't end Trump barriers"
+    excerpt: "President Joe Biden rushed to send the most ambitious overhaul of the nation’s immigration system in a generation to Congress"
+    publishedDateTime: 2021-02-08T06:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/immigrants-activists-worry-biden-end-trump-barriers-75749427"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/immigrants-activists-worry-biden-end-trump-barriers-75749427"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/immigrants-activists-worry-biden-end-trump-barriers-75749427"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0a9b005796fa46a68ccec84a332dc213_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
     excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to intelligence briefings because of his \"erratic behavior\" and the concern he might share information, the Democrat said in an interview on Friday."
@@ -633,6 +649,22 @@ related:
         width: 3000
         height: 2003
         isCached: true
+  - title: "US officials: Biden administration moves to rejoin UN Human Rights Council in another reversal of Trump foreign policies"
+    excerpt: "Biden administration moves to rejoin UN Human Rights Council in another reversal of Trump foreign policies. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
+    publishedDateTime: 2021-02-08T06:03:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/us-officials-biden-administration-moves-to-rejoin-un-human-rights-council-in-another-reversal-of-trump-foreign-policies/2021/02/07/69c85c6c-69a9-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-officials-biden-administration-moves-to-rejoin-un-human-rights-council-in-another-reversal-of-trump-foreign-policies/2021/02/07/69c85c6c-69a9-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-officials-biden-administration-moves-to-rejoin-un-human-rights-council-in-another-reversal-of-trump-foreign-policies/2021/02/07/69c85c6c-69a9-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden: Trump should no longer receive intelligence briefings due to 'erratic behavior'"
     excerpt: "In a Feb. 5 clip from an interview with “CBS Evening News with Norah O'Donnell,” President Biden said that he thinks that “there is no need” for former president Donald Trump to continue receiving intelligence briefings."
     publishedDateTime: 2021-02-06T06:02:00Z
@@ -860,6 +892,6 @@ related:
         height: 847
         isCached: true
 
-secured: "/In2NOa4H1ESX4zkF2eby2m34e0a5DNZxA0qx9Smf1z/MxDOUbTx1+P+ns7+OxPOMSPyrJZHOUZSBscxB049sCrG4KqnS1QxwJcveyYmamhdoOLK8Y0JB7jR7kXP6bhKQohIweYm9/PnR4S1fTvXkz05fjBVuTuCp07ChlM58oJOg189DAL5OGLIycLuss05rQ7JIHBUszR16M3u3i1C/aeWtvrhKba9+Jn/9oLTEQgaCuIMCC3X83NLzDNZaZk9bNs+x0CHmrGOsTSJom0MdNEvEmLz4AGNK7nPdMC+YHyMAT6AVnSN1Z+zM3tWdykAGAg26yiHdqzQExfqKiLG6a1OHllDdxfLcCeJdXkSpQ0=;uNck6teU/IJeNAtyyImFqg=="
+secured: "LB01lyLvHSs3fAWbepDMGc8qKryOsaUOYTjlHctjlHX5lbPD9gx+WL6/pLvoLgmt59y0tiwwIePT9WesaYGg0wiQeltTaI+SvEsbChkTY1VjS2EdzQ7e4YXBWsH2bpWdzcWq+GpJQHzmFuyKjy5626ZdJeE73sruVgz+5WJP0yVOkM2uFHHzXxRA2J8tAqxF/nouA3TdEr5EyII2TtFKJo77BYm4qDB095/o3/VlEAw2aq1TWqYVrY5cT09PlD+fOYVQBIiu9cWc6yU29DXFvY9E8hg7hFtVvAxRvFg3O5lPikTUVw1zqpJ4tFYoAjz13uq3INl6CveJU4LZJWt6jnzebu52npQH5ELWkn9TniM=;ULgOFVNfnNS9rq4C1Udauw=="
 ---
 
