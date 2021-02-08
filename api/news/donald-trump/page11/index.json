@@ -2,6 +2,162 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-13-twitter-says-it-inadvertently-limited-engagements-on-trumps-flagged-tweets.md",
+      "title": "Twitter says it 'inadvertently' limited engagements on Trump's flagged tweets",
+      "excerpt": "Twitter Inc said on Saturday it had \"inadvertently\" limited engagements for a brief period on U.S. President Donald Trump's tweets with \"disputed\" labels but later reversed its action.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-election-trump-twitter-idUKKBN28M0VX",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-election-trump-twitter-idUKKBN28M0VX",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201212&t=2&i=1544359954&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBB0GC",
+          "width": 943,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28M0VX",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28M0VX",
+      "publishedDateTime": "2020-12-12T16:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-federal-court-judge-dismisses-extraordinary-trump-lawsuit-seeking-to-overturn-wisconsin-election.md",
+      "title": "Federal court judge dismisses 'extraordinary' Trump lawsuit seeking to overturn Wisconsin election",
+      "excerpt": "U.S. District Judge Brett Ludwig — a Trump nominee — concluded Wisconsin officials had followed state laws when they conducted the Nov. 3 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/12/trump-wisconsin-lawsuit-dismissed-federal-judge/3894689001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/12/trump-wisconsin-lawsuit-dismissed-federal-judge/3894689001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/10/PMJS/ee1680b4-5450-40a4-afa7-1023a5c58f66-Brett_Ludwig.jpg?auto=webp&crop=533,300,x0,y205&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3894689001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3894689001",
+      "publishedDateTime": "2020-12-12T16:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-13-fox-news-conspired-to-overthrow-trump-mypillow-ceo-tells-stop-the-steal-march.md",
+      "title": "Fox News Conspired to Overthrow Trump, MyPillow CEO Tells 'Stop the Steal' March",
+      "excerpt": "\"I'm serious, they had to be on it!\" Mike Lindell said of Fox News. \"They should all go to prison when they are found out.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fox-news-conspired-overthrow-trump-mypillow-ceo-tells-stop-steal-march-1554370",
+      "originalUrl": "https://www.newsweek.com/fox-news-conspired-overthrow-trump-mypillow-ceo-tells-stop-steal-march-1554370",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1685457/my-pillow-ceo-michael-lindell.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fox-news-conspired-overthrow-trump-mypillow-ceo-tells-stop-steal-march-1554370?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fox-news-conspired-overthrow-trump-mypillow-ceo-tells-stop-steal-march-1554370?amp=1",
+      "publishedDateTime": "2020-12-12T16:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-13-this-is-a-phony-pandemic-gop-congressman-elect-praises-maskless-trump-supporters-at-rally.md",
       "title": "'This Is a Phony Pandemic': GOP Congressman-Elect Praises Maskless Trump Supporters at Rally",
       "excerpt": "\"This looks like a group of people that get that this is a phony pandemic,\" Bob Good of Virginia told \"Stop the Steal\" rallygoers Saturday.",
@@ -1427,172 +1583,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-trump-won-new-yorks-suffolk-county-why-that-signals-hope-for-democrats.md",
-      "title": "Trump Won New York’s Suffolk County. Why That Signals Hope for Democrats.",
-      "excerpt": "A razor-thin GOP margin in the most populous county carried by President Trump gives Democrats hope that an urban electoral coalition is putting down deeper roots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "originalUrl": "https://www.wsj.com/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-267145/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republicans-lose-ground-in-exurbs-like-new-yorks-suffolk-county-11607439109",
-      "publishedDateTime": "2020-12-08T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-trump-act-v-shakespeare-but-with-a-twist.md",
-      "title": "Trump, Act V: Shakespeare, but With a Twist",
-      "excerpt": "A reader says the Bard’s heroes, unlike the president, were remorseful in the end. Also: Children at play among the leaves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/07/business/07dc-presidentA1-inyt/merlin_180770211_a7e6f448-b301-478d-9187-fe0092cf5bb1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/opinion/letters/trump-shakespeare.amp.html",
-      "publishedDateTime": "2020-12-08T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-trump-vaccine-executive-order-raises-questions-after-pfizer-offer-declined.md",
-      "title": "Trump vaccine executive order raises questions after Pfizer offer declined",
-      "excerpt": "The White House pushed back on reports the United States declined to buy more doses of a COVID-19 vaccine produced by Pfizer and its German partner BioNTech.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-gty-jt-201208_1607443175602_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-vaccine-executive-order-raises-questions-pfizer-offer/story?id=74604381",
-      "publishedDateTime": "2020-12-08T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

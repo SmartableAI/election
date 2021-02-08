@@ -2,118 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-01-29-hawley-rips-bidens-40-executive-orders-radical-policies-an-attempt-to-govern-by-executive-fiat.md",
-      "title": "Hawley rips Biden's 40 executive orders, 'radical policies': 'An attempt to govern by executive fiat'",
-      "excerpt": "President Biden's 40 executive orders show that he is pursuing a \"far-left agenda\" that will kill American energy jobs, Sen. Josh Hawley, R-Mo., said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evT6u0af_70/biden-executive-orders-hawley-governing-executive-fiat",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evT6u0af_70/biden-executive-orders-hawley-governing-executive-fiat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-executive-orders-hawley-governing-executive-fiat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-hawley-governing-executive-fiat.amp",
-      "publishedDateTime": "2021-01-29T08:29:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-barrasso-says-biden-climate-orders-are-a-de-facto-fracking-ban.md",
-      "title": "Barrasso says Biden climate orders are a 'de facto fracking ban'",
-      "excerpt": "Some fracking advocates believe Biden’s new executive orders aimed at curbing oil and gas drilling effectively break his promise not to ban fracking.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nuy5D-4UKg0/biden-executive-order-fracking-ban",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nuy5D-4UKg0/biden-executive-order-fracking-ban",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/25a63129-Biden-thumb.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-executive-order-fracking-ban.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-order-fracking-ban.amp",
-      "publishedDateTime": "2021-01-28T18:08:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-28-pro-trump-social-media-influencer-charged-in-2016-scheme-to-suppress-votes-for-hillary-clinton.md",
       "title": "Pro-Trump social media influencer charged in 2016 scheme to suppress votes for Hillary Clinton",
       "excerpt": "A pro-Trump social media influencer was arrested in Florida Wednesday after prosecutors say he purposely spread disinformation online in an effort to suppress votes for Hillary Clinton in the 2016 presidential election.",
@@ -511,7 +399,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 159,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -584,6 +472,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/republicans-push-back-on-bidens-new-energy-policies-warn-of-job-losses.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-push-back-on-bidens-new-energy-policies-warn-of-job-losses.amp",
       "publishedDateTime": "2021-01-27T14:00:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-what-about-covid-biden-aide-says-climate-change-most-significant-public-health-challenge-of-our-time.md",
+      "title": "What about COVID? Biden aide says climate change ‘most significant public health challenge of our time’",
+      "excerpt": "White House domestic climate adviser Gina McCarthy said Tuesday that climate change poses the “most significant public health challenge of our time.” ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HR-_ThWekQ8/biden-official-climate-change-most-significant-public-health-challenge-of-our-time",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HR-_ThWekQ8/biden-official-climate-change-most-significant-public-health-challenge-of-our-time",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-official-climate-change-most-significant-public-health-challenge-of-our-time.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-official-climate-change-most-significant-public-health-challenge-of-our-time.amp",
+      "publishedDateTime": "2021-01-27T13:27:02-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1649,6 +1593,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn.amp",
       "publishedDateTime": "2021-01-25T13:27:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-fauci-birx-were-right-to-stay-on-trump-coronavirus-task-force-former-surgeon-general-says.md",
+      "title": "Fauci, Birx were right to stay on Trump coronavirus task force, former surgeon general says",
+      "excerpt": "Former Surgeon General Dr. Jerome Adams defended Trump administration coronavirus task force members Dr. Anthony Fauci and Dr. Deborah Birx over criticism that they should have quit working for former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0gM8Vq2rbP0/fauci-birx-jerome-adams-trump-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0gM8Vq2rbP0/fauci-birx-jerome-adams-trump-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jerome-Adams.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fauci-birx-jerome-adams-trump-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-birx-jerome-adams-trump-coronavirus.amp",
+      "publishedDateTime": "2021-01-25T06:52:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -44,22 +44,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "'President' Jon Stewart mocks Trump's resignation from Screen Actor's Guild"
-    excerpt: "Jon Stewart has trolled former President Trump for his letter of resignation to The Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) which came after the union threatened to expel his membership."
-    publishedDateTime: 2021-02-05T16:26:00Z
-    webUrl: "https://www.foxnews.com/entertainment/jon-stewart-mocks-trump-resignation-screen-actors-guild"
-    ampWebUrl: "https://www.foxnews.com/entertainment/jon-stewart-mocks-trump-resignation-screen-actors-guild.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jon-stewart-mocks-trump-resignation-screen-actors-guild.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/JonStewart1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Washington Post critic declares Trump should 'never' get presidential library, urges Congress to block efforts"
     excerpt: "A Washington Post critic is calling for legislation preventing former President Donald Trump from having his own presidential library."
     publishedDateTime: 2021-01-30T03:05:00Z

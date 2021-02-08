@@ -1079,6 +1079,22 @@ related:
         width: 1200
         height: 824
         isCached: true
+  - title: "Why QAnon Followers Think Donald Trump Will Be Sworn Back In as President on March 4"
+    excerpt: "Conspiracy theorists have moved the goalposts yet again, using archaic reasoning with links to sovereign citizen movement."
+    publishedDateTime: 2021-02-08T11:40:00Z
+    webUrl: "https://www.newsweek.com/qanon-march-trump-president-1567525"
+    ampWebUrl: "https://www.newsweek.com/qanon-march-trump-president-1567525?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march-trump-president-1567525?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1727849/q.jpg"
+        width: 3200
+        height: 2136
+        isCached: true
   - title: "Parents loved Taking Cara Babies' sleep tips. Then they found out she donated to Trump"
     excerpt: "Cara Dumaplin's sleep tips for babies were \"life-changing.\" Then her followers learned she donated to Donald Trump. Here's how the drama unfolded."
     publishedDateTime: 2021-01-29T21:01:00Z

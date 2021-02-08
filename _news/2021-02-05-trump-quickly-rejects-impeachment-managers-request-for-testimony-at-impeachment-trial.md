@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Impeachment trial kicks off this week as Democrats seek to tie Trump to Capitol riots"
+    excerpt: "The second impeachment trial of former President Donald Trump begins this week as the House impeachment managers prepare to make their case to the public -- and the 100 senators who are jurors for the trial -- that Trump is responsible for last month's deadly riots at the US Capitol.\n    \n"
+    publishedDateTime: 2021-02-08T10:00:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TKYWuZi6kdY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/impeachment-latest-pretrial-briefs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/impeachment-latest-pretrial-briefs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131913-102-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Jamie Raskin: Trump's impeachment defense amounts to 'absurd constitutional arguments'"
     excerpt: "Rep. Jamie Raskin, the lead impeachment manager, told House Democrats on Wednesday that former President Donald Trump's legal filing responding to the House's impeachment amounted to \"absurd constitutional arguments being offered by the President,\" according to a source on the call.\n    \n"
     publishedDateTime: 2021-02-03T18:48:53Z

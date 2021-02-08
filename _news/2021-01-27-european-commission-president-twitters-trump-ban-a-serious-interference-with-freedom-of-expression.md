@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/european-commission-president-twitt
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression.amp"
 type: article
 quality: 159
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump impeachment managers file pre-trial brief against former president: 'Evidence is overwhelming'"
+    excerpt: "The House impeachment managers on Tuesday morning filed their pre-trial brief in their case against former President Donald Trump, previewing the argument they will make against him in the Senate trial set to start in one week."
+    publishedDateTime: 2021-02-02T15:25:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSIq7IdJzwI/impeachment-managers-file-pre-trial-brief-against-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21012753304432.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "1gB2I+bX9QygzMr3+6K4B22eYBxMDrDJjc60TRGuSBTTiJe5eNz7mweli4F1xfQyQ2/Tb/khiz9jfrD87LLfpaB5pUcbn0IEaT+gSI5XbPa+h7z1Fm3/7eO2q5/0cnXjPuhljeBvA8ULlp9xEH3mvnFJyjQeuR/Vnl7d5+bTNTa06pnL0+kpl88Iur7kvd6WlLtHJ+JibZc3zS4DtvpAiUB95h1aPQG9kR0coJt2wHhtd/I3iBaPtSsHRr+RvjL/j6p8sTbJ3ZB3mfTJ0Bs4+QjKZzRXzlm7KL9ZtnMD3jq0AVzrNFMbHic7mv7oDZ8C7sW4lYIxswJjjLGfRL7k8O1VbgE2jv+Z48CKHLbGzw0=;Fi5+MHWgcPTgz5BllHnHiA=="
 ---

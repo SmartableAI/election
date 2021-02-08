@@ -1391,6 +1391,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Millions who likely voted for Trump want him barred from future office"
+    excerpt: "It is common that many politicians grow more popular once they leave office. That has not been the case for former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-08T01:55:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dwSdWpyj-Fw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/polls-trump-impeachment-future-office/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/polls-trump-impeachment-future-office/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122842-01-trump-speaks-dc-protest-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Calls grow in Congress for Trump to be removed by impeachment or the 25th Amendment"
     excerpt: "A growing number of lawmakers -- including from Democratic leadership -- are calling for President Donald Trump to be removed from office either through impeachment or the 25th Amendment to the Constitution after a violent mob of Trump supporters stormed the US Capitol on Wednesday.\n    \n"
     publishedDateTime: 2021-01-07T18:44:40Z

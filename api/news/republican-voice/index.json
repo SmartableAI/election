@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-08-republican-who-called-on-trump-to-resign-admits-conviction-very-unlikely.md",
-      "title": "Republican who called on Trump to resign admits conviction ‘very unlikely’",
-      "excerpt": "Sen. Pat Toomey, R-Pa., who has been a top critic of former President Trump and called for him to resign after last month’s riot at the Capitol, said in an interview Sunday that it is unlikely that the Senate will vote for a conviction on the one count of \"incitement of insurrection.\"",
+      "path": "_news/2021-02-08-biden-administration-plans-to-reengage-with-un-rights-council-reversing-trump.md",
+      "title": "Biden administration plans to reengage with UN rights council, reversing Trump",
+      "excerpt": "The Biden administration is set to announce this week that it will reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago, U.S. officials said Sunday. The decision reverses another Trump-era move away from multilateral organizations",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nti_kfiWBso/republican-who-called-on-trump-to-resign-admits-conviction-very-unlikely",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nti_kfiWBso/republican-who-called-on-trump-to-resign-admits-conviction-very-unlikely",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Uk3WSFALayM/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Uk3WSFALayM/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 213,
+      "heat": 766,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06033aca-08b3-48f8-b198-95163a765304/d8e75191-a19d-41d7-b41c-27e56d336a1b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republican-who-called-on-trump-to-resign-admits-conviction-very-unlikely.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-who-called-on-trump-to-resign-admits-conviction-very-unlikely.amp",
-      "publishedDateTime": "2021-02-08T01:41:35-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp",
+      "publishedDateTime": "2021-02-08T04:29:25-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -126,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -451,6 +451,62 @@
       ]
     },
     {
+      "path": "_news/2021-02-06-official-tasked-with-briefing-biden-reportedly-defended-cias-false-intel-about-torture-effectiveness.md",
+      "title": "Official tasked with briefing Biden reportedly defended CIA’s false intel about torture effectiveness",
+      "excerpt": "The CIA official in charge of overseeing President Biden’s daily intelligence briefing reportedly lead a standoff between the CIA and the Senate Intelligence Committee.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c1c9f88-8491-4368-aaae-00f24e45654b/7c18c51d-3b0e-47d0-b6e0-deaee4ae7030/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp",
+      "publishedDateTime": "2021-02-06T14:04:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-ivanka-trumps-political-re-emergence-would-likely-center-on-criminal-justice-reform-work-report.md",
       "title": "Ivanka Trump’s political re-emergence would likely center on criminal justice reform work: report",
       "excerpt": "Ivanka Trump helped to secure pardons and commutations for over 140 in her father’s final days in office, and could champion criminal justice reform in a new foray into politics. ",
@@ -480,62 +536,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report.amp",
       "publishedDateTime": "2021-02-06T12:30:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-biden-says-no-need-for-trump-to-receive-intel-briefings-what-impact-does-he-have.md",
-      "title": "Biden says 'no need' for Trump to receive intel briefings: 'What impact does he have?'",
-      "excerpt": "President Biden said he didn’t think his predecessor should receive intelligence briefings, as is standard for former presidents. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZdNwrOOIlY/biden-no-need-trump-intel-briefings",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZdNwrOOIlY/biden-no-need-trump-intel-briefings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden5.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp",
-      "publishedDateTime": "2021-02-05T16:33:13-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1069,62 +1069,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-04-trump-resigns-from-screen-actors-guild-i-no-longer-wish-to-be-associated-with-your-union.md",
-      "title": "Trump resigns from Screen Actors Guild: ‘I no longer wish to be associated with your union’",
-      "excerpt": "President Trump is resigning from the Screen Actors Guild - American Federation of Television and Radio Artists after they threatened to expel his membership from the union after the Capitol riot -- to which he said, “Who cares!”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jc98yOOyz-A/trump-resigns-from-screen-actors-guild",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jc98yOOyz-A/trump-resigns-from-screen-actors-guild",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp",
-      "publishedDateTime": "2021-02-04T09:44:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-biden-addresses-national-prayer-breakfast-says-we-need-to-defeat-political-extremism.md",
       "title": "Biden addresses National Prayer Breakfast, says 'we need to defeat political extremism'",
       "excerpt": "President Biden addressed the National Prayer Breakfast on Thursday, saying the country needs to \"defeat political extremism\" and rely on \"faith to guide us out of the darkness and into the light\" amid the coronavirus pandemic.",
@@ -1586,7 +1530,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1659,6 +1603,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana.amp",
       "publishedDateTime": "2021-02-02T17:16:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-chicago-mayor-lori-lightfoot-blames-trump-for-standoff-between-citys-public-schools-and-teachers-union.md",
+      "title": "Chicago Mayor Lori Lightfoot blames Trump for standoff between city’s public schools and teachers union",
+      "excerpt": "Chicago Mayor Lori Lightfoot on Tuesday blamed the impasse between the city’s public schools and teachers union on President Donald Trump for not being able to roll out a nationwide vaccine program while he was in office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iwqYt-uVXrw/chicago-schools-closed-mayor-lightfoot-blames-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iwqYt-uVXrw/chicago-schools-closed-mayor-lightfoot-blames-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf45ae16-a9fd-45fd-9ca2-c58562d1c92f/f424f3ab-ce52-4966-86f5-ebfc6cf3f51e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/chicago-schools-closed-mayor-lightfoot-blames-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chicago-schools-closed-mayor-lightfoot-blames-trump.amp",
+      "publishedDateTime": "2021-02-02T14:44:02-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

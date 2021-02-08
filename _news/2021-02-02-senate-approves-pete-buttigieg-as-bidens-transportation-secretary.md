@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/senate-approves-pete-buttigieg-as-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-approves-pete-buttigieg-as-bidens-transportation-secretary.amp"
 type: article
 quality: 175
-heat: 255
+heat: 235
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ae5c1f0-8aef-40be-9fea-75f03468f27b/1debc5d6-d078-46de-9f47-6bf7d11c7774/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Psaki says Biden wants schools open, but won't commit to standing up to union obstruction"
-    excerpt: "White House press secretary Jen Psaki on Thursday reiterated that President Biden wants to see children back in classrooms, but would not commit to standing up to unions if forced to choose between the prolific Democratic donors and reopening schools."
-    publishedDateTime: 2021-02-04T19:37:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aVFwdnt7zYU/psaki-says-biden-wants-schools-open-but-wont-commit-to-standing-up-to-union-obstruction"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-says-biden-wants-schools-open-but-wont-commit-to-standing-up-to-union-obstruction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-says-biden-wants-schools-open-but-wont-commit-to-standing-up-to-union-obstruction.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Catholic bishops slam Biden’s 'grievous' executive order funding overseas abortion providers"
     excerpt: "Roman Catholic bishops are condemning President Biden's decision to reverse a policy that blocks funding for overseas abortion providers, calling a recent executive order on the issue \"incompatible with Catholic teaching.\""

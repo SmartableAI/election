@@ -2,62 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-02-02-chicago-mayor-lori-lightfoot-blames-trump-for-standoff-between-citys-public-schools-and-teachers-union.md",
-      "title": "Chicago Mayor Lori Lightfoot blames Trump for standoff between city’s public schools and teachers union",
-      "excerpt": "Chicago Mayor Lori Lightfoot on Tuesday blamed the impasse between the city’s public schools and teachers union on President Donald Trump for not being able to roll out a nationwide vaccine program while he was in office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iwqYt-uVXrw/chicago-schools-closed-mayor-lightfoot-blames-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iwqYt-uVXrw/chicago-schools-closed-mayor-lightfoot-blames-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf45ae16-a9fd-45fd-9ca2-c58562d1c92f/f424f3ab-ce52-4966-86f5-ebfc6cf3f51e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/chicago-schools-closed-mayor-lightfoot-blames-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chicago-schools-closed-mayor-lightfoot-blames-trump.amp",
-      "publishedDateTime": "2021-02-02T14:44:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-02-sen-kaine-sets-aside-trump-censure-resolution-theres-not-enough-support-on-either-side.md",
       "title": "Sen. Kaine sets aside Trump censure resolution: 'There's not enough support on either side'",
       "excerpt": "Sens. Tim Kaine and Susan Collins have set aside the bipartisan effort to censure former President Trump for his role in the Jan. 6 Capitol riot for lack of support from both Democrats and Republicans. ",
@@ -182,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -226,6 +170,63 @@
       ]
     },
     {
+      "path": "_news/2021-02-03-pentagon-clears-out-advisory-boards-to-oust-last-minute-trump-picks.md",
+      "title": "Pentagon Clears Out Advisory Boards to Oust Last-Minute Trump Picks",
+      "excerpt": "Defense Secretary Lloyd Austin dismissed hundreds of members of the Pentagon’s advisory boards, ousting last-minute Trump administration nominees as well as officials appointed by previous administrations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/defense-chief-clears-out-pentagon-advisory-boards-to-oust-last-minute-trump-picks-11612289262",
+      "originalUrl": "https://www.wsj.com/articles/defense-chief-clears-out-pentagon-advisory-boards-to-oust-last-minute-trump-picks-11612289262",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-293200/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/defense-chief-clears-out-pentagon-advisory-boards-to-oust-last-minute-trump-picks-11612289262",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-chief-clears-out-pentagon-advisory-boards-to-oust-last-minute-trump-picks-11612289262",
+      "publishedDateTime": "2021-02-02T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-bidens-keystone-xl-pipeline-cancellation-is-gut-punch-to-small-businesses.md",
       "title": "Biden's Keystone XL pipeline cancellation is gut punch to small businesses",
       "excerpt": "While opponents of the long-controversial Keystone XL Pipeline cheered its cancellation by President Biden's administration, others like Nebraska truck driver Chris Olsen shook their heads in dismay.",
@@ -238,7 +239,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 273,
+      "heat": 293,
       "tags": null,
       "images": [
         {
@@ -294,7 +295,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 475,
+      "heat": 455,
       "tags": null,
       "images": [
         {
@@ -450,62 +451,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-01-biden-administration-cites-climate-change-as-a-racial-justice-issue.md",
-      "title": "Biden administration cites climate change as a 'racial justice issue'",
-      "excerpt": "Climate Adviser Gina McCarthy explained that challenges are exacerbated in communities that haven't been invested in.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQjA3MJAeuI/biden-admin-calls-climate-change-is-a-racial-justice-issue",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQjA3MJAeuI/biden-admin-calls-climate-change-is-a-racial-justice-issue",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2948c6c3-ebed-4fa1-b506-498478699919/13ae4fb4-3aad-4947-bbe5-bd6a698c6e05/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp",
-      "publishedDateTime": "2021-02-01T13:57:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-01-biden-state-dept-spokeswoman-called-police-largest-threat-to-us-national-security-report.md",
       "title": "Biden State Dept. spokeswoman called police 'largest threat to US national security': Report",
       "excerpt": "Jalina Porter, who has been named deputy spokesperson for the U.S. State Department under President Biden, wrote that U.S. cops posed the largest national security threat because of attacks against Blacks",
@@ -618,62 +563,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-01-trump-residency-at-mar-a-lago-under-palm-beach-legal-review.md",
-      "title": "Trump residency at Mar-a-Lago under Palm Beach legal review",
-      "excerpt": "Palm Beach, Fla., officials are conducting a legal review into former President Donald Trump's residency at Mar-a-Lago, Fox News confirmed Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/avlCXcjVz-I/florida-palm-beach-legal-review-trump-residency-mar-a-lago",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/avlCXcjVz-I/florida-palm-beach-legal-review-trump-residency-mar-a-lago",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp",
-      "publishedDateTime": "2021-02-01T10:54:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-01-david-schoen-what-to-know-about-trump-impeachment-defense-attorney.md",
       "title": "David Schoen: What to know about Trump impeachment defense attorney",
       "excerpt": "High-profile civil rights attorney David Schoen, who before Jeffrey Epstein's death was in discussions to join his legal team, will be one of the two top members of former President Donald Trump's legal team for his impeachment trial, which is set to start in earnest in the Senate next week.",
@@ -686,7 +575,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 795,
+      "heat": 755,
       "tags": null,
       "images": [
         {
@@ -742,7 +631,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -967,7 +856,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1659,6 +1548,118 @@
       "ampWebUrl": "https://www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-blames-nursing-home-scandal-on-political-attack-by-trump-admin.amp",
       "publishedDateTime": "2021-01-29T10:51:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-hawley-rips-bidens-40-executive-orders-radical-policies-an-attempt-to-govern-by-executive-fiat.md",
+      "title": "Hawley rips Biden's 40 executive orders, 'radical policies': 'An attempt to govern by executive fiat'",
+      "excerpt": "President Biden's 40 executive orders show that he is pursuing a \"far-left agenda\" that will kill American energy jobs, Sen. Josh Hawley, R-Mo., said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evT6u0af_70/biden-executive-orders-hawley-governing-executive-fiat",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evT6u0af_70/biden-executive-orders-hawley-governing-executive-fiat",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-executive-orders-hawley-governing-executive-fiat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-hawley-governing-executive-fiat.amp",
+      "publishedDateTime": "2021-01-29T08:29:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-barrasso-says-biden-climate-orders-are-a-de-facto-fracking-ban.md",
+      "title": "Barrasso says Biden climate orders are a 'de facto fracking ban'",
+      "excerpt": "Some fracking advocates believe Biden’s new executive orders aimed at curbing oil and gas drilling effectively break his promise not to ban fracking.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nuy5D-4UKg0/biden-executive-order-fracking-ban",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nuy5D-4UKg0/biden-executive-order-fracking-ban",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/25a63129-Biden-thumb.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-executive-order-fracking-ban.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-order-fracking-ban.amp",
+      "publishedDateTime": "2021-01-28T18:08:17-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

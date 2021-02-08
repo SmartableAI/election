@@ -990,14 +990,14 @@ related:
   - title: "US Vice President Kamala Harris walks to mock swearing in"
     excerpt: "United States Vice President Kamala Harris walks to a mock swearing in of the new US Senators on Capitol Hill in Washington, DC on Thursday, February 4, 2021. Photo by Ken Cedeno/UPI ."
     publishedDateTime: 2021-02-05T01:23:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/3a5a1fc635097f8ba33ed5213d22c6b0/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d1e438775bd6ff4033618bfb218eced9/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/3a5a1fc635097f8ba33ed5213d22c6b0/HARRIS-SWEARS-IN-SENATORS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/d1e438775bd6ff4033618bfb218eced9/HARRIS-SWEARS-IN-SENATORS.jpg"
         width: 650
         height: 650
         isCached: true

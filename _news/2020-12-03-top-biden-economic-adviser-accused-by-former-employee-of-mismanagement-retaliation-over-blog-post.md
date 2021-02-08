@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden administration considering Rahm Emanuel for ambassador role, report says"
-    excerpt: "Former Chicago mayor and ex-Obama chief of staff Rahm Emanuel might still end up in the Biden administration."
-    publishedDateTime: 2021-02-02T15:59:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MddK2eJxG8U/biden-rahm-emanuel-administration-role"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-rahm-emanuel-administration-role.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rahm-emanuel-administration-role.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Rahm Emanuel: Biden Has Four Unprecedented Crises, Four Unprecedented Opportunities"
     excerpt: "Former Chicago mayor and former Obama chief of staff Rahm Emanuel comments on the opportunities presented to the Biden administration in the wake of four unprecedented crises, during ABC's \"This Week\" roundtable on."
     publishedDateTime: 2021-01-19T09:23:00Z

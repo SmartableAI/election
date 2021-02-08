@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/official-briefing-biden-cia-false-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp"
 type: article
 quality: 160
-heat: -1
-published: false
+heat: 160
+published: true
 
 provider:
   name: Fox News
@@ -29,33 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Biden says 'no need' for Trump to receive intel briefings: 'What impact does he have?'"
-    excerpt: "President Biden said he didn’t think his predecessor should receive intelligence briefings, as is standard for former presidents. "
-    publishedDateTime: 2021-02-06T00:33:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZdNwrOOIlY/biden-no-need-trump-intel-briefings"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden5.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Why It Matters That Biden Restored Regular Press Briefings"
-    excerpt: "Joe Lockharts that the return of press briefings under the new Biden administration is a welcome change. Press briefings are far more than symbolic -- they're an avenue to keep the government quick and accountable."
-    publishedDateTime: 2021-02-04T12:42:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/02/04/why_it_matters_that_biden_restored_regular_press_briefings_535116.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "kdSbenCnVaBD1ZpHzZFle6/cbBCS+K/hevmRbNZ1K01ATHiAuaN99xiJNg/O4k3xqHYj6Z93khNgmdQn1bp3g0wB63/UF94uYZcuv+YOjY4smcNYOAb7Dt4Sp/6w2sPcP6TyKhUtyCIA2R6oztHGJlOYM488CBCqy5O4GBKq9eITRbzvLxAdRte932/JFTO9wOtOLo6qaP3FFFKJ8YuVYFrEGRTMnms8lecyrpgusVhgo4l1Dye+QCA5zblw5OtLEuP2mNekpFdXf864Z5uyB00TprME70hWFHRjcaDaDQDJHu1LsVf7pTKtDh+jyMApC4P12qwHQG7pmijFbIj/dthbASgYs0mEpd5WWN16MGA=;QD2RqHl5KcdWGq9ruE27qw=="
 ---

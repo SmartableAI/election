@@ -3,8 +3,8 @@ category: news
 title: "US Vice President Kamala Harris walks to mock swearing in"
 excerpt: "United States Vice President Kamala Harris walks to a mock swearing in of the new US Senators on Capitol Hill in Washington, DC on Thursday, February 4, 2021. Photo by Ken Cedeno/UPI ."
 publishedDateTime: 2021-02-05T01:23:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/3a5a1fc635097f8ba33ed5213d22c6b0/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/3a5a1fc635097f8ba33ed5213d22c6b0/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/d1e438775bd6ff4033618bfb218eced9/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/d1e438775bd6ff4033618bfb218eced9/US-Vice-President-Kamala-Harris-walks-to-mock-swearing-in/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/3a5a1fc635097f8ba33ed5213d22c6b0/HARRIS-SWEARS-IN-SENATORS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/d1e438775bd6ff4033618bfb218eced9/HARRIS-SWEARS-IN-SENATORS.jpg"
     width: 650
     height: 650
     isCached: true
@@ -1117,6 +1117,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "v50g0vU9c0DmxprCn1hJ4mHJuNHwSIlaQ5+0413NXbWVRv/YDSbngyZMr8cDUvD40MjrSYb4121+t+45m92Zxx68eE9+yQ5X41IE+MxVfeGyBAUxn6VNGFO3sHKAIzT1gayK2AdyXeKB4HabAiL5p0zrMpYzi7arf3IIZ05MKx1Wuf6dnkGZPyfqcvVanMDpAjxschUB6hTu6fMAmaUtBKoaqv+tteK/A7uugY2cYnw0joI2E768JZGsTaqp+e7pnFEu7k6rEZ2MLzlLlwSfgw4cHHa2R7uQ87A42Yx4ji1NWg0x8iorFbLhirKDmgAoIzk9bKe7HPhZx01Ll/0DPkozfCkMwXJ8rbbXXdPtQPhG5rhErorzBh8GiVEcq8n+8vm4yPcrdiYQlEwRcW5LOYRCJ1hX5UAFmrNhlDuHmZXp3G7LAtmXVW/GHM4w63/UDB9H/HIfije3ZW7lkashBRqXMeDSk0cbRl2nDEe9ZThkMRHMWDsiN5vkLo1HdnxyvnDerKbWgtBzg83G5idziA==;ca1oK7XNdXznKy0zCE9PdQ=="
+secured: "p6hDfFV6Xp9yvfqHvAp444AOq1aE42kLwTXJk7ILQ8zEFdPfpOYrPQLrIvdNkASnoG2xDpt7CHHeIF1CVTmMskJ4BMvYx1kgmDfcxpSEStNDWJdCYcwViWq6LY0DPCUB51dTCG2Wn4VhrMykdyawnBh0TH3nCBShRpXVTghh4YsGeJUtCirOZpFnWUqLhKtInK0e1CRV/ZGvPXQIMbfv2oxZnNnIJ0Q3QT9LiUCO0JBSzgl8VbwVNZXcgiXlUOeR8CblSAdyPbSipFuheq7HBwZ9F4JCU+xJ7Yyq0f3XgRGqSs8iCjFCDuAt679KaD+nlOkUgj9JKRjPKMLDxMJxCI3HR33O96XWAw8vRa5RxvI=;ABrxS8BkCQ6trOn8uWftqw=="
 ---
 

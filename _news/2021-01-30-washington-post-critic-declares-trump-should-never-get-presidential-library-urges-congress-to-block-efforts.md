@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "'President' Jon Stewart mocks Trump's resignation from Screen Actor's Guild"
-    excerpt: "Jon Stewart has trolled former President Trump for his letter of resignation to The Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) which came after the union threatened to expel his membership."
-    publishedDateTime: 2021-02-05T16:26:00Z
-    webUrl: "https://www.foxnews.com/entertainment/jon-stewart-mocks-trump-resignation-screen-actors-guild"
-    ampWebUrl: "https://www.foxnews.com/entertainment/jon-stewart-mocks-trump-resignation-screen-actors-guild.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jon-stewart-mocks-trump-resignation-screen-actors-guild.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/JonStewart1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Larry Kudlow, former top economic adviser to Trump, to host Fox Business show"
     excerpt: "Fox is hiring Larry Kudlow, most recently the top economic advisor to Donald Trump in the White House, as contributor and host of a weekday show on its business network. Kudlow, who will start on"
     publishedDateTime: 2021-01-26T20:32:00Z

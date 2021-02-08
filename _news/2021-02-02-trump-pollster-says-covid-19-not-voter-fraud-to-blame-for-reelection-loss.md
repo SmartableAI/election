@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-lo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/trump-2020-reelection-loss-covid/index.html"
 type: article
 quality: 188
-heat: 908
+heat: 928
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203173822-liz-cheney-0203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "America confronts Trump's destructive legacy"
+    excerpt: "In a momentous week, America confronts a new reckoning with the negligent, destructive legacy of Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-08T12:34:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sRP9FpRTRfc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/donald-trump-president-joe-biden-impeachment-coronavirus-economy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/donald-trump-president-joe-biden-impeachment-coronavirus-economy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103256-105-trump-january-6-rally-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

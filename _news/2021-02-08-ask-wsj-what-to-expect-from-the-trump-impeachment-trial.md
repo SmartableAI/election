@@ -62,22 +62,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Can the Senate stop Trump running for president again?"
-    excerpt: "Former President Donald Trump's second impeachment trial is set to begin next week as he faces allegations of inciting an insurrection at the Capitol that took place on Jan. 6, the same day Trump spoke at a massive rally and encouraged a protest, claiming there was fraud in the 2020 election."
-    publishedDateTime: 2021-02-04T15:10:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p4nU4Fp26Rg/can-senate-stop-trump-running-for-president-again"
-    ampWebUrl: "https://www.foxnews.com/politics/can-senate-stop-trump-running-for-president-again.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/can-senate-stop-trump-running-for-president-again.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Impeachment trial: How many Senate votes does it take to convict Trump?"
     excerpt: "The Senate impeachment trial will begin on February 9. "
     publishedDateTime: 2021-02-04T22:46:52Z
@@ -459,22 +443,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Senate Democrats See Short Trump Trial as They Juggle Covid-19 Stimulus Package"
-    excerpt: "Key details of former President Donald Trump’s impeachment trial and the Biden administration’s $1.9-trillion relief bill are still being finalized."
-    publishedDateTime: 2021-02-07T18:57:00Z
-    webUrl: "https://www.wsj.com/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
-    ampWebUrl: "https://www.wsj.com/amp/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 131
-    images:
-      - url: "https://images.wsj.net/im-296098/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Who is Senate pro tempore Patrick Leahy and why is he presiding over Trump impeachment trial?"
     excerpt: "Supreme Court Chief Justice John Roberts presided over former President Trump's first impeachment trial a year ago for abuse of power and obstruction of Congress."

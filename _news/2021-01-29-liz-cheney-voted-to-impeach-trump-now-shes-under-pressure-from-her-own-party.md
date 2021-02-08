@@ -41,10 +41,10 @@ related:
         isCached: true
   - title: "Graham says outcome of Trump impeachment trial \"is really not in doubt\""
     excerpt: "Republican Senator Lindsey Graham of South Carolina said Sunday that the outcome of former President Donald Trump's upcoming impeachment trial is \"really not in doubt\" as many Republicans believe the Senate lacks the authority to try a president who is no longer in office and will likely vote to acquit him."
-    publishedDateTime: 2021-02-07T16:27:00Z
-    webUrl: "https://www.cbsnews.com/news/lindsey-graham-donald-trump-impeachment-trial-face-the-nation/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/lindsey-graham-donald-trump-impeachment-trial-face-the-nation/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/lindsey-graham-donald-trump-impeachment-trial-face-the-nation/"
+    publishedDateTime: 2021-02-08T12:03:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-impeachment-trial-lindsey-graham-face-the-nation/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-trial-lindsey-graham-face-the-nation/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-trial-lindsey-graham-face-the-nation/"
     type: article
     provider:
       name: CBS News

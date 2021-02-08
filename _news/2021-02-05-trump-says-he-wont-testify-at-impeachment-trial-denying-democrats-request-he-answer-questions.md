@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Trump impeachment: final day of preparations as Senate trial looms – live updates"
     excerpt: "Polling shows slim majority of Americans want Trump convicted and barred from office"
-    publishedDateTime: 2021-02-08T10:47:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-60210f468f0862592e4b4719"
+    publishedDateTime: 2021-02-08T12:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-60211ebe8f0898d76fa132bc"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
     type: article

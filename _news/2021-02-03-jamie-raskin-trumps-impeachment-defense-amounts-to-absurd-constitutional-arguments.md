@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Impeachment trial kicks off this week as Democrats seek to tie Trump to Capitol riots"
+    excerpt: "The second impeachment trial of former President Donald Trump begins this week as the House impeachment managers prepare to make their case to the public -- and the 100 senators who are jurors for the trial -- that Trump is responsible for last month's deadly riots at the US Capitol.\n    \n"
+    publishedDateTime: 2021-02-08T10:00:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TKYWuZi6kdY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/impeachment-latest-pretrial-briefs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/impeachment-latest-pretrial-briefs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131913-102-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump quickly rejects impeachment managers' request for testimony at impeachment trial"
     excerpt: "The House impeachment managers are seeking former President Donald Trump's testimony before or during his Senate impeachment trial, making the request in a letter Wednesday that raises the stakes of the trial scheduled to begin next week.\n    \n"
     publishedDateTime: 2021-02-05T02:11:58Z

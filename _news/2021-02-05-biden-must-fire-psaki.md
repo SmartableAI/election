@@ -28,37 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration cites climate change as a 'racial justice issue'"
-    excerpt: "Climate Adviser Gina McCarthy explained that challenges are exacerbated in communities that haven't been invested in."
-    publishedDateTime: 2021-02-01T21:57:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQjA3MJAeuI/biden-admin-calls-climate-change-is-a-racial-justice-issue"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp"
+  - title: "New DOJ hire is former colleague of Hunter Biden defense attorney"
+    excerpt: "The newly selected acting head of the Justice Department's criminal division is a former colleague of the attorney now representing Hunter Biden in the face of a DOJ investigation."
+    publishedDateTime: 2021-02-02T14:44:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lqqecc00cx0/doj-official-former-colleague-hunter-biden-defense-attorney"
+    ampWebUrl: "https://www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2948c6c3-ebed-4fa1-b506-498478699919/13ae4fb4-3aad-4947-bbe5-bd6a698c6e05/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden approval under 50% in new national poll"
-    excerpt: "Biden approval under 50% in new national poll"
-    publishedDateTime: 2021-02-03T21:15:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C0gV_9EchTo/biden-approval-under-50-in-new-national-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-under-50-in-new-national-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-under-50-in-new-national-poll.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Hunter-Biden-Joe-Biden-Inauguration-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Dem progressives renew anti-ICE push, despite Biden immigration order"
     excerpt: "Progressive Democrats are renewing their calls to abolish Immigration and Customs Enforcement (ICE) after an illegal immigrant was deported this week -- days after the Biden administration moved to place a moratorium on deportations."
@@ -76,150 +60,191 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden administration must continue defending Taiwan: Rubio"
-    excerpt: "The U.S. Navy’s Seventh Fleet said in a statement this is the first time a U.S. warship has sailed through the strait between mainland China and Taiwan during the Biden administration."
-    publishedDateTime: 2021-02-04T16:19:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_iAE3n624OM/bidens-foreign-policy-taiwan-sen-rubio"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-foreign-policy-taiwan-sen-rubio.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-foreign-policy-taiwan-sen-rubio.amp"
+  - title: "Hunter Biden likely paid big bucks for deal on soon-to-be-released book"
+    excerpt: "Though the numbers aren’t public, sources say Hunter Biden was likely paid big bucks for his new book deal. "
+    publishedDateTime: 2021-02-05T00:59:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fouwa46LLAg/sources-say-hunter-biden-likely-paid-big-bucks-for-new-book-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/sources-say-hunter-biden-likely-paid-big-bucks-for-new-book-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sources-say-hunter-biden-likely-paid-big-bucks-for-new-book-deal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden administration vows to free Americans being held hostage abroad"
-    excerpt: "Secretary of State Antony Blinken held a call with the families of Americans held hostage or unlawfully detained overseas."
-    publishedDateTime: 2021-02-04T22:03:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F6QAxxHs-WA/biden-administration-americans-hostage-abroad-james-foley-paul-whelan"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-americans-hostage-abroad-james-foley-paul-whelan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-americans-hostage-abroad-james-foley-paul-whelan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/James-Foley-Congress.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden expected to announce dramatic increase in refugee admissions"
-    excerpt: "President Biden on Thursday is expected to announce a dramatic increase in the number of admissions of refugees into the U.S. -- the latest significant shift in immigration policy in his administration."
-    publishedDateTime: 2021-02-04T19:54:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3rRgaEGeAT4/biden-dramatic-increase-in-refugee-admissions"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dramatic-increase-in-refugee-admissions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dramatic-increase-in-refugee-admissions.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ccc80402-1f0f-4951-b077-6701a86ada5f/7714e77c-0770-463b-aa9a-092286513796/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Hunter-memoir2.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden prepares rules to limit ICE arrests, deportations"
-    excerpt: "U.S. immigration authorities will revise their approach to arrests and deportations under President Biden, according to Homeland Security officials."
-    publishedDateTime: 2021-02-07T22:43:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_kDSfQI7amQ/biden-limit-ice-deportations"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-limit-ice-deportations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-limit-ice-deportations.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21037480732952-e1612735051617.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden administration to open overflow shelter for migrant children in Texas"
-    excerpt: "The Biden administration said it plans on reactivating a “temporary Influx Care Facility” in Carrizo Springs, Texas, to potentially accommodate up to 700 migrant children within the next two weeks."
-    publishedDateTime: 2021-02-03T07:57:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HyZHvwUH0sA/biden-administration-to-open-overflow-shelter-for-migrant-children-in-texas"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-to-open-overflow-shelter-for-migrant-children-in-texas.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-open-overflow-shelter-for-migrant-children-in-texas.amp"
+  - title: "Hiding Hunter Biden laying low in LA, starting art career with shady dealer"
+    excerpt: "As federal prosecutors continue their criminal probes into Hunter Biden’s taxes and international business dealings, the President’s son — shuttling between Washington DC and a sprawling Hollywood Hills home — is lying low, consulting with lawyers and focusing on his new career in art."
+    publishedDateTime: 2021-01-31T02:06:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTTaRLiLXjk/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer"
+    ampWebUrl: "https://www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hiding-hunter-biden-laying-low-in-la-starting-art-career-with-shady-dealer.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden administration reopening Texas holding facility for migrant children"
-    excerpt: "The Biden administration plans to reopen a holding center for migrant children detained at the country’s Southwest border, the administration confirmed in a statement to Fox News on Wednesday."
-    publishedDateTime: 2021-02-04T03:15:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pbY3nd4Zi2k/biden-administration-texas-holding-facility-migrant-children"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-texas-holding-facility-migrant-children.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-texas-holding-facility-migrant-children.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f8d6f71-27fa-4c95-b98e-3089e93344d2/9a7c8817-02ec-4867-8b87-cd65b441d9e6/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f4d2ba-b1e3-4f9c-bc4e-3b3d3f3de519/2b711708-9a6f-4b8b-949a-d7a0eb709359/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden administration to remove terrorist designation for Yemen's Houthi militia"
-    excerpt: "The Biden administration said Friday that it is removing the terrorist designation for the Iranian-backed Houthi militia in Yemen -- reversing a move made in the final days of the Trump administration and the latest sign of a different approach to the war-torn Middle East. "
-    publishedDateTime: 2021-02-06T13:54:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nsEdB_rfTP0/biden-terrorist-designation-yemens-houthi-militia"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-terrorist-designation-yemens-houthi-militia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-terrorist-designation-yemens-houthi-militia.amp"
+  - title: "Biden received more money from teachers unions than any other candidate in 2020"
+    excerpt: "President Biden received more contributions from teachers unions than any other candidate during the 2020 election cycle by a wide margin, underscoring the conundrum that may be headed for the White House if those same unions continue to oppose efforts to open schools for in-person learning.  "
+    publishedDateTime: 2021-02-05T19:53:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/33SSnY8gzU0/biden-money-teachers-unions-candidate-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-money-teachers-unions-candidate-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-money-teachers-unions-candidate-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34182903-dc3d-4977-b3ee-815a0114acca/c8832b93-d928-475e-897c-c0dc379f2922/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden administration pushes forward with two state solution with Israel, Palestine"
-    excerpt: "President Biden has taken steps to reverse Trump-era policies in the Middle East by throwing the administration’s support behind finding a two-state solution between Israel and Palestine."
-    publishedDateTime: 2021-01-27T02:21:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsGRxJuh_TA/biden-administration-pushes-forward-with-two-state-solution-with-israel-palestine"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-pushes-forward-with-two-state-solution-with-israel-palestine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-pushes-forward-with-two-state-solution-with-israel-palestine.amp"
+  - title: "Biden DOJ pick Kristen Clarke railed against Sessions task force protecting religious liberty"
+    excerpt: "Kristen Clarke, President Biden's choice to run the Justice Department's Civil Rights Division, has previously taken issue with the Justice Department's Religious Liberty Task Force."
+    publishedDateTime: 2021-01-28T20:20:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4mMftAT4tO0/biden-doj-kristen-clarke-jeff-sessions-religious-liberty"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-kristen-clarke-jeff-sessions-religious-liberty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-kristen-clarke-jeff-sessions-religious-liberty.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d36f0ae-d23f-4400-8487-102bbb4800d0/2116710c-66fd-4195-a712-62b5ec4a67fc/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kristen-Clarke-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Doctor says Biden's symptoms have improved since foot fracture while playing with his dog Major"
+    excerpt: "President Biden had another round of X-rays Saturday on his fractured right foot, which Dr. Kevin O’Connor says is improving “as expected.” "
+    publishedDateTime: 2021-02-06T22:44:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kvAl3jIQ9e4/biden-foot-fracture-improved"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-foot-fracture-improved.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foot-fracture-improved.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/pic.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Rhode Island ranked worst state to do business under Biden Commerce Secretary nominee's leadership"
+    excerpt: "Rhode Island was ranked among the top five worst places to do business in the U.S. during all four years Gina Raimondo, President Biden's nominee for secretary of commerce, was governor."
+    publishedDateTime: 2021-01-27T19:26:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oLDpTcX3XnI/rhode-island-worst-state-business-biden-commerce-raimondo"
+    ampWebUrl: "https://www.foxnews.com/politics/rhode-island-worst-state-business-biden-commerce-raimondo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rhode-island-worst-state-business-biden-commerce-raimondo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e6cc050-5e3c-4af3-8996-40045a053ee5/ebbce464-9ae9-4185-a4e5-9485df9d3e95/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "What about COVID? Biden aide says climate change ‘most significant public health challenge of our time’"
-    excerpt: "White House domestic climate adviser Gina McCarthy said Tuesday that climate change poses the “most significant public health challenge of our time.” "
-    publishedDateTime: 2021-01-27T21:27:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HR-_ThWekQ8/biden-official-climate-change-most-significant-public-health-challenge-of-our-time"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-official-climate-change-most-significant-public-health-challenge-of-our-time.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-official-climate-change-most-significant-public-health-challenge-of-our-time.amp"
+  - title: "White House voices support for moon exploration by 2024, after concerns Biden would nix Artemis Program"
+    excerpt: "White House press secretary Jen Psaki on Thursday voiced support for NASA's Artemis Program, which aims to land the first woman and next man on the moon by 2024."
+    publishedDateTime: 2021-02-04T18:49:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ncXmgiSs0pU/white-house-supports-moon-exploration-by-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-supports-moon-exploration-by-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-supports-moon-exploration-by-2024.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 159
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Rand Paul, in tense exchange, presses Biden’s Education Department nominee on transgender student athletes"
+    excerpt: "President Biden’s nominee for education secretary, Miguel Cardona, faced questions on transgender student athletes during a tense exchange with Sen. Rand Paul, R-Ky., during his confirmation hearing before the Senate Health, Education, Labor and Pensions Committee on Wednesday."
+    publishedDateTime: 2021-02-03T17:59:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mtfJhWQncTs/rand-paul-in-tense-exchange-presses-bidens-education-department-nominee-on-transgender-student-athletes"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-in-tense-exchange-presses-bidens-education-department-nominee-on-transgender-student-athletes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-in-tense-exchange-presses-bidens-education-department-nominee-on-transgender-student-athletes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba2bc4f9-b694-4326-9312-44524e136e49/cf153a2d-9a34-4de7-b7b1-2e2a0236c841/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says Hunter's 'back' after extended battle with substance abuse"
+    excerpt: "President Joe Biden revealed Sunday that his son Hunter's upcoming book gave him hope that his \"boy's back\" after an extended battle with substance abuse."
+    publishedDateTime: 2021-02-07T21:15:00Z
+    webUrl: "https://www.foxnews.com/media/joe-biden-hunter-biden-beautiful-things-memoir"
+    ampWebUrl: "https://www.foxnews.com/media/joe-biden-hunter-biden-beautiful-things-memoir.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-hunter-biden-beautiful-things-memoir.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21035471026911.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "US warship crosses through Taiwan Strait for first time in Biden presidency"
+    excerpt: "The USS John S. McCain sailed through the Taiwan Strait on Thursday, its first such operation since Joe Biden took office."
+    publishedDateTime: 2021-02-04T22:22:00Z
+    webUrl: "https://www.foxnews.com/world/us-warship-taiwan-strait-first-time-biden-presidency"
+    ampWebUrl: "https://www.foxnews.com/world/us-warship-taiwan-strait-first-time-biden-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/us-warship-taiwan-strait-first-time-biden-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/USS-John-Mccain-iStock.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden Wants to Kill 80% of America's Energy"
+    excerpt: "When giving speeches and talking to audiences, I've often been struck by how few Americans, even those who are highly educated, have any idea where the"
+    publishedDateTime: 2021-02-02T11:40:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/02/02/biden_wants_to_kill_80_of_americas_energy_145163.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/534003_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Netanyahu Still Waiting for Biden's Phone Call"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-02-07T12:56:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/06/netanyahu_still_waiting_for_bidens_phone_call_535306.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "YvGBw+Lnrz8KeuMQdUVaKukf6MAQpHjGDvQnl5oA+o+VBrnzsH6SSZsqyCkiOjG4pvH+ElEMb0qzGqE9+ABVRwhbLlO0mMb/EQjJnJBsH/tXYzAyySPUIasn4mcTjEiD3Ybg/JKa7FL2wZJse1GufoI41SXZ1L66ikdyi5wTQH5fKMtRvi6QV1luY+ZoxweHByYdT1oX+p8FmVmb/Vll52h8xwvJcdBafNF86fNGO7Y9zWUp/TrQmznApTvkJwK12UOG+SBYuoWwOFlBHVlIw9C9Q2bAfPXwFjt81blKVZZHgbMdQZlMLYu2rLGkpY5WjfNYqEf6VmECU4PM7T5cbEOpURBAu5XS72Ai0hUVwzA=;1t6M2p/ndZym3b7x54FTBg=="
 ---

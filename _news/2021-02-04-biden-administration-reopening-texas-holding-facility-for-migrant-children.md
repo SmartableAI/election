@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration plans to reengage with UN rights council, reversing Trump"
+    excerpt: "The Biden administration is set to announce this week that it will reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago, U.S. officials said Sunday. The decision reverses another Trump-era move away from multilateral organizations"
+    publishedDateTime: 2021-02-08T12:29:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Uk3WSFALayM/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06033aca-08b3-48f8-b198-95163a765304/d8e75191-a19d-41d7-b41c-27e56d336a1b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says 'no need' for Trump to receive intel briefings: 'What impact does he have?'"
+    excerpt: "President Biden said he didn’t think his predecessor should receive intelligence briefings, as is standard for former presidents. "
+    publishedDateTime: 2021-02-06T00:33:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZdNwrOOIlY/biden-no-need-trump-intel-briefings"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden5.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden administration cites climate change as a 'racial justice issue'"
     excerpt: "Climate Adviser Gina McCarthy explained that challenges are exacerbated in communities that haven't been invested in."
     publishedDateTime: 2021-02-01T21:57:16Z
@@ -46,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2948c6c3-ebed-4fa1-b506-498478699919/13ae4fb4-3aad-4947-bbe5-bd6a698c6e05/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump residency at Mar-a-Lago under Palm Beach legal review"
+    excerpt: "Palm Beach, Fla., officials are conducting a legal review into former President Donald Trump's residency at Mar-a-Lago, Fox News confirmed Monday."
+    publishedDateTime: 2021-02-01T18:54:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/avlCXcjVz-I/florida-palm-beach-legal-review-trump-residency-mar-a-lago"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden approval under 50% in new national poll"
     excerpt: "Biden approval under 50% in new national poll"
@@ -63,21 +111,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Dem progressives renew anti-ICE push, despite Biden immigration order"
-    excerpt: "Progressive Democrats are renewing their calls to abolish Immigration and Customs Enforcement (ICE) after an illegal immigrant was deported this week -- days after the Biden administration moved to place a moratorium on deportations."
-    publishedDateTime: 2021-02-03T22:41:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Xzf8ktZhtg/dem-progressives-renew-anti-ice-push-despite-biden-immigration-order"
-    ampWebUrl: "https://www.foxnews.com/politics/dem-progressives-renew-anti-ice-push-despite-biden-immigration-order.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-progressives-renew-anti-ice-push-despite-biden-immigration-order.amp"
+  - title: "Biden immigration orders raise COVID-19 concerns at the border"
+    excerpt: "With President Biden relaxing Tuesday some immigration policies bolstered under the Trump administration, U.S. health and immigration officials have been vague about coronavirus testing for people caught crossing the southern border illegally."
+    publishedDateTime: 2021-02-03T01:41:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SxIp7NENuI/biden-immigration-covid-19-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-covid-19-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-covid-19-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e8d82c2-273b-4c5c-a9ad-ccd91dbd9bae/62e14652-1b7c-40c3-b0ea-aac58cd458bd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/biden-mayorkas.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden administration must continue defending Taiwan: Rubio"
     excerpt: "The U.S. Navy’s Seventh Fleet said in a statement this is the first time a U.S. warship has sailed through the strait between mainland China and Taiwan during the Biden administration."
@@ -127,6 +175,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Can the Senate stop Trump running for president again?"
+    excerpt: "Former President Donald Trump's second impeachment trial is set to begin next week as he faces allegations of inciting an insurrection at the Capitol that took place on Jan. 6, the same day Trump spoke at a massive rally and encouraged a protest, claiming there was fraud in the 2020 election."
+    publishedDateTime: 2021-02-04T15:10:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p4nU4Fp26Rg/can-senate-stop-trump-running-for-president-again"
+    ampWebUrl: "https://www.foxnews.com/politics/can-senate-stop-trump-running-for-president-again.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/can-senate-stop-trump-running-for-president-again.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "China cool to Biden administration attempt to negotiate nuclear deal"
+    excerpt: "China pushed back Friday on calls from the Biden administration to address growing concerns about Beijing's nuclear stockpile, calling Washington's worries \"groundless\" and a \"vilification.\""
+    publishedDateTime: 2021-02-06T02:42:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2FZOK47PeSs/biden-admin-takes-on-nuclear-treaties-with-russia-and-iran-but-china-rejects-nonproliferation-talks"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-takes-on-nuclear-treaties-with-russia-and-iran-but-china-rejects-nonproliferation-talks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-takes-on-nuclear-treaties-with-russia-and-iran-but-china-rejects-nonproliferation-talks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1986078c-522a-4d6a-a58f-7367474d50e4/938bb221-54a9-452a-8293-c156892223fb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden prepares rules to limit ICE arrests, deportations"
     excerpt: "U.S. immigration authorities will revise their approach to arrests and deportations under President Biden, according to Homeland Security officials."
     publishedDateTime: 2021-02-07T22:43:15Z
@@ -159,6 +239,54 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Republican who called on Trump to resign admits conviction ‘very unlikely’"
+    excerpt: "Sen. Pat Toomey, R-Pa., who has been a top critic of former President Trump and called for him to resign after last month’s riot at the Capitol, said in an interview Sunday that it is unlikely that the Senate will vote for a conviction on the one count of \"incitement of insurrection.\""
+    publishedDateTime: 2021-02-08T09:41:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nti_kfiWBso/republican-who-called-on-trump-to-resign-admits-conviction-very-unlikely"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-who-called-on-trump-to-resign-admits-conviction-very-unlikely.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-who-called-on-trump-to-resign-admits-conviction-very-unlikely.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Senate committee advances Biden UN pick despite controversy over China speech"
+    excerpt: "The Senate Foreign Relations Committee on Thursday approved President Biden’s U.N. ambassador nominee, Linda Thomas-Greenfield, but only after objections and a delay in the vote due to concerns raised by Republicans about a pro-China speech she once gave in 2019."
+    publishedDateTime: 2021-02-04T17:52:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sEIGE6t0k3g/senate-biden-un-pick-china-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-biden-un-pick-china-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-biden-un-pick-china-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b072103f-ac02-41ea-b778-f4d9e143bb32/842a50a2-60e7-49f6-ae5b-5bd52e8fe220/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden administration considering Rahm Emanuel for ambassador role, report says"
+    excerpt: "Former Chicago mayor and ex-Obama chief of staff Rahm Emanuel might still end up in the Biden administration."
+    publishedDateTime: 2021-02-02T15:59:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MddK2eJxG8U/biden-rahm-emanuel-administration-role"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-rahm-emanuel-administration-role.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rahm-emanuel-administration-role.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden administration to remove terrorist designation for Yemen's Houthi militia"
     excerpt: "The Biden administration said Friday that it is removing the terrorist designation for the Iranian-backed Houthi militia in Yemen -- reversing a move made in the final days of the Trump administration and the latest sign of a different approach to the war-torn Middle East. "
     publishedDateTime: 2021-02-06T13:54:28Z
@@ -175,54 +303,184 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden administration pushes forward with two state solution with Israel, Palestine"
-    excerpt: "President Biden has taken steps to reverse Trump-era policies in the Middle East by throwing the administration’s support behind finding a two-state solution between Israel and Palestine."
-    publishedDateTime: 2021-01-27T02:21:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsGRxJuh_TA/biden-administration-pushes-forward-with-two-state-solution-with-israel-palestine"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-pushes-forward-with-two-state-solution-with-israel-palestine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-pushes-forward-with-two-state-solution-with-israel-palestine.amp"
+  - title: "Psaki says Biden wants schools open, but won't commit to standing up to union obstruction"
+    excerpt: "White House press secretary Jen Psaki on Thursday reiterated that President Biden wants to see children back in classrooms, but would not commit to standing up to unions if forced to choose between the prolific Democratic donors and reopening schools."
+    publishedDateTime: 2021-02-04T19:37:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aVFwdnt7zYU/psaki-says-biden-wants-schools-open-but-wont-commit-to-standing-up-to-union-obstruction"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-says-biden-wants-schools-open-but-wont-commit-to-standing-up-to-union-obstruction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-says-biden-wants-schools-open-but-wont-commit-to-standing-up-to-union-obstruction.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d36f0ae-d23f-4400-8487-102bbb4800d0/2116710c-66fd-4195-a712-62b5ec4a67fc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "What about COVID? Biden aide says climate change ‘most significant public health challenge of our time’"
-    excerpt: "White House domestic climate adviser Gina McCarthy said Tuesday that climate change poses the “most significant public health challenge of our time.” "
-    publishedDateTime: 2021-01-27T21:27:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HR-_ThWekQ8/biden-official-climate-change-most-significant-public-health-challenge-of-our-time"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-official-climate-change-most-significant-public-health-challenge-of-our-time.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-official-climate-change-most-significant-public-health-challenge-of-our-time.amp"
+  - title: "Trump resigns from Screen Actors Guild: ‘I no longer wish to be associated with your union’"
+    excerpt: "President Trump is resigning from the Screen Actors Guild - American Federation of Television and Radio Artists after they threatened to expel his membership from the union after the Capitol riot -- to which he said, “Who cares!”"
+    publishedDateTime: 2021-02-04T17:44:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jc98yOOyz-A/trump-resigns-from-screen-actors-guild"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/315610d9-582f-4881-a5ac-41962b062276/a07fe9a0-d66c-4947-9b89-c7a2419e8962/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Colorado officials want to keep Space Command in state, ask Pentagon to reconsider Trump's relocation"
+    excerpt: "Colorado Gov. Jared Polis and a group of bipartisan state officials are urging Defense Secretary Lloyd Austin to reconsider and \"pause\" former President Donald Trump's decision to move U.S. Space Command from Colorado Springs to Alabama, saying it will \"undermine\" the country's ability to respond to"
+    publishedDateTime: 2021-02-04T15:41:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTW63eWBOOQ/colorado-officials-pentagon-reconsider-trump-decision-space-command-location"
+    ampWebUrl: "https://www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Congress set to override Trump veto for first time in presidency"
+    excerpt: "SMITH: OK, Steve Harrigan live from Atlanta for us, thank you. President Trump and President Joe Biden both expected to make appearances in Georgia on the eve of the election. To Peter Doocy now in Augusta, Georgia, for us on that -- Peter. something ..."
+    publishedDateTime: 2021-02-01T18:42:00Z
+    webUrl: "https://www.foxnews.com/transcript/congress-set-to-override-trump-veto-for-first-time-in-presidency"
+    ampWebUrl: "https://www.foxnews.com/transcript/congress-set-to-override-trump-veto-for-first-time-in-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/congress-set-to-override-trump-veto-for-first-time-in-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d1019a4-bc12-4b87-8129-c1f6c4743b34/e45b0f69-5942-4aed-b168-3d594dc0697f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Must Fire Psaki"
-    excerpt: "Progressives demand that conservatives practice tolerance -- at all times -- and if they dare to say or post anything on social media that strays"
-    publishedDateTime: 2021-02-05T12:15:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.amp.html"
+  - title: "Trump residency at Mar-a-Lago under Palm Beach legal review"
+    excerpt: "Palm Beach, Fla., officials are conducting a legal review into former President Donald Trump's residency at Mar-a-Lago, Fox News confirmed Monday."
+    publishedDateTime: 2021-02-01T18:58:00Z
+    webUrl: "https://www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/MAR-A-LAGO.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Mark Meadows: Biden administration policies put 'America last'"
+    excerpt: "Today: Spend, tax and cancel, the Biden agenda. The former White House Chief of Staff under President Trump Mark Meadows is here on the new administration's big plans, including that $1.9 trillion spending package,"
+    publishedDateTime: 2021-02-07T19:26:00Z
+    webUrl: "https://www.foxnews.com/transcript/mark-meadows-biden-administration-policies-put-america-last"
+    ampWebUrl: "https://www.foxnews.com/transcript/mark-meadows-biden-administration-policies-put-america-last.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mark-meadows-biden-administration-policies-put-america-last.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9396805-e4a0-4029-be98-c13cf9224823/f14a9894-993a-45e3-a9e1-3fc53af1ebb3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'President' Jon Stewart mocks Trump's resignation from Screen Actor's Guild"
+    excerpt: "Jon Stewart has trolled former President Trump for his letter of resignation to The Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) which came after the union threatened to expel his membership."
+    publishedDateTime: 2021-02-05T16:26:00Z
+    webUrl: "https://www.foxnews.com/entertainment/jon-stewart-mocks-trump-resignation-screen-actors-guild"
+    ampWebUrl: "https://www.foxnews.com/entertainment/jon-stewart-mocks-trump-resignation-screen-actors-guild.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jon-stewart-mocks-trump-resignation-screen-actors-guild.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/JonStewart1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump resigns from SAG: ‘I no longer wish to be associated with your union’"
+    excerpt: "President Trump is resigning from the Screen Actors Guild - American Federation of Television and Radio Artists after they threatened to expel his membership from the union after the Capitol riot -- to which he said,"
+    publishedDateTime: 2021-02-06T02:34:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-resigns-from-screen-actors-guild"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-resigns-from-screen-actors-guild.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/IMG_1279.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Senate Democrats See Short Trump Trial as They Juggle Covid-19 Stimulus Package"
+    excerpt: "Key details of former President Donald Trump’s impeachment trial and the Biden administration’s $1.9-trillion relief bill are still being finalized."
+    publishedDateTime: 2021-02-07T18:57:00Z
+    webUrl: "https://www.wsj.com/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    ampWebUrl: "https://www.wsj.com/amp/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-296098/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Colorado officials want to keep Space Command in state, ask Pentagon to reconsider Trump's relocation"
+    excerpt: "Colorado Gov. Jared Polis and a group of bipartisan state officials are urging Defense Secretary Lloyd Austin to reconsider and \"pause\" former President Donald Trump's decision to move U.S. Space Command from Colorado Springs to Alabama,"
+    publishedDateTime: 2021-02-05T00:17:00Z
+    webUrl: "https://www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location"
+    ampWebUrl: "https://www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Space-force.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Why It Matters That Biden Restored Regular Press Briefings"
+    excerpt: "Joe Lockharts that the return of press briefings under the new Biden administration is a welcome change. Press briefings are far more than symbolic -- they're an avenue to keep the government quick and accountable."
+    publishedDateTime: 2021-02-04T12:42:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/04/why_it_matters_that_biden_restored_regular_press_briefings_535116.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/534354_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
+    quality: 45
+  - title: "Biden's Drive to War in the Middle East"
+    excerpt: "President Joe Biden's Iran policy was conceived and is being implemented by the same people who negotiated the JCPOA under Obama, who argued in favor of empowering Iran. Read Full"
+    publishedDateTime: 2021-02-07T12:57:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/07/bidens_drive_to_war_in_the_middle_east_535381.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "me5KhF+rI438sO3I0RfS+/dW6+VVAG19SnVzWn0pKWj+3gIBxjJgvxZd5tdgTrrRSzcr/cENOt66ZbFAKCNFMXfzm3NLBEd2P2Meqv4cY8RFUbITSOj2hICh+bZ1sc7sXoUDV+n9nGLDgnKQJO5KacXouygIBHCO7jlnkBBefza0/zVmUstJA9FmDMD4pjwbWAVROJEsbCv0vMcQM/vqGUBv1lKGEgHkPGIEth+BCBGpDGw9XQ01kM+n1BoEWgtDlbOM1fknHcegLz4ib2DQ0OfeomvoS9tHSbfxiFkh+19GFJlzQhvDhYjQ+lEetZq2LVZOC6l8bPSMcfENEqKbbBOrcB4Y9xyFcE9httDn1jU=;WeN6nleR9gip2JATty5mrw=="
 ---

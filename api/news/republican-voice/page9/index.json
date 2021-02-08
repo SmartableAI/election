@@ -2,63 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-01-05-liberal-magazine-backtracks-after-naming-biden-sex-assault-accuser-tara-reade-among-top-ten-lunatics-of-2020.md",
-      "title": "Liberal magazine backtracks after naming Biden sex assault accuser Tara Reade among ‘Top Ten Lunatics of 2020’",
-      "excerpt": "Liberal publication Mother Jones removed Tara Reade, who rocked the presidential primary race last year with a sexual assault allegation against Joe Biden, from a list of the \"Top Ten Lunatics of 2020\" after the decision to include her in the first place was blasted by critics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/liberal-magazine-backtracks-biden-accuser-tara-reade-lunatics-2020",
-      "originalUrl": "https://www.foxnews.com/media/liberal-magazine-backtracks-biden-accuser-tara-reade-lunatics-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2020/08/20/694940094001_6182980630001_6182978210001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/liberal-magazine-backtracks-biden-accuser-tara-reade-lunatics-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-magazine-backtracks-biden-accuser-tara-reade-lunatics-2020.amp",
-      "publishedDateTime": "2021-01-04T11:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-03-trump-urged-georgia-election-official-to-find-votes-in-phone-call-insisting-he-won-report.md",
       "title": "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report",
       "excerpt": "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results.",
@@ -144,6 +87,54 @@
       "ampWebUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/amp/",
       "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/amp/",
       "publishedDateTime": "2021-01-03T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-eric-trump-don-jr-party-with-vanilla-ice-at-mar-a-lago-new-years-bash.md",
+      "title": "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash",
+      "excerpt": "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
+      "originalUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/vanilla-ice.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
+      "publishedDateTime": "2021-01-02T11:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Post",

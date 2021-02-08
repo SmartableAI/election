@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-08-republican-who-called-on-trump-to-resign-admits-conviction-very-unlikely.md",
-      "title": "Republican who called on Trump to resign admits conviction ‘very unlikely’",
-      "excerpt": "Sen. Pat Toomey, R-Pa., who has been a top critic of former President Trump and called for him to resign after last month’s riot at the Capitol, said in an interview Sunday that it is unlikely that the Senate will vote for a conviction on the one count of \"incitement of insurrection.\"",
+      "path": "_news/2021-02-08-biden-administration-plans-to-reengage-with-un-rights-council-reversing-trump.md",
+      "title": "Biden administration plans to reengage with UN rights council, reversing Trump",
+      "excerpt": "The Biden administration is set to announce this week that it will reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago, U.S. officials said Sunday. The decision reverses another Trump-era move away from multilateral organizations",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nti_kfiWBso/republican-who-called-on-trump-to-resign-admits-conviction-very-unlikely",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nti_kfiWBso/republican-who-called-on-trump-to-resign-admits-conviction-very-unlikely",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Uk3WSFALayM/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Uk3WSFALayM/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 213,
+      "heat": 766,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06033aca-08b3-48f8-b198-95163a765304/d8e75191-a19d-41d7-b41c-27e56d336a1b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republican-who-called-on-trump-to-resign-admits-conviction-very-unlikely.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-who-called-on-trump-to-resign-admits-conviction-very-unlikely.amp",
-      "publishedDateTime": "2021-02-08T01:41:35-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp",
+      "publishedDateTime": "2021-02-08T04:29:25-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -55,6 +55,119 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr.md",
+      "title": "Tampa Bay Bucs are Super Bowl champs — Major turnover for DeSantis administration — Parscale urges Trump to run again as 'martyr'",
+      "excerpt": "The Tampa Bay Buccaneers won their second Super Bowl in franchise history, following a dominating performance on both sides of the ball. In the quarterback battle of the aging yet savvy veteran vs. the rising superstar,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/08/tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr-491668",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/08/tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr-491668",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-biden-team-says-it-sees-first-signs-of-improvement-in-fight-against-pandemic-but-its-a-daunting-challenge.md",
+      "title": "Biden team says it sees first signs of improvement in fight against pandemic but it's a 'daunting challenge'",
+      "excerpt": "Fully ensconced in the depths of the coronavirus crisis, the Biden administration says it is seeing the first signs of improvement -- though officials say they're far from celebrating.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/enZbbLa5GcU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/enZbbLa5GcU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205214008-02-biden-0205-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/08/politics/biden-coronavirus-pandemic/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/biden-coronavirus-pandemic/index.html",
+      "publishedDateTime": "2021-02-08T03:01:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -107,6 +220,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-biden-laments-lack-of-black-nfl-coaches-during-super-bowl-halftime-interview.md",
+      "title": "Biden laments lack of Black NFL coaches during Super Bowl halftime interview",
+      "excerpt": "President Joe Biden lamented the lack of Black coaches in the NFL during a Super Bowl halftime interview Sunday evening, urging teams to emphasize diversity in their hiring process.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bEWwVeqQzhk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bEWwVeqQzhk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210207183825-04-super-bowl-2021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/07/politics/super-bowl-nfl-biden-covid-19/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/super-bowl-nfl-biden-covid-19/index.html",
+      "publishedDateTime": "2021-02-07T20:16:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -234,7 +403,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -828,6 +997,62 @@
       ]
     },
     {
+      "path": "_news/2021-02-06-official-tasked-with-briefing-biden-reportedly-defended-cias-false-intel-about-torture-effectiveness.md",
+      "title": "Official tasked with briefing Biden reportedly defended CIA’s false intel about torture effectiveness",
+      "excerpt": "The CIA official in charge of overseeing President Biden’s daily intelligence briefing reportedly lead a standoff between the CIA and the Senate Intelligence Committee.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S4gwWVugYEk/official-briefing-biden-cia-false-intel-torture-effectiveness",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c1c9f88-8491-4368-aaae-00f24e45654b/7c18c51d-3b0e-47d0-b6e0-deaee4ae7030/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-briefing-biden-cia-false-intel-torture-effectiveness.amp",
+      "publishedDateTime": "2021-02-06T14:04:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-ivanka-trumps-political-re-emergence-would-likely-center-on-criminal-justice-reform-work-report.md",
       "title": "Ivanka Trump’s political re-emergence would likely center on criminal justice reform work: report",
       "excerpt": "Ivanka Trump helped to secure pardons and commutations for over 140 in her father’s final days in office, and could champion criminal justice reform in a new foray into politics. ",
@@ -1154,223 +1379,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-biden-says-no-need-for-trump-to-receive-intel-briefings-what-impact-does-he-have.md",
-      "title": "Biden says 'no need' for Trump to receive intel briefings: 'What impact does he have?'",
-      "excerpt": "President Biden said he didn’t think his predecessor should receive intelligence briefings, as is standard for former presidents. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZdNwrOOIlY/biden-no-need-trump-intel-briefings",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZdNwrOOIlY/biden-no-need-trump-intel-briefings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden5.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp",
-      "publishedDateTime": "2021-02-05T16:33:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-people-are-hurting-biden-says-as-jobs-report-spurs-stimulus-push.md",
-      "title": "'People are hurting,' Biden says as jobs report spurs stimulus push",
-      "excerpt": "After weak jobs data showed the U.S. labor market recovery is stalling, President Joe Biden and his economic team on Friday hammered home the same message in meetings, interviews and television appearances: It's time to get more money out to the economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUSKBN2A529V",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUSKBN2A529V",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550496943&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141CZ",
-          "width": 849,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A529V",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A529V",
-      "publishedDateTime": "2021-02-05T14:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-hunter-biden-still-working-to-unwind-investment-in-chinese-firm.md",
-      "title": "Hunter Biden still ‘working to unwind’ investment in Chinese firm",
-      "excerpt": "President Joe Biden’s son Hunter maintains a holding in a Chinese investment firm, though the White House says he is \"working to unwind his investments.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToFQpqEwa0c/hunter-biden-still-working-to-unwind-investment-in-chinese-firm",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToFQpqEwa0c/hunter-biden-still-working-to-unwind-investment-in-chinese-firm",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1986078c-522a-4d6a-a58f-7367474d50e4/938bb221-54a9-452a-8293-c156892223fb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-still-working-to-unwind-investment-in-chinese-firm.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-still-working-to-unwind-investment-in-chinese-firm.amp",
-      "publishedDateTime": "2021-02-05T14:43:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-pences-plans-post-trump-administration-take-shape.md",
-      "title": "Pence's plans post-Trump administration take shape",
-      "excerpt": "Former Vice President Mike Pence's post-Trump administration life is now starting to take shape. He's planning to host a new podcast and will be joining two conservative think tanks. Pence will be launching a podcast with Young America's Foundation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
-      "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2410,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/2f065a4b-c323-4b75-a050-9741f82fa8c7/thumbnail/1200x630/9a39ef2588570d3035fb1e97f02eb586/gettyimages-1229222282.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/",
-      "publishedDateTime": "2021-02-05T14:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
       ]
     }
   ],

@@ -2,9 +2,9 @@
 category: news
 title: "Trump impeachment: final day of preparations as Senate trial looms – live updates"
 excerpt: "Polling shows slim majority of Americans want Trump convicted and barred from office"
-publishedDateTime: 2021-02-08T10:47:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-60210f468f0862592e4b4719"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-60210f468f0862592e4b4719"
+publishedDateTime: 2021-02-08T12:08:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-60211ebe8f0898d76fa132bc"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-60211ebe8f0898d76fa132bc"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
 type: article
@@ -168,6 +168,6 @@ related:
         height: 696
         isCached: true
 
-secured: "RqXznHZmY521Iv39M/hLxnZ/ZPct5MNgY73euwtFOn1EP1GaAzI+JA7/uhS+pDoDLGcBxLv0lL8EfWqD3bg1rijvui5EhlM922tItxJkMhGKdb2dcaw4CIAxxpAgRNSzOM/1ga8vze0g1j3s2PqM9N0/V9ewFAGJ9prUpCjT0MsD1sza1zP5uayRjHP6RBXJa1mG+W8e05PgkR8Iuq2OJzF7E98GffIwG4nVylcxCZwdziOP/LaR2xupv3p/T2hBlslzZgNmZy2kpkFafc1ChS+Tn1qHeuc6Rf7Cmm5hhIhrQyR4Da6MxQImr8bQkIXyYrOSKzIbRLaiBgtu/nUNldCfe1C9Qnw9p6n7s1yffxs=;TN9+vUCkjrzGLvSI6hXfFg=="
+secured: "Ay/kYioaQ82x60t/cMhMSavW0eQYMsBtVYXqLveqQNBrTdhxorgcuSYRBSaRSpOXpoKyjeG7E4dqeJBpfVa7dA8QT8ClJQ3wl6iiejyARu/ndckWrVb3Dx/zp3RS+97rrP8/62iU7UmfghLZGqsBR4OVSOO/IzN4XMHLBPmGVuB+KsljXU8SCKh+xizTiXxwtV+1huq/OuSPAJjapRFpKL7+77Ov7qcRFE/++YwUuSjuPyyqJHVNHrqVjKT0Mf1aFOheov3bFaeLuqz0mRwtt1eGawbHJaCcKZpkOFu2sCQcRT64f68Rz8Kt8Fva64Es2QaNFI2+2U6bDRf7AHw2yvN7/DErVJAV9xwa0ej200s=;gAO1bHVgB3SnYPwJuJ0XBA=="
 ---
 

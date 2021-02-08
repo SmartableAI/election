@@ -2,6 +2,170 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-02-new-doj-hire-is-former-colleague-of-hunter-biden-defense-attorney.md",
+      "title": "New DOJ hire is former colleague of Hunter Biden defense attorney",
+      "excerpt": "The newly selected acting head of the Justice Department's criminal division is a former colleague of the attorney now representing Hunter Biden in the face of a DOJ investigation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lqqecc00cx0/doj-official-former-colleague-hunter-biden-defense-attorney",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lqqecc00cx0/doj-official-former-colleague-hunter-biden-defense-attorney",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 455,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Hunter-Biden-Joe-Biden-Inauguration-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp",
+      "publishedDateTime": "2021-02-02T06:44:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-when-will-biden-ask-scotus-to-uphold-obamacare.md",
+      "title": "When will Biden ask SCOTUS to uphold Obamacare? ",
+      "excerpt": "President Joe Biden has been in office for less than two weeks, but a looming question is when, not whether, his Justice Department will change the federal government's position before the Supreme Court on the Affordable Care Act.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Oj6vNBiYUFY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Oj6vNBiYUFY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210118131202-01-biden-healthcare-june-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/02/politics/biden-scotus-obamacare-aca/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/biden-scotus-obamacare-aca/index.html",
+      "publishedDateTime": "2021-02-02T03:09:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-trumps-oval-office-meeting-with-4-election-conspiracists-spiraled-into-a-chaotic-multi-hour-screaming-match.md",
+      "title": "Trump's Oval Office meeting with 4 election conspiracists spiraled into a chaotic multi-hour screaming match",
+      "excerpt": "\"Are you out of your f---ing mind?,\" White House advisor Eric Herschmann told conspiracy-wielding layer Sidney Powell at one point, Axios reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2",
+      "originalUrl": "https://www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff8b9cdd184b30018aadd87?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2?amp",
+      "publishedDateTime": "2021-02-02T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-live-updates-biden-meets-with-republican-senators-on-coronavirus-aid.md",
       "title": "Live Updates: Biden meets with Republican senators on coronavirus aid",
       "excerpt": "President Joe Biden on Monday night said that he's unwilling to settle on an insufficient coronavirus aid package.",
@@ -317,62 +481,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-01-biden-administration-cites-climate-change-as-a-racial-justice-issue.md",
-      "title": "Biden administration cites climate change as a 'racial justice issue'",
-      "excerpt": "Climate Adviser Gina McCarthy explained that challenges are exacerbated in communities that haven't been invested in.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQjA3MJAeuI/biden-admin-calls-climate-change-is-a-racial-justice-issue",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQjA3MJAeuI/biden-admin-calls-climate-change-is-a-racial-justice-issue",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2948c6c3-ebed-4fa1-b506-498478699919/13ae4fb4-3aad-4947-bbe5-bd6a698c6e05/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp",
-      "publishedDateTime": "2021-02-01T13:57:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-01-biden-state-dept-spokeswoman-called-police-largest-threat-to-us-national-security-report.md",
       "title": "Biden State Dept. spokeswoman called police 'largest threat to US national security': Report",
       "excerpt": "Jalina Porter, who has been named deputy spokesperson for the U.S. State Department under President Biden, wrote that U.S. cops posed the largest national security threat because of attacks against Blacks",
@@ -485,62 +593,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-01-trump-residency-at-mar-a-lago-under-palm-beach-legal-review.md",
-      "title": "Trump residency at Mar-a-Lago under Palm Beach legal review",
-      "excerpt": "Palm Beach, Fla., officials are conducting a legal review into former President Donald Trump's residency at Mar-a-Lago, Fox News confirmed Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/avlCXcjVz-I/florida-palm-beach-legal-review-trump-residency-mar-a-lago",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/avlCXcjVz-I/florida-palm-beach-legal-review-trump-residency-mar-a-lago",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp",
-      "publishedDateTime": "2021-02-01T10:54:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-02-joe-biden-threatens-sanctions-following-myanmar-coup-says-us-will-stand-up-for-democracy.md",
       "title": "Joe Biden Threatens Sanctions Following Myanmar Coup, Says U.S. Will 'Stand Up For Democracy'",
       "excerpt": "\"In a democracy, force should never seek to overrule the will of the people or attempt to erase the outcome of a credible election,\" the president said in his first statement on the issue.",
@@ -605,7 +657,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 795,
+      "heat": 755,
       "tags": null,
       "images": [
         {
@@ -661,7 +713,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1150,7 +1202,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1299,49 +1351,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-heres-what-to-exect-from-pences-post-vp-life.md",
-      "title": "Here's what to exect from Pence's post-VP life",
-      "excerpt": "Pence's relationship with former President Donald Trump, which, to put it mildly, faltered after the deadly Jan. 6 Capitol riot, does not appear to have improved over the last few weeks, NBC reports.",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/speedreads/964190/heres-what-exect-from-pences-postvp-life",
-      "originalUrl": "https://theweek.com/speedreads/964190/heres-what-exect-from-pences-postvp-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230702122.jpg?itok=9TsIXNEV&resize=450x300",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theweek.com/speedreads-amp/964190/heres-what-expect-from-pences-postvp-life",
-      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/964190/heres-what-expect-from-pences-postvp-life",
-      "publishedDateTime": "2021-01-31T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

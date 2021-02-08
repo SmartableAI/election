@@ -106,22 +106,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Mark Meadows: Biden administration policies put 'America last'"
-    excerpt: "Today: Spend, tax and cancel, the Biden agenda. The former White House Chief of Staff under President Trump Mark Meadows is here on the new administration's big plans, including that $1.9 trillion spending package,"
-    publishedDateTime: 2021-02-07T19:26:00Z
-    webUrl: "https://www.foxnews.com/transcript/mark-meadows-biden-administration-policies-put-america-last"
-    ampWebUrl: "https://www.foxnews.com/transcript/mark-meadows-biden-administration-policies-put-america-last.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mark-meadows-biden-administration-policies-put-america-last.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9396805-e4a0-4029-be98-c13cf9224823/f14a9894-993a-45e3-a9e1-3fc53af1ebb3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "V6WoOdKc4SOmre8O3gn2j0pQU9/j+C9TOzhdXjLWmgZJCFtIAyha7iJnnUuDEn9ck888IjlVXHbPqb8zAMS2UUye72pTc+hU6zpgbTig3C++ghLnf+pwada9ThSXT1hYtHMdrAI4K/3hqPiYnOW1t6IUqJ5U4K6+IuQ6FWu+AJJDIeZWmo3xVT7hXFNW/r1K5jOSOtISivkiJJc+1TJuDhibxfgJD5yIUrLos2/nqlSsQM5vvR01ZcdfmHgOq7HQyBRDABo6pcPDCbfYr9TLMTwBs+8s/EGwKSx1A9yrnF9cW3IsKbE2KK3dT1RWIE87JcVVL8sIYZXRMJi/0QPPSDtWWWLrrIlm1beobefmKDM=;Uwt3HglHz1zmdzOIfAbnOw=="
 ---
