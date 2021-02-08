@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pences-post-trump-administration-pl
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/"
 type: article
 quality: 150
-heat: 2310
+heat: 2330
 published: true
 
 provider:
@@ -895,6 +895,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "US moves to rejoin UN rights council, reversing Trump anew"
+    excerpt: "The Biden administration is set to announce this week that it will reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago"
+    publishedDateTime: 2021-02-08T01:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-moves-rejoin-rights-council-reversing-trump-anew-75746178"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-moves-rejoin-rights-council-reversing-trump-anew-75746178"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-moves-rejoin-rights-council-reversing-trump-anew-75746178"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_60af5614604142608077ed862f010382_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."

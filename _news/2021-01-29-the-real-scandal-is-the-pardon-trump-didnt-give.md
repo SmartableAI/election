@@ -446,6 +446,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Breaking With G.O.P., Top Conservative Lawyer Says Trump Can Stand Trial"
+    excerpt: "Charles J. Cooper, a stalwart of the conservative legal establishment, said that Republicans were wrong to assert that it is unconstitutional for a former president to be tried for impeachable offenses."
+    publishedDateTime: 2021-02-07T23:13:00Z
+    webUrl: "https://www.nytimes.com/2021/02/07/us/politics/charles-cooper-trump-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/07/us/politics/charles-cooper-trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/07/us/politics/charles-cooper-trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/07/us/politics/07dc-impeach-legal/07dc-impeach-legal-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "As Trump Raked In Cash Denying His Loss, Little Went to Actual Legal Fight"
     excerpt: "The picture that emerged in new campaign finance reports was of Donald J. Trump waging a public relations effort to falsely argue that he had won the election rather than mounting a serious legal push."
     publishedDateTime: 2021-02-01T05:53:00Z

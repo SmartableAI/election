@@ -111,6 +111,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Big challenge: Biden is pressed to end federal death penalty"
+    excerpt: "Joe Biden is the first sitting president to openly oppose the death penalty, and officials say he's discussed the possibility of instructing the Justice Department to stop scheduling new executions"
+    publishedDateTime: 2021-02-08T01:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/big-challenge-biden-pressed-end-federal-death-penalty-75738371"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/big-challenge-biden-pressed-end-federal-death-penalty-75738371"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/big-challenge-biden-pressed-end-federal-death-penalty-75738371"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_228062015921441ea91dc636d8771a6a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Democrats clear path for approval of Biden's $1.9 trillion COVID package"
     excerpt: "President Joe Biden and his Democratic allies in Congress forged ahead with their $1.9 trillion COVID-19 relief package on Friday as lawmakers approved a budget outline that will allow them to muscle Biden's plan through in the coming weeks without Republican support."
     publishedDateTime: 2021-02-06T13:13:00Z
@@ -204,6 +220,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550380543&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH131M5"
         width: 810
         height: 539
+        isCached: true
+  - title: "Herd immunity by summer ‘difficult’: Biden"
+    excerpt: "Biden. Posted . President Joe Biden said that it will be difficult for the United States to reach herd immunity, at least 75% of"
+    publishedDateTime: 2021-02-08T01:24:00Z
+    webUrl: "https://www.reuters.com/video/watch/herd-immunity-by-summer-difficult-biden-id725492839?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210208&i=OVDYNGOV3&r=OVDYNGOV3&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "3TKW38XBwJPQUS+yvmPlphG9szzU8ESePzT61dMaOnvRetUyqOOLSjxWXNkhKSglIiaaRKra6W9F87ousn80pf5z6ZijHbeRVeFB5qR6Du2UsWMu/F7XKv8+5Q3KZUPpWhhk83ro31513c+spHcRc1yPZNL3gvMisStP8OEsDDgxqb5p9d3UdifKalQu1pqwkTxwm65WBNDfG0bZ56TodgZ6vx6CkHJdEAf/oXRAzjbwMhyGOS1DOu76TkAP+zof520yIulnKv2WdsAYBGYr5zKh2onO5hbYOqAqipbOi2738NLEyrYkjPinqAGGPIrpfTS2KjET2acC175xCwLtnhk1wHGCi7TpftVBPKyCgzUtcEabBlmanMF21CHDtpdjJmOBgIzo/qEGtfoi8D0L9ad2tpHLb3MrwZL6GmiSejQTW1hvkr2PqU7ICYS4JKppM6zS1DRj6p4AYV5M3VaFsmMjFuSQ/ysz+NdcVbeQ+K4PmfD+BJxn5v2wWKqYKl3FrOc4Yt/dfWZlTAHRcfvKEw==;HEZOgGnNg+YTn7v9bTDLig=="
