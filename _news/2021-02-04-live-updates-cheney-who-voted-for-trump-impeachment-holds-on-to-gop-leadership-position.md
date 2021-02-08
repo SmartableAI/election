@@ -31,85 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Live Updates: Graham follows McConnell in defending Cheney after her Trump impeachment vote"
-    excerpt: "Sen. Lindsey Graham, R-S.C., defended Wyoming Rep. Liz Cheney on Tuesday following criticism of her decision to vote in favor of former President Donald Trump’s impeachment, saying that her experience and leadership are \"invaluable to the Republican Party.\""
-    publishedDateTime: 2021-02-03T05:04:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eOnQbWJYVaA/live-updates-trump-impeachment-2-3-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-3-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-3-2021.amp"
+  - title: "Judge orders Trump Organization to hand over documents to New York attorney general"
+    excerpt: "A judge in New York has ordered the attorneys for the Trump Organization to give unprivileged documents to the state's attorney general by Feb. 4."
+    publishedDateTime: 2021-01-30T01:06:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0o8i4JRqtuE/new-york-judge-trump-organization-documents"
+    ampWebUrl: "https://www.foxnews.com/politics/new-york-judge-trump-organization-documents.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-judge-trump-organization-documents.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bb0473b9-f294-42b5-836c-7ac6646deaa3/39fe54c6-ac50-4642-a163-477bd4e31815/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Senate Republicans will be 'very united' against convicting Trump after he left office: Graham"
-    excerpt: "Sen. Lindsey Graham, R-S.C., predicted Wednesday that Republicans would be \"very united\" against convicting former President Donald Trump of incitement of insurrection in his second impeachment trial, which begins next week."
-    publishedDateTime: 2021-02-03T21:00:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8kvj_6MUA18/lindsey-graham-republicans-very-united-against-trump-impeachment-conviction"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-republicans-very-united-against-trump-impeachment-conviction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-republicans-very-united-against-trump-impeachment-conviction.amp"
+  - title: "Georgia U.S. Attorney Pushed to Resign by Trump Aides Rejoins Law Firm"
+    excerpt: "The former top federal prosecutor in Atlanta, whom White House officials pushed to resign earlier this month because then-President Donald Trump was upset he wasn’t doing enough to investigate unproven claims of election fraud,"
+    publishedDateTime: 2021-01-22T16:03:00Z
+    webUrl: "https://www.wsj.com/livecoverage/biden-presidential-inauguration-2021/card/7PuV1qsDSei2ZphFlq6v"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce0ff8aa-4ebc-4f0a-b188-e29d6303380f/f2169d82-7384-44cf-93f0-ae8b40aab209/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-288916?size=1.5"
         width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: McConnell defends Cheney, high profile House Republican who voted to impeach Trump"
-    excerpt: "Cheney has faced calls to resign from her post as House GOP conference chair"
-    publishedDateTime: 2021-02-02T07:01:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BimQqQ_mNJQ/live-updates-trump-impeachment-2-2-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-2-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-2-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6619851-ec2b-4176-8b32-855380346bdc/f8e89365-e72e-4ad7-8c49-021e5b23a020/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: White House clarifies intelligence officials will determine Trump's access to briefings"
-    excerpt: "Follow for the latest updates on the White House.  "
-    publishedDateTime: 2021-02-07T07:44:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQfEw5pDUjs/live-updates-white-house-trump-2-7-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-white-house-trump-2-7-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-white-house-trump-2-7-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9afddc93-7228-4852-850b-9711102bbb72/4053956a-dce6-43cc-b729-c596965e4d2f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "McConnell defends GOP Rep. Liz Cheney, who voted to impeach Trump: 'A leader with deep convictions'"
-    excerpt: "Cheney has faced calls to resign from her post as House GOP conference chair since she and nine other Republicans crossed party lines to impeach Trump."
-    publishedDateTime: 2021-02-02T01:43:00Z
-    webUrl: "https://www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-defends-liz-cheney-trump-impeachment-vote-she-is-an-important-leader.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c82de6-c14d-4137-89d3-071d65d22423/e9007209-f228-4dbe-a90e-c50c3ef80488/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+        height: 853
         isCached: true
 
 secured: "bHlUXqWukHYup3bOWiBVWIVxSO2p27Ffo0GZPS9asuzD6+Cr0LnpAyXuUNdCaRkBBk7SRd1vlft624St5rErk6zq1Le3Ta28/IDfIiuxerWSzAIjK4T8v3YNUtJEA8XisDssq5SuP1qGCexwQ00RnPIU+w+Rj+CUZGxDHkBCgZLNxgh1KEahMpuJ2NSPMT/MXOfJd5OX61+yO63QVIv4T/0Z3M7Rgb7hXvbWgdvQoljmK3VffDarvCB5jdrRLkd239LiQeNJLWGdyiM5MFj5WZ0OcpQ25iLUVxFl9TMmffDvYyc/RpQBwp3htSkOALf0LXNHqnY9JKWZrVBbsviGXmRLNl1iuG7mFawolFymlHs=;XvXwDo/8o3zONZDB9OEY4A=="

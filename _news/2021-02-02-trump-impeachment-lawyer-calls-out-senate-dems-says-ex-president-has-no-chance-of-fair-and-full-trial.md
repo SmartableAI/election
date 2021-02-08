@@ -31,6 +31,54 @@ images:
     isCached: true
 
 related:
+  - title: "Biden sidesteps Trump impeachment trial questions: 'Let the Senate work that out’"
+    excerpt: "President Biden sidestepped questions about former President Donald Trump's impeachment trial, which is set to begin Tuesday, saying it is up to the Senate to \"work that out.\""
+    publishedDateTime: 2021-02-08T16:33:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lnJJlr2_LTM/biden-sidesteps-trump-impeachment-trial-questions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden says 'no need' for Trump to receive intel briefings: 'What impact does he have?'"
+    excerpt: "President Biden said he didn’t think his predecessor should receive intelligence briefings, as is standard for former presidents. "
+    publishedDateTime: 2021-02-06T00:33:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZdNwrOOIlY/biden-no-need-trump-intel-briefings"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden5.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Law professor who made Barron Trump joke during Ukraine impeachment hearing gets Biden DOJ gig"
+    excerpt: "A former Stanford law professor who poked fun at Barron Trump's name during a 2019 House impeachment hearing now has a job with President Biden's Department of Justice."
+    publishedDateTime: 2021-02-08T13:33:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7O1vvhWowDU/law-professor-barron-trump-joke-impeachment-hearing-biden-doj"
+    ampWebUrl: "https://www.foxnews.com/politics/law-professor-barron-trump-joke-impeachment-hearing-biden-doj.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/law-professor-barron-trump-joke-impeachment-hearing-biden-doj.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/12/04/694940094001_6113014915001_6113015661001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "David Schoen: What to know about Trump impeachment defense attorney"
     excerpt: "High-profile civil rights attorney David Schoen, who before Jeffrey Epstein's death was in discussions to join his legal team, will be one of the two top members of former President Donald Trump's legal team for his impeachment trial, which is set to start in earnest in the Senate next week."
     publishedDateTime: 2021-02-01T17:49:02Z
@@ -62,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Can the Senate stop Trump running for president again?"
+    excerpt: "Former President Donald Trump's second impeachment trial is set to begin next week as he faces allegations of inciting an insurrection at the Capitol that took place on Jan. 6, the same day Trump spoke at a massive rally and encouraged a protest, claiming there was fraud in the 2020 election."
+    publishedDateTime: 2021-02-04T15:10:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p4nU4Fp26Rg/can-senate-stop-trump-running-for-president-again"
+    ampWebUrl: "https://www.foxnews.com/politics/can-senate-stop-trump-running-for-president-again.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/can-senate-stop-trump-running-for-president-again.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Impeachment trial: How many Senate votes does it take to convict Trump?"
     excerpt: "The Senate impeachment trial will begin on February 9. "
@@ -127,101 +191,53 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Raskin says Trump’s refusal to testify at impeachment supports ‘his guilt’"
-    excerpt: "Rep. Jamie Raskin, D-Md., took former President Trump to task for refusing to testify at his second impeachment trial that many Republicans and Trump’s legal team have called a farce."
-    publishedDateTime: 2021-02-05T09:20:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dVW-EPfeaEc/raskin-says-trumps-refusal-to-testify-at-impeachment-supports-his-guilt"
-    ampWebUrl: "https://www.foxnews.com/politics/raskin-says-trumps-refusal-to-testify-at-impeachment-supports-his-guilt.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/raskin-says-trumps-refusal-to-testify-at-impeachment-supports-his-guilt.amp"
+  - title: "Biden 'will not spend too much time' watching impeachment trial but finds Trump behavior 'erratic,' Psaki says"
+    excerpt: "White House Press Secretary Jen Psaki said Monday that President Biden “will not spend too much time” watching former President Trump’s Senate impeachment trial."
+    publishedDateTime: 2021-02-08T18:31:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FctAUnEoN_c/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Schumer says Dems could censure Trump if impeachment trial ends in acquittal"
-    excerpt: "Few Senate Republicans have indicated a willingness to vote against Trump, making the 67-vote threshold required to convict him a dim proposition for Democratic leaders."
-    publishedDateTime: 2021-02-02T21:30:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPm87tqf_qI/schumer-dems-could-censure-trump-if-impeachment-doesnt-end-in-conviction"
-    ampWebUrl: "https://www.foxnews.com/politics/schumer-dems-could-censure-trump-if-impeachment-doesnt-end-in-conviction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-dems-could-censure-trump-if-impeachment-doesnt-end-in-conviction.amp"
+  - title: "Trump lawyers rail against impeachment trial as ‘political theater’ on eve of proceedings"
+    excerpt: "Lawyers for former President Trump on Monday submitted a brief saying that Democrats' effort to convict the president in an impeachment trial after he's left office is \"political theater,\" and that the trial is outside of the Senate's constitutional authority. "
+    publishedDateTime: 2021-02-08T15:56:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4DfapiQt4LU/trump-lawyers-rail-against-impeachment-trial-political-theater"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-lawyers-rail-against-impeachment-trial-political-theater.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-lawyers-rail-against-impeachment-trial-political-theater.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden State Dept. spokeswoman called police 'largest threat to US national security': Report"
+    excerpt: "Jalina Porter, who has been named deputy spokesperson for the U.S. State Department under President Biden, wrote that U.S. cops posed the largest national security threat because of attacks against Blacks"
+    publishedDateTime: 2021-02-01T21:11:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dssvYEvrBzo/biden-state-dept-spokesperson-police-threat-national-security"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-state-dept-spokesperson-police-threat-national-security.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-state-dept-spokesperson-police-threat-national-security.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ebc5208-5c81-492f-bc4f-96ffff1e916a/e8e1a45c-3221-44da-8aaf-2cc3be4c3bed/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
-    excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."
-    publishedDateTime: 2021-01-27T18:48:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/shynNZ2LIwA/trump-impeachment-lawyer-karl-butch-bowers"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Judge orders Trump Organization to hand over documents to New York attorney general"
-    excerpt: "A judge in New York has ordered the attorneys for the Trump Organization to give unprivileged documents to the state's attorney general by Feb. 4."
-    publishedDateTime: 2021-01-30T01:06:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0o8i4JRqtuE/new-york-judge-trump-organization-documents"
-    ampWebUrl: "https://www.foxnews.com/politics/new-york-judge-trump-organization-documents.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-judge-trump-organization-documents.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Michigan GOP Rep. Meijer tries to defend anti-Trump impeachment vote, angers voters"
-    excerpt: "Michigan Rep. Peter Meijer, one of just 10 Republicans who voted to impeach then-President Donald Trump over the deadly attack on the Capitol, defended his decision while taking pointed criticism from voters Wednesday night."
-    publishedDateTime: 2021-02-07T06:27:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8v64lSdaw/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gop-rep-meijer-tries-to-defend-anti-trump-impeachment-vote-angers-voters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Meijer2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump impeachment is 'partisan farce,' Schumer would deserve to be impeached too: Rand Paul"
-    excerpt: "Sen. Rand Paul, R-Ky., described the looming impeachment trial of former President Donald Trump as a \"partisan farce.\""
-    publishedDateTime: 2021-02-07T15:16:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1CeBnlV5l6I/trump-impeachment-schumer-rand-paul-senate"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-schumer-rand-paul-senate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-schumer-rand-paul-senate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21034621643310.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Who is Senate pro tempore Patrick Leahy and why is he presiding over Trump impeachment trial?"
     excerpt: "Supreme Court Chief Justice John Roberts presided over former President Trump's first impeachment trial a year ago for abuse of power and obstruction of Congress. "
@@ -239,19 +255,35 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Gaetz offers to represent Trump in second impeachment trial, resign House seat 'if the law requires it'"
-    excerpt: "Republican Rep. Matt Gaetz on Wednesday offered to represent former President Trump in his second impeachment trial, telling Fox News he would resign from his seat in the House of Representatives if asked to join the Trump legal team."
-    publishedDateTime: 2021-02-03T18:55:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVYjVR1N858/gaetz-willing-resign-to-defend-trump-impeachment-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/gaetz-willing-resign-to-defend-trump-impeachment-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-willing-resign-to-defend-trump-impeachment-trial.amp"
+  - title: "Law prof claims Trump lawyers 'badly' misrepresented his views when citing impeachment article"
+    excerpt: "A Michigan State University law professor claims that former President Donald Trump’s legal team took him out of context when citing his work in their impeachment trial memorandum."
+    publishedDateTime: 2021-02-08T20:49:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sm-Za6UK6OA/law-professor-trump-lawyers-misrepresented-views-impeachment-article"
+    ampWebUrl: "https://www.foxnews.com/politics/law-professor-trump-lawyers-misrepresented-views-impeachment-article.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/law-professor-trump-lawyers-misrepresented-views-impeachment-article.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffecfe62-2b94-4391-9c16-34247744da35/876a57d7-dca0-4b7a-9980-dbcc5559d035/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Democrats will realize Trump impeachment is a political 'loser' and will end trial quickly: Whitaker"
+    excerpt: "Former Acting Attorney General Matthew Whitaker argued on Monday that former President Trump's impeachment is “cheapening” the impeachment standard."
+    publishedDateTime: 2021-02-08T19:34:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0cygbwbiRlU/trump-impeachment-dems-political-loser-cheapening-standard-whitaker"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-dems-political-loser-cheapening-standard-whitaker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-dems-political-loser-cheapening-standard-whitaker.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -271,6 +303,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Dem senator Chris Murphy on Trump impeachment trial: Not 'ridiculous’ for GOP to argue it’s unconstitutional"
+    excerpt: "Sen. Chris Murphy on Sunday said that he believes the Senate has a responsibility to hold an impeachment trial of former President Donald Trump, adding that it is an open question whether or not such a trial is constitutional."
+    publishedDateTime: 2021-02-08T16:21:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fCLBIxb8XLQ/dem-senator-chris-murphy-says-argument-that-impeachment-trial-is-unconstitutional-is-not-ridiculous"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-senator-chris-murphy-says-argument-that-impeachment-trial-is-unconstitutional-is-not-ridiculous.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-senator-chris-murphy-says-argument-that-impeachment-trial-is-unconstitutional-is-not-ridiculous.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump impeachment trial sees wide partisan divide: polls"
     excerpt: "By a slight majority, Americans want the Senate to convict former President Trump in his upcoming impeachment trial, according to two new national polls. But both surveys show an extremely wide partisan divide over whether Trump should be convicted."
     publishedDateTime: 2021-02-04T19:40:45Z
@@ -284,6 +332,36 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/a84aa83d-TrumpfriBT.jpg"
         width: 1280
         height: 533
+        isCached: true
+  - title: "Biden administration plans to reengage with UN rights council, reversing Trump"
+    excerpt: "The Biden administration is set to announce this week that it will reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago, U."
+    publishedDateTime: 2021-02-08T12:35:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06033aca-08b3-48f8-b198-95163a765304/d8e75191-a19d-41d7-b41c-27e56d336a1b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump impeachment managers file pre-trial brief against former president: 'Evidence is overwhelming'"
+    excerpt: "The House impeachment managers on Tuesday morning filed their pre-trial brief in their case against former President Donald Trump, previewing the argument they will make against him in the Senate trial set to start in one week."
+    publishedDateTime: 2021-02-02T15:25:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RSIq7IdJzwI/impeachment-managers-file-pre-trial-brief-against-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21012753304432.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Bruce Castor: What to know about Trump impeachment defense attorney"
     excerpt: "Former President Donald Trump on Sunday announced his new legal team for his upcoming Senate impeachment trial, featuring attorney Bruce Castor."
@@ -381,21 +459,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Who are the Democratic Trump impeachment managers?"
-    excerpt: "The House Democratic impeachment managers include Jamie Raskin, Diana DeGette, David Cicilline, Joaquin Castro, Eric Swalwell, Ted Lieu, Stacey Plaskett, Madeleine Dean and Joe Neguse."
-    publishedDateTime: 2021-02-05T12:51:00Z
-    webUrl: "https://www.foxnews.com/politics/who-are-the-democratic-trump-impeachment-managers"
-    ampWebUrl: "https://www.foxnews.com/politics/who-are-the-democratic-trump-impeachment-managers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-are-the-democratic-trump-impeachment-managers.amp"
+  - title: "LIVE UPDATES: Who is defending Trump during the impeachment trial?"
+    excerpt: "Former President Donald Trump is preparing for his second Senate impeachment trial, where his team will defend him against the charge that he incited an insurrection at the Capitol on Jan. 6. But Trump is not expected to appear himself,"
+    publishedDateTime: 2021-02-06T21:07:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-trial-2-6-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-impeachment-trial-2-6-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-impeachment-trial-2-6-21.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/trump-raskin.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5f90c8b-48e3-4814-a3b9-4148b1943c47/588e19ba-362f-4a1b-87cd-fdc31c2182b8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "These attorneys are defending Trump in the impeachment trial"
     excerpt: "Former President Donald Trump is preparing for his second Senate impeachment trial, where his team will defend him against the charge that he incited an insurrection at the Capitol on Jan. 6."
@@ -477,22 +555,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Matt Gaetz says he’d resign House seat to defend Trump at impeachment trial"
-    excerpt: "Matt Gaetz said he would resign if called on by former President Donald Trump to defend him in his upcoming impeachment trial, saying it’d be the “top priority in my life.” The Florida congressman made the comment in an interview with the Steve Bannon-hosted podcast “War Room Pandemic."
-    publishedDateTime: 2021-02-04T15:31:00Z
-    webUrl: "https://nypost.com/2021/02/04/matt-gaetz-says-hed-resign-to-defend-trump-at-impeachment-trial/"
-    ampWebUrl: "https://nypost.com/2021/02/04/matt-gaetz-says-hed-resign-to-defend-trump-at-impeachment-trial/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/04/matt-gaetz-says-hed-resign-to-defend-trump-at-impeachment-trial/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/matt-gaetz-trump-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump denies inciting Capitol riot, says Senate can’t hold impeachment trial"
     excerpt: "Former President Donald Trump denied Tuesday that he encouraged his supporters to storm the US Capitol last month — and argued that the Senate doesn’t have the authority to hold a"
     publishedDateTime: 2021-02-02T20:07:00Z
@@ -509,19 +571,51 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump impeachment lawyer speaks out: 'I'm not worried what other people think'"
-    excerpt: "The Senate impeachment trial of former President Donald Trump is set to take place in February, and his defense will not be handled by a major law firm or oft-cited professor, but by a South Carolina solo practitioner."
-    publishedDateTime: 2021-01-27T18:51:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-lawyer-karl-butch-bowers.amp"
+  - title: "LIVE UPDATES: Trump just announced his new impeachment trial legal defense team"
+    excerpt: "Former President Donald Trump on Sunday announced a new legal defense team after he parted ways with five of his impeachment lawyers just over a week before his Senate trial is set to begin, Fox News has confirmed."
+    publishedDateTime: 2021-02-01T22:37:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-31-21.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 131
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/014cb16e-10ee-418f-8311-4a5decc760d5/9eca4331-2af2-4826-bc27-a9ad075dec4b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1280db39-0cc4-4fce-8c70-ebbdd510a556/5b88d5ef-ffb2-4dd2-a4ca-441f12e0a412/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Senate Democrats See Short Trump Trial as They Juggle Covid-19 Stimulus Package"
+    excerpt: "Key details of former President Donald Trump’s impeachment trial and the Biden administration’s $1.9-trillion relief bill are still being finalized."
+    publishedDateTime: 2021-02-07T18:57:00Z
+    webUrl: "https://www.wsj.com/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    ampWebUrl: "https://www.wsj.com/amp/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-democrats-see-short-trump-trial-as-they-juggle-covid-19-stimulus-package-11612724062"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-296098/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden 'will not spend too much time' watching impeachment trial but finds Trump behavior 'erratic,' Psaki says"
+    excerpt: "White House Press Secretary Jen Psaki said Monday that President Biden “will not spend too much time” watching former President Trump’s Senate impeachment trial."
+    publishedDateTime: 2021-02-08T18:35:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-not-spend-too-much-time-watching-impeachment-trial-calls-trump-behavior-erratic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1a6865a-e2f6-4ee3-ad0f-046010aee80f/22d16aec-18fa-4a50-85a1-0db6d773b073/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -538,22 +632,6 @@ related:
     quality: 124
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/leahy.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "National Geographic documentary on new Air Force One takes a look at design Trump helped shape"
-    excerpt: "Former President Donald Trump pushed to update and change the planes to make them more modern, both in design and capabilities."
-    publishedDateTime: 2021-02-06T17:50:00Z
-    webUrl: "https://www.foxnews.com/us/national-geographic-documentary-air-force-one-trump"
-    ampWebUrl: "https://www.foxnews.com/us/national-geographic-documentary-air-force-one-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/national-geographic-documentary-air-force-one-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Air-Force-One-5.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -600,20 +678,6 @@ related:
       - url: "https://images.wsj.net/im-296233/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "House Democratic Impeachment Managers Want Donald Trump To Testify Under Oath At Impeachment Trial Monday"
-    excerpt: "CNN congressional correspondent Manu Raju reports that House Democrats want former President Trump to testify in person, under oath, at his second impeachment trial as early as Monday."
-    publishedDateTime: 2021-02-04T18:57:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/02/04/house_democratic_impeachment_managers_want_donald_trump_to_testify_under_oath_at_impeachment_trial_monday.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 48
-    images:
-      - url: "https://assets.realclear.com/images/53/534301.jpg"
-        width: 5648
-        height: 3765
         isCached: true
 
 secured: "DKRwcTaclZUYha0evMK2BATRvR2+OSA9PnLUjP/JZBbXACLBleYLXTFOQTloXLqIIIAo3nsC0TSzHhKBcYqyTsvxK98wE7CV7Oass83nRrLToG4VRCBfl6Rd4fG4uvkpaVFAhHnVb0OyUptxdkyLoCb7GGJUOuzDyqioEtzbIEs+2olKr2tPyPwTAMm0y/d43kBN6tp7+d5pcgsMvQRLIbjKRDR+48OzC5EtnYHK/4/Y7/WjI+eSsvxUJSNxti9juWYukv/vYH9xPLwacIuFfp3hF5eG8HvueY0P1iDE4anvZfnjCMNV6fMp3bSUpFKAeB48BmbI2XhplVhytt7Nyv31lo76wM5dPKQzwS/5NsQ=;TI6NTFmtBWQCeGnXHgQwNA=="

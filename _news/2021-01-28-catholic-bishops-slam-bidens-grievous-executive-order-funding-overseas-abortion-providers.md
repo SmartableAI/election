@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Psaki says Biden wants schools open, but won't commit to standing up to union obstruction"
+    excerpt: "White House press secretary Jen Psaki on Thursday reiterated that President Biden wants to see children back in classrooms, but would not commit to standing up to unions if forced to choose between the prolific Democratic donors and reopening schools."
+    publishedDateTime: 2021-02-04T19:37:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aVFwdnt7zYU/psaki-says-biden-wants-schools-open-but-wont-commit-to-standing-up-to-union-obstruction"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-says-biden-wants-schools-open-but-wont-commit-to-standing-up-to-union-obstruction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-says-biden-wants-schools-open-but-wont-commit-to-standing-up-to-union-obstruction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Likely Biden deputy labor secretary pick could face Senate scrutiny over California unemployment fraud"
     excerpt: "California Labor Secretary Julie Su, President Biden’s reported pick to serve as deputy secretary in the US Department of Labor, could face tough scrutiny in the Senate."
     publishedDateTime: 2021-01-27T02:58:47Z

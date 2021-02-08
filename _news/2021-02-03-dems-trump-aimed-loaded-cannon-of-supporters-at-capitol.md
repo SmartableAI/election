@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-su
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2?amp"
 type: article
 quality: 105
-heat: 125
+heat: 105
 published: true
 
 provider:
@@ -23,22 +23,6 @@ provider:
 topics:
   - Election
   - Donald Trump
-
-related:
-  - title: "House Impeachment Managers: Trump Whipped Mob Into 'Frenzy,' Aimed It At Capitol"
-    excerpt: "Ahead of next week's trial, a brief argues the Jan. 6 riot would not have happened without Trump \"creating a powder keg, striking a match, and then seeking personal advantage from the ensuing havoc.\""
-    publishedDateTime: 2021-02-02T16:32:00Z
-    webUrl: "https://www.npr.org/2021/02/02/963214171/house-impeachment-managers-trump-whipped-mob-into-frenzy-aimed-it-at-capitol"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 100
-    images:
-      - url: "https://media.npr.org/assets/img/2021/02/02/gettyimages-1294908917_wide-bea1d1b4e5cafd824125f698183816eba3e599a3.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
 
 secured: "5teXFB3p7WxjOqMcJnIRfpsMXoJuld0wdB+AzvgSd/P2OlInKo+ap3JY6x5UqLnHqys7g3f1v9V1ZBZ0+pnups0L/mAs62U9tQJhna3QzbB5Jn+IK5WsKee7ZZLQJAcA5BIz/sm8wr/umXZViLDEtAa267N2J5yrwroksOLqSmMWW0RXdfS8dN8ijj/WzeqGXJmpSGS/O4pzPIS3GQpb3a3Jbx+cO9J/ED522bobPARqOwlrjU68gXOnwwpOmBAb7jFuEsV+5zieeVAtkoOvBwUgKkMGtOixIYa4M2RKr+4vo9myoiqqzp8ymEui0V/Ay91gqtWDjZVPTDQGnkTwZ9dw2/mF+LorLRiUUUcbMms=;6q+UyzS8lPoBU8eU+39z/Q=="
 ---

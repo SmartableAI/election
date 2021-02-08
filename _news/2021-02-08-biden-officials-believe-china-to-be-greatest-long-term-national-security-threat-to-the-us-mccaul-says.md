@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-officials-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-officials-believe-china-greatest-long-term-threat-mccaul.amp"
 type: article
 quality: 158
-heat: -1
-published: false
+heat: 178
+published: true
 
 provider:
   name: Fox News
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden State Dept. spokeswoman called police 'largest threat to US national security': Report"
-    excerpt: "Jalina Porter, who has been named deputy spokesperson for the U.S. State Department under President Biden, wrote that U.S. cops posed the largest national security threat because of attacks against Blacks"
-    publishedDateTime: 2021-02-01T21:11:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dssvYEvrBzo/biden-state-dept-spokesperson-police-threat-national-security"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-state-dept-spokesperson-police-threat-national-security.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-state-dept-spokesperson-police-threat-national-security.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ebc5208-5c81-492f-bc4f-96ffff1e916a/e8e1a45c-3221-44da-8aaf-2cc3be4c3bed/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden State Dept. spokesperson Jalina Porter who said police are 'largest' national security threat responds"
     excerpt: "Jalina Porter, deputy spokesperson for the U.S. State Department under President Biden, said she should have \"chosen words that were less passionate and spur-of-the moment\" after her 2016 Facebook post claiming the \"largest threat to U.S. national security are U.S. cops\" came to light."
     publishedDateTime: 2021-02-02T18:04:23Z

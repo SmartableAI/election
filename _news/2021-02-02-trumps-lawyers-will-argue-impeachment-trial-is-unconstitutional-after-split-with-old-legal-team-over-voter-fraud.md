@@ -852,6 +852,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "These 12 Republican litigators are promising to doom Biden's agenda"
+    excerpt: "Republican attorneys general are lining up to fight the Biden administration in court. Expect to hear their names a lot over the next four years."
+    publishedDateTime: 2021-02-08T20:19:00Z
+    webUrl: "https://www.businessinsider.com/republican-attorneys-general-suing-joe-biden-paxton-morrisey-lawsuits-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/601db53a90dd450018a7b36f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden expected to name veteran diplomat as special envoy for Yemen - source"
     excerpt: "U.S. President Joe Biden was expected to announce on Thursday the appointment of a veteran U.S. diplomat as his special envoy for Yemen, a person familiar with the issue said."
     publishedDateTime: 2021-02-04T16:12:00Z

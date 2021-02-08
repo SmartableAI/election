@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3670
+heat: 3690
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111224-09-immigration-file-honduran-migrants-guatemala-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden hopes Trump's impeachment won't derail agenda"
+    excerpt: "As his predecessor is tried in the US Capitol this week for inciting a deadly riot, President Joe Biden will work to keep his first-100-days agenda on track from the other end of Pennsylvania Avenue.\n    \n"
+    publishedDateTime: 2021-02-08T19:37:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L-10ZnNuMOw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/joe-biden-impeachment-agenda/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/joe-biden-impeachment-agenda/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205193502-trump-biden-split-0205-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

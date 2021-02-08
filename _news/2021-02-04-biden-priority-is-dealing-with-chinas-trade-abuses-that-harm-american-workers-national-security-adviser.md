@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Mark Meadows: Biden administration policies put 'America last'"
+    excerpt: "Today: Spend, tax and cancel, the Biden agenda. The former White House Chief of Staff under President Trump Mark Meadows is here on the new administration's big plans, including that $1.9 trillion spending package,"
+    publishedDateTime: 2021-02-07T19:26:00Z
+    webUrl: "https://www.foxnews.com/transcript/mark-meadows-biden-administration-policies-put-america-last"
+    ampWebUrl: "https://www.foxnews.com/transcript/mark-meadows-biden-administration-policies-put-america-last.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mark-meadows-biden-administration-policies-put-america-last.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9396805-e4a0-4029-be98-c13cf9224823/f14a9894-993a-45e3-a9e1-3fc53af1ebb3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Biden Outlines Foreign Policy Of \"Restoring America's Place In The World,\" Promises \"America Is Back\""
     excerpt: "President Joe Biden plans to deliver his first speech outlining his foreign policy goals as president during a visit to the State Department on Thursday afternoon at 2:45 p.m. He is expected to speak on the theme of \"restoring America's place in the world\" and outline how he plans to reverse isolationist Trump policies by rejoining the Paris climate agreement and renewing the New START nuclear treaty with Russia."
     publishedDateTime: 2021-02-05T01:37:00Z

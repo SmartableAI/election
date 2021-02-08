@@ -47,21 +47,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Dem progressives renew anti-ICE push, despite Biden immigration order"
-    excerpt: "Progressive Democrats are renewing their calls to abolish Immigration and Customs Enforcement (ICE) after an illegal immigrant was deported this week -- days after the Biden administration moved to place a moratorium on deportations."
-    publishedDateTime: 2021-02-03T22:41:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Xzf8ktZhtg/dem-progressives-renew-anti-ice-push-despite-biden-immigration-order"
-    ampWebUrl: "https://www.foxnews.com/politics/dem-progressives-renew-anti-ice-push-despite-biden-immigration-order.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-progressives-renew-anti-ice-push-despite-biden-immigration-order.amp"
+  - title: "Biden immigration orders raise COVID-19 concerns at the border"
+    excerpt: "With President Biden relaxing Tuesday some immigration policies bolstered under the Trump administration, U.S. health and immigration officials have been vague about coronavirus testing for people caught crossing the southern border illegally."
+    publishedDateTime: 2021-02-03T01:41:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SxIp7NENuI/biden-immigration-covid-19-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-covid-19-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-covid-19-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e8d82c2-273b-4c5c-a9ad-ccd91dbd9bae/62e14652-1b7c-40c3-b0ea-aac58cd458bd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/biden-mayorkas.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Hiding Hunter Biden laying low in LA, starting art career with shady dealer"
     excerpt: "As federal prosecutors continue their criminal probes into Hunter Biden’s taxes and international business dealings, the President’s son — shuttling between Washington DC and a sprawling Hollywood Hills home — is lying low, consulting with lawyers and focusing on his new career in art."
@@ -76,6 +76,22 @@ related:
     quality: 173
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23f4d2ba-b1e3-4f9c-bc4e-3b3d3f3de519/2b711708-9a6f-4b8b-949a-d7a0eb709359/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Senate committee advances Biden UN pick despite controversy over China speech"
+    excerpt: "The Senate Foreign Relations Committee on Thursday approved President Biden’s U.N. ambassador nominee, Linda Thomas-Greenfield, but only after objections and a delay in the vote due to concerns raised by Republicans about a pro-China speech she once gave in 2019."
+    publishedDateTime: 2021-02-04T17:52:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sEIGE6t0k3g/senate-biden-un-pick-china-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-biden-un-pick-china-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-biden-un-pick-china-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b072103f-ac02-41ea-b778-f4d9e143bb32/842a50a2-60e7-49f6-ae5b-5bd52e8fe220/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -223,22 +239,24 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Biden Must Fire Psaki"
-    excerpt: "Progressives demand that conservatives practice tolerance -- at all times -- and if they dare to say or post anything on social media that strays"
-    publishedDateTime: 2021-02-05T12:15:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/02/05/biden_must_fire_psaki_145190.amp.html"
+  - title: "Why It Matters That Biden Restored Regular Press Briefings"
+    excerpt: "Joe Lockharts that the return of press briefings under the new Biden administration is a welcome change. Press briefings are far more than symbolic -- they're an avenue to keep the government quick and accountable."
+    publishedDateTime: 2021-02-04T12:42:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/04/why_it_matters_that_biden_restored_regular_press_briefings_535116.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/534354_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
+    quality: 45
+  - title: "Biden's Drive to War in the Middle East"
+    excerpt: "President Joe Biden's Iran policy was conceived and is being implemented by the same people who negotiated the JCPOA under Obama, who argued in favor of empowering Iran. Read Full"
+    publishedDateTime: 2021-02-07T12:57:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/07/bidens_drive_to_war_in_the_middle_east_535381.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
   - title: "Netanyahu Still Waiting for Biden's Phone Call"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-02-07T12:56:00Z

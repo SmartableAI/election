@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump impeachment conviction? 'Zero chance,' Republicans say, as Dems move forward with case"
+    excerpt: "The hearings for the second impeachment trial of former President Trump start on Tuesday and Republicans are making it clear, even before they're gaveled in, that they believe the result is predetermined. "
+    publishedDateTime: 2021-02-08T12:58:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vycRd5zogXY/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "P8jfm6cNIbwkvFPof1U7IAC9djoPIK0BEotEqSvBAmrjo0UdFxqA+w4uFGjlI2v6H1sH2bflUosQYwv5UYU+UXHM/ffcavhl4LYxmv5ARn0Ogy6QOlrTmwS4ATMSahbaoTEFLRhAEm8ojoINgMyGCze0AEdiAtliGcFV0FZOZfBpk0ykIIIjigIWY8j+NbMaVXd1TP636dIAbLzsmcOpRJGcvbYXvfE9pc2lFT40CXH+J2hre4EdWLpX4ekGcjXOM3br2py9QOPwV9X82Gr8xX11/jmrmuebpj/KBpMTU7KwMdH5JJ2WATqXuSrUx7wWmiEoarBiQzWJ61Zp0eGiytm18oWBPB7DDSCsegWeZNQ=;fAxyX2iacgTOJ0BHqG9FLg=="
 ---

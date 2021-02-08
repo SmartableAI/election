@@ -927,6 +927,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Democrats to open Trump impeachment trial by recounting Capitol attack"
+    excerpt: "Impeachment managers will present scene in harrowing detail using video and audio recordings"
+    publishedDateTime: 2021-02-08T20:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/08/trump-impeachment-trial-capitol-attack-house-democrats"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/08/trump-impeachment-trial-capitol-attack-house-democrats"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/08/trump-impeachment-trial-capitol-attack-house-democrats"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/9c66a10d53d76580804f8a19304406cddd5f9106/0_134_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0ca28fe02243b49c565a760e0d3f7ff"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Scarred by riot, U.S. Capitol a fortress for Trump impeachment trial"
+    excerpt: "Less than five weeks after the deadly assault on the U.S. Capitol that sparked former President Donald Trump's second impeachment trial, the complex is a fortress."
+    publishedDateTime: 2021-02-08T20:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-security-idUSKBN2A81RC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A81RC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A81RC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550757040&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1716L"
+        width: 811
+        height: 545
+        isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
     publishedDateTime: 2021-01-30T06:21:00Z
@@ -1196,6 +1228,22 @@ related:
     quality: 116
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YFJWMYDFSAI6XDDESWKYRDFKCU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "House panel renews probe into Trump administration’s interference with covid-19 response"
+    excerpt: "The head of a House oversight panel on Monday renewed its investigation into political interference in the nation’s coronavirus response, releasing new allegations of meddling in scientists’ work. Rep."
+    publishedDateTime: 2021-02-08T19:50:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/02/08/covid-trump-interference-congress/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/02/08/covid-trump-interference-congress/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/02/08/covid-trump-interference-congress/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XERCRJDH4QI6XOVYOB7YO2OXQU.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -1476,6 +1524,34 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210207&t=2&i=1550646449&r=LYNXMPEH160H7&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Legal expert on Trump's First Amendment defense in impeachment trial"
+    excerpt: "Lawyers for former President Donald Trump will argue that his rhetoric leading up to the assault on the Capitol on January 6 is protected by the First Amendment. Ilya Shapiro, director of the Robert A."
+    publishedDateTime: 2021-02-08T20:15:00Z
+    webUrl: "https://www.cbsnews.com/video/ilya-shapiro-legal-expert-analysis-trump-impeachment-first-amendment/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/08/d64fb547-a50b-4527-bc1f-572b18dcb332/thumbnail/1200x630/39e666b461870801e33463046916c245/cbsn-fusion-legal-expert-pres-trumps-speech-is-protected-under-the-first-amendment-thumbnail-641788-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "WH not aware of Trump request for intelligence briefing"
+    excerpt: "Top News WH not aware of Trump request for intelligence briefing. Posted . White House press secretary Jen Psaki said on Monday she was not aware of any request from Donald Trump"
+    publishedDateTime: 2021-02-08T20:43:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDYSGZQ7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210208&i=OVDYSGZQ7&r=OVDYSGZQ7&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Stimulus package and Trump impeachment divide lawmakers ahead of Senate trial"
     excerpt: "On Feb. 7, lawmakers and members of President Biden's Cabinet prepared for a week packed with the start of a second impeachment trial for former president Donald Trump and negotiations over coronavirus relief funds."

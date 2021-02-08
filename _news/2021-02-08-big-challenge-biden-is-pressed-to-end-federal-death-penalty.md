@@ -235,6 +235,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Psaki: Biden won't watch much of impeachment trial"
+    excerpt: "White House press secretary Jen Psaki says President Joe Biden won't \"spend too much time watching\" Donald Trump's Senate impeachment trial this week. Psaki told reporters Monday Biden will leave the pace,"
+    publishedDateTime: 2021-02-08T18:50:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/08/psaki-biden-wont-watch-much-impeachment-trial/4438382001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/28fbc8c6-cb04-46f4-a66c-ee07a5ba23e2_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "ytY7Uy61sdQRHY+SeWftheR7cS+8bK64uArEGRIBbWw0YnOUQbgPgswQtjI/9iPwcpCUNwf0jxmzJ8+5k3+TU/zowl3k+bzw7lp31WYukr9CN6OjFIjm9ADXWTINQEIhoCch1XmCa3AX6XQy5U/PTlIFVZjwWIA47rCDkoYDb8sZ+uygZ7TEkAdKX8QdszyVPM+Uj+LrW61LLcad94mjWx2bN6/DuEZXlsoNiTK1pbD434OsLJM34G5K83fSwrd6puqUn82ygXtbuZJ5qFulIyeucc0ajwp6cPxllIqHlpB1ub7FXkEktwQcCZlUG3YAFWZthIgfjDVdjLrTfCIdENEiDgX3SqFh0vcGtnhmTW0vCb+MszEl1D5rMj5ZFmc6Bp9XOKZX5NjKVbYIYBXVOTaYegxBrmbgWtFp/YHKhC3dInNY3Npg7LMabbv1IE6tRP9OHjI2Bs+nj7St3aG1av9GVG5uVA4KB978MePFY7f/sxZtu/gH08DkRuklVxkJpMA64XmUi0IzZe/YqkE2Yw==;6y57qKscN5PwJ2t+HCbJ1g=="
 ---

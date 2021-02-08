@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-a
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -234,6 +234,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210208&i=OVDYNGOV3&r=OVDYNGOV3&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Psaki: Biden won't watch much of impeachment trial"
+    excerpt: "White House press secretary Jen Psaki says President Joe Biden won't \"spend too much time watching\" Donald Trump's Senate impeachment trial this week. Psaki told reporters Monday Biden will leave the pace,"
+    publishedDateTime: 2021-02-08T18:50:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/08/psaki-biden-wont-watch-much-impeachment-trial/4438382001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/28fbc8c6-cb04-46f4-a66c-ee07a5ba23e2_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "KZr0dizAZi9M/cYpLtTndmoVmDjSB/Ioxv8UtLRwTwrJGihNDEtWSORvLPPNs0EsGWa8y+r4r2fbW6DUAn6S61Zozj8Creg87EXU0XRLMzu510TXyrOX8eBk8trNJck0WroD/zx/LhPX9QewFux7yiGLQooMeUNMYeMRkOZc/aIZL97OlonIpt2ZRyAbhA1NFJQRowYJjcVzHLf7qOG/5XCLSgo3+QEC5hUu+aZPzkS5AyhASBppQS58W2THj9o8WHicmqqL3b9O7HFrlwd9yc0+Vjz2ghUUr/b7Iz4C2Pz4DCEqQpaszMgTnO6xvrhuWbYg55CIOXMwiyNQhPcnUrknMUOMC/C/EztIYag1bHQ=;aVCPpsasC+YPGcQt3Ywh9g=="

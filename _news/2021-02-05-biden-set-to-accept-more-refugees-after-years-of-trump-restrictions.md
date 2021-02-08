@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 1320
+heat: 1340
 published: true
 
 provider:
@@ -835,6 +835,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-oval-ap-rc-210205_1612545355387_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "These 12 Republican litigators are promising to doom Biden's agenda"
+    excerpt: "Republican attorneys general are lining up to fight the Biden administration in court. Expect to hear their names a lot over the next four years."
+    publishedDateTime: 2021-02-08T20:19:00Z
+    webUrl: "https://www.businessinsider.com/republican-attorneys-general-suing-joe-biden-paxton-morrisey-lawsuits-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/601db53a90dd450018a7b36f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump's lawyers will argue impeachment trial is unconstitutional after split with old legal team over voter fraud"
     excerpt: "Donald Trump's attorneys are expected to center his impeachment defense on the Constitution and arguments he didn't incite the Capitol riot."
