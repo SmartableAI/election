@@ -82,7 +82,7 @@ related:
   - title: "How Donald Trump's hand-holding led to panicky call home by Theresa May"
     excerpt: "A remarkable BBC documentary reveals the startling reality of meeting the president"
     publishedDateTime: 2021-02-07T11:48:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may?ICID=ref_fark"
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may"
     type: article

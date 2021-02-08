@@ -416,9 +416,9 @@ related:
   - title: "U.S. will not lift sanctions to get Iran to negotiating table - Biden"
     excerpt: "U.S. President Joe Biden said the United States will not lift its economic sanctions on Iran in order to get Tehran back to the negotiating table to discuss how to revive the Iran nuclear deal, according to a video released by CBS News on Sunday."
     publishedDateTime: 2021-02-07T23:30:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-iran-biden-idAFKBN2A70OL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2A70OL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2A70OL"
+    webUrl: "https://www.reuters.com/article/us-usa-iran-biden-idUSKBN2A70OL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A70OL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A70OL"
     type: article
     provider:
       name: Reuters

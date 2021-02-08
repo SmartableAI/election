@@ -1374,6 +1374,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "U.S. Senate to pause Trump impeachment trial at end of week for Sabbath"
+    excerpt: "The U.S. Senate will pause former President Donald Trump's impeachment trial from Friday evening to Saturday evening this week to honor a request by a Trump attorney who observes the Jewish Sabbath, a spokesman for Senate Democratic leader Chuck Schumer said on Sunday."
+    publishedDateTime: 2021-02-08T04:38:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idAFKBN2A70NX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210207&t=2&i=1550646449&r=LYNXMPEH160H7&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Trump White House donated 8,700 ventilators to other nations. Officials now don’t know where many of them are, watchdog finds."
     excerpt: "The GAO was unable to identify how the Trump White House made its decisions on ventilator allocations. Sri Lanka had just three new coronavirus cases per day when it received 200 ventilators. Bangladesh,"
     publishedDateTime: 2021-01-29T22:07:00Z

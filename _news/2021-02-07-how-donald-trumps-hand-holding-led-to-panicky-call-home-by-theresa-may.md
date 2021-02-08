@@ -3,8 +3,8 @@ category: news
 title: "How Donald Trump's hand-holding led to panicky call home by Theresa May"
 excerpt: "A remarkable BBC documentary reveals the startling reality of meeting the president"
 publishedDateTime: 2021-02-07T11:48:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may?ICID=ref_fark"
-webUrl: "https://www.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may?ICID=ref_fark"
+originalUrl: "https://www.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may"
+webUrl: "https://www.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may"
 type: article
@@ -96,6 +96,6 @@ related:
         height: 960
         isCached: true
 
-secured: "HANB0cn9Nd8e8nm9FzoA+B6wO3sdSRjDcAOdAIY+djSWh2F3RraXEOPkCFGFNZODmoHC2JjEbgEyDa8w7NNcAFV7LYNyjyFEfUbCWrSObFCw2kywWr8e36RWywnKJzINCOXxsJqJFVD8arUmkUJbCnJvy8MkKwZcQGs4xXOol5iloRYrWU2T2V+WbF0e30rsHuKlfdUMooViR7q/EpVyU1Ky1SzPIX1q3vSmSNQUeOvtS88VpoEROTi33ut0Fxh98b/mrV0nZxjf9AE6iyApGVYDj2PKZZyL2PXQ6JOlyMCFaN/WlrZSYst7ZhJSJwJshweMC/qJasEQCNHWZih31jLybCXBu5DQyQld3amWVgI=;IU2kPbjxdOqjonM3A8NdaQ=="
+secured: "izXhJEjwFTKVMBoLBkcHHyv7beUvv4JUr0b24EZ7tUHjO+p8iOxyEhNYAdO6O46vTlj0TNdVgMyavqhlb7e7uFUb8d1MoMEjCtLgzFUet8rAwx4RUhYz9VbSv+8+wJgRbAJgHJEdhmgDbPUFlE7EBXv6FIxL2vp1lIrgeFTeCIQj6TgpXjwSmZNKR7ObSzddeqbiEclg1XjxoJjI8dZf35VY91QyOq3MVKDCA5HlC8kMfWPJ8/VG8dbQuoK87cvfmZ/sBibvmhSlGmvnoD+bUqWhFkwoYg+XRAiXVj70iCUD1AtzWPlAXgjjQP9bH8DVhLsmhSWiBkcAOWVZ1UD5nAT9HFTx51cSHIiGRtdAasM=;+kqZ9dvpUpKCwhpXn10rNA=="
 ---
 

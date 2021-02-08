@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Donald Trump parts with lawyers before impeachment trial"
-excerpt: "Former US President Donald Trump has parted ways with lawyers representing him in his impeachment trial in the Senate, US media report. The departure of Butch Bowers and Deborah Barberi was reportedly a mutual decision."
-publishedDateTime: 2021-01-31T06:01:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-55876035"
-webUrl: "https://www.bbc.com/news/world-us-canada-55876035"
-ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55876035"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55876035"
+title: "U.S. Senate to pause Trump impeachment trial at end of week for Sabbath"
+excerpt: "The U.S. Senate will pause former President Donald Trump's impeachment trial from Friday evening to Saturday evening this week to honor a request by a Trump attorney who observes the Jewish Sabbath, a spokesman for Senate Democratic leader Chuck Schumer said on Sunday."
+publishedDateTime: 2021-02-08T04:38:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idAFKBN2A70NX"
+webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idAFKBN2A70NX"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/16642/production/_116741719_29b1dce7-7a82-46fc-85c8-1bfb55980fa9.jpg"
-    width: 1024
-    height: 576
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210207&t=2&i=1550646449&r=LYNXMPEH160H7&w=800"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -334,6 +332,22 @@ related:
       - url: "https://thehill.com/sites/default/files/schumercharles_012121gn7_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Donald Trump parts with lawyers before impeachment trial"
+    excerpt: "Former US President Donald Trump has parted ways with lawyers representing him in his impeachment trial in the Senate, US media report. The departure of Butch Bowers and Deborah Barberi was reportedly a mutual decision."
+    publishedDateTime: 2021-01-31T06:01:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55876035"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55876035"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55876035"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/16642/production/_116741719_29b1dce7-7a82-46fc-85c8-1bfb55980fa9.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Top Trump donor funded rally that preceded U.S. Capitol riot - WSJ"
     excerpt: "An heiress to the Publix Super Markets chain donated about $300,000 to fund a rally that preceded the deadly storming of the U.S. Capitol this month by supporters of former President Donald Trump, the Wall Street Journal reported on Saturday."
@@ -1360,20 +1374,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "U.S. Senate to pause Trump impeachment trial at end of week for Sabbath"
-    excerpt: "The U.S. Senate will pause former President Donald Trump's impeachment trial from Friday evening to Saturday evening this week to honor a request by a Trump attorney who observes the Jewish Sabbath, a spokesman for Senate Democratic leader Chuck Schumer said on Sunday."
-    publishedDateTime: 2021-02-08T04:38:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idAFKBN2A70NX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210207&t=2&i=1550646449&r=LYNXMPEH160H7&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Stimulus package and Trump impeachment divide lawmakers ahead of Senate trial"
     excerpt: "On Feb. 7, lawmakers and members of President Biden's Cabinet prepared for a week packed with the start of a second impeachment trial for former president Donald Trump and negotiations over coronavirus relief funds."
     publishedDateTime: 2021-02-07T23:36:00Z
@@ -1714,6 +1714,6 @@ related:
         height: 696
         isCached: true
 
-secured: "KYagDMmUQhKDtfLcWzZILVEaS9QrPG8M3ybhE2YYkTNfKlG1NmhOHwgComKph2czCtetxSEt0WPQN5/rD24grNiEY7hIcTplSVvvOFx3/X5M71JbSrwwNfl0GJCnbSfp4wODVXUIv/yuPdxts+N6PyCsgozunnxXwyBTUwsNHMTa3zleAlhauH4PSG6Xa4IuLxNoCDroM+c/Sld7V+jGXBnc4Vo53ifAEHJZhGo9KND48kDb1hM8QIavOwUySDLgH9eIcP1t5YZncwh1oVoVq7DlK3lPxeIqac2syHrbDVjd06vfr26Dga+XW3yoFEW9u251UemmYMTygAIByRM6nHJg2wRCb4GOjXK/m8PbYa9k1pU4iq2O/dg9+YNia73APoB3AtZ18m8m0pE/R/BoJrnY56pikYwYFpsfjanBvsBqT2UUCpPpVhcGP+pSDwqGlc31aOM0LAqwO1ZwU7/Yqzm5jJqZOTqnnpbgJw4clW6qkjAER/3ixJPdK5gpfWdgLLSE5eDnnyeUwxM7dtruUA==;K0z9R8E1ijh2QXoffvIivg=="
+secured: "6fMF8otzjn9RxJZ+s/6G3v083T820G2y+OyszkwluIHl/W0wMtrBdU/xoVWhH/CwQMEqbv91RrPa0WwrMZaKxuMe+GKoWzazGzgLzs09Cn0zIWWJMCXZEJO1qYDKrXH+E4QGr9ZQdsK8mfOFADXG0bshWRSq4eBAtVDj4NtckEl5yqN68eFgvPGMftCSPYMz7ADdlHrAFUqS80Dw/w1rWdthgddFO0OdpAL6BKPnHtOjeBuqH4HjfhSIeg5bWGKtsS8ZEMFnDErQilmhuEu0FXxfzpFT6PWA1AbzvdNfC6MjVkDhtEqO+TmDbdBPY/J/iWVc3DfutgPKx+LoAoJZXrDKDjcj7y+cn/yBZm0gjZM=;F5ZBX1cRrGj5WWQRg2MxPw=="
 ---
 

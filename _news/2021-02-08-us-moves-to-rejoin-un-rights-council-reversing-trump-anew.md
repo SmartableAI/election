@@ -1360,6 +1360,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "U.S. Senate to pause Trump impeachment trial at end of week for Sabbath"
+    excerpt: "The U.S. Senate will pause former President Donald Trump's impeachment trial from Friday evening to Saturday evening this week to honor a request by a Trump attorney who observes the Jewish Sabbath, a spokesman for Senate Democratic leader Chuck Schumer said on Sunday."
+    publishedDateTime: 2021-02-08T04:38:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idAFKBN2A70NX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210207&t=2&i=1550646449&r=LYNXMPEH160H7&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Stimulus package and Trump impeachment divide lawmakers ahead of Senate trial"
     excerpt: "On Feb. 7, lawmakers and members of President Biden's Cabinet prepared for a week packed with the start of a second impeachment trial for former president Donald Trump and negotiations over coronavirus relief funds."
     publishedDateTime: 2021-02-07T23:36:00Z
@@ -1700,6 +1714,6 @@ related:
         height: 696
         isCached: true
 
-secured: "W8Nu9CgXvMERoml7y74UQKPt3aTFLGrqCNpuxXxyH0CLcZoC1JQ4DTJGui/KZ6tNFNoB4UG3YE+zOBUBmhryr2H7rO1d9fB4HpWY77NUh/kh7vElEHE5MXbwHA/b5vWpgEE9bsAu+KrJdFC37ci5Plpwht3Gt+inhcU0NNm400tm6pXJFD5Wx+/NxDqsKtgu9Nnkw+Kx0zd5CQu28ODqMbP49i1wxMajgLsf1rmIGhgNTxB5F4+2AfsgI4CFRLmqERt0zqkbiCltcEZeGMRE61gT17xhOKUBPaLAIjgzvUlBUERyy84CeV/4UqtyMejBBjynIzMM3FN7uKhhHIst29Yv9k0coRImKQgQLpcUokw=;N9od4x/tjuc3H4cXh5/OdQ=="
+secured: "sRDa89xE6Vyh2F43Xl/JnHebYTNpIG34zQFcxA8XAZyxfsQzQ34c8LS/PHvj8SEDAFz3ySlpKVlYqP415Ri2MUSX+mN6KN7ER4DE6NI5fu+PY7fYIJT+B3k2RJ7ddunND//nO50/5mB+TF6ap20f97D7FkoXp5D/ySmKUuXKS8OY7AgV3Vxqto/cv68qXyDyZv9aUqtGg4y+g3TH6rFelm4YGAl1n5hxO5EU626NkT1I4LjlDIUGSumS7ssljT8DwH0KA72EuJ3pRMS7Z8nkF4UyVhaXIMQtSQi0HkpJIbOhTy2aRN/1b/J634lKT930zUiTHSe7otY9L+D1sm3jhule9od/dFPo42cLud0mxzbq2NbFWwKp/Fy2ui5VYV62ySNvy7JPrii8GUFBzkG2m8yCyoHwOn1oavl0zptjd05O20sXv5NOUNyv7y5VwQitlqAVmNA01BqMYfULUvxAhXQ9+YFbBFrzhjs9b7+BM5EFOmqsBLoZsZzccQLdsgxFB7QHIahRdDuCtLAeCPQTSw==;bTm+rCEKJyoKRgaUmzSOhw=="
 ---
 
