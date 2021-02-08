@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-25-sarah-sanders-former-trump-press-secretary-running-for-arkansas-governor.md",
+      "title": "Sarah Sanders, former Trump press secretary, running for Arkansas governor",
+      "excerpt": "Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, is running for Arkansas governor, a senior campaign official told The Associated Press.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/0JsbnzrsD48NyOvJ__X1lH1FNKQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q75DM32LIRBHLLUCEEZ6NJKLGI.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-25T03:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-abcs-matthew-dowd-compares-trump-gop-with-hitler-tojo-kkk-apartheid.md",
       "title": "ABC's Matthew Dowd Compares Trump, GOP With Hitler, Tojo, KKK, Apartheid",
       "excerpt": "ABC News contributor Matthew Dowd commented Sunday on ABC's \"This Week\" roundtable: MATTHEW DOWD: Well, to me, the impeachment -- we have to separate the parts of the impeachment vote. I mean, other countries have gone through this before,",
@@ -1550,58 +1602,6 @@
         "name": "Detroit Free Press",
         "domain": "freep.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-annika-sorenstam-defends-accepting-award-from-donald-trump.md",
-      "title": "Annika Sörenstam defends accepting award from Donald Trump",
-      "excerpt": "Annika Sörenstam, who received the presidential medal of freedom from Donald Trump the day after US Capitol riot, has defended her decision",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "originalUrl": "https://www.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4870f7e1cabf35505f3d66840e415c25b5c2c460/0_24_5058_3036/master/5058.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=725a944cd02a16e9137eca91996a64c6",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
-      "publishedDateTime": "2021-01-19T13:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

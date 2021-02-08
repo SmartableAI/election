@@ -272,6 +272,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "VP Kamala Harris makes herself belly laugh while swearing-in Senate replacement"
+    excerpt: "WATCH: 'That was very weird' – Swearing in three new Democratic senators, Vice President Kamala Harris laughs after referring to herself in the third person as the resigned senator from ..."
+    publishedDateTime: 2021-01-24T06:41:00Z
+    webUrl: "https://nypost.com/2021/01/23/vp-kamala-harris-laughs-while-swearing-in-senate-replacement/"
+    ampWebUrl: "https://nypost.com/2021/01/23/vp-kamala-harris-laughs-while-swearing-in-senate-replacement/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/23/vp-kamala-harris-laughs-while-swearing-in-senate-replacement/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/05C8DB77-F525-40AD-AE32-F63931C9F094.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris takes historic oath, becomes nation's first female, Black vice president"
     excerpt: "Kamala Harris cemented her place in history on Wednesday, becoming the first woman, and the first woman of color, to be sworn in as the vice president of the United States."
     publishedDateTime: 2021-01-20T16:58:00Z

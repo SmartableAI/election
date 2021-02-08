@@ -394,6 +394,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Impeachment Trial Puts Trump Back on Center Stage for GOP"
+    excerpt: "Senate Republicans face another public test of loyalty to the former president, with their base voters watching closely."
+    publishedDateTime: 2021-02-08T14:18:00Z
+    webUrl: "https://www.wsj.com/articles/impeachment-trial-puts-trump-back-on-center-stage-for-gop-11612793155"
+    ampWebUrl: "https://www.wsj.com/amp/articles/impeachment-trial-puts-trump-back-on-center-stage-for-gop-11612793155"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/impeachment-trial-puts-trump-back-on-center-stage-for-gop-11612793155"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-296036/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump denies inciting Capitol riot, says Senate can’t hold impeachment trial"
     excerpt: "Former President Donald Trump denied Tuesday that he encouraged his supporters to storm the US Capitol last month — and argued that the Senate doesn’t have the authority to hold a"
     publishedDateTime: 2021-02-02T20:07:00Z

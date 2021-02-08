@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-05-voting-company-sues-fox-and-trump-lawyers-for-27bn-over-false-claims-of-election-fraud.md",
+      "title": "Voting company sues Fox and Trump lawyers for $2.7bn over false claims of election fraud",
+      "excerpt": "Smartmatic lawsuit charges that the defendants conspired to spread false claims that the company helped ‘steal’ the US election",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e2fc6385843fd40dcbfd069855a5575972c1af6a/0_190_5694_3416/master/5694.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ea2e2a58f97d190fdaa497cc2a39031",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election",
+      "publishedDateTime": "2021-02-04T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage.md",
       "title": "Pelosi rejects Trump impeachment acquittal, says Senate will reveal 'cowards or courage'",
       "excerpt": "House Speaker Nancy Pelosi, D-Calif., rejected any notion that former President Trump is headed for a second acquittal in the Senate during his impeachment trial. ",
@@ -1285,62 +1337,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-biden-says-no-one-in-our-family-will-be-involved-in-government-decisions.md",
-      "title": "Biden says ‘no one in our family’ will be involved in government decisions",
-      "excerpt": "President Biden said he intends to keep his family and his administration separate as reports surrounding the business dealings of his son and brother raised questions of potential impropriety.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fo13sqIj8mU/biden-says-no-one-in-our-family-involved-government-decisions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fo13sqIj8mU/biden-says-no-one-in-our-family-involved-government-decisions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/314f29b6-b9c9-4c05-b3d2-ae7a2ac645a0/68c889cf-b668-4b8c-a9f0-a272442f7d6f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-no-one-in-our-family-involved-government-decisions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-no-one-in-our-family-involved-government-decisions.amp",
-      "publishedDateTime": "2021-02-03T06:07:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

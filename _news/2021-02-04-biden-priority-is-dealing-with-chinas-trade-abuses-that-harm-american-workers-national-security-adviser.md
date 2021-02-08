@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Americans should be 'outraged' over Biden's immigration actions, 'dismantling' ICE: Maryland sheriff"
+    excerpt: "A Maryland sheriff warned of President Biden’s immigration actions on Monday, arguing that “Americans will not be safe” and “immigrant communities will not be safe.”"
+    publishedDateTime: 2021-02-08T13:51:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dyvUacjy5So/biden-immigration-dismantling-ice-sheriff-americans-outraged"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-dismantling-ice-sheriff-americans-outraged.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-dismantling-ice-sheriff-americans-outraged.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden admin says vaccinating everyone in America is ‘one of the greatest operational challenges’ ever faced"
     excerpt: "The White House Coronavirus Task Force said the federal government is working to establish coronavirus community vaccination sites across the country with the help of the Department of Defense and the Federal Emergency Management Agency while maintaining that vaccinating all Americans against COVID-19"
     publishedDateTime: 2021-02-03T17:27:43Z

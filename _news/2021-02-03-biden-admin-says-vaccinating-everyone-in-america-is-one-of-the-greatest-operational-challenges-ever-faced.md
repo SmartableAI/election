@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Americans should be 'outraged' over Biden's immigration actions, 'dismantling' ICE: Maryland sheriff"
+    excerpt: "A Maryland sheriff warned of President Biden’s immigration actions on Monday, arguing that “Americans will not be safe” and “immigrant communities will not be safe.”"
+    publishedDateTime: 2021-02-08T13:51:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dyvUacjy5So/biden-immigration-dismantling-ice-sheriff-americans-outraged"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-dismantling-ice-sheriff-americans-outraged.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-dismantling-ice-sheriff-americans-outraged.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden priority is 'dealing with China's trade abuses' that harm American workers: National security adviser"
     excerpt: "White House National Security Adviser Jake Sullivan said a \"priority\" of the Biden administration is \"dealing with China’s trade abuses\" that harm American workers, adding that President Biden’s national security strategy will lead with \"diplomacy.\""
     publishedDateTime: 2021-02-04T18:19:14Z

@@ -160,6 +160,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump's second impeachment trial starts tomorrow"
+    excerpt: "The second impeachment trial of former President Trump kicks off tomorrow. Follow here for the latest updates from Congress."
+    publishedDateTime: 2021-02-08T13:17:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_600/b1bbdc12-087c-4830-837e-44e28c9cdc7f.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Read former President Trump's response to the article of impeachment against him"
     excerpt: "Lawyers for former President Donald Trump filed a 14-page response to the House's impeachment manager's case on Tuesday, in its first filing ahead of next week's Senate impeachment trial."
     publishedDateTime: 2021-02-02T17:42:00Z

@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-08-politics-live-updates-a-quick-trial-vs-witnesses-senate-weighs-strategy-on-trump-impeachment-proceedings.md",
+      "title": "Politics live updates - A quick trial vs. witnesses: Senate weighs strategy on Trump impeachment proceedings",
+      "excerpt": "Senators face key decisions on the contours of Trump's second impeachment trial, including the crucial question of whether to call witnesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/08/politics-live-updates-senate-weighs-strategy-trump-impeachment-trial/4433392001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/08/politics-live-updates-senate-weighs-strategy-trump-impeachment-trial/4433392001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/09/USAT/6aa6963b-4d2b-4679-b15a-6477fc618042-AP21006679639042.jpg?auto=webp&crop=4305,2421,x722,y1081&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4433392001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4433392001",
+      "publishedDateTime": "2021-02-08T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-donald-trump-banned-from-rejoining-sag-aftra-after-resigning-amid-disciplinary-action-vote.md",
+      "title": "Donald Trump banned from rejoining SAG-AFTRA after resigning amid disciplinary action vote",
+      "excerpt": "Following his resignation from The Screen Actors Guild - American Federation of Television and Radio Artists, the union pushed a resolution banning Donald Trump from ever applying for readmission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/donald-trump-banned-sag-aftra-resigning-disciplinary-vote",
+      "originalUrl": "https://www.foxnews.com/entertainment/donald-trump-banned-sag-aftra-resigning-disciplinary-vote",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020542275454.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/donald-trump-banned-sag-aftra-resigning-disciplinary-vote.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-banned-sag-aftra-resigning-disciplinary-vote.amp",
+      "publishedDateTime": "2021-02-08T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr.md",
       "title": "Tampa Bay Bucs are Super Bowl champs — Major turnover for DeSantis administration — Parscale urges Trump to run again as 'martyr'",
       "excerpt": "The Tampa Bay Buccaneers won their second Super Bowl in franchise history, following a dominating performance on both sides of the ball. In the quarterback battle of the aging yet savvy veteran vs. the rising superstar,",
@@ -225,58 +334,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-07-majority-of-americans-say-trump-should-be-convicted-barred-from-holding-federal-office-in-impeachment-trial-poll.md",
-      "title": "Majority of Americans say Trump should be convicted, barred from holding federal office in impeachment trial: POLL",
-      "excerpt": "In a new ABC News/Ipsos poll, a majority of Americans support the Senate convicting former President Trump in his second impeachment trial, but the partisan gap persists.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878",
-      "originalUrl": "https://abcnews.go.com/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/donald-trump-marjorie-taylor-greene-extremism-02-gty-llr-210206_1612646373841_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878",
-      "publishedDateTime": "2021-02-07T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-07-liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump.md",
       "title": "Liz Cheney censured by Wyoming Republican party for voting to impeach Trump",
       "excerpt": "Cheney, the third ranking member of the House Republican leadership, was censured in a vote Saturday by her state’s Republican party",
@@ -389,7 +446,7 @@
       "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2430,
+      "heat": 2470,
       "tags": null,
       "images": [
         {
@@ -1323,7 +1380,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1494,58 +1551,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-mypillow-twitter-account-permanently-suspended-following-trump-ally-ceo-mike-lindells-ban-from-platform.md",
-      "title": "MyPillow Twitter account permanently suspended following Trump ally, CEO Mike Lindell's ban from platform",
-      "excerpt": "Twitter has suspended the MyPillow account after banning CEO Mike Lindell's account for perpetuating claims that Trump won the presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2021/02/01/mypillow-twitter-account-suspended-ban-evasion-mike-lindell-trump/4348778001/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2021/02/01/mypillow-twitter-account-suspended-ban-evasion-mike-lindell-trump/4348778001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/01/USAT/9489a161-ccda-4a4e-baba-f3b727211612-mypillow.jpg?auto=webp&crop=4031,2267,x1,y587&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4348778001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4348778001",
-      "publishedDateTime": "2021-02-01T16:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump's second impeachment trial threatens to overshadow Covid relief talks"
+    excerpt: "The second Senate impeachment trial of former President Donald Trump is set to begin tomorrow on Capitol Hill. This comes as President Joe Biden urges Congress to pass his $1.9 trillion COVID-19 relief package."
+    publishedDateTime: 2021-02-08T14:54:00Z
+    webUrl: "https://www.cbsnews.com/video/trumps-second-impeachment-trial-threatens-to-overshadow-covid-relief-talks/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/08/1df754b1-9620-46a6-97c0-7e48ad8bc392/thumbnail/1200x630/dcedadf7fc51c623e5d2e6b361f8e8a2/cbsn-fusion-trumps-second-impeachment-trial-threatens-to-overshadow-covid-relief-talks-thumbnail-641861-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Liz Cheney Voted to Impeach Trump. Now She's Under Pressure from Her Own Party"
     excerpt: "The fight for the future of the Republican party is here, and an early proxy battle is playing out in the House of Representatives."
     publishedDateTime: 2021-01-29T04:47:00Z
@@ -137,6 +151,6 @@ related:
       domain: time.com
     quality: 81
 
-secured: "NoB2BNdqarRA+zRPJijJy14rPbAeWP6SkL2of82XLb/tfq3IdzaJ9TQo7DXXqdUKZKynNXDLemVcx+tEtfCrYbQ9KcH+MP7IcUVjGxy3WL0F/jQn9KYg3zCTwpDU2FhGL0qWRRnpa+I8BQXuZEt+o3wDRhczCIycVI0NRzPjplh7U9KcHAEMVMh9aVFKliUooVA79ShKu0jjL3atUl81EGyuy/4nRSMIAukMpxplajAe1RvrSQFgDaqtDRdm0sIKsZWhGqyY25XO1HGAS51pwldjXOSxUFdfAahRfPFw8d/rv6roiEGEmi1TY92tWSP7/vFOh2ho25Bbjfivy7lB3yKtgrRtPAlRGu6nSXX5HY8=;AZ6oppm1X8Us0DjLL0alYA=="
+secured: "xOmWIGLMXv7/yaCTrJi4j5KM0Snyfse9Z3qz1+j3kpIlqY9kKwf39KRNpQzndlqgGm1myYcSUncOmkwsQnSEjIMUlea0/nnV1EpOD2wvN4RzAbqegF9Qdz5cSbho3wwLLKTPeqqryez4oH6yZZvacLvHd1uktdoRIXNYZ3pN+S8Zk5aGC+bqdoXf8CCCugVZsxOFmVFY8tzSPWBJok9QhJZvkL3U9c1MKSspgfFz+jF3QBedtc5MYiESx1R6Sw0tmapPKVycSZOGgymoZRQh+o5x9VXTZ5COgmoBfgRi77wV4rJ72f7XPpi0P+pY+LCgGakxQQS5rhWEzv/iSdL2gXyOCl5iaEV38h7yV7awIOt4udRdFNkSg3SsfuctMwOJxezZzh3zEmF/FEoGTiW6XhGZwwmGm0gwTCWUz1iRFEZqThpHe3P79xouBw48d6sAWnzvS7TlLegbNb4MRMtSGZipmJPvfUiiR7zR8Z+8yHZEQ7ucFfQOpW2LRffWuo6mx+E5kr1T+Mb2fmwIw829wQ==;FcnK+qxc59UFFqIOwcxTFg=="
 ---
 

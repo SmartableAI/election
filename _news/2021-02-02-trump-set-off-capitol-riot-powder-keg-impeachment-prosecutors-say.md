@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-p
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
     quality: 112
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/07/c20a610b-0e6c-44c2-95a9-f24b8b331ee7/thumbnail/1200x630/f9f69d871719367d2bd5de2e48e67ab9/gettyimages-1294935359.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump's second impeachment trial threatens to overshadow Covid relief talks"
+    excerpt: "The second Senate impeachment trial of former President Donald Trump is set to begin tomorrow on Capitol Hill. This comes as President Joe Biden urges Congress to pass his $1.9 trillion COVID-19 relief package."
+    publishedDateTime: 2021-02-08T14:54:00Z
+    webUrl: "https://www.cbsnews.com/video/trumps-second-impeachment-trial-threatens-to-overshadow-covid-relief-talks/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/08/1df754b1-9620-46a6-97c0-7e48ad8bc392/thumbnail/1200x630/dcedadf7fc51c623e5d2e6b361f8e8a2/cbsn-fusion-trumps-second-impeachment-trial-threatens-to-overshadow-covid-relief-talks-thumbnail-641861-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

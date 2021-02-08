@@ -288,6 +288,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden's authority is on the line already in first full week of presidency"
+    excerpt: "(CNN)As his first full week in the White House begins, Joe Biden already faces critical early tests of a presidency premised on political compromise and uniting Washington to fight the pandemic."
+    publishedDateTime: 2021-01-25T12:30:00Z
+    webUrl: "https://www.cnn.com/2021/01/25/politics/joe-biden-coronavirus-congress-trump-impeachment/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-coronavirus-congress-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-coronavirus-congress-trump-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 134
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210124130226-05-joe-biden-0121-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden increases vaccine distribution to states as demand across U.S. grows"
     excerpt: "President Joe Biden announced that he will be increasing the overall weekly vaccine distribution in states from 8.6 million doses to 10 million. NBC News’ Mike Memoli explains why this change is so significant."
     publishedDateTime: 2021-01-26T22:35:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/david-schoen-what-to-know-about-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp"
 type: article
 quality: 175
-heat: 755
+heat: 775
 published: true
 
 provider:
@@ -380,6 +380,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f71c7c8-f784-4aea-987b-334be762ef53/21c2e19d-6341-4cee-b5b0-80d37e765bf1/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Impeachment Trial Puts Trump Back on Center Stage for GOP"
+    excerpt: "Senate Republicans face another public test of loyalty to the former president, with their base voters watching closely."
+    publishedDateTime: 2021-02-08T14:18:00Z
+    webUrl: "https://www.wsj.com/articles/impeachment-trial-puts-trump-back-on-center-stage-for-gop-11612793155"
+    ampWebUrl: "https://www.wsj.com/amp/articles/impeachment-trial-puts-trump-back-on-center-stage-for-gop-11612793155"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/impeachment-trial-puts-trump-back-on-center-stage-for-gop-11612793155"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-296036/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Matt Gaetz says he’d resign House seat to defend Trump at impeachment trial"
     excerpt: "Matt Gaetz said he would resign if called on by former President Donald Trump to defend him in his upcoming impeachment trial, saying it’d be the “top priority in my life.” The Florida congressman made the comment in an interview with the Steve Bannon-hosted podcast “War Room Pandemic."

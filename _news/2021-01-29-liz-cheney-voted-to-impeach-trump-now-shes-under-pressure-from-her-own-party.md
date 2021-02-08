@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump's second impeachment trial threatens to overshadow Covid relief talks"
+    excerpt: "The second Senate impeachment trial of former President Donald Trump is set to begin tomorrow on Capitol Hill. This comes as President Joe Biden urges Congress to pass his $1.9 trillion COVID-19 relief package."
+    publishedDateTime: 2021-02-08T14:54:00Z
+    webUrl: "https://www.cbsnews.com/video/trumps-second-impeachment-trial-threatens-to-overshadow-covid-relief-talks/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/08/1df754b1-9620-46a6-97c0-7e48ad8bc392/thumbnail/1200x630/dcedadf7fc51c623e5d2e6b361f8e8a2/cbsn-fusion-trumps-second-impeachment-trial-threatens-to-overshadow-covid-relief-talks-thumbnail-641861-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sUtegarnIR46QHR19Q5qQR5beLnNiMQTC4IJe5Jo3BlqttNvr7zhWYNtnKCOycknRac12ID40PHtRq3nkK9TlAiucYBap/RV83Y3Brz16CfkzeEW5fzUTtkFs9fJQR2rvaqSvxWWkU5PaQu75IW3ou0zVYSoVO2b2tgdwstZAMHeEk7Sf8kcrvE+r1UK5xlERKk2yVpCQTPON9FFhRVj9NtDWZqA2JpsXyn1TJK04oQkmlA1MFxssoqd5CFLdqBrpeDKa7WFpug6ZnTsDMqDUbzhgjz9U2RoJHwWOq52dM91GwbCbLcC1GXWp2YDeFmupe+3p568ltRf8dJgS8C57YbrCj6jZkilegJDz3Q/TDQIm3NXpDLNSqDD1BIOey8BIJUQ8KKMaBL6H5xlgpjoAqWBGgtLXXs42FtcLIeRl0ikXmPzr69cyE21ijcSH2lql0Jd0Qcpx370fESZEdmqNwQ6aCDS6UXFH26Hl9BjjcredapeBflUjSsC6MNO+MtaWnRed0O2g7v9kC2YFXq0XQ==;fkzqPQUrmf08M79MkvtamQ=="
 ---

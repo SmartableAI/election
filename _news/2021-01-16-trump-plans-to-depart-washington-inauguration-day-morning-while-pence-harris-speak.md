@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-in
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
 type: article
 quality: 158
-heat: 4258
+heat: 4278
 published: true
 
 provider:
@@ -2199,6 +2199,22 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B780%2C359%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fkamala-36-2000.jpg"
         width: 2000
         height: 1000
+        isCached: true
+  - title: "Kamala Harris becomes the new power centre in Washington"
+    excerpt: "Harris' power was also on full display in the US Senate, where she was welcomed with applause by her former colleagues as she walked in to chair a session in her capacity as the constitutionally ..."
+    publishedDateTime: 2021-01-21T23:13:00Z
+    webUrl: "https://timesofindia.indiatimes.com/world/us/kamala-harris-becomes-the-new-power-center-in-washington/articleshow/80392048.cms"
+    ampWebUrl: "https://m.timesofindia.com/world/us/kamala-harris-becomes-the-new-power-center-in-washington/amp_articleshow/80392048.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/world/us/kamala-harris-becomes-the-new-power-center-in-washington/amp_articleshow/80392048.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 75
+    images:
+      - url: "https://static.toiimg.com/photo/msid-80392072/80392072.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Watch Kamala Harris Make Her First Speech as Vice President"
     excerpt: "Hours after being sworn in as the country's first female, Black, and South Asian-American vice president, Kamala Harris made an appearance during the evening's Celebrating America television special."

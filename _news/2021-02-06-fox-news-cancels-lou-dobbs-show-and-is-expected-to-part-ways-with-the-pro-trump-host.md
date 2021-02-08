@@ -1071,6 +1071,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "False claims hang over a Trump-loving county’s plans to buy Dominion voting machines"
+    excerpt: "The situation in Stark County is a testament to how viral claims repeatedly debunked by courts and authorities have persisted, hanging over local decision-making and saddling officials with the daunting task of somehow rebuilding public trust."
+    publishedDateTime: 2021-02-08T14:45:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/08/stark-county-dominion-voting/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/08/stark-county-dominion-voting/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/08/stark-county-dominion-voting/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TAP2WTUSBBD3XA4FP7FHC34MSI.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
   - title: "Why QAnon Followers Think Donald Trump Will Be Sworn Back In as President on March 4"
     excerpt: "Conspiracy theorists have moved the goalposts yet again, using archaic reasoning with links to sovereign citizen movement."
     publishedDateTime: 2021-02-08T11:40:00Z
@@ -1392,6 +1408,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Donald Trump's impeachment trial explained"
+    excerpt: "Donald Trump’s second impeachment trial opens on Tuesday, almost a year after his first. He’s accused of inciting the Jan 6th attack on the Capitol by a crowd of his supporters. But members of his Republican party are mostly standing by him."
+    publishedDateTime: 2021-02-08T13:46:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55956647"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p01tlf61.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Senate Republicans back Trump on eve of impeachment trial"
     excerpt: "Donald Trump’s defenders in the Senate on Sunday rallied around the former president before his , dismissing it as a waste of time and arguing that the former president’s fiery speech before the U.S."
     publishedDateTime: 2021-02-08T07:46:00Z

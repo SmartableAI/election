@@ -382,6 +382,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Impeachment Trial Puts Trump Back on Center Stage for GOP"
+    excerpt: "Senate Republicans face another public test of loyalty to the former president, with their base voters watching closely."
+    publishedDateTime: 2021-02-08T14:18:00Z
+    webUrl: "https://www.wsj.com/articles/impeachment-trial-puts-trump-back-on-center-stage-for-gop-11612793155"
+    ampWebUrl: "https://www.wsj.com/amp/articles/impeachment-trial-puts-trump-back-on-center-stage-for-gop-11612793155"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/impeachment-trial-puts-trump-back-on-center-stage-for-gop-11612793155"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-296036/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Matt Gaetz says he’d resign House seat to defend Trump at impeachment trial"
     excerpt: "Matt Gaetz said he would resign if called on by former President Donald Trump to defend him in his upcoming impeachment trial, saying it’d be the “top priority in my life.” The Florida congressman made the comment in an interview with the Steve Bannon-hosted podcast “War Room Pandemic."
     publishedDateTime: 2021-02-04T15:31:00Z

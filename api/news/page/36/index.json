@@ -2,6 +2,62 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-12-16-biden-pushes-back-against-critics-touts-cabinet-of-firsts.md",
+      "title": "Biden pushes back against critics, touts 'Cabinet of firsts'",
+      "excerpt": "After weeks of pressure from all sides of the Democratic Party’s vast coalition over the makeup of his incoming administration, President-elect Joe Biden on Wednesday pushed back against his critics as he made another history-making Cabinet nomination.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TNq58tgjw5U/biden-responds-critics-cabinet-picks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TNq58tgjw5U/biden-responds-critics-cabinet-picks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp",
+      "publishedDateTime": "2020-12-16T10:38:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-hunter-biden-in-2017-sent-best-wishes-from-entire-biden-family-to-china-firm-chairman-requested-10m-wire.md",
       "title": "Hunter Biden in 2017 sent 'best wishes' from 'entire Biden family' to China firm chairman, requested $10M wire",
       "excerpt": "Correspondence between Hunter Biden and CEFC Chairman Ye Jianming from 2017 shows President-elect Joe Biden's son extending \"best wishes from the entire Biden family,\" and urging the chairman to \"quickly\" send a $10 million wire to \"properly fund and operate\" the Biden joint venture with the now-bankrupt",
@@ -1275,62 +1331,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-internet-fact-checker-at-firm-that-works-with-facebook-reveals-distrust-of-trump-wh.md",
-      "title": "Internet fact-checker at firm that works with Facebook reveals distrust of Trump WH",
-      "excerpt": "Companies like Facebook work with groups licensed by individuals at the International Fact-Checking Network.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eMCBfLQZb4k/fact-checker-anti-trump-bias",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eMCBfLQZb4k/fact-checker-anti-trump-bias",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/578c0eab-8f63-4387-a70b-27ada2627f0c/6830dc2d-7b97-4f0d-a32f-ba7913410cf0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fact-checker-anti-trump-bias.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fact-checker-anti-trump-bias.amp",
-      "publishedDateTime": "2020-12-14T16:36:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-filing/index.html"
 type: article
 quality: 173
-heat: 413
+heat: 433
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/05/world/05new-washington-briefing-impeach-1stamendment-1/05new-washington-briefing-impeach-1stamendment-1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump's second impeachment trial starts tomorrow"
+    excerpt: "The second impeachment trial of former President Trump kicks off tomorrow. Follow here for the latest updates from Congress."
+    publishedDateTime: 2021-02-08T13:17:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_600/b1bbdc12-087c-4830-837e-44e28c9cdc7f.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Impeachment Case Argues Trump Was ‘Singularly Responsible’ for Capitol Riot"
     excerpt: "The House managers cited the Constitution’s framers in urging that Donald J. Trump be convicted and disqualified from holding office. Mr. Trump’s lawyers said the Senate had no jurisdiction."

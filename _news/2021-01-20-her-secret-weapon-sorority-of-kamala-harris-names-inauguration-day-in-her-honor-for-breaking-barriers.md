@@ -256,6 +256,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "VP Kamala Harris makes herself belly laugh while swearing-in Senate replacement"
+    excerpt: "WATCH: 'That was very weird' – Swearing in three new Democratic senators, Vice President Kamala Harris laughs after referring to herself in the third person as the resigned senator from ..."
+    publishedDateTime: 2021-01-24T06:41:00Z
+    webUrl: "https://nypost.com/2021/01/23/vp-kamala-harris-laughs-while-swearing-in-senate-replacement/"
+    ampWebUrl: "https://nypost.com/2021/01/23/vp-kamala-harris-laughs-while-swearing-in-senate-replacement/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/23/vp-kamala-harris-laughs-while-swearing-in-senate-replacement/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/05C8DB77-F525-40AD-AE32-F63931C9F094.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vogue offers digital Kamala Harris cover as a print copy after social media backlash"
     excerpt: "\"In celebration of this historic moment, we will be publishing a limited number of special edition #InaugurationDay issues,\" Vogue Magazine wrote in posts shared to Twitter, Facebook and Instagram. The digital cover shows America’s first Black-South Asian woman Vice President-elect wearing a powder blue suit from the Michael Kors Collection suit."
     publishedDateTime: 2021-01-21T00:23:00Z

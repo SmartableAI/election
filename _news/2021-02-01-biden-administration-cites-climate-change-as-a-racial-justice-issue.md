@@ -63,6 +63,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump WH sign-language interpreter says Biden administration 'canceled and humiliated' her"
+    excerpt: "The White House sign-language interpreter who was outed as a supporter of former President Donald Trump said Sunday that she hasn’t been offered a return engagement since — and blasted critics who attacked her credibility and professionalism."
+    publishedDateTime: 2021-02-08T13:28:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kXDCCGBwpNw/trump-wh-sign-language-interpreter-says-biden-administration-canceled-and-humiliated-her"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-wh-sign-language-interpreter-says-biden-administration-canceled-and-humiliated-her.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wh-sign-language-interpreter-says-biden-administration-canceled-and-humiliated-her.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Heather-Mewshaw.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Law professor who made Barron Trump joke during Ukraine impeachment hearing gets Biden DOJ gig"
+    excerpt: "A former Stanford law professor who poked fun at Barron Trump's name during a 2019 House impeachment hearing now has a job with President Biden's Department of Justice."
+    publishedDateTime: 2021-02-08T13:33:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7O1vvhWowDU/law-professor-barron-trump-joke-impeachment-hearing-biden-doj"
+    ampWebUrl: "https://www.foxnews.com/politics/law-professor-barron-trump-joke-impeachment-hearing-biden-doj.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/law-professor-barron-trump-joke-impeachment-hearing-biden-doj.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/12/04/694940094001_6113014915001_6113015661001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump residency at Mar-a-Lago under Palm Beach legal review"
     excerpt: "Palm Beach, Fla., officials are conducting a legal review into former President Donald Trump's residency at Mar-a-Lago, Fox News confirmed Monday."
     publishedDateTime: 2021-02-01T18:54:59Z
@@ -332,6 +364,22 @@ related:
     quality: 165
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump impeachment conviction? 'Zero chance,' Republicans say, as Dems move forward with case"
+    excerpt: "The hearings for the second impeachment trial of former President Trump start on Tuesday and Republicans are making it clear, even before they're gaveled in, that they believe the result is predetermined. "
+    publishedDateTime: 2021-02-08T12:58:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vycRd5zogXY/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-conviction-zero-chance-republicans-say-as-dems-move-forward-with-case-on-eve-of-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

@@ -1087,22 +1087,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's authority is on the line already in first full week of presidency"
-    excerpt: "As his first full week in the White House begins, Joe Biden already faces critical early tests of a presidency premised on political compromise and uniting Washington to fight the pandemic.\n    \n"
-    publishedDateTime: 2021-01-25T05:57:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O6ayWdHNnjg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-coronavirus-congress-trump-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-coronavirus-congress-trump-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210124130226-05-joe-biden-0121-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden names acting agency heads as his Cabinet nominees remain unconfirmed"
     excerpt: "President Joe Biden on Wednesday announced a slate of acting agency heads after taking office without a single one of his Cabinet nominees in place and confirmed by the US Senate.\n    \n"
     publishedDateTime: 2021-01-20T21:47:06Z

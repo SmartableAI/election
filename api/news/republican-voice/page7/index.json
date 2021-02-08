@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-12-manchin-calls-second-trump-impeachment-bid-ill-advised-let-the-judicial-system-do-its-job.md",
+      "title": "Manchin calls second Trump impeachment bid 'ill-advised': 'Let the judicial system do its job'",
+      "excerpt": "House Democrats' attempt to impeach President Trump for a second time in connection with last week's riot at the U.S. Capitol is \"so ill-advised,\" Sen. Joe Manchin, D-W.Va. told \"Special Report\" Monday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tPoWs5d64p8/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tPoWs5d64p8/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56961609-b75a-4b4d-886f-7cf6225d0872/1929b563-4df0-450f-8d3f-4e0c35becc7f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp",
+      "publishedDateTime": "2021-01-11T16:20:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-critics-mock-ny-gov-cuomos-sudden-denunciation-of-lockdowns-suggest-trump-hacked-his-twitter-account.md",
       "title": "Critics mock NY Gov. Cuomo's sudden denunciation of lockdowns, suggest Trump hacked his Twitter account",
       "excerpt": "Democratic New York Gov. Andrew Cuomo raised eyebrows on Monday for his drastic shift on lockdowns during the pandemic. ",
@@ -1602,63 +1658,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-wsj-opinion-trump-erases-his-legacy.md",
-      "title": "WSJ Opinion: Trump Erases His Legacy",
-      "excerpt": "A politician has to work hard to destroy a legacy and a future in a single day. President Donald J. Trump managed it. Image: John Minchillo/Assoc",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/potomac-watch-strassel/wsj-opinion-trump-erases-his-legacy/B7574174-9D38-44B6-B3F6-65506E796535",
-      "originalUrl": "https://www.wsj.com/video/series/potomac-watch-strassel/wsj-opinion-trump-erases-his-legacy/B7574174-9D38-44B6-B3F6-65506E796535",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20210107/010721opvidpotomacwatch/010721opvidpotomacwatch_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T19:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }
