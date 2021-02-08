@@ -47,6 +47,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Maxine Waters tries walking back violent rhetoric against Trump"
+    excerpt: "Rep. Maxine Waters, D-Calif., has publically denied encouraging supporters to confront and harass members of the Trump administration."
+    publishedDateTime: 2021-02-07T23:57:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9ViXvekFhc8/maxine-waters-trump-officials-absolutely-harass-them"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10c4400b-be78-46de-a6d9-cc1c845f7ff3/6841a508-0e51-41d6-934e-31a4c455bfd2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "MrX9UfJbH9c+YpBuBIW2RU8XEKQ7f1RXVOpUuIKV0uyYt8iSLAFV5TI7Cm2olQFOQTPJsBQuduNDSO2kWV/L5rjrjb5mUi3aSC3EUjcPhPLZw9Tq0d1tJLd2GufNNZJ8ufe+xKslbP22p5nrTNef5iVS9QbijOCAUWHp06ejwWLpkFjydQLRa17DuhMBFd7rxK8TWqGkmue7EXN6kiokoeZnQaZftQ9pWaDf96Lm9MC0tKtBJPXc5jrzJ0q1irYw6dJ0+MgyqE4AE8POdhi3Ere2uTTnJXbO/v8DWO2UK+VU+xGv+Q9f868I9cSw7hthT4gKiSeORLZiN7jUrFFgxV/TBeCMXY6g9AN/VBOaNw8=;yWROknuRVuhB2x4ZQ6VhBg=="
 ---

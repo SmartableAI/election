@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Biden administration to remove Yemen’s Houthi rebels from terrorism list in reversal of Trump-era policy"
-excerpt: "The move marks one of the first major shifts in U.S. foreign policy by the Biden administration as it reviews a range of Trump-era polices on Afghanistan, North Korea, Russia, China and beyond."
-publishedDateTime: 2021-02-06T09:58:00Z
-originalUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html"
-webUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
+title: "Stimulus package and Trump impeachment divide lawmakers ahead of Senate trial"
+excerpt: "On Feb. 7, lawmakers and members of President Biden's Cabinet prepared for a week packed with the start of a second impeachment trial for former president Donald Trump and negotiations over coronavirus relief funds."
+publishedDateTime: 2021-02-07T23:36:00Z
+originalUrl: "https://www.washingtonpost.com/video/politics/stimulus-package-and-trump-impeachment-divide-lawmakers-ahead-of-senate-trial/2021/02/07/48ea659d-e5bb-4e86-a595-744fca1cb5ca_video.html"
+webUrl: "https://www.washingtonpost.com/video/politics/stimulus-package-and-trump-impeachment-divide-lawmakers-ahead-of-senate-trial/2021/02/07/48ea659d-e5bb-4e86-a595-744fca1cb5ca_video.html"
 type: article
-quality: 123
+quality: 102
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTS4ZXTIBQI6XCDNKJSNJTVUNU.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-07-2021/t_9e6dc62d2dc6479f9a2d3691acac70b7_name_20210207_Sunday_1.jpg&w=1080"
+    width: 1080
+    height: 608
     isCached: true
 
 related:
@@ -943,6 +941,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden administration to remove Yemen’s Houthi rebels from terrorism list in reversal of Trump-era policy"
+    excerpt: "The move marks one of the first major shifts in U.S. foreign policy by the Biden administration as it reviews a range of Trump-era polices on Afghanistan, North Korea, Russia, China and beyond."
+    publishedDateTime: 2021-02-06T09:58:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTS4ZXTIBQI6XCDNKJSNJTVUNU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump administration announces 11th-hour rewrite of desert conservation plan"
     excerpt: "The Bureau of Land Management on Wednesday announced proposed changes to the Desert Renewable Energy Conservation Plan."
     publishedDateTime: 2021-01-16T02:35:00Z
@@ -1344,20 +1358,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Stimulus package and Trump impeachment divide lawmakers ahead of Senate trial"
-    excerpt: "On Feb. 7, lawmakers and members of President Biden's Cabinet prepared for a week packed with the start of a second impeachment trial for former president Donald Trump and negotiations over coronavirus relief funds."
-    publishedDateTime: 2021-02-07T23:36:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/stimulus-package-and-trump-impeachment-divide-lawmakers-ahead-of-senate-trial/2021/02/07/48ea659d-e5bb-4e86-a595-744fca1cb5ca_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-07-2021/t_9e6dc62d2dc6479f9a2d3691acac70b7_name_20210207_Sunday_1.jpg&w=1080"
-        width: 1080
-        height: 608
-        isCached: true
   - title: "Trump White House donated 8,700 ventilators to other nations. Officials now don’t know where many of them are, watchdog finds."
     excerpt: "The GAO was unable to identify how the Trump White House made its decisions on ventilator allocations. Sri Lanka had just three new coronavirus cases per day when it received 200 ventilators. Bangladesh,"
     publishedDateTime: 2021-01-29T22:07:00Z
@@ -1684,6 +1684,6 @@ related:
         height: 696
         isCached: true
 
-secured: "dzkpbxcOQQZXamD/xBzS8am3eosW0bq0gWj6SgPsqFmfQvbl1J2f8NWZynvplWumv4QknClEvS7zZA21uVmNpH4CNZktLM4PW/+MwQPphO5iEHKJ66ZgC7NWcZwWgbxIiBNFOMQ2Nr1AUBQE2NqK3fP+Lp9kc35gU5sF1+ABKyclbEqCuvaRCy52YOX18dxxESMHAGKM0uc6v36DGHYY+hTUMFKD2q6C/Xj2Uvr7sFNqZx05c6gqhLbUA9eVAhYoOvVh7WBWZZ5T32QuRSMA0Z/eW2CBUvfZKgTK+AXgK3MPfbJxJNhNepR4njVZn7MILgRKadaHxf89ThGmALTGhAq4FPQcHMJ47HtPlZXC3PiCi8B0aOzDbTOhUzoHPBH+rH7+ChJjzZR+4fFFfKGzuctXdKCLb4SeZxejejDkTxgR1NFqoKdOSxq6n9qQCBUp3gzAS+ASa7oOJkkKpp9SOg8XCUC9v/f1MdLuld8TSxFYie85lMLvguTVaB0M10F8uzeWAsC/ilm3l4dn6rc/ww==;yuR99i7bTyjoeerFSYY+pg=="
+secured: "GGULuYvFpf6DXOwyKb1IDUr87n36q8c3xwawiFumts+VonzTziuHJKtdPo9q4raLKYeSZKhB/+dp4Tk6PE5QcEt7s9UysvBKsvA+26zAq4kMXP9+/y8NNDoThPX2jSFVyYSp/zLYFBMOtEYvkBB1hHrQo8bKLWUtMSa6GBBMAejw00yzFOPzM1F5mo9meGs13X4kJXr04sHEBVONARqQy4Au/3q60aoxTkhBKHtHo1KL+fJeXYNxQ85xHFKvvAQYVUS9EJfG3pqo6bT4ePwbjNcgy9Vmk0MMHH4Zxep1Z5SIFgnDlgRKkbap3Lo6AMebcxU8r0Vi4ghDenh2qV+iWFvTF6nExwlvBs26zg/YpXk=;Br8hTzb7pfy7VtiDUCM7sg=="
 ---
 

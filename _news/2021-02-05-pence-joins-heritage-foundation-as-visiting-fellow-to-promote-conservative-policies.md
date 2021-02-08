@@ -891,6 +891,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Senate Republicans back Trump as impeachment trial nears"
+    excerpt: "Donald Trump’s defenders in the Senate are rallying around the former president before his impeachment trial, dismissing it as a waste of time and arguing the former president’s fiery speech before the Capitol insurrection does not make him responsible for the violence of Jan."
+    publishedDateTime: 2021-02-08T00:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/senate-republicans-back-trump-on-eve-of-impeachment-trial/2021/02/07/24584ec6-698b-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/senate-republicans-back-trump-on-eve-of-impeachment-trial/2021/02/07/24584ec6-698b-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/senate-republicans-back-trump-on-eve-of-impeachment-trial/2021/02/07/24584ec6-698b-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
     publishedDateTime: 2021-01-30T06:21:00Z
@@ -1340,6 +1356,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Stimulus package and Trump impeachment divide lawmakers ahead of Senate trial"
+    excerpt: "On Feb. 7, lawmakers and members of President Biden's Cabinet prepared for a week packed with the start of a second impeachment trial for former president Donald Trump and negotiations over coronavirus relief funds."
+    publishedDateTime: 2021-02-07T23:36:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/stimulus-package-and-trump-impeachment-divide-lawmakers-ahead-of-senate-trial/2021/02/07/48ea659d-e5bb-4e86-a595-744fca1cb5ca_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-07-2021/t_9e6dc62d2dc6479f9a2d3691acac70b7_name_20210207_Sunday_1.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Trump White House donated 8,700 ventilators to other nations. Officials now don’t know where many of them are, watchdog finds."
     excerpt: "The GAO was unable to identify how the Trump White House made its decisions on ventilator allocations. Sri Lanka had just three new coronavirus cases per day when it received 200 ventilators. Bangladesh,"
     publishedDateTime: 2021-01-29T22:07:00Z
@@ -1502,6 +1532,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Trump can never rejoin Screen Actors Guild"
+    excerpt: "Former President Donald Trump won’t be getting a sequel in the Screen Actors Guild. SAG-AFTRA announced Sunday that Trump will not be eligible for readmission after he resigned from the guild last week."
+    publishedDateTime: 2021-02-07T21:12:00Z
+    webUrl: "https://www.nydailynews.com/snyde/ny-donald-trump-sag-aftra-20210207-qirn52hbn5fttf2lp4w7ajodse-story.html"
+    ampWebUrl: "https://www.nydailynews.com/snyde/ny-donald-trump-sag-aftra-20210207-qirn52hbn5fttf2lp4w7ajodse-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/snyde/ny-donald-trump-sag-aftra-20210207-qirn52hbn5fttf2lp4w7ajodse-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/UDdvt6yyHX8e8aq67vNtsw10_FA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RGVBPGQGKRDCPJKBA2YOI7OAUQ.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Would Trump Have Won if Not for Impeachment? A Pro-Trump Journalist Thinks So."
     excerpt: "Maybe he could have won the election if he hadn’t been impeached. This is the thesis proposed by Mark Hemingway, a right-wing commentator (and husband of Mollie). The majority of Hemingway’s piece is given over to recapitulating a familiar list of the ways Democrats and the mainstream news media treated Mr."

@@ -1,0 +1,67 @@
+---
+category: news
+title: "Maxine Waters tries walking back violent rhetoric against Trump"
+excerpt: "Rep. Maxine Waters, D-Calif., has publically denied encouraging supporters to confront and harass members of the Trump administration."
+publishedDateTime: 2021-02-07T23:57:50Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9ViXvekFhc8/maxine-waters-trump-officials-absolutely-harass-them"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9ViXvekFhc8/maxine-waters-trump-officials-absolutely-harass-them"
+type: article
+quality: 155
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10c4400b-be78-46de-a6d9-cc1c845f7ff3/6841a508-0e51-41d6-934e-31a4c455bfd2/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Maxine Waters says Trump should be charged with 'premeditated murder'"
+    excerpt: "Democratic Rep. Maxine Waters of California Tuesday said she thinks former President Donald Trump should be charged with \"premeditated murder\" over the deadly riots at the U.S. Capitol on Jan. 6."
+    publishedDateTime: 2021-02-04T08:48:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ahSL7zuaIsg/maxine-waters-says-trump-should-be-charged-with-premeditated-murder"
+    ampWebUrl: "https://www.foxnews.com/politics/maxine-waters-says-trump-should-be-charged-with-premeditated-murder.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-says-trump-should-be-charged-with-premeditated-murder.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41f5f9a2-9772-491d-b8dd-ff4d84121c81/7e2245d5-dbec-4656-ad2f-da3415479f87/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Democrats outraged as anti-Cuomo troll uses Maxine Waters quote that had targeted Trump aides"
+    excerpt: "Democrats have been riled up on Twitter after a troll account altered a quote by Rep. Maxine Waters, D-Calif., to go after Gov. Andrew Cuomo."
+    publishedDateTime: 2021-01-29T22:23:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XapNwoUtNSg/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-outraged-by-troll-who-uses-maxine-waters-quote-they-didnt-recognize.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "HKQssfqZTeXJz3QTDQmztqSW2g1jDZKQlNO5wpIEP0bYihNsB7FHrfGU0u/WmEXSt2qBa03Ajx5V5g5cukX5jojjfh1brGthxb0P2cVKUPtUXce9lspHeXzzBSo7yH2guoToMjB2JHh7x4l9vxmzHcOWKYFZm0ZawTXjNCQUiSak/Mn8yRu1lwaSfsob24GLL4qXwFEeiwgbZv2PMxhn9km98npNvk6QcF8/ExfMhqavsccJsKG7kScY1EN9V6UaBctqP0YeZFBLxBQncGePp8LqBy4eJXpcf52xyC6D323GvRTAcNxtYUt6iXEvx/o2RVfWlQzJN8gzvtlyIhKfKUsJKEfs8clhxNj9Qvo46k8=;ePO3Yx2YfYRjxXwBVryg2Q=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/maxine-waters-says-trump-should-be-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-says-trump-should-be-charged-with-premeditated-murder.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
     quality: 164
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fdba3ce-11cf-42b8-8802-c41d9e29f7e2/593a490f-fb1a-4ade-b170-c919b34d2336/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Maxine Waters tries walking back violent rhetoric against Trump"
+    excerpt: "Rep. Maxine Waters, D-Calif., has publically denied encouraging supporters to confront and harass members of the Trump administration."
+    publishedDateTime: 2021-02-07T23:57:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9ViXvekFhc8/maxine-waters-trump-officials-absolutely-harass-them"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10c4400b-be78-46de-a6d9-cc1c845f7ff3/6841a508-0e51-41d6-934e-31a4c455bfd2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden administration to remove Yemen’s Houthi rebels from terrorism list in reversal of Trump-era policy"
-excerpt: "The move marks one of the first major shifts in U.S. foreign policy by the Biden administration as it reviews a range of Trump-era polices on Afghanistan, North Korea, Russia, China and beyond."
-publishedDateTime: 2021-02-06T09:58:00Z
-originalUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html"
-webUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
+title: "Senate Republicans back Trump as impeachment trial nears"
+excerpt: "Donald Trump’s defenders in the Senate are rallying around the former president before his impeachment trial, dismissing it as a waste of time and arguing the former president’s fiery speech before the Capitol insurrection does not make him responsible for the violence of Jan."
+publishedDateTime: 2021-02-08T00:26:00Z
+originalUrl: "https://www.washingtonpost.com/politics/courts_law/senate-republicans-back-trump-on-eve-of-impeachment-trial/2021/02/07/24584ec6-698b-11eb-a66e-e27046e9e898_story.html"
+webUrl: "https://www.washingtonpost.com/politics/courts_law/senate-republicans-back-trump-on-eve-of-impeachment-trial/2021/02/07/24584ec6-698b-11eb-a66e-e27046e9e898_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/senate-republicans-back-trump-on-eve-of-impeachment-trial/2021/02/07/24584ec6-698b-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/senate-republicans-back-trump-on-eve-of-impeachment-trial/2021/02/07/24584ec6-698b-11eb-a66e-e27046e9e898_story.html?outputType=amp"
 type: article
-quality: 123
+quality: 125
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTS4ZXTIBQI6XCDNKJSNJTVUNU.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -895,22 +895,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Senate Republicans back Trump as impeachment trial nears"
-    excerpt: "Donald Trump’s defenders in the Senate are rallying around the former president before his impeachment trial, dismissing it as a waste of time and arguing the former president’s fiery speech before the Capitol insurrection does not make him responsible for the violence of Jan."
-    publishedDateTime: 2021-02-08T00:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/senate-republicans-back-trump-on-eve-of-impeachment-trial/2021/02/07/24584ec6-698b-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/senate-republicans-back-trump-on-eve-of-impeachment-trial/2021/02/07/24584ec6-698b-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/senate-republicans-back-trump-on-eve-of-impeachment-trial/2021/02/07/24584ec6-698b-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
     publishedDateTime: 2021-01-30T06:21:00Z
@@ -942,6 +926,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550177914&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121BD"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden administration to remove Yemen’s Houthi rebels from terrorism list in reversal of Trump-era policy"
+    excerpt: "The move marks one of the first major shifts in U.S. foreign policy by the Biden administration as it reviews a range of Trump-era polices on Afghanistan, North Korea, Russia, China and beyond."
+    publishedDateTime: 2021-02-06T09:58:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTS4ZXTIBQI6XCDNKJSNJTVUNU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump administration announces 11th-hour rewrite of desert conservation plan"
     excerpt: "The Bureau of Land Management on Wednesday announced proposed changes to the Desert Renewable Energy Conservation Plan."
@@ -1684,6 +1684,6 @@ related:
         height: 696
         isCached: true
 
-secured: "dzkpbxcOQQZXamD/xBzS8am3eosW0bq0gWj6SgPsqFmfQvbl1J2f8NWZynvplWumv4QknClEvS7zZA21uVmNpH4CNZktLM4PW/+MwQPphO5iEHKJ66ZgC7NWcZwWgbxIiBNFOMQ2Nr1AUBQE2NqK3fP+Lp9kc35gU5sF1+ABKyclbEqCuvaRCy52YOX18dxxESMHAGKM0uc6v36DGHYY+hTUMFKD2q6C/Xj2Uvr7sFNqZx05c6gqhLbUA9eVAhYoOvVh7WBWZZ5T32QuRSMA0Z/eW2CBUvfZKgTK+AXgK3MPfbJxJNhNepR4njVZn7MILgRKadaHxf89ThGmALTGhAq4FPQcHMJ47HtPlZXC3PiCi8B0aOzDbTOhUzoHPBH+rH7+ChJjzZR+4fFFfKGzuctXdKCLb4SeZxejejDkTxgR1NFqoKdOSxq6n9qQCBUp3gzAS+ASa7oOJkkKpp9SOg8XCUC9v/f1MdLuld8TSxFYie85lMLvguTVaB0M10F8uzeWAsC/ilm3l4dn6rc/ww==;yuR99i7bTyjoeerFSYY+pg=="
+secured: "rABuM0uIGKs5vPVPVkBNcnkkWlKrebgicn3kGF6RT/KV94EoZfQfqVdcAq+o6eTUcTfT1PIDS9Hx4h/fuHbMX8Vz2yQCMHFKh52yCVU2bAO8blbdIE5wc51hCKyFssRr2nw0J7FZW2Tb+XI//RLFMkPHS+/0mBr4/26Lo4xxqMduYOmAd84RI8Xys+4EkfzV/ylDT65mHQMyOltKqyaiF3R83CGq6/CI8oKz1n5iTGMgMYJSM5FbCD/n68FbOIlEzxGgvfwhVXipgW8nuTm7eK5qsaY4HAECJJdvkywkxcANER1O6e8Kp+s3fHwAEk/5kePDoFxw7HjSUEHCJHUN6f1FmfS79szNjIW9yFOAYlQ=;pEGeTsYgbQNWNfeoFvc7VA=="
 ---
 

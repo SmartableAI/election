@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Biden administration to remove Yemen’s Houthi rebels from terrorism list in reversal of Trump-era policy"
-excerpt: "The move marks one of the first major shifts in U.S. foreign policy by the Biden administration as it reviews a range of Trump-era polices on Afghanistan, North Korea, Russia, China and beyond."
-publishedDateTime: 2021-02-06T09:58:00Z
-originalUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html"
-webUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
+title: "Trump can never rejoin Screen Actors Guild"
+excerpt: "Former President Donald Trump won’t be getting a sequel in the Screen Actors Guild. SAG-AFTRA announced Sunday that Trump will not be eligible for readmission after he resigned from the guild last week."
+publishedDateTime: 2021-02-07T21:12:00Z
+originalUrl: "https://www.nydailynews.com/snyde/ny-donald-trump-sag-aftra-20210207-qirn52hbn5fttf2lp4w7ajodse-story.html"
+webUrl: "https://www.nydailynews.com/snyde/ny-donald-trump-sag-aftra-20210207-qirn52hbn5fttf2lp4w7ajodse-story.html"
+ampWebUrl: "https://www.nydailynews.com/snyde/ny-donald-trump-sag-aftra-20210207-qirn52hbn5fttf2lp4w7ajodse-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/snyde/ny-donald-trump-sag-aftra-20210207-qirn52hbn5fttf2lp4w7ajodse-story.html?outputType=amp"
 type: article
-quality: 123
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Daily News
+  domain: nydailynews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTS4ZXTIBQI6XCDNKJSNJTVUNU.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.nydailynews.com/resizer/UDdvt6yyHX8e8aq67vNtsw10_FA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RGVBPGQGKRDCPJKBA2YOI7OAUQ.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -943,6 +939,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden administration to remove Yemen’s Houthi rebels from terrorism list in reversal of Trump-era policy"
+    excerpt: "The move marks one of the first major shifts in U.S. foreign policy by the Biden administration as it reviews a range of Trump-era polices on Afghanistan, North Korea, Russia, China and beyond."
+    publishedDateTime: 2021-02-06T09:58:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-yemen-rebels-terrorist-list/2021/02/05/e65e55c8-5b40-11eb-aaad-93988621dd28_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTS4ZXTIBQI6XCDNKJSNJTVUNU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump administration announces 11th-hour rewrite of desert conservation plan"
     excerpt: "The Bureau of Land Management on Wednesday announced proposed changes to the Desert Renewable Energy Conservation Plan."
     publishedDateTime: 2021-01-16T02:35:00Z
@@ -1521,22 +1533,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Trump can never rejoin Screen Actors Guild"
-    excerpt: "Former President Donald Trump won’t be getting a sequel in the Screen Actors Guild. SAG-AFTRA announced Sunday that Trump will not be eligible for readmission after he resigned from the guild last week."
-    publishedDateTime: 2021-02-07T21:12:00Z
-    webUrl: "https://www.nydailynews.com/snyde/ny-donald-trump-sag-aftra-20210207-qirn52hbn5fttf2lp4w7ajodse-story.html"
-    ampWebUrl: "https://www.nydailynews.com/snyde/ny-donald-trump-sag-aftra-20210207-qirn52hbn5fttf2lp4w7ajodse-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/snyde/ny-donald-trump-sag-aftra-20210207-qirn52hbn5fttf2lp4w7ajodse-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/UDdvt6yyHX8e8aq67vNtsw10_FA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RGVBPGQGKRDCPJKBA2YOI7OAUQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Would Trump Have Won if Not for Impeachment? A Pro-Trump Journalist Thinks So."
     excerpt: "Maybe he could have won the election if he hadn’t been impeached. This is the thesis proposed by Mark Hemingway, a right-wing commentator (and husband of Mollie). The majority of Hemingway’s piece is given over to recapitulating a familiar list of the ways Democrats and the mainstream news media treated Mr."
     publishedDateTime: 2021-02-06T01:48:00Z
@@ -1684,6 +1680,6 @@ related:
         height: 696
         isCached: true
 
-secured: "dzkpbxcOQQZXamD/xBzS8am3eosW0bq0gWj6SgPsqFmfQvbl1J2f8NWZynvplWumv4QknClEvS7zZA21uVmNpH4CNZktLM4PW/+MwQPphO5iEHKJ66ZgC7NWcZwWgbxIiBNFOMQ2Nr1AUBQE2NqK3fP+Lp9kc35gU5sF1+ABKyclbEqCuvaRCy52YOX18dxxESMHAGKM0uc6v36DGHYY+hTUMFKD2q6C/Xj2Uvr7sFNqZx05c6gqhLbUA9eVAhYoOvVh7WBWZZ5T32QuRSMA0Z/eW2CBUvfZKgTK+AXgK3MPfbJxJNhNepR4njVZn7MILgRKadaHxf89ThGmALTGhAq4FPQcHMJ47HtPlZXC3PiCi8B0aOzDbTOhUzoHPBH+rH7+ChJjzZR+4fFFfKGzuctXdKCLb4SeZxejejDkTxgR1NFqoKdOSxq6n9qQCBUp3gzAS+ASa7oOJkkKpp9SOg8XCUC9v/f1MdLuld8TSxFYie85lMLvguTVaB0M10F8uzeWAsC/ilm3l4dn6rc/ww==;yuR99i7bTyjoeerFSYY+pg=="
+secured: "pXec54N2/O7JRr1zjADCBz59tv8etI2H9xlxDfV41wfhF9rdifex4ivQUjGnSjcocVDDPa9maI6ls6sJrWnQoEoECzv9mmm8hztSlN4NrDxAUAprys8Zm6mNEQjCN8qayRBsPmc20lwxI2iwYEFxw3FGG5Tuoq5aA9lxhhPkQUqEciqqbJYOOnf1iXqwi8MuhLqdE8PPRE3OagS5mEvxtedD9H5cpD3BqdsSkqSzFz8ZIkSsYBPOd3H/dAIFEfTYAK4R36/vPUzwAQ5Ad9I1IdNWFRBTSX9fK+8UZ1qcU8BuaO2aZKiaKfq+CPtqrpC4Zgt/qnlN3+B3/9Z0du30ayVxmYRI8g83LRTBQozd178=;KePadcMD9al9tRhsdtOs+Q=="
 ---
 
