@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas judge extends suspension of Biden deportation moratorium plan"
+    excerpt: "A federal judge in Texas extended the suspension of President Biden’s 100-day moratorium on deportation through Feb. 23."
+    publishedDateTime: 2021-02-09T16:37:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b6t_t8bAbqA/texas-judge-extends-suspension-of-biden-deportation-moratorium-plan"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-judge-extends-suspension-of-biden-deportation-moratorium-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-judge-extends-suspension-of-biden-deportation-moratorium-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Senate committee advances Biden UN pick despite controversy over China speech"
     excerpt: "The Senate Foreign Relations Committee on Thursday approved President Biden’s U.N. ambassador nominee, Linda Thomas-Greenfield, but only after objections and a delay in the vote due to concerns raised by Republicans about a pro-China speech she once gave in 2019."
     publishedDateTime: 2021-02-04T17:52:28Z

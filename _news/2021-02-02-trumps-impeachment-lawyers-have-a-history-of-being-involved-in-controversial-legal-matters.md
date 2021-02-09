@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ukraine impeachment vs. insurrection impeachment: What to know about Trump's two trials"
+    excerpt: "Here's where we are: A president who survived impeachment for trying to stack the deck against his most-feared election opponent is now facing impeachment again for inciting his supporters to attack Capitol Hill to challenge that same opponent's victory.\n    \n"
+    publishedDateTime: 2021-02-09T15:57:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/izbEdxYb6RE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/first-trump-impeachment-vs-second/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/first-trump-impeachment-vs-second/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200205162637-07-senate-floor-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's second impeachment trial set to kick off this week amid questions about what it will look like"
     excerpt: "The second Senate impeachment trial of former President Donald Trump is scheduled to kick off Tuesday with some of the key questions about the trial itself -- including how long it will go and whether any witnesses will be called -- still unanswered.\n    \n"
     publishedDateTime: 2021-02-07T11:01:43Z

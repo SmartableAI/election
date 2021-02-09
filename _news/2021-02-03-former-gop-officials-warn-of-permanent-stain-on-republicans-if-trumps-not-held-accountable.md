@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Most GOP Senators Would Convict Trump Via Secret Ballot, Hawaii Sen. Mazie Hirono Says"
+    excerpt: "Senator Mazie Hirono, a Hawaii Democrat, said that \"most\" Republican senators would vote to convict former President Donald Trump of inciting the attack on the U.S. Capitol if they were given the opportunity to use a secret ballot."
+    publishedDateTime: 2021-02-09T16:45:00Z
+    webUrl: "https://www.newsweek.com/most-gop-senators-would-convict-trump-via-secret-ballot-hawaii-sen-mazie-hirono-says-1567943"
+    ampWebUrl: "https://www.newsweek.com/most-gop-senators-would-convict-trump-via-secret-ballot-hawaii-sen-mazie-hirono-says-1567943?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/most-gop-senators-would-convict-trump-via-secret-ballot-hawaii-sen-mazie-hirono-says-1567943?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1729725/senator-mazie-hirono.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Wyoming GOP Censures Liz Cheney For Voting To Impeach Trump"
     excerpt: "Rep. Cheney, third-ranking member of House Republican leadership, is the latest in a succession of Republican leaders censured by their state parties for acting in opposition to the former president."
     publishedDateTime: 2021-02-07T04:24:00Z

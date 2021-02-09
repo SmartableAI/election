@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-09-schumer-asks-republicans-to-keep-open-mind-at-trump-trial-says-he-fed-mob-lies-that-motivate-their-behavior.md",
+      "title": "Schumer asks Republicans to keep open mind at Trump trial, says he fed mob 'lies that motivate their behavior'",
+      "excerpt": "Senate Majority Leader Chuck Schumer on Tuesday urged Senate Republicans to pay close attention to new evidence introduced by the House impeachment managers during the trial of former President Donald Trump, while framing Trump as fundamentally responsible for motivating the rioters who sacked the Capitol",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0K0Kev0D9Go/schumer-top-senate-democrats-impeachment-press-conference",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0K0Kev0D9Go/schumer-top-senate-democrats-impeachment-press-conference",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/schumer-top-senate-democrats-impeachment-press-conference.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-top-senate-democrats-impeachment-press-conference.amp",
+      "publishedDateTime": "2021-02-09T08:37:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-biden-omb-pick-tanden-called-out-during-confirmation-hearing-for-anti-gop-tweets-says-im-sorry.md",
+      "title": "Biden OMB pick Tanden called out during confirmation hearing for anti-GOP tweets, says 'I'm sorry'",
+      "excerpt": "Minutes into her confirmation hearing, President Biden's nominee for director of the White House Office of Management and Budget Neera Tanden had to address concerns over hostile tweets she has posted against various Republican lawmakers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo_05fBHJPI/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo_05fBHJPI/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Neera-Tanden-Biden-OMB-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp",
+      "publishedDateTime": "2021-02-09T08:33:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-gingrich-senators-who-vote-to-convict-trump-take-part-in-profound-attack-on-the-american-system.md",
       "title": "Gingrich: Senators who vote to convict Trump take part in 'profound attack on the American system'",
       "excerpt": "Lawmakers who vote to convict former President Donald Trump of incitement of insurrection and bar him from holding office again would be engaged in a \"profound attack on the American system,\" former House Speaker Newt Gingrich told \"Hannity\" Monday night.",
@@ -464,7 +576,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1145,
+      "heat": 1205,
       "tags": null,
       "images": [
         {
@@ -1571,119 +1683,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage.md",
-      "title": "Pelosi rejects Trump impeachment acquittal, says Senate will reveal 'cowards or courage'",
-      "excerpt": "House Speaker Nancy Pelosi, D-Calif., rejected any notion that former President Trump is headed for a second acquittal in the Senate during his impeachment trial. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EZpJNfqhVj4/pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EZpJNfqhVj4/pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-rejects-trump-impeachment-acquittal-says-senate-will-reveal-cowards-or-courage.amp",
-      "publishedDateTime": "2021-02-04T12:03:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-pence-joining-heritage-foundation-as-distinguished-fellow.md",
-      "title": "Pence joining Heritage Foundation as distinguished fellow",
-      "excerpt": "Former Vice President Mike Pence is joining the Heritage Foundation, one of the oldest and most influential think tanks in the conservative movement.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WdQXDG30BO0/pence-joining-heritage-foundation-as-distinguished-fellow",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WdQXDG30BO0/pence-joining-heritage-foundation-as-distinguished-fellow",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-joining-heritage-foundation-as-distinguished-fellow.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-joining-heritage-foundation-as-distinguished-fellow.amp",
-      "publishedDateTime": "2021-02-04T10:32:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

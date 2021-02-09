@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Most GOP Senators Would Convict Trump Via Secret Ballot, Hawaii Sen. Mazie Hirono Says"
+    excerpt: "Senator Mazie Hirono, a Hawaii Democrat, said that \"most\" Republican senators would vote to convict former President Donald Trump of inciting the attack on the U.S. Capitol if they were given the opportunity to use a secret ballot."
+    publishedDateTime: 2021-02-09T16:45:00Z
+    webUrl: "https://www.newsweek.com/most-gop-senators-would-convict-trump-via-secret-ballot-hawaii-sen-mazie-hirono-says-1567943"
+    ampWebUrl: "https://www.newsweek.com/most-gop-senators-would-convict-trump-via-secret-ballot-hawaii-sen-mazie-hirono-says-1567943?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/most-gop-senators-would-convict-trump-via-secret-ballot-hawaii-sen-mazie-hirono-says-1567943?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1729725/senator-mazie-hirono.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Former GOP Officials Warn of 'Permanent Stain' on Republicans if Trump's Not Held Accountable"
     excerpt: "\"Donald Trump blatantly violated his oath to protect and defend the Constitution,\" the group of Republicans and conservatives said."
     publishedDateTime: 2021-02-02T18:56:00Z

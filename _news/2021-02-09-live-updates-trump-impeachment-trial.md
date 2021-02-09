@@ -238,6 +238,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ukraine impeachment vs. insurrection impeachment: What to know about Trump's two trials"
+    excerpt: "Here's where we are: A president who survived impeachment for trying to stack the deck against his most-feared election opponent is now facing impeachment again for inciting his supporters to attack Capitol Hill to challenge that same opponent's victory.\n    \n"
+    publishedDateTime: 2021-02-09T15:57:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/izbEdxYb6RE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/first-trump-impeachment-vs-second/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/first-trump-impeachment-vs-second/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200205162637-07-senate-floor-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's impeachment lawyers have a history of being involved in controversial legal matters"
     excerpt: "The new lawyers who signed on to lead former President Donald Trump's impeachment defense team bring a curious history of experience with them as they prepare to defend the former President in his second Senate trial.\n    \n"
     publishedDateTime: 2021-02-02T19:43:22Z
@@ -603,6 +619,6 @@ related:
         height: 549
         isCached: true
 
-secured: "h9y7XPLI3E0iEARKn/l3OYFrD8YlqiUEFdd2rPAPHdU/zHnrLbxi8fTF+RS6mBVwDpIott8upSIVlZDnsp0n7/8Lv6xPbbkVJ9VCV1dXqJuQyIlGkOsi5jqhjV48iIIzY3tughp00UCA2PO8m5D5EHVOMJs7W3RB7dc1Yq4IDd+11yT7HsZniR18EGwKeGi+uD8KHDefHGqseL5ASGEYWLpusfdEJmdFqXOXep0VG9lDpVf1oE0/3g9qxCLAA9QROZ9YUCdsfsva1NKlbb1eETqIOMfCZn28GjCHtKYK1sTVS1qao+r6bWaGLdVyPBduKj8Nf3siynLvwv4ciRAeq67/iAll/XRCrxJx6K+bWig=;ZJdQjAx3gUeoCz9admUOZg=="
+secured: "xc0MDVRLiPUxLTaviHtjjsrF7HpzTloLKfxM1XgLS7C3s6PmITm+IvzKcCvEv1mki4SW687zxDjwRz5IzJtSRQw50UYE+quJ8VbWK3mgaj6V4rrMqumAj0S51C+6y1rpiDRFKZB4aPiVbSptsRBTDPHFDrDFvTBOkek4fLn7YbuVJfSsWEz0UQqAqTJO50lhrZvztO/dhmcxM7q7hKyhZj80oTCYS82NkPq4tVOlQt2Ldi9fiHXgTif89/GxeXUQ6LN4DsYvCtUp3IvyvGT0HhhNCeNuAU2Lfvi+Qgqt/fxeiTNrHEeZ8q4zqyCcbpNd+zIGJfW66qtEh3W6O2E8ApxDd6XQeXQ3/jUGuYQqe+U2i0dTjwVhJyq4gVJnrDDdjfIgkddtcpe3B0GGo7BVNtOrO7Vz4mucEjzMdHkXRsVK68ZFIBYTlbF3y4ilqg3r/Ww2gU/I+f7V7sYij0b39NnWgU3C/xXt2elGVCmrZgPTNv76QvqxqL90A1LX7OzzyvKsAO6cBnWYDpvdfvVXUg==;PknQ8kLEvNMwXJbAVpXhEw=="
 ---
 

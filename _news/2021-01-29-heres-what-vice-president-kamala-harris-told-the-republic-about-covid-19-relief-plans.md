@@ -75,6 +75,22 @@ related:
         width: 3500
         height: 2365
         isCached: true
+  - title: "Harris’ historic election celebrated in cracked glass portrait"
+    excerpt: "Vice President Kamala Harris' barrier-breaking career has been memorialized in a portrait that depicts her face emerging from the cracks in a massive sheet of glass."
+    publishedDateTime: 2021-02-09T16:23:00Z
+    webUrl: "https://www.pbs.org/newshour/arts/harris-historic-election-celebrated-in-cracked-glass-portrait"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/arts/harris-historic-election-celebrated-in-cracked-glass-portrait"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/arts/harris-historic-election-celebrated-in-cracked-glass-portrait"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 140
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/02/GettyImages-13003735251-1024x681.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Fact check: Kamala Harris did not say military would be used against Trump supporters"
     excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that she does not care about the constitution and will use federal law enforcement and the military against Trump supporters."
     publishedDateTime: 2021-02-08T21:53:00Z

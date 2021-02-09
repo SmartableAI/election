@@ -92,6 +92,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas judge extends suspension of Biden deportation moratorium plan"
+    excerpt: "A federal judge in Texas extended the suspension of President Biden’s 100-day moratorium on deportation through Feb. 23."
+    publishedDateTime: 2021-02-09T16:37:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b6t_t8bAbqA/texas-judge-extends-suspension-of-biden-deportation-moratorium-plan"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-judge-extends-suspension-of-biden-deportation-moratorium-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-judge-extends-suspension-of-biden-deportation-moratorium-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hiding Hunter Biden laying low in LA, starting art career with shady dealer"
     excerpt: "As federal prosecutors continue their criminal probes into Hunter Biden’s taxes and international business dealings, the President’s son — shuttling between Washington DC and a sprawling Hollywood Hills home — is lying low, consulting with lawyers and focusing on his new career in art."
     publishedDateTime: 2021-01-31T02:06:03Z

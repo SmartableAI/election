@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump impeachment managers to present new evidence in trial, Schumer says – live"
+    excerpt: "Majority leader says ‘sweeping it under the rug will not bring unity’ as Trump trial set to begin shortly – follow all the day’s politics news"
+    publishedDateTime: 2021-02-09T16:30:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6022b7048f081476baec4e16"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/15a7ae393399c7031981d513323885ad160dee9d/0_211_5754_3452/master/5754.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=742c41256e2e653ca7fb7c353237cf7a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "U.S. impeachment managers argue Trump pointed mob 'like a loaded cannon' toward Capitol"
     excerpt: "The U.S. House of Representatives Democrats who will prosecute former President Donald Trump's impeachment trial on charges of inciting insurrection will argue that he pointed a mob \"like a loaded cannon\" toward the Capitol before a deadly rampage."
     publishedDateTime: 2021-02-02T20:05:00Z
@@ -190,6 +206,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/07/c20a610b-0e6c-44c2-95a9-f24b8b331ee7/thumbnail/1200x630/f9f69d871719367d2bd5de2e48e67ab9/gettyimages-1294935359.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Watch Live: Trump's 2nd Senate Impeachment Trial Begins Tuesday"
+    excerpt: "The former president is being tried on one article of impeachment for his role in the insurrection at the U.S. Capitol last month. Watch the proceedings beginning at 1 p.m. ET on Tuesday."
+    publishedDateTime: 2021-02-09T16:27:00Z
+    webUrl: "https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/09/964619295/watch-live-trumps-2nd-senate-impeachment-trial-begins-tuesday"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/08/gettyimages-1231044171_wide-05dfd413b13c960822b262acfd2f3158c5e452cd.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Trump's second impeachment trial threatens to overshadow Covid relief talks"
     excerpt: "The second Senate impeachment trial of former President Donald Trump is set to begin tomorrow on Capitol Hill. This comes as President Joe Biden urges Congress to pass his $1.9 trillion COVID-19 relief package."

@@ -991,6 +991,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump impeachment trial to open with fight on constitutionality"
+    excerpt: "Donald Trump's historic second impeachment trial, on a charge of inciting last month's deadly storming of the U.S. Capitol, opens on Tuesday with a debate over the constitutionality of the Senate trying a president after he has left office."
+    publishedDateTime: 2021-02-09T16:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A91D3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A91D3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A91D3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550892923&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1816M"
+        width: 818
+        height: 545
+        isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
     publishedDateTime: 2021-01-30T06:21:00Z
@@ -1326,6 +1342,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SMDCU3DCMII6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Factbox: Five Republicans who said Trump's post-office impeachment trial is constitutional"
+    excerpt: "Donald Trump's impeachment trial will open on Tuesday with a debate about whether the U.S. Constitution allows a former president to face trial after he has left office."
+    publishedDateTime: 2021-02-09T16:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-senators-factbo-idUSKBN2A91DX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A91DX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A91DX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550892643&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH180UD"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump Impeachment Trial to Feature Dueling Videos of GOP, Democratic Calls for Confrontation"
     excerpt: "Trump's lead impeachment attorney said Friday he'll call out Democrats for \"inflammatory rhetoric\" during last summer's racial justice movement."
@@ -1680,6 +1712,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210208&i=OVDYSGZQ7&r=OVDYSGZQ7&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "House Managers To Present New Evidence At Trump Impeachment Trial"
+    excerpt: "Aides say the Senate will hear evidence \"nobody has seen before\" related to incitement of the Jan. 6 insurrection. The former president's defense, however, argues the trial should not happen at all."
+    publishedDateTime: 2021-02-09T16:27:00Z
+    webUrl: "https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/09/965816733/house-managers-to-present-new-evidence-at-trump-impeachment-trial"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/09/gettyimages-1231048931_wide-7d6c21ab77a442d4b4b8251a192dd05ac0516801.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Stimulus package and Trump impeachment divide lawmakers ahead of Senate trial"
     excerpt: "On Feb. 7, lawmakers and members of President Biden's Cabinet prepared for a week packed with the start of a second impeachment trial for former president Donald Trump and negotiations over coronavirus relief funds."

@@ -191,6 +191,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump impeachment trial: Polls show slight majority support conviction"
+    excerpt: "A narrow majority of Americans say they support a Senate conviction of former President Donald Trump in his impeachment trial, which starts Tuesday."
+    publishedDateTime: 2021-02-09T15:41:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qwfz9FdUNns/trump-impeachment-trial-polls-slight-majority-support-conviction"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-polls-slight-majority-support-conviction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-polls-slight-majority-support-conviction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump's impeachment trial: Everything you need to know"
     excerpt: "Former President Donald Trump has been out of office for nearly three weeks, but he is still expected to command the full attention of the legislative branch and the country in the coming days as the Senate begins his second impeachment trial, barely one year after his first."
     publishedDateTime: 2021-02-09T11:23:02Z
@@ -254,6 +270,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ebc5208-5c81-492f-bc4f-96ffff1e916a/e8e1a45c-3221-44da-8aaf-2cc3be4c3bed/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Impeachment managers say Trump 'has no good defense' in reply to president's pre-trial brief"
+    excerpt: "The House Democratic impeachment managers, in their reply to President Trump's pre-trial brief from Monday, slam the former president's legal theories as \"flawed\" and say that he is shirking responsibility for the Capitol riot. "
+    publishedDateTime: 2021-02-09T16:33:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5x8alIvHDvs/impeachment-managers-say-trump-has-no-good-defense-in-reply-to-presidents-pre-trial-brief"
+    ampWebUrl: "https://www.foxnews.com/politics/impeachment-managers-say-trump-has-no-good-defense-in-reply-to-presidents-pre-trial-brief.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/impeachment-managers-say-trump-has-no-good-defense-in-reply-to-presidents-pre-trial-brief.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Law prof claims Trump lawyers 'badly' misrepresented his views when citing impeachment article"
     excerpt: "A Michigan State University law professor claims that former President Donald Trump’s legal team took him out of context when citing his work in their impeachment trial memorandum."
@@ -730,6 +762,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/leahy.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Impeachment managers say Trump 'has no good defense' in reply to president's pre-trial brief"
+    excerpt: "The House Democratic impeachment managers, in their reply to President Trump's pre-trial brief from Monday, slam the former president's legal theories as \"flawed\" and say that he is shirking responsibility for the Capitol riot."
+    publishedDateTime: 2021-02-09T16:37:00Z
+    webUrl: "https://www.foxnews.com/politics/impeachment-managers-say-trump-has-no-good-defense-in-reply-to-presidents-pre-trial-brief"
+    ampWebUrl: "https://www.foxnews.com/politics/impeachment-managers-say-trump-has-no-good-defense-in-reply-to-presidents-pre-trial-brief.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/impeachment-managers-say-trump-has-no-good-defense-in-reply-to-presidents-pre-trial-brief.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f69f637-0c95-40e7-bc37-57c7e1df7af2/b983ea9c-8f51-4de1-b6c0-9bcf06eb3a0e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "House impeachment managers slam Trump in final pre-trial brief: 'Most grievous constitutional crime ever'"
     excerpt: "The House impeachment managers accused former President Donald Trump of \"the most grievous constitutional crime ever committed by a President\" in their final brief before Trump's impeachment trial begins in earnest Tuesday."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/impeachment-trial-securi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/impeachment-trial-security-posture/index.html"
 type: article
 quality: 175
-heat: 895
+heat: 915
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Ukraine impeachment vs. insurrection impeachment: What to know about Trump's two trials"
+    excerpt: "Here's where we are: A president who survived impeachment for trying to stack the deck against his most-feared election opponent is now facing impeachment again for inciting his supporters to attack Capitol Hill to challenge that same opponent's victory.\n    \n"
+    publishedDateTime: 2021-02-09T15:57:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/izbEdxYb6RE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/first-trump-impeachment-vs-second/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/first-trump-impeachment-vs-second/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200205162637-07-senate-floor-0205-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
