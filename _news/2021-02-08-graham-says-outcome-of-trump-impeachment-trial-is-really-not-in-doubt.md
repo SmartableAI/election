@@ -111,6 +111,22 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "Trump impeachment: trial to open with debate on whether it is constitutional – live updates"
+    excerpt: "Senate sets aside up to four hours for arguments on whether a former president can be tried"
+    publishedDateTime: 2021-02-09T08:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 115
+    images:
+      - url: "https://i.guim.co.uk/img/media/e5bb98598857d3b078e93805afd1297fb3cf8da6/243_30_2466_1480/master/2466.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6106651492e12a1bc5c9c7c3dfa835b8"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Capitol rioter \"horrendously smitten\" by Trump willing to speak at impeachment trial, lawyer says"
     excerpt: "The words of Trump supporters who are accused of participating in the riot may end up being used against him in his impeachment trial."
     publishedDateTime: 2021-01-29T13:09:00Z

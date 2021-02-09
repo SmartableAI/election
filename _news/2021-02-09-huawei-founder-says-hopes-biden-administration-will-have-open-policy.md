@@ -1,0 +1,53 @@
+---
+category: news
+title: "Huawei founder says hopes Biden administration will have 'open policy'"
+excerpt: "Huawei Technologies' founder Ren Zhengfei said on Tuesday it would be \"extremely difficult\" for the United States to end the sanctions that have crippled its phone business, but that he hoped the new U."
+publishedDateTime: 2021-02-09T09:37:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-huawei-tech-idUSKBN2A90AY"
+webUrl: "https://www.reuters.com/article/us-usa-huawei-tech-idUSKBN2A90AY"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A90AY"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A90AY"
+type: article
+quality: 125
+heat: 145
+published: true
+
+provider:
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550827940&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH18068"
+    width: 801
+    height: 545
+    isCached: true
+
+related:
+  - title: "Maryland Senators See Joe Biden's Immigration Policy as Key To Grant Citizenship To TPS Holders"
+    excerpt: "The SECURE Act would provide a pathway to permanent resident status for over 400,000 immigrants who have Temporary Protected Status after fleeing natural disasters and civil unrest in their home countries."
+    publishedDateTime: 2021-02-09T02:44:00Z
+    webUrl: "https://www.newsweek.com/maryland-senators-see-joe-bidens-immigration-policy-key-grant-citizenship-tps-holders-1567754"
+    ampWebUrl: "https://www.newsweek.com/maryland-senators-see-joe-bidens-immigration-policy-key-grant-citizenship-tps-holders-1567754?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/maryland-senators-see-joe-bidens-immigration-policy-key-grant-citizenship-tps-holders-1567754?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1728926/maryland-senators-hollen-cardin-immigration-citizenship-bill.jpg"
+        width: 3000
+        height: 2333
+        isCached: true
+
+secured: "QKtdhcoZ005d6v+zFiXdNCaAiC0Z0QCuYEDYVAZDdr44p5rysqD8/cBGDqMzmTwMlffGFXNapODVdWIANdXDY9BGpRIHXbIA1QV9TmfyD1WGoNqwlI2dFFBLM0yc2k3ITkx1EwEokRfYV3kIb3bxWa4lweg/A6cfTeKXVISMoEWtXqckW0QsJ1YwwBOyTX8gTOrJVh3VpDauCyrbWOwCVDOf2WtrpWTDaClJj6IvbyoQm4m62hgkJym1CdpDpecaHRJBtQsMzFKO83/goNsdFBhbJweiReampYylq5cML/JmudFYuCP5jf9azoXtOsOXcTqZbOMoTK3XkofZfLz/qFWePLJXm9oxtZZkJi/R9Fs=;IFij5oy2oOBQAWCjXFlMIw=="
+---
+

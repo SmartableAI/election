@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Lisa Murkowski Backs Liz Cheney's Call for GOP to Move On: 'Donald Trump Is Gone'"
+    excerpt: "The Alaska senator has said the party is more than the former president, as the Republican lawmakers who voted for impeachment insist they have no regrets."
+    publishedDateTime: 2021-02-09T10:51:00Z
+    webUrl: "https://www.newsweek.com/lisa-murkowski-impeachment-donald-trump-liz-cheney-1567794"
+    ampWebUrl: "https://www.newsweek.com/lisa-murkowski-impeachment-donald-trump-liz-cheney-1567794?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lisa-murkowski-impeachment-donald-trump-liz-cheney-1567794?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1729167/us-capitol-building.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Former GOP Officials Warn of 'Permanent Stain' on Republicans if Trump's Not Held Accountable"
     excerpt: "\"Donald Trump blatantly violated his oath to protect and defend the Constitution,\" the group of Republicans and conservatives said."
     publishedDateTime: 2021-02-02T18:56:00Z

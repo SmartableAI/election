@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Inside Kamala Harris' historic first days"
-excerpt: "In the hours after her historic inauguration, Kamala Harris beamed into televisions across the country, delivering her first speech as vice president just steps beyond the sitting relic of Abraham Lincoln and a short distance from where Dr. Martin Luther King Jr. shared his iconic words that inspired"
-publishedDateTime: 2021-01-24T14:06:42Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tDjeqpkzK_0/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tDjeqpkzK_0/index.html"
+excerpt: "(CNN)In the hours after her historic inauguration, Kamala Harris beamed into televisions across the country, delivering her first speech as vice president just steps beyond the sitting relic of ..."
+publishedDateTime: 2021-01-24T11:31:00Z
+originalUrl: "https://edition.cnn.com/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
+webUrl: "https://edition.cnn.com/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
 type: article
-quality: 185
-heat: 285
+quality: 135
+heat: 135
 published: true
 
 provider:
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Democratic Voice
   - Kamala Harris
+  - Democratic Voice
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120130215-harris-emhoff-lincoln-memorial-0120-super-tease.jpg"
@@ -31,84 +31,6 @@ images:
     height: 619
     isCached: true
 
-related:
-  - title: "How Kamala Harris Rose — and Rose"
-    excerpt: "Kamala’s Way” is the story of Harris’s dramatic political career, as told by the longtime California journalist Dan Morain."
-    publishedDateTime: 2021-02-01T19:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/27/books/review/McGirr/McGirr-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Kamala Harris Casts Her First Tie-Breaking Vote"
-    excerpt: "It was, somehow, a setting simultaneously dramatic and anticlimactic for Vice President Kamala Harris’s first tiebreaking vote in the Senate: just before dawn in a sparsely filled chamber, at the end of a 15-hour session in which senators voted on dozens of amendments to one of the largest stimulus packages in American history."
-    publishedDateTime: 2021-02-05T15:12:00Z
-    webUrl: "https://www.nytimes.com/2021/02/05/us/kamala-harris-senate-vote.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/05/us/kamala-harris-senate-vote.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/kamala-harris-senate-vote.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/05/us/politics/05vid-kamala-harris-senate/05vid-kamala-harris-senate-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Kamala Harris became the first Black, South Asian VP with 'firsts' surrounding her"
-    excerpt: "Harris, a former California attorney general and U.S. senator, is used to breaking barriers. Her swearing in as vice president was no different."
-    publishedDateTime: 2021-01-20T20:48:00Z
-    webUrl: "https://www.nbcnews.com/news/nbcblk/kamala-harris-became-first-black-south-asian-vp-firsts-surrounding-n1254913"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254913"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254913"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_03/3443570/210120-kamala-harris-ew-1150a_4ed1a234f8d2967580217557239df534.jpg"
-        width: 2500
-        height: 1611
-        isCached: true
-  - title: "Kamala Harris Breaks Senate Tie"
-    excerpt: "Vice President Kamala Harris returned to the Senate, and casted a tiebreaking vote to pass a Covid relief budget measure."
-    publishedDateTime: 2021-02-05T15:32:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007589338/kamala-harris-breaks-senate-tie.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/05/us/politics/05vid-kamala-harris-senate/05vid-kamala-harris-senate-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Kamala Harris Breaks Senate Tie"
-    excerpt: "Vice President Kamala Harris returned to the Senate, and cast a tiebreaking vote to pass a Covid relief budget measure."
-    publishedDateTime: 2021-02-05T17:56:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007589338/kamala-harris-breaks-senate-tie.html?playlistId=video/us-politics"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/05/us/politics/05vid-kamala-harris-senate/05vid-kamala-harris-senate-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
-        isCached: true
-
-secured: "mJ0ETJ56j7YBwmcEwCWjJ4O8rhbhLOLOfzljURl/2Xqe+AoA8bLBlj6s/RcGe8uvEO3VX6dpX3e8UmbsP7M9FfGk0QGl+8Oj+n7p3f67/J0MWxvPoQcWm8oWwNL+Sbp7TTTr1e6fr5bRRRE5UmRhk1lPYRmA7AwC9uWVzpphXRJJHWptJb0OeuqywzBlqNRzre0bFkKo13Am87Qhfj5VH/5HbiAiRMWVsDU/k3I66uWinEOEw1q5GWthXCch+oPwKN06IToqusPS72nffhqv2DO+N/ha02eivl+TiW85dVW8ugf+PNQxgzJ1Dg/EZ7APoKFJNQ5zMjH2Zmi4uVs/zbyK6pLnKNeNuIj4vxOWBNY=;Ah3nct0sGxU+aCP7DyizpA=="
+secured: "9JR0kwzx0weRs19Ntp5MMbbzf2/iX4DBxs9bzJlJ8gbkWUC87JcxCJkuB7WEce9U/JlkByoPbDg115SCABPRlBQAe05md26PQwKLja258smxdlnJ/B4zIn+eQA/F4c+a0dX1DR2vj5rpZZi469rnrSQr7RjjUoPVQDsbUUGL7QfFAhP7VPEOH+zWILWxLDQ97ZHLWtHoRyOgUMqDvT89YQ8b80azY0KIYEGtKc/KqShj3cIags0hYugZ+yS+jRYisGdBfJraeQODtqwlbQjZ+xEquxVTpwawTIMnzzpRWRZSBgiO9kpubX2nMSgczxMlo/vcrZ5SmKVHhhl+Su1k0VBDYo2iW7cl+x0+aGsdU28=;gAC5GdUKhdLXVOxFyJu68w=="
 ---
 

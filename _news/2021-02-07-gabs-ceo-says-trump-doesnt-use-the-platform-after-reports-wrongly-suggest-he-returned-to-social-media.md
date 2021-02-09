@@ -1037,6 +1037,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "What you need to know about Trump's 2nd impeachment trial and how to watch"
+    excerpt: "What this could mean for Trump Former President Donald Trump's historic second impeachment trial is set to begin Tuesday afternoon and will focus on his alleged role in inciting the deadly Capitol insurrection on Jan."
+    publishedDateTime: 2021-02-09T10:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-2nd-impeachment-trial-watch/story?id=75691638"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-2nd-impeachment-trial-watch/story?id=75691638"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-2nd-impeachment-trial-watch/story?id=75691638"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-rally-ellipse-ap-jt-210205_1612550598877_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump administration announces 11th-hour rewrite of desert conservation plan"
     excerpt: "The Bureau of Land Management on Wednesday announced proposed changes to the Desert Renewable Energy Conservation Plan."
     publishedDateTime: 2021-01-16T02:35:00Z
@@ -1571,6 +1587,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Explained: Donald Trump's second impeachment"
+    excerpt: "Donald Trump's second impeachment. Posted . As former president Donald Trump faces a second impeachment at the U.S. Senate, attorneys on both sides are pointin"
+    publishedDateTime: 2021-02-09T02:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDYSH8IV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210209&i=OVDYSH8IV&r=OVDYSH8IV&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "EXPLAINER: What's ahead as Trump impeachment trial begins"
     excerpt: "Former President Donald Trump’s historic second impeachment trial begins Tuesday, forcing the Senate to decide whether to convict him of incitement of insurrection after a violent mob of his supporters laid siege to the U."
     publishedDateTime: 2021-02-09T06:37:00Z
@@ -1949,6 +1979,17 @@ related:
         width: 1024
         height: 658
         isCached: true
+  - title: "Senate Republicans Back Trump as Impeachment Trial Nears"
+    excerpt: "Donald Trump’s defenders in the Senate are rallying around the former president before his impeachment trial, dismissing it as a waste of time and arguing the former president’s fiery speech before the Capitol insurrection does not make him responsible for the violence of Jan."
+    publishedDateTime: 2021-02-09T10:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-07/senate-republicans-back-trump-on-eve-of-impeachment-trial"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-07/senate-republicans-back-trump-on-eve-of-impeachment-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-07/senate-republicans-back-trump-on-eve-of-impeachment-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "US Plans to Reengage With UN Rights Council, Reversing Trump"
     excerpt: "The Biden administration has announced plans to reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago."
     publishedDateTime: 2021-02-08T22:41:00Z

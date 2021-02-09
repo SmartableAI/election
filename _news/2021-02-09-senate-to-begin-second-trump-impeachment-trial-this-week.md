@@ -536,6 +536,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Second Trump Impeachment Trial Opens With Debate Over Senate’s Power"
+    excerpt: "Democratic impeachment managers are set to argue that a president isn’t exempt from a trial just because impeachable actions occurred in the final weeks of the administration."
+    publishedDateTime: 2021-02-09T10:41:00Z
+    webUrl: "https://www.wsj.com/articles/second-trump-impeachment-trial-opens-with-debate-over-senates-power-11612866603"
+    ampWebUrl: "https://www.wsj.com/amp/articles/second-trump-impeachment-trial-opens-with-debate-over-senates-power-11612866603"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/second-trump-impeachment-trial-opens-with-debate-over-senates-power-11612866603"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-296734/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Lawyers Call Impeachment Trial ‘Political Theater’"
     excerpt: "Lawyers for former President Donald Trump argued it is unconstitutional to impeach a former president and declared the coming Senate trial “political theater” in a pretrial brief Monday that offered the fullest picture of their defense."
     publishedDateTime: 2021-02-08T18:40:00Z

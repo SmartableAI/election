@@ -32,19 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Inside Kamala Harris' historic first days"
-    excerpt: "In the hours after her historic inauguration, Kamala Harris beamed into televisions across the country, delivering her first speech as vice president just steps beyond the sitting relic of Abraham Lincoln and a short distance from where Dr. Martin Luther King Jr. shared his iconic words that inspired"
-    publishedDateTime: 2021-01-24T14:06:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tDjeqpkzK_0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
+  - title: "Harris flexes power as Senate tiebreaker"
+    excerpt: "Early Friday morning, Vice President Kamala Harris did something Joe Biden never did in his eight years as vice president -- cast a tie-breaking vote.\n    \n"
+    publishedDateTime: 2021-02-06T14:58:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wz-Iz1Zy3xE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120130215-harris-emhoff-lincoln-memorial-0120-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205191617-harris-breaks-tie-screengrab-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House reached out to Manchin after Harris' West Virginia interview"
+    excerpt: "The White House called Democratic Sen. Joe Manchin after Vice President Kamala Harris conducted interviews with West Virginia media, according to a person with knowledge of the conversation.\n    \n"
+    publishedDateTime: 2021-02-01T18:24:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WK9xAdK4zls/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-manchin-white-house-call/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-manchin-white-house-call/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201165657-manchin-harris-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,21 +80,21 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Kamala Harris became the first Black, South Asian VP with 'firsts' surrounding her"
-    excerpt: "Harris, a former California attorney general and U.S. senator, is used to breaking barriers. Her swearing in as vice president was no different."
-    publishedDateTime: 2021-01-20T20:48:00Z
-    webUrl: "https://www.nbcnews.com/news/nbcblk/kamala-harris-became-first-black-south-asian-vp-firsts-surrounding-n1254913"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254913"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254913"
+  - title: "How Kamala Harris is flexing tie-breaker powers"
+    excerpt: "Just weeks into the Biden administration, Vice President Kamala Harris has already had to cast a tie-breaking vote in the Senate. CNN's Arlette Saenz reports."
+    publishedDateTime: 2021-02-06T19:55:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/02/06/kamala-harris-senate-tiebreaker-saenz-dnt-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/06/kamala-harris-senate-tiebreaker-saenz-dnt-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/06/kamala-harris-senate-tiebreaker-saenz-dnt-nr-vpx.cnn"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
+      name: CNN
+      domain: cnn.com
+    quality: 135
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_03/3443570/210120-kamala-harris-ew-1150a_4ed1a234f8d2967580217557239df534.jpg"
-        width: 2500
-        height: 1611
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205062303-screengrab-01-kamala-harris-senate-budget-vote-0205-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Kamala Harris Breaks Senate Tie"
     excerpt: "Vice President Kamala Harris returned to the Senate, and casted a tiebreaking vote to pass a Covid relief budget measure."

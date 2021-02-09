@@ -2598,6 +2598,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Vice President Kamala Harris steps into history as first woman of color to hold the office"
+    excerpt: "WASHINGTON – Vice President Kamala Harris took the oath office in a barrier-breaking ceremony Wednesday, becoming the first woman, first Black American and first South Asian American to hold ..."
+    publishedDateTime: 2021-01-21T20:18:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2021/01/20/inauguration-vice-president-kamala-harris-first-female-person-color-sworn-in/4217882001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/4217882001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/4217882001"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/12596166-30c8-46df-82b2-337deadffdf6-USP_News-Inauguration__Biden_Harris_Inauguration.jpg?auto=webp&crop=2834,1595,x0,y193&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris says California’s water crisis is a racial injustice. Will she champion equity?"
     excerpt: "Racism is fueling disparities in access to safe water,” Senator Kamala Harris said before she was elected vice president."
     publishedDateTime: 2021-01-21T12:00:00Z

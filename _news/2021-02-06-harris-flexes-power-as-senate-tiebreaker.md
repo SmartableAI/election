@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html"
 type: article
 quality: 185
-heat: 225
+heat: 305
 published: true
 
 provider:
@@ -48,6 +48,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Kamala Harris Rose — and Rose"
+    excerpt: "Kamala’s Way” is the story of Harris’s dramatic political career, as told by the longtime California journalist Dan Morain."
+    publishedDateTime: 2021-02-01T19:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/books/review/kamalas-way-dan-morain.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/27/books/review/McGirr/McGirr-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Kamala Harris Casts Her First Tie-Breaking Vote"
+    excerpt: "It was, somehow, a setting simultaneously dramatic and anticlimactic for Vice President Kamala Harris’s first tiebreaking vote in the Senate: just before dawn in a sparsely filled chamber, at the end of a 15-hour session in which senators voted on dozens of amendments to one of the largest stimulus packages in American history."
+    publishedDateTime: 2021-02-05T15:12:00Z
+    webUrl: "https://www.nytimes.com/2021/02/05/us/kamala-harris-senate-vote.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/05/us/kamala-harris-senate-vote.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/kamala-harris-senate-vote.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/05/us/politics/05vid-kamala-harris-senate/05vid-kamala-harris-senate-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "How Kamala Harris is flexing tie-breaker powers"
     excerpt: "Just weeks into the Biden administration, Vice President Kamala Harris has already had to cast a tie-breaking vote in the Senate. CNN's Arlette Saenz reports."
     publishedDateTime: 2021-02-06T19:55:00Z
@@ -63,6 +95,34 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205062303-screengrab-01-kamala-harris-senate-budget-vote-0205-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Kamala Harris Breaks Senate Tie"
+    excerpt: "Vice President Kamala Harris returned to the Senate, and casted a tiebreaking vote to pass a Covid relief budget measure."
+    publishedDateTime: 2021-02-05T15:32:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007589338/kamala-harris-breaks-senate-tie.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/05/us/politics/05vid-kamala-harris-senate/05vid-kamala-harris-senate-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris Breaks Senate Tie"
+    excerpt: "Vice President Kamala Harris returned to the Senate, and cast a tiebreaking vote to pass a Covid relief budget measure."
+    publishedDateTime: 2021-02-05T17:56:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007589338/kamala-harris-breaks-senate-tie.html?playlistId=video/us-politics"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/05/us/politics/05vid-kamala-harris-senate/05vid-kamala-harris-senate-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "wb9FWx10ojnMIXh7krK5z9/ObIpRQIPATZyXNaKSLkfVZDblXuwEqInVXBLKZSGCdSX8QZfGNV45JwRwa8wC1j2+KE6P/z6gLeWygdevjDu8ru92T1HVI7MEvTq458PMk3W+kxrHXLB2nod6USvVce5N8bMTK2hSCsVtMiTTzZu2liUT84sOfJyEssTn3T84Czop6T2XCU6IRd7D34Y9cgNgIloIP0Pk4ZkRJ6qu0g1q1QABD0vNTg1W6HCyJtCygavD3f7Be3asA6uBRny3RzylAOz92vW0/ylpvz/Kx7OApOaEg0vvMjBO/BmrsYivtEVkBb+FrZS0Vt1DpZmB8q4oMJ4/uaAg2xn1z+S5S0U=;p2DXyghcSW2JnFbx6hoxYA=="

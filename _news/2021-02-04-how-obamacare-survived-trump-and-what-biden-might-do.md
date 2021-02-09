@@ -477,6 +477,22 @@ related:
         width: 810
         height: 545
         isCached: true
+  - title: "U.S. DOJ to ask 56 Trump-appointed attorneys to resign: CNN"
+    excerpt: "The U.S. Department of Justice, as soon as Tuesday, is expected to ask 56 attorneys appointed by former President Donald Trump to submit their resignations, CNN reported on Monday."
+    publishedDateTime: 2021-02-09T10:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-doj-biden/u-s-doj-to-ask-56-trump-appointed-attorneys-to-resign-cnn-idUSKBN2A90IU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A90IU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A90IU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550866810&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH180AC"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
     excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."
     publishedDateTime: 2021-02-01T20:31:00Z
@@ -584,6 +600,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5OFR74TGUUI6XOVYOB7YO2OXQU.jpg&w=1440"
         width: 1440
         height: 952
+        isCached: true
+  - title: "Surge of unaccompanied minors at border poses challenge for Biden administration"
+    excerpt: "The number of unaccompanied immigrant minors arriving at the border has spiked in recent months, posing a challenge to Joe Biden's immigration plans."
+    publishedDateTime: 2021-02-09T02:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/02/06/unaccompanied-minors-immigrant-biden-border-rise/4400666001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4400666001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4400666001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/06/25/USAT/b1eac302-0701-431e-a7da-d3face6c78b9-Immigration_Texas.JPG?auto=webp&crop=3935,2247,x0,y255&format=pjpg&width=1200"
+        width: 1200
+        height: 685
         isCached: true
   - title: "Donald Trump resigns from SAG-AFTRA: Read his full letter, actors' guild's response"
     excerpt: "Donald Trump is resigning from SAG-AFTRA after facing expulsion from the actors' union for inciting the Capitol riots Jan. 6."
