@@ -33,19 +33,19 @@ images:
 related:
   - title: "Dems propose $1,400 payments as part of Biden virus relief"
     excerpt: "Democrats on the House Ways and Means Committee are proposing an additional $1,400 in direct payments to individuals, bolstered unemployment benefits and more generous tax breaks for families with chi"
-    publishedDateTime: 2021-02-09T00:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/dems-propose-1400-payments-as-part-of-biden-virus-relief/2021/02/08/08087610-6a6c-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/dems-propose-1400-payments-as-part-of-biden-virus-relief/2021/02/08/08087610-6a6c-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dems-propose-1400-payments-as-part-of-biden-virus-relief/2021/02/08/08087610-6a6c-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    publishedDateTime: 2021-02-09T05:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/dems-propose-1400-payments-part-biden-virus-relief-75769191"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dems-propose-1400-payments-part-biden-virus-relief-75769191"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dems-propose-1400-payments-part-biden-virus-relief-75769191"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c5d7958f7d844df8ab38fd7848616b66_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Senate confirms Mayorkas as Biden's homeland security chief"
     excerpt: "The Senate confirmed Alejandro Mayorkas on Tuesday as President Joe Biden's homeland security secretary, the first Latino to fill a post that will have a central role in the government's response to ,"

@@ -368,6 +368,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "What to Watch for as Donald J. Trump’s Impeachment Trial Begins"
+    excerpt: "Debate will begin at 1 p.m. on Tuesday. Though the trial is expected to be fast-paced, oral arguments could stretch into next week."
+    publishedDateTime: 2021-02-09T05:01:00Z
+    webUrl: "https://www.nytimes.com/2021/02/09/us/politics/impeachment-trial-how-to-watch.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/09/us/politics/impeachment-trial-how-to-watch.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/09/us/politics/impeachment-trial-how-to-watch.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/08/us/politics/08dc-what-to-watch/08dc-what-to-watch-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Impeachment Case Argues Trump Was ‘Singularly Responsible’ for Capitol Riot"
     excerpt: "The House managers cited the Constitution’s framers in urging that Donald J. Trump be convicted and disqualified from holding office. Mr. Trump’s lawyers said the Senate had no jurisdiction."
     publishedDateTime: 2021-02-03T01:35:00Z

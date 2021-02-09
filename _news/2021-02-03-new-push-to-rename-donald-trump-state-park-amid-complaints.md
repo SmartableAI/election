@@ -959,6 +959,22 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "What to watch as Trump's 2nd impeachment trial kicks off"
+    excerpt: "Former President Donald Trump ’s second impeachment trial begins on Tuesday, a solemn proceeding that will force lawmakers to relive the violent events of Jan. 6 as House Democrats prosecute their case for “incitement of insurrection."
+    publishedDateTime: 2021-02-09T06:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/watch-trumps-2nd-impeachment-trial-kicks-off-75769153"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/watch-trumps-2nd-impeachment-trial-kicks-off-75769153"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/watch-trumps-2nd-impeachment-trial-kicks-off-75769153"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b6caa25fbf554a6ab0999b49410fd1e9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
     publishedDateTime: 2021-01-30T06:21:00Z
@@ -1541,6 +1557,28 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "EXPLAINER: What's ahead as Trump impeachment trial begins"
+    excerpt: "Former President Donald Trump’s historic second impeachment trial begins Tuesday, forcing the Senate to decide whether to convict him of incitement of insurrection after a violent mob of his supporters laid siege to the U."
+    publishedDateTime: 2021-02-09T06:37:00Z
+    webUrl: "https://www.businessinsider.com/explainer-whats-ahead-as-trump-impeachment-trial-begins-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/explainer-whats-ahead-as-trump-impeachment-trial-begins-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-whats-ahead-as-trump-impeachment-trial-begins-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Key arguments by Trump's lawyers ahead of impeachment trial"
+    excerpt: "Former President Donald Trump stands trial before the Senate this week on an impeachment charge that accuses him of inciting the deadly Jan. 6 riot at the U.S. Capitol."
+    publishedDateTime: 2021-02-09T06:37:00Z
+    webUrl: "https://www.businessinsider.com/key-arguments-by-trumps-lawyers-ahead-of-impeachment-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/key-arguments-by-trumps-lawyers-ahead-of-impeachment-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/key-arguments-by-trumps-lawyers-ahead-of-impeachment-trial-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Legal expert on Trump's First Amendment defense in impeachment trial"
     excerpt: "Lawyers for former President Donald Trump will argue that his rhetoric leading up to the assault on the Capitol on January 6 is protected by the First Amendment. Ilya Shapiro, director of the Robert A."
     publishedDateTime: 2021-02-08T20:15:00Z

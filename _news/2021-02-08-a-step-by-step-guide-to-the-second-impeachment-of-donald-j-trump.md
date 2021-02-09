@@ -366,6 +366,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "What to Watch for as Donald J. Trump’s Impeachment Trial Begins"
+    excerpt: "Debate will begin at 1 p.m. on Tuesday. Though the trial is expected to be fast-paced, oral arguments could stretch into next week."
+    publishedDateTime: 2021-02-09T05:01:00Z
+    webUrl: "https://www.nytimes.com/2021/02/09/us/politics/impeachment-trial-how-to-watch.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/09/us/politics/impeachment-trial-how-to-watch.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/09/us/politics/impeachment-trial-how-to-watch.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/08/us/politics/08dc-what-to-watch/08dc-what-to-watch-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."
     publishedDateTime: 2021-02-07T20:46:00Z
@@ -509,6 +525,6 @@ related:
         height: 773
         isCached: true
 
-secured: "sgdHiulc6hDJ4UGuWSgCv9a/MEzs7ICHr/isrt6INJuz+Imr0iqAlA7P+yOyG1dWLl2dDhxM6okH8aztr0mrMg9d0Pwa4raRBC2zxQPBNh8yo6kkLdBZLpseZi5R4ih7w99ZX/4yskplbtePAdD6GfW5T28B2qTNBNxgKPHZ8KgWy7yE3k52YL7oJ7pcSOWX4kDyAm1FF3J0X8xKFn1lefwWIIUjQGa7c9vjFr9ImD/y5PpcMrEIQFuRfiUEH4wEjJrfRSlI+ihDP/f0xeQ0G0UD4u0SfmSjv7khA76+pZn7W545CWGyJS9PzGjrmhb5Eq+IV645xH1VOwWIwD3lc6lHEodm76kd9NWwFZRNCts=;1z3E8jnHyoGLYtbtzvLc0g=="
+secured: "xCrDKNQ8TMSy3i32X+ArDlj3102ZV0WPiJUBlXMYsosUc42MSDsueXnEsqKdMj9KZ2pap8gLBxsbknIfnsRvPm5dgSq6wQgK3KrHQHa2mFU1nXBqaqWZkbuf6jL+8B/YuyRJ7omJy7OmD00nObpLXhjnp7YXb9k79IQYiZFsU7uu0SmO8Q0FyzD7BzEDXBFf/mXyzXFxmVu+JOdzls/mtbO9Hjddy0WYndG5rswx0fFWCAzK0PcUHI5SoUhP1BXNbsVEqZD6qqLyP3sigjIb/MjSRF/UxsysbVk/IMQ7Hi1w2RHv/AmyQMtoy1yN7+sE+PygjvreFARaW7pmM3j4Ry3DhhqdWNgNfShHO2r/DQKug+EkAYiHQ38nmQgKxSLjULVek2yT+5wpRCNSi1j+are5JA+4iegQuxQb4X+sQxo0hhPFCFLLtE8cCpLCmTSKUevaUPgwn3U6DVms4kDJi2RxeIBxoVEb5KL+8P1hDu+vn8Xm5FBN5zmkQn7BlufGdEBsrWvizgmLLK/0eCpiqw==;H9WLNtETq7xM3wRJMFSfbg=="
 ---
 

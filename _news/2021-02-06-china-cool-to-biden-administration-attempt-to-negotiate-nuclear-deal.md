@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "US attorney handling Hunter Biden probe asked to stay on, official says"
+    excerpt: "The Biden administration will ask U.S. attorneys appointed by President Trump to resign from their posts, but the prosecutor overseeing the tax probe tied to Hunter Biden, the president’s son, will remain in place, a senior Justice Department official told Fox News late Monday."
+    publishedDateTime: 2021-02-09T06:03:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b-G_DErjFvA/us-attorney-handling-hunter-biden-probe-asked-to-stay-on-official-says"
+    ampWebUrl: "https://www.foxnews.com/politics/us-attorney-handling-hunter-biden-probe-asked-to-stay-on-official-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-attorney-handling-hunter-biden-probe-asked-to-stay-on-official-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden administration to remove terrorist designation for Yemen's Houthi militia"
     excerpt: "The Biden administration said Friday that it is removing the terrorist designation for the Iranian-backed Houthi militia in Yemen -- reversing a move made in the final days of the Trump administration and the latest sign of a different approach to the war-torn Middle East. "
     publishedDateTime: 2021-02-06T13:54:28Z
