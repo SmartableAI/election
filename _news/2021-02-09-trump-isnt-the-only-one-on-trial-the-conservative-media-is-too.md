@@ -320,6 +320,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Denying Incitement, Trump Impeachment Team Says He Cannot Be Tried"
+    excerpt: "The lengthy legal brief provided the first extended defense of former President Donald J. Trump’s conduct since the Jan. 6 assault on the Capitol. It arrived as senators locked in rules for an exceedingly fast trial."
+    publishedDateTime: 2021-02-09T01:15:00Z
+    webUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-impeachment-legal-brief.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-impeachment-legal-brief.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/08/us/politics/trump-impeachment-legal-brief.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/08/us/politics/08dc-impeach1/08dc-impeach1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Watch live: Donald Trump impeachment trial in Senate"
     excerpt: "Watch live coverage of former President Donald Trump's impeachment trial as the Senate considers whether he can be held responsible for the Capitol riots."
     publishedDateTime: 2021-02-08T21:46:00Z

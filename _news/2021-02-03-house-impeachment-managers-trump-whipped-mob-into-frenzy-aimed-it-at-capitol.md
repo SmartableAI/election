@@ -29,38 +29,17 @@ images:
     isCached: true
 
 related:
-  - title: "House managers reject Trump impeachment brief: 'He betrayed the American people' – live"
-    excerpt: "Polling shows slim majority of Americans want Trump convicted and barred from office"
-    publishedDateTime: 2021-02-08T20:35:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-6021711b8f0882db493fef36"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates"
+  - title: "Dems: Trump aimed 'loaded cannon' of supporters at Capitol"
+    excerpt: "Donald Trump endangered the lives of all members of Congress when he aimed a mob of supporters “like a loaded cannon” at the U.S. Capitol, House Democrats said Tuesday in making their most detailed case yet for why the former president should be convicted and permanently barred from office."
+    publishedDateTime: 2021-02-02T20:09:00Z
+    webUrl: "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
-    images:
-      - url: "https://i.guim.co.uk/img/media/f53e10ada477be2183e26f567e2cac2af4414528/271_94_5297_3178/master/5297.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fb527600bf70b7acda51a2517a391f50"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Majority of Americans say Trump should be convicted, barred from holding federal office in impeachment trial: POLL"
-    excerpt: "In a new ABC News/Ipsos poll, a majority of Americans support the Senate convicting former President Trump in his second impeachment trial, but the partisan gap persists."
-    publishedDateTime: 2021-02-07T14:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/majority-americans-trump-convicted-barred-holding-federal-office/story?id=75729878"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 103
-    images:
-      - url: "https://s.abcnews.com/images/Politics/donald-trump-marjorie-taylor-greene-extremism-02-gty-llr-210206_1612646373841_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "oNePQxSPrLl24jcsFCvSg/avQvpbbSTbSFgvr9iQz9iX6ienvy+np0HnD8n3V9PsTbNkUiSnEZHz2ssSQ8mrTVUqOgtYIIT+T2HR2VDzXwLcTIf+pbS/bsw4ZUcxc0ZtAzsM5SLee1wdMr9QjuFkiRTnAX4Ob0lEgBtfjRLxRyaRc+TVZV4ifo5K/B3XkbEWp+MvEqhCoo40WVUpwc24t22p53HcHllSVlQHdOEmSLNK4TpzO433kJjOdJVJg7JhspvMcg7u4CvfizmAiTB1qbkM3wBYNxDdbckiwRBJemrOXqklBQ126SpRvl08dqTFI4vaOhstmxAL0GDhi376IJpNeErdN3uvIsSGWaarrfI=;2HE7nnO1TDuXEsUy/Z6UAg=="
 ---

@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden tells veteran nurse she looks like a college freshman"
+    excerpt: "President Biden had an awkward, flirty moment Monday during a video conference event with health care workers in Arizona, during which he stopped to compliment one nurse for her youthful appearance — even gushing that she looks \"like a freshman.\""
+    publishedDateTime: 2021-02-09T03:00:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WD2OBbDS0YM/biden-veteran-nurse-college-freshman"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-veteran-nurse-college-freshman.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-veteran-nurse-college-freshman.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a980af4-9b3c-4524-8aba-bac0dd8b9894/21cf99ce-bd39-46b0-803a-4295ca4397b0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Senate committee advances Biden UN pick despite controversy over China speech"
     excerpt: "The Senate Foreign Relations Committee on Thursday approved President Biden’s U.N. ambassador nominee, Linda Thomas-Greenfield, but only after objections and a delay in the vote due to concerns raised by Republicans about a pro-China speech she once gave in 2019."
     publishedDateTime: 2021-02-04T17:52:28Z

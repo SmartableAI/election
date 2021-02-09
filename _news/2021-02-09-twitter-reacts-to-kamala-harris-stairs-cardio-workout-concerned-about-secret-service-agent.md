@@ -81,8 +81,8 @@ related:
         isCached: true
   - title: "Fact check: Kamala Harris did not say military would be used against Trump supporters"
     excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that she does not care about the constitution and will use federal law enforcement and the military against Trump supporters."
-    publishedDateTime: 2021-02-08T17:17:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-vp-quote-military/fact-check-kamala-harris-did-not-say-military-would-be-used-against-trump-supporters-idUSKBN2A81XM"
+    publishedDateTime: 2021-02-08T21:53:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-vp-quote-military-idUSKBN2A81XM"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A81XM"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A81XM"
     type: article
@@ -1192,6 +1192,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "BIZB4wIig2H8+IvFwhwXWHk9EPiou04ga8g6PbjoohiIEELfRalWbgsa1N+SHvI0hU2tJ3mP4rfv6L1u3Swbn3Zv6CLun/9zTXmK0npXMH27gbeSsx+AnZ2IgoHYo1EzvFfVPunZjzXw6OSejiL21AXScwRZgw6kuvk0+ktuTHntePREhsdp4k9BID/ZSjm+0QaDOdy3qtmM4Cn7e6RgSwuby+eNaQK/uuPd9LtWTd0VCJrIipuqZR9tsV93NkcpYwx/ODeBAdr4qWPoFx740lokRZGDDJ/eyHyjU8LJYBFIQL3YK2UG61mtpZRekG3VC/oCTysan9UXeyt1nwux+LErccfBJKfKi6RTMgPXNb0=;ReSkw40RUNl1GCkTSx0u4A=="
+secured: "5tcnCv/VnQsfwtVzNYfpOX3iOJJm6vw6hzg0XRxv+O86wIDNFYMAAflVfXvC+MM4+7bHxOYrDHudTuxea9ccgdLlALXx0WrzMWw6M34oe7LAIeSC9m8ApQLpR5B8wU0B9T9kJUog4+cH3p1Bh2efF5UJUACZBhbC2gVEEgzWY3n7/D/DeQv8BAod0Oi/lwpYGhkBtUdPA5ijwYiy1QGN6m/4zMxlVwCTvF2+0OqJ5DZn9cejlN/94GNKjdZhFYmUqXKTKjY4VzlFyDgdKXQMjZhC+rZSpao8/iVYOD+CRGUgYHSR1NORySRUemoJeOZFnz6KWyTlXy4nZSdrtyJIEXogofRI+SjymkCL4ioqh2ohRtzb+sgCS3mIkRkjqLsTjxWhr9lAXRfBez/7IVk9IdxStimc2KAmt+AAkhdfk2DkUdRphYbkadpszAN1JEBqR+ZHYVthgNCsor0F09f9deRCg0Q2SXeKTFHc6d1aA2h1OUwnFO55Z/I7jrcxO9w5BRaCDaXZoIarcnnE/V/KMw==;n8lp7HzbQUOXCBj0osc0xg=="
 ---
 

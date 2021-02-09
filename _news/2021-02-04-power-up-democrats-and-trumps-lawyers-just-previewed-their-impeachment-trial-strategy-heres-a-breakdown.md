@@ -1327,6 +1327,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "It’s not a typical trial. Lawyers in the Trump impeachment case will argue big constitutional questions."
+    excerpt: "The arguments by opposing lawyers in the Senate impeachment trial of former president Donald Trump this week are expected to revolve largely around a pair of constitutional questions: A First Amendment defense of his fiery speech ahead of the violent Jan."
+    publishedDateTime: 2021-02-09T04:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-impeachment-trial-constitutional-senate/2021/02/08/fb1c2a4e-6a09-11eb-ba56-d7e2c8defa31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-impeachment-trial-constitutional-senate/2021/02/08/fb1c2a4e-6a09-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-impeachment-trial-constitutional-senate/2021/02/08/fb1c2a4e-6a09-11eb-ba56-d7e2c8defa31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EEGQ4DTKIUI6XH4AHV3ENTQ3YA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Latest on the Trump administration"
     excerpt: "Watch \"Latest on the Trump administration; Trump's 46-minute video, FDA admin. Stephen Hahn meeting\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-12-03T18:42:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Fact check: Kamala Harris did not say military would be used against Trump supporters"
 excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that she does not care about the constitution and will use federal law enforcement and the military against Trump supporters."
-publishedDateTime: 2021-02-08T17:17:00Z
-originalUrl: "https://www.reuters.com/article/uk-factcheck-vp-quote-military/fact-check-kamala-harris-did-not-say-military-would-be-used-against-trump-supporters-idUSKBN2A81XM"
-webUrl: "https://www.reuters.com/article/uk-factcheck-vp-quote-military/fact-check-kamala-harris-did-not-say-military-would-be-used-against-trump-supporters-idUSKBN2A81XM"
+publishedDateTime: 2021-02-08T21:53:00Z
+originalUrl: "https://www.reuters.com/article/uk-factcheck-vp-quote-military-idUSKBN2A81XM"
+webUrl: "https://www.reuters.com/article/uk-factcheck-vp-quote-military-idUSKBN2A81XM"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A81XM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A81XM"
 type: article
@@ -1192,6 +1192,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "o2bRL4qoriwqD0bC0yPBsulz9Jn/FyIsORCdpmtPSa7gEtYJPSVSa0fadiRtCOLm3+x+/K3lOxCG1xhje4qwhP7wCtKCYBjeDqeikWD3s/pCwMP2ItZLG3e56lQYl5sXb0gXqOOOWjdNe3MxZ2XkrK7cYNmodqEGyRpiU0Pw2EBjFdFL7MiKGLLGpuAYI5ECGVuoAY2xPoHSjOIcw/IBRiviV9ENB3HXdooAufA1fsQ9MGyQaSIXvDlKJILU/P2gk0NJvh7Cc4IkGZO7gpwZh7oNAZGD0Y3hJSprnCXd396MjlmfMuJPvjc/9odwER6G6+/IfIAmGx93tr4n2THq4ek2VwhssT3Ar4tvSedyixI=;92LJnqNxpGVnsNgHxPcuzw=="
+secured: "sZpfsn1IDdXiVij1LPWCSSWbARads9Ejvh0ruZKEBTmd7dn4H9rN8jS60sOuiIiBnuH3mYu/WnH5n9xAomjLD0QGMFfvrxMbz/r8gQ2wP5SUQLWWUGP1tbE1Z0Vemo+HvzSDeyDwf66I3tXu5kiCjE1D/sfPOs1dZBw4sLvp6CUANk2YLeSrx0yhp36HaRLSd9EdjATColo0OQ3XMYPjwKV0ji9iU1tcBXd6CGstMdSfeE3ksS531eu4fPgTAplitJuYu8xAiBIftSvBADEAODbt1hE9pf4BNkXstJ8ncNfCfJwQPQc9puk4SwKt2Z4c46z+uP/i3ahc38kSyqsuOUorpjNPJQBb6gNrmuWNUnk=;WQNSfv+V/Q7Iq9AJSdvxJQ=="
 ---
 

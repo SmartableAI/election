@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 4665
+heat: 4685
 published: true
 
 provider:
@@ -2749,6 +2749,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden Administration to Ask Dozens of Trump-Appointed U.S. Attorneys to Resign"
+    excerpt: "Exempt from the decision are two top prosecutors overseeing politically sensitive inquiries, including the U.S. attorney leading the Hunter Biden tax probe."
+    publishedDateTime: 2021-02-09T04:48:00Z
+    webUrl: "https://www.wsj.com/articles/biden-administration-to-ask-dozens-of-trump-appointed-u-s-attorneys-to-resign-11612846069"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-administration-to-ask-dozens-of-trump-appointed-u-s-attorneys-to-resign-11612846069"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-administration-to-ask-dozens-of-trump-appointed-u-s-attorneys-to-resign-11612846069"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-296732/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump keeps denouncing election as Biden transition grinds on"
     excerpt: "If Trump is even mulling an inaugural counter-event, it means he recognizes that all of his efforts are likely to fail."

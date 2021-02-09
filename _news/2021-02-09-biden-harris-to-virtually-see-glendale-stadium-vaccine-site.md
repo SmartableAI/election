@@ -71,8 +71,8 @@ related:
         isCached: true
   - title: "Fact check: Kamala Harris did not say military would be used against Trump supporters"
     excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that she does not care about the constitution and will use federal law enforcement and the military against Trump supporters."
-    publishedDateTime: 2021-02-08T17:17:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-vp-quote-military/fact-check-kamala-harris-did-not-say-military-would-be-used-against-trump-supporters-idUSKBN2A81XM"
+    publishedDateTime: 2021-02-08T21:53:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-vp-quote-military-idUSKBN2A81XM"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A81XM"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A81XM"
     type: article
