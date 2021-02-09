@@ -192,6 +192,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mike Lee: Senate impeachment trial will end in Trump's acquittal"
+    excerpt: "Sen. Mike Lee, R-Utah, speculated that while former President Donald Trump will undergo a \"lengthy\" impeachment trial in the Senate, he will ultimately be acquitted of inciting an insurrection against the government."
+    publishedDateTime: 2021-02-09T17:25:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXg0IDKM2vw/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f588e6a6-8583-41e4-bca4-a5e461109c67/32606c3b-9f9d-4572-b4d1-7c156dfad540/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Senate approves impeachment timeline as Trump's second trial kicks off"
+    excerpt: "Former President Trump's impeachment is slated to continue throughout the weekend under a resolution authored by Senate Majority Leader Chuck Schumer and GOP Leader Mitch McConnell. "
+    publishedDateTime: 2021-02-09T18:22:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VaShlBhxmAE/senate-approves-impeachment-timeline"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-approves-impeachment-timeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-approves-impeachment-timeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump impeachment trial: Polls show slight majority support conviction"
     excerpt: "A narrow majority of Americans say they support a Senate conviction of former President Donald Trump in his impeachment trial, which starts Tuesday."
     publishedDateTime: 2021-02-09T15:41:29Z
@@ -839,6 +871,6 @@ related:
         height: 640
         isCached: true
 
-secured: "waWzXjRsy/eiMvS5zwKClxSVTBQk78+QpKWQYgymYex0ujjicYA29R5hWksFMzSYOPnyfuQ3U5/bLUG7hd3qjUjp+4r+oythbaC8Ouwtp3uHuuaEaO04ogxT7LKiyn6iEDQzkgVFHU1Ppwtfm2aPf6bNRPlUzdtQFYMa1pAp7PbXMcX9cPGOTgJ3K5uEiQitNnqoghzBosr4d6KdS64bS+I/lJACrfKCQNEY0tFI5GyTRibDufNIWGJC9NyJgBdrX3alIHyXCgtu9RMAo/Y8UeDG2RrKtyZ/RBD0XaOMk8rWfBnBiojbUGeMeBokokA1Qo+m1RAEJVt9KhySiU1ShOos1w9UyaqfBZlTiOkH3vU=;C6p0ZzLWCMTTcnKqbZe69g=="
+secured: "/UrYhMCB6ODhZp7ZrMCLvBxZCuCVii+jFy7d9g0xbSii8/BxHi/4QzpnyioVgQTKaTWizXyZ9W6fbFCtwHpbiVWgu3ZMe7/RZ7RODPdDO3TcM1Ad01bnYh8r5cbg6Z2iTFnKaaXqPdnbEk6WFSt6Oj1AsElL2MoYhbySfG73F6LWBmV6MjYvCoUnHjMV5iSDWEJ9SXjef2SwCRFq69U7jMvTEnyd9bDUeFKcz9539cT0gOem9eqGQijvGs1/ZuXdZguuWlyi/SEq5M8g1V1msLEAeCesymGGJW4Iztrr4NaUBmMnaCPT5Vh28gaqRMU2hkRzPG5IQfNY8n7VyHDTUTY4dwAPrPN0JDJ076v1iWUoeUorXyh+Mm7DU3waWy3xx2TnldetYzT9CdAY4cYugEQ70zBNLMwkf35bW1NP2GqY6DOJXBpnN54AQ8rUfTVvPqY7fqte5zJtX8otaw6XzK93nF1NQBEajOK2731MSM632CWAo7RmRNIQELDrxzAjBqg5aa7HJ0KmfU6NJQV9yA==;f5DiJ9KqIkw/SSRmlHsbew=="
 ---
 

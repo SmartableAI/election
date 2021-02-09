@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/us-houthis-terrorist-lis
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/us-houthis-terrorist-list/index.html"
 type: article
 quality: 182
-heat: 742
+heat: 762
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204144649-biden-blinken-harris-state-department-0204-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "CNN to host town hall with President Joe Biden"
+    excerpt: "Less than one month after taking office, President Joe Biden will participate in a CNN town hall in Milwaukee, Wisconsin, answering questions from Americans as the nation struggles to contain the coronavirus pandemic and jumpstart a troubled economy.\n    \n"
+    publishedDateTime: 2021-02-09T16:00:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JeY-p01wqP8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/cnn-town-hall-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/cnn-town-hall-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208160121-joe-biden-210205-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

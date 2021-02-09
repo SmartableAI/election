@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "House urged to limit presidential pardon power after Trump aided associates"
+    excerpt: "Democratic members of Congress pushing to limit the presidential pardon power called experts to give historical and legal perspectives on such action, with one historian suggesting that \"we must make it more difficult to use or dangle a pardon to cover up a crime by the president or his friends\" on Tuesday."
+    publishedDateTime: 2021-02-09T18:44:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N9qKIGLC1tY/congress-presidential-pardon-power-trump-steve-cohen"
+    ampWebUrl: "https://www.foxnews.com/politics/congress-presidential-pardon-power-trump-steve-cohen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-presidential-pardon-power-trump-steve-cohen.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020179680305.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden administration to remove terrorist designation for Yemen's Houthi militia"
     excerpt: "The Biden administration said Friday that it is removing the terrorist designation for the Iranian-backed Houthi militia in Yemen -- reversing a move made in the final days of the Trump administration and the latest sign of a different approach to the war-torn Middle East. "
     publishedDateTime: 2021-02-06T13:54:28Z

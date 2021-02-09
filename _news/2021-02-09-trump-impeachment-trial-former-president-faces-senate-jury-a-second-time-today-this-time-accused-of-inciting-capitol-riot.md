@@ -143,6 +143,22 @@ related:
         width: 867
         height: 545
         isCached: true
+  - title: "White House says Biden is too busy to pay much attention to Trump impeachment trial"
+    excerpt: "As Washington is consumed with the impeachment trial of the last president, the current one tries to look too busy to care."
+    publishedDateTime: 2021-02-09T18:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GXJYH2DKEQI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 1133
+        isCached: true
   - title: "Biden: Trump should not receive intelligence briefings due to his 'erratic behavior'"
     excerpt: "Biden says predecessor shouldn’t have access to briefings, which are traditionally offered to presidents even after leaving office"
     publishedDateTime: 2021-02-06T01:34:00Z
@@ -966,6 +982,20 @@ related:
     quality: 99
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/07/3d619469-8e54-43fa-ad3b-24e13afbdb20/thumbnail/1200x630/505bb1af941dbb58b77cd6a0c69f761f/0207-nod-biden-interview-641716-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Capitol security ramps up during former President Trump's second impeachment trial"
+    excerpt: "Capitol security is on high alert for any potential threats during the impeachment trial of former President Donald Trump. Officials say they are closely monitoring online activity and local gatherings to prevent a second attack on the U."
+    publishedDateTime: 2021-02-09T18:57:00Z
+    webUrl: "https://www.cbsnews.com/video/capitol-security-ramps-up-during-former-president-trumps-second-impeachment-trial/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/09/b1156740-0165-41df-9855-9ba84c034b2f/thumbnail/1200x630/78bf9eb7037e5161786da0c1a6b314ee/cbsn-fusion-capitol-security-ramps-up-during-former-president-trumps-second-impeachment-trial-thumbnail-642779-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -375,6 +375,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact check: Vice President Kamala Harris used 2 Bibles when she was sworn in"
+    excerpt: "After Vice President Kamala Harris’ historic swearing-in on Jan. 20, social media users started circulating claims that Harris purportedly refused to rest her hand on the Bible while taking ..."
+    publishedDateTime: 2021-01-23T11:16:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2021/01/22/kamala-harris-bible-swearing-in-inauguration/6674484002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6674484002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6674484002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/64dc4956-9db8-46ce-a3a8-376ae1b01ffe-XXX_RD1_5107.JPG?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris’ historic rise as U.S.’s first Black, Caribbean-American VP celebrated"
     excerpt: "Vice President-elect Kamala Harris, left, and Felicia Persaud, a long-time Caribbean activist during a virtual celebration of Harris’ historic rise ahead of Jan. 20, 2021 inauguration of U.S. President-elect Joe Biden. Courtesy of Invest Caribbean ..."
     publishedDateTime: 2021-01-18T00:27:00Z

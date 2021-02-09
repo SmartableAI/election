@@ -235,6 +235,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Trump's guilt is obvious', impeachment managers say in new legal brief – live"
+    excerpt: "President Trump’s pre-trial brief confirms he has no good defense’, write managers in riposte to Trump’s lawyers – follow live"
+    publishedDateTime: 2021-02-09T15:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 101
   - title: "Liz Cheney Voted to Impeach Trump. Now She's Under Pressure from Her Own Party"
     excerpt: "The fight for the future of the Republican party is here, and an early proxy battle is playing out in the House of Representatives."
     publishedDateTime: 2021-01-29T04:47:00Z

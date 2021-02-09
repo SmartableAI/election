@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Read House impeachment managers' reply to Trump's pretrial brief"
+    excerpt: "Ahead of Tuesday's opening arguments, House impeachment managers filed their final pretrial legal brief that rebutted the filing by President Donald Trump's team on Monday, in what amounts to a preview of the arguments that will play out in the Senate in the coming days.\n    \n"
+    publishedDateTime: 2021-02-09T16:41:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9pD-JiFkh1Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/house-impeachment-managers-reply-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/house-impeachment-managers-reply-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200115174929-02-house-managers-deliver-articles-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's trial set to rock Washington and echo through the ages"
     excerpt: "The simple question posed by Donald Trump's second impeachment trial that begins Tuesday is whether a president who loses reelection can get away with a violent coup attempt in a desperate bid to stay in power.\n    \n"
     publishedDateTime: 2021-02-09T12:09:36Z
@@ -430,6 +446,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/08/us/politics/08dc-what-to-watch/08dc-what-to-watch-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump's second impeachment trial: Day 1"
+    excerpt: "The second impeachment trial of former President Trump has just begun in the Senate. Senators will vote shortly on the rules agreed upon by leadership to govern the trial. Trump is the only US President to have ever been impeached twice."
+    publishedDateTime: 2021-02-09T17:12:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-09-2021/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-09-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-trial-02-09-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/95938029-2cc8-4a98-86cf-2cea1f699e6c.jpg"
+        width: 900
+        height: 506
         isCached: true
   - title: "Impeachment Case Aims to Marshal Outrage of Capitol Attack Against Trump"
     excerpt: "Armed with lessons from the last impeachment trial of Donald J. Trump, prosecutors plan a shorter, video-heavy presentation to confront Republicans with the fury they felt around the Capitol riot."

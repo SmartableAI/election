@@ -191,6 +191,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mike Lee: Senate impeachment trial will end in Trump's acquittal"
+    excerpt: "Sen. Mike Lee, R-Utah, speculated that while former President Donald Trump will undergo a \"lengthy\" impeachment trial in the Senate, he will ultimately be acquitted of inciting an insurrection against the government."
+    publishedDateTime: 2021-02-09T17:25:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXg0IDKM2vw/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f588e6a6-8583-41e4-bca4-a5e461109c67/32606c3b-9f9d-4572-b4d1-7c156dfad540/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Senate approves impeachment timeline as Trump's second trial kicks off"
+    excerpt: "Former President Trump's impeachment is slated to continue throughout the weekend under a resolution authored by Senate Majority Leader Chuck Schumer and GOP Leader Mitch McConnell. "
+    publishedDateTime: 2021-02-09T18:22:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VaShlBhxmAE/senate-approves-impeachment-timeline"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-approves-impeachment-timeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-approves-impeachment-timeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump's impeachment trial: Everything you need to know"
     excerpt: "Former President Donald Trump has been out of office for nearly three weeks, but he is still expected to command the full attention of the legislative branch and the country in the coming days as the Senate begins his second impeachment trial, barely one year after his first."
     publishedDateTime: 2021-02-09T11:23:02Z

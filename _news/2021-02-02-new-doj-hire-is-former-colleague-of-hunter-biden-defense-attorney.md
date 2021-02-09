@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/doj-official-former-colleague-hunte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -236,6 +236,20 @@ related:
     quality: 157
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba2bc4f9-b694-4326-9312-44524e136e49/cf153a2d-9a34-4de7-b7b1-2e2a0236c841/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House Republicans warn Biden of escalating migration crisis amid surge in border numbers"
+    excerpt: "EXCLUSIVE: More than 50 House Republicans on Tuesday warned President Biden of a brewing \"crisis\" of illegal migration at the southern border amid indications of a surge in numbers -- just as Biden has forged forward with a number of policies limiting border security and interior enforcement."
+    publishedDateTime: 2021-02-09T18:50:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UkSswvyffhE/house-republicans-biden-of-migration-crisis-border"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

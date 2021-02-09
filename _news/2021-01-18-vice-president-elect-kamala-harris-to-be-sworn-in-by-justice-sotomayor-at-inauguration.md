@@ -2536,6 +2536,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris Sworn in as Vice President of the U.S. Wearing Christopher John Rogers"
+    excerpt: "On Wednesday, Kamala Harris became the first female, first Black and first South Asian Vice President of the U.S. And she took the oath of office wearing a prominent Black American designer."
+    publishedDateTime: 2021-01-21T14:24:00Z
+    webUrl: "https://fashionista.com/2021/01/kamala-harris-inauguration-day-outfit"
+    ampWebUrl: "https://fashionista.com/.amp/2021/01/kamala-harris-inauguration-day-outfit"
+    cdnAmpWebUrl: "https://fashionista-com.cdn.ampproject.org/c/s/fashionista.com/.amp/2021/01/kamala-harris-inauguration-day-outfit"
+    type: article
+    provider:
+      name: Fashionista.com
+      domain: fashionista.com
+    quality: 68
+    images:
+      - url: "https://fashionista.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc4MzY5MDQyMzQ2NjgxOTYw/gettyimages-1297447410.jpg"
+        width: 620
+        height: 414
+        isCached: true
   - title: "'Washed out mess': Vogue puts Kamala Harris on the cover, but Twitter users aren't happy"
     excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
     publishedDateTime: 2021-01-10T22:39:00Z

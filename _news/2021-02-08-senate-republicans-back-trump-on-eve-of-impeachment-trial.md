@@ -985,6 +985,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Managers present dramatic new video of mob at Trump impeachment trial"
+    excerpt: "House impeachment managers showed a dramatic new video of the mob storming the Capitol in the opening minutes of President Trump's impeachment trial, as Democrats look to make the case that Trump must"
+    publishedDateTime: 2021-02-09T18:50:00Z
+    webUrl: "https://thehill.com/policy/national-security/538033-managers-present-dramatic-new-video-of-mob-at-trump-impeachment"
+    ampWebUrl: "https://thehill.com/policy/national-security/538033-managers-present-dramatic-new-video-of-mob-at-trump-impeachment?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/538033-managers-present-dramatic-new-video-of-mob-at-trump-impeachment?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/raskin.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "The Latest: Trump's 2nd impeachment trial opens in Senate"
+    excerpt: "Donald Trump’s historic second impeachment trial has opened in the Senate, with Democrats arguing that the former president should be convicted for inciting a violent mob of his supporters to attack the U."
+    publishedDateTime: 2021-02-09T18:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-aides-trump-impeachment-case-devastating-75777712"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-aides-trump-impeachment-case-devastating-75777712"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-aides-trump-impeachment-case-devastating-75777712"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1d0a1b0979aa44348e841200eb78065e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump impeachment trial to open with fight on constitutionality"
     excerpt: "Donald Trump's historic second impeachment trial, on a charge of inciting last month's deadly storming of the U.S. Capitol, opens on Tuesday with a debate over the constitutionality of the Senate trying a president after he has left office."
     publishedDateTime: 2021-02-09T16:18:00Z
@@ -1417,6 +1449,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'Because President Trump said to': Over 2 dozen Capitol rioters say they were following Trump's guidance"
+    excerpt: "As President Trump's second impeachment trial arrives, Senate Democrats are trying to tie a direct line between his rhetoric and the deadly attack on the Capitol."
+    publishedDateTime: 2021-02-09T18:06:00Z
+    webUrl: "https://abcnews.go.com/US/president-trump-dozen-capitol-rioters-trumps-guidance/story?id=75757601"
+    ampWebUrl: "https://abcnews.go.com/amp/US/president-trump-dozen-capitol-rioters-trumps-guidance/story?id=75757601"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/president-trump-dozen-capitol-rioters-trumps-guidance/story?id=75757601"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 108
+    images:
+      - url: "https://s.abcnews.com/images/US/jacob-chansley-01-gty-jc-210115_1610727185111_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Power Up: Democrats and Trump's lawyers just previewed their impeachment trial strategy. Here's a breakdown."
     excerpt: "This is the Power Up newsletter – thanks for waking up with us. Support our journalism. Subscribe today. 🚨: \"[T]he Biden administration plans to significantly raise the cap on refugees allowed into the United States every year,"
     publishedDateTime: 2021-02-03T16:36:00Z
@@ -1712,6 +1760,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "House managers deliver Trump's impeachment article"
+    excerpt: "House managers have walked the impeachment article for former President Donald Trump’s trial to the Senate. The managers plan to lay out a “devastating” case that is similar to a criminal prosecution in Trump’s second impeachment trial."
+    publishedDateTime: 2021-02-09T18:41:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/09/house-managers-deliver-trumps-impeachment-article/4453708001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c25f901e-8e77-4977-a575-dd3869b1acb6_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "House Managers To Present New Evidence At Trump Impeachment Trial"
     excerpt: "Aides say the Senate will hear evidence \"nobody has seen before\" related to incitement of the Jan. 6 insurrection. The former president's defense, however, argues the trial should not happen at all."
     publishedDateTime: 2021-02-09T16:27:00Z
@@ -1726,6 +1788,17 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Second impeachment trial of Donald Trump begins in US Senate – live"
+    excerpt: "Senate will hear arguments from the impeachment managers and the former president’s defense team over the next several days"
+    publishedDateTime: 2021-02-09T18:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6022d58e8f08b9d518c1e223"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
   - title: "Stimulus package and Trump impeachment divide lawmakers ahead of Senate trial"
     excerpt: "On Feb. 7, lawmakers and members of President Biden's Cabinet prepared for a week packed with the start of a second impeachment trial for former president Donald Trump and negotiations over coronavirus relief funds."
     publishedDateTime: 2021-02-07T23:36:00Z

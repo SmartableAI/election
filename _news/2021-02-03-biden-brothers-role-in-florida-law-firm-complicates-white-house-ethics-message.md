@@ -175,6 +175,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "White House says Biden is committed to an independent Justice Department"
+    excerpt: "White House Press Secretary Jen Psaki said on Tuesday the decision to leave two U.S. prosecutors in their posts reflects President Joe Biden's commitment to an independent Justice Department."
+    publishedDateTime: 2021-02-09T18:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-doj-biden-psaki-idUSKBN2A92NQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92NQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92NQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550925382&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181M8"
+        width: 817
+        height: 545
+        isCached: true
   - title: "U.S. Senate passes budget plan to advance Biden's $1.9 trillion COVID aid package"
     excerpt: "President Joe Biden's drive to enact a $1.9 trillion coronavirus aid bill gained momentum early on Friday as the U.S. Senate narrowly approved a budget blueprint allowing Democrats to push the legislation through Congress in coming weeks with or without Republican support."
     publishedDateTime: 2021-02-05T15:59:00Z

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "More than 80 civil rights organizations call on Biden to abolish the federal death penalty"
+    excerpt: "More than 80 nationally recognized criminal justice and civil rights advocacy organizations have joined in the call to President Joe Biden on Tuesday urging him to abolish the federal death penalty and commute the sentences of 49 death row inmates to life in prison.\n    \n"
+    publishedDateTime: 2021-02-09T18:48:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lKdgPLHwhdU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/80-organizations-anti-federal-death-penalty/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/80-organizations-anti-federal-death-penalty/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113014621-lisa-montgomery-death-penalty-activists-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Iran's U.N. ambassador says Iran is waiting for President Biden to make the first diplomatic move"
     excerpt: "The Biden administration needs to lift sanctions on Iran and return to the nuclear deal that Trump ditched, the Iranian ambassador to the U.N. says."
     publishedDateTime: 2021-01-26T09:24:00Z

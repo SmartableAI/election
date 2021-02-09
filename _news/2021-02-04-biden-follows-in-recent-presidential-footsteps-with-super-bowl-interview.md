@@ -383,6 +383,22 @@ related:
         width: 832
         height: 545
         isCached: true
+  - title: "Biden budget nominee Tanden faces two tough hearings this week"
+    excerpt: "Neera Tanden, U.S. President Joe Biden's nominee to head the Office of Management and Budget, faces what will likely be two contentious confirmation hearings this week, where Senate Republicans are expected to grill her about attacks on members of their party on social"
+    publishedDateTime: 2021-02-09T17:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb/biden-budget-nominee-tanden-faces-two-tough-hearings-this-week-idUSKBN2A91KS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A91KS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A91KS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550919960&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1819W"
+        width: 790
+        height: 545
+        isCached: true
   - title: "Biden to reopen Obamacare markets to offer medical coverage during pandemic"
     excerpt: "President Biden plans to reopen the HealthCare.gov markets for a special sign-up opportunity for people without medical coverage in the pandemic."
     publishedDateTime: 2021-01-27T10:13:00Z

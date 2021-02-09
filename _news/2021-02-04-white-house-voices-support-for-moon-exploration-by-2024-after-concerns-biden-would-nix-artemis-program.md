@@ -239,6 +239,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "House Republicans warn Biden of escalating migration crisis amid surge in border numbers"
+    excerpt: "EXCLUSIVE: More than 50 House Republicans on Tuesday warned President Biden of a brewing \"crisis\" of illegal migration at the southern border amid indications of a surge in numbers -- just as Biden has forged forward with a number of policies limiting border security and interior enforcement."
+    publishedDateTime: 2021-02-09T18:50:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UkSswvyffhE/house-republicans-biden-of-migration-crisis-border"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says Hunter's 'back' after extended battle with substance abuse"
     excerpt: "President Joe Biden revealed Sunday that his son Hunter's upcoming book gave him hope that his \"boy's back\" after an extended battle with substance abuse."
     publishedDateTime: 2021-02-07T21:15:00Z

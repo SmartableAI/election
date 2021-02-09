@@ -243,6 +243,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Trump's guilt is obvious', impeachment managers say in new legal brief – live"
+    excerpt: "President Trump’s pre-trial brief confirms he has no good defense’, write managers in riposte to Trump’s lawyers – follow live"
+    publishedDateTime: 2021-02-09T15:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 101
 
 secured: "sUtegarnIR46QHR19Q5qQR5beLnNiMQTC4IJe5Jo3BlqttNvr7zhWYNtnKCOycknRac12ID40PHtRq3nkK9TlAiucYBap/RV83Y3Brz16CfkzeEW5fzUTtkFs9fJQR2rvaqSvxWWkU5PaQu75IW3ou0zVYSoVO2b2tgdwstZAMHeEk7Sf8kcrvE+r1UK5xlERKk2yVpCQTPON9FFhRVj9NtDWZqA2JpsXyn1TJK04oQkmlA1MFxssoqd5CFLdqBrpeDKa7WFpug6ZnTsDMqDUbzhgjz9U2RoJHwWOq52dM91GwbCbLcC1GXWp2YDeFmupe+3p568ltRf8dJgS8C57YbrCj6jZkilegJDz3Q/TDQIm3NXpDLNSqDD1BIOey8BIJUQ8KKMaBL6H5xlgpjoAqWBGgtLXXs42FtcLIeRl0ikXmPzr69cyE21ijcSH2lql0Jd0Qcpx370fESZEdmqNwQ6aCDS6UXFH26Hl9BjjcredapeBflUjSsC6MNO+MtaWnRed0O2g7v9kC2YFXq0XQ==;fkzqPQUrmf08M79MkvtamQ=="
 ---

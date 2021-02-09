@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 1420
+heat: 1460
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550527703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141NW"
         width: 867
         height: 545
+        isCached: true
+  - title: "White House says Biden is too busy to pay much attention to Trump impeachment trial"
+    excerpt: "As Washington is consumed with the impeachment trial of the last president, the current one tries to look too busy to care."
+    publishedDateTime: 2021-02-09T18:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-trial/2021/02/08/e3d2ad9e-6a2d-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GXJYH2DKEQI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 1133
         isCached: true
   - title: "Biden: Trump should not receive intelligence briefings due to his 'erratic behavior'"
     excerpt: "Biden says predecessor shouldn’t have access to briefings, which are traditionally offered to presidents even after leaving office"
@@ -968,6 +984,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/JMJ3wH1ZaxO-yAZLkqUV2h6hHgQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FQM2MMXLIZDZZF2PSHNFRH4SVY.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Capitol security ramps up during former President Trump's second impeachment trial"
+    excerpt: "Capitol security is on high alert for any potential threats during the impeachment trial of former President Donald Trump. Officials say they are closely monitoring online activity and local gatherings to prevent a second attack on the U."
+    publishedDateTime: 2021-02-09T18:57:00Z
+    webUrl: "https://www.cbsnews.com/video/capitol-security-ramps-up-during-former-president-trumps-second-impeachment-trial/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/09/b1156740-0165-41df-9855-9ba84c034b2f/thumbnail/1200x630/78bf9eb7037e5161786da0c1a6b314ee/cbsn-fusion-capitol-security-ramps-up-during-former-president-trumps-second-impeachment-trial-thumbnail-642779-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump Impeachment Lawyers Named After 5 Members Of Defense Team Quit"
     excerpt: "Five of Trump's impeachment lawyers had left his legal team after he refused to steer away from using mass election fraud as his defense strategy."
