@@ -584,6 +584,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump impeachment trial: Day 1 schedule, time, and how to watch"
+    excerpt: "The second impeachment trial of former President Trump will kick off Tuesday, as Democrats and Republicans continue to spar over its merits. Just one year after the first failed effort by"
+    publishedDateTime: 2021-02-09T14:53:00Z
+    webUrl: "https://nypost.com/2021/02/09/trump-impeachment-trial-schedule-time-and-how-to-watch/"
+    ampWebUrl: "https://nypost.com/2021/02/09/trump-impeachment-trial-schedule-time-and-how-to-watch/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/09/trump-impeachment-trial-schedule-time-and-how-to-watch/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/impeachment-walkup-10.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Impeachment Trial: The Republican Senators to Watch"
     excerpt: "At least seven Republican senators appear to be in play to join what will likely be all Democrats in voting to convict."
     publishedDateTime: 2021-02-09T12:45:00Z

@@ -463,6 +463,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "82 advocacy groups call on Biden to end federal executions"
+    excerpt: "Dozens of civil rights and advocacy organizations are calling on the Biden administration to immediately halt federal executions after an unprecedented run of capital punishment under President Donald"
+    publishedDateTime: 2021-02-09T13:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/82-advocacy-groups-call-biden-end-federal-executions-75774393"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/82-advocacy-groups-call-biden-end-federal-executions-75774393"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/82-advocacy-groups-call-biden-end-federal-executions-75774393"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_06de2794f7b94fefb36e0794ce1bda58_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "U.S. DOJ to ask 56 Trump-appointed attorneys to resign: CNN"
     excerpt: "The U.S. Department of Justice, as soon as Tuesday, is expected to ask 56 attorneys appointed by former President Donald Trump to submit their resignations, CNN reported on Monday."
     publishedDateTime: 2021-02-09T10:51:00Z

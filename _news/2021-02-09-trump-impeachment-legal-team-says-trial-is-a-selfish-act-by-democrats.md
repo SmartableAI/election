@@ -240,17 +240,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Scholar Says Trump's Lawyers Misrepresented His Research in Preparing Impeachment Defense"
-    excerpt: "A legal scholar cited by Donald Trump's lawyers in arguing that it is unconstitutional to have an impeachment trial for a former president said Trump's defense team misrepresented his work \"quite badly."
-    publishedDateTime: 2021-02-09T02:46:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-08/trump-faces-trial-filing-deadline-as-second-senate-impeachment-proceeding-looms"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-08/trump-faces-trial-filing-deadline-as-second-senate-impeachment-proceeding-looms?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-08/trump-faces-trial-filing-deadline-as-second-senate-impeachment-proceeding-looms?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 46
 
 secured: "k9r/kMkQS5/CG+52zDzq4FCdg7bLNM+rmtEf3v+77QpaOmQNXnwl83bP8Qs0zqz1gYBAYoM5GVGnTXV7zQXCXZ0pEWKxBC+ae7tLact9yC8dguqk4iTXdgighz1zxJyfHecd1ixb4WdoyflRuyaGS5p7XNnVmGLLAbM3b7BlFLJiyzaBdkR4o6bBMg7b9Sh/yicLxcbFIejAQtPYWN/fMPyLk58RtafTHWjI4X8nqOiC4w13+S8BYUxK/rS2+gzctUxgpaKgcsSsIp5Y0vUc9b2TcfHDoMTLeSsHYOIUAkqRNrkysmN/h8RHdPsaQ2sDwV4YQ11ESEK3WdmmNEw34g55Au+Lf4N7p8Y4OJf6nQc=;LMVJS9TamjA8i/lX4vlAEg=="
 ---

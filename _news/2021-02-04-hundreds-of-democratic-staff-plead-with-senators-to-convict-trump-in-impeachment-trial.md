@@ -544,6 +544,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump's second impeachment trial, Democrats embrace big spending and saying goodbye to a Supreme trailblazer"
+    excerpt: "There is evidence that Covid-19 may have emerged outside of Wuhan, China, WHO team says after long-awaited fact-finding mission."
+    publishedDateTime: 2021-02-09T14:43:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/trump-s-second-impeachment-trial-democrats-embrace-big-spending-saying-n1257127"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257127"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257127"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 116
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3448692/210209-impeachment-mc-1146_31329143d6a8b3ce563beb58e6ca970a.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Democrats' big shift in Trump's second impeachment"
     excerpt: "Democrats made a push for witnesses central to President Donald Trump’s first impeachment trial. But not this time. Senate Democrats are making it clear they’re taking a different approach than they did for Trump’s infamous Ukraine call."
     publishedDateTime: 2021-02-07T12:06:00Z
@@ -571,6 +587,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/08/us/trump-second-impeachment-timeline-promo-1612812465076/trump-second-impeachment-timeline-promo-1612812465076-facebookJumbo-v8.png"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Live updates: Trump impeachment trial"
+    excerpt: "Donald Trump is staring down the threat of being barred from public office as the Senate embarks on an unprecedented second impeachment trial for the former president. Trump’s l"
+    publishedDateTime: 2021-02-09T14:28:00Z
+    webUrl: "https://www.politico.com/live-news-updates/2021/02/09/trump-impeachment-trial-live-updates-online-coverage-highlights-210209"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "tVnO/PpEfJVgvvkPu7QIGdJxhiXrpilcl8NPNCXFG2TNU+VJfektid1TTm5hqE4RVwG1l7A41LkJbokLatCPFScVJN/zRoSuQ15oJrTqSQbLazOfgxBu2q1D1wRJDFYPXc0yy9r04j24ojaP2qaP8qT0eqEahC38wSGqDL8R3FqwCJeD4TjAQjZ95pFyv2EAGBuKV+fhyNCtnWWxwsv2wdl5/z3+vhQA5PJ2kGXWoNLjCw2kdjtTBTDRBvmdJgLPP0rN5sq2US4KLjStBVJLXSK0tMAWO2o1nXV6e5BV9x4zSLb3rAbSPQ6HjggDLWZRGk8QiCp3x2XClhTjUt5zYky0WxD2WLGagL0SKY5SCC5Ze94pXSDHxiLZn/242H02S80c64ay/yQAZR3R4N38kRMAdce8fAwreM4bRt8zEX/FJWO9kuN1LjqUlZ3GbJQNPZ8dH3zRJThqskHJVXmy5D4ZjMGgGNEJ9opegIMKN3/p6tFwCOiyEbWah0hiTLZTbUMm36AxLxamlMxHbT0p8A==;ThDR5RYOFv0pOLNVxU86aA=="

@@ -239,17 +239,6 @@ related:
         width: 1024
         height: 649
         isCached: true
-  - title: "Scholar Says Trump's Lawyers Misrepresented His Research in Preparing Impeachment Defense"
-    excerpt: "A legal scholar cited by Donald Trump's lawyers in arguing that it is unconstitutional to have an impeachment trial for a former president said Trump's defense team misrepresented his work \"quite badly."
-    publishedDateTime: 2021-02-09T02:46:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-08/trump-faces-trial-filing-deadline-as-second-senate-impeachment-proceeding-looms"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-08/trump-faces-trial-filing-deadline-as-second-senate-impeachment-proceeding-looms?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-08/trump-faces-trial-filing-deadline-as-second-senate-impeachment-proceeding-looms?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 46
 
 secured: "PR4pml/aanNovYrTJrvnhAEeSiP86QXUYEm/UWazW7iBAzWedOnrTUUiw6dZS9plnrbGUHYpMT+3kKr0UPvr6DMs1a28Y+iLEg1KYMZkYSbCki0Xf2KRYgt0xWdSvcmFXanMwUe12zKUYKsMKCBrHVRtPEZk0P5utF5H9ZBghWeGdqOsykzq+r4wMxWn5Q6Z/eCVw2/nd0U0NjjRVZzcXNTnZiLefyeqjHnLiMBEefiPaMwVAKkuBX4wQWI+nmEH+lxLdl3Ghxrzu3+coSk7VNadA3C62HaMYngpssYlR61vr62NIv1KOYSas1wwlDw1QwlDTdRXlSlncMl5/ppFaH0zfj/v/ArHgH1czyyKI5IvtRUJqGRn2WgNnwYKSDW5fdsIRPuxBW15IitZ4CDVqdyynGca0Ks4fvP64J6de80BYwLKSpheK3bPdzgYJZGE/bmG67t/tuChGhsR5cI5NdZMRjBnXQ7Udx5teiiqNYBntNqNusFJPRxPZ1JNYO3hEv5zykvPaU9jRArRYkAXlg==;ymBgtEVzCGqO/7cmJTx7/A=="
 ---

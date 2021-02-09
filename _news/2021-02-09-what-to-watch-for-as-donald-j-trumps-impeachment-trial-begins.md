@@ -544,6 +544,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump's second impeachment trial, Democrats embrace big spending and saying goodbye to a Supreme trailblazer"
+    excerpt: "There is evidence that Covid-19 may have emerged outside of Wuhan, China, WHO team says after long-awaited fact-finding mission."
+    publishedDateTime: 2021-02-09T14:43:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/trump-s-second-impeachment-trial-democrats-embrace-big-spending-saying-n1257127"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257127"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257127"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 116
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3448692/210209-impeachment-mc-1146_31329143d6a8b3ce563beb58e6ca970a.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Democrats' big shift in Trump's second impeachment"
     excerpt: "Democrats made a push for witnesses central to President Donald Trump’s first impeachment trial. But not this time. Senate Democrats are making it clear they’re taking a different approach than they did for Trump’s infamous Ukraine call."
     publishedDateTime: 2021-02-07T12:06:00Z
@@ -572,7 +588,21 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Live updates: Trump impeachment trial"
+    excerpt: "Donald Trump is staring down the threat of being barred from public office as the Senate embarks on an unprecedented second impeachment trial for the former president. Trump’s l"
+    publishedDateTime: 2021-02-09T14:28:00Z
+    webUrl: "https://www.politico.com/live-news-updates/2021/02/09/trump-impeachment-trial-live-updates-online-coverage-highlights-210209"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
-secured: "TBacti3LqKfKAKFThHmIFkOPorL1eGyFgKc4RdhWoWyAJc2WgLNrpq2AHe74EEO+157Bkbx/FPANCOZl+OBjpCcaybsONzdqGb27rpfXEDmFdJgJyz6So9C+lpAv+3BUknmZEDdFWkDWqCq3CMFev3YtwLLcbSTAbDRkLqmMRLrqwP8Kw1Zt8l88znai5aaHmo/P7LPyRCsTUup0CEepitx6vEi30vzQSV9jFGDdQp3Z+YtIlpbbD++qWl2xb4GFfDQdJURZq0iSK0hIkxds+6scLGxfUBrt0X92OrH/4STK28GlopnuMfZssnR0ywm/qbsRQOuFG+93M7r6qOQCQjT/7ZLthrnrsBslU3akPRA=;UeUjrmTa6SbZVGckqSulaw=="
+secured: "RjVolidtTdGPAoIbb1I71QPHrrRRmOxrXdiArRx2LgPL2C6/TBA3LhGkvNDcsCLIr0R8aXWi6zssAtwuZytknpk8vw/VffAAnL8kbJcRaOcCvPEw+xBbBvzd+TfoSgaIKzzyd0okNyOiuOD+HffTs+yByfuetmZ0aLzST0zNoYLbyiqbzzeXf9Z3lLBybIkrh3JRlDfqW41mXv3D0fOcQgjWfFUTX1iUkNZ5WXSLeWbXSJ3ep2M87vXQ/jsjAwUSb+COmSZPYG/sO83et8L/Y7f4svjWbHrG5IcwUtZFI/ulG3PWnSo2zzfYUYPZKZqJvBHoAyBDL40mwB3yemi9D9su4OXzaVq5be51fCa+Qnw1EeaNFa3gws6h46gkduTaUXD6JYC4vwKASeAZfhOFbuY8CT+GX7Tk9OlQJSW8xkysTWP/j1yoHkER2vcKwdz3SYYDgYWKfv/ahMBcWsT7+JTXjR1c+jCzR6tS8kDYq3Fwx1JqsGznjUKU/kqeLOyqvn7qhr9LMRnCOZYh0w8zPw==;+2HzinBsAOqekLj4E+4hvA=="
 ---
 

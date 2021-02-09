@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pences-post-trump-administration-pl
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/"
 type: article
 quality: 150
-heat: 2790
+heat: 2810
 published: true
 
 provider:
@@ -1119,6 +1119,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/44e3ed01f816cd692014e0b3b8ff902fdb97b859/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=49f5ee587cfc815f0fb00920f3525dee"
         width: 600
         height: 360
+        isCached: true
+  - title: "Here's what to know about former President Donald Trump's second impeachment trial"
+    excerpt: "Democrats are determined to convict Trump in the wake of the deadly riot at the U.S. Capitol, but experts see acquittal as the likely outcome of the trial."
+    publishedDateTime: 2021-02-08T20:44:00Z
+    webUrl: "https://www.cnbc.com/2021/02/08/trump-impeachment-trial-heres-everything-you-need-to-know.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/08/trump-impeachment-trial-heres-everything-you-need-to-know.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/08/trump-impeachment-trial-heres-everything-you-need-to-know.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 119
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106821868-1610209397287-gettyimages-1195905625-_da24533.jpeg?v=1610209446"
+        width: 3417
+        height: 2278
         isCached: true
   - title: "Trump argues impeachment trial is unconstitutional, denies he violated oath of office"
     excerpt: "Former President Donald Trump has submitted his formal answer to the article of impeachment through his attorneys arguing that the trial is unconstitutional as he is out of office, denied the president violated his oath of office and said insufficient evidence \"exists upon which a reasonable jurist could conclude that the 45th President's statements were accurate or not,"

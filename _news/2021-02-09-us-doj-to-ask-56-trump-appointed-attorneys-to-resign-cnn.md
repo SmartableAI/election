@@ -479,6 +479,22 @@ related:
         width: 810
         height: 545
         isCached: true
+  - title: "82 advocacy groups call on Biden to end federal executions"
+    excerpt: "Dozens of civil rights and advocacy organizations are calling on the Biden administration to immediately halt federal executions after an unprecedented run of capital punishment under President Donald"
+    publishedDateTime: 2021-02-09T13:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/82-advocacy-groups-call-biden-end-federal-executions-75774393"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/82-advocacy-groups-call-biden-end-federal-executions-75774393"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/82-advocacy-groups-call-biden-end-federal-executions-75774393"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_06de2794f7b94fefb36e0794ce1bda58_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
     excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."
     publishedDateTime: 2021-02-01T20:31:00Z

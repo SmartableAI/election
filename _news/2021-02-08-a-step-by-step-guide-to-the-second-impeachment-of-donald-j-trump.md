@@ -558,6 +558,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump's second impeachment trial, Democrats embrace big spending and saying goodbye to a Supreme trailblazer"
+    excerpt: "There is evidence that Covid-19 may have emerged outside of Wuhan, China, WHO team says after long-awaited fact-finding mission."
+    publishedDateTime: 2021-02-09T14:43:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/trump-s-second-impeachment-trial-democrats-embrace-big-spending-saying-n1257127"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257127"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257127"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 116
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3448692/210209-impeachment-mc-1146_31329143d6a8b3ce563beb58e6ca970a.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Democrats' big shift in Trump's second impeachment"
     excerpt: "Democrats made a push for witnesses central to President Donald Trump’s first impeachment trial. But not this time. Senate Democrats are making it clear they’re taking a different approach than they did for Trump’s infamous Ukraine call."
     publishedDateTime: 2021-02-07T12:06:00Z
@@ -571,6 +587,20 @@ related:
       - url: "https://static.politico.com/35/62/ec905c2e47ddb53142efc00f6531/ap21021750258411.png"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Live updates: Trump impeachment trial"
+    excerpt: "Donald Trump is staring down the threat of being barred from public office as the Senate embarks on an unprecedented second impeachment trial for the former president. Trump’s l"
+    publishedDateTime: 2021-02-09T14:28:00Z
+    webUrl: "https://www.politico.com/live-news-updates/2021/02/09/trump-impeachment-trial-live-updates-online-coverage-highlights-210209"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "xCrDKNQ8TMSy3i32X+ArDlj3102ZV0WPiJUBlXMYsosUc42MSDsueXnEsqKdMj9KZ2pap8gLBxsbknIfnsRvPm5dgSq6wQgK3KrHQHa2mFU1nXBqaqWZkbuf6jL+8B/YuyRJ7omJy7OmD00nObpLXhjnp7YXb9k79IQYiZFsU7uu0SmO8Q0FyzD7BzEDXBFf/mXyzXFxmVu+JOdzls/mtbO9Hjddy0WYndG5rswx0fFWCAzK0PcUHI5SoUhP1BXNbsVEqZD6qqLyP3sigjIb/MjSRF/UxsysbVk/IMQ7Hi1w2RHv/AmyQMtoy1yN7+sE+PygjvreFARaW7pmM3j4Ry3DhhqdWNgNfShHO2r/DQKug+EkAYiHQ38nmQgKxSLjULVek2yT+5wpRCNSi1j+are5JA+4iegQuxQb4X+sQxo0hhPFCFLLtE8cCpLCmTSKUevaUPgwn3U6DVms4kDJi2RxeIBxoVEb5KL+8P1hDu+vn8Xm5FBN5zmkQn7BlufGdEBsrWvizgmLLK/0eCpiqw==;H9WLNtETq7xM3wRJMFSfbg=="

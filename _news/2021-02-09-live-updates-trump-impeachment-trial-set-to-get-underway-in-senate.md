@@ -127,6 +127,22 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "Scholar says Trump's lawyers misrepresented his research in preparing impeachment defense"
+    excerpt: "A legal scholar cited by Donald Trump's lawyers in arguing that it is unconstitutional to have an impeachment trial for a former president said Trump's defense team misrepresented his work \"quite badly."
+    publishedDateTime: 2021-02-09T14:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A81MA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A81MA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A81MA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550803947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171MN"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump impeachment: trial to open with debate on whether it is constitutional – live updates"
     excerpt: "Senate sets aside up to four hours for arguments on whether a former president can be tried"
     publishedDateTime: 2021-02-09T12:09:00Z
@@ -199,6 +215,6 @@ related:
       domain: time.com
     quality: 81
 
-secured: "+aJjOx4xUlnwZGFHsNyPCtORUDAfRxDAKK1BM0aQIe8KBMcMCwIGPt/o9Yx6nnoVfZ1V2h7IMafnWF/sPQ8+W+vsPl4ZMYDRPasZ1jZ2VnAsvNesoMgT6jjdBA9d8Iiql7wWwxm4oIrWwHJuv41U/m5d+u2w1N95DvZoY+YvVwoI4p5xMhnN27h6SfrkA7whsKMAjsSBjvvFO9SUn5vQ+SaXzklmZi3F/6RTC6hBYHpe2jwsi9yzUswcNiOzGEfjNiJGbiYjXx6bKhYqc01+latn1yyYpW3ym0WxoUNIGaXOU8ir6ieOllxnFPgvKCBPDQkXqa4K2r1Ms1M/qtLc51loOzlRueKpiTCb1Mmc/aY=;hOvs0+lpP8ODOR/7/X9HAw=="
+secured: "cT5yEVx4AtNV0yeRUXfNkdVNjcygGpznC6W5xmYjBO0a4EVmi6rRSxNTUVnPoHWy827Q9AA3weaY1rnOvi6ehjR3F/prV5dYyIVXWK/T9iEWBHp7s1MB2eE3YB+i+2qyU52meFbnFfa6OPY3DbzED2/I+GPHFBkwnEOSWw3GnLn/EaMfnBd27rrPDNWUl9cU58d9xN3N0kM26jssvZv138Il5BiXDbiBGRniU7PiNoiZHer8ngjM7CdChA38E3wAkxHqs4ZqjqC+5lpPGEXHp4BtjDqE5A6KBR3fwqgu7MbOS3fNasvTZC+QpxC/YDro4l2aecrInTpb8AryDrLco7dGKFn9DQ8L76V6cBNwAQuIAeWj4eEmtaW7W9SxpMIMIRVx5aEH/D4q0GuzvoOonaStDvIIkzr+iLsOEL187vlHpLdc7p7Riv5+nRyUoQDbA1Xj/IkZ2lCRp5cJ7e/BO/P1wWHno5SFsEZKYWFcdXZOTMdB9viaJ5ePsUzNgjlelHB93EyR3GtRh4YFWQ24MQ==;n2y/4G7bdqHzM1qwCip3gw=="
 ---
 

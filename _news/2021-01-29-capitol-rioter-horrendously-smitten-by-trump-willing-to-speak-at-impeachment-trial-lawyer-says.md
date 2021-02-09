@@ -143,6 +143,22 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "Scholar says Trump's lawyers misrepresented his research in preparing impeachment defense"
+    excerpt: "A legal scholar cited by Donald Trump's lawyers in arguing that it is unconstitutional to have an impeachment trial for a former president said Trump's defense team misrepresented his work \"quite badly."
+    publishedDateTime: 2021-02-09T14:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN2A81MA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A81MA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A81MA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550803947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171MN"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump impeachment: trial to open with debate on whether it is constitutional – live updates"
     excerpt: "Senate sets aside up to four hours for arguments on whether a former president can be tried"
     publishedDateTime: 2021-02-09T12:09:00Z

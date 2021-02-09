@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3730
+heat: 3750
 published: true
 
 provider:
@@ -1308,6 +1308,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122152703-04-biden-economy-0122-executive-order-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's Postmaster General wants to stay on the job, but his days in the Biden administration may be numbered"
+    excerpt: "Embattled Postmaster General Louis DeJoy has told those close to him he wants to stay in his role under the new president, two sources tell CNN, despite his troubled tenure at the helm of the US Postal Service and his background as a supporter and donor to former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-02-09T13:45:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2GiayhmMD64/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/usps-louis-dejoy-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/usps-louis-dejoy-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127191442-usps-shipping-delays-1223-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

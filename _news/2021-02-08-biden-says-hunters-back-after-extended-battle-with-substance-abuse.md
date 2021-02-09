@@ -176,6 +176,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden DOJ wants DC's acting US attorney to transition to special role for Capitol breach probe"
+    excerpt: "The Justice Department has signaled it wants acting U.S. attorney for the District of Columbia Michael Sherwin to stay on in some type of special prosecutor capacity to continue overseeing the Capitol breach investigation, sources familiar with the situation told Fox News."
+    publishedDateTime: 2021-02-09T13:10:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FlSAgtldL8Q/biden-doj-wants-dcs-acting-us-attorney-to-transition-to-special-role-for-capitol-breach-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-wants-dcs-acting-us-attorney-to-transition-to-special-role-for-capitol-breach-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-wants-dcs-acting-us-attorney-to-transition-to-special-role-for-capitol-breach-probe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rhode Island ranked worst state to do business under Biden Commerce Secretary nominee's leadership"
     excerpt: "Rhode Island was ranked among the top five worst places to do business in the U.S. during all four years Gina Raimondo, President Biden's nominee for secretary of commerce, was governor."
     publishedDateTime: 2021-01-27T19:26:51Z

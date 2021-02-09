@@ -1135,6 +1135,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Here's what to know about former President Donald Trump's second impeachment trial"
+    excerpt: "Democrats are determined to convict Trump in the wake of the deadly riot at the U.S. Capitol, but experts see acquittal as the likely outcome of the trial."
+    publishedDateTime: 2021-02-08T20:44:00Z
+    webUrl: "https://www.cnbc.com/2021/02/08/trump-impeachment-trial-heres-everything-you-need-to-know.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/08/trump-impeachment-trial-heres-everything-you-need-to-know.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/08/trump-impeachment-trial-heres-everything-you-need-to-know.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 119
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106821868-1610209397287-gettyimages-1195905625-_da24533.jpeg?v=1610209446"
+        width: 3417
+        height: 2278
+        isCached: true
   - title: "Fox News cancels Lou Dobbs’ show and is expected to part ways with the pro-Trump host"
     excerpt: "Fox News has canceled “Lou Dobbs Tonight,” the program hosted by television’s staunchest supporter of Donald Trump and of his assertions of voter fraud in the 2020 election, The Times has learned. Dobbs’ program,"
     publishedDateTime: 2021-02-06T00:03:00Z

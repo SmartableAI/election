@@ -558,6 +558,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump's second impeachment trial, Democrats embrace big spending and saying goodbye to a Supreme trailblazer"
+    excerpt: "There is evidence that Covid-19 may have emerged outside of Wuhan, China, WHO team says after long-awaited fact-finding mission."
+    publishedDateTime: 2021-02-09T14:43:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/trump-s-second-impeachment-trial-democrats-embrace-big-spending-saying-n1257127"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257127"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257127"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 116
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3448692/210209-impeachment-mc-1146_31329143d6a8b3ce563beb58e6ca970a.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "A Step-by-Step Guide to the Second Impeachment of Donald J. Trump"
     excerpt: "Here’s how Mr. Trump’s second impeachment has unfolded so far. The House passed the article of impeachment, impeaching Mr. Trump for the second time. Mr. Trump’s impeachment last month by the House was not the quickest in U."
     publishedDateTime: 2021-02-08T15:22:00Z
@@ -571,6 +587,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/08/us/trump-second-impeachment-timeline-promo-1612812465076/trump-second-impeachment-timeline-promo-1612812465076-facebookJumbo-v8.png"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Live updates: Trump impeachment trial"
+    excerpt: "Donald Trump is staring down the threat of being barred from public office as the Senate embarks on an unprecedented second impeachment trial for the former president. Trump’s l"
+    publishedDateTime: 2021-02-09T14:28:00Z
+    webUrl: "https://www.politico.com/live-news-updates/2021/02/09/trump-impeachment-trial-live-updates-online-coverage-highlights-210209"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "nkFyCVSn8BPb4g/zF4iFw0/Pma07Bd6rfXw32VjiBWUbSJC2wJmGYGUfP6e5NI/q11HRjxNGbBsdYZpgkYIxN10uZvJvrc9phHXJL/iTjjnUplgnL6oIwQ1WGhtj2M827OKR08UgV8ph6W9MfIi8eplGn4plXkq4xxLMoG9U1gqPSuz0CR8sinRZJYLSzjFd9A8VwRiLv9d4o/hJBzvy00wdyoxHaE6S9dbiS1ENBVHCQz+DYjCH7AAmtTyy9F3LmbfHBNQltVWKDXIbwGuCYKxcWaDsMkYu4EseEBb3g1bGpxcsQBuDiKUFNMj1VjEHScYoY0QcyNDi0bWKPYbeh5TVMRp3Ws9Pgj9K38A7Zq8=;DIWbJyjAQdU4U2YpgAzNNA=="
