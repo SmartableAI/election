@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/doj-official-former-colleague-hunte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Manchin pens letter to Biden asking him to reverse termination of Keystone XL pipeline"
+    excerpt: "Sen. Joe Manchin wrote a letter to President Biden Tuesday asking him to rethink his executive order revoking the Keystone XL pipeline permit. "
+    publishedDateTime: 2021-02-09T22:34:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cyb4wjosTWI/manchin-letter-biden-reverse-keystone-xl-pipeline-order"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-letter-biden-reverse-keystone-xl-pipeline-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-letter-biden-reverse-keystone-xl-pipeline-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Joe-Manchin-GETTY.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden DOJ pick Kristen Clarke railed against Sessions task force protecting religious liberty"
     excerpt: "Kristen Clarke, President Biden's choice to run the Justice Department's Civil Rights Division, has previously taken issue with the Justice Department's Religious Liberty Task Force."

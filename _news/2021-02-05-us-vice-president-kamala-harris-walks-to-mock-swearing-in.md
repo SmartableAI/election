@@ -409,6 +409,22 @@ related:
         width: 768
         height: 545
         isCached: true
+  - title: "Biden budget nominee regrets harsh tweets, vows to work with Republicans"
+    excerpt: "Neera Tanden, President Joe Biden's nominee to head the U.S. Office of Management and Budget, apologized on Tuesday for past attacks on Republicans on social media, which have been a focus of opposition to her nomination from members of that party."
+    publishedDateTime: 2021-02-09T22:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKBN2A91KS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A91KS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A91KS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550919960&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1819W"
+        width: 790
+        height: 545
+        isCached: true
   - title: "Biden to reopen Obamacare markets to offer medical coverage during pandemic"
     excerpt: "President Biden plans to reopen the HealthCare.gov markets for a special sign-up opportunity for people without medical coverage in the pandemic."
     publishedDateTime: 2021-01-27T10:13:00Z
@@ -1220,6 +1236,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "fNqMGrPTplwlvUDVYMEQiGm4tF3JUCodPwk928HwEdAgJV+00DlLuOg9lsoUPTU0kpi2DE6iQu2PX/1VuxQFBNMFPnFdweSiE5QssK6tFrLiXJvZ46GVkm2/rSmBEBlAp9BdImjrkWq6TDIeE0ypmTKCbO6oUwwMc0EZNZiUAVfUUHl4OLqRoaeZdDxHTBX3VTYjyfwVkk2L9dNp6dgtx87NNo5TluG08+gMhlbP8vL6NjMmnFLM7Sd9ILXRONY72MIHrhSVw3G1YxYukVHe14KuQg08qoL/7ldWDja4wSfBolYAIj+3Jor6PvDfG+DhOar3DVX5RqIXzKwD5sEk+7O2qGIxMox+KDEaFyEU0vg=;J4zkqVEzXQRGhw9MCg58GA=="
+secured: "H9aYZ/rCRQKR46xPP4WwWbjDVe64Z2fuXfNaZypbUhXM77VS2q8ydiKhAeeSkSg1GegEEb9SEbt2DYT1PwRD1OjGDkFZpFSFne7b0hShGi6VIHOjk9UXre/qaBXA7BrdaZ6H2bC41VJlxUWxDO3DXDkP4jEQIKInmRMTk9Y6yGZOD/Ys6DQpcNPP9wkuXahtBh1OcpxcNNzS32rAEFQ0fgKn/91XhuMYYsHg9/G2s4AD4um/uoQsydodYwgg+PqVJawLEhvu/TM0kd25LV2efnCstVHl94aogUSSZIfYtPAuJ0DJXiTvnTodNJfzW6PG9OIbK9+d87LO212cBsI7XBYBbcyA7dm5GA4wxZRj6ctSGZHyAC4uOlL9Voso95Y6b0U3vBWYMNicNsiOLKV8KN8i1/neL9EHOpDR1y7gu/LwuLS8MqoBAKQSScG/lEUY73xOISuZaYeN9R2J1DSb15qui/2w7lW79TsEd8BH+lbca1IPDdBD5d50KbxR17YHAhOPtZZpG0QWbDXSVD/C4w==;l3ItxBWy12Uezv5Lo5h9Bg=="
 ---
 

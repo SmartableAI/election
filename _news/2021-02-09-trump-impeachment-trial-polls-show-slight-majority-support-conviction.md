@@ -239,6 +239,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Senate votes Trump impeachment trial is constitutional"
+    excerpt: "The Senate voted Tuesday to move ahead with the unprecedented impeachment trial of former President Trump after listening to nearly four hours of arguments on whether it is constitutional to try a president who is already out of office. "
+    publishedDateTime: 2021-02-09T22:14:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XG3XPp3yLfc/senate-decides-constitutionally-of-trump-impeachment-trial-after-day-one-of-arguments"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-decides-constitutionally-of-trump-impeachment-trial-after-day-one-of-arguments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-decides-constitutionally-of-trump-impeachment-trial-after-day-one-of-arguments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff142e3-34ee-46df-8f7f-e92976220d66/6d133fea-0a5a-4be6-aaa7-f631defd19fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump's impeachment trial: Everything you need to know"
     excerpt: "Former President Donald Trump has been out of office for nearly three weeks, but he is still expected to command the full attention of the legislative branch and the country in the coming days as the Senate begins his second impeachment trial, barely one year after his first."
     publishedDateTime: 2021-02-09T11:23:02Z

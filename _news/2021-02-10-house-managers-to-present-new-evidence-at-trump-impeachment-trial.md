@@ -1005,6 +1005,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Second impeachment trial of Donald Trump begins in US Senate – live"
+    excerpt: "Senate will hear arguments from the impeachment managers and the former president’s defense team over the next several days"
+    publishedDateTime: 2021-02-09T18:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6022d4278f08add483193bcf"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/8fa0daea68bc778bba89bc54a748b1821ea441fa/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8af4ed55371a9cb466b21e8d62228d21"
+        width: 600
+        height: 360
+        isCached: true
   - title: "The Latest: Trump's 2nd impeachment trial opens in Senate"
     excerpt: "Donald Trump’s historic second impeachment trial has opened in the Senate, with Democrats arguing that the former president should be convicted for inciting a violent mob of his supporters to attack the U."
     publishedDateTime: 2021-02-09T18:42:00Z
@@ -1805,17 +1821,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Second impeachment trial of Donald Trump begins in US Senate – live"
-    excerpt: "Senate will hear arguments from the impeachment managers and the former president’s defense team over the next several days"
-    publishedDateTime: 2021-02-09T18:08:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6022cc778f081476baec4f7c"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
   - title: "Stimulus package and Trump impeachment divide lawmakers ahead of Senate trial"
     excerpt: "On Feb. 7, lawmakers and members of President Biden's Cabinet prepared for a week packed with the start of a second impeachment trial for former president Donald Trump and negotiations over coronavirus relief funds."
     publishedDateTime: 2021-02-07T23:36:00Z
@@ -1829,6 +1834,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-07-2021/t_9e6dc62d2dc6479f9a2d3691acac70b7_name_20210207_Sunday_1.jpg&w=1080"
         width: 1080
         height: 608
+        isCached: true
+  - title: "6 Republicans broke ranks and voted with Democrats to declare Trump's impeachment trial constitutional after the first day"
+    excerpt: "President Donald Trump's Senate impeachment trial over the Capitol siege began on Tuesday afternoon."
+    publishedDateTime: 2021-02-09T22:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-impeachment-trial-day-1-live-updates-watch-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-impeachment-trial-day-1-live-updates-watch-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-impeachment-trial-day-1-live-updates-watch-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/600ff19567a6bc0019d9af6e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "LIVE: House managers point out that a constitutional scholar who Trump's lawyers cited publicly struck down their arguments"
     excerpt: "President Donald Trump's Senate impeachment trial over the Capitol siege began on Tuesday afternoon."

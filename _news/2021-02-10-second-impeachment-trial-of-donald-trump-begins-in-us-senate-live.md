@@ -2,13 +2,13 @@
 category: news
 title: "Second impeachment trial of Donald Trump begins in US Senate – live"
 excerpt: "Senate will hear arguments from the impeachment managers and the former president’s defense team over the next several days"
-publishedDateTime: 2021-02-09T18:08:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6022cc778f081476baec4f7c"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6022cc778f081476baec4f7c"
+publishedDateTime: 2021-02-09T18:36:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6022d4278f08add483193bcf"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6022d4278f08add483193bcf"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://i.guim.co.uk/img/media/8fa0daea68bc778bba89bc54a748b1821ea441fa/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8af4ed55371a9cb466b21e8d62228d21"
+    width: 600
+    height: 360
+    isCached: true
 
 related:
   - title: "Pence's plans post-Trump administration take shape"
@@ -1829,6 +1835,22 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "6 Republicans broke ranks and voted with Democrats to declare Trump's impeachment trial constitutional after the first day"
+    excerpt: "President Donald Trump's Senate impeachment trial over the Capitol siege began on Tuesday afternoon."
+    publishedDateTime: 2021-02-09T22:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-impeachment-trial-day-1-live-updates-watch-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-impeachment-trial-day-1-live-updates-watch-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-impeachment-trial-day-1-live-updates-watch-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/600ff19567a6bc0019d9af6e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "LIVE: House managers point out that a constitutional scholar who Trump's lawyers cited publicly struck down their arguments"
     excerpt: "President Donald Trump's Senate impeachment trial over the Capitol siege began on Tuesday afternoon."
     publishedDateTime: 2021-02-09T19:58:00Z
@@ -2193,6 +2215,6 @@ related:
         height: 696
         isCached: true
 
-secured: "tWstPLhhXbmTm2xZEfpSLDT0bNadigXpFjsfSZ8Wx/TCzF0X74G6qxjQNKGDw1pvr/3l9YNbfxaP3nkQXjFM2sqSqtH/KwpYfjMeUi1LBdp4Awj9oQAJS/pfagY2NQCKOVtzTtrkg5E2TmhMTMQngypjmgoTk8D7PMbTWyevor6xfN8kACY6WArIFEKbJ3RnaNlUvjT+psMfk6YrksMgR+aEYERXKT9MULiaEXLnhfRhpqL0O4gOMIExmQGu9zIzmyCjjJ2bmlxHIoadVoLT93HfTTOB5x9e3eBQhB2aI86GPMvyPfbfnFnqs/FnaDrR+YuoWNn7Xa+nIXvNBGAwCSUX+XkdM1f+9snq/LjpLKl0HX8grcS6v7XpHmKm/Z8zZXwxDr/pu7csqIiHS331UctVAw+5C5wOaYWPI4RIopp9nZJWQvBhqPTywKh0VGNCkpxRYnVUV+yIskDzVjA+qhDneVLS5bxFIo9G3MEHl0JnExEVQREFOCooYsh2IhK+eTXBdIZ4lkWSLsKDJ+UnbQ==;OkfWv2f/zeVPyBcwIWKxZg=="
+secured: "PhQBKc1lZ/A+xiIeNGKjnKD4w7X2L87QaR2FYs8/PYKRCGhD2tLR15pCx9HoEw2KvosXPxWUOhEojsx+05pAjqGP24RFoI0yY7xTnGmI/CQB+hcif0ylPLyOiMWnl3lxDyQunhnRMm5cNXphOHfL39dferScaptOtMb5sOAa/jAUiNPfmxjHu73kzFf7P4N7u+GfMLA6XLvqLnzeGdqVfhGDWxp4WiZ5+mDBL94hQf/sXv168zO42W474R4v9xiXGVETe/nA/0yrb4AmiMF3UpyQIW45NXj40TlZjzjAa0jNWrokW6j4o0pIBUHz2kq1AQ5sSI/m0ctHYXwCm2JKcLXSxU5KzgJEVwgLgG9vf7c=;D04CvCDFuuCH/e8x49u/Ig=="
 ---
 

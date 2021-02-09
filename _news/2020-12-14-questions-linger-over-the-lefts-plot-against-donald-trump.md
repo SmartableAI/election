@@ -256,6 +256,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Trump's impeachment trial starts with opening statements"
+    excerpt: "The Senate impeachment trial of former President Donald Trump began on Tuesday with opening statements and debate between House impeachment managers and Trump's defense lawyers."
+    publishedDateTime: 2021-02-09T20:44:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-9-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-9-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-9-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff142e3-34ee-46df-8f7f-e92976220d66/6d133fea-0a5a-4be6-aaa7-f631defd19fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Trump supporters, counter-protesters in violent clash in DC"
     excerpt: "Follow for the latest updates on the D.C. protests."
     publishedDateTime: 2020-12-13T04:57:00Z

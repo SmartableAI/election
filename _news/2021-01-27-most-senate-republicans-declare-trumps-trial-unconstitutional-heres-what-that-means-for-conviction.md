@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "5 takeaways from Day 1 of Donald Trump's impeachment trial"
+    excerpt: "The second impeachment trial of former President Donald Trump opened promptly at 1 p.m. Tuesday, a historic moment that ensures the 45th President's place in history -- although not the way he would have hoped.\n    \n"
+    publishedDateTime: 2021-02-09T22:19:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cMf2iWXdgqY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/trump-impeachment-trial-day-1-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/trump-impeachment-trial-day-1-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103259-103-trump-january-6-rally-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "DOJ to ask Trump-appointed US attorneys to resign"
     excerpt: "Distrust of Trump-era appointees led the Biden administration to appoint a career Justice Department official as acting attorney general while it waits for the US Senate to confirm Merrick Garland, the President's nominee to lead the department.\n    \n"
     publishedDateTime: 2021-02-09T02:45:13Z
@@ -587,6 +603,22 @@ related:
     quality: 130
     images:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_03/3444361/210122-donald-trump-al-1405_c94071c5009019d8b6a364c44dfe16f0.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Democrats make case for trying Trump with disturbing riot video, defense sticks to constitutional argument"
+    excerpt: "Footage of the rioters was interspersed with scenes of Trump encouraging his supporters while speaking at the Jan. 6 rally and in footage posted to Twitter."
+    publishedDateTime: 2021-02-09T22:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/trump-impeachment-inquiry/trump-s-second-impeachment-trial-kick-tuesday-n1257119"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257119"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257119"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 117
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_06/3448772/210209-donald-trump-al-1051_fc694742af7eb32ef3526be0178aa57c.jpg"
         width: 2500
         height: 1667
         isCached: true

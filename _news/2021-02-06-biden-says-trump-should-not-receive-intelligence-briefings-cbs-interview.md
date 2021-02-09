@@ -511,6 +511,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Dem Sen. Manchin asks Biden to reverse Keystone XL rejection"
+    excerpt: "The new Democratic chairman of the Senate Energy Committee is urging President Joe Biden to reconsider his executive order revoking a presidential permit for the long-delayed Keystone XL oil pipeline"
+    publishedDateTime: 2021-02-09T21:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection/2021/02/09/7124a224-6b1e-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection/2021/02/09/7124a224-6b1e-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dem-sen-manchin-asks-biden-to-reverse-keystone-xl-rejection/2021/02/09/7124a224-6b1e-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden to meet Republicans on COVID-19 plan in test of bipartisan approach"
     excerpt: "President Joe Biden will meet 10 moderate Republican senators on Monday to discuss their proposal to shrink his sweeping $1.9 trillion U.S. COVID-19 relief package, even as Democrats prepare to push legislation through Congress without Republican support."
     publishedDateTime: 2021-02-01T20:31:00Z
@@ -526,6 +542,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549878405&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101NY"
         width: 819
         height: 545
+        isCached: true
+  - title: "Jill Biden pushes access to free community college and training programs"
+    excerpt: "Jill Biden is pushing access to free community college and training programs, particularly for those struggling during the COVID-19 pandemic."
+    publishedDateTime: 2021-02-09T14:10:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-02-09/jill-biden-pushes-free-access-to-community-college-training"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-02-09/jill-biden-pushes-free-access-to-community-college-training?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-02-09/jill-biden-pushes-free-access-to-community-college-training?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8a597df/2147483647/strip/true/crop/6720x4389+0+46/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3c%2F10%2F6ab04cbb497f057c01f636cf42fb%2Fe8d3f06f0ecf43f4b35602873924949f"
+        width: 320
+        height: 209
         isCached: true
   - title: "Biden to meet with Senate Republicans offering covid relief counter-proposal"
     excerpt: "The GOP proposal would significantly narrow eligibility for a new round of $1,400 stimulus checks Biden wants to send to individual Americans."

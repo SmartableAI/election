@@ -151,6 +151,22 @@ related:
         width: 813
         height: 545
         isCached: true
+  - title: "Trump incited Capitol riot further after it began, impeachment prosecutors will claim"
+    excerpt: "Ex-President Donald Trump is due to begin his Senate impeachment trial. He is charged with the Capitol riot that sought to undo the election of Joe Biden."
+    publishedDateTime: 2021-02-09T22:14:00Z
+    webUrl: "https://www.cnbc.com/2021/02/09/trump-impeachment-prosecutors-will-use-new-evidence-aides-say.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/09/trump-impeachment-prosecutors-will-use-new-evidence-aides-say.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/09/trump-impeachment-prosecutors-will-use-new-evidence-aides-say.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 118
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106822651-1610409078172-wind.jpg?v=1610409131"
+        width: 3000
+        height: 2043
+        isCached: true
   - title: "U.S. impeachment managers argue Trump pointed mob 'like a loaded cannon' toward Capitol"
     excerpt: "The U.S. House of Representatives Democrats who will prosecute former President Donald Trump's impeachment trial on charges of inciting insurrection will argue that he pointed a mob \"like a loaded cannon\" toward the Capitol before a deadly rampage."
     publishedDateTime: 2021-02-02T20:05:00Z
@@ -182,6 +198,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550803947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171MN"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump impeachment trial live updates: Former president's lawyers begin to make their case"
+    excerpt: "Former President Donald Trump ’s second impeachment trial kicks off today, beginning with a round of debate over whether the trial is constitutional. Starting tomorrow, each side will have up to 16 hours to make their case to the 100 senators who will decide whether to convict Trump on the charge of inciting the deadly Jan."
+    publishedDateTime: 2021-02-09T22:08:00Z
+    webUrl: "https://www.cnbc.com/2021/02/09/trump-impeachment-trial-live-updates-stream.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/09/trump-impeachment-trial-live-updates-stream.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/09/trump-impeachment-trial-live-updates-stream.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 116
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106837611-1612877355281-gettyimages-1230553516-AFP_8YM6KG.jpg?v=1612877368"
+        width: 4000
+        height: 2422
         isCached: true
   - title: "Trump impeachment: trial to open with debate on whether it is constitutional – live updates"
     excerpt: "Senate sets aside up to four hours for arguments on whether a former president can be tried"

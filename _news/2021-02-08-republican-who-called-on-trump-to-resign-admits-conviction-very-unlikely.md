@@ -79,6 +79,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump impeachment manager Raskin delivers tearful speech on family's experience at Capitol riot"
+    excerpt: "Rep. Jamie Raskin, the House’s lead manager of impeachment proceedings against former President Donald Trump, cited the terror experienced by members of his family during the Jan. 6 Capitol riot during a tearful argument in favor of conviction on the Senate floor on Tuesday afternoon."
+    publishedDateTime: 2021-02-09T21:12:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3tVSpSbEFDk/trump-impeachment-manager-raskin-tearful-speech-family-experience-capitol-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-manager-raskin-tearful-speech-family-experience-capitol-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-manager-raskin-tearful-speech-family-experience-capitol-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dems in Trump trial use graphic video of Capitol attack; Trump lawyers' video shows 'lust' for impeachment"
+    excerpt: "Democratic impeachment managers wasted no time reminding senators of the horrors of the violent Jan. 6 Capitol riot in an effort to make a vivid and personal case for conviction against former President Trump on charges he incited the insurrection. "
+    publishedDateTime: 2021-02-09T20:56:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OmRullqVeRs/democrats-in-trump-impeachment-trial-resort-to-graphic-video-of-police-under-attack-to-make-case"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-in-trump-impeachment-trial-resort-to-graphic-video-of-police-under-attack-to-make-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-in-trump-impeachment-trial-resort-to-graphic-video-of-police-under-attack-to-make-case.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21037485814593.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Who are the Democratic Trump impeachment managers?"
     excerpt: "The House Democratic impeachment managers include Jamie Raskin, Diana DeGette, David Cicilline, Joaquin Castro, Eric Swalwell, Ted Lieu, Stacey Plaskett, Madeleine Dean and Joe Neguse."
     publishedDateTime: 2021-02-05T12:51:00Z

@@ -448,6 +448,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden DOJ asks Trump-appointed US attorneys to resign"
+    excerpt: "President Biden and the Justice Department has asked U.S. attorneys appointed by former President Trump to resign from their posts by the end of the month, Fox News has learned."
+    publishedDateTime: 2021-02-09T21:13:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F1yYdaycs2Y/biden-doj-ask-trump-appointed-us-attorneys-to-resign-by-end-of-the-month-sources"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-ask-trump-appointed-us-attorneys-to-resign-by-end-of-the-month-sources.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-ask-trump-appointed-us-attorneys-to-resign-by-end-of-the-month-sources.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
     excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "
     publishedDateTime: 2021-01-21T09:24:25Z

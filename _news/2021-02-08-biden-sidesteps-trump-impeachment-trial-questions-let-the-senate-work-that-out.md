@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-sidesteps-trump-impeachment-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sidesteps-trump-impeachment-trial-questions.amp"
 type: article
 quality: 185
-heat: 1365
+heat: 1385
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 175
     images:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Senate votes Trump impeachment trial is constitutional"
+    excerpt: "The Senate voted Tuesday to move ahead with the unprecedented impeachment trial of former President Trump after listening to nearly four hours of arguments on whether it is constitutional to try a president who is already out of office. "
+    publishedDateTime: 2021-02-09T22:14:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XG3XPp3yLfc/senate-decides-constitutionally-of-trump-impeachment-trial-after-day-one-of-arguments"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-decides-constitutionally-of-trump-impeachment-trial-after-day-one-of-arguments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-decides-constitutionally-of-trump-impeachment-trial-after-day-one-of-arguments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff142e3-34ee-46df-8f7f-e92976220d66/6d133fea-0a5a-4be6-aaa7-f631defd19fd/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
