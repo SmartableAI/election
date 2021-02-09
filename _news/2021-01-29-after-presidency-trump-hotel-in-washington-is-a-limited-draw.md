@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia Officials Review Trump Phone Call as Scrutiny Intensifies"
+    excerpt: "The office of Georgia’s secretary of state, Brad Raffensperger, has initiated a fact-finding inquiry into Donald Trump’s January phone call to Mr. Raffensperger pressuring him to “find” votes."
+    publishedDateTime: 2021-02-08T22:33:00Z
+    webUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/08/us/politics/trump-georgia-election-investigation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/00HFOTrump-Georgiainvestigate/00HFOTrump-Georgiainvestigate-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "symcArPDXDQEQMz4U3Bs1hR7t9dAKZde4gyQ1NZ+QX6LUzRZnuM7ebE0fpNeDTU7FA09qcEa7W3/FXLjMPVctCy94OgJWa+NKmdlOfiE9IUDSj9rHuZxZoMMfmy+EoRdQmMfrRpzqkrr9TOdbfxpTSISSbC/mwZH/kNgbnmCj1J15IPdlj8xN1WSSv4P9Fnqc3vuzBVg5i+GCbTHNxC6u1oa45cWJ7YyLEAh/LZON3kyS5GAYMeoyyOfpC4dSfID/Skt4Zl30iswtcVWrFK+Js39G04akaXQWZh9pqJhtF4ekWZ2Yxcf3qW+LId2K7npdaxgAEXhSwc7cRgM4U+tCLFtQV9wpLQLj0OGkTap07Q=;rD2MhSPqJ4r2fh7w+W/8xA=="
 ---

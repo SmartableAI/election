@@ -64,6 +64,22 @@ related:
         width: 2500
         height: 1672
         isCached: true
+  - title: "'He threatened the integrity of the democratic system': House introduces one article of impeachment against Trump"
+    excerpt: "House Democrats introduced an article of impeachment against President Donald Trump on Monday for \"incitement of insurrection\" when his supporters violently breached the Capitol last Wednesday. The measure,"
+    publishedDateTime: 2021-01-11T17:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/house-democrats-consider-impeachment-25th-amendment-measures-n1253693"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253693"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253693"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 114
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3441145/2001011-nancy-pelosi-mn-0731_2d44f135b81cd87e860d666f51b53766.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
 
 secured: "hh6KU9dpxGNlQRlVnoKcvPFGuFvxeFoftjUsK2aR3hDVWWaMmlhngi2w597TshY60rnHzsl4/y6KpztakMxusUitgL4U/4Vj/dI87wl5hrZ3XiD3ayFmFB0Gvmm4FB+YMccGrKp+l9X6UHibdl8TGttzCCZHVJkK+FKHkkgwCup6Za/tQnLOsE9YUv8jRByZqw+BLaYlxqV1xY67zzZ4Y0RKfsZOY+ynviQhiIvpMSys5hKgnRewRlYN2RNCeTWfz72NfwXqhg+dA2lpMQfKx0AQYbiuBsnh9gQ8cg2QkXLfZlPRpVr5IqCFsoavTJ8VoUtLipvjK9iKWbXCJCmuXbQprsXr+sq3Vv3IcmrZu/i+/WmU4ceX7XDO6MXefAuLOtRsod9wno9kfANnr2waEIt8RHOeeopodCoWJ7lGvqCeu5O2q3Ndm/UIBQHqnTmH5d/SbAEelT4Y/vXsPm8YbcM/uV9QQ7KlFic5Uv1ZSO12l1yHZq1U0FTFTQjluuxrGXieQvrdIX1wR26p+TCibA==;yB+a7R6OJuyczyEtwh1jYQ=="
 ---

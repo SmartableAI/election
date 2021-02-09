@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253971"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253971"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/10/us/10transition-briefing-promo-sub/10transition-briefing-promo-sub-videoSixteenByNineJumbo1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "'He threatened the integrity of the democratic system': House introduces one article of impeachment against Trump"
+    excerpt: "House Democrats introduced an article of impeachment against President Donald Trump on Monday for \"incitement of insurrection\" when his supporters violently breached the Capitol last Wednesday. The measure,"
+    publishedDateTime: 2021-01-11T17:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/house-democrats-consider-impeachment-25th-amendment-measures-n1253693"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253693"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253693"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 114
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3441145/2001011-nancy-pelosi-mn-0731_2d44f135b81cd87e860d666f51b53766.jpg"
+        width: 2500
+        height: 1663
         isCached: true
 
 secured: "sAhRAfVQ8+ceZ6ZypzTXHMp+QQeb+dVOPZwNlD1qkIiDetICg3QzUZgMOhSjEe5kMD5EDYV6KNFn6imKSu3LOtEuJzXr/ijhj0ZKjXYcDmaKILxAr7Eq74GkcSldo3AGSr9HZPxFUmEC1IVIzwJVaJwrMp7lJQJ0ScnXRBN4tRj7beTV2XECGKZi46rEBwYMdiocsBe9Wlbljop2huk2/SN0/m5EN3pXLlXANNP+h5kntdLFyc+5UfKMmEPsLqUTF+rag2bRMktWK7e8VGjafd/lf8Oen7N9xpLQKCX+50Qh3IXqULSOmaaPbo0yRB0qey4HVQzSR8mA4f7BiIB8uSluZ9YsUu4eHmDcSQx6bsFH1V8tNZQpK+U3jP0HqmPVjmeOj4W79xCZ0eRQmtrzRxl+zqGDHIUxMHVhEKgV9XZ7bTi74sE67/waAjIzKNtrXEE68RSuuQWDbhFaJ7D7NdbRlMASCRkG6kxDxUKn6UbuWhcBTTxHuzpkugfdvp/tCGlkhS5pMVOVpKRuJsilOg==;+UT6CULn/IybuY+wwCq0IA=="

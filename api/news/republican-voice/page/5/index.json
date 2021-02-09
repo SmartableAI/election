@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-21-mcconnell-biden-took-several-big-steps-in-the-wrong-direction-on-day-one.md",
+      "title": "McConnell: Biden ‘took several big steps in the wrong direction’ on Day One",
+      "excerpt": "Just one day after President Biden spoke of unity in his inaugural address to the nation, Senate Minority Leader Mitch McConnell says the Democrat president has headed in \"the wrong direction.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iyf0TbGgP1w/mcconnell-biden-took-several-steps-in-the-wrong-direction-on-day-one",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iyf0TbGgP1w/mcconnell-biden-took-several-steps-in-the-wrong-direction-on-day-one",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad6f975f-2399-413d-a8ab-145d8c6f7a59/a3cbad7f-2295-4d5f-8b56-7ffdfa70f118/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-biden-took-several-steps-in-the-wrong-direction-on-day-one.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-took-several-steps-in-the-wrong-direction-on-day-one.amp",
+      "publishedDateTime": "2021-01-21T13:20:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-tara-reade-says-watching-bidens-inauguration-was-exceptionally-hard-i-want-to-wake-up-from-a-nightmare.md",
       "title": "Tara Reade says watching Biden's inauguration was 'exceptionally hard': I want to 'wake up from a nightmare'",
       "excerpt": "Tara Reade, the former Senate staffer who came forward during the 2020 campaign  with a sexual assault allegation against Joe Biden, is speaking out about her former boss taking the oath of office as the 46th president of the United States.",
@@ -1609,62 +1665,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-1776-commission-report-schools-should-reject-activist-proganda.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-1776-commission-report-schools-should-reject-activist-proganda.amp",
       "publishedDateTime": "2021-01-18T18:03:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-trump-national-garden-order-includes-statues-of-whitney-houston-kobe-bryant-vince-lombardi-frank-sinatra.md",
-      "title": "Trump National Garden order includes statues of Whitney Houston, Kobe Bryant, Vince Lombardi, Frank Sinatra",
-      "excerpt": "President Trump issued an executive order on Monday in which he listed dozens of \"historically significant\" Americans, including entertainers, founding fathers, religious figures, and others, to be featured in the new National Garden of American Heroes.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kj1sQjm-mYE/trump-national-garden-statues",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kj1sQjm-mYE/trump-national-garden-statues",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eb21815-dfa2-4f95-9dad-2105540bb182/e19cf9d1-5067-4540-8aed-09392d9a1413/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-national-garden-statues.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-national-garden-statues.amp",
-      "publishedDateTime": "2021-01-18T12:56:54-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-08-security-at-us-capitol-on-high-alert-for-trump-impeachment-trial.md",
+      "title": "Security at US Capitol on high alert for Trump impeachment trial ",
+      "excerpt": "The unprecedented second impeachment trial of former President Donald Trump will take place under extraordinary security inside the US Capitol -- a physical reminder that federal officials still believe threats to lawmakers and federal buildings are possible more than a month after the January 6 insurrection.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BwRptIdAZFU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BwRptIdAZFU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 715,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210118093536-us-capitol-0117-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/08/politics/impeachment-trial-security-posture/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/impeachment-trial-security-posture/index.html",
+      "publishedDateTime": "2021-02-08T15:56:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-the-point-how-trumpism-is-on-the-march-in-arkansas.md",
+      "title": "The Point: How Trumpism is on the march in Arkansas",
+      "excerpt": "On Tuesday, Arkansas Republican Lt. Gov. Tim Griffin abruptly ended his run to be the Natural State's next governor -- choosing instead to run for attorney general in the state next November.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BrO62WsVRrM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BrO62WsVRrM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190614001352-sarah-sanders-secretaria-prensa-casa-blanca-salida-sorpresiva-pkg-juan-carlos-lopez-00005922-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/08/politics/trump-arkansas-governor-sarah-huckabee-sanders/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-arkansas-governor-sarah-huckabee-sanders/index.html",
+      "publishedDateTime": "2021-02-08T15:32:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-politico-playbook-pm-will-the-cbo-help-or-hurt-joe-biden.md",
       "title": "POLITICO Playbook PM: Will the CBO help or hurt Joe Biden?",
       "excerpt": "Gary Palmer … Lynda Blanchard THE POWER OF THE CBO — BARACK OBAMA grew so frustrated with the impact of Congressional Budget Office analyses of his health care plan in 2009 that he once banned his senior staffers from mentioning the CBO in meetings.",
@@ -71,7 +183,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 180,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -336,119 +448,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-gop-senator-very-unlikely-senate-votes-to-convict-trump-in-impeachment-trial.md",
-      "title": "GOP senator: 'Very unlikely' Senate votes to convict Trump in impeachment trial ",
-      "excerpt": "Republican Sen. Pat Toomey of Pennsylvania said Sunday it's \"very unlikely\" the Senate votes to convict former President Donald Trump in the impeachment trial set to begin Tuesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y2hBmRC8mvY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y2hBmRC8mvY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210207100723-screengrab-pat-toomey-cnn-0207-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/07/politics/pat-toomey-senate-impeachment-trial-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/pat-toomey-senate-impeachment-trial-cnntv/index.html",
-      "publishedDateTime": "2021-02-07T10:11:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial.md",
-      "title": "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial",
-      "excerpt": "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709590167_mtp_clip_cassidyshowtrial_210207_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo100655685848",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100655685848",
-      "publishedDateTime": "2021-02-07T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1030,7 +1029,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 192,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -1216,62 +1215,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/03/politics/steve-bannon-manhattan-da-prosecution/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/steve-bannon-manhattan-da-prosecution/index.html",
       "publishedDateTime": "2021-02-03T06:15:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-fact-check-trumps-official-response-to-impeachment-includes-obvious-lies.md",
-      "title": "Fact check: Trump's official response to impeachment includes obvious lies ",
-      "excerpt": "Former President Donald Trump continues to defend the ludicrous lie that led him down the road to a second impeachment -- even in his legal team's official response to that impeachment.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HUOXUuqCZHU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HUOXUuqCZHU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 333,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210113114115-03-trump-dc-rally-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/03/politics/fact-check-trump-impeachment-response-senate/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/fact-check-trump-impeachment-response-senate/index.html",
-      "publishedDateTime": "2021-02-03T05:31:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1688,6 +1631,63 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-doj-asks-supreme-court-to-cancel-arguments-over-trump-border-wall-and-remain-in-mexico-policy.md",
+      "title": "DOJ asks Supreme Court to cancel arguments over Trump border wall and 'remain in Mexico' policy",
+      "excerpt": "The Justice Department asked the Supreme Court Monday to cancel courtroom arguments scheduled for later this month over two aspects of Donald Trump's immigration policy, a reflection of the new administration's reversal on both issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/white-house/doj-asks-supreme-court-cancel-arguments-over-trump-border-wall-n1256463",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/doj-asks-supreme-court-cancel-arguments-over-trump-border-wall-n1256463",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_05/3446938/210202-trump-wall-jm-1027_7f984ea11556f96bb8fb324294448b65.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1256463",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256463",
+      "publishedDateTime": "2021-02-02T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Democratic Voice"
       ]
     }

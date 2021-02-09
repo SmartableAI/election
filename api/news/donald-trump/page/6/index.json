@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-10-trump-to-visit-us-mexico-border-to-laud-border-wall.md",
+      "title": "Trump to visit U.S.-Mexico border to laud border wall",
+      "excerpt": "Mexico border on Tuesday to highlight his administration’s work on the border wall, the White House said Saturday Trump will travel to the town of Alamo, Texas",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-09T22:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-top-republican-says-trump-committed-impeachable-offenses.md",
       "title": "Top Republican says Trump committed 'impeachable offenses'",
       "excerpt": "Democrats' momentum for a fresh drive to quickly impeach outgoing President Donald Trump has gained support, and a top Republican said the president's role in the deadly riot at the Capitol by a violent mob of Trump supporters was worthy of rebuke.",
@@ -1487,58 +1539,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-video-shows-romney-being-called-traitor-by-trump-fans-while-on-flight.md",
-      "title": "Video shows Romney being called \"traitor\" by Trump fans while on flight",
-      "excerpt": "Senator Mitt Romney of Utah faced chants of \"traitor\" while on a flight from Salt Lake City to Washington, D.C. A video posted to Twitter appears to show a small group of passengers chanting, at least one of whom appears to not be properly wearing a mask.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/donald-trump-fans-chant-traitor-at-mitt-romney-on-flight-from-salt-lake-city-to-washington-dc-2020-01-05/",
-      "originalUrl": "https://www.cbsnews.com/news/donald-trump-fans-chant-traitor-at-mitt-romney-on-flight-from-salt-lake-city-to-washington-dc-2020-01-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/15/d59f3cf4-2765-4eef-8ba6-0ac0c2a1fa64/thumbnail/1200x630/5adc68b1321cf2039392175302a1cce4/cbsn-fusion-senator-mitt-romney-on-electoral-college-vote-covid-19-relief-bill-negotiations-thumbnail-609751-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/donald-trump-fans-chant-traitor-at-mitt-romney-on-flight-from-salt-lake-city-to-washington-dc-2020-01-05/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/donald-trump-fans-chant-traitor-at-mitt-romney-on-flight-from-salt-lake-city-to-washington-dc-2020-01-05/",
-      "publishedDateTime": "2021-01-05T22:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,54 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-02-trump-urges-south-dakota-governor-to-challenge-rino-sen-thune.md",
+      "title": "Trump urges South Dakota governor to challenge ‘RINO’ Sen. Thune",
+      "excerpt": "Thune, the Senate majority whip, outraged Trump last month when he said a challenge to the Electoral College results would “go down like a shot dog.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
+      "originalUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Election-2020-RNC-Noem.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/trump-urges-kristi-noem-to-challenge-rino-sen-john-thune/amp/",
+      "publishedDateTime": "2021-01-01T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-fact-check-president-trump-spent-thanksgiving-with-troops-in-afghanistan-in-2019-not-2020.md",
       "title": "Fact check: President Trump spent Thanksgiving with troops in Afghanistan in 2019, not 2020",
       "excerpt": "Social media users having been sharing posts that claim President Donald Trump spent Thanksgiving 2020 with troops in Bagram, Afghanistan, not playing golf. This claim is false: the photo of Trump in Bagram is from 2019.",
@@ -1512,58 +1560,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-what-watchdogs-trump-leaves-office-with-key-ig-jobs-vacant-across-govt.md",
-      "title": "What watchdogs? Trump leaves office with key IG jobs vacant across govt",
-      "excerpt": "At least a dozen of the 38 presidentially appointed inspectors general will not be in place at the end of the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/25/key-inspector-general-offices-vacant-trump-administration-ends/4008278001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/25/key-inspector-general-offices-vacant-trump-administration-ends/4008278001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/12/06/USAT/3c2c3290-0cf8-49e8-bf30-6fdfa08238ac-COVER.png?auto=webp&crop=1969,1108,x27,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4008278001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4008278001",
-      "publishedDateTime": "2020-12-25T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

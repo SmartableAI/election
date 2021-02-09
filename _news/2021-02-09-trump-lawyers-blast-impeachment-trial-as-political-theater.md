@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Impeachment expert says Trump's lawyers distorted his work 'quite badly'"
+    excerpt: "A U.S. law professor who studies impeachment says former President Donald Trump's lawyers misrepresented his research in a brief laying out arguments they will make at his U.S. Senate impeachment trial that starts on Tuesday."
+    publishedDateTime: 2021-02-09T00:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-expert-idUSKBN2A82AE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A82AE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A82AE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210208&t=2&i=1550805194&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH171HF"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Steve Bannon believes the Democrats have a 'compelling' case for impeaching Trump"
     excerpt: "Steve Bannon, Trump's ex-chief strategist, told Politico that the former president would be smeared 'in the eyes of the American people.'"
     publishedDateTime: 2021-02-06T17:33:00Z

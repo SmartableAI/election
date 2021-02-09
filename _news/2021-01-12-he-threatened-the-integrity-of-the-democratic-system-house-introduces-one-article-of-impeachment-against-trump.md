@@ -32,227 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Democrats' impeachment filing: Trump 'threatened the constitutional system'"
-    excerpt: "The House impeachment managers argue former President Donald Trump should be convicted for inciting the insurrection at the Capitol last month and barred from holding future office, charging that his actions \"threatened the constitutional system that protects the fundamental freedoms we cherish.\"\n  "
-    publishedDateTime: 2021-02-02T16:33:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f2KywfJxkLE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-filing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-filing/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125153359-01-raskin-jan-13-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "House impeachment managers request former President Trump's testimony at trial"
-    excerpt: "The House impeachment managers are seeking former President Donald Trump's testimony before or during his Senate impeachment trial, making the request in a letter Wednesday that raises the stakes of the trial scheduled to begin next week.\n    \n"
-    publishedDateTime: 2021-02-04T18:57:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gF_YFYqSPRI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/impeachment-trial-trump-testify/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/impeachment-trial-trump-testify/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Impeachment trial kicks off this week as Democrats seek to tie Trump to Capitol riots"
-    excerpt: "The second impeachment trial of former President Donald Trump begins this week as the House impeachment managers prepare to make their case to the public -- and the 100 senators who are jurors for the trial -- that Trump is responsible for last month's deadly riots at the US Capitol.\n    \n"
-    publishedDateTime: 2021-02-08T10:00:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TKYWuZi6kdY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/impeachment-latest-pretrial-briefs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/impeachment-latest-pretrial-briefs/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131913-102-trump-impeachment-centered-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Jamie Raskin: Trump's impeachment defense amounts to 'absurd constitutional arguments'"
-    excerpt: "Rep. Jamie Raskin, the lead impeachment manager, told House Democrats on Wednesday that former President Donald Trump's legal filing responding to the House's impeachment amounted to \"absurd constitutional arguments being offered by the President,\" according to a source on the call.\n    \n"
-    publishedDateTime: 2021-02-03T18:48:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KATRCrT8FUk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/jamie-raskin-impeachment-pretrial-brief-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/jamie-raskin-impeachment-pretrial-brief-reaction/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125153646-02-raskin-jan-6-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump quickly rejects impeachment managers' request for testimony at impeachment trial"
-    excerpt: "The House impeachment managers are seeking former President Donald Trump's testimony before or during his Senate impeachment trial, making the request in a letter Wednesday that raises the stakes of the trial scheduled to begin next week.\n    \n"
-    publishedDateTime: 2021-02-05T02:11:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gF_YFYqSPRI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/politics/impeachment-trial-trump-testify/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/impeachment-trial-trump-testify/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Democratic House staffers draft letter to senators on impeachment: Convict Trump 'for our sake, and the sake of the country'"
-    excerpt: "A group of Democratic House staffers are drafting what they hope will be a bipartisan message to the Senate about the upcoming impeachment trial, urging senators to take the trauma their aides experienced during the violent insurrection in the Capitol on January 6 seriously, a staffer tells CNN.\n   "
-    publishedDateTime: 2021-01-28T03:44:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tfOV92aR5s8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/democratic-house-staffers-letter-to-senators-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/democratic-house-staffers-letter-to-senators-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 148
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107153716-capitol-riots-cybersecurity-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump Refuses Surprise Call to Testify in His Impeachment Trial"
-    excerpt: "The former president’s lawyers wasted little time in swatting away the invitation to testify, saying the trial was “unconstitutional” and the request to testify a “public relations stunt.”"
-    publishedDateTime: 2021-02-05T00:39:00Z
-    webUrl: "https://www.nytimes.com/2021/02/04/us/politics/trump-impeachment-capitol-riot.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/04/us/politics/trump-impeachment-capitol-riot.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/04/us/politics/trump-impeachment-capitol-riot.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/04/us/politics/04dc-impeach/04dc-impeach-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Lawyers Call Trump's First Amendment Defense 'Legally Frivolous'"
-    excerpt: "Taking aim at a key plank of the former president’s impeachment defense, the lawyers argue that the constitutional protections do not apply to an impeachment proceeding."
-    publishedDateTime: 2021-02-05T17:15:00Z
-    webUrl: "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/05/world/05new-washington-briefing-impeach-1stamendment-1/05new-washington-briefing-impeach-1stamendment-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Read: Former President Donald Trump's defense team's legal brief"
-    excerpt: "In a pretrial brief ahead of former President Donald Trump's impeachment trial in the Senate, Trump's legal team accused House Democrats of engaging in \"political theater\" and argued that the upcoming trial is unconstitutional because Trump is no longer president."
-    publishedDateTime: 2021-02-08T11:30:00Z
-    webUrl: "https://www.cnn.com/2021/02/08/politics/trump-defense-team-impeachment-brief/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-defense-team-impeachment-brief/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-defense-team-impeachment-brief/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202104727-01-trump-file-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's second impeachment trial starts tomorrow"
-    excerpt: "The second impeachment trial of former President Trump kicks off tomorrow. Follow here for the latest updates from Congress."
-    publishedDateTime: 2021-02-08T13:17:00Z
-    webUrl: "https://www.cnn.com/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-impeachment-news-02-08-2021/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_600/b1bbdc12-087c-4830-837e-44e28c9cdc7f.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Impeachment Case Argues Trump Was ‘Singularly Responsible’ for Capitol Riot"
-    excerpt: "The House managers cited the Constitution’s framers in urging that Donald J. Trump be convicted and disqualified from holding office. Mr. Trump’s lawyers said the Senate had no jurisdiction."
-    publishedDateTime: 2021-02-03T01:35:00Z
-    webUrl: "https://www.nytimes.com/2021/02/02/us/politics/impeachment-trump-capitol-riot.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/02/us/politics/impeachment-trump-capitol-riot.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/02/us/politics/impeachment-trump-capitol-riot.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/02/us/politics/02dc-impeach1/02dc-impeach1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Read former President Trump's response to the article of impeachment against him"
-    excerpt: "Lawyers for former President Donald Trump filed a 14-page response to the House's impeachment manager's case on Tuesday, in its first filing ahead of next week's Senate impeachment trial."
-    publishedDateTime: 2021-02-02T17:42:00Z
-    webUrl: "https://www.cnn.com/2021/02/02/politics/trump-response-impeachment-article/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/trump-response-impeachment-article/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/trump-response-impeachment-article/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 130
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102113042-101b-donald-trump-serious-centered-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Hundreds of Democratic staff plead with senators to convict Trump in impeachment trial"
-    excerpt: "The staff members said they hope senators will take their trauma from the Capitol riot seriously when they weigh whether to convict the former president."
-    publishedDateTime: 2021-02-03T22:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/hundreds-democratic-staff-plead-senators-convict-trump-upcoming-impeachment-trial-n1256577"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256577"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256577"
+  - title: "Live updates: House moves to impeach Trump for 'incitement of insurrection' in Capitol riot"
+    excerpt: "The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U.S.history to be impeached twice."
+    publishedDateTime: 2021-01-13T12:26:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253971"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253971"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 127
+    quality: 125
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_03/3443114/210119-donald-trump-al-0953_ee174f7bc77e10ab1366e5fa4a0f8a3a.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441573/210113-impeachment-live-blog-main-cover-cs_16bb0697e79eeb180cea199979fe03f2.jpg"
         width: 2500
-        height: 1667
+        height: 1250
         isCached: true
-  - title: "Democrats' big shift in Trump's second impeachment"
-    excerpt: "Democrats made a push for witnesses central to President Donald Trump’s first impeachment trial. But not this time. Senate Democrats are making it clear they’re taking a different approach than they did for Trump’s infamous Ukraine call."
-    publishedDateTime: 2021-02-07T12:06:00Z
-    webUrl: "https://www.politico.com/news/2021/02/07/democrats-trump-second-impeachment-466152"
+  - title: "Trump should not be prosecuted for Capitol riot incitement, former FBI Director James Comey says"
+    excerpt: "\"The country would be better off if we did not give him the platform that a prosecution would for the next three years,\" Comey told Sky News."
+    publishedDateTime: 2021-01-18T04:10:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/trump-should-not-be-prosecuted-capitol-riot-incitement-former-fbi-n1254535"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254535"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254535"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
     images:
-      - url: "https://static.politico.com/35/62/ec905c2e47ddb53142efc00f6531/ap21021750258411.png"
-        width: 1160
-        height: 773
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_44/3423609/201028-james-comey-al-0856_dd78874bf9563d902a336451af19486e.jpg"
+        width: 2500
+        height: 1672
+        isCached: true
+  - title: "Presidential Transition Live Updates: House Says It Will Move Swiftly With Impeachment If Pence Won’t Act"
+    excerpt: "The House could vote as soon as Tuesday on charging President Trump with inciting a mob that attacked the Capitol. But top leaders want to avoid hamstringing the first days of Joseph R. Biden Jr.’s presidency with an all-consuming Senate trial."
+    publishedDateTime: 2021-01-10T19:52:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/10/us/10transition-briefing-promo-sub/10transition-briefing-promo-sub-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "QYSEhMmaKSGGjoMNJBJK8IZ8wraOkoJcpA9zdsfkxM7pTvyLB8ZZOiJFcoOyFSUep8UyDadIxnvxTDK874WEqi4TTwVC6S6t0A/y7ln9544ruXq7RiN8qlFBK4YM++0WmoCAkM1rZB2VAMTJwYfNu8uCRJKB3o/Y2UMRZl1nc0mBQM6d/BYMATPAYcqyfizNFUUTCEoxKHS7Day4yFVq6fKNYLexlOFNr2mQanDAi/ckAEml8THStwmt7RRu7or7bGXRlB9zuiD1U+ITor+8xWSeh8jJhNv4b+qhBommgkWZbGYTT/TKs+spyKK1dYycWRr03UguzNhCXvm9BkwtB3GV0uNsazc8lvGi+DYC79s=;rkvp2IIhRZKG9LAhkfm1ag=="

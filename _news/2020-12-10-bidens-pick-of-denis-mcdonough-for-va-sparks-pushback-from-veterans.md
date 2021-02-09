@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-pick-of-denis-mcdonough-for-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-pick-of-denis-mcdonough-for-va-sparks-pushback-from-veterans.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden nominee Denis McDonough confirmed as VA secretary in Senate vote"
+    excerpt: "A longtime federal official, McDonough previously served as chief of staff to former President Barack Obama throughout his second term in office."
+    publishedDateTime: 2021-02-08T23:16:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OGT9RogIc2c/biden-nominee-denis-mcdonough-confirmed-as-va-secretary-in-senate-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-denis-mcdonough-confirmed-as-va-secretary-in-senate-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-denis-mcdonough-confirmed-as-va-secretary-in-senate-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21027736050117.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Susan Rice tapped to lead Biden's Domestic Policy Council, Denis McDonough picked for VA secretary"
     excerpt: "President-elect Joe Biden announced Thursday that he has selected former Obama adviser and envoy Susan Rice to lead the White House Domestic Policy Council."
     publishedDateTime: 2020-12-10T15:47:02Z

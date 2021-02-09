@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pences-post-trump-administration-pl
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/"
 type: article
 quality: 150
-heat: 2610
+heat: 2650
 published: true
 
 provider:
@@ -1537,6 +1537,34 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/08/d64fb547-a50b-4527-bc1f-572b18dcb332/thumbnail/1200x630/39e666b461870801e33463046916c245/cbsn-fusion-legal-expert-pres-trumps-speech-is-protected-under-the-first-amendment-thumbnail-641788-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Senate convenes ahead of Trump impeachment trial"
+    excerpt: "The Senate convenes on Monday ahead of the upcoming impeachment trial of former president Donald Trump, and is expected to hold a vote on Denis McDonough to be the secretary of Veterans Affairs."
+    publishedDateTime: 2021-02-09T00:45:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/senate-convenes-ahead-of-trump-impeachment-trial/2021/02/08/73515466-ac97-4f9d-ab03-294da865ee45_live.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-08-2021/t_b5ed4320bedf4326bed8c8258033ffda_name_schumer.jpg&w=1080"
+        width: 1080
+        height: 720
+        isCached: true
+  - title: "Senate prepares to begin Trump's 2nd impeachment trial"
+    excerpt: "The Senate will begin the second impeachment trial for former President Donald Trump on Tuesday. CBS News senior White House and political correspondent Ed O'Keefe, CBS News congressional correspondent Nikole Killion,"
+    publishedDateTime: 2021-02-09T00:26:00Z
+    webUrl: "https://www.cbsnews.com/video/senate-prepares-to-begin-trump-second-impeachment-trial-analysis-preview-2021-02-08/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/08/195d9efc-1218-4fe4-a4dd-c58b6de53ba3/thumbnail/1200x630/b951ef88874cb3e89590c14057b96d2b/0208-rnb-kes-ket-senateprepimpeachment-642248-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

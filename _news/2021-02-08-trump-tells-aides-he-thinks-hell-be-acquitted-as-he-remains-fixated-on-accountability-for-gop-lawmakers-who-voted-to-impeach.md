@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Lawyers Call Trump's First Amendment Defense 'Legally Frivolous'"
+    excerpt: "Taking aim at a key plank of the former president’s impeachment defense, the lawyers argue that the constitutional protections do not apply to an impeachment proceeding."
+    publishedDateTime: 2021-02-05T17:15:00Z
+    webUrl: "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/05/world/05new-washington-briefing-impeach-1stamendment-1/05new-washington-briefing-impeach-1stamendment-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "o4XHVjJ2kqTJo/hnZhKy2WrNLYXvSdfKKZRIyTPr9ZyPKMW1WicNh/kU2inwhTullD4/amPxPPhdDndsN2NH30eQGi581pFBpXLgqx3sKWIqN5lgraFOZaCobDqfQ/gZbP/CIci4p3KhYtROVhZTUJ6PZEIyWdOJ4+SouwpnApmWc1qC7b88znl7h2kqaufUuEHAn6IMwq9sm38zQ4oGyBjI2UGT0tiyixp9qwd3gVS9cvT9mI1TjXvDnwPLdTHXSt3qnAo+AVISDUveFh74FJC64H+H5IJLCL4u3l4mJPxKGVSvZe1BXyGxVQYEvPFJYwZLfkg8xTfWNLaRpjxuMQiZHrdnWj3r3n181kvrTUM=;Jp3ADeQINR71+925sAq2WQ=="
 ---

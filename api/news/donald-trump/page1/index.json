@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-09-sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option.md",
+      "title": "Sen. Tim Kaine says his censure proposal for former president Trump is still a ‘live option’",
+      "excerpt": "Sen. Tim Kaine says he’s worried that former president Donald Trump will be acquitted again, but he explained the censure he proposed is still a “live option.” “There has to be accountability for the actions of Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option/2021/02/08/19b6ce3f-10ad-45da-af18-6ef6b5746211_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option/2021/02/08/19b6ce3f-10ad-45da-af18-6ef6b5746211_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-08-2021/t_74ebace138074479a8f8a981b0ec7849_name_Screen_Shot_2021_02_08_at_4_27_58_PM.png&w=1080",
+          "width": 1080,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-ex-parler-ceo-said-he-didnt-want-the-platform-to-work-with-trump-because-the-president-might-have-bullied-employees-into-doing-what-he-wanted.md",
       "title": "Ex-Parler CEO said he didn't want the platform to work with Trump because the president might have 'bullied' employees into doing what he wanted",
       "excerpt": "The interview aired after BuzzFeed News reported that Parler had offered Trump a 40% stake in exchange for becoming his go-to social-media platform.",
@@ -103,6 +155,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-donald-trump-jr-slams-super-bowl-2021-commercials-as-woketopia.md",
+      "title": "Donald Trump Jr. slams Super Bowl 2021 commercials as 'woketopia'",
+      "excerpt": "Donald Trump Jr. wasn’t impressed with the Super Bowl 2021 commercial lineup. The son of former president Donald Trump tuned into the big game between the Tampa Bay Buccaneers and the Kansas City Chiefs on Sunday but was rolling his eyes at the broadcast almost immediately at the typically sought after ad breaks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-slams-super-bowl-2021-commercials-woketopia",
+      "originalUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-slams-super-bowl-2021-commercials-woketopia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020488199456.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-slams-super-bowl-2021-commercials-woketopia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-jr-slams-super-bowl-2021-commercials-woketopia.amp",
+      "publishedDateTime": "2021-02-08T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -324,63 +433,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-07-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial.md",
-      "title": "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial",
-      "excerpt": "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709590167_mtp_clip_cassidyshowtrial_210207_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo100655685848",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100655685848",
-      "publishedDateTime": "2021-02-07T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-07-liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump.md",
       "title": "Liz Cheney censured by Wyoming Republican party for voting to impeach Trump",
       "excerpt": "Cheney, the third ranking member of the House Republican leadership, was censured in a vote Saturday by her state’s Republican party",
@@ -493,7 +545,7 @@
       "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2610,
+      "heat": 2650,
       "tags": null,
       "images": [
         {
@@ -1474,7 +1526,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1498,49 +1550,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-trump-campaigns-post-election-legal-spending-topped-7m-with-kasowitz-in-the-lead.md",
-      "title": "Trump campaign's post-election legal spending topped $7M, with Kasowitz in the lead",
-      "excerpt": "The Trump campaign paid law firms and other legal providers more than $7 million from Nov. 4 through the end of last year, a Reuters analysis of Federal Election Commission records shows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/lawyer-trump-spend-idUSL1N2K8025",
-      "originalUrl": "https://www.reuters.com/article/lawyer-trump-spend-idUSL1N2K8025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2K8025",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K8025",
-      "publishedDateTime": "2021-02-01T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

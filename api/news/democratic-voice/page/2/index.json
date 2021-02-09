@@ -2,119 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-02-02-democrats-impeachment-filing-trump-threatened-the-constitutional-system.md",
-      "title": "Democrats' impeachment filing: Trump 'threatened the constitutional system'",
-      "excerpt": "The House impeachment managers argue former President Donald Trump should be convicted for inciting the insurrection at the Capitol last month and barred from holding future office, charging that his actions \"threatened the constitutional system that protects the fundamental freedoms we cherish.\"\n  ",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f2KywfJxkLE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f2KywfJxkLE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 453,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210125153359-01-raskin-jan-13-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-filing/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/democratic-impeachment-filing/index.html",
-      "publishedDateTime": "2021-02-02T08:33:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-doj-asks-supreme-court-to-cancel-arguments-over-trump-border-wall-and-remain-in-mexico-policy.md",
-      "title": "DOJ asks Supreme Court to cancel arguments over Trump border wall and 'remain in Mexico' policy",
-      "excerpt": "The Justice Department asked the Supreme Court Monday to cancel courtroom arguments scheduled for later this month over two aspects of Donald Trump's immigration policy, a reflection of the new administration's reversal on both issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/white-house/doj-asks-supreme-court-cancel-arguments-over-trump-border-wall-n1256463",
-      "originalUrl": "https://www.nbcnews.com/politics/white-house/doj-asks-supreme-court-cancel-arguments-over-trump-border-wall-n1256463",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_05/3446938/210202-trump-wall-jm-1027_7f984ea11556f96bb8fb324294448b65.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1256463",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256463",
-      "publishedDateTime": "2021-02-02T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-02-when-will-biden-ask-scotus-to-uphold-obamacare.md",
       "title": "When will Biden ask SCOTUS to uphold Obamacare? ",
       "excerpt": "President Joe Biden has been in office for less than two weeks, but a looming question is when, not whether, his Justice Department will change the federal government's position before the Supreme Court on the Affordable Care Act.\n    \n",
@@ -1028,7 +915,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 214,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1666,6 +1553,118 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html",
       "publishedDateTime": "2021-01-23T06:01:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-new-york-times-trump-and-doj-attorney-had-plan-to-replace-his-acting-ag-and-undo-georgia-election-result.md",
+      "title": "New York Times: Trump and DOJ attorney had plan to replace his acting AG and undo Georgia election result",
+      "excerpt": "Justice Department lawyer Jeffrey Clark nearly convinced then-President Donald Trump to remove then-acting Attorney General Jeffrey Rosen and use the Department of Justice to undo Georgia's election results, The New York Times reported Friday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YGZ1p29pNIg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YGZ1p29pNIg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210121092209-01-trump-departure-0120-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html",
+      "publishedDateTime": "2021-01-22T19:35:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-birx-i-always-considered-quitting-trumps-white-house-covid-task-force.md",
+      "title": "Birx: I always considered quitting Trump's White House Covid task force",
+      "excerpt": "Dr. Deborah Birx \"always\" considered quitting then-President Donald Trump's White House coronavirus task force and was troubled by colleagues' perceptions that she had become political, she said in an interview clip released Friday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xMutAa4evAQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xMutAa4evAQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222145539-deborah-birx-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html",
+      "publishedDateTime": "2021-01-22T18:10:26-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
