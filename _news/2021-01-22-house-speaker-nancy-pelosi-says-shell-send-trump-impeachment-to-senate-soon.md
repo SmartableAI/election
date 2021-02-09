@@ -303,6 +303,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The second Trump impeachment trial is set for February. What happens next?"
+    excerpt: "WASHINGTON – Former President Donald Trump's historic second impeachment trial starts next month, but the process really started Monday, when the House sent the article of impeachment to the ..."
+    publishedDateTime: 2021-01-26T08:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/trump-impeachment-heres-what-happens-next-senate-trial/6672582002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6672582002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6672582002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/29/NGCT/92163326-189a-4575-861a-7c419df0f18b-SCHUMER.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘Not going to lose my son and my republic’: Jamie Raskin on Trump impeachment"
     excerpt: "Last modified on Sun 17 Jan 2021 11.07 EST Jamie Raskin, the House Democrat leading the impeachment of Donald Trump, remembered his son Tommy on Sunday and said: “I’m not going to lose my son at the end of 2020 and lose my country and my republic in 2021."
     publishedDateTime: 2021-01-17T15:07:00Z

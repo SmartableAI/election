@@ -3210,6 +3210,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Why Biden is keeping his distance from the Trump impeachment"
+    excerpt: "Biden is steering clear of the Trump impeachment because every minute that he is talking about the futile impeachment attempt is a minute he’s not using to sell his own program."
+    publishedDateTime: 2021-02-09T08:08:00Z
+    webUrl: "https://www.foxnews.com/mediabuzz/why-biden-is-keeping-his-distance-from-the-trump-impeachment"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/thumb-split-biden-capitol-cropped-304a.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden sworn in as 46th president, says 'democracy has prevailed' in inaugural address"
     excerpt: "Joe Biden was sworn in as 46th president of the United States on Wednesday. Biden took the oath of office, with his hand on his family Bible. He was sworn in by Supreme Court Chief Justice John Roberts."
     publishedDateTime: 2021-01-20T17:12:00Z

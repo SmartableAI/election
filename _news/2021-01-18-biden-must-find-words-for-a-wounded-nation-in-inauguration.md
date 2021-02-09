@@ -3198,6 +3198,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Why Biden is keeping his distance from the Trump impeachment"
+    excerpt: "Biden is steering clear of the Trump impeachment because every minute that he is talking about the futile impeachment attempt is a minute he’s not using to sell his own program."
+    publishedDateTime: 2021-02-09T08:08:00Z
+    webUrl: "https://www.foxnews.com/mediabuzz/why-biden-is-keeping-his-distance-from-the-trump-impeachment"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/thumb-split-biden-capitol-cropped-304a.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump impeachment intended to keep him from seeking presidency again, Dems acknowledge"
     excerpt: "While some members of Congress have claimed that President Trump's impeachment and swift conviction are necessary to keep him from serving out the final days of his term, others have acknowledged that they are focused on keeping him from ever running again."
     publishedDateTime: 2021-01-18T18:13:00Z

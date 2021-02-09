@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 165
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1be552ec-a083-472e-ba7a-7dbdc403fd13/90a08f4b-ca06-4520-93b1-356816a8b8e8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden says team on track to surpass 100 million vaccine doses in first 100 days"
+    excerpt: "Biden provided the update as he and Vice President Kamala Harris spoke to Arizona health care officials"
+    publishedDateTime: 2021-02-09T08:42:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-W-8C32SZk/live-updates-biden-2-9-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-9-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-9-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86aadf47-31ea-4598-9cba-7cd27d2b6cde/abac50d9-7116-4733-80ee-f940bcb5916e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

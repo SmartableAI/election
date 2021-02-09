@@ -350,6 +350,22 @@ related:
         width: 1280
         height: 533
         isCached: true
+  - title: "Live Updates: Trump's impeachment trial, set to begin today, will determine the future of America, Graham says"
+    excerpt: "The Senate impeachment trial of former President Donald Trump is set to begin on Tuesday and will determine the future of America, Sen. Lindsey Graham, R-S.C., told \"Hannity\" Monday."
+    publishedDateTime: 2021-02-09T08:22:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Muck5HnD31Q/live-updates-trump-impeachment-2-9-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-2-9-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-2-9-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/244610dd-eefa-4cc4-b259-1f470bded46d/41548b90-1240-4327-b8bb-d972a65af100/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump impeachment managers file pre-trial brief against former president: 'Evidence is overwhelming'"
     excerpt: "The House impeachment managers on Tuesday morning filed their pre-trial brief in their case against former President Donald Trump, previewing the argument they will make against him in the Senate trial set to start in one week."
     publishedDateTime: 2021-02-02T15:25:16Z

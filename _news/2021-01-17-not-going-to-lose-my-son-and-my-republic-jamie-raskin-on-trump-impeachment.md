@@ -303,6 +303,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The second Trump impeachment trial is set for February. What happens next?"
+    excerpt: "WASHINGTON – Former President Donald Trump's historic second impeachment trial starts next month, but the process really started Monday, when the House sent the article of impeachment to the ..."
+    publishedDateTime: 2021-01-26T08:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/trump-impeachment-heres-what-happens-next-senate-trial/6672582002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6672582002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6672582002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/29/NGCT/92163326-189a-4575-861a-7c419df0f18b-SCHUMER.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Diverse team of U.S. House Democrats to lead Trump's second impeachment trial"
     excerpt: "The nine Democratic lawmakers who will prosecute ex-President Donald Trump in his impeachment trial reflect America's racial, ethnic and sexual diversity, in stark contrast to the white nationalist imagery that marked the mob of Trump supporters who stormed the Capitol."
     publishedDateTime: 2021-01-25T11:33:00Z
