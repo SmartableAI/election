@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Live Updates: Trump impeachment trial set to get underway in Senate"
+    excerpt: "The Senate is convening at noon to begin the trial for former President Donald Trump, the only president to be impeached twice."
+    publishedDateTime: 2021-02-09T12:36:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-2021-02-09/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-2021-02-09/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-2021-02-09/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/08/214bf190-6024-4d7a-a645-d3a47739c90f/thumbnail/1200x630/4dd1e53fb3aa5cc8469f58b7ceb151a3/gettyimages-1230553516.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump impeachment: Schumer says agreement reached on rules for trial – live"
     excerpt: "Polling shows slim majority of Americans want Trump convicted and barred from office"
     publishedDateTime: 2021-02-08T22:14:00Z
@@ -113,8 +129,8 @@ related:
         isCached: true
   - title: "Trump impeachment: trial to open with debate on whether it is constitutional – live updates"
     excerpt: "Senate sets aside up to four hours for arguments on whether a former president can be tried"
-    publishedDateTime: 2021-02-09T08:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+    publishedDateTime: 2021-02-09T12:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-602276ef8f08add483193564"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
     type: article

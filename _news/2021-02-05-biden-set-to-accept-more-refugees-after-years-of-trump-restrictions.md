@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 1380
+heat: 1400
 published: true
 
 provider:
@@ -936,6 +936,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/07/3d619469-8e54-43fa-ad3b-24e13afbdb20/thumbnail/1200x630/505bb1af941dbb58b77cd6a0c69f761f/0207-nod-biden-interview-641716-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump impeachment trial: Former president faces Senate jury a second time today, this time accused of inciting Capitol riot"
+    excerpt: "Donald Trump’s lawyers insist as the trial opens Tuesday that he is not guilty on the sole charge of “incitement of insurrection,” his fiery words just a figure of speech."
+    publishedDateTime: 2021-02-09T12:16:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210209-nvwsphq3inepfnxy7potq57niu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210209-nvwsphq3inepfnxy7potq57niu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210209-nvwsphq3inepfnxy7potq57niu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 99
+    images:
+      - url: "https://www.chicagotribune.com/resizer/JMJ3wH1ZaxO-yAZLkqUV2h6hHgQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FQM2MMXLIZDZZF2PSHNFRH4SVY.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump Impeachment Lawyers Named After 5 Members Of Defense Team Quit"
     excerpt: "Five of Trump's impeachment lawyers had left his legal team after he refused to steer away from using mass election fraud as his defense strategy."

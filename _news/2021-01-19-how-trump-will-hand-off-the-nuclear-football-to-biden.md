@@ -351,6 +351,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and Democrats prepare to act fast on judges, having learned lesson from Trump"
+    excerpt: "President Joe Biden had been in office less than a week when a federal judge issued a nationwide injunction blocking one of his first immigration-related actions.\n    \n"
+    publishedDateTime: 2021-02-09T12:00:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lZ1Nxx-YMRo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/judges-biden-democrats-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/judges-biden-democrats-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208160121-joe-biden-210205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden staffing up swiftly at Homeland Security to reverse Trump's immigration policies"
     excerpt: "The Department of Homeland Security, largely hollowed out over the last four years, is moving with urgency to staff agencies with people who had front row seats to the hardline immigration limits rolled out under former President Donald Trump, in order to rescind them.\n    \n"
     publishedDateTime: 2021-01-26T12:18:37Z

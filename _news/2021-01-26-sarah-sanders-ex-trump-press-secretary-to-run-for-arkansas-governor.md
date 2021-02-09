@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Sarah Huckabee Sanders Is Running for Office. Will Other Trump Allies Follow?"
+    excerpt: "Donald Trump Jr. Over the past four years, Donald Trump Jr., 43, the president’s eldest son, has carved out a political lane for himself as a top surrogate and fund-raiser who can channel the ..."
+    publishedDateTime: 2021-01-26T04:17:00Z
+    webUrl: "https://www.nytimes.com/article/trump-candidates.html"
+    ampWebUrl: "https://www.nytimes.com/article/trump-candidates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/trump-candidates.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/25/us/politics/25trump-candidates1/25trump-candidates1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "YEDpH7TTpWbhpt1iZxWisY1fDZ22dgVh4Tz7iRcBaxMGi4QDwCNI5AJ59GqGDZ4iatXkNl24VvWq+xYU1ooHFsP7FSrjUrep11WMPpBFZPxCIocen6dJisVzWkWRdK6W9Lq1Wmy/Akl2GtO8XgIkT013mExAwlLqiA2Rq51pwC2JnCXIl+rm0bP1On+SJmruiJL/TaXjeVc2zY1bkLvSMEtx3oMCkssN79HdQ/u2GhHcwbUzEdOluhkNOnH2pM5P9nQR0IDVSrgOxZyzXhAsemvQTWOD6vvCBKgPvVzbbbLfdi01GHviot8wc6PzEpJqgOSv7TX8xBxVctKndc99Bl0Hg2XC6nl8qKa8EtD9zfM=;8LBEgwJ9u6XqOZKM41X5OA=="
 ---

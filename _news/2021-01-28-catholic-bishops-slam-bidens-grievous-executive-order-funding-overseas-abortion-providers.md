@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "US aircraft carriers train in South China Sea amid tensions early in Biden administration"
+    excerpt: "Two U.S aircraft carrier strike groups trained Tuesday in the South China Sea amid close attention on how the United States will handle threats from China early in the Biden administration. "
+    publishedDateTime: 2021-02-09T12:57:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CmCdra03TPk/us-aircraft-carriers-train-in-south-china-sea-amid-tensions-early-in-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/us-aircraft-carriers-train-in-south-china-sea-amid-tensions-early-in-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-aircraft-carriers-train-in-south-china-sea-amid-tensions-early-in-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Likely Biden deputy labor secretary pick could face Senate scrutiny over California unemployment fraud"
     excerpt: "California Labor Secretary Julie Su, President Biden’s reported pick to serve as deputy secretary in the US Department of Labor, could face tough scrutiny in the Senate."
     publishedDateTime: 2021-01-27T02:58:47Z

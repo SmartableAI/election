@@ -395,7 +395,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 795,
+      "heat": 855,
       "tags": null,
       "images": [
         {
@@ -499,8 +499,8 @@
       "title": "White House expects lawmakers' coronavirus aid \"mark up\" will track closely to Biden's plan",
       "excerpt": "The White House expects the House of Representatives to track closely to President Joe Biden's coronavirus relief plan as it marks up its latest round of legislation to blunt the effects of the COVID-19 pandemic,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-white-house-idUSW1N2JA017",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-white-house-idUSW1N2JA017",
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-white-house/white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan-idUSW1N2JA017",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-white-house/white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan-idUSW1N2JA017",
       "featuredContent": null,
       "highlight": null,
       "heat": 95,
@@ -508,8 +508,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSW1N2JA017",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2JA017",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A822O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A822O",
       "publishedDateTime": "2021-02-08T14:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -992,7 +992,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1065,
+      "heat": 1125,
       "tags": null,
       "images": [
         {

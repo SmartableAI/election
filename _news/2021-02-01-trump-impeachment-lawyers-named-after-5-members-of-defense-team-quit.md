@@ -953,6 +953,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump impeachment trial: Former president faces Senate jury a second time today, this time accused of inciting Capitol riot"
+    excerpt: "Donald Trump’s lawyers insist as the trial opens Tuesday that he is not guilty on the sole charge of “incitement of insurrection,” his fiery words just a figure of speech."
+    publishedDateTime: 2021-02-09T12:16:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210209-nvwsphq3inepfnxy7potq57niu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210209-nvwsphq3inepfnxy7potq57niu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-impeachment-trial-20210209-nvwsphq3inepfnxy7potq57niu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 99
+    images:
+      - url: "https://www.chicagotribune.com/resizer/JMJ3wH1ZaxO-yAZLkqUV2h6hHgQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FQM2MMXLIZDZZF2PSHNFRH4SVY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Publix Supermarkets Under Fire After Heiress Reportedly Donates $300,000 To Trump Rally"
     excerpt: "The Publix supermarket chain is facing backlash after a bombshell report revealed the chain's heiress donated money to the infamous Trump rally that preceded the Capitol riots."
     publishedDateTime: 2021-01-30T17:38:00Z

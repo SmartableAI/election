@@ -188,6 +188,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump's impeachment trial: Everything you need to know"
+    excerpt: "Former President Donald Trump has been out of office for nearly three weeks, but he is still expected to command the full attention of the legislative branch and the country in the coming days as the Senate begins his second impeachment trial, barely one year after his first."
+    publishedDateTime: 2021-02-09T11:23:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I54a8dyo2Fs/trumps-impeachment-trial-everything-you-need-to-know"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-impeachment-trial-everything-you-need-to-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-impeachment-trial-everything-you-need-to-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden 'will not spend too much time' watching impeachment trial but finds Trump behavior 'erratic,' Psaki says"
     excerpt: "White House Press Secretary Jen Psaki said Monday that President Biden “will not spend too much time” watching former President Trump’s Senate impeachment trial."
     publishedDateTime: 2021-02-08T18:31:12Z
@@ -568,6 +584,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Impeachment Trial: The Republican Senators to Watch"
+    excerpt: "At least seven Republican senators appear to be in play to join what will likely be all Democrats in voting to convict."
+    publishedDateTime: 2021-02-09T12:45:00Z
+    webUrl: "https://www.wsj.com/articles/trump-impeachment-trial-the-republican-senators-to-watch-11612874438"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-impeachment-trial-the-republican-senators-to-watch-11612874438"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-impeachment-trial-the-republican-senators-to-watch-11612874438"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-296638/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Lawyers Call Impeachment Trial ‘Political Theater’"
     excerpt: "Lawyers for former President Donald Trump argued it is unconstitutional to impeach a former president and declared the coming Senate trial “political theater” in a pretrial brief Monday that offered the fullest picture of their defense."
     publishedDateTime: 2021-02-08T18:40:00Z
@@ -709,6 +741,20 @@ related:
       - url: "https://images.wsj.net/im-160334?width=640"
         width: 640
         height: 360
+        isCached: true
+  - title: "Trump's Second Impeachment Trial — Live Updates"
+    excerpt: "Live analysis of the second impeachment trial of former President Donald Trump."
+    publishedDateTime: 2021-02-09T12:48:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-296233/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "What to Know: Trump's Second Impeachment Trial"
     excerpt: "Live analysis of the second impeachment trial of former President Donald Trump, which is set to begin on Tuesday."

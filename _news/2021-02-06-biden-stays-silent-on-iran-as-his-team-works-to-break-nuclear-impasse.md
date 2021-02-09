@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden OMB nominee to pledge bipartisan approach ahead of tough Senate hearing"
+    excerpt: "President Joe Biden's nominee to lead the Office of Management and Budget, Neera Tanden, will pledge to bring a bipartisan approach to the role during her confirmation hearing Tuesday as she faces down fierce opposition from Senate Republicans.\n    \n"
+    publishedDateTime: 2021-02-09T12:08:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UYNjmShnYyQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/neera-tanden-confirmation-office-of-management-and-budget/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/neera-tanden-confirmation-office-of-management-and-budget/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201134328-neera-tanden-biden-economic-team-1201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden takes first step toward bolstering Obamacare"
     excerpt: "The new administration will reopen enrollment and begin reversing Trump changes to the law that Democrats derided as sabotage."
     publishedDateTime: 2021-01-28T12:06:00Z

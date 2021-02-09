@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/biden-scotus-obamacare-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/biden-scotus-obamacare-aca/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131909-01-biden-state-department-0204-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden OMB nominee to pledge bipartisan approach ahead of tough Senate hearing"
+    excerpt: "President Joe Biden's nominee to lead the Office of Management and Budget, Neera Tanden, will pledge to bring a bipartisan approach to the role during her confirmation hearing Tuesday as she faces down fierce opposition from Senate Republicans.\n    \n"
+    publishedDateTime: 2021-02-09T12:08:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UYNjmShnYyQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/neera-tanden-confirmation-office-of-management-and-budget/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/neera-tanden-confirmation-office-of-management-and-budget/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201134328-neera-tanden-biden-economic-team-1201-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,9 +2,9 @@
 category: news
 title: "Trump impeachment: trial to open with debate on whether it is constitutional – live updates"
 excerpt: "Senate sets aside up to four hours for arguments on whether a former president can be tried"
-publishedDateTime: 2021-02-09T08:01:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
+publishedDateTime: 2021-02-09T12:09:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-602276ef8f08add483193564"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-602276ef8f08add483193564"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
 type: article
@@ -60,6 +60,22 @@ related:
     quality: 125
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/07/1c35ae02-c984-4ff8-83cf-c065258831f8/thumbnail/1200x630g2/7d4b889649bfdc77603d1990c2b51506/screen-shot-2021-02-07-at-10-39-28-am.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Live Updates: Trump impeachment trial set to get underway in Senate"
+    excerpt: "The Senate is convening at noon to begin the trial for former President Donald Trump, the only president to be impeached twice."
+    publishedDateTime: 2021-02-09T12:36:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-2021-02-09/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-2021-02-09/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-2021-02-09/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/08/214bf190-6024-4d7a-a645-d3a47739c90f/thumbnail/1200x630/4dd1e53fb3aa5cc8469f58b7ceb151a3/gettyimages-1230553516.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -183,6 +199,6 @@ related:
       domain: time.com
     quality: 81
 
-secured: "4K4L2zpR8jn92gV92HnQ/3ZTqwi5wBTaBaO3+3pSLDCECZV4PPHhVKmRYQ4fe3+5iCazshoArSpvnjDyZ5hKdRy8SwJ8EY7lCJ2ejWtMSZjOu5vQBVbvmV2IJoLfDGRAzAAOaXzNrSAjBdSdkC2en4aEvBNvz0KojBU6kv3wce1d6yPRag+KG6JkZRdmHJngeKSCkkn8qYHy2YG7aaAwP9mUgC2/yp4SGUba9uLVVM3A3xCHvEp5jN9BBDIJu44DiJqzqrpVNnhOTi6tKQObjawRYVyGXjLpk4wwfweH7P18Fg58thtjRe6+pEZNTHA8GxOLzTbSOTVXvozeiLTPM8cbUdxDnNlqR+mZ+q/696I=;9FT0slDdQIU6UrleIYmEHg=="
+secured: "p09gBVpSp8/XxRwTxIt4sZrkA1x3zPqZKH9r104WY79n3SAU1vPzSmYfQU5Jy1mZxUxi7xH+k+ET0slzN0SBQQcyDFqwnQrO/53jxZ9D2LCv0HMTdnM/i6frngH3+GzGqQoPfFp55Qi/KlmnWiUY4W9y18JSZdyBMVLmryNz3TbD/+RltbV+CkNlAq2wKpiVcZz48KIttmV0jXa793MYTwNAXZwAMxnUcsBkvUTZYR4fCPbzrnyjGHDAtpke3aPGSFT591+LkEMHxyEgMngHCOth59ENnI3CRP9Z8ChdpbHF9+s8/uFW4ji9cwhc7tqs0TxAzeumsVkL0EnPdgRe0V5YfzJ0DY6KV2BR58sD//Y=;PoJ5QacB/+44Qo1d/Mjw+g=="
 ---
 

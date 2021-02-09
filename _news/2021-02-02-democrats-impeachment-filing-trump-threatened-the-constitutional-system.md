@@ -47,6 +47,54 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's second impeachment trial begins Tuesday"
+    excerpt: "The second impeachment trial of former President Donald Trump begins in the Senate on Tuesday, where senators will be confronted with the violent events of the January 6 riots and whether Trump is culpable for inciting the insurrectionists that attacked the Capitol and placed their lives in danger.\n"
+    publishedDateTime: 2021-02-09T11:53:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1VKObfEVhz8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/senate-impeachment-trial-day-1/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/senate-impeachment-trial-day-1/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103300-102-trump-january-6-rally-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's trial set to rock Washington and echo through the ages"
+    excerpt: "The simple question posed by Donald Trump's second impeachment trial that begins Tuesday is whether a president who loses reelection can get away with a violent coup attempt in a desperate bid to stay in power.\n    \n"
+    publishedDateTime: 2021-02-09T12:09:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n2JQyYKfR10/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "What we know about how Trump's second impeachment trial will go"
+    excerpt: "When former President Donald Trump's second impeachment trial kicks off Tuesday afternoon, Americans will relive -- through the eyes of the senators sitting in judgment of his actions -- the assault on the Capitol we all witnessed in real time just a little more than a month ago.\n    \n"
+    publishedDateTime: 2021-02-09T01:47:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZK_l-NEY-ho/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/impeachment-trial-schedule-what-matters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/impeachment-trial-schedule-what-matters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208091309-us-capitol-0208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump's official response to impeachment includes obvious lies "
     excerpt: "Former President Donald Trump continues to defend the ludicrous lie that led him down the road to a second impeachment -- even in his legal team's official response to that impeachment.\n    \n"
     publishedDateTime: 2021-02-03T13:31:16Z
@@ -351,12 +399,12 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "What to Watch for as Donald J. Trump’s Impeachment Trial Begins"
+  - title: "What to Watch For as Donald J. Trump’s Impeachment Trial Begins"
     excerpt: "Debate will begin at 1 p.m. on Tuesday. Though the trial is expected to be fast-paced, oral arguments could stretch into next week."
-    publishedDateTime: 2021-02-09T05:01:00Z
-    webUrl: "https://www.nytimes.com/2021/02/09/us/politics/impeachment-trial-how-to-watch.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/09/us/politics/impeachment-trial-how-to-watch.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/09/us/politics/impeachment-trial-how-to-watch.amp.html"
+    publishedDateTime: 2021-02-09T11:42:00Z
+    webUrl: "https://www.nytimes.com/2021/02/09/us/politics/what-time-is-trump-impeachment-trial.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/09/us/politics/what-time-is-trump-impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/09/us/politics/what-time-is-trump-impeachment-trial.amp.html"
     type: article
     provider:
       name: New York Times
