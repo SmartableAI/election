@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Psaki: Biden not weighing in on Trump impeachment trial because 'he's not a pundit’"
+    excerpt: "White House Press Secretary Jen Psaki on Tuesday said President Biden is not weighing in on former President Donald Trump’s Senate impeachment trial because “he’s not a pundit,” while maintaining that he will not watch the proceedings."
+    publishedDateTime: 2021-02-09T19:21:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hba37ubPVXg/psaki-biden-not-weighing-in-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-not-weighing-in-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-not-weighing-in-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Law professor who made Barron Trump joke during Ukraine impeachment hearing gets Biden DOJ gig"
     excerpt: "A former Stanford law professor who poked fun at Barron Trump's name during a 2019 House impeachment hearing now has a job with President Biden's Department of Justice."
     publishedDateTime: 2021-02-08T13:33:07Z
@@ -239,6 +255,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Michael van der Veen: What to know about Trump impeachment defense attorney"
+    excerpt: "The pre-trial brief filed by former President Donald Trump's defense team had one extra name on it besides the two widely-reported attorneys leading his impeachment defense in the Senate: Michael T. van der Veen. "
+    publishedDateTime: 2021-02-09T20:00:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMgSQfGZ70k/michael-van-der-veen-what-to-know-about-trump-impeachment-defense-attorney"
+    ampWebUrl: "https://www.foxnews.com/politics/michael-van-der-veen-what-to-know-about-trump-impeachment-defense-attorney.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michael-van-der-veen-what-to-know-about-trump-impeachment-defense-attorney.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "White House dismisses questions about Biden son-in-law's COVID-19 investments"
+    excerpt: "The White House dismissed complaints of conflicting interest Tuesday regarding the president’s son-in-law’s investments in the COVID-19 response. "
+    publishedDateTime: 2021-02-09T19:59:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mx-fNJBCVaM/white-house-biden-son-in-laws-covid-19-investments"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-son-in-laws-covid-19-investments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-son-in-laws-covid-19-investments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/568b8e9c-Jen-Psaki.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden 'will not spend too much time' watching impeachment trial but finds Trump behavior 'erratic,' Psaki says"
     excerpt: "White House Press Secretary Jen Psaki said Monday that President Biden “will not spend too much time” watching former President Trump’s Senate impeachment trial."
     publishedDateTime: 2021-02-08T18:31:12Z
@@ -335,6 +383,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Leahy, presiding over Trump impeachment in Senate, vows to conduct trial 'with fairness to all'"
+    excerpt: "The Senate impeachment trial of former President Donald Trump officially began Tuesday afternoon, and presiding officer Patrick Leahy, D-Vt., promised to conduct the proceedings fairly."
+    publishedDateTime: 2021-02-09T19:10:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cAsRGNtbJ6U/leahy-trump-impeachment-trial-fairness"
+    ampWebUrl: "https://www.foxnews.com/politics/leahy-trump-impeachment-trial-fairness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/leahy-trump-impeachment-trial-fairness.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Democrats will realize Trump impeachment is a political 'loser' and will end trial quickly: Whitaker"
     excerpt: "Former Acting Attorney General Matthew Whitaker argued on Monday that former President Trump's impeachment is “cheapening” the impeachment standard."
     publishedDateTime: 2021-02-08T19:34:11Z
@@ -350,6 +414,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Sen. Kennedy on impeachment trial: Dems want to equate Trump voters with ‘nutjobs’ who stormed Capitol"
+    excerpt: "Sen. John Kennedy, R-La., said on Tuesday that he does not believe former President Trump will be convicted in the Senate and that his trial is a “poorly-camouflaged” attempt by the Washington establishment to equate Trump voters with the “nutjobs” that broke into the Capitol."
+    publishedDateTime: 2021-02-09T18:58:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-iwGBSBN7AE/trump-impeachment-trial-john-kennedy-capitol-nutjobs"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-john-kennedy-capitol-nutjobs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-john-kennedy-capitol-nutjobs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f3cf815-d8c6-4713-841c-e44fee3a2249/d7f9facc-1c08-4b77-a1ed-a2e034084e3c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump impeachment lawyer calls out Senate Dems, says ex-president has no chance of 'fair and full trial'"
     excerpt: "David Schoen, one of two attorneys who will represent former President Donald Trump in his Senate impeachment trial this month, told \"Hannity\" Monday that Senate Democrats have already determined that Trump is guilty of the charge laid against him."
@@ -442,6 +522,22 @@ related:
     quality: 146
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06033aca-08b3-48f8-b198-95163a765304/d8e75191-a19d-41d7-b41c-27e56d336a1b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Psaki: Biden not weighing in on Trump impeachment trial because 'he's not a pundit’"
+    excerpt: "White House Press Secretary Jen Psaki on Tuesday said President Biden is not weighing in on former President Donald Trump’s Senate impeachment trial because “he’s not a pundit,” while maintaining that he will not watch the proceedings."
+    publishedDateTime: 2021-02-09T19:24:00Z
+    webUrl: "https://www.foxnews.com/politics/psaki-biden-not-weighing-in-trump-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-not-weighing-in-trump-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-not-weighing-in-trump-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

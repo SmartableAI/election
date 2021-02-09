@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Latest: Aides say Trump impeachment case ‘devastating’"
+    excerpt: "House impeachment managers plan to lay out a “devastating” case that is similar to a criminal prosecution in former President Donald Trump’s second Senate impeachment trial"
+    publishedDateTime: 2021-02-09T20:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-aides-say-trump-impeachment-case-devastating/2021/02/09/3fe5f2ce-6aee-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-aides-say-trump-impeachment-case-devastating/2021/02/09/3fe5f2ce-6aee-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-aides-say-trump-impeachment-case-devastating/2021/02/09/3fe5f2ce-6aee-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Donald Trump's entire legal team quits week before impeachment trial: Sources"
     excerpt: "All five of the impeachment lawyers who were expected to represent former President Donald Trump have called it quits, sources told ABC News. The team, led by South Carolina lawyer Butch Bowers, resigned in part because of disagreements over how to mount Trump’s defense,"
     publishedDateTime: 2021-01-31T09:16:00Z

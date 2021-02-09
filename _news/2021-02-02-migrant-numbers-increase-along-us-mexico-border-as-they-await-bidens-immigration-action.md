@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Displaced Keystone Pipeline and oil field workers worry Biden administration will 'ruin us'"
+    excerpt: "Displaced Keystone XL Pipeline workers Kristina and David Dickerson and laid off oil field worker Joe Clingan blasted President Biden’s executive order canceling the project and other climate change actions Tuesday, warning the new administration is \"going to ruin us.\""
+    publishedDateTime: 2021-02-09T20:47:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yrwfbN4OHYU/displaced-keystone-pipeline-workers-worry-the-biden-administration-will-ruin-us"
+    ampWebUrl: "https://www.foxnews.com/politics/displaced-keystone-pipeline-workers-worry-the-biden-administration-will-ruin-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/displaced-keystone-pipeline-workers-worry-the-biden-administration-will-ruin-us.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hannity pans Biden administration over rule-by-executive-order, 'propagandist' promise of unity"
     excerpt: "In his \"Opening Monologue\" on Friday, \"Hannity\" host Sean Hannity labeled White House Press Secretary Jennifer Psaki a \"propagandist,\" and pointed to the fact President Biden made adamant remarks last year that to rule by executive order would be governing like a \"dictator.\""
     publishedDateTime: 2021-01-30T03:31:53Z

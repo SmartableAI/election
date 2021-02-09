@@ -1037,6 +1037,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "UPDATE 1-U.S. DOJ to ask Trump-appointed prosecutors to resign -official"
+    excerpt: "The U.S. Department of Justice on Tuesday is expected to ask most federal prosecutors appointed by former President Donald Trump to submit their resignations, a Justice Department official said."
+    publishedDateTime: 2021-02-09T20:26:00Z
+    webUrl: "https://www.reuters.com/article/usa-doj-biden-idUSL1N2KF1PO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KF1PO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KF1PO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550935763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH180AC"
+        width: 817
+        height: 545
+        isCached: true
   - title: "House Democrats building elaborate, emotionally charged case against Trump"
     excerpt: "House managers are scouring for new video evidence and police witnesses, even as the Senate tries to limit former president Donald Trump’s impeachment trial to a week."
     publishedDateTime: 2021-01-30T06:21:00Z
@@ -1805,8 +1821,8 @@ related:
         isCached: true
   - title: "Second impeachment trial of Donald Trump begins in US Senate – live"
     excerpt: "Senate will hear arguments from the impeachment managers and the former president’s defense team over the next several days"
-    publishedDateTime: 2021-02-09T18:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6022d58e8f08b9d518c1e223"
+    publishedDateTime: 2021-02-09T18:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6022cc778f081476baec4f7c"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
     type: article
@@ -1814,6 +1830,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 105
+  - title: "LIVE: House managers point out that a constitutional scholar who Trump's lawyers cited publicly struck down their arguments"
+    excerpt: "President Donald Trump's Senate impeachment trial over the Capitol siege began on Tuesday afternoon."
+    publishedDateTime: 2021-02-09T19:58:00Z
+    webUrl: "https://www.businessinsider.com/trump-impeachment-trial-day-1-live-updates-watch-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/trump-impeachment-trial-day-1-live-updates-watch-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-impeachment-trial-day-1-live-updates-watch-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/600ff19567a6bc0019d9af6e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump White House donated 8,700 ventilators to other nations. Officials now don’t know where many of them are, watchdog finds."
     excerpt: "The GAO was unable to identify how the Trump White House made its decisions on ventilator allocations. Sri Lanka had just three new coronavirus cases per day when it received 200 ventilators. Bangladesh,"
     publishedDateTime: 2021-01-29T22:07:00Z

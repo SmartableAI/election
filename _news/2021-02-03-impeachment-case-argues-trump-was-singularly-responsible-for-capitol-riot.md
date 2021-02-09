@@ -496,6 +496,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Read the Brief From House Managers Asserting Trump Has ‘No Good Defense’"
+    excerpt: "The House managers took one final shot at Donald J. Trump on Tuesday morning before his impeachment trial got underway, telling the Senate in a written brief that the former president’s lawyers were relying on “flawed legal theories” because they had “no good defense” for his conduct around the Jan."
+    publishedDateTime: 2021-02-09T17:30:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/02/09/us/politics/impeachment-managers-brief-on-trump-impeachment-defense-feb.html"
+    ampWebUrl: "https://www.nytimes.com/interactive/2021/02/09/us/politics/impeachment-managers-brief-on-trump-impeachment-defense-feb.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/interactive/2021/02/09/us/politics/impeachment-managers-brief-on-trump-impeachment-defense-feb.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/09/doc-957073-impeachment-managers-brief-on-trump-impeachment-defense-feb-promo/doc-957073-impeachment-managers-brief-on-trump-impeachment-defense-feb-promo-facebookJumbo.png"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Live Updates: Impeachment Managers Call Trump ‘Singularly Responsible’ for Riot"
     excerpt: "The nine House impeachment managers presented their case against former President Donald J. Trump in a filing. Mr. Trump has a noon deadline to outline his defense. President Biden will sign executive orders on immigration."
     publishedDateTime: 2021-02-02T11:46:00Z

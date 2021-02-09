@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-insanity-steroids
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-insanity-steroids-california-angel-dad.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 166
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Displaced Keystone Pipeline and oil field workers worry Biden administration will 'ruin us'"
+    excerpt: "Displaced Keystone XL Pipeline workers Kristina and David Dickerson and laid off oil field worker Joe Clingan blasted President Biden’s executive order canceling the project and other climate change actions Tuesday, warning the new administration is \"going to ruin us.\""
+    publishedDateTime: 2021-02-09T20:47:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yrwfbN4OHYU/displaced-keystone-pipeline-workers-worry-the-biden-administration-will-ruin-us"
+    ampWebUrl: "https://www.foxnews.com/politics/displaced-keystone-pipeline-workers-worry-the-biden-administration-will-ruin-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/displaced-keystone-pipeline-workers-worry-the-biden-administration-will-ruin-us.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

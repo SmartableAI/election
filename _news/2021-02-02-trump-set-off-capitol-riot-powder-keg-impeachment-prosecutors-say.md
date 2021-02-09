@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-p
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/02/trump-capitol-riot-powder-keg-impeachment-prosecutors"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/08/214bf190-6024-4d7a-a645-d3a47739c90f/thumbnail/1200x630/4dd1e53fb3aa5cc8469f58b7ceb151a3/gettyimages-1230553516.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Latest: Aides say Trump impeachment case ‘devastating’"
+    excerpt: "House impeachment managers plan to lay out a “devastating” case that is similar to a criminal prosecution in former President Donald Trump’s second Senate impeachment trial"
+    publishedDateTime: 2021-02-09T20:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-aides-say-trump-impeachment-case-devastating/2021/02/09/3fe5f2ce-6aee-11eb-a66e-e27046e9e898_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-aides-say-trump-impeachment-case-devastating/2021/02/09/3fe5f2ce-6aee-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-aides-say-trump-impeachment-case-devastating/2021/02/09/3fe5f2ce-6aee-11eb-a66e-e27046e9e898_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump impeachment: Schumer says agreement reached on rules for trial – live"
     excerpt: "Polling shows slim majority of Americans want Trump convicted and barred from office"

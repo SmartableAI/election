@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Displaced Keystone Pipeline and oil field workers worry Biden administration will 'ruin us'"
+    excerpt: "Displaced Keystone XL Pipeline workers Kristina and David Dickerson and laid off oil field worker Joe Clingan blasted President Biden’s executive order canceling the project and other climate change actions Tuesday, warning the new administration is \"going to ruin us.\""
+    publishedDateTime: 2021-02-09T20:47:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yrwfbN4OHYU/displaced-keystone-pipeline-workers-worry-the-biden-administration-will-ruin-us"
+    ampWebUrl: "https://www.foxnews.com/politics/displaced-keystone-pipeline-workers-worry-the-biden-administration-will-ruin-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/displaced-keystone-pipeline-workers-worry-the-biden-administration-will-ruin-us.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "kk61Kh96eRBNAMrQ8QmXvrNaUpwmARck2YvzwkzgwyRRP2GYrnoKaIzh4Hg7K4ldTUz9Qozr6eW5lYAOLJoqJRyh04oVQilUC9FTTNrdBy1F9C2OvLgBlN35T1V0HrEFblcE2VX7vTAG2DFJd4BO/2GSjahOb95DNORFrGYFDPdqqdl//mLEG+Ray9HATXgVyakFC6WtyRpWwb6kaMbJGmteKYratTSu43NM65pyXDQP4zMw45anC1sNNdMaiEWPQeq2nE8Lp2MX8lZ1gGyfx0T8Y0f6LafxCQFMOPfEugGsp2HjmchgjxCOuefLznqXVPB7qoH3PFaqVMUo94QnRMjWmlo5XOdHrQm3pqz0/ww=;r6zsEFws/2wy2/BBqaAMcA=="
 ---

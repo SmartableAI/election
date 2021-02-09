@@ -480,6 +480,22 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Read the Brief From House Managers Asserting Trump Has ‘No Good Defense’"
+    excerpt: "The House managers took one final shot at Donald J. Trump on Tuesday morning before his impeachment trial got underway, telling the Senate in a written brief that the former president’s lawyers were relying on “flawed legal theories” because they had “no good defense” for his conduct around the Jan."
+    publishedDateTime: 2021-02-09T17:30:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/02/09/us/politics/impeachment-managers-brief-on-trump-impeachment-defense-feb.html"
+    ampWebUrl: "https://www.nytimes.com/interactive/2021/02/09/us/politics/impeachment-managers-brief-on-trump-impeachment-defense-feb.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/interactive/2021/02/09/us/politics/impeachment-managers-brief-on-trump-impeachment-defense-feb.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/09/doc-957073-impeachment-managers-brief-on-trump-impeachment-defense-feb-promo/doc-957073-impeachment-managers-brief-on-trump-impeachment-defense-feb-promo-facebookJumbo.png"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Impeachment Case Argues Trump Was ‘Singularly Responsible’ for Capitol Riot"
     excerpt: "The House managers cited the Constitution’s framers in urging that Donald J. Trump be convicted and disqualified from holding office. Mr. Trump’s lawyers said the Senate had no jurisdiction."
     publishedDateTime: 2021-02-03T01:35:00Z

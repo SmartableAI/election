@@ -480,6 +480,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Read the Brief From House Managers Asserting Trump Has ‘No Good Defense’"
+    excerpt: "The House managers took one final shot at Donald J. Trump on Tuesday morning before his impeachment trial got underway, telling the Senate in a written brief that the former president’s lawyers were relying on “flawed legal theories” because they had “no good defense” for his conduct around the Jan."
+    publishedDateTime: 2021-02-09T17:30:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/02/09/us/politics/impeachment-managers-brief-on-trump-impeachment-defense-feb.html"
+    ampWebUrl: "https://www.nytimes.com/interactive/2021/02/09/us/politics/impeachment-managers-brief-on-trump-impeachment-defense-feb.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/interactive/2021/02/09/us/politics/impeachment-managers-brief-on-trump-impeachment-defense-feb.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/09/doc-957073-impeachment-managers-brief-on-trump-impeachment-defense-feb-promo/doc-957073-impeachment-managers-brief-on-trump-impeachment-defense-feb-promo-facebookJumbo.png"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Impeachment Case Argues Trump Was ‘Singularly Responsible’ for Capitol Riot"
     excerpt: "The House managers cited the Constitution’s framers in urging that Donald J. Trump be convicted and disqualified from holding office. Mr. Trump’s lawyers said the Senate had no jurisdiction."
     publishedDateTime: 2021-02-03T01:35:00Z
@@ -651,6 +667,6 @@ related:
         height: 629
         isCached: true
 
-secured: "0QrQD3KEItGaPTrT82ZqXgY3wJJOmDHq9u4S2SncJg1NdPNlld/yJ62/sQFLRwZhGpoFGUwhJP+Na1q6C4YFXkS7T+gJbh2lK4gywpoiXqaHvIcmDa7IZzZC05Q+2wJJkKrUIZFlDrHnnT1ZlGLchvbeaayMB7N8vb+T2UO6Yv6snnuMrt0+jWlkC+OpGWFa4aJR1RTQ3+9/GlXvNsnUgaMw5qB9BV6ZUJD4p7tfF96VsYYpaOuRirsmxu9nNfbSAMvCBvdkPRAEYD/LZ63xaeWaLM+vfVOGQRTXRbZYHsP/33SmffuBxlgJlbuxdRU0gXs1beAcFVBsCG867wkyXDJ4c0uiI719t6FNDhzJs/Q=;YDLXDC298jmCefF3pzjQsg=="
+secured: "otNYizCWSO6SwpiHnIoZ3p4Bv2BLppymHXS/JcNCcgU8zyG4cAQybqI1nBB3wQlgMdi/limoTM6+5o+MH5rpj+gekENKMediZ9zYCVKmj26xvI4KMXrIYYF3YpCIPVzcKQDv1WV435PhgLTO/Aa/nrHkzVJBH3RZmAEOfy1aOM7aJRLpNzsIRhv4Ate6ZwngBDamwF6ooTr0hStq5rKQ/k+L31QrINsEgzLjnjn7/iQZetBy0a+id5lsggy2gtkf5LVnc106Mcq5Th0QFG8Pp/sJQ0Ztg4kn//doAX4i0TZaEv7U9JwWMuUd7QYZkSXba9/BZvxm3N/J8uGacOHHHJMtABB0Cc/VSHapHZ9omNyRpExrKEXU1wdFHnN6U0hJbRQrXf3be7ost5ec7N9IvpM9KUG6w90GYsgUqH4Z86vp5QvxVPIotlzotrMkFXcrw0IIN2TKun239UFrQB2t0MiTXboX/hXZ8m74HVVEN7apahi9qyZOhVvhNoJOkJNbvVqo4FIJcaKyQFzyw02SzQ==;eliUnSAUv539VudXpDMy4Q=="
 ---
 
