@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/impeachment-trial-securi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/impeachment-trial-security-posture/index.html"
 type: article
 quality: 175
-heat: 715
+heat: 755
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 157
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205121011-07-chuck-schumer-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House Republicans who backed impeaching Trump have no regrets as Senate GOP reckons with former President's role"
+    excerpt: "They've faced sharp backlash from former President Donald Trump and his supporters and been censured by their state parties, all the while facing new threats of primary challenges from the right.\n    \n"
+    publishedDateTime: 2021-02-09T02:01:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/feDjlVxIG-8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/gop-trump-impeachment-trial-house-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/gop-trump-impeachment-trial-house-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160111-01-liz-cheney-0203-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -460,6 +476,20 @@ related:
       - url: "https://static.politico.com/35/62/ec905c2e47ddb53142efc00f6531/ap21021750258411.png"
         width: 1160
         height: 773
+        isCached: true
+  - title: "A Step-by-Step Guide to the Second Impeachment of Donald J. Trump"
+    excerpt: "Here’s how Mr. Trump’s second impeachment has unfolded so far. The House passed the article of impeachment, impeaching Mr. Trump for the second time. Mr. Trump’s impeachment last month by the House was not the quickest in U."
+    publishedDateTime: 2021-02-08T15:22:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/02/08/us/politics/trump-second-impeachment-timeline.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/08/us/trump-second-impeachment-timeline-promo-1612812465076/trump-second-impeachment-timeline-promo-1612812465076-facebookJumbo-v8.png"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "XeREWGYh6UHpr6HeR4ezTV14unGh8GShMk3u+lvAK7b7cT5yucwar2uiGLZnjuwXjOnHRSoWELmS064S7avVz8SK3WTWzQ9tiJTkzu4Y+wPjOa6XAVs1I6QuQfVfXO5p6lCiaGyObx5CX8y1hkw9NezGjWVDkVV4qIWQ9lyqP9/9Yrm0HehLQeXNUacIiDUHj2aPErr5TnxMv76+XDwb1EZ3vlB9PBrASdQIJums9WRtWMGiJ/HPcbXw+v5Km/uN9iLe4sOJDOioi0PlmmmGZcFVeOHYFVeSIzF0i1bei6BQ/pw2inqxxCZBlNSiCP38iepLfaTbr0JuYYqoxjK3kFkzWzyhoGffpz9yU40Wi9s=;7lFepR3tN8iiqbEm0At8mQ=="

@@ -367,6 +367,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Politics live updates: House members deliver Trump impeachment charge to Senate for trial"
+    excerpt: "House prosecutors walked the article of impeachment against former President Donald Trump to the Senate on Monday night, setting the stage for a trial to begin Feb. 9. Nine House members led by Rep."
+    publishedDateTime: 2021-01-25T18:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/25/politics-live-updates-trump-impeachment-article-goes-senate/6698416002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6698416002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6698416002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/64cd4e1d-775b-497f-9721-1a08ed5c3881-XXX_USATODAY_446699_jmg_30543.JPG?auto=webp&crop=1999,1124,x0,y125&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bipartisan lawmakers urge Trump to either sign or immediately veto coronavirus relief bill"
     excerpt: "A bipartisan group of lawmakers from both chambers of Congress on Sunday reissued their call for President Trump to sign a nearly $1 trillion COVID-19 relief package – or to immediately veto it."
     publishedDateTime: 2020-12-27T22:21:00Z

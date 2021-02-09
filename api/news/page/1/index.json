@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-09-maryland-senators-see-joe-bidens-immigration-policy-as-key-to-grant-citizenship-to-tps-holders.md",
+      "title": "Maryland Senators See Joe Biden's Immigration Policy as Key To Grant Citizenship To TPS Holders",
+      "excerpt": "The SECURE Act would provide a pathway to permanent resident status for over 400,000 immigrants who have Temporary Protected Status after fleeing natural disasters and civil unrest in their home countries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/maryland-senators-see-joe-bidens-immigration-policy-key-grant-citizenship-tps-holders-1567754",
+      "originalUrl": "https://www.newsweek.com/maryland-senators-see-joe-bidens-immigration-policy-key-grant-citizenship-tps-holders-1567754",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1728926/maryland-senators-hollen-cardin-immigration-citizenship-bill.jpg",
+          "width": 3000,
+          "height": 2333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/maryland-senators-see-joe-bidens-immigration-policy-key-grant-citizenship-tps-holders-1567754?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/maryland-senators-see-joe-bidens-immigration-policy-key-grant-citizenship-tps-holders-1567754?amp=1",
+      "publishedDateTime": "2021-02-08T18:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court.md",
+      "title": "Paul Manafort can't be tried in NY after Trump's pardon says state court",
+      "excerpt": "Paul Manafort cannot be prosecuted in New York, highest court rules  The New York Court of Appeals has rejected the Manhattan DA's bid to review the lower courts’ rulings on denying Paul Manafort's prosecution. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bjUKfAehw0/paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bjUKfAehw0/paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/340/340/marta.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/paul-manafort-cant-be-tried-in-ny-after-trumps-pardon-says-state-court.amp",
+      "publishedDateTime": "2021-02-08T18:17:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-sen-tim-kaine-says-his-censure-proposal-for-former-president-trump-is-still-a-live-option.md",
       "title": "Sen. Tim Kaine says his censure proposal for former president Trump is still a ‘live option’",
       "excerpt": "Sen. Tim Kaine says he’s worried that former president Donald Trump will be acquitted again, but he explained the censure he proposed is still a “live option.” “There has to be accountability for the actions of Jan.",
@@ -66,7 +174,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 715,
+      "heat": 755,
       "tags": null,
       "images": [
         {
@@ -1258,119 +1366,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-meadows-biden-administration-policies-prioritize-america-last.md",
-      "title": "Meadows: Biden administration policies prioritize 'America last'",
-      "excerpt": "President Biden’s record number of executive orders aren’t focused on putting America and the people first, former White House chief of staff Mark Meadows told \"Sunday Morning Futures.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTRURJ54Qr8/meadows-biden-administration-policies-america-last",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTRURJ54Qr8/meadows-biden-administration-policies-america-last",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden5.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/meadows-biden-administration-policies-america-last.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-biden-administration-policies-america-last.amp",
-      "publishedDateTime": "2021-02-07T10:56:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie.md",
-      "title": "Sen. Rand Paul: Claim Trump incited Capitol riot is 'big lie'",
-      "excerpt": "Hundreds of thousands of more of those high-paying career jobs will also be gone as Joe follows through on his promise and his plan to cancel all oil and gas pipelines and block drilling and exploration in ANWR Alaska,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie",
-      "originalUrl": "https://www.foxnews.com/transcript/sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a776dc8-0d6e-4a62-996e-40c7f02fb048/310d7743-95d4-4294-82e9-bcadd51420a7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie.amp",
-      "publishedDateTime": "2021-02-07T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

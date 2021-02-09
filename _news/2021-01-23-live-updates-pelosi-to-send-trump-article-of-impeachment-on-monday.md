@@ -319,6 +319,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "How Donald Trump's Second Impeachment Trial Will Be Different From His First"
+    excerpt: "Donald Trump made history in the days before his White House departure by becoming the only president to ever be impeached twice. Now, his upcoming trial in the Senate will be just as unprecedented."
+    publishedDateTime: 2021-01-25T22:24:00Z
+    webUrl: "https://www.newsweek.com/how-donald-trumps-second-impeachment-trial-will-different-his-first-1564269"
+    ampWebUrl: "https://www.newsweek.com/how-donald-trumps-second-impeachment-trial-will-different-his-first-1564269?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-donald-trumps-second-impeachment-trial-will-different-his-first-1564269?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1715660/ex-president-donald-trump-air-force-one.jpg"
+        width: 2500
+        height: 1494
+        isCached: true
   - title: "Senate rejects GOP motion to declare Trump impeachment trial unconstitutional"
     excerpt: "Senators were sworn in as jurors on Tuesday in the second impeachment trial of former President Donald Trump for inciting an insurrection, with proceedings scheduled to get underway in two weeks. Senator Patrick Leahy,"
     publishedDateTime: 2021-01-27T11:45:00Z

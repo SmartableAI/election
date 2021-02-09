@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Psaki pressed on Biden admin not deporting illegal immigrants who drive drunk"
+    excerpt: "White House Press Secretary Jen Psaki was asked on Monday about pending guidance that would spare some illegal immigrants convicted of less serious offenses from deportation"
+    publishedDateTime: 2021-02-09T01:01:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uJjpjK8p-kA/psaki-biden-deporting-illegal-immigrants-drive-drunk"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-deporting-illegal-immigrants-drive-drunk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-deporting-illegal-immigrants-drive-drunk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98c9f18a-40b4-4c42-a1b2-22fe7d7091a6/c2ad6e60-a0b7-4ef0-8983-5fb23af6b0e5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's remarks about 'vast majority' of law enforcement being 'decent' shows fear of far left: McFarland"
     excerpt: "President Biden’s remark that the \"vast majority\" of law enforcement officers are \"decent\" this week demonstrated he's worried about offending the far-left flank of his party, KT McFarland said on Thursday."
     publishedDateTime: 2021-02-04T17:47:51Z

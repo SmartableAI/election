@@ -659,6 +659,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "What to Know About Trump’s Second Impeachment Trial"
+    excerpt: "The same Senate chamber that was overrun by insurrectionists will be, starting on Feb. 9, the somber court for Donald Trump’s impeachment trial, as senators weigh making him the first president ..."
+    publishedDateTime: 2021-01-22T19:49:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-22/how-this-trump-impeachment-trial-compares-with-first-quicktake"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihw7eGDBjoPI/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pompeo lifts restrictions on U.S.-Taiwan relationship as clock runs out on Trump administration"
     excerpt: "Secretary of State Mike Pompeo on Saturday said he was lifting restrictions on contacts between U.S. officials and their Taiwanese counterparts, a move likely to anger China and increase tensions between Beijing and Washington in the waning days of President Donald"
     publishedDateTime: 2021-01-10T12:13:00Z

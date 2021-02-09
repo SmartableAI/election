@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-09-maryland-senators-see-joe-bidens-immigration-policy-as-key-to-grant-citizenship-to-tps-holders.md",
+      "title": "Maryland Senators See Joe Biden's Immigration Policy as Key To Grant Citizenship To TPS Holders",
+      "excerpt": "The SECURE Act would provide a pathway to permanent resident status for over 400,000 immigrants who have Temporary Protected Status after fleeing natural disasters and civil unrest in their home countries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/maryland-senators-see-joe-bidens-immigration-policy-key-grant-citizenship-tps-holders-1567754",
+      "originalUrl": "https://www.newsweek.com/maryland-senators-see-joe-bidens-immigration-policy-key-grant-citizenship-tps-holders-1567754",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1728926/maryland-senators-hollen-cardin-immigration-citizenship-bill.jpg",
+          "width": 3000,
+          "height": 2333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/maryland-senators-see-joe-bidens-immigration-policy-key-grant-citizenship-tps-holders-1567754?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/maryland-senators-see-joe-bidens-immigration-policy-key-grant-citizenship-tps-holders-1567754?amp=1",
+      "publishedDateTime": "2021-02-08T18:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-white-house-expects-lawmakers-coronavirus-aid-mark-up-will-track-closely-to-bidens-plan.md",
       "title": "White House expects lawmakers' coronavirus aid \"mark up\" will track closely to Biden's plan",
       "excerpt": "The White House expects the House of Representatives to track closely to President Joe Biden's coronavirus relief plan as it marks up its latest round of legislation to blunt the effects of the COVID-19 pandemic,",
@@ -219,7 +271,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -849,7 +901,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1670,
+      "heat": 1710,
       "tags": null,
       "images": [
         {
@@ -1510,63 +1562,6 @@
         "name": "RealClearPolitics",
         "domain": "realclearpolitics.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-cnn-reporter-gushes-over-bidens-impressively-productive-call-with-putin.md",
-      "title": "CNN reporter gushes over Biden's 'impressively productive' call with Putin",
-      "excerpt": "A CNN correspondent lauded the \"impressively productive\" call President Biden had with Russian President Vladimir Putin this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-reporter-gushes-biden-impressively-productive-call-putin",
-      "originalUrl": "https://www.foxnews.com/media/cnn-reporter-gushes-biden-impressively-productive-call-putin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879000b0-71d5-46c8-a7e6-62869b968341/198598de-4190-4d11-9710-6c5ec405133d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-reporter-gushes-biden-impressively-productive-call-putin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-reporter-gushes-biden-impressively-productive-call-putin.amp",
-      "publishedDateTime": "2021-01-28T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

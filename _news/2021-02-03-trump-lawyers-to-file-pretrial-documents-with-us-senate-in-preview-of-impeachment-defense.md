@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump lawyers blast Democrats before impeachment trial, deny he incited Capitol riot"
+    excerpt: "Lawyers for Donald Trump in a legal memo denied that he incited the deadly riot at the U.S. Capitol and accused Democrats of \"political opportunism.\" The brief came a day before Trump's historic second impeachment trial was set to begin in the Senate."
+    publishedDateTime: 2021-02-09T02:22:00Z
+    webUrl: "https://www.cnbc.com/2021/02/08/trump-lawyers-blast-democrats-before-impeachment-trial-deny-he-incited-capitol-riot.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/08/trump-lawyers-blast-democrats-before-impeachment-trial-deny-he-incited-capitol-riot.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/08/trump-lawyers-blast-democrats-before-impeachment-trial-deny-he-incited-capitol-riot.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 118
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106825621-1610754561730-zzz.jpg?v=1612800139"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Trump says he won't testify at impeachment trial, denying Democrats' request he answer questions"
     excerpt: "Democratic prosecutors in the impeachment trial of Donald Trump requested he testify under oath either before or during the Senate trial."
     publishedDateTime: 2021-02-05T04:14:00Z
@@ -224,6 +240,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Scholar Says Trump's Lawyers Misrepresented His Research in Preparing Impeachment Defense"
+    excerpt: "A legal scholar cited by Donald Trump's lawyers in arguing that it is unconstitutional to have an impeachment trial for a former president said Trump's defense team misrepresented his work \"quite badly."
+    publishedDateTime: 2021-02-09T02:46:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-08/trump-faces-trial-filing-deadline-as-second-senate-impeachment-proceeding-looms"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-08/trump-faces-trial-filing-deadline-as-second-senate-impeachment-proceeding-looms?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-08/trump-faces-trial-filing-deadline-as-second-senate-impeachment-proceeding-looms?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
 
 secured: "5icLI3hTFAqu/QD9WLNxt2s9f7Ys8ysDGecQyAruFsBI2+uZmIR5NCzAR4TBUhoup4BlSaE2J19lbwJRXLFDM0vduNxByzben7/VCoYjkRFouirZAZuUf7gTKhHuyJKyTTJkNBMHO5DmKrMqhZ7TGb/pB1560pmISIIw4F3C7qRA02pgOW/NPS1FDnGmyG6pv+xFdVKuOyfcFCtC1RwWQX8SEIHEelf61I3DgeOFBEOpe1LzUKAj7wJbGpAP/1QJsbypCt7M16wSNI3V9cP4qQk/f22r9egbnfbuFntlCHBXZFsX3aA6MkUz9frlO90zq3gCPpItyDTXBIF12ideAF34dk605j5k+Cg0yA/c5MM=;0YXAn71RxokJ/r60x5mzWA=="
 ---

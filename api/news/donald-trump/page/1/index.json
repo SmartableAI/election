@@ -376,63 +376,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-08-sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie.md",
-      "title": "Sen. Rand Paul: Claim Trump incited Capitol riot is 'big lie'",
-      "excerpt": "Hundreds of thousands of more of those high-paying career jobs will also be gone as Joe follows through on his promise and his plan to cancel all oil and gas pipelines and block drilling and exploration in ANWR Alaska,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie",
-      "originalUrl": "https://www.foxnews.com/transcript/sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a776dc8-0d6e-4a62-996e-40c7f02fb048/310d7743-95d4-4294-82e9-bcadd51420a7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/sen-rand-paul-claim-trump-incited-capitol-riot-is-big-lie.amp",
-      "publishedDateTime": "2021-02-07T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-07-liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump.md",
       "title": "Liz Cheney censured by Wyoming Republican party for voting to impeach Trump",
       "excerpt": "Cheney, the third ranking member of the House Republican leadership, was censured in a vote Saturday by her state’s Republican party",
@@ -1526,7 +1469,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1550,6 +1493,49 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-trump-campaigns-post-election-legal-spending-topped-7m-with-kasowitz-in-the-lead.md",
+      "title": "Trump campaign's post-election legal spending topped $7M, with Kasowitz in the lead",
+      "excerpt": "The Trump campaign paid law firms and other legal providers more than $7 million from Nov. 4 through the end of last year, a Reuters analysis of Federal Election Commission records shows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/lawyer-trump-spend-idUSL1N2K8025",
+      "originalUrl": "https://www.reuters.com/article/lawyer-trump-spend-idUSL1N2K8025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2K8025",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K8025",
+      "publishedDateTime": "2021-02-01T18:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

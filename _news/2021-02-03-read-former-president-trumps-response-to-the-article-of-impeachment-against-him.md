@@ -240,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Republicans who backed impeaching Trump have no regrets as Senate GOP reckons with former President's role"
+    excerpt: "They've faced sharp backlash from former President Donald Trump and his supporters and been censured by their state parties, all the while facing new threats of primary challenges from the right.\n    \n"
+    publishedDateTime: 2021-02-09T02:01:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/feDjlVxIG-8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/gop-trump-impeachment-trial-house-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/gop-trump-impeachment-trial-house-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160111-01-liz-cheney-0203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Impeachment manager requests Trump testify under oath at Senate trial"
     excerpt: "The head Democratic impeachment manager requested on Thursday that former President Donald Trump testify under oath next week at his own impeachment trial. Though Trump is not required to appear, Rep."
     publishedDateTime: 2021-02-05T03:17:00Z
@@ -461,6 +477,20 @@ related:
       - url: "https://static.politico.com/35/62/ec905c2e47ddb53142efc00f6531/ap21021750258411.png"
         width: 1160
         height: 773
+        isCached: true
+  - title: "A Step-by-Step Guide to the Second Impeachment of Donald J. Trump"
+    excerpt: "Here’s how Mr. Trump’s second impeachment has unfolded so far. The House passed the article of impeachment, impeaching Mr. Trump for the second time. Mr. Trump’s impeachment last month by the House was not the quickest in U."
+    publishedDateTime: 2021-02-08T15:22:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/02/08/us/politics/trump-second-impeachment-timeline.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/08/us/trump-second-impeachment-timeline-promo-1612812465076/trump-second-impeachment-timeline-promo-1612812465076-facebookJumbo-v8.png"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "kznLfUsL+2plMfuD0mUDB7/USZehdshYnd8ro9ilyxrM3VQqx+w/WuJtEtI2h3gNhNfJTt2imqDFWIuFV3sLnrPpp52omLZu+AreHNoPu9K/Q/jlHuvimnvmHzArMeR7AaOUt4SP3Ts/U30hYqPyoGGTli6AJe3gqz0bSXDIVKcK2pe5X+p5DIzoiXeNu2jB5/uZTemxofWX6G2i1uLfQ8vta81pH//M+3pYbvToW6M9Kx879FSBlhbkYtmiGgsYeKBx+u+mDSb59WOoBKSq7IR0hvfvczdmxY4zbHAdPiPcSsxg5Ew5GW6NL5OBh5JEUC5pSTY8uvSHi4ZqgWsoE7yREl5T7kXGS2GUfUs9F0/K3VKkwOID+bvgJid34EGGOB3N31l/305fQVw32TxWQI77E1cAXmvT8aAu6PeJC9MNlRIqeyK04HRXORHBunc3TI6Zb+J52LUpo30nKn0p05wMMTMau7UUVKfV54MlLJ3uDoY4LYqpOR6z0YfUHnX3vOLx98as0jNQkPMLxHmTRw==;cudTU3VlXahKve5nxhPmXA=="

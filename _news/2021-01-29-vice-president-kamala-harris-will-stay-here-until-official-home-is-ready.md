@@ -521,6 +521,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Biden's pre-Super Bowl interview"
+    excerpt: "President Joe Biden sits down with \"CBS Evening News\" anchor and managing editor Norah O'Donnell ahead of Super Bowl LV for his first network interview since taking office."
+    publishedDateTime: 2021-02-09T02:24:00Z
+    webUrl: "https://www.cbsnews.com/video/president-bidens-pre-super-bowl-interview/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/08/c0531ce1-387e-4e06-a8ce-817d2f96356c/thumbnail/1200x630/d94dc0a7f6a5d23edc58d0b23e38f136/0208-norahbiden-extended-intv-642216-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
     excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
     publishedDateTime: 2020-12-30T13:58:00Z
@@ -923,6 +937,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/28/PPHX/f380eccd-863a-40d8-8e5d-5da5d953f1c5-01Z_5160.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Twitter Reacts To Kamala Harris' Stairs Cardio Workout, Concerned About Secret Service Agent"
+    excerpt: "Vice President Kamala Harris was spotted working out and running up and down the stairs at the Lincoln Memorial over the weekend."
+    publishedDateTime: 2021-02-09T00:28:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-kamala-harris-stairs-cardio-workout-concerned-about-secret-service-3140696"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-kamala-harris-stairs-cardio-workout-concerned-about-secret-service-3140696?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-kamala-harris-stairs-cardio-workout-concerned-about-secret-service-3140696?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
+        width: 1024
+        height: 736
         isCached: true
   - title: "Vice President Kamala Harris: White House wants to accelerate COVID-19 vaccinations in Arizona"
     excerpt: "\"We have big problems right now, but we also have the ability to be bold with big solutions,\" Vice President Kamala Harris told The Arizona Republic."

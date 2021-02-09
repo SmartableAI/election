@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats unveil $3,000 child benefit as part of Biden relief package"
+    excerpt: "House Democratic leaders will unveil legislation Monday that would give millions of families at least $3,000 per child, advancing a key provision in President Joe Biden's $1.9 trillion Covid-19 relief package.\n    \n"
+    publishedDateTime: 2021-02-08T23:54:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w48PTebN1uY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/child-tax-credit-democrats-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/child-tax-credit-democrats-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204172900-01-us-capitol-snow-0201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tech problems kick off Biden administration's first virtual Covid briefing"
     excerpt: "The first Covid-19 briefing of the Biden administration got off to an unfortunate start on Wednesday with multiple technical difficulties. The administration has repeatedly touted their transparency amid the enormous undertaking of getting the pandemic under control, but the briefing, which was conducted"
     publishedDateTime: 2021-01-27T16:39:11Z

@@ -645,6 +645,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "What to Know About Trump’s Second Impeachment Trial"
+    excerpt: "The same Senate chamber that was overrun by insurrectionists will be, starting on Feb. 9, the somber court for Donald Trump’s impeachment trial, as senators weigh making him the first president ..."
+    publishedDateTime: 2021-01-22T19:49:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-22/how-this-trump-impeachment-trial-compares-with-first-quicktake"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihw7eGDBjoPI/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "House rushes to impeach Trump after Pence says he won’t invoke 25th Amendment"
     excerpt: "Already scheduled to leave office next week, Trump is on the verge of becoming the only president in history to be twice impeached."
     publishedDateTime: 2021-01-13T10:05:00Z

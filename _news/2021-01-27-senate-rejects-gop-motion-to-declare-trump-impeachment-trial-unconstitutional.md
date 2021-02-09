@@ -335,6 +335,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "How Donald Trump's Second Impeachment Trial Will Be Different From His First"
+    excerpt: "Donald Trump made history in the days before his White House departure by becoming the only president to ever be impeached twice. Now, his upcoming trial in the Senate will be just as unprecedented."
+    publishedDateTime: 2021-01-25T22:24:00Z
+    webUrl: "https://www.newsweek.com/how-donald-trumps-second-impeachment-trial-will-different-his-first-1564269"
+    ampWebUrl: "https://www.newsweek.com/how-donald-trumps-second-impeachment-trial-will-different-his-first-1564269?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-donald-trumps-second-impeachment-trial-will-different-his-first-1564269?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1715660/ex-president-donald-trump-air-force-one.jpg"
+        width: 2500
+        height: 1494
+        isCached: true
   - title: "House Speaker Nancy Pelosi says she'll send Trump impeachment to Senate 'soon'"
     excerpt: "House Speaker Nancy Pelosi said Thursday she would \"soon\" send the Senate the impeachment of President Donald Trump, setting the stage for a trial."
     publishedDateTime: 2021-01-21T18:34:00Z

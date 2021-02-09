@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impea
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-lawyer-impeachment-case-undemocratic-20210202-gkgp2lqf7fbxzidwhnmm7htxky-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 385
+heat: 425
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f53e10ada477be2183e26f567e2cac2af4414528/271_94_5297_3178/master/5297.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fb527600bf70b7acda51a2517a391f50"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump lawyers blast Democrats before impeachment trial, deny he incited Capitol riot"
+    excerpt: "Lawyers for Donald Trump in a legal memo denied that he incited the deadly riot at the U.S. Capitol and accused Democrats of \"political opportunism.\" The brief came a day before Trump's historic second impeachment trial was set to begin in the Senate."
+    publishedDateTime: 2021-02-09T02:22:00Z
+    webUrl: "https://www.cnbc.com/2021/02/08/trump-lawyers-blast-democrats-before-impeachment-trial-deny-he-incited-capitol-riot.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/08/trump-lawyers-blast-democrats-before-impeachment-trial-deny-he-incited-capitol-riot.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/08/trump-lawyers-blast-democrats-before-impeachment-trial-deny-he-incited-capitol-riot.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 118
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106825621-1610754561730-zzz.jpg?v=1612800139"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Trump lawyers to file pretrial documents with U.S. Senate in preview of impeachment defense"
     excerpt: "Former President Donald Trump faces a deadline on Tuesday to respond to the U.S. House of Representatives' impeachment charging him with inciting insurrection in a fiery speech to supporters before last month's deadly assault on the Capitol."
@@ -224,6 +240,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Scholar Says Trump's Lawyers Misrepresented His Research in Preparing Impeachment Defense"
+    excerpt: "A legal scholar cited by Donald Trump's lawyers in arguing that it is unconstitutional to have an impeachment trial for a former president said Trump's defense team misrepresented his work \"quite badly."
+    publishedDateTime: 2021-02-09T02:46:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-08/trump-faces-trial-filing-deadline-as-second-senate-impeachment-proceeding-looms"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-08/trump-faces-trial-filing-deadline-as-second-senate-impeachment-proceeding-looms?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-08/trump-faces-trial-filing-deadline-as-second-senate-impeachment-proceeding-looms?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
 
 secured: "fZrA/D60/s7pglwqvHsFOjsV6bAj8r1amWds04ZRPkXs/VZAgJmXNSaujC1xOnBMg0xg8WhTxOM05r59Gd063URSRym0NgCCl/KUJ+yCb1C46+QdmJKpoIXdkVhStKCatvSZaqmGLRxnzc/jzf0Jbh5dVyfIrCcvTcpuh2jOwYUieXP2zyJ2ezJMAs5SUmrdJqyMReZGv7b0q+lZAR3hewgmaXWTFDaJhDwwgH5onsBaaXXjqgEaX+D0NWyKyezciJRkxLOZjySGhmhAMym4QbAsLqo/fRL6bmMbOwAqasD4Nvvfaq9gQWHrW6RSaClFANbyg1Giqrd8YmIwnVbK4AsZDO0+nM2dAPs3ekTfekI=;sUSCtoJbz1dxTF6Ol/jCQQ=="
 ---

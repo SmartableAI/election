@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pe
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp"
 type: article
 quality: 140
-heat: 1240
+heat: 1260
 published: true
 
 provider:
@@ -645,6 +645,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/23/77f694f7-f76e-44d9-90c4-cc9f4642476e/thumbnail/1200x630/4a106b603296320ab48f3d4f63d69310/cbsn-fusion-democrats-agree-to-delay-trump-impeachment-trial-thumbnail-631908-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "What to Know About Trump’s Second Impeachment Trial"
+    excerpt: "The same Senate chamber that was overrun by insurrectionists will be, starting on Feb. 9, the somber court for Donald Trump’s impeachment trial, as senators weigh making him the first president ..."
+    publishedDateTime: 2021-01-22T19:49:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-22/how-this-trump-impeachment-trial-compares-with-first-quicktake"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihw7eGDBjoPI/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "House rushes to impeach Trump after Pence says he won’t invoke 25th Amendment"
     excerpt: "Already scheduled to leave office next week, Trump is on the verge of becoming the only president in history to be twice impeached."
