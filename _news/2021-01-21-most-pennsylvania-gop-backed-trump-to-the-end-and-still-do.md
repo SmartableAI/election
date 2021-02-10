@@ -549,6 +549,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "The great GOP crack up: Mitch McConnell is still scrambling to lead Donald Trump's Republican Party"
+    excerpt: "Perhaps they were exhausted from all the excitement of witnessing a historic violent insurrection or maybe they are just aimless without former President Donald Trump's Twitter feed to guide them."
+    publishedDateTime: 2021-01-25T13:54:00Z
+    webUrl: "https://www.salon.com/2021/01/25/the-great-gop-crack-up-mitch-mcconnell-scrambles-to-lead-donald-trumps-republican-party/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 41
+    images:
+      - url: "https://media.salon.com/2017/07/trump-mcconnell2.jpg"
+        width: 620
+        height: 412
+        isCached: true
 
 secured: "dZmRvtjGd37ZNtVR7k1dxisGEPmYK/pA9ONHUPJTB0p2q1YUcvjM1G7qLNW2x88jXCGyD3aivdIqfuJMMQ4pbL02OsMgvfbBKe/UuMK30JhSCk/e4SrqH0DLJ3lRDO1In3u+mnoVe7eSB11oC1wmZaJ+z95tvfNOyFmVFVC7RBmhDP3+swz7SFlRORauPI+Ia0U5JgEIpDJFwggRDtFlEzHqywsk0Ubzped2GpYO3ewYECqGqxStowypuvlHNBr22E4iAXBQJoEbBHw3ZsCyRWInK4NqhdiRg1+S4tRX2y4JU5KwzdYJb/jldINeMSeo16XsboMzL/pOZuDcDesRWzlA6LX5D3Z/U3VO+IR0G/M=;+Q6Aeiq4LTPnWsJwbSi8VQ=="
 ---

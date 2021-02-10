@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/senate-approves-pete-buttigieg-as-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-approves-pete-buttigieg-as-bidens-transportation-secretary.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ae5c1f0-8aef-40be-9fea-75f03468f27b/1debc5d6-d078-46de-9f47-6bf7d11c7774/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden AG pick to face Senate panel hearings this month: LIVE UPDATES"
+    excerpt: "Merrick Garland, President Biden’s nominee for U.S. attorney general is scheduled to face confirmation hearings on Feb. 22 and 23, according to reports."
+    publishedDateTime: 2021-02-10T06:08:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YyVxvs0SgTA/biden-live-updates-2-10-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-live-updates-2-10-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-live-updates-2-10-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6d7b1e8-4a30-4fea-b031-0a2ce9f3ec49/b32f667e-0ba2-4230-83ef-9e156e828214/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

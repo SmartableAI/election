@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden AG pick to face Senate panel hearings this month: LIVE UPDATES"
+    excerpt: "Merrick Garland, President Biden’s nominee for U.S. attorney general is scheduled to face confirmation hearings on Feb. 22 and 23, according to reports."
+    publishedDateTime: 2021-02-10T06:08:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YyVxvs0SgTA/biden-live-updates-2-10-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-live-updates-2-10-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-live-updates-2-10-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6d7b1e8-4a30-4fea-b031-0a2ce9f3ec49/b32f667e-0ba2-4230-83ef-9e156e828214/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Psaki says Biden wants schools open, but won't commit to standing up to union obstruction"
     excerpt: "White House press secretary Jen Psaki on Thursday reiterated that President Biden wants to see children back in classrooms, but would not commit to standing up to unions if forced to choose between the prolific Democratic donors and reopening schools."
     publishedDateTime: 2021-02-04T19:37:33Z

@@ -541,6 +541,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "The great GOP crack up: Mitch McConnell is still scrambling to lead Donald Trump's Republican Party"
+    excerpt: "Perhaps they were exhausted from all the excitement of witnessing a historic violent insurrection or maybe they are just aimless without former President Donald Trump's Twitter feed to guide them."
+    publishedDateTime: 2021-01-25T13:54:00Z
+    webUrl: "https://www.salon.com/2021/01/25/the-great-gop-crack-up-mitch-mcconnell-scrambles-to-lead-donald-trumps-republican-party/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 41
+    images:
+      - url: "https://media.salon.com/2017/07/trump-mcconnell2.jpg"
+        width: 620
+        height: 412
+        isCached: true
   - title: "Most Pennsylvania GOP Backed Trump to the End, and Still Do"
     excerpt: "With Donald Trump out of the White House, Pennsylvania’s Republican Party shows no sign of walking away from a president who lost control of Congress, carried out an unprecedented campaign to overturn an election and is blamed by some in his party for inciting a violent assault on the country’s democracy."
     publishedDateTime: 2021-01-21T12:14:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-nominate-merrick-garland-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-merrick-garland-for-attorney-general-sources.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Merrick-Garland-Biden-attorney-general-nominee-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden AG pick Merrick Garland to face Senate panel hearings Feb. 22-23"
+    excerpt: "Confirmation hearings have been scheduled for Feb. 22 and 23 for Merrick Garland, President Biden’s nominee to be U.S. attorney general, according to reports."
+    publishedDateTime: 2021-02-10T05:24:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i4rSUAJwFPM/biden-ag-pick-merrick-garland-to-face-senate-panel-hearing-feb-22-23"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ag-pick-merrick-garland-to-face-senate-panel-hearing-feb-22-23.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ag-pick-merrick-garland-to-face-senate-panel-hearing-feb-22-23.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/hunter-biden-Merrick-Garland.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

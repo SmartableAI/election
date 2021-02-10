@@ -429,6 +429,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Senate agrees Trump impeachment trial is constitutional: TRUMP IMPEACHMENT TRIAL LIVE UPDATES"
+    excerpt: "A handful of GOP senators crossed party lines on Tuesday by voting to affirm the constitutionality of the impeachment trial."
+    publishedDateTime: 2021-02-10T06:08:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHqKtOit82c/trump-impeachment-live-updates-2-10-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-live-updates-2-10-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-live-updates-2-10-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8a6d390-3cee-453e-822e-8ff03dc0b916/93bfc5d7-0962-462d-8fae-65156d1439bb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Law prof claims Trump lawyers 'badly' misrepresented his views when citing impeachment article"
     excerpt: "A Michigan State University law professor claims that former President Donald Trump’s legal team took him out of context when citing his work in their impeachment trial memorandum."
     publishedDateTime: 2021-02-08T20:49:57Z
@@ -859,6 +875,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "GOP Senators Pan Performance of Trump Impeachment Team"
+    excerpt: "Republicans offered harsh assessments of the former president’s team, while many praised the Democrats’ lead manager, Rep. Jamie Raskin of Maryland, as well-prepared and impassioned."
+    publishedDateTime: 2021-02-10T06:38:00Z
+    webUrl: "https://www.wsj.com/articles/gop-senators-pan-performance-of-trump-impeachment-team-11612921087"
+    ampWebUrl: "https://www.wsj.com/amp/articles/gop-senators-pan-performance-of-trump-impeachment-team-11612921087"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gop-senators-pan-performance-of-trump-impeachment-team-11612921087"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-297256/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump denies inciting Capitol riot, says Senate can’t hold impeachment trial"
     excerpt: "Former President Donald Trump denied Tuesday that he encouraged his supporters to storm the US Capitol last month — and argued that the Senate doesn’t have the authority to hold a"
     publishedDateTime: 2021-02-02T20:07:00Z
@@ -1026,6 +1058,20 @@ related:
     quality: 115
     images:
       - url: "https://images.wsj.net/im-296233/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Lawyers Call Second Impeachment Trial 'Political Theater' — Live Updates"
+    excerpt: "Live analysis of the second impeachment trial of former President Donald Trump, which is set to begin on Tuesday."
+    publishedDateTime: 2021-02-10T06:06:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-08"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 111
+    images:
+      - url: "https://images.wsj.net/im-296455/social"
         width: 1280
         height: 640
         isCached: true

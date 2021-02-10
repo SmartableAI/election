@@ -1039,6 +1039,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Legal scrutiny of Donald Trump intensifies post presidency"
+    excerpt: "Former President Donald Trump faces growing legal scrutiny of his conduct in the aftermath of the 2020 election and of his business practices before taking office."
+    publishedDateTime: 2021-02-10T01:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/legal-scrutiny-donald-trump-intensifies-post-presidency/story?id=75708736"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/legal-scrutiny-donald-trump-intensifies-post-presidency/story?id=75708736"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/legal-scrutiny-donald-trump-intensifies-post-presidency/story?id=75708736"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-gty-jt-210208_1612813831253_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Managers present dramatic new video of mob at Trump impeachment trial"
     excerpt: "House impeachment managers showed a dramatic new video of the mob storming the Capitol in the opening minutes of President Trump's impeachment trial, as Democrats look to make the case that Trump must"
     publishedDateTime: 2021-02-09T18:50:00Z
@@ -1057,8 +1073,8 @@ related:
         isCached: true
   - title: "Second impeachment trial of Donald Trump begins in US Senate – live"
     excerpt: "Senate will hear arguments from the impeachment managers and the former president’s defense team over the next several days"
-    publishedDateTime: 2021-02-09T18:08:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6022cc778f081476baec4f7c"
+    publishedDateTime: 2021-02-09T20:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6022e3838f08add483193cb1"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/09/donald-trump-impeachment-senate-trial-live-news-updates"
     type: article
@@ -1470,6 +1486,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YFJWMYDFSAI6XDDESWKYRDFKCU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Senators vote to proceed with Trump's impeachment trial, but conviction may prove elusive"
+    excerpt: "A divided U.S. Senate voted largely along party lines on Tuesday to move ahead with Donald Trump's impeachment trial on a charge of inciting the deadly assault on the Capitol, but conviction appears unlikely barring a major shift among Republicans."
+    publishedDateTime: 2021-02-10T06:59:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-idAFKBN2A91DZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2A91DZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2A91DZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210210&t=2&i=1550965896&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1902T"
+        width: 819
+        height: 545
         isCached: true
   - title: "Facing a post-Trump world, abortion opponents at March for Life strike a less partisan tone"
     excerpt: "Abortion opponents began facing the post-Trump world Friday at the annual March for Life, divided over whether the past president helped or harmed their cause and shifting towards less partisan language than in the recent past."
@@ -2336,6 +2368,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-08/us-moves-to-rejoin-un-rights-council-reversing-trump-anew?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Senators to Hear Opening Arguments as Trump Fumes Over Trial"
+    excerpt: "Opening arguments will begin in Donald Trump's impeachment trial after an emotional first day ended with the Senate voting to hear the case for convicting the former president of inciting the riot at the U."
+    publishedDateTime: 2021-02-10T06:01:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-10/senators-to-hear-opening-arguments-as-trump-fumes-over-trial?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

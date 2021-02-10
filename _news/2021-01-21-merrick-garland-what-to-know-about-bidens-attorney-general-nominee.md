@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden AG pick Merrick Garland to face Senate panel hearings Feb. 22-23"
+    excerpt: "Confirmation hearings have been scheduled for Feb. 22 and 23 for Merrick Garland, President Biden’s nominee to be U.S. attorney general, according to reports."
+    publishedDateTime: 2021-02-10T05:24:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i4rSUAJwFPM/biden-ag-pick-merrick-garland-to-face-senate-panel-hearing-feb-22-23"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ag-pick-merrick-garland-to-face-senate-panel-hearing-feb-22-23.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ag-pick-merrick-garland-to-face-senate-panel-hearing-feb-22-23.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/hunter-biden-Merrick-Garland.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden nominates Judge Merrick Garland as attorney general, names other key DOJ picks"
     excerpt: "President-elect Joe Biden on Thursday formally announced he will nominate Judge Merrick Garland as his attorney general, as well as other key nominations to the Justice Department."
     publishedDateTime: 2021-01-07T11:58:20Z

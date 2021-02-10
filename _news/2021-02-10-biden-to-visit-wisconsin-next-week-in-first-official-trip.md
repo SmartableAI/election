@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Biden to visit Wisconsin next week in first official trip"
-excerpt: "President Joe Biden will visit Wisconsin next week for his first official trip as president beyond his home state of Delaware."
-publishedDateTime: 2021-02-09T21:45:00Z
-originalUrl: "https://www.businessinsider.com/biden-to-visit-wisconsin-next-week-in-first-official-trip-2021-2"
-webUrl: "https://www.businessinsider.com/biden-to-visit-wisconsin-next-week-in-first-official-trip-2021-2"
-ampWebUrl: "https://www.businessinsider.com/biden-to-visit-wisconsin-next-week-in-first-official-trip-2021-2?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-visit-wisconsin-next-week-in-first-official-trip-2021-2?amp"
+excerpt: "President Joe Biden will visit Wisconsin next week for his first official trip as president, participating in a TV town hall from Milwaukee. Biden will take questions at a socially-distanced, invitation-only event hosted by CNN Tuesday night,"
+publishedDateTime: 2021-02-09T22:24:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-wisconsin-week-official-trip-75778202"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-wisconsin-week-official-trip-75778202"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-visit-wisconsin-week-official-trip-75778202"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-visit-wisconsin-week-official-trip-75778202"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_ce2f7a17b4194853b70834ef5be98d74_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden gives Calif. woman pep talk in weekly address revival"
@@ -58,6 +64,6 @@ related:
         height: 545
         isCached: true
 
-secured: "cEZUBsT92T0lmjMMM1D0AQPL6UmXoVE8KpaWRpGkXOc6SlikE+V9LMn9/k4TGTm9yVnujo5BLRBR/+sfEgK0Kk845deA0KUIVDZTxyl+Di55ktdUSAqqkAUNbLfxHr4iCh18HMJJtBeVYYuJvihZsafZl2sM1Ch+iGZJVmzZO3jatEQuuN8BAtnjfHeZAMJZ/ZnAeUj52Zfi22HtatLt0Vh3gPDSCK2FKu9KriIlLvJL2fBKFJ5B8qiHRtsJ8I7LGLHkTn1l8vybGcdBLwCviUboM8M8fYbgr/7X8dR7UOeH/aDV2U6FRNtaC5XWvS9GWv3mDMAyWgUs4TfLeju/qIaSP0IjcqokKJ9spm7YnjA=;DsCy8J9p1DVV4MVbqZ7lcw=="
+secured: "RxqVbgwJOohYBhslsL8lnGt7RAzwtv+wqzt974vRhetwRh9DPSFqluiEwOx4ip7DG8MlszCEd8LwOvmqroO8gt5PdUA25/u0maHXlowhUwiF5aeUYc7aApFIu79TdfcZUTsOkFWMgVIeMAGr8yeCzMFL0jq2nfbIQBiZyHH2gTKIGuz8couB+EOdxAoChlXjA3eO3M6sQ24sh2oo4Rfuq46k+UXm8hpSFBV0XvJVFBnQdvBrsPmzDCqbkrw6/zb1T4SQ74RhZxFQCf3ZNvNS4RsLy01DT85UXgKc5yB+/EVa/wcTCNiEZRPDlcs4JYLGmdvKGpW2/nylzDuad1Xb0DZ/9Usd4Wc23YMmU6wm3Vc=;c4GL3xYmvyUrhN185vF2xw=="
 ---
 
